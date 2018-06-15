@@ -1013,7 +1013,6 @@ Bit ανά δείγμα"</string>
     <string name="power_remaining_charging_duration_only">Απομένουν %1$s έως την πλήρη φόρτιση</string>
     <string name="power_remaining_duration_only">Απομένουν περίπου %1$s</string>
     <string name="power_remaining_duration_only_short">Απομένει/ουν %1$s</string>
-    <string name="process_kernel_label">Λειτουργικό σύστημα Android</string>
     <string name="profile_owned_footer">Το προφίλ ενδέχεται να παρακολουθείται</string>
     <string name="prompt_danger">Κίνδυνος</string>
     <string name="prompt_detecting">Γίνεται εντοπισμός</string>

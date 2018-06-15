@@ -19,7 +19,6 @@
     <string name="abc_shareactionprovider_share_with">Κοινή χρήση με</string>
     <string name="abc_shareactionprovider_share_with_application">Κοινή χρήση με %s</string>
     <string name="abc_toolbar_collapse_description">Σύμπτυξη</string>
-    <string name="status_bar_notification_info_overflow">999+</string>
     <string name="passport_access_denied">Απορρίφθηκε η πρόσβαση</string>
     <string name="passport_account_hint_text">Διεύθυνση email, αριθμός τηλεφώνου ή ID Mi λογαριασμού</string>
     <string name="passport_account_identity_title">Επαληθεύστε την ταυτότητα σας</string>
