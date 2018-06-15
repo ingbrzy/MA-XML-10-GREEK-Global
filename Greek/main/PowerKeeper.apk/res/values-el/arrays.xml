@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="hmode_app_groups">
+        <item>Προσαρμογή</item>
+        <item>Εξοικονόμηση Μπαταρίας</item>
+    </string-array>
+    <string-array name="thermal_entries">
+        <item>Προεπιλεγμένη λειτουργία ελέγχου θερμοκρασίας</item>
+        <item>Λειτουργία απόδοσης</item>
+    </string-array>
+    <string-array name="thermal_summaries">
+        <item>Τρέχουσα λειτουργία ελέγχου θερμοκρασίας</item>
+        <item>Τρέχουσα λειτουργία απόδοσης</item>
+    </string-array>
+    <string-array name="power_mode_entries">
+        <item>Απόδοση</item>
+        <item>Ισορροπημένη</item>
+    </string-array>
+</resources>

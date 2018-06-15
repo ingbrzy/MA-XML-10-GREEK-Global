@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="notif_receive_cancel">
+        <item quantity="other">Ακυρώθηκε η μεταφορά από %1$s</item>
+        <item quantity="one">Ακυρώθηκε η μεταφορά από %1$s</item>
+    </plurals>
+    <plurals name="notif_receive_progress">
+        <item quantity="other">Γίνεται λήψη %1$s αρχείων…</item>
+        <item quantity="one">Γίνεται λήψη %1$s αρχείου…</item>
+    </plurals>
+    <plurals name="notif_receive_success">
+        <item quantity="other">Επιτυχής λήψη αρχείων από %1$s</item>
+        <item quantity="one">Επιτυχής λήψη αρχείου από %1$s</item>
+    </plurals>
+    <plurals name="receiver_file_num">
+        <item quantity="other">%2$d αρχεία από %1$s</item>
+        <item quantity="one">%2$d αρχείο από %1$s</item>
+    </plurals>
+    <plurals name="sender_file_num">
+        <item quantity="other">%1$d αντικείμενα</item>
+        <item quantity="one">%1$d αντικείμενο</item>
+    </plurals>
+</resources>

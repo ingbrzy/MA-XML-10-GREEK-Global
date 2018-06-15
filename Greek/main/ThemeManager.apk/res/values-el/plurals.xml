@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="theme_batch_has_update_text">
+        <item quantity="other">Διαθέσιμες ενημερώσεις για %1$d θέματα.</item>
+        <item quantity="one">Διαθέσιμη ενημέρωση για %1$d θέμα.</item>
+    </plurals>
+    <plurals name="theme_update_local_resource_notifaction">
+        <item quantity="other">Διαθέσιμες ενημερώσεις για %1$d θέματα</item>
+        <item quantity="one">Διαθέσιμη ενημέρωση για %1$d θέμα</item>
+    </plurals>
+</resources>
