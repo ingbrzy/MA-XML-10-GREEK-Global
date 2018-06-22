@@ -570,7 +570,6 @@
     <string name="kg_reordering_delete_drop_target_text">Κατάργηση</string>
     <string name="kg_sim_pin_instructions">Εισαγωγή PIN SIM</string>
     <string name="kg_sim_unlock_progress_dialog_message">Ξεκλείδωμα κάρτας SIM...</string>
-    <string name="kg_text_message_separator">" — "</string>
     <string name="kg_too_many_failed_attempts_countdown">Δοκιμάστε ξανά σε %1$d δευτερόλεπτα.</string>
     <string name="kg_too_many_failed_password_attempts_dialog_message">"Έχετε πληκτρολογήσει τον κωδικό πρόσβασης εσφαλμένα %1$d φορές. 
 
