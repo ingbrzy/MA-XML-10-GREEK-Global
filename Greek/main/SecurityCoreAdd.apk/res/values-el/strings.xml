@@ -82,7 +82,7 @@
     <string name="xspace_install_failed">Αδυναμία δημιουργίας</string>
     <string name="xspace_uninstalling">Γίνεται απεγκατάσταση…</string>
     <string name="xspace_install_completed">Έγινε προσθήκη εικονιδίου στην Αρχική οθόνη</string>
-    <string name="xspace_install_completed_global">Icon added to drawer</string>
+    <string name="xspace_install_completed_global">Προστέθηκε εικονίδιο στο συρτάρι</string>
     <string name="xspace_uninstall_completed">Επιτυχής απεγκατάσταση διπλότυπης εφαρμογής</string>
     <string name="xspace_uninstall_dialog_title">Απεγκατάσταση διπλότυπης εφαρμογής</string>
     <string name="xspace_uninstall_dialog_content">Η απεγκατάσταση διπλότυπης εφαρμογής θα διαγράψει όλα τα δεδομένα της εφαρμογής.</string>
@@ -289,7 +289,7 @@
     <string name="xspace_weixin_title">WeChat</string>
     <string name="weixin_pay">WeChat Pay</string>
     <string name="weixin_share_sign">Σύνδεση και κοινοποίηση</string>
-    <string name="use_xiaoai_open">Wake using voice assistant</string>
+    <string name="use_xiaoai_open">Ενεργοποίηση με βοηθό φωνής</string>
     <string name="xspace_weibo_title">Weibo</string>
     <string name="weibo_send">Αποστολή σε Weibo</string>
     <string name="xspace_qq_title">QQ</string>

@@ -4,6 +4,7 @@
     <string name="passport_notification_title">Πρόβλημα σύνδεσης για %1$s</string>
     <string name="passport_login_prompt">Ένας λογαριασμός Mi. Όλες οι υπηρεσίες Mi.</string>
     <string name="passport_login_using_other_ways">Άλλοι τρόποι σύνδεσης</string>
+    <string name="passport_register_using_other_ways">Άλλοι τρόποι δημιουργίας λογαριασμού</string>
     <string name="passport_login_title">Συνδεθείτε στο Mi Λογαριασμό σας</string>
     <string name="passport_login">Σύνδεση</string>
     <string name="passport_relogin">Συνδεθείτε ξανά</string>
@@ -27,6 +28,7 @@
     <string name="passport_reg_success_summary">%1$s έχει συσχετιστεί με το λογαριασμό σας. Μπορείτε να το χρησιμοποιήσετε για να συνδεθείτε ή για να επαναφέρετε τον κωδικό πρόσβασης σας.</string>
     <string name="passport_re_register">Συνδεθείτε ξανά</string>
     <string name="passport_register">Δημιουργία λογαριασμού</string>
+    <string name="passport_new_user_register">Δημιουργία λογαριασμού</string>
     <string name="passport_vcode_sms_send_prompt">Αποστολή κωδικού επαλήθευσης σε %s</string>
     <string name="passport_get_verify_code">Απόκτηση κωδικού</string>
     <string name="passport_re_get_verify_code">Απόκτηση κωδικού ξανά</string>
@@ -72,6 +74,7 @@
     <string name="passport_skip_register">Παράλειψη εγγραφής</string>
     <string name="passport_account_not_activated">Ο λογαριασμός δεν ενεργοποιήθηκε</string>
     <string name="passport_change_account"><u>Αλλαγή λογαριασμού</u></string>
+    <string name="passport_btn_change_account">Αλλαγή λογαριασμού</string>
     <string name="passport_register_account_verified_confirm">Ο λογαριασμός επαληθεύτηκε</string>
     <string name="passport_register_account_goto_email">Μεταβείτε στα εισερχόμενα</string>
     <string name="passport_error_dup_email">Το email που εισαγάγατε συσχετίζεται ήδη με έναν άλλο λογαριασμό.</string>
@@ -91,6 +94,7 @@
     <string name="passport_input_password_hint">Εισαγωγή κωδικού</string>
     <string name="passport_input_captcha_hint">Εισαγωγή κωδικού</string>
     <string name="passport_input_vcode_hint">Εισαγωγή κωδικού επαλήθευσης</string>
+    <string name="passport_input_voice_hint">Εισαγάγετε κωδικό φωνής</string>
     <string name="passport_email">Διεύθυνση email</string>
     <string name="passport_vcode_prompt_long">Εισαγωγή κωδικού επαλήθευσης</string>
     <string name="passport_input_phone_hint">Εισαγωγή αριθμού</string>
@@ -104,6 +108,7 @@
     <string name="passport_error_empty_pwd">Εισαγωγή του κωδικού σας</string>
     <string name="passport_error_illegal_pwd">Μη έγκυρος κωδικός</string>
     <string name="passport_error_empty_captcha_code">Εισαγωγή captcha</string>
+    <string name="passport_error_empty_voice_code">Εισαγωγή captcha</string>
     <string name="passport_error_empty_vcode">Εισαγωγή κωδικού επαλήθευσης</string>
     <string name="passport_i_know">Κατάλαβα</string>
     <string name="passport_retry">Προσπαθήστε ξανά</string>
@@ -116,6 +121,7 @@
     <string name="passport_yes">Ναι</string>
     <string name="passport_no">Όχι</string>
     <string name="passport_continue">Συνέχεια</string>
+    <string name="passport_Resend">Επανάληψη αποστολής</string>
     <string name="passport_loading">Γίνεται φόρτωση…</string>
     <string name="passport_reging">Γίνεται δημιουργία λογαριασμού…</string>
     <string name="passport_checking_account">Γίνεται έλεγχος κωδικού…</string>
@@ -147,6 +153,7 @@
     <string name="passport_error_user_name">Το όνομα χρήστη που εισαγάγατε δεν είναι έγκυρο.</string>
     <string name="passport_access_denied">Απορρίφθηκε η πρόσβαση</string>
     <string name="passport_wrong_captcha">Ο κωδικός που εισαγάγατε είναι εσφαλμένος</string>
+    <string name="passport_wrong_voice">Ο κωδικός που πληκτρολογήσατε είναι λανθασμένος</string>
     <string name="passport_wrong_vcode">Ο κωδικός που εισαγάγατε είναι εσφαλμένος</string>
     <string name="passport_error_device_id">Αδυναμία ανάκτησης id συσκευής</string>
     <string name="passport_error_invalid_dev_id">Το ID της συσκευής σας δεν είναι έγκυρο.</string>
@@ -203,6 +210,12 @@
     <string name="passport_get_innetdate_agree">Έλεγχος</string>
     <string name="passport_get_innetdate_disagree">Όχι</string>
     <string name="passport_extra_gdpr_license">Με την δημιουργία του Mi Λογαριασμού σας αποδέχεστε ότι η Xiaomi θα συλλέγει, θα επεξεργάζεται, και θα χρησιμοποιεί τα προσωπικά σας δεδομένα, όπως δεδομένα επαλήθευσης (π.χ., κωδικούς επαλήθευσης), δεδομένα Δεύτερου χώρου (π.χ., πληροφορίες σχετικά με τους τρόπους που χρησιμοποιείτε τον Δεύτερο χώρο, IDs που χρησιμοποιούνται στον Πρώτο και Δεύτερο χώρο), και άλλα δεδομένα που αναφέρονται στην Πολιτική Απορρήτου μας. Αναφερθείτε στην Πολιτική Απορρήτου μας για να μάθετε πως επεξεργαζόμαστε και χρησιμοποιούμε προσωπικά δεδομένα.</string>
+    <string name="passport_talkback_image_captcha">Κωδικός επαλήθευσης εικόνας</string>
+    <string name="passport_talkback_voice_captcha">Αναπαραγωγή κωδικού επαλήθευσης φωνής</string>
+    <string name="passport_talkback_switch_voice_captcha">Εναλλαγή σε κωδικό επαλήθευσης φωνής</string>
+    <string name="passport_talkback_switch_image_captcha">Εναλλαγή σε κωδικό επαλήθευσης εικόνας</string>
+    <string name="passport_license_info_open">Λεπτομέρειες</string>
+    <string name="passport_license_info_collapse">Κλείσιμο</string>
     <string name="search_app_name">Mi Λογαριασμός</string>
     <string name="search_mi_account">Mi Λογαριασμός</string>
     <string name="search_mi_account_key_words">Mi Cloud,Ρύθμιση Λογαριασμού,Πληροφορίες για Mi Πληρωμή,Αποσύνδεση</string>
@@ -334,7 +347,7 @@
     <string name="account_user_details">Προσωπικές πληροφορίες</string>
     <string name="account_security">Ασφάλεια λογαριασμού</string>
     <string name="account_mibi_center">Mi Μονάδες</string>
-    <string name="account_mibi_charge">Mi Credits Charge</string>
+    <string name="account_mibi_charge">Ανανέωση</string>
     <string name="account_mipay_info">Mi Πληρωμή</string>
     <string name="account_xiaomi_service">Υπηρεσίες</string>
     <string name="cloud_service">Mi Cloud</string>

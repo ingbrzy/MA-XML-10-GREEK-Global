@@ -32,10 +32,12 @@
     <string name="pref_front_mirror_title">Καθρεπτισμός εμπρόσθιας κάμερας</string>
     <string name="pref_video_quality_title">Ποιότητα βίντεο</string>
     <string name="pref_video_hfr_title">Βίντεο HFR</string>
-    <string name="pref_video_quality_entry_4kuhd">UHD 4K</string>
-    <string name="pref_video_quality_entry_1080p">FHD 1080P</string>
-    <string name="pref_video_quality_entry_720p">HD 720P</string>
-    <string name="pref_video_quality_entry_480p">SD 480P</string>
+    <string name="pref_video_quality_entry_4kuhd">UHD 4K, 30fps</string>
+    <string name="pref_video_quality_entry_4kuhd_60fps">UHD 4K, 60fps</string>
+    <string name="pref_video_quality_entry_1080p">FHD 1080P, 30fps</string>
+    <string name="pref_video_quality_entry_1080p_60fps">FHD 1080P, 60fps</string>
+    <string name="pref_video_quality_entry_720p">HD 720P, 30fps</string>
+    <string name="pref_video_quality_entry_480p">SD 480P, 30fps</string>
     <string name="pref_video_encoder_title">Κωδικοποιητής βίντεο</string>
     <string name="pref_video_encoder_entry_h264">H.264 Υψηλή συμβατότητα</string>
     <string name="pref_video_encoder_entry_h265">H.265 Υψηλή απόδοση</string>
@@ -409,7 +411,7 @@
     <string name="dual_camera_lens_covered_toast">Ο φακός είναι καλλυμένος.</string>
     <string name="dual_camera_use_hint">Βεβαιωθείτε πως το αντικείμενο δεν είναι μακρύτερα από 2 μέτρα.</string>
     <string name="bokeh_use_hint">Εφέ βάθους</string>
-    <string name="back_bokeh_use_hint">"Make sure the object isn't further than 1.5 meters."</string>
+    <string name="back_bokeh_use_hint">Βεβαιωθείτε πως το αντικείμενο δεν είναι μακρύτερα από 1.5 μέτρα.</string>
     <string name="pref_camera_zoom_ratio_wide">100</string>
     <string name="pref_camera_zoom_ratio_tele">200</string>
     <string name="pref_camera_zoom_mode_title">ΦΑΚΟΣ</string>
@@ -427,6 +429,7 @@
     <string name="portrait_mode_depth_effect_success_hint">Εφέ βάθους</string>
     <string name="portrait_mode_use_hint">"Η λειτουργία πορτρέτου θολώνει το παρασκήνιο
 και επικεντρώνεται στα άτομα μπροστά."</string>
+    <string name="portrait_mode_use_hint_with_switch">@string/portrait_mode_use_hint</string>
     <string name="pref_camera_square_mode_title">Τετράγωνο</string>
     <string name="simple_mode_button_text_square">Απενεργοποίηση Τετραγώνου</string>
     <string name="face_beauty_smart">Έξυπνο</string>
@@ -441,6 +444,7 @@
     <string name="pref_camera_beautify_entry_low">Χαμηλή</string>
     <string name="pref_camera_beautify_entry_normal">Μεσσαία</string>
     <string name="pref_camera_beautify_entry_high">Υψηλή</string>
+    <string name="pref_camera_beautify_entry_close">@string/face_beauty_close</string>
     <string name="camera_mode_options">Λειτουργίες</string>
     <string name="button_front_camera_title">Δημιουργία selfie</string>
     <string name="button_normal_video_title">Εγγραφή Video</string>
@@ -484,8 +488,8 @@
     <string name="config_name_super_resolution">Σούπερ ανάλυση</string>
     <string name="beauty_fragment_tab_name_beauty">Ωραιοποίηση</string>
     <string name="beauty_fragment_tab_name_makeup">Σύνθετα</string>
-    <string name="beauty_fragment_tab_name_3d_beauty">Beauty</string>
-    <string name="beauty_fragment_tab_name_3d_remodeling">Remodeling</string>
+    <string name="beauty_fragment_tab_name_3d_beauty">Ωραιοποίηση</string>
+    <string name="beauty_fragment_tab_name_3d_remodeling">Μοντελοποίηση</string>
     <string name="edit_skin_white">Τόνος</string>
     <string name="edit_skin_smooth">Απαλό</string>
     <string name="edit_eye_large">Μεγάλα μάτια</string>
@@ -528,11 +532,11 @@
 και βελτιστοποιεί τις φωτογραφίες σας βάση των πληροφοριών αυτών"</string>
     <string name="pref_camera_asd_popup_title">Ειδοποίηση όταν απαιτείται φλας</string>
     <string name="pref_video_captrue_ability_title">Λήψη εικόνας κατά την εγγραφή</string>
-    <string name="face_analyze_info">Age: %2$s (%1$s)</string>
-    <string name="pref_camera_picturesize_entry_standard">Standard 4:3</string>
-    <string name="pref_camera_picturesize_entry_fullscreen">Full screen 16:9</string>
-    <string name="lens_dirty_detected_title_back">Rear camera lens is dirty</string>
-    <string name="lens_dirty_detected_title_front">Front camera lens is dirty</string>
-    <string name="lens_dirty_detected_content">"It is detected that your camera lens is dirty,
-please clean your camera lens for better picture."</string>
+    <string name="face_analyze_info">Ηλικία: %2$s (%1$s)</string>
+    <string name="pref_camera_picturesize_entry_standard">Κανονικό 4:3</string>
+    <string name="pref_camera_picturesize_entry_fullscreen">Πλήρης οθόνη 16:9</string>
+    <string name="lens_dirty_detected_title_back">Ο φακός οπίσθιας κάμερας είναι βρόμικος</string>
+    <string name="lens_dirty_detected_title_front">Ο φακός εμπρόσθιας κάμερας είναι βρόμικος</string>
+    <string name="lens_dirty_detected_content">"Φαίνεται πως ο φακός κάμερας σας είναι βρόμικος.
+Καθαρίστε τον φακό για καλύτερο εφέ."</string>
 </resources>

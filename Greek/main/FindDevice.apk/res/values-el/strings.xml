@@ -21,7 +21,7 @@
     <string name="find_device_stop_noise">Πατήστε OK για σίγαση</string>
     <string name="find_device_noise_title">Ειδοποίηση για Εύρεση συσκευής</string>
     <string name="find_device_success_title">Εύρεση συσκευής</string>
-    <string name="find_device_notice">Go to&lt;br />&lt;b>&lt;font color=#e84700>i.mi.com&lt;/font>&lt;/b>&lt;br />to locate, lock, or restore your device.</string>
+    <string name="find_device_notice">Μεταβείτε στο&lt;br />&lt;b>&lt;font color=#e84700>i.mi.com&lt;/font>&lt;/b>&lt;br />για να εντοπίσετε, κλειδώσετε, ή να επαναφέρετε την συσκευή σας.</string>
     <string name="find_device_notice_sms_alert">Εάν αλλάξετε κάρτες SIM, ένα SMS μπορεί να σταλεί αυτόματα για την επανενεργοποίηση αυτής της λειτουργίας.</string>
     <string name="i_know">OK</string>
     <string name="unlock_error_network">Αδυναμία σύνδεσης σε δίκτυο</string>

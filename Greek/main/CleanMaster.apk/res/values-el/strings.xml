@@ -91,6 +91,7 @@
     <string name="hints_apk_header_left">Πακέτα</string>
     <string name="hints_residual_header_left">Κατάλοιπα</string>
     <string name="hints_memory_header_left">Μνήμη</string>
+    <string name="hints_header_left">%d</string>
     <string name="hints_large_file_header_left">Μεγάλα αρχεία: %d</string>
     <string name="hints_installed_apps_header_left">Εγκατεστημένες εφαρμογές: %d</string>
     <string name="toast_resolve_apk_error">Επίλυση apk σφάλματος</string>
@@ -167,7 +168,7 @@
     <string name="hints_quick_scanning">Γίνεται σάρωση…</string>
     <string name="hints_quick_cleanuping">Γίνεται βελτιστοποίηση…</string>
     <string name="hints_deepclean_scanning">Γίνεται σάρωση %s</string>
-    <string name="cache_title_system_cache">Data cache</string>
+    <string name="cache_title_system_cache">Cache δεδομένων</string>
     <string name="hints_storage_free">Δωρεάν</string>
     <string name="hints_storage_free_size">Συνολικά %1$s, %2$s διαθέσιμα</string>
     <string name="apps_sort_type_title">Ταξινόμηση</string>
@@ -298,6 +299,7 @@
     <string name="downloading">Γίνεται λήψη</string>
     <string name="installing">Γίνεται εγκατάσταση</string>
     <string name="start_install">Εγκατάσταση τώρα</string>
+    <string name="empty">" "</string>
     <string name="open_browser">Άνοιγμα στον φυλλομετρητή</string>
     <string name="title_share_link">Κοινοποίηση URL</string>
     <string name="connecting">Γίνεται σύνδεση…</string>
@@ -525,7 +527,7 @@
     <string name="tips_low_storage_dialog_ok_storage">Ελευθερώστε χώρο</string>
     <string name="tips_low_storage_dialog_ok">Εκκαθάριση</string>
     <string name="tips_low_storage_dialog_cancel">Ακύρωση</string>
-    <string name="wechat_msg_time_long">yyyy-MM-dd</string>
-    <string name="wechat_msg_time_short">MM-dd</string>
+    <string name="wechat_msg_time_long">dd-MM-yyyy</string>
+    <string name="wechat_msg_time_short">dd-MM</string>
     <string name="wechat_video_time">%1$s:%2$s</string>
 </resources>

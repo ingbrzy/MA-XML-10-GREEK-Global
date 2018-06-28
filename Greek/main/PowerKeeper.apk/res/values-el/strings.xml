@@ -25,7 +25,7 @@
     <string name="power_mode">Ρυθμίσεις μπαταρίας</string>
     <string name="performance_category">Απόδοση</string>
     <string name="pref_config_title">Βελτιστοποίηση απόδοσης</string>
-    <string name="app_preload_policies_title">AI pre-loading</string>
+    <string name="app_preload_policies_title">AI προφόρτιση</string>
     <string name="app_preload_policies_summary">Χρησιμοποιήστε την μηχανή εκμάθησης για πρόβλεψη εφαρμογών που είναι πιο πιθανό να χρησιμοποιήσετε, και για φόρτωση πηγών εκ των προτέρων.</string>
     <string name="scenario_policies_warmcontrol">Έλεγχος θερμοκρασίας</string>
     <string name="warm_configure">Ρυθμίσεις ελέγχου θερμοκρασίας</string>
@@ -80,7 +80,7 @@
     <string name="search_input_txt_na">"&lt;font color='#ff0000'>%s&lt;/font>"</string>
     <string name="search_result_text">Αδυναμία εύρεσης εφαρμογών</string>
     <string name="power_consume_abnormal_night">Η μπαταρία εξαντλείται το βράδυ</string>
-    <string name="enable_sleep_mode">Turn on Sleep mode to optimize battery usage at night</string>
+    <string name="enable_sleep_mode">Ενεργοποιήστε την λειτουργία Ύπνου για βελτιστοποίηση της κατανάλωσης μπαταρίας το βράδυ</string>
     <string name="sleepmode_privacy_title">Λειτουργία αδράνειας</string>
     <string name="sleepmode_privacy_content">Αυτή η λειτουργία θα χρησιμοποιήσει το σύστημα τηλεφώνου και τις πληροφορίες συσκευής σας. Δεν θα μεταφορτωθεί στους διακομιστές μας.</string>
     <string name="sleepmode_privacy_link">Μάθετε περισσότερα σχετικά με το απόρρητο και την ασφάλεια</string>

@@ -86,6 +86,7 @@
     <string name="accessibility_home">Αρχική</string>
     <string name="accessibility_ime_switch_button">Αλλαγή κουμπιού μεθόδου εισαγωγής.</string>
     <string name="accessibility_key">Προσαρμογή πλήκτρου πλοήγησης</string>
+    <string name="accessibility_location_active">Αιτήματα τοποθεσίας ενεργά</string>
     <string name="accessibility_managed_profile">Προφίλ εργασίας</string>
     <string name="accessibility_menu">Μενού</string>
     <string name="accessibility_multi_user_switch_inactive">Τρέχων χρήστης %s</string>
@@ -230,11 +231,13 @@
     <string name="activate_usb_message">Για ενεργοποίηση αυτής της λειτουργίας, εισαγάγετε την κάρτα SIM σας.</string>
     <string name="activate_usb_title">Ενεργοποίηση USB</string>
     <string name="active_input_method_subtypes">Ενεργές μέθοδοι εισαγωγής</string>
+    <string name="activity_launch_on_secondary_display_failed_text">Η εφαρμογή δεν υποστηρίζει την έναρξη σε δευτερεύουσες προβολές.</string>
     <string name="activity_not_found">Η εφαρμογή δεν έχει εγκατασταθεί στην συσκευή σας</string>
     <string name="adb_keys_warning_message">Ανάκληση πρόσβασης στον εντοπισμό σφαλμάτων USB από όλους τους υπολογιστές για τους οποίους είχατε εξουσιοδότηση στο παρελθόν;</string>
     <string name="adb_warning_message">Ο εντοπισμός σφαλμάτων USB προορίζεται μόνο για σκοπούς προγραμματισμού. Χρησιμοποιήστε τον για αντιγραφή δεδομένων μεταξύ του υπολογιστή και της συσκευής σας, για την εγκατάσταση εφαρμογών στη συσκευή σας χωρίς προειδοποίηση και για την ανάγνωση δεδομένων καταγραφής.</string>
     <string name="adb_warning_title">Να επιτρέπεται ο εντοπισμός σφαλμάτων USB;</string>
     <string name="add_tile">Προσθήκη τίτλου</string>
+    <string name="adjust_button_width">Προσαρμογή πλάτους πλήκτρου</string>
     <string name="airplane_mode">Λειτουργία πτήσης</string>
     <string name="alarm_template">στις %1$s</string>
     <string name="alarm_template_far">στις %1$s</string>
@@ -390,6 +393,7 @@ Bit ανά δείγμα"</string>
     <string name="clipboard">Πρόχειρο</string>
     <string name="clock">Ρολόι</string>
     <string name="clock_seconds">Προβολή δευτερολέπτων ρολογιού</string>
+    <string name="clock_seconds_desc">Εμφάνιση δευτερολέπτων στη γραμμή κατάστασης. Μπορεί να έχει επίδραση στη ζωή της μπαταρίας.</string>
     <string name="compat_mode_off">Τράβηγμα για πλήρες οθόνη</string>
     <string name="compat_mode_on">Ζουμ για πλήρες οθόνης</string>
     <string name="confirm">Κατάλαβα</string>
@@ -412,8 +416,11 @@ Bit ανά δείγμα"</string>
     <string name="daltonizer_mode_protanomaly">Πρωτανοπία (κόκκινο-πράσινο)</string>
     <string name="daltonizer_mode_tritanomaly">Τριτανοπία (μπλε-κίτρινο)</string>
     <string name="daltonizer_type_overridden">Αντικαταστάθηκε από %1$s</string>
-    <string name="data_connection_no_internet">No internet</string>
+    <string name="data_connection_no_internet">Δεν έγινε σύνδεση στο Ίντερνετ</string>
     <string name="data_saver">Αποθήκευση δεδομένων</string>
+    <string name="data_usage_disabled_dialog">"Έχετε φτάσει το όριο δεδομένων που θέσατε. Δεν χρησιμοποιείτε πλέον δεδομένα κινητής.
+
+Εάν συνεχίσετε, ενδέχεται να χρεωθείτε για την κατανάλωση δεδομένων."</string>
     <string name="data_usage_disabled_dialog_3g_title">Έγινε παύση 2G-3G δεδομένων</string>
     <string name="data_usage_disabled_dialog_4g_title">Έγινε παύση 4G δεδομένων</string>
     <string name="data_usage_disabled_dialog_enable">Συνέχεια</string>
@@ -472,14 +479,15 @@ Bit ανά δείγμα"</string>
     <string name="do_disclosure_with_name">Αυτή η συσκευή διαχειρίζεται από %s</string>
     <string name="do_not_silence">Να μην γίνει σίγαση</string>
     <string name="do_not_silence_block">Να μην γίνει σίγαση ή αποκλεισμός</string>
+    <string name="dock_forced_resizable">Η εφαρμογή ενδέχεται να μην λειτουργεί με Διαχωρισμό οθόνης.</string>
     <string name="dock_keyguard_locked_failed_to_dock_text">Ο Διαχωρισμός οθόνης δεν υποστηρίζεται στην οθόνη κλειδώματος.</string>
     <string name="dock_non_resizeble_failed_to_dock_text">Η εφαρμογή δεν υποστηρίζει Διαχωρισμό οθόνης.</string>
     <string name="drag_to_add_tiles">Σύρετε για να προσθέστε στοίβες</string>
     <string name="drag_to_remove_tiles">Σύρετε εδώ για αφαίρεση</string>
     <string name="drive_mode_tip">Η Λειτουργία αυτοκινήτου είναι ενεργή</string>
-    <string name="drive_mode_tip_idle">Πατήστε για έξοδο από Λειτουργία αυτοκινήτου</string>
-    <string name="drive_mode_tip_idle_notch">Έξοδος από τη Λειτουργία αυτοκινήτου</string>
-    <string name="drive_mode_tip_notch">Η Λειτουργία αυτοκινήτου είναι ενεργή</string>
+    <string name="drive_mode_tip_idle">Η Λειτουργία αυτοκινήτου είναι ενεργή</string>
+    <string name="drive_mode_tip_idle_notch">Λειτουργία αυτοκινήτου</string>
+    <string name="drive_mode_tip_notch">Λειτουργία αυτοκινήτου</string>
     <string name="empty_shade_text">Δεν υπάρχουν ειδοποιήσεις</string>
     <string name="enable_adb">Εντοπισμός σφαλμάτων USB</string>
     <string name="enable_adb_summary">Λειτουργία εντοπισμού σφαλμάτων όταν το USB είναι συνδεδεμένο</string>
@@ -532,6 +540,7 @@ Bit ανά δείγμα"</string>
     <string name="force_resizable_activities_summary">Να έχουν όλες οι δραστηριότητες δυνατότητα αλλαγής μεγέθους για την προβολή πολλαπλών παραθύρων, ανεξάρτητα από τις τιμές του μανιφέστου.</string>
     <string name="force_rtl_layout_all_locales">Επιβολή κατ. διάταξης RTL</string>
     <string name="force_rtl_layout_all_locales_summary">Επιβολή διάταξης οθόν. RTL για όλες τις τοπ. ρυθμ.</string>
+    <string name="forced_resizable_secondary_display">Η εφαρμογή ενδέχεται να μην λειτουργεί σε μια δευτερεύουσα προβολή.</string>
     <string name="fs_gesture_back_home_summary">Σαρώστε από κάτω γρήγορα</string>
     <string name="fs_gesture_back_ready_title">Μετάβαση πίσω</string>
     <string name="fs_gesture_final_over">Τέλος</string>
@@ -568,7 +577,13 @@ Bit ανά δείγμα"</string>
     <string name="help_feedback_label">Βοήθεια και σχόλια</string>
     <string name="hidden_notifications_cancel">Όχι ευχαριστώ</string>
     <string name="hidden_notifications_setup">Ρύθμιση</string>
+    <string name="hidden_notifications_text">Δείτε πριν το ξεκλείδωμα</string>
     <string name="hidden_notifications_title">Αποκτήστε ειδοποιήσεις γρηγορότερα</string>
+    <string name="high_temp_dialog_message">"Το τηλέφνο σας θα προσπαθήσει να κρυώσει αυτόματα. Έχετε δυνατότητα χρήσης του, αλλά ενδέχεται να λειτουργεί πιο αργά.
+
+Μόλις το τηλέφωνο σας κρυώσει, θα λειτουργήσει κανονικά."</string>
+    <string name="high_temp_notif_message">Ορισμένες λειτουργίες περιορίστηκαν ενώ το τηλέφωνο κρυώνει</string>
+    <string name="high_temp_title">Το τηλέφωνο θερμαίνεται</string>
     <string name="home">Αρχική σελίδα ρυθμίσεων</string>
     <string name="how_to_back_home">Μεταβείτε στην Αρχική Οθόνη</string>
     <string name="how_to_switch_recents">Άνοιγμα Πρόσφατων</string>
@@ -770,6 +785,7 @@ Bit ανά δείγμα"</string>
     <string name="lb_search_bar_hint_with_title">Αναζήτηση %1$s</string>
     <string name="lb_search_bar_hint_with_title_speech">Μιλήστε για αναζήτηση: %1$s</string>
     <string name="left_icon">Αριστερό εικονίδιο</string>
+    <string name="left_nav_bar_button_type">Επιπλέων αριστερό πλήκτρο</string>
     <string name="local_backup_password_summary_change">Πατήστε για αλλαγή ή κατάργηση του κωδικού πρόσβασης για τα πλήρη αντίγραφα ασφαλείας επιφάνειας εργασίας</string>
     <string name="local_backup_password_summary_none">Τα πλήρη αντίγραφα ασφαλείας επιφάνειας εργασίας δεν προστατεύονται αυτήν τη στιγμή</string>
     <string name="local_backup_password_title">Εφ/κός κωδικός desktop</string>
@@ -780,6 +796,8 @@ Bit ανά δείγμα"</string>
     <string name="lockscreen_none">Χωρίς</string>
     <string name="lockscreen_shortcut_left">Αριστερή συντόμευση</string>
     <string name="lockscreen_shortcut_right">Δεξιά συντόμευση</string>
+    <string name="lockscreen_unlock_left">Η αριστερή συντόμευση επίσης ξεκλειδώνει</string>
+    <string name="lockscreen_unlock_right">Η δεξιά συντόμευση επίσης ξεκλειδώνει</string>
     <string name="long_screenshot_not_support_msg">Η τρέχουσα εφαρμογή δεν υποστηρίζει κυλιόμενες εικόνες</string>
     <string name="long_screenshot_out_of_memory_error">Η εικόνα είναι πολύ μεγάλη</string>
     <string name="long_screenshot_processing">Γίνεται επεξεργασία…</string>
@@ -804,6 +822,7 @@ Bit ανά δείγμα"</string>
     <string name="media_projection_remember_text">Να μην εμφανιστεί ξανά</string>
     <string name="memory_clear_result_giga">Έγινε εκκαθάριση %1$sGB</string>
     <string name="memory_clear_result_mega">Έγινε εκκαθάριση %1$sMB</string>
+    <string name="menu_ime">Εναλλαγή πληκτρολογίου</string>
     <string name="miui_ringer_count_down">Αντίστροφη μέτρηση</string>
     <string name="miui_ringer_count_down_time">Αντίστροφη μέτρηση: %s</string>
     <string name="miui_ringer_standard">Αθόρυβο</string>
@@ -823,6 +842,12 @@ Bit ανά δείγμα"</string>
     <string name="monitoring_button_view_policies">Προβολή Πολιτικών</string>
     <string name="monitoring_description_app">Είστε συνδεδεμένοι σε %1$s, το οποίο μπορεί να παρακολουθεί την δραστηριότητα δικτύου σας, όπως emails, εφαρμογές, και ιστοσελίδες.</string>
     <string name="monitoring_description_app_personal">Είστε συνδεδεμένοι σε %1$s, το οποίο μπορεί να παρακολουθεί την προσωπική δραστηριότητα δικτύου σας, όπως emails, εφαρμογές, και ιστοσελίδες.</string>
+    <string name="monitoring_description_app_personal_work">"Το προφίλ εργασίας σας διαχειρίζεται από %1$s. Το προφίλ είναι συνδεδεμένο σε %2$s, το οπίο μπορεί να παρακολουθεί την δραστηριότητα του δικτύου εργασίας σας, συμπεριλαμβανομένου emails, εφαρμογών, και ιστοσελίδων.
+
+Εϊστε επίσης συνδεδεμένοι σε %3$s, το οποίο μπορεί να παρακολουθεί την προσωπική δραστηριότητα δικτύου σας."</string>
+    <string name="monitoring_description_app_work">"Το προφίλ εργασίας σας διαχειρίζεται από %1$s. Το προφίλ είναι συνδεδεμένο σε %2$s, το οπίο μπορεί να παρακολουθεί την δραστηριότητα του δικτύου εργασίας σας, συμπεριλαμβανομένου emails, εφαρμογών, και ιστοσελίδων.
+
+Για περισσότερες πληροφορίες, επικοινωνήστε με τον διαχειριστή σας."</string>
     <string name="monitoring_description_ca_cert_settings">Άνοιγμα αξιόπιστων διαπιστευτηρίων</string>
     <string name="monitoring_description_ca_certificate">Ένα πιστοποιητικό εξουσιοδότησης είναι εγκατεστημένο στην συσκευή αυτή. Η ασφαλή κυκλοφορία δικτύου σας ενδέχεται να παρακολουθείται ή να τροποποιηθεί.</string>
     <string name="monitoring_description_do_body">Ο διαχειριστής σας μπορεί να παρακολουθεί και να διαχειρίζεται ρυθμίσεις, εταιρική πρόσβαση, εφαρμογές, δεδομένα σχετικά με την εφαρμογή σας, και τις πληροφορίες τοποθεσίας της συσκευής σας.</string>
@@ -903,12 +928,13 @@ Bit ανά δείγμα"</string>
     <string name="notification_all_categories">Όλες οι κατηγορίες</string>
     <string name="notification_app_settings">Προσαρμογή: %1$s</string>
     <string name="notification_channel_alerts">Προειδοποιήσεις</string>
+    <string name="notification_channel_battery">Μπαταρία</string>
     <string name="notification_channel_controls_closed_accessibility">Ελέγχοι ειδοποιήσεων για κλεισμένο %1$s</string>
     <string name="notification_channel_controls_opened_accessibility">Ελέγχοι ειδοποιήσεων για ανοιγμένο %1$s</string>
     <string name="notification_channel_disabled">Δεν θα λαμβάνετε τις ειδοποιήσεις αυτές πλέον.</string>
-    <string name="notification_channel_general">Γενικά Μηνύματα</string>
+    <string name="notification_channel_general">Γενικά μηνύματα</string>
     <string name="notification_channel_location">Τοποθεσία</string>
-    <string name="notification_channel_screenbutton">ScreenButton</string>
+    <string name="notification_channel_screenbutton">Πλήκτρα</string>
     <string name="notification_channel_screenshot">Στιγμιότυπα οθόνης</string>
     <string name="notification_channel_storage">Χώρος αποθήκευσης</string>
     <string name="notification_channel_switch_accessibility">Να επιτρέπονται ειδοποιήσεις από αυτό το κανάλι</string>
@@ -918,7 +944,7 @@ Bit ανά δείγμα"</string>
     <string name="notification_group_collapse_button_text">Κλείσιμο</string>
     <string name="notification_header_default_channel">Ειδοποιήσεις</string>
     <string name="notification_header_title">Ειδοποιήσεις</string>
-    <string name="notification_hidden_by_policy_text">Contents hidden by policy</string>
+    <string name="notification_hidden_by_policy_text">Έγινε απόκρυψη περιεχομένων</string>
     <string name="notification_hidden_text">Έχετε ένα νέο μήνυμα</string>
     <string name="notification_info_channel_disabled_text">Δεν θα λάβετε %2$s ειδοποιήσεις από %1$s.</string>
     <string name="notification_info_channel_enabled_text">Θα λάβετε %2$s ειδοποιήσεις από %1$s.</string>
@@ -969,6 +995,8 @@ Bit ανά δείγμα"</string>
     <string name="pip_close">Κλείσιμο PIP</string>
     <string name="pip_fullscreen">Πλήρης οθόνη</string>
     <string name="pip_menu_title">Εικόνα στο μενού εικόνων</string>
+    <string name="pip_notification_message">Εάν δεν θέλετε το %s να χρησιμοποιεί αυτή την λειτουργία, πατήστε να ανοίξτε τις ρυθμίσεις και να την απενεργοποιήσετε.</string>
+    <string name="pip_notification_title">%s είναι στην εικόνα-μέσα στην-εικόνα</string>
     <string name="pip_notification_unknown_title">(Δεν υπάρχει τίτλος προγράμματος)</string>
     <string name="pip_pause">Παύση</string>
     <string name="pip_phone_close">Κλείσιμο</string>
@@ -1013,6 +1041,7 @@ Bit ανά δείγμα"</string>
     <string name="power_remaining_charging_duration_only">Απομένουν %1$s έως την πλήρη φόρτιση</string>
     <string name="power_remaining_duration_only">Απομένουν περίπου %1$s</string>
     <string name="power_remaining_duration_only_short">Απομένει/ουν %1$s</string>
+    <string name="process_kernel_label">Λειτουργικό σύστημα Android</string>
     <string name="profile_owned_footer">Το προφίλ ενδέχεται να παρακολουθείται</string>
     <string name="prompt_danger">Κίνδυνος</string>
     <string name="prompt_detecting">Γίνεται εντοπισμός</string>
@@ -1020,9 +1049,13 @@ Bit ανά δείγμα"</string>
     <string name="prompt_unknown">Άγνωστο</string>
     <string name="qs_customize_title">Επεξεργασία</string>
     <string name="qs_dnd_keep">Διατήρηση</string>
+    <string name="qs_dnd_prompt_app">Το Μην ενοχλείτε ενεργοποιήθηκε από μια εφαρμογή (%s).</string>
+    <string name="qs_dnd_prompt_auto_rule">Το Μην ενοχλείτε ενεργοποιήθηκε από έναν αυτόματο κανόνα (%s).</string>
+    <string name="qs_dnd_prompt_auto_rule_app">Το Μην ενοχλείτε ενεργοποιήθηκε από έναν αυτόματο κανόνα ή εφαρμογή.</string>
     <string name="qs_dnd_replace">Αντικατάσταση</string>
     <string name="qs_dnd_until">Μέχρι %s</string>
     <string name="qs_edit">Επεξεργασία</string>
+    <string name="qs_rearrange">Τακτοποίηση γρήγορων ρυθμίσεων</string>
     <string name="quick_settings">Γρήγορες ρυθμίσεις</string>
     <string name="quick_settings_autobrightness_label">Αυτόματη φωτεινότητα</string>
     <string name="quick_settings_batterysaver_label">Εξοικονόμηση μπαταρίας</string>
@@ -1083,6 +1116,9 @@ Bit ανά δείγμα"</string>
     <string name="quick_settings_nfc_off">NFC ανενεργό</string>
     <string name="quick_settings_nfc_on">NFC ενεργό</string>
     <string name="quick_settings_night_display_label">Νυχτερινό φως</string>
+    <string name="quick_settings_night_secondary_label_on_at">Ενεργό στις %s</string>
+    <string name="quick_settings_night_secondary_label_on_at_sunset">Ενεργό στο ηλιοβασίλεμα</string>
+    <string name="quick_settings_night_secondary_label_until_sunrise">Μέχρι την ανατολή</string>
     <string name="quick_settings_notifications_label">Ειδοποιήσεις</string>
     <string name="quick_settings_papermode_label">Λειτουργία ανάγνωσης</string>
     <string name="quick_settings_powermode_label">Λειτουργία απόδοσης</string>
@@ -1098,6 +1134,7 @@ Bit ανά δείγμα"</string>
     <string name="quick_settings_screenbutton_label">Κουμπιά</string>
     <string name="quick_settings_screenlock_label">Οθόνη κλειδώματος</string>
     <string name="quick_settings_screenshot_label">Στιγμιότυπο οθόνης</string>
+    <string name="quick_settings_secondary_label_until">Μέχρι %s</string>
     <string name="quick_settings_settings_label">Ρυθμίσεις</string>
     <string name="quick_settings_sync_label">Συγχρονισμός</string>
     <string name="quick_settings_tethering_label">Σύνδεση</string>
@@ -1145,12 +1182,14 @@ Bit ανά δείγμα"</string>
     <string name="reject_call">Γίνεται απόρριψη κλήσης</string>
     <string name="remaining_length_format">Απομένουν %1$s</string>
     <string name="remove_from_settings">Αφαίρεση από Ρυθμίσεις</string>
+    <string name="remove_from_settings_prompt">Αφαίρεση του system UI Tuner από τις ρυθμίσεις και διακοπή χρήσης όλων των χαρακτηριστικών;</string>
     <string name="reset">Επαναφορά</string>
     <string name="retail_demo_reset_message">Εισαγάγετε κωδικό πρόσβασης για επαναφορά εργοστασιακών ρυθμίσεων στη λειτουργία επίδειξης</string>
     <string name="retail_demo_reset_next">Επόμενο</string>
     <string name="retail_demo_reset_title">Απαιτείται κωδικός πρόσβασης</string>
     <string name="return_to_incall_screen">Επιστροφή σε κλήση</string>
     <string name="right_icon">Δεξί εικονίδιο</string>
+    <string name="right_nav_bar_button_type">Επιπλέων δεξιό πλήκτρο</string>
     <string name="running_foreground_services_msg">Πατήστε για πληροφορίες μπαταρίας και κατανάλωσης δεδομένων</string>
     <string name="running_foreground_services_title">Λειτουργούν εφαρμογές στο παρασκήνιο</string>
     <string name="running_process_item_user_label">Χρήστης: %1$s</string>
@@ -1305,6 +1344,14 @@ d MMMM"</string>
     <string name="tether_settings_title_usb_bluetooth">Πρόσδεση</string>
     <string name="tether_settings_title_wifi">Φορητό σημείο πρόσβασης</string>
     <string name="tethering_settings_not_available">"Οι ρυθμίσεις σύνδεσης μέσω κινητής συσκευής δεν είναι διαθέσιμες γι' αυτόν το χρήστη"</string>
+    <string name="thermal_shutdown_dialog_message">"Το τηλέφνο σας ήταν πάρα πολύ ζεστό, γι' αυτό απενεργοποιήθηκε για να κρυώσει. Το τηλέφωνο σας λειτουργεί κανονικά τώρα.
+
+Το τηλέφωνο σας ενδέχεται να ζεσταθεί πολύ εάν:
+\u0009• Χρησιμοποιείτε εφαρμογές εκτεταμένης κατανάλωσης ενέργειας (όπως παιχνίδια, βίντεο, ή εφαρμογές πλοήγησης)
+\u0009• Κατεβάσετε ή μεταφορτώσετε μεγάλα αρχεία
+\u0009• Χρησιμοποιείτε το τηλέφωνο σας σε υψηλές θερμορασίες"</string>
+    <string name="thermal_shutdown_message">Το τηλέφωνο σας λειτουργεί κανονικά τώρα</string>
+    <string name="thermal_shutdown_title">Το τηλέφωνο απενεργοποιήθηκε λόγω ζέστης</string>
     <string name="title_convert_fbe">Μετατροπή σε κρυπτογράφηση βάσει αρχείου…</string>
     <string name="title_usb_accessory">USB αξεσουάρ</string>
     <string name="torch_activity_hint">Πατήστε παρατεταμένα το [icon] για ενεργοποίηση του φακού στην οθόνη κλειδώματος</string>
@@ -1353,9 +1400,13 @@ d MMMM"</string>
     <string name="tuner_menu">Μενού</string>
     <string name="tuner_minus">Μείον</string>
     <string name="tuner_other_apps">Άλλες εφαρμογές</string>
+    <string name="tuner_persistent_warning">Αυτά τα πειραματικά χαρακτηριστικά μπορεί να αλλάξουν, χαλάσουν, ή εξαφανιστούν από μελλοντικές εκδόσεις. Προχωρήστε με προσοχή.</string>
     <string name="tuner_plus">Συν</string>
     <string name="tuner_right">Δεξιά</string>
     <string name="tuner_time">Ώρα</string>
+    <string name="tuner_toast">Συγχαρητήρια! Το system UI tuner προστέθηκε στις Ρυθμίσεις</string>
+    <string name="tuner_warning">Το system UI tuner σας δίνει παραπάνω τρόπους για να πειράξετε το περιβάλλον του Android. Αυτά τα πειραματικά χαρακτηριστικά μπορεί να αλλάξουν, χαλάσουν, ή εξαφανιστούν από μελλοντικές εκδόσεις. Προχωρήστε με προσοχή.</string>
+    <string name="tuner_warning_title">Διασκεδαστικό για κάποιους αλλά όχι για όλους</string>
     <string name="un_important_notifications">Ασήμαντες ειδοποιήσεις</string>
     <string name="unimportant_desc">Όλες οι ασήμαντες ειδοποιήσεις θα εμφανιστούν σε διαφορετικό φάκελο.</string>
     <string name="unimportant_title">Ασήμαντο</string>
@@ -1423,6 +1474,7 @@ d MMMM"</string>
     <string name="volume_and_do_not_disturb">Μην ενοχλείτε</string>
     <string name="volume_dialog_accessibility_dismissed_message">Έγινε απόκρυψη ελέγχων έντασης</string>
     <string name="volume_dialog_accessibility_shown_message">Έγινε εμφάνιση %s ελέγχων έντασης. Σαρώστε προς τα επάνω για απόρριψη.</string>
+    <string name="volume_dnd_silent">Συντόμευση πλήκτρων έντασης</string>
     <string name="volume_stream_content_description_mute">%1$s. Πατήστε για σίγαση. Ενδέχεται να γίνει σίγαση για υπηρεσίες προσβασιμότητας.</string>
     <string name="volume_stream_content_description_mute_a11y">%1$s. Πατήστε για σίγαση.</string>
     <string name="volume_stream_content_description_unmute">%1$s. Πατήστε για κατάργηση σίγασης.</string>

@@ -93,6 +93,7 @@
     <string name="activate_popup_confirm_error_device_id">Προσπαθήστε ξανά</string>
     <string name="activate_feature_mx">Mi Μηνύματα</string>
     <string name="activate_feature_mx_and_voip">Mi Μηνύματα και Φωνή</string>
+    <string name="activate_feature_voip">Mi Message Voice</string>
     <string name="activate_feature_mms_sync">Συγχρονισμός μηνυμάτων</string>
     <string name="activate_feature_call_log_sync">Συγχρονισμός ιστορικού κλήσεων</string>
     <string name="activate_feature_find_device">Εύρεση συσκευής</string>
@@ -117,4 +118,10 @@
     <string name="agree">Αποδοχή</string>
     <string name="privacy_revoke_tips">"Μετά την ανάκληση της εξουσιοδότησης, η εφαρμογή θα σταματήσει να συλλέγει τα δεδομένα σας και θα διαγράψει όλα τα δεδομένα σας από τους διακομιστές της. Ο συγχρονισμός με Mi Cloud, Mi Μηνύματα, και άλλες λειτουργίες Μηνυμάτων δεν θα είναι πλέον διαθέσιμες. Ανάκληση εξουσιοδότησης παρ' όλα αυτά;"</string>
     <string name="privacy_revoke_failed_msg">Η ενεργοποίηση απαιτεί παραχώρηση εξουσιοδότησης ώστε τα Μηνύματα να αποκτήσουν τον αριθμό τηλεφώνου σας.</string>
+    <string name="waiting_sim_in_service">waiting sim in service</string>
+    <string name="checking_client">checking client env</string>
+    <string name="error_sim_not_in_service">sim not in service</string>
+    <string name="error_checking_client">client env error</string>
+    <string name="error_network_io">network error</string>
+    <string name="error_no_send_sms_permission">no send sms permission</string>
 </resources>

@@ -17,6 +17,15 @@
         <item>Το πολύ 3 διαδικασίες</item>
         <item>Το πολύ 4 διεργασίες</item>
     </string-array>
+    <string-array name="aqi_title_prefix">
+        <item>ΠΑ %1$s</item>
+        <item>ΠΑ %1$s</item>
+        <item>ΠΑ %1$s</item>
+        <item>ΠΑ %1$s</item>
+        <item>ΠΑ %1$s</item>
+        <item>ΠΑ %1$s</item>
+        <item>ΠΑ %1$s</item>
+    </string-array>
     <string-array name="battery_options">
         <item>Να εμφανίζεται πάντα το ποσοστό</item>
         <item>Να εμφανίζεται ποσοστό κατά την φόρτιση (προεπιλογή)</item>
@@ -136,23 +145,23 @@
         <item>Να γίνεται πάντα έλεγχος</item>
     </string-array>
     <string-array name="miui_volume_timer_segments_title">
-        <item>Off</item>
-        <item>Half hour</item>
-        <item>1 hour</item>
-        <item>2 hours</item>
-        <item>8 Hours</item>
+        <item>Ανενεργό</item>
+        <item>30 λεπτά</item>
+        <item>1 ώρα</item>
+        <item>2 ώρες</item>
+        <item>8 ώρες</item>
     </string-array>
     <string-array name="nav_bar_buttons">
         <item>Πρόχειρο</item>
-        <item>Keycode</item>
-        <item>Keyboard switcher</item>
+        <item>Κωδικός κλειδί</item>
+        <item>Εναλλαγή πληκτρολογίου</item>
         <item>Χωρίς</item>
     </string-array>
     <string-array name="nav_bar_layouts">
         <item>Κανονικό</item>
-        <item>Compact</item>
-        <item>Left-leaning</item>
-        <item>Right-leaning</item>
+        <item>Συμπαγής</item>
+        <item>Προς τα αριστερά</item>
+        <item>Προς τα δεξιά</item>
     </string-array>
     <string-array name="overlay_display_devices_entries">
         <item>Καμία</item>

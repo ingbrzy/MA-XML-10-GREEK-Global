@@ -1,5 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <plurals name="delete_confirm_multiple_files">
+        <item quantity="other">Διαγραφή %d επιλεγμένων αρχείων;</item>
+        <item quantity="one">Διαγραφή %d επιλεγμένου αρχείου;</item>
+    </plurals>
     <plurals name="notif_receive_cancel">
         <item quantity="other">Ακυρώθηκε η μεταφορά από %1$s</item>
         <item quantity="one">Ακυρώθηκε η μεταφορά από %1$s</item>
@@ -16,8 +20,20 @@
         <item quantity="other">%2$d αρχεία από %1$s</item>
         <item quantity="one">%2$d αρχείο από %1$s</item>
     </plurals>
+    <plurals name="selected_file_num">
+        <item quantity="other">Έγινε επιλογή %d αντικειμένων</item>
+        <item quantity="one">Έγινε επιλογή %d αντικειμένου</item>
+    </plurals>
     <plurals name="sender_file_num">
         <item quantity="other">%1$d αντικείμενα</item>
         <item quantity="one">%1$d αντικείμενο</item>
+    </plurals>
+    <plurals name="transfer_list_received_header">
+        <item quantity="other">Λήψη %1$d αρχείων (%2$s)</item>
+        <item quantity="one">Λήψη %1$d αρχείου (%2$s)</item>
+    </plurals>
+    <plurals name="transfer_list_sent_header">
+        <item quantity="other">Αποστολή %1$d αρχείων (%2$s)</item>
+        <item quantity="one">Αποστολή %1$d αρχείου (%2$s)</item>
     </plurals>
 </resources>

@@ -132,6 +132,26 @@
         <item quantity="other">Το PIN πρέπει να έχει %d ψηφία</item>
         <item quantity="one">Το PIN πρέπει να έχει %d ψηφίο</item>
     </plurals>
+    <plurals name="lockpassword_pin_too_long">
+        <item quantity="other">Το PIN μπορεί να περιέχει μέχρι και %d ψηφία</item>
+        <item quantity="one">Το PIN μπορεί να περιέχει μέχρι και %d ψηφίο</item>
+    </plurals>
+    <plurals name="lockpassword_pin_too_short">
+        <item quantity="other">Το PIN πρέπει να είναι %d ψηφία</item>
+        <item quantity="one">Το PIN πρέπει να είναι %d ψηφίο</item>
+    </plurals>
+    <plurals name="lockpattern_recording_incorrect_too_short">
+        <item quantity="other">Συνδέστε τουλάχιστον %d τελείες. Προσπαθήστε ξανά.</item>
+        <item quantity="one">Συνδέστε τουλάχιστον %d τελεία. Προσπαθήστε ξανά.</item>
+    </plurals>
+    <plurals name="lockpattern_too_many_failed_confirmation_attempts">
+        <item quantity="other">Πάρα πολλές εσφαλμένες προσπάθειες. Προσπαθήστε ξανά σε %d δευτερόλεπτα.</item>
+        <item quantity="one">Πάρα πολλές εσφαλμένες προσπάθειες. Προσπαθήστε ξανά σε %d δευτερόλεπτο.</item>
+    </plurals>
+    <plurals name="lockpattern_too_many_failed_confirmation_attempts_footer">
+        <item quantity="other">Περιμένετε %d δευτερόλεπτα και προσπαθήστε ξανά.</item>
+        <item quantity="one">Περιμένετε %d δευτερόλεπτο και προσπαθήστε ξανά.</item>
+    </plurals>
     <plurals name="manage_notification_access_summary_nonzero">
         <item quantity="other">%d εφαρμογές μπορούν να διαβάσουν ειδοποιήσεις</item>
         <item quantity="one">%d εφαρμογή μπορεί να διαβάσει ειδοποιήσεις</item>

@@ -113,10 +113,6 @@
     <string name="maml_component_customization_title">Ρυθμίσεις</string>
     <string name="default_name">Προεπιλογή</string>
     <string name="resource_select">Επιλογή</string>
-    <string name="group_name_contacts">Επαφές</string>
-    <string name="group_name_friends">Φίλοι</string>
-    <string name="group_name_family">Οικογένεια</string>
-    <string name="group_name_coworkers">Συνάδελφοι</string>
     <string name="fp_nav_center_action_choose_dlg_title">Ενεργοποίηση Γρήγορης αφής</string>
     <string name="fp_nav_center_action_choose_dlg_msg">Μπορείτε να επιστρέψετε στην Αρχική οθόνη πατώντας απαλά το κουμπί Αρχικής. Μπορείτε να ενεργοποιήστε ή να απενεργοποιήστε αυτή την λειτουργία από τις Ρυθμίσεις > Πρόσθετες Ρυθμίσεις > Κουμπιά > Πατήστε το κουμπί Αρχικής για να επιστρέψτε στην Αρχική οθόνη.</string>
     <string name="fp_nav_center_action_choose_dlg_positive_btn_text">Ενεργοποίηση</string>
@@ -175,5 +171,5 @@
     <string name="super_resolution_maintain_tips">Η σούπερ ανάλυση δεν είναι διαθέσιμη ακόμα.</string>
     <string name="wifi_assistant_wifi_no_internet">Αυτό το δίκτυο Wi-Fi δεν έχει πρόσβαση στο Ίντερνετ</string>
     <string name="wifi_assistant_wifi_no_internet_detail">Αγγίξτε για προβολή λεπτομερειών</string>
-    <string name="resolver_app_recommend_flag">Recommend</string>
+    <string name="resolver_app_recommend_flag">Προτεινόμενα</string>
 </resources>
