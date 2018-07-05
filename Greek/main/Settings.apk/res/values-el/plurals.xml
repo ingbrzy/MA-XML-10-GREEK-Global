@@ -133,12 +133,12 @@
         <item quantity="one">Το PIN πρέπει να έχει %d ψηφίο</item>
     </plurals>
     <plurals name="lockpassword_pin_too_long">
-        <item quantity="other">Το PIN μπορεί να περιέχει μέχρι και %d ψηφία</item>
-        <item quantity="one">Το PIN μπορεί να περιέχει μέχρι και %d ψηφίο</item>
+        <item quantity="other">Μπορείτε να εισαγάγετε μέχρι %d ψηφία</item>
+        <item quantity="one">Μπορείτε να εισαγάγετε μέχρι %d ψηφίο</item>
     </plurals>
     <plurals name="lockpassword_pin_too_short">
-        <item quantity="other">Το PIN πρέπει να είναι %d ψηφία</item>
-        <item quantity="one">Το PIN πρέπει να είναι %d ψηφίο</item>
+        <item quantity="other">Εισαγάγετε τουλάχιστον %d ψηφία</item>
+        <item quantity="one">Εισαγάγετε τουλάχιστον %d ψηφίο</item>
     </plurals>
     <plurals name="lockpattern_recording_incorrect_too_short">
         <item quantity="other">Συνδέστε τουλάχιστον %d τελείες. Προσπαθήστε ξανά.</item>

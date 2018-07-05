@@ -6,6 +6,9 @@
     <string name="xiaomi_update_dialog_message_diff">"Γίνεται εισαγωγή έκδοσης %1$s
 Μέγεθος ενημέρωσης Delta: %2$s"</string>
     <string name="xiaomi_external_storage_unavailable">Ο χώρος αποθήκευσης δεν είναι διαθέσιμος, ελέγξτε την κάρτα SD σας.</string>
+    <string name="xiaomi_bytes_unit">%1$sB</string>
+    <string name="xiaomi_kilobytes_unit">%1$sKB</string>
+    <string name="xiaomi_megabytes_unit">%1$sMB</string>
     <string name="xiaomi_connect_download_manager_fail">Αδυναμία εκκίνησης λήψης. Βεβαιωθείτε πως η Διαχείριση λήψεων λειτουργεί κανονικά.</string>
     <string name="app_name">Αντίγραφα ασφαλείας</string>
     <string name="local_app_name">Αντίγραφα ασφαλείας</string>
@@ -225,6 +228,7 @@
     <string name="restore_backup">Επαναφορά</string>
     <string name="enable_encrypt_description">Κρυπτογράφηση</string>
     <string name="disable_encrypt_description">Μη κρυπτογραφημένο</string>
+    <string name="digit_percent">%</string>
     <string name="state_waiting">Περιμένετε μια στιγμή…</string>
     <string name="state_mounting">Γίνεται πρόσβαση στον χώρο αποθήκευσης του router…</string>
     <string name="abort_backup_confirm">Η δημιουργία αντίγραφου ασφαλείας δεν ολοκληρώθηκε. Διακοπή οπωσδήποτε;</string>
@@ -248,7 +252,7 @@
     <string name="err_filesystem_mount">Αδυναμία πρόσβασης του χώρου αποθήκευσης του router</string>
     <string name="err_router_disconnected">Ελέγξτε την σύνδεση του router σας και προσπαθήστε ξανά.</string>
     <string name="err_router_files_delete">Αδυναμία διαγραφής αντίγραφων ασφαλείας στο router</string>
-    <string name="err_acquire_system_service">"Couldn't start system service."</string>
+    <string name="err_acquire_system_service">Αδυναμία εκκίνησης συστήματος cloud.</string>
     <string name="err_not_allow">Δεν υποστηρίζεται</string>
     <string name="err_bakfile_not_exist">Το αρχείο αντίγραφου ασφαλείας δεν υπάρχει.</string>
     <string name="err_pkg_not_exist">Αδυναμία εύρεσης εφαρμογής.</string>
@@ -451,6 +455,12 @@
     <string name="backup_security_tips_message">Μπορεί να μην υπάρχει δυνατότητα δημιουργίας αντίγραφου ασφαλείας ή επαναφοράς για ορισμένες εφαρμογές.</string>
     <string name="trans_security_tips_title">Συμβατότητα για Mi Mover</string>
     <string name="trans_security_tips_message">Ορισμένες εφαρμογές δεν υποστηρίζουν Mi Mover.</string>
+    <string name="trans_cancel_selection_title">Παραμονή στο Mi Mover</string>
+    <string name="trans_cancel_selection_message">Εάν κάνετε έξοδο από το Mi Mover, η τρέχουσα μεταφορά θα διακοπεί. Περιμένετε μέχρι να ολοκληρωθεί η μεταφορά.</string>
+    <string name="trans_select_notification_title">Mi Mover σε λειτουργία…</string>
+    <string name="trans_select_notification_message">Αγγίξτε για προβολή</string>
+    <string name="trans_button_stay">Παραμονή</string>
+    <string name="trans_button_exit">Έξοδος</string>
     <string name="trans_wlan_tips_title">Μην απενεργοποιήστε το Wi-Fi</string>
     <string name="trans_wlan_tips_message">Μην απενεργοποιήστε το Wi-fi ή κάνετε εναλλαγή σε άλλα δίκτυα Wi-Fi κατά την διάρκεια της μεταφοράς. Αλλιώς, το Mi Mover δεν θα μπορέσει να μεταφέρει δεδομένα.</string>
     <string name="trans_disconnected_tips_title">Η απομακρυσμένη συσκευή αποσυνδέθηκε</string>
@@ -527,6 +537,7 @@ https://appleid.apple.com/#!&amp;page=signin για κλείσιμο"</string>
 πρέπει πρώτα να δημιουργήστε ένα αντίγραφο ασφαλείας για το iCloud."</string>
     <string name="list_footer_tip_title">Συμβουλές:</string>
     <string name="import_tip_summary">Λόγω προβλήματα συμβατότητας, μπορείτε να μεταφέρετε μόνο ορισμένα δεδομένα από συσκευές iOS. Βεβαιωθείτε πως έχετε δημιουργήσει ένα αντίγραφο ασφαλείας για το iCloud πριν την μεταφορά.</string>
+    <string name="import_tip_message">@string/icloud_how_to_backup_tip_steps</string>
     <string name="button_import">Εισαγωγή</string>
     <string name="select_empty">Επιλογή αντικειμένων για εισαγωγή</string>
     <string name="select_item_summary_wait">Αναμονή…</string>

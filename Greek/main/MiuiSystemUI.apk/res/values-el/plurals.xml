@@ -48,6 +48,10 @@
         <item quantity="other">%s ακόμη ειδοποιήσεις μέσα.</item>
         <item quantity="one">%s ακόμη ειδοποίηση μέσα.</item>
     </plurals>
+    <plurals name="notification_num_channels">
+        <item quantity="other">%d κατηγορίες ειδοποιήσεων</item>
+        <item quantity="one">%d κατηγορία ειδοποιήσεων</item>
+    </plurals>
     <plurals name="notification_num_channels_desc">
         <item quantity="other">1 από %d κατηγορίες ειδοποιήσεων για αυτή την εφαρμογή</item>
         <item quantity="one">1 από %d κατηγορία ειδοποιήσεων για αυτή την εφαρμογή</item>

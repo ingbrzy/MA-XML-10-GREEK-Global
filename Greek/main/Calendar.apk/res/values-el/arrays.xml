@@ -1,124 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string-array name="change_response_labels">
-        <item>Μόνο αυτό το συμβάν</item>
-        <item>Όλα τα συμβάντα στην σειρά</item>
-    </string-array>
-    <string-array name="delete_repeating_labels">
-        <item>Μόνο αυτό το συμβάν</item>
-        <item>Αυτό και μελλοντικά συμβάντα</item>
-        <item>Όλα τα συμβάντα</item>
-    </string-array>
-    <string-array name="ordinal_labels">
-        <item>πρώτη</item>
-        <item>δεύτερη</item>
-        <item>τρίτη</item>
-        <item>τέταρτη</item>
-        <item>τελευταία</item>
-    </string-array>
-    <string-array name="prefEntries_alerts_vibrateWhen">
-        <item>Πάντα</item>
-        <item>Μόνο κατά την αθόρυβη λειτουργία</item>
-        <item>Ποτέ</item>
-    </string-array>
-    <string-array name="preferences_week_start_day_labels">
-        <item>Προεπιλογή περιοχής</item>
-        <item>Σάββατο</item>
-        <item>Κυριακή</item>
-        <item>Δευτέρα</item>
-    </string-array>
-    <string-array name="response_labels1">
-        <item>Χωρίς απάντηση</item>
-        <item>Ναι</item>
-        <item>Ίσως</item>
-        <item>Όχι</item>
-    </string-array>
-    <string-array name="timezone_labels">
-        <item>Νήσοι Μάρσαλ</item>
-        <item>Ατόλλη Μίντγουαιη</item>
-        <item>Χαβάη</item>
-        <item>Αλάσκα</item>
-        <item>Ώρα Ειρηνικού</item>
-        <item>Τιχουάνα</item>
-        <item>Αριζόνα</item>
-        <item>Τσιουάουα</item>
-        <item>Ώρα Μάουντεν</item>
-        <item>Κεντρική Αμερική</item>
-        <item>Κεντρική ώρα</item>
-        <item>Πόλη του Μεξικού</item>
-        <item>Σασκάτσουαν</item>
-        <item>Μπογκοτά</item>
-        <item>Ανατολική ζώνη ώρας</item>
-        <item>Βενεζουέλα</item>
-        <item>Ώρα Ατλαντικού (Μπαρμπάντος)</item>
-        <item>Ώρα Ατλαντικού (Καναδάς)</item>
-        <item>Μανάους</item>
-        <item>Σαντιάγκο</item>
-        <item>Νέα Γη</item>
-        <item>Μπραζίλια</item>
-        <item>Μπουένος Άιρες</item>
-        <item>Γροιλανδία</item>
-        <item>Μοντεβιδέο</item>
-        <item>Μεσο-Ατλαντική</item>
-        <item>Αζόρες</item>
-        <item>Νήσοι Πράσινου Ακρωτηρίου</item>
-        <item>Καζαμπλάνκα</item>
-        <item>Λονδίνο, Δουβλίνο</item>
-        <item>Άμστερνταμ, Βερολίνο</item>
-        <item>Βελιγράδι</item>
-        <item>Βρυξέλλες</item>
-        <item>Σαράγεβο</item>
-        <item>Γουιντχόεκ</item>
-        <item>Ώρα Δ. Αφρικής</item>
-        <item>Αμμάν, Ιορδανία</item>
-        <item>Αθήνα, Κωνσταντινούπολη</item>
-        <item>Βηρυττός, Λίβανος</item>
-        <item>Κάιρο</item>
-        <item>Ελσίνκι</item>
-        <item>Ιερουσαλήμ</item>
-        <item>Μίνσκ</item>
-        <item>Χαράρε</item>
-        <item>Βαγδάτη</item>
-        <item>Μόσχα</item>
-        <item>Κουβέιτ</item>
-        <item>Ναϊρόμπι</item>
-        <item>Τεχεράνη</item>
-        <item>Μπακού</item>
-        <item>Τιφλίδα</item>
-        <item>Γερεβάν</item>
-        <item>Ντουμπάι</item>
-        <item>Καμπούλ</item>
-        <item>Ισλαμαμπάντ, Καράτσι</item>
-        <item>Ουράλσκ</item>
-        <item>Αικατερίνσμπουργκ</item>
-        <item>Καλκούτα</item>
-        <item>Σρι Λάνκα</item>
-        <item>Κατμαντού</item>
-        <item>Αστάνα</item>
-        <item>Γιανγκόν</item>
-        <item>Κρασνογιάρσκ</item>
-        <item>Μπανγκόκ</item>
-        <item>Πεκίνο</item>
-        <item>Χονγκ Κονγκ</item>
-        <item>Ιρκούτσκ</item>
-        <item>Κουάλα Λουμπούρ</item>
-        <item>Περθ</item>
-        <item>Ταϊπέι</item>
-        <item>Σεούλ</item>
-        <item>Τόκιο, Οσάκα</item>
-        <item>Γιακούτσκ</item>
-        <item>Αδελαΐδα</item>
-        <item>Ντάργουιν</item>
-        <item>Μπρίσμπεϊν</item>
-        <item>Χόμπαρτ</item>
-        <item>Σίδνεϊ, Καμπέρα</item>
-        <item>Βλαδιβοστόκ</item>
-        <item>Γκουάμ</item>
-        <item>Μαγκαντάν</item>
-        <item>Όκλαντ</item>
-        <item>Φίτζι</item>
-        <item>Τόγκα</item>
-    </string-array>
     <string-array name="aquarius_info">
         <item>aquarius</item>
         <item>Υδροχόος</item>
@@ -143,6 +24,10 @@
         <item>Αιγόκερως</item>
         <item>22/12 - 19/1</item>
     </string-array>
+    <string-array name="change_response_labels">
+        <item>Μόνο αυτό το συμβάν</item>
+        <item>Όλα τα συμβάντα στην σειρά</item>
+    </string-array>
     <string-array name="date_calculate_spinner">
         <item>Προς τα εμπρός</item>
         <item>Προς τα πίσω</item>
@@ -157,6 +42,15 @@
         <item>1 ημέρα πριν</item>
         <item>2 ημέρες πριν</item>
         <item>1 εβδομάδα πριν</item>
+    </string-array>
+    <string-array name="delete_repeating_labels">
+        <item>Μόνο αυτό το συμβάν</item>
+        <item>Αυτό και μελλοντικά συμβάντα</item>
+        <item>Όλα τα συμβάντα</item>
+    </string-array>
+    <string-array name="english_premium_league">
+        <item>4</item>
+        <item>@string/english_premium_league</item>
     </string-array>
     <string-array name="gemini_info">
         <item>δίδυμοι</item>
@@ -181,10 +75,28 @@
         <item>5</item>
         <item>Ligue 1</item>
     </string-array>
+    <string-array name="ordinal_labels">
+        <item>πρώτη</item>
+        <item>δεύτερη</item>
+        <item>τρίτη</item>
+        <item>τέταρτη</item>
+        <item>τελευταία</item>
+    </string-array>
     <string-array name="pisces_info">
         <item>pisces</item>
         <item>Ιχθύς</item>
         <item>19/2 - 20/3</item>
+    </string-array>
+    <string-array name="prefEntries_alerts_vibrateWhen">
+        <item>Πάντα</item>
+        <item>Μόνο κατά την αθόρυβη λειτουργία</item>
+        <item>Ποτέ</item>
+    </string-array>
+    <string-array name="preferences_week_start_day_labels">
+        <item>Προεπιλογή περιοχής</item>
+        <item>Σάββατο</item>
+        <item>Κυριακή</item>
+        <item>Δευτέρα</item>
     </string-array>
     <string-array name="repeat_choose_day">
         <item>1η</item>
@@ -270,6 +182,12 @@
         <item>μήνας</item>
         <item>έτος</item>
     </string-array>
+    <string-array name="response_labels1">
+        <item>Χωρίς απάντηση</item>
+        <item>Ναι</item>
+        <item>Ίσως</item>
+        <item>Όχι</item>
+    </string-array>
     <string-array name="sagittarius_info">
         <item>τοξότης</item>
         <item>Τοξότης</item>
@@ -288,6 +206,94 @@
         <item>ταύρος</item>
         <item>Ταύρος</item>
         <item>20/4 - 20/5</item>
+    </string-array>
+    <string-array name="timezone_labels">
+        <item>Νήσοι Μάρσαλ</item>
+        <item>Ατόλλη Μίντγουαιη</item>
+        <item>Χαβάη</item>
+        <item>Αλάσκα</item>
+        <item>Ώρα Ειρηνικού</item>
+        <item>Τιχουάνα</item>
+        <item>Αριζόνα</item>
+        <item>Τσιουάουα</item>
+        <item>Ώρα Μάουντεν</item>
+        <item>Κεντρική Αμερική</item>
+        <item>Κεντρική ώρα</item>
+        <item>Πόλη του Μεξικού</item>
+        <item>Σασκάτσουαν</item>
+        <item>Μπογκοτά</item>
+        <item>Ανατολική ζώνη ώρας</item>
+        <item>Βενεζουέλα</item>
+        <item>Ώρα Ατλαντικού (Μπαρμπάντος)</item>
+        <item>Ώρα Ατλαντικού (Καναδάς)</item>
+        <item>Μανάους</item>
+        <item>Σαντιάγκο</item>
+        <item>Νέα Γη</item>
+        <item>Μπραζίλια</item>
+        <item>Μπουένος Άιρες</item>
+        <item>Γροιλανδία</item>
+        <item>Μοντεβιδέο</item>
+        <item>Μεσο-Ατλαντική</item>
+        <item>Αζόρες</item>
+        <item>Πράσινο Ακρωτήριο</item>
+        <item>Καζαμπλάνκα</item>
+        <item>Λονδίνο, Δουβλίνο</item>
+        <item>Άμστερνταμ, Βερολίνο</item>
+        <item>Βελιγράδι</item>
+        <item>Βρυξέλλες</item>
+        <item>Σαράγεβο</item>
+        <item>Γουιντχόεκ</item>
+        <item>Ώρα Δ. Αφρικής</item>
+        <item>Αμμάν, Ιορδανία</item>
+        <item>Αθήνα, Κωνσταντινούπολη</item>
+        <item>Βηρυττός, Λίβανος</item>
+        <item>Κάιρο</item>
+        <item>Ελσίνκι</item>
+        <item>Ιερουσαλήμ</item>
+        <item>Μίνσκ</item>
+        <item>Χαράρε</item>
+        <item>Βαγδάτη</item>
+        <item>Μόσχα</item>
+        <item>Κουβέιτ</item>
+        <item>Ναϊρόμπι</item>
+        <item>Τεχεράνη</item>
+        <item>Μπακού</item>
+        <item>Τιφλίδα</item>
+        <item>Γερεβάν</item>
+        <item>Ντουμπάι</item>
+        <item>Καμπούλ</item>
+        <item>Ισλαμαμπάντ, Καράτσι</item>
+        <item>Ουράλσκ</item>
+        <item>Αικατερίνσμπουργκ</item>
+        <item>Καλκούτα</item>
+        <item>Σρι Λάνκα</item>
+        <item>Κατμαντού</item>
+        <item>Αστάνα</item>
+        <item>Γιανγκόν</item>
+        <item>Κρασνογιάρσκ</item>
+        <item>Μπανγκόκ</item>
+        <item>Πεκίνο</item>
+        <item>Χονγκ Κονγκ</item>
+        <item>Μακάο</item>
+        <item>Σιγκαπούρη</item>
+        <item>Ιρκούτσκ</item>
+        <item>Κουάλα Λουμπούρ</item>
+        <item>Περθ</item>
+        <item>Ταϊπέι</item>
+        <item>Σεούλ</item>
+        <item>Τόκιο, Οσάκα</item>
+        <item>Γιακούτσκ</item>
+        <item>Αδελαΐδα</item>
+        <item>Ντάργουιν</item>
+        <item>Μπρίσμπεϊν</item>
+        <item>Χόμπαρτ</item>
+        <item>Σίδνεϊ, Καμπέρα</item>
+        <item>Βλαδιβοστόκ</item>
+        <item>Γκουάμ</item>
+        <item>Μαγκαντάν</item>
+        <item>Όκλαντ</item>
+        <item>Φίτζι</item>
+        <item>Τόγκα</item>
     </string-array>
     <string-array name="travel_reminder_minutes_labels">
         <item>3 ώρες πριν</item>

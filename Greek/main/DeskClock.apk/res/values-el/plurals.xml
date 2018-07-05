@@ -4,10 +4,6 @@
         <item quantity="other">Γίνεται αναβολή για %d λεπτά.</item>
         <item quantity="one">Γίνεται αναβολή για %d λεπτό.</item>
     </plurals>
-    <plurals name="auto_silence_summary">
-        <item quantity="other">Σίγαση ξυπνητηριών μετά από %d λεπτά</item>
-        <item quantity="one">Σίγαση ξυπνητηριών μετά από %d λεπτό</item>
-    </plurals>
     <plurals name="delete_alarm_confirm">
         <item quantity="other">Διαγραφή των επιλεγμένων ξυπνητηρίων;</item>
         <item quantity="one">Διαγραφή του ξυπνητήριου;</item>
@@ -24,14 +20,6 @@
         <item quantity="other">Αναβολή για %d λεπτά</item>
         <item quantity="one">Αναβολή για %d λεπτό</item>
     </plurals>
-    <plurals name="timer_item_duration_display_minutes">
-        <item quantity="other">%1$d λεπτά</item>
-        <item quantity="one">1 λεπτό</item>
-    </plurals>
-    <plurals name="timer_item_duration_display_seconds">
-        <item quantity="other">%1$d δευτερόλεπτα</item>
-        <item quantity="one">1 δευτερόλεπτο</item>
-    </plurals>
     <plurals name="timer_message_hour">
         <item quantity="other">"%1$d ώρες "</item>
         <item quantity="one">"%1$d ώρα "</item>
@@ -43,5 +31,17 @@
     <plurals name="timer_message_second">
         <item quantity="other">%1$d δευτερόλεπτα</item>
         <item quantity="one">%1$d δευτερόλεπτο</item>
+    </plurals>
+    <plurals name="auto_silence_summary">
+        <item quantity="other">Σίγαση ξυπνητηριών μετά από %d λεπτά</item>
+        <item quantity="one">Σίγαση ξυπνητηριών μετά από %d λεπτό</item>
+    </plurals>
+    <plurals name="timer_item_duration_display_minutes">
+        <item quantity="other">%1$d λεπτά</item>
+        <item quantity="one">1 λεπτό</item>
+    </plurals>
+    <plurals name="timer_item_duration_display_seconds">
+        <item quantity="other">%1$d δευτερόλεπτα</item>
+        <item quantity="one">1 δευτερόλεπτο</item>
     </plurals>
 </resources>

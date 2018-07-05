@@ -68,6 +68,7 @@
     <string name="accessibility_wifi_two_bars">Δύο γραμμές Wi-Fi.</string>
     <string name="accessibility_wifi_three_bars">Τρεις γραμμές Wi-Fi.</string>
     <string name="accessibility_wifi_signal_full">Άριστο σήμα Wi-Fi.</string>
+    <string name="process_kernel_label">Λειτουργικό σύστημα Android</string>
     <string name="data_usage_uninstalled_apps">Εφαρμογές που καταργήθηκαν</string>
     <string name="data_usage_uninstalled_apps_users">Εφαρμογές και χρήστες που έχουν καταργηθεί</string>
     <string name="tether_settings_title_usb">Πρόσδεση USB</string>
@@ -501,7 +502,7 @@ Bit ανά δείγμα"</string>
     <string name="sum_loading_settings">Φόρτωση ρυθμίσεων…</string>
     <string name="sum_hide_caller_id">Απόκρυψη αριθμού στις εξερχόμενες κλήσεις</string>
     <string name="sum_show_caller_id">Εμφάνιση αριθμού στις εξερχόμενες κλήσεις</string>
-    <string name="sum_default_caller_id">Use default carrier settings to display my number in outgoing calls</string>
+    <string name="sum_default_caller_id">Χρήση ρυθμίσεων προεπιλεγμένου φορέα για εμφάνιση του αριθμού μου σε εξερχόμενες κλήσεις</string>
     <string name="labelCW">Αναμονή κλήσης</string>
     <string name="sum_cw_enabled">Ειδοποίηση εισερχομένων κλήσεων κατά την διάρκεια κλήσεων</string>
     <string name="sum_cw_disabled">Ειδοποίηση εισερχομένων κλήσεων κατά την διάρκεια κλήσεων</string>
@@ -516,6 +517,7 @@ Bit ανά δείγμα"</string>
     <string name="sum_cfu_disabled">Ανενεργό</string>
     <string name="set_time_period">Ρύθμιση χρονικού διαστήματος</string>
     <string name="all_day">" Όλη την ημέρα "</string>
+    <string name="time_interval_char">:</string>
     <string name="time_start">" Από "</string>
     <string name="time_start_hour">time start hour</string>
     <string name="time_start_minute">time start minute</string>
@@ -529,12 +531,12 @@ Bit ανά δείγμα"</string>
     <string name="messageCFB">Αριθμός όταν είμαι απασχολημένος</string>
     <string name="sum_cfb_enabled">Γίνεται προώθηση στο {0}</string>
     <string name="sum_cfb_disabled">Ανενεργό</string>
-    <string name="disable_cfb_forbidden">"Your carrier doesn't support turning off call forwarding when your phone is busy."</string>
+    <string name="disable_cfb_forbidden">Ο πάροχος σας δεν υποστηρίζει την απενεργοποίηση της προώθησης κλήσεων όταν το τηλέφωνό σας είναι κατειλημμένο.</string>
     <string name="labelCFNRy">Όταν δεν απαντηθεί η κλήση</string>
     <string name="messageCFNRy">Αριθμός όταν δεν απαντηθεί κλήση</string>
     <string name="sum_cfnry_enabled">Γίνεται προώθηση στο {0}</string>
     <string name="sum_cfnry_disabled">Ανενεργό</string>
-    <string name="disable_cfnry_forbidden">"Your carrier doesn't support turning off call forwarding when your phone doesn't answer."</string>
+    <string name="disable_cfnry_forbidden">Ο φορέας σας δεν υποστηρίζει την απενεργοποίηση της προώθησης κλήσεων όταν δεν απαντηθεί η κλήση.</string>
     <string name="labelCFNRc">Όταν δεν είστε προσβάσιμος</string>
     <string name="messageCFNRc">Αριθμός όταν δεν είμαι προσβάσιμος</string>
     <string name="sum_cfnrc_enabled">Γίνεται προώθηση στο {0}</string>
@@ -684,9 +686,9 @@ Bit ανά δείγμα"</string>
     <string name="enable_disable_atr">Αναφορές οδικής κυκλοφορίας περιοχών</string>
     <string name="atr_enable">Οι Αναφορές οδικής κυκλοφορίας περιοχής είναι ενεργές</string>
     <string name="atr_disable">Οι Αναφορές οδικής κυκλοφορίας περιοχής είναι ανενεργές</string>
-    <string name="enable_disable_lafs">Local airport flight schedules</string>
-    <string name="lafs_enable">Local airport flight schedules are on</string>
-    <string name="lafs_disable">Local airport flight schedules are off</string>
+    <string name="enable_disable_lafs">Προγράμματα πτήσεων τοπικού αεροδρομίου</string>
+    <string name="lafs_enable">Προγράμματα πτήσεων τοπικού αεροδρομίου είναι ενεργά</string>
+    <string name="lafs_disable">Προγράμματα πτήσεων τοπικού αεροδρομίου είναι ανενεργά</string>
     <string name="enable_disable_restaurants">Εστιατόρια</string>
     <string name="restaurants_enable">Τα Εστιατόρια είναι ενεργά</string>
     <string name="restaurants_disable">Τα Εστιατόρια είναι ανενεργά</string>
@@ -830,7 +832,7 @@ Bit ανά δείγμα"</string>
     <string name="card_title_MTcall_forwarding">Έγινε προώθηση εισερχόμενης κλήσης</string>
     <string name="card_title_forwarded_MTcall">Προωθημένη εισερχόμενη κλήση</string>
     <string name="card_title_callonhold">Αναμονή κλήσης</string>
-    <string name="card_title_callretrieved">Call retrieved</string>
+    <string name="card_title_callretrieved">Έγινε ανάκτηση κλήσης</string>
     <string name="card_title_multipartycall">Πολλαπλή κλήση</string>
     <string name="card_title_callonhold_released">Αναμονή κλήσης ακυρώθηκε</string>
     <string name="card_title_forwardcheckreceived">Έγινε λήψη προώθησης ελέγχου</string>
@@ -955,6 +957,10 @@ Bit ανά δείγμα"</string>
     <string name="accessibility_settings_activity_title">Προσβασιμότητα</string>
     <string name="status_hint_label_incoming_wifi_call">Κλήση Wi-Fi από</string>
     <string name="status_hint_label_wifi_call">Κλήση μέσω Wi-Fi</string>
+    <string name="voicemail_visual_voicemail_key">voicemail_visual_voicemail_key</string>
+    <string name="voicemail_change_pin_key">voicemail_change_pin_key</string>
+    <string name="tty_mode_key">button_tty_mode_key</string>
+    <string name="wifi_calling_settings_key">button_wifi_calling_settings_key</string>
     <string name="emergency_action_launch_hint">Αγγίξτε ξανά για άνοιγμα</string>
     <string name="message_decode_error">Παρουσιάστηκε σφάλμα κατά την αποκωδικοποίηση του μηνύματος.</string>
     <string name="callFailed_cdma_activation">Η κάρτα SIM έχει ενεργοποιήσει την υπηρεσία σας και ενημέρωσε τις δυνατότητες περιαγωγής του τηλεφώνου σας.</string>
@@ -984,6 +990,38 @@ Bit ανά δείγμα"</string>
     <string name="incall_status_dialed_mmi">Γίνεται εκκίνηση MMI ακολουθίας…</string>
     <string name="search_app_name">Τηλέφωνο;Καταγραφή κλήσης;Ανακατεύθυνση κλήσεων;Ανακατεύθυνση;Αναμονή κλήσης;Λίστα αποκλεισμένων;Κωδικός χώρας;Κωδικός περιοχής;Κωδικοί χώρας;Κωδικοί περιοχής;Καταγράψτε κλήσεις;Καταγράψτε Κλήση;Πληκτρολόγιο;Κλήση;Κλήσεις;Τηλεφωνία;VoIP;VoLTE;Αναπάντητη Κλήση;Αναπάντητες κλήσεις;SIP;T9;IP τηλεφωνία;ΠΑΚ</string>
     <string name="search_antispam_setting">Λίστα απολεισμού</string>
+    <string name="search_call_record_setting">@string/call_record_setting</string>
+    <string name="search_call_forwarding_settings">@string/call_forwarding_settings</string>
+    <string name="search_call_waiting_title">@string/call_waiting_title</string>
+    <string name="search_answer_state_setting_title">@string/answer_state_setting_title</string>
+    <string name="search_cloud_antispam_title">@string/cloud_antispam_title</string>
+    <string name="search_preference_telocation_title">@string/preference_telocation_title</string>
+    <string name="search_auto_answer_pref_title">@string/auto_answer_pref_title</string>
+    <string name="search_call_recording_notification_toggle_title">@string/call_recording_notification_toggle_title</string>
+    <string name="search_call_record_auto_title">@string/call_record_auto_title</string>
+    <string name="search_turnover_mute_title">@string/turnover_mute_title</string>
+    <string name="search_handon_ringer_title">@string/handon_ringer_title</string>
+    <string name="search_crescendo_ringer_title">@string/crescendo_ringer_title</string>
+    <string name="search_flash_when_ring_title">@string/flash_when_ring_title</string>
+    <string name="search_enable_proximity_title">@string/enable_proximity_title</string>
+    <string name="search_enable_antispam_strange_title">@string/enable_antispam_strange_title</string>
+    <string name="search_telocation_enable_title">@string/telocation_enable_title</string>
+    <string name="search_telocation_custom_location_title">@string/telocation_custom_location_title</string>
+    <string name="search_telocation_contacts_countrycode">@string/telocation_contacts_countrycode</string>
+    <string name="search_telocation_auto_country_code">@string/telocation_auto_country_code</string>
+    <string name="search_preference_dial_pad_touch_tone_title">@string/preference_dial_pad_touch_tone_title</string>
+    <string name="search_autoip_phone">@string/autoip_phone</string>
+    <string name="search_missed_call_notify_times_title">@string/missed_call_notify_times_title</string>
+    <string name="search_connect_disconnect_vibrate_title">@string/connect_disconnect_vibrate_title</string>
+    <string name="search_call_waiting_tone_title">@string/call_waiting_tone_title</string>
+    <string name="search_reject_via_sms">@string/reject_via_sms</string>
+    <string name="search_sip_settings">@string/sip_settings</string>
+    <string name="search_caller_id_title">@string/caller_id_title</string>
+    <string name="search_fdn">@string/fdn</string>
+    <string name="search_voicemail_settings">@string/voicemail_settings</string>
+    <string name="search_dtmf_tones_title">@string/dtmf_tones_title</string>
+    <string name="search_t9_indexing_method_title">@string/t9_indexing_method_title</string>
+    <string name="search_auto_retry_mode_title">@string/auto_retry_mode_title</string>
     <string name="path_app_name">Εφαρμογές συστήματος/Τηλέφωνο</string>
     <string name="path_call_record_setting">Εφαρμογές συστήματος/Τηλέφωνο/Ηχογράφηση κλήσης</string>
     <string name="path_call_forwarding_settings">Εφαρμογές συστήματος/Τηλέφωνο/Ρυθμίσεις προώθησης κλήσεων</string>
@@ -1468,11 +1506,11 @@ Bit ανά δείγμα"</string>
     <string name="voice_service_switch_title">Χρήση υπηρεσιών κλήσεων VoLTE</string>
     <string name="voice_service_switch_summary">Ενεργοποιήστε για δυνατότητα χρήσης κλήσεων VoLTE σε δίκτυα VoLTE</string>
     <string name="voice_service_warning_dialog_title">VoLTE κλήσεις</string>
-    <string name="voice_service_warning_dialog_body">"This tablet supports VoLTE calls in 4G networks. Make sure the networks that your device is connected to support this functionality. VoLTE services are provided by your carrier. Contact your local carrier to learn whether VoLTE is supported in your area.
+    <string name="voice_service_warning_dialog_body">"Αυτό το tablet υποστηρίζει κλήσεις VoLTE σε δίκτυα 4G. Βεβαιωθείτε πως τα δίκτυα με τα οποία είναι συνδεδεμένη η συσκευή σας υποστηρίζουν αυτή την λειτουργία. Οι υπηρεσίες VoLTE παρέχονται από τον πάροχο σας. Επικοινωνήστε με τον τοπικό σας πάροχο εάν η VoLTE υποστηρίζεται στην περιοχή σας.
 
-If you see _ in your status bar, VoLTE calls aren't available. If you can't make or receive calls, or your calls are interrupted, make sure your network is compatible with VoLTE.
+Εάν δείτε _ στην γραμμή κατάστασης σας, οι κλήσεις VoLTE δεν είναι διαθέσιμες. Εάν δεν μπορείτε να πραγματοποιήσετε ή να λάβετε κλήσεις, ή εάν οι κλήσεις σας διακόπτονται, βεβαιωθείτε πως το δίκτυο σας είναι συμβατό με VoLTE.
 
-This tablet doesn't have an earpiece. You can switch to hands-free mode or use earphones to make calls."</string>
+Αυτό το tablet δεν έχει μικρόφωνο. Μπορείτε να κάνετε εναλλαγή σε λειτουργία hands-free ή χρησιμοποιήστε ακουστικά για να πραγματοποιήσετε κλήσεις."</string>
     <string name="voice_service_warning_dialog_cancel">Ακύρωση</string>
     <string name="voice_service_warning_dialog_ok_timer">Κατάλαβα (%d)</string>
     <string name="voice_service_warning_dialog_ok">Κατάλαβα</string>

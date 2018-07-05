@@ -157,6 +157,7 @@
     <string name="add_device_admin_msg">Ενεργοπ. εφαρμογής διαχειριστή συσκευής;</string>
     <string name="add_facerecoginition_text">Προσθήκη δεδομένων προσώπου</string>
     <string name="add_fingerprint_cancel_button_text">Πίσω</string>
+    <string name="add_fingerprint_dirty_fingerprint">Βεβαωθείτε πως η επιφάνεια της οθόνης είναι καθαρή. Προσπαθήστε να καταγράψτε το δακτυλικό αποτύπωμα σας ξανά.</string>
     <string name="add_fingerprint_done_msg">Τώρα μπορείτε να ξεκλειδώσετε την συσκευή με το δακτυλικό σας αποτύπωμα.</string>
     <string name="add_fingerprint_done_title">Είστε έτοιμοι!</string>
     <string name="add_fingerprint_edge_instruction_msg">Μετακινήστε το δάκτυλο σας ώστε ο αισθητήρας να καταγράψει όλες τις άκρες του δακτύλου σας.</string>
@@ -165,6 +166,7 @@
     <string name="add_fingerprint_finished_button_text">Ολοκλήρωση</string>
     <string name="add_fingerprint_instruction_msg">Ο αισθητήρας δακτυλικών αποτυπωμάτων είναι μέσα στο πλήκτρο Αρχικής της συσκευής σας.</string>
     <string name="add_fingerprint_instruction_title">Προσθήκη δακτυλικού αποτυπώματος</string>
+    <string name="add_fingerprint_move_fast">Αφήστε το δάκτυλο σας στην οθόνη λίγο περισσότερο</string>
     <string name="add_fingerprint_name_suggest_text">Όνομα δακτυλικού αποτυπώματος</string>
     <string name="add_fingerprint_put_finger_edge_msg">Μετακινήστε λίγο το δάκτυλό σας και τοποθετήστε το στον αισθητήρα ξανά για την προσθήκη όλων των τμημάτων του δακτυλικού σας αποτυπώματος.</string>
     <string name="add_fingerprint_put_finger_msg">Τοποθετήστε το δάκτυλό σας στον αισθητήρα και σηκώστε το όταν νιώσετε μια δόνηση.</string>
@@ -868,6 +870,7 @@ Bits ανά δείγμα"</string>
     <string name="bootloader_status_locked">Κλειδωμένο</string>
     <string name="bootloader_status_locked_info">Η συσκευή είναι κλειδωμένη</string>
     <string name="bootloader_status_locked_summary">Το τηλέφωνο είναι ασφαλές</string>
+    <string name="bootloader_status_privacy_dialog_message">Το Mi Ξεκλείδωμα απαιτεί πρόσβαση στο Mi Λογαριασμό σας, CPU ID, IMEI, IMSI για να λειτουργήσει κανονικά. Συλλέγουμε, χρησιμοποιούμε, και επεξεργαζόμαστε τα δεδομένα σας με βάση την %s μας. Συμφωνείτε;</string>
     <string name="bootloader_status_privacy_dialog_no">Ακύρωση</string>
     <string name="bootloader_status_privacy_dialog_title">Απαιτούνται άδειες</string>
     <string name="bootloader_status_privacy_dialog_url_text">Πολιτική Απορρήτου</string>
@@ -1391,6 +1394,7 @@ Bits ανά δείγμα"</string>
     <string name="device_internal_memory">Εσωτερικός χώρος αποθήκευσης</string>
     <string name="device_miui_more">Εμφάνιση περισσοτέρων</string>
     <string name="device_miui_version">MIUI έκδοση</string>
+    <string name="device_miui_version_for_POCO">MIUI έκδοση (Για POCO)</string>
     <string name="device_miui_version_update">Διαθέσιμη ενημέρωση MIUI</string>
     <string name="device_name">Όνομα συσκευής</string>
     <string name="device_name_input_error">Αδυναμία αποθήκευσης ονόματος συσκευής</string>
@@ -1938,17 +1942,17 @@ Bits ανά δείγμα"</string>
     <string name="got_it">Κατάλαβα</string>
     <string name="gsm_to_wifi_connect_type_title">GSM σε Wi-Fi</string>
     <string name="gxzw_add_fingerprint_continue">Συνέχεια</string>
-    <string name="gxzw_add_fingerprint_edge_message">Μετακινήστε το δάκτυλο σας ώστε ο αισθητήρας να καταγράψει όλες τις άκρες του δακτύλου σας.</string>
-    <string name="gxzw_add_fingerprint_edge_title">Μετακινήστε λίγο το δάκτυλό σας</string>
-    <string name="gxzw_add_fingerprint_finish">Τέλος</string>
-    <string name="gxzw_add_fingerprint_indicate">Πατήστε πιο δυνατά εδώ</string>
+    <string name="gxzw_add_fingerprint_edge_message">Μετακινήστε το δάκτυλο σας για να καταγράψετε όλες τις άκρες του δακτύλου σας</string>
+    <string name="gxzw_add_fingerprint_edge_title">Προσαρμόστε την πίεση σας</string>
+    <string name="gxzw_add_fingerprint_finish">Ολοκλήρωση!</string>
+    <string name="gxzw_add_fingerprint_indicate">Πιέστε ελαφρά την περιοχή αυτή</string>
     <string name="gxzw_add_fingerprint_know">Κατάλαβα</string>
-    <string name="gxzw_add_fingerprint_message">Διατηρήστε τα δάκτυλα και την οθόνη σας καθαρά</string>
+    <string name="gxzw_add_fingerprint_message">Βεβαιωθείτε πως και το δάκτυλο σας και η οθόνη σας είναι καθαρά</string>
     <string name="gxzw_add_fingerprint_move_indicate">Μετακινήστε λίγο το δάκτυλό σας</string>
-    <string name="gxzw_add_fingerprint_move_message">Αδυναμία εγγραφής των εναπομείναντων τμημάτων του δακτυλικού σας αποτυπώματος. Μετακινήστε λίγο το δάκτυλο σας</string>
+    <string name="gxzw_add_fingerprint_move_message">Μετακινήστε το δάκτυλο σας για να καταγράψετε όλα τα μέρη του δακτύλου σας</string>
     <string name="gxzw_add_fingerprint_move_title">Μετακινήστε λίγο το δάκτυλό σας</string>
-    <string name="gxzw_add_fingerprint_put_finger_message">Πατήστε λίγο πιο δυνατά και σηκώστε το δάκτυλο σας μετά την δόνηση. Επαναλάβετε πολλές φορές.</string>
-    <string name="gxzw_add_fingerprint_put_finger_title">Πατήστε πιο δυνατά και αφήστε μετά την δόνηση</string>
+    <string name="gxzw_add_fingerprint_put_finger_message">Πατήστε την οθόνη και σηκώστε το δάκτυλο σας μετά την δόνηση. Επαναλάβετε πολλές φορές.</string>
+    <string name="gxzw_add_fingerprint_put_finger_title">Πατήστε και αφήστε μετά την δόνηση</string>
     <string name="gxzw_add_fingerprint_title">Προσθήκη δακτυλικού αποτυπώματος</string>
     <string name="handy_mode">Λειτουργία ενός χεριού</string>
     <string name="handy_mode_enable">Λειτουργία ενός χεριού</string>
@@ -2076,6 +2080,7 @@ Bits ανά δείγμα"</string>
     <string name="key_combination_power_back">Απενεργοποίηση + Πίσω</string>
     <string name="key_combination_power_home">Απενεργοποίηση + Αρχική</string>
     <string name="key_combination_power_menu">Απενεργοποίηση + Μενού</string>
+    <string name="key_fsg_dialog_message">Χρησιμοποιείτε χειρονομίες πλήρους οθόνης για πλοήγηση. Λειτουργίες σχετικά με πλήκτρα δεν είναι διαθέσιμες τώρα. Εναλλαγή σε πλήκτρα;</string>
     <string name="key_fsg_dialog_negative">Ακύρωση</string>
     <string name="key_fsg_dialog_positive">Εναλλαγή σε πλήκτρα</string>
     <string name="key_gesture_function_dialog_message">%1$s είναι συντόμευση για %2$s. Αντικατάσταση με %3$s;</string>
@@ -2327,6 +2332,7 @@ Bits ανά δείγμα"</string>
     <string name="lockpassword_choose_your_pin_header">Ορισμός του PIN σας</string>
     <string name="lockpassword_choose_your_pin_header_second_space">"Ορισμός PIN
  για Δεύτερο χώρο"</string>
+    <string name="lockpassword_choose_your_pin_title">Εισαγωγή 4-16 ψηφία</string>
     <string name="lockpassword_confirm_for_second_user">Επιβεβαίωση του κωδικού Δεύτερου χώρου σας</string>
     <string name="lockpassword_confirm_passwords_dont_match">Οι κωδικοί δεν ταιριάζουν</string>
     <string name="lockpassword_confirm_pins_dont_match">Τα PINs δεν ταιριάζουν</string>
@@ -2601,6 +2607,7 @@ Bits ανά δείγμα"</string>
     <string name="miui_lab_gallery_search_title">Βρείτε φωτογραφίες στην Συλλογή</string>
     <string name="miui_lab_settings">MIUI εργαστήριο</string>
     <string name="miui_lab_slogan">Μάθετε. Εξερευνήστε. Ανακαλύψτε.</string>
+    <string name="miui_lab_super_resolution_desc">Μετατρέπει τις εικόνες σε πιο ακριβείς</string>
     <string name="miui_lab_super_resolution_title">Σούπερ ανάλυση</string>
     <string name="miui_master_clear_summary">Διαγράφει όλα τα δεδομένα στο τηλέφωνο</string>
     <string name="miui_touch_filtered_warning">Εάν μια εφαρμογή μπλοκάρει το πλαίσιο διαλόγου αδειών. σύρετε το αντικείμενο μακριά ή κλείστε την εφαρμογή.</string>
@@ -3554,7 +3561,7 @@ Bits ανά δείγμα"</string>
     <string name="screen_paper_mode_off_apps_title">Να μην γίνει χρήση Λειτουργίας ανάγνωσης</string>
     <string name="screen_paper_mode_range_title">Ρυθμίσεις</string>
     <string name="screen_paper_mode_set_apps_title">Εφαρμογές Λειτουργίας ανάγνωσης</string>
-    <string name="screen_paper_mode_summary">Μείωση μπλε φωτισμού οθόνης</string>
+    <string name="screen_paper_mode_summary">Η λειτουργία ανάγνωσης κάνει τα χρώματα της οθόνης σας πιο θερμά επιτρέποντας στα μάτια σας να χαλαρώσουν.</string>
     <string name="screen_paper_mode_time_summary">Προγραμματισμός ώρας ενεργοποίησης και απενεργοποίησης της Λειτουργίας ανάγνωσης</string>
     <string name="screen_paper_mode_time_title">Πρόγραμμα</string>
     <string name="screen_paper_mode_title">Λειτουργία ανάγνωσης</string>
@@ -4088,6 +4095,7 @@ Bits ανά δείγμα"</string>
     <string name="sim_lock_settings_summary_on">Κλειδωμένο</string>
     <string name="sim_lock_settings_title">Κλείδωμα SIM</string>
     <string name="sim_management_title">Κάρτες SIM &amp; κινητά δίκτυα</string>
+    <string name="sim_management_title_singlesim">Κάρτα SIM &amp; κινητά δίκτυα</string>
     <string name="sim_multi_sims_summary">Επιλέξτε την κάρτα SIM που προτιμάτε για δεδομένα κινητής τηλεφωνίας.</string>
     <string name="sim_multi_sims_title">Βρέθηκαν πολλές SIM</string>
     <string name="sim_name_hint">Πληκτρολογήστε το όνομα SIM</string>
@@ -4404,8 +4412,10 @@ Bits ανά δείγμα"</string>
     <string name="sum_carrier_select">Επιλέξτε μια εταιρεία δικτύου</string>
     <string name="summary_range_verbal_combination">%1$s έως %2$s</string>
     <string name="super_resolution_access_title">Προσβάσιμες εφαρμογές</string>
+    <string name="super_resolution_desc">Μετατρέπει τις εικόνες σε πιο ακριβείς μέσω ενός AI αλγόριθμου</string>
     <string name="super_resolution_maintain">Η σούπερ ανάλυση δεν είναι διαθέσιμη ακόμα.</string>
     <string name="super_resolution_no_app_tips">Λήψη WeChat και Toutiao πρώτα.</string>
+    <string name="super_resolution_reboot_tips">Αυτή η λειτουργία επιτρέπει τις θολές εικόνες σε WeChat και Toutiao να γίνονται πιο ακριβείς. Εκκινήστε εφαρμογές ξανά μετά την ενεργοποίηση αυτής της λειτουργίας.</string>
     <string name="super_resolution_title">Σούπερ ανάλυση</string>
     <string name="supl_not_set">&lt;Δεν ορίστηκε></string>
     <string name="support_account_picker_add_account">Προσθήκη λογαριασμού</string>

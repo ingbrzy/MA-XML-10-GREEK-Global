@@ -434,6 +434,7 @@
     <string name="managed_user_title">Όλες οι εφαρμογές δουλειάς</string>
     <string name="pref_about_traffic_title">Ρυθμίσεις χρήσης δεδομένων</string>
     <string name="pref_traffic_manage_title">Χρήση δεδομένων</string>
+    <string name="pref_operator_setting">%1$s%2$s</string>
     <string name="pref_package_traffic_settings">Πλάνο δεδομένων</string>
     <string name="pref_adjust_traffic_data">Ορισμός χρήσης δεδομένων</string>
     <string name="pref_category_title_other">Πρόσθετες ρυθμίσεις</string>
@@ -957,6 +958,7 @@
     <string name="om_formatted_percent_string">%s%%</string>
     <string name="om_cpu_usage_warn_title_text">"Η εφαρμογή μπορεί να επιβραδύνει
 την συσκευή σας"</string>
+    <string name="om_memory_clean_memory_info_text">%1$s / %2$s</string>
     <string name="om_ill_proc_handle_unstaill_title">Απεγκατάσταση %s;</string>
     <string name="om_ill_proc_handle_uninstall_prompt">Απεγκαταστήστε την εφαρμογή για επίλυση των προβλημάτων χρήσης μπαταρίας.</string>
     <string name="om_ill_proc_type_wakelock_title">Η εφαρμογή μπλοκάρει την λειτουργία αδράνειας και καταναλώνει μπαταρία</string>
@@ -1015,6 +1017,7 @@
     <string name="usage_type_data_send">Έγινε αποστολή κινητών δεδομένων</string>
     <string name="usage_type_no_coverage">Χρόνος χωρίς σήμα</string>
     <string name="usage_type_gps">GPS</string>
+    <string name="process_kernel_label">Android</string>
     <string name="process_mediaserver_label">Διακομιστής πολυμέσων</string>
     <string name="power_screen">Οθόνη</string>
     <string name="power_wifi">Wi-Fi</string>
@@ -1360,6 +1363,7 @@
     <string name="menu_text_networkassistants">Χρήση δεδομένων</string>
     <string name="menu_text_networkassistants_remain">%s απέμειναν</string>
     <string name="menu_text_networkassistants_danger">%s παραπάνω</string>
+    <string name="menu_text_networkassistants_data">%1$s%2$s</string>
     <string name="menu_text_networkassistants_unit_gb">GB</string>
     <string name="menu_text_networkassistants_unit_mb">MB</string>
     <string name="menu_text_networkassistants_unit_kb">KB</string>
@@ -1734,6 +1738,7 @@
     <string name="card_main_deepclean_wechat_action">Εκκαθάριση</string>
     <string name="card_main_sectool_title">Εργαλεία</string>
     <string name="card_main_monthreport_action">Προβολή</string>
+    <string name="card_main_speeddetail_action">@string/card_main_monthreport_action</string>
     <string name="card_main_netcheck_title">Δοκιμή δικτύου</string>
     <string name="card_main_netcheck_summary">Δοκιμή σύνδεσης για προβλήματα δικτύου</string>
     <string name="card_main_netcheck_action">Δοκιμή</string>
@@ -2271,5 +2276,5 @@
     <string name="gamebox_type_close">Να μην εμφανίζεται</string>
     <string name="gamebox_type_float">Έγινε επίλυση συντόμευσης</string>
     <string name="gamebox_type_gesture">Σαρώστε για προβολή</string>
-    <string name="notify_channel_name_security">System security</string>
+    <string name="notify_channel_name_security">Ασφάλεια συστήματος</string>
 </resources>
