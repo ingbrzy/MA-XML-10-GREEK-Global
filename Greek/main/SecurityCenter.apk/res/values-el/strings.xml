@@ -1367,9 +1367,7 @@
     <string name="menu_text_antispam">Λίστα αποκλεισμών</string>
     <string name="menu_text_license_manager">Άδειες</string>
     <string name="menu_text_garbage_cleanup">Εκκαθάριση</string>
-    <string name="menu_text_garbage_cleanup_danger">%s παραπάνω</string>
     <string name="menu_text_power_manager">Χρήση μπαταρίας</string>
-    <string name="menu_text_power_percent_title">Μπαταρία %s</string>
     <string name="menu_text_power_percent_title_default">Μπαταρία</string>
     <string name="last_check_canceled">Η προηγούμενη σάρωση ακυρώθηκε</string>
     <string name="examination_score_100">Όλα φαίνονται να λειτουργούν σωστά!</string>

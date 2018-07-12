@@ -101,7 +101,6 @@
     <string name="incompatible_dialog_ok">Κατάλαβα</string>
     <string name="incompatible_dialog_title">Προβλήματα συμβατότητας</string>
     <string name="is_setting_wallpaper_message">Γίνεται ορισμός ταπετσαρίας…</string>
-    <string name="item_resource_audio_divider">│</string>
     <string name="item_resource_audio_optional_alarm_ring">Ξυπνητήρια</string>
     <string name="item_resource_audio_optional_color_ring">Τόνος επιστροφής κλήσης</string>
     <string name="item_resource_audio_optional_notification_ring">Ειδοποιήσεις</string>
@@ -294,7 +293,6 @@
     <string name="resource_pack_price_info">Αρχική τιμή: %1$s</string>
     <string name="resource_pack_warning">Έχετε ήδη αγοράσει %1$d από τα συστατικά αυτού του θέματος. Για αυτό η αγορά των υπόλοιπων συστατικών ξεχωριστά είναι πιο φθηνή επιλογή.</string>
     <string name="resource_present">Δώρο</string>
-    <string name="resource_price_format">(%1$s)</string>
     <string name="resource_price_free">Δωρεάν</string>
     <string name="resource_price_unit">Mi Credits</string>
     <string name="resource_purchase_common_error">Παρουσιάστηκε σφάλμα, προσπαθήστε ξανά</string>
