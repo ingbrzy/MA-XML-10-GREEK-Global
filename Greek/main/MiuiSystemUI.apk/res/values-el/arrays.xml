@@ -17,6 +17,15 @@
         <item>3 διαδικασίες το πολύ</item>
         <item>4 διαδικασίες το πολύ</item>
     </string-array>
+    <string-array name="aqi_title_prefix">
+        <item>ΠΑ %1$s</item>
+        <item>ΠΑ %1$s</item>
+        <item>ΠΑ %1$s</item>
+        <item>ΠΑ %1$s</item>
+        <item>ΠΑ %1$s</item>
+        <item>ΠΑ %1$s</item>
+        <item>ΠΑ %1$s</item>
+    </string-array>
     <string-array name="battery_options">
         <item>Να εμφανίζεται πάντα το ποσοστό</item>
         <item>Να εμφανίζεται ποσοστό κατά την φόρτιση (προεπιλογή)</item>

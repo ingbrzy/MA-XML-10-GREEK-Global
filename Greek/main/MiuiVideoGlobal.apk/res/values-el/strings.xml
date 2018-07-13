@@ -19,6 +19,7 @@
     <string name="abc_shareactionprovider_share_with">Κοινή χρήση με</string>
     <string name="abc_shareactionprovider_share_with_application">Κοινή χρήση με %s</string>
     <string name="abc_toolbar_collapse_description">Σύμπτυξη</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
     <string name="airkan_control_device_des">Για έλεγχο της αναπαραγωγής, πατήστε τη μπάρα στο κάτω μέρος.</string>
     <string name="airkan_device_xiaomi_phone">Το τηλέφωνο μου</string>
     <string name="airkan_playing">Γίνεται μετάδοση σε %s</string>

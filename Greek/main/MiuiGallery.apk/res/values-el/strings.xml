@@ -54,6 +54,7 @@
     <string name="album_name_people">Πρόσωπα</string>
     <string name="album_name_recent_discovery">Πρόσφατα</string>
     <string name="album_name_tags">Ετικέτες</string>
+    <string name="album_notes">Notes</string>
     <string name="album_others_share_baby_info_format">Άλμπουμ Μωρού από %s</string>
     <string name="album_others_share_info_format">Από %s</string>
     <string name="album_owner_share">Κοινοποιημένα</string>
@@ -206,8 +207,8 @@
     <string name="change_to_face_mode">Εμφάνιση προσώπου μόνο</string>
     <string name="change_to_photo_mode">Εμφάνιση πλήρων προεπισκοπήσεων</string>
     <string name="change_to_visible">Επαναφορά αυτού του ατόμου;</string>
-    <string name="checked">Selected</string>
-    <string name="checked_something">Selected %s</string>
+    <string name="checked">Έγινε επιλογή</string>
+    <string name="checked_something">Επιλέχθηκαν %s</string>
     <string name="choose_baby_sexy">Γένος</string>
     <string name="choose_owner_relation">Σχέση</string>
     <string name="choose_people">Επιλογή άλμπουμ ενός ατόμου</string>
@@ -373,7 +374,6 @@
     <string name="enable_cloud_for_sharing">Ενεργοποίηση άλμπουμ Mi Cloud για προβολή κοινοποιημένων φωτογραφιών.</string>
     <string name="enable_face_album_summary">Αυτόματη ταξινόμηση φωτογραφιών ανά των ατόμων που απεικονίζονται σε αυτές</string>
     <string name="enable_face_album_title">Ταξινόμηση ανά άτομα</string>
-    <string name="enabling_face_feature">Περιμένετε μια στιγμή…</string>
     <string name="enter_choice_mode">Entered Share dialog</string>
     <string name="enter_email_hint">Εισαγωγή διεύθυνσης email</string>
     <string name="error_album_not_exist">Το άλμπουμ δεν υπάρχει</string>
@@ -446,7 +446,6 @@
     <string name="exit_video_play">Έξοδος</string>
     <string name="expand_desc">Περισσότερα</string>
     <string name="expand_people">Εμφάνιση περισσότερων ατόμων</string>
-    <string name="face_album_detecting_tip">Περιμένετε μια στιγμή…</string>
     <string name="face_album_empty">"Δεν υπάρχουν αρκετές φωτογραφίες για αναγνώριση προσώπων.
 Κάντε λήψη περισσότερων φωτογραφιών!"</string>
     <string name="face_album_empty_syncing">Γίνεται συγχρονισμός δεδομένων, επανέλθετε αργότερα</string>
@@ -454,7 +453,6 @@
     <string name="face_album_long_tap_tip">Για επιλογή περισσότερων ατόμων ή αλλαγή ρυθμίσεων ομάδας, πατήστε &amp; παρατεταμένα μια φωτογραφία προφίλ</string>
     <string name="face_album_new_name_hint">Νέο όνομα</string>
     <string name="face_album_not_named">Χωρίς όνομα</string>
-    <string name="face_album_pending_enable_tip">Θα γίνει ταξινόμηση φωτογραφιών όταν συνδεθεί η συσκευή στο δίκτυο</string>
     <string name="face_album_rename_hint">Εισαγωγή ονόματος</string>
     <string name="face_album_title">Φωτογραφίες με %s</string>
     <string name="face_album_use_tip">Αυτόματη ταξινόμηση φωτογραφιών ανά των ατόμων που απεικονίζονται σε αυτές.</string>
@@ -465,6 +463,7 @@
     <string name="face_name_edit">Επεξεργασία</string>
     <string name="face_name_input">Εισαγωγή ονόματος</string>
     <string name="face_recommend">Προτάσεις</string>
+    <string name="face_recommend_group_number">%1$d/%2$d</string>
     <string name="fail_hint">Αδυναμία ολοκλήρωσης λειτουργίας</string>
     <string name="fail_to_pick_email">Μη έγκυρη διεύθυνση email</string>
     <string name="fail_to_sync_album">Αδυναμία συγχρονισμού άλμπουμ. Ελέγξτε την σύνδεση δεδομένων σας και προσπαθήστε ξανά.</string>
@@ -472,7 +471,10 @@
     <string name="fancy_color_desc">Χρώματα</string>
     <string name="fast_share_auto_render">Ωραιοποίηση</string>
     <string name="fast_share_auto_render_finish">Έγινε ωραιοποίηση</string>
-    <string name="feature_guidance_photo_effects">Photo effects</string>
+    <string name="feature_guidance_photo_effects">"New photo effects
+are available"</string>
+    <string name="feature_guidance_video_editor_smart_effects">New effects are available</string>
+    <string name="fileSizeSuffix">%1$s%2$s</string>
     <string name="filter_bi_memory">Μνήμη</string>
     <string name="filter_bi_mono">Μονόχρωμο</string>
     <string name="filter_bi_pink">Ροζ</string>
@@ -541,6 +543,7 @@
     <string name="gif_tip">GIF</string>
     <string name="gigabyteShort">GB</string>
     <string name="grant_permission_go_and_set">Ρύθμιση</string>
+    <string name="grant_permission_item">\"%s\"</string>
     <string name="grant_permission_text">"Η Συλλογή απαιτεί πρόσβαση σε 
 %s
  για κανονική λειτουργία, πατήστε \"Ρύθμιση\" για να μεταβείτε στις Άδειες."</string>
@@ -575,8 +578,8 @@
     <string name="image_invalid_path">Μη έγκυρη διαδρομή</string>
     <string name="image_not_found">Αδυναμία εύρεσης εικόνας</string>
     <string name="image_quota_fulfiled">Πάρα πολλές φωτογραφίες. Διαγράψτε μερικές φωτογραφίες και προσπαθήστε ξανά.</string>
-    <string name="image_with_time">Photo taken on %s</string>
-    <string name="image_with_time_and_location">Photo taken on %1$s. Location: %2$s.</string>
+    <string name="image_with_time">Φωτογραφία που ελήφθη από %s</string>
+    <string name="image_with_time_and_location">Φωτογραφία που ελήφθη από %1$s. Τοποθεσία: %2$s.</string>
     <string name="impunity_declaration_settings">Ειδοποίηση σύνδεσης Ίντερνετ</string>
     <string name="impunity_declaration_summary">Εμφάνιση ειδοποίησης σύνδεσης Ίντερνετ κάθε φορά που ανοίγετε την Συλλογή</string>
     <string name="initializing_cloud">Γίνεται εκκίνηση…</string>
@@ -736,6 +739,7 @@
     <string name="people_mark_mode_title_no_mark_name">Επιλέξτε ένα άτομο</string>
     <string name="people_page_label">Άτομα</string>
     <string name="people_page_unname">Χωρίς όνομα</string>
+    <string name="percent_sign">%</string>
     <string name="pet_album_display_name">Φωτογραφίες κατοικίδιων</string>
     <string name="petabyteShort">PB</string>
     <string name="photo">Φωτογραφίες</string>
@@ -810,7 +814,13 @@
     <string name="photo_print_package_installing">Φόρτωση plug-in…</string>
     <string name="photo_save_to_msg">Αποθηκεύτηκε σε %s</string>
     <string name="photomovie_audio_custom">Τοπικά</string>
+    <string name="photomovie_audio_default">Μνήμη</string>
+    <string name="photomovie_audio_kawaii">Ρομαντικό</string>
+    <string name="photomovie_audio_light">Μπαλάντα</string>
+    <string name="photomovie_audio_linear">Ροκ</string>
     <string name="photomovie_audio_none">Χωρίς</string>
+    <string name="photomovie_audio_soft">Γιουκαλίλι</string>
+    <string name="photomovie_audio_sport">Τέκνο</string>
     <string name="photomovie_cancel_download">Ακύρωση</string>
     <string name="photomovie_delete_disable">Χρειάζεστε τρεις τουλάχιστον φωτογραφίες για δημιουργία κλιπ.</string>
     <string name="photomovie_download">Λήψη</string>
@@ -832,6 +842,11 @@
     <string name="photomovie_tab_music">Μουσική</string>
     <string name="photomovie_tab_template">Πρότυπο</string>
     <string name="photomovie_template_default">Αργό</string>
+    <string name="photomovie_template_kawaii">Charms</string>
+    <string name="photomovie_template_light">Αεράκι</string>
+    <string name="photomovie_template_linear">Εκδρομή</string>
+    <string name="photomovie_template_soft">Νεολαία</string>
+    <string name="photomovie_template_sport">Ενέργεια</string>
     <string name="pick_from_contact">Επιλογή από επαφές</string>
     <string name="pick_too_many_recipients">Πάρα πολλοί παραλήπτες</string>
     <string name="picker_cancel_download">Ακύρωση λήψης</string>
@@ -844,6 +859,7 @@
     <string name="picker_image_will_download">%d από τις επιλεγμένες φωτογραφίες δεν είναι στην συσκευή. Θα γίνει λήψη.</string>
     <string name="picker_no_network_message">Σύνδεση στο δίκτυο για λήψη</string>
     <string name="picker_origin_need_download">%1$d από τις επιλεγμένες φωτογραφίες(%2$dMB) δεν είναι στην συσκευή. Λήψη με χρήση δεδομένων κινητής τηλεφωνίας;</string>
+    <string name="picker_origin_request_progress_message">Preparing original files (%1$d/%2$d)…</string>
     <string name="picker_title_format">Επιλέξτε %1$d μέχρι %2$d φωτογραφίες</string>
     <string name="picker_title_selection_format">Επιλεγμένες φωτογραφίες: %d</string>
     <string name="picker_title_selection_format_multiple">Επιλέξτε %1$d μέχρι %2$d φωτογραφίες (%3$d)</string>
@@ -957,12 +973,12 @@
     <string name="search_net_error">Παρουσιάστηκε σφάλμα δικτύου. Συνδεθείτε σε ένα διαφορετικό δίκτυο και προσπαθήστε ξανά.</string>
     <string name="search_request_applied">Έχει εφαρμοστεί</string>
     <string name="search_request_open">Συμμετάσχετε στην ομάδα εξέτασης</string>
+    <string name="search_request_requesting">Applied. Wait a while before you start.</string>
     <string name="search_result_empty">Δεν βρέθηκε τίποτα</string>
     <string name="search_retry">Προσπαθήστε ξανά</string>
     <string name="search_select_network">Επιλογή δικτύου</string>
     <string name="search_set_network_connection">Ρυθμίσεις δικτύου</string>
     <string name="search_setting_sub_title">Αναζήτηση για άτομα, τοποθεσίες και αντικείμενα στις φωτογραφίες σας.</string>
-    <string name="search_setting_sub_title_open">Έχει εφαρμοστεί. Περιμένετε για λίγο πριν ξεκινήσετε.</string>
     <string name="search_setting_title">Βρείτε φωτογραφίες στην Συλλογή</string>
     <string name="search_syncing">Γίνεται συγχρονισμός δεδομένων, επανέλθετε αργότερα</string>
     <string name="search_title_album">Άλμπουμ</string>
@@ -975,6 +991,9 @@
     <string name="search_title_recommend">Προτεινόμενα</string>
     <string name="search_title_suggestion">Προτάσεις</string>
     <string name="search_title_tag">Αντικείμενα</string>
+    <string name="search_transition_element_icon">search_icon</string>
+    <string name="search_transition_element_input">search_input</string>
+    <string name="search_transition_element_voice">search_voice</string>
     <string name="searching_cast_devices">Αναζήτηση για προβολέα…</string>
     <string name="secret_album_card_description">Το καλύτερο μέρος για όλα τα μυστικά σας</string>
     <string name="secret_album_card_title">Δοκιμάστε τα κρυφά άλμπουμ</string>
@@ -992,6 +1011,7 @@
     <string name="secret_reason_too_large">Το αρχείο είναι πολύ μεγάλο</string>
     <string name="secret_reason_type_not_support">Αυτό το αρχείο δεν υποστηρίζεται</string>
     <string name="secret_reason_unknow_reasons">Άγνωστο σφάλμα</string>
+    <string name="secret_reason_video_not_support">"Can't add videos to hidden album"</string>
     <string name="see_ignore_faces">Προβολή ατόμων που αγνοήσατε</string>
     <string name="select_item_face">"Είναι '%s';"</string>
     <string name="select_origin_tip">Αρχικό αρχείο(%s)</string>
@@ -1062,7 +1082,7 @@
     <string name="sticker_words">Λέξεις</string>
     <string name="storage_description_primary">Εσωτερικός χώρος αποθήκευσης</string>
     <string name="storage_description_sdcard">Κάρτα SD</string>
-    <string name="storage_description_usb">USB storage</string>
+    <string name="storage_description_usb">Χώρος αποθήκευσης USB</string>
     <string name="storage_description_xspace">Δεδομένα διπλότυπων εφαρμογών</string>
     <string name="storage_no_space">Μη επαρκής χώρος αποθήκευσης</string>
     <string name="sub_discard_confirm_message">Αποθήκευση αλλαγών;</string>
@@ -1128,8 +1148,8 @@
     <string name="turn_off_and_move">Απενεργοποίηση και μετακίνηση</string>
     <string name="turn_on_and_remove">Ενεργοποίηση και μετακίνηση</string>
     <string name="turn_on_sync">Ενεργοποίηση συγχρονισμού</string>
-    <string name="unchecked">Deselected</string>
-    <string name="unchecked_something">Deselected %s</string>
+    <string name="unchecked">Έγινε αποεπιλογή</string>
+    <string name="unchecked_something">Αποεπιλέχθηκαν %s</string>
     <string name="unpublish_failed">Αδυναμία άρσης δημοσίευσης</string>
     <string name="unpublish_succeeded">Έγινε άρση δημοσίευσης άλμπουμ</string>
     <string name="unpublishing">Γίνεται ακύρωση…</string>
@@ -1205,7 +1225,7 @@
     <string name="video_editor_smart_effect_fastslow">Κίνηση</string>
     <string name="video_editor_smart_effect_freesze">Παύση κίνησης</string>
     <string name="video_editor_smart_effect_halo">Φωτοστέφανο</string>
-    <string name="video_editor_smart_effect_high_iframes_text">Αυτό το εφέ λειτουργεί καλύτερα σε βίντεο με υψηλό ρυθμό καρέ.</string>
+    <string name="video_editor_smart_effect_high_iframes_text">This effect works best for 120 fps videos.</string>
     <string name="video_editor_smart_effect_movie">Ταινία</string>
     <string name="video_editor_smart_effect_none">Χωρίς</string>
     <string name="video_editor_smart_effect_radical">Αισιόδοξο</string>
@@ -1233,16 +1253,17 @@
     <string name="video_editor_unsupport_audio_file">Μη υποστηριζόμενο αρχείο ήχου</string>
     <string name="video_editor_unzip_file_fail">Αδυναμία ξεπακεταρίσματος βίντεο.</string>
     <string name="video_editor_video_is_short">Αδυναμία επεξεργασίας βίντεο.</string>
+    <string name="video_editor_video_loading">Preparing video,Wait a second or two and try again.</string>
     <string name="video_editor_watermark">Υδατογράφημα</string>
     <string name="video_err">Αδυναμία αναπαραγωγής βίντεο</string>
     <string name="video_not_exist">Το βίντεο δεν υπάρχει</string>
-    <string name="video_with_time">Video taken on %s</string>
-    <string name="video_with_time_and_location">Video taken on %1$s. Location: %2$s.</string>
+    <string name="video_with_time">Βίντεο που ελήφθη από %s</string>
+    <string name="video_with_time_and_location">Βίντεο που ελήφθη από %1$s. Τοποθεσία: %2$s.</string>
     <string name="view_by_gallery_tip">Συλλογή MIUI</string>
     <string name="view_face_album">Προβολή άλμπουμ</string>
     <string name="view_more_face_desc">Εμφάνιση περισσότερων ατόμων</string>
-    <string name="view_queuing_status">Έλεγχος κατάστασης</string>
     <string name="voice_assistant">Εισαγωγή φωνής</string>
+    <string name="welcome_to_auto_backup">@string/welcome_to_micloud</string>
     <string name="welcome_to_micloud">Καλωσορίσατε στο Mi Cloud</string>
     <string name="where_is_barcode">Που είναι ο QR κωδικός;</string>
     <string name="who_is_this">Ποιος είναι;</string>

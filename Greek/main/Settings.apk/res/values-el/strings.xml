@@ -890,6 +890,7 @@ Bits ανά δείγμα"</string>
     <string name="brightness_title">Φωτεινότητα</string>
     <string name="bt_hci_snoop_log">Καταγραφή ανίχνευσης HCI Bluetooth</string>
     <string name="bt_hci_snoop_log_summary">Σύλληψη όλων των πακέτων Bluetooth HCI σε ένα αρχείο</string>
+    <string name="bt_ldac_settings">Ρυθμίσεις</string>
     <string name="bt_rarely_used_device_title">Σπάνια σε χρήση συσκευές (%d)</string>
     <string name="bt_trace_log">Καταγραφή ανίχνευσης Bluetooth</string>
     <string name="bt_trace_log_summary">Καταγραφή ανίχνευσης Bluetooth</string>
@@ -1823,6 +1824,7 @@ Bits ανά δείγμα"</string>
     <string name="firewall_temp_rule_reason">%2$s περιόρισε την σύνδεση Ίντερνετ για %1$s</string>
     <string name="firewall_wifi_dialog_message">Η εγκατεστημένη εφαρμογή δεν θα έχει δυνατότητα σύνδεσης στο Ίντερνετ μέσω Wi-Fi όταν αυτή η επιλογή είναι ανενεργή.</string>
     <string name="firmware_version">Έκδοση Android</string>
+    <string name="flash_drive_backup_restore_summary">Συνδέστε μια συσκευή USB</string>
     <string name="floating_window_switch_label">Ενεργοποίηση αναδυόμενων παραθύρων</string>
     <string name="floating_window_switch_label_disable">Απενεργοποίηση αναδυόμενων παραθύρων</string>
     <string name="fluency_mode">Κινούμενες εικόνες συστήματος</string>
@@ -4210,7 +4212,6 @@ Bits ανά δείγμα"</string>
     <string name="status_bar_settings_show_carrier_summary">Το όνομα του πάροχου θα εμφανίζεται στην οθόνη κλειδώματος και στον πίνακα ειδοποιήσεων όταν αυτή η λειτουργία είναι απενεργοποιημένη</string>
     <string name="status_bar_settings_show_carrier_under_keyguard">Προβολή παρόχου όταν η συσκευή είναι κλειδωμένη</string>
     <string name="status_bar_settings_show_floating_notification">Αναδυόμενες ειδοποιήσεις</string>
-    <string name="status_bar_settings_show_floating_notification_summary">Οι αναδυόμενες ειδοποιήσεις θα εξαφανιστούν αυτόματα μετά την εμφάνισή τους στην κορυφή της οθόνης</string>
     <string name="status_bar_settings_show_flow_info">Προβολή χρήσης δεδομένων</string>
     <string name="status_bar_settings_show_home_message">Σήμα εικονιδίου εφαρμογών</string>
     <string name="status_bar_settings_show_keyguard_notification">Ειδοποιήσεις οθόνης κλειδώματος</string>

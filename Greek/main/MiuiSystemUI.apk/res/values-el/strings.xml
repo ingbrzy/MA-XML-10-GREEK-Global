@@ -480,8 +480,6 @@ Bits ανά δείγμα"</string>
     <string name="dlg_confirm_kill_storage_users_title">Ενεργοποίηση αποθηκευτικού χώρου USB</string>
     <string name="dlg_error_title">Ανεπιτυχής επιχείρηση USB</string>
     <string name="dnd_is_off">Μην ενοχλείτε ανενεργό</string>
-    <string name="do_disclosure_generic">Αυτή η συσκευή διαχειρίζεται από την οργάνωση σας</string>
-    <string name="do_disclosure_with_name">Αυτή η συσκευή διαχειρίζεται από %s</string>
     <string name="do_not_silence">Να μην γίνει σίγαση</string>
     <string name="do_not_silence_block">Να μην γίνει σίγαση ή αποκλεισμός</string>
     <string name="dock_forced_resizable">Η εφαρμογή ενδέχεται να μην λειτουργεί με Διαχωρισμό οθόνης.</string>
@@ -532,7 +530,6 @@ Bits ανά δείγμα"</string>
     <string name="external_source_trusted">Έγινε αποδοχή</string>
     <string name="external_source_untrusted">Δεν επιτρέπεται</string>
     <string name="failed_to_open_app_settings_toast">Αδυναμία ανοίγματος ρυθμίσεων για %1$s</string>
-    <string name="fingerprint_not_recognized">Δεν αναγνωρίστηκε</string>
     <string name="float_incall_ignore">Αγνόηση</string>
     <string name="float_incall_message">Μήνυμα</string>
     <string name="force_allow_on_external">Να επιτρέπεται σε εφαρμογές η εγγραφή στον εξωτερικό χώρο αποθήκευσης</string>
@@ -602,6 +599,7 @@ Bits ανά δείγμα"</string>
     <string name="inactive_app_active_summary">Ενεργό. Πατήστε για εναλλαγή.</string>
     <string name="inactive_app_inactive_summary">Ανενεργό. Πατήστε για εναλλαγή.</string>
     <string name="inactive_apps_title">Ανενεργές εφαρμογές</string>
+    <string name="input_pattern_hint_text">Σχεδιάστε το μοτίβο ξεκλειδώματος</string>
     <string name="install_other_apps">Εγκατάσταση άγνωστων εφαρμογών</string>
     <string name="installer_cd_button_title">Εγκαταστήστε την εφαρμογή Μεταφοράς Αρχείων Android για Mac</string>
     <string name="instant_apps">Άμεσες εφαρμογές</string>
@@ -661,96 +659,12 @@ Bits ανά δείγμα"</string>
     <string name="keyboard_shortcut_group_system_recents">Πρόσφατα</string>
     <string name="keyboard_shortcut_group_system_shortcuts_helper">Συντομεύσεις πληκτρολόγιου</string>
     <string name="keyboard_shortcut_group_system_switch_input">Εναλλαγή μεθόδου εισαγωγής</string>
-    <string name="keyboardview_keycode_delete">Διαγραφή</string>
-    <string name="keyguard_accessibility_next_alarm">Το επόμενο ξυπνητήρι ορίστηκε στις %1$s</string>
-    <string name="keyguard_accessibility_pin_area">Περιοχή αριθμού PIN</string>
-    <string name="keyguard_accessibility_sim_pin_area">Περιοχή αριθμού PIN κάρτας SIM</string>
-    <string name="keyguard_accessibility_sim_puk_area">Περιοχή κωδικού PUK κάρτας SIM</string>
-    <string name="keyguard_carrier_default">Καμία υπηρεσία.</string>
-    <string name="keyguard_charged">Φορτίστηκε</string>
     <string name="keyguard_indication_charging_time">Γίνεται φόρτιση (%s μέχρι πλήρες)</string>
     <string name="keyguard_indication_charging_time_fast">Γίνεται γρήγορη φόρτιση (%s μέχρι πλήρες)</string>
     <string name="keyguard_indication_charging_time_slowly">Γίνεται αργή φόρτιση (%s μέχρι πλήρες)</string>
     <string name="keyguard_indication_trust_disabled">Η συσκευή θα παραμείνει κλειδωμένη μέχρι να την ξεκλειδώσετε</string>
-    <string name="keyguard_instructions_when_pattern_disabled">Πατήστε \"Μενού\" για ξεκλείδωμα.</string>
-    <string name="keyguard_low_battery">Συνδέστε τον φορτιστή.</string>
-    <string name="keyguard_missing_sim_instructions">Τοποθετήστε μια κάρτα SIM.</string>
-    <string name="keyguard_missing_sim_instructions_long">Η κάρτα SIM δεν υπάρχει ή δεν είναι δυνατή η ανάγνωσή της. Τοποθετήστε μια κάρτα SIM.</string>
-    <string name="keyguard_missing_sim_message">Δεν υπάρχει κάρτα SIM στο τηλέφωνο.</string>
-    <string name="keyguard_missing_sim_message_short">Δεν υπάρχει κάρτα SIM</string>
-    <string name="keyguard_network_locked_message">Κλειδωμένο δίκτυο</string>
-    <string name="keyguard_password_enter_password_code">Πληκτρολογήστε τον κωδικό πρόσβασης για ξεκλείδωμα</string>
-    <string name="keyguard_password_enter_pin_code">Πληκτρολογήστε τον κωδικό PIN</string>
-    <string name="keyguard_password_enter_pin_password_code">Πληκτρολογήστε τον αριθμό PIN για ξεκλείδωμα</string>
-    <string name="keyguard_password_enter_pin_prompt">Νέος κωδικός PIN της κάρτας SIM</string>
-    <string name="keyguard_password_enter_puk_code">Πληκτρολογήστε τον κωδικό PUK της κάρτας SIM και τον νέο κωδικό PIN</string>
-    <string name="keyguard_password_enter_puk_prompt">Κωδικός PUK κάρτας SIM</string>
-    <string name="keyguard_password_entry_touch_hint"><font size="17">Αγγίξτε για εισαγ. κωδ. πρόσβ.</font></string>
-    <string name="keyguard_password_wrong_pin_code">Λανθασμένος κωδικός PIN.</string>
-    <string name="keyguard_permanent_disabled_sim_instructions">"Η κάρτα SIM έχει απενεργοποιηθεί οριστικά.
- Επικοινωνήστε με τον παροχέα υπηρεσιών ασύρματου δικτύου για να λάβετε μια νέα κάρτα SIM."</string>
-    <string name="keyguard_permanent_disabled_sim_message_short">Η κάρτα SIM δεν μπορεί να χρησιμοποιηθεί.</string>
-    <string name="keyguard_plugged_in">Φόρτιση σε εξέλιξη</string>
-    <string name="keyguard_plugged_in_charging_fast">Ταχεία φόρτιση</string>
-    <string name="keyguard_plugged_in_charging_slowly">Αργή φόρτιση</string>
-    <string name="keyguard_sim_locked_message">Η κάρτα SIM είναι κλειδωμένη.</string>
-    <string name="keyguard_sim_puk_locked_message">Η κάρτα SIM είναι κλειδωμένη με κωδικό PUK.</string>
-    <string name="keyguard_sim_unlock_progress_dialog_message">Ξεκλείδωμα κάρτας SIM…</string>
     <string name="keyguard_unlock">Σάρωση προς τα επάνω για ξεκλείδωμα</string>
-    <string name="kg_enter_confirm_pin_hint">Επιβεβαιώστε τον απαιτούμενο κωδικό PIN</string>
-    <string name="kg_failed_attempts_almost_at_erase_profile">Δοκιμάσατε να ξεκλειδώσετε το τηλέφωνο %1$d φορές χωρίς επιτυχία. Μετά από %2$d ακόμα ανεπιτυχείς προσπάθειες, το προφίλ εργασίας θα καταργηθεί και θα διαγραφούν όλα τα δεδομένα προφίλ.</string>
-    <string name="kg_failed_attempts_almost_at_erase_user">Δοκιμάσατε να ξεκλειδώσετε το τηλέφωνο %1$d φορές χωρίς επιτυχία. Μετά από %2$d ακόμα ανεπιτυχείς προσπάθειες, αυτός ο χρήστης θα καταργηθεί και θα διαγραφούν όλα τα δεδομένα χρήστη.</string>
-    <string name="kg_failed_attempts_almost_at_login">"Σχεδιάσατε το μοτίβο ξεκλειδώματος εσφαλμένα %1$d φορές. Μετά από %2$d ακόμα ανεπιτυχείς προσπάθειες, θα σας ζητηθεί να ξεκλειδώσετε το τηλέφωνό σας με τη χρήση ενός λογαριασμού ηλεκτρονικού ταχυδρομείου.
-
- Δοκιμάστε ξανά σε %3$d δευτερόλεπτα."</string>
-    <string name="kg_failed_attempts_almost_at_wipe">Δοκιμάσατε να ξεκλειδώσετε το τηλέφωνο %1$d φορές χωρίς επιτυχία. Μετά από %2$d ακόμα ανεπιτυχείς προσπάθειες, αυτό το τηλέφωνο θα ρυθμιστεί εκ νέου και θα διαγραφούν όλα τα δεδομένα του.</string>
-    <string name="kg_failed_attempts_now_erasing_profile">Δοκιμάσατε να ξεκλειδώσετε το τηλέφωνο %d φορές χωρίς επιτυχία. Το προφίλ εργασίας θα καταργηθεί και θα διαγραφούν όλα τα δεδομένα προφίλ.</string>
-    <string name="kg_failed_attempts_now_erasing_user">Δοκιμάσατε να ξεκλειδώσετε το τηλέφωνο %d φορές χωρίς επιτυχία. Αυτός ο χρήστης θα καταργηθεί και θα διαγραφούν όλα τα δεδομένα χρήστη.</string>
-    <string name="kg_failed_attempts_now_wiping">Δοκιμάσατε να ξεκλειδώσετε το τηλέφωνο %d φορές χωρίς επιτυχία. Αυτό το τηλέφωνο θα ρυθμιστεί εκ νέου και θα διαγραφούν όλα τα δεδομένα του.</string>
-    <string name="kg_forgot_pattern_button_text">Ξεχάσατε το μοτίβο</string>
-    <string name="kg_invalid_confirm_pin_hint">Δεν υπάρχει αντιστοιχία μεταξύ των κωδικών PIN</string>
-    <string name="kg_invalid_puk">Εισαγάγετε ξανά τον κωδικό PUK. Οι επαναλαμβανόμενες προσπάθειες θα απενεργοποιήσουν οριστικά την κάρτα SIM.</string>
-    <string name="kg_invalid_sim_pin_hint">Πληκτρολογήστε έναν αριθμό PIN που να αποτελείται από 4 έως 8 αριθμούς.</string>
-    <string name="kg_invalid_sim_puk_hint">Ο κωδικός PUK θα πρέπει να περιέχει τουλάχιστον 8 αριθμούς.</string>
-    <string name="kg_login_too_many_attempts">Πάρα πολλές προσπάθειες μοτίβου!</string>
-    <string name="kg_password_instructions">Εισαγάγετε κωδικό πρόσβασης</string>
-    <string name="kg_password_pin_failed">Αποτυχία λειτουργίας κωδικού PIN κάρτας SIM!</string>
-    <string name="kg_password_puk_failed">Αποτυχία λειτουργίας κωδικού PUK κάρτας SIM!</string>
-    <string name="kg_password_wrong_pin_code_pukked">Λανθασμένος κωδικός PIN κάρτας SIM. Θα πρέπει να επικοινωνήσετε με την εταιρεία κινητής τηλεφωνίας σας για να ξεκλειδώσετε τη συσκευή σας.</string>
-    <string name="kg_password_wrong_puk_code_dead">Η κάρτα SIM δεν μπορεί να χρησιμοποιηθεί. Επικοινωνήστε με την εταιρεία κινητής τηλεφωνίας σας.</string>
     <string name="kg_pattern_instructions">Σχεδιάστε το μοτίβο σας</string>
-    <string name="kg_pin_accepted">Αποδεκτός κωδικός!</string>
-    <string name="kg_pin_instructions">Εισαγάγετε τον αριθμό PIN</string>
-    <string name="kg_prompt_reason_device_admin">Η συσκευή κλειδώθηκε από τον διαχειριστή</string>
-    <string name="kg_prompt_reason_restart_password">Απαιτείται κωδικός πρόσβασης μετά από την επανεκκίνηση της συσκευής</string>
-    <string name="kg_prompt_reason_restart_pattern">Απαιτείται μοτίβο μετά από την επανεκκίνηση της συσκευής</string>
-    <string name="kg_prompt_reason_restart_pin">Απαιτείται αριθμός PIN μετά από την επανεκκίνηση της συσκευής</string>
-    <string name="kg_prompt_reason_switch_profiles_password">Απαιτείται κωδικός πρόσβασης κατά την εναλλαγή προφίλ</string>
-    <string name="kg_prompt_reason_switch_profiles_pattern">Απαιτείται μοτίβο κατά την εναλλαγή προφίλ</string>
-    <string name="kg_prompt_reason_switch_profiles_pin">Απαιτείται αριθμός PIN κατά την εναλλαγή προφίλ</string>
-    <string name="kg_prompt_reason_timeout_password">Απαιτείται κωδικός πρόσβασης για πρόσθετη ασφάλεια</string>
-    <string name="kg_prompt_reason_timeout_pattern">Απαιτείται μοτίβο για πρόσθετη ασφάλεια</string>
-    <string name="kg_prompt_reason_timeout_pin">Απαιτείται αριθμός PIN για πρόσθετη ασφάλεια</string>
-    <string name="kg_prompt_reason_user_request">Η συσκευή κλειδώθηκε με μη αυτόματο τρόπο</string>
-    <string name="kg_puk_enter_pin_hint">Εισαγάγετε τον απαιτούμενο κωδικό PIN</string>
-    <string name="kg_puk_enter_puk_hint">Η κάρτα SIM είναι απενεργοποιημένη αυτή τη στιγμή. Εισαγάγετε τον κωδικό PUK για να συνεχίσετε. Επικοινωνήστε με την εταιρεία κινητής τηλεφωνίας σας για λεπτομέρειες.</string>
-    <string name="kg_puk_enter_puk_hint_multi">Η SIM \"%1$s\" έχει απενεργοποιηθεί. Εισάγετε τον κωδικό PUK για συνέχεια. Επικοινωνήστε με την εταιρεία κινητής τηλεφωνίας για λεπτομέρειες.</string>
-    <string name="kg_sim_pin_instructions">Εισαγωγή αριθμού PIN της κάρτας SIM</string>
-    <string name="kg_sim_pin_instructions_multi">Εισάγετε τον αριθμό PIN της SIM της εταιρείας κινητής τηλεφωνίας \"%1$s\"</string>
-    <string name="kg_sim_unlock_progress_dialog_message">Ξεκλείδωμα κάρτας SIM…</string>
-    <string name="kg_too_many_failed_attempts_countdown">Δοκιμάστε ξανά σε %d δευτερόλεπτα.</string>
-    <string name="kg_too_many_failed_password_attempts_dialog_message">"Έχετε πληκτρολογήσει τον κωδικό πρόσβασης εσφαλμένα %1$d φορές. 
-
-Προσπαθήστε ξανά σε %2$d δευτερόλεπτα."</string>
-    <string name="kg_too_many_failed_pattern_attempts_dialog_message">"Σχεδιάσατε εσφαλμένα το μοτίβο ξεκλειδώματος%1$d φορές. 
-
-Προσπαθήστε ξανά σε %2$d δευτερόλεπτα."</string>
-    <string name="kg_too_many_failed_pin_attempts_dialog_message">"Έχετε πληκτρολογήσει τον αριθμό PIN εσφαλμένα %1$d φορές. 
-
-Προσπαθήστε ξανά σε %2$d δευτερόλεπτα."</string>
-    <string name="kg_wrong_password">Λανθασμένος κωδικός πρόσβασης</string>
-    <string name="kg_wrong_pattern">Λάθος μοτίβο</string>
-    <string name="kg_wrong_pin">Λανθασμένος αριθμός PIN</string>
     <string name="label_view">Προβολή</string>
     <string name="launch_defaults_none">Δεν ορίστηκαν προεπιλογές</string>
     <string name="launch_defaults_some">Ορίστηκαν ορισμένες προεπιλογές</string>
@@ -802,6 +716,7 @@ Bits ανά δείγμα"</string>
     <string name="lockscreen_none">Χωρίς</string>
     <string name="lockscreen_shortcut_left">Αριστερή συντόμευση</string>
     <string name="lockscreen_shortcut_right">Δεξιά συντόμευση</string>
+    <string name="lockscreen_storage_locked">Ξεκλειδώστε για όλα τα χαρακτηριστικά και δεδομένα</string>
     <string name="lockscreen_unlock_left">Η αριστερή συντόμευση επίσης ξεκλειδώνει</string>
     <string name="lockscreen_unlock_right">Η δεξιά συντόμευση επίσης ξεκλειδώνει</string>
     <string name="long_screenshot_not_support_msg">Η τρέχουσα εφαρμογή δεν υποστηρίζει κυλιόμενες εικόνες</string>
@@ -829,6 +744,9 @@ Bits ανά δείγμα"</string>
     <string name="memory_clear_result_giga">Έγινε εκκαθάριση %1$sGB</string>
     <string name="memory_clear_result_mega">Έγινε εκκαθάριση %1$sMB</string>
     <string name="menu_ime">Εναλλαγή πληκτρολογίου</string>
+    <string name="miui_guide_dialog_button_negative_text">Ρυθμίσεις</string>
+    <string name="miui_guide_dialog_button_positive_text">Κατάλαβα</string>
+    <string name="miui_keyguard_ble_unlock_succeed_msg">Ξεκλειδώθηκε από τη συσκευή Bluetooth</string>
     <string name="miui_ringer_count_down">Αντίστροφη μέτρηση</string>
     <string name="miui_ringer_count_down_time">Αντίστροφη μέτρηση: %s</string>
     <string name="miui_ringer_standard">Αθόρυβο</string>
@@ -837,8 +755,10 @@ Bits ανά δείγμα"</string>
     <string name="miui_ringer_total_description">Σίγαση ήχων και απενεργοποίηση δονήσεων για όλα εκτός από το ξυπνητήρι</string>
     <string name="miui_toast_zen_dnd_to_off">Έγινε επαναφορά ήχων και δονήσεων</string>
     <string name="miui_toast_zen_standard_to_off">Έγινε επαναφορά ήχων κλήσεων</string>
+    <string name="miui_toast_zen_standard_to_off_when_shield_media">Οι ήχοι κλήσεις, όπως οι ειδοποιήσεις και οι ήχοι πολυμέσων, θα αναπαραχθούν.</string>
     <string name="miui_toast_zen_to_dnd">Έγινε σίγαση ήχων και απενεργοποίηση δονήσεων</string>
     <string name="miui_toast_zen_to_standard">Έγινε σίγαση κουδουνίσματος για κλήσεις και ειδοποιήσεις</string>
+    <string name="miui_toast_zen_to_standard_when_shield_media">Οι ήχοι κλήσεις, όπως οι ειδοποιήσεις και οι ήχοι πολυμέσων, θα σιγηθούν.</string>
     <string name="mobile_data">Δεδομένα κινητής τηλεφωνίας</string>
     <string name="mobile_data_always_on">Δεδομένα κινητής πάντα ενεργά</string>
     <string name="mobile_data_always_on_summary">Διατήρηση πάντα ενεργά τα δεδομένα κινητής, ακόμη και όταν το Wi‑Fi είναι ενεργό (για γρήγορη εναλλαγή δικτύων).</string>
@@ -1136,7 +1056,7 @@ Bits ανά δείγμα"</string>
     <string name="quick_settings_rotation_unlocked_label">Αυτόματη περιστροφή</string>
     <string name="quick_settings_rssi_emergency_only">Μόνο κλήσεις έκτακτης ανάγκης</string>
     <string name="quick_settings_screenbutton_label">Κουμπιά</string>
-    <string name="quick_settings_screenlock_label">Οθόνη κλειδώματος</string>
+    <string name="quick_settings_screenlock_label">Κλείδωμα οθόνης</string>
     <string name="quick_settings_screenshot_label">Στιγμιότυπο οθόνης</string>
     <string name="quick_settings_secondary_label_until">Μέχρι %s</string>
     <string name="quick_settings_settings_label">Ρυθμίσεις</string>
@@ -1402,7 +1322,7 @@ d MMMM"</string>
     <string name="tuner_full_zen_title">Προβολή με πλήκτρα έντασης</string>
     <string name="tuner_launch_app">Εκκίνηση %1$s</string>
     <string name="tuner_left">Αριστερά</string>
-    <string name="tuner_lock_screen">Οθόνη κλειδώματος</string>
+    <string name="tuner_lock_screen">Κλείδωμα οθόνης</string>
     <string name="tuner_menu">Μενού</string>
     <string name="tuner_minus">Μείον</string>
     <string name="tuner_other_apps">Άλλες εφαρμογές</string>

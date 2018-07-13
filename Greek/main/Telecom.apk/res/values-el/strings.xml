@@ -68,6 +68,7 @@
     <string name="accessibility_wifi_two_bars">Δύο γραμμές Wi-Fi.</string>
     <string name="accessibility_wifi_three_bars">Τρεις γραμμές Wi-Fi.</string>
     <string name="accessibility_wifi_signal_full">Άριστο σήμα Wi-Fi.</string>
+    <string name="process_kernel_label">Λειτουργικό σύστημα Android</string>
     <string name="data_usage_uninstalled_apps">Εφαρμογές που καταργήθηκαν</string>
     <string name="data_usage_uninstalled_apps_users">Εφαρμογές και χρήστες που έχουν καταργηθεί</string>
     <string name="tether_settings_title_usb">Πρόσδεση USB</string>
@@ -406,7 +407,7 @@ Bit ανά δείγμα"</string>
     <string name="can_not_dial_vt_while_voice_prompt">Δεν είναι δυνατή η πραγματοποίηση βιντεοκλήσης κατά τη διάρκεια φωνητικής κλήσης</string>
     <string name="voice_dial_out">Φωνητική κλήση</string>
     <string name="notification_AllMissedCallTitle">Όλες οι αναπάντητες κλήσεις</string>
-    <string name="close">Κλείσιμο</string>
+    <string name="close">Turn off</string>
     <string name="callFailed_simError">Σφάλμα κάρτας SIM</string>
     <string name="incall_error_supp_service_unknown">Αυτή η υπηρεσία δεν υποστηρίζεται.</string>
     <string name="incall_error_power_off">Απενεργοποίηση λειτουργίας πτήσης για την πραγματοποίηση κλήσης.</string>

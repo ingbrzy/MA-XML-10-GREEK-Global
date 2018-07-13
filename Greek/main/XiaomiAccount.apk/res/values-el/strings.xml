@@ -146,7 +146,7 @@
     <string name="passport_license_host_unreachable">Αδυναμία σύνδεσης στο δίκτυο. Μπορείτε να δείτε αυτή τη σελίδα στο %s.</string>
     <string name="passport_login_failed">Αδυναμία σύνδεσης</string>
     <string name="passport_reg_failed">Αδυναμία ρύθμισης λογαριασμού</string>
-    <string name="passport_verification_failed">Ανεπιτυχής πιστοποίηση</string>
+    <string name="passport_verification_failed">"Couldn't verify account"</string>
     <string name="passport_reset_fail_title">Αδυναμία επαναφοράς</string>
     <string name="passport_identification_expired">Ο κωδικός επαλήθευσης ελήξε, ξεκινήστε από την αρχή</string>
     <string name="passport_bad_authentication">Μη έγκυρο όνομα χρήστη ή κωδικός</string>

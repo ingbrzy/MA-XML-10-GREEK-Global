@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <string name="status_bar_notification_info_overflow">999+</string>
     <string name="action_add_to_workspace">Προσθήκη στον χώρο εργασίας</string>
     <string name="activity_not_found">Η εφαρμογή δεν έχει εγκατασταθεί στην συσκευή σας</string>
     <string name="add_screen">Προσθήκη οθόνης</string>
@@ -236,9 +237,9 @@
     <string name="open_personal_assistant_dialog_btn_cancel">Ακύρωση</string>
     <string name="open_personal_assistant_dialog_btn_confirm">Απενεργοποίηση</string>
     <string name="open_personal_assistant_dialog_desc">Δεν θα έχετε την δυνατότητα χρήσης της Αποθήκης εφαρμογών και λήψης των ενημερώσεων της. Απενεργοποίηση τώρα;</string>
-    <string name="open_personal_assistant_dialog_desc_international">"You won't be able to use App vault cards (Stocks, Shortcuts, etc.) and receive updates after you turn this feature off."</string>
+    <string name="open_personal_assistant_dialog_desc_international">Δεν θα έχετε δυνατότητα χρήσης καρτών Αποθήκης εφαρμογών (Μετοχές, Συντομεύσεις, κ. λπ.) και και λήψης ενημερώσεων αφού απενεργοποιήσετε αυτήν τη λειτουργία.</string>
     <string name="open_personal_assistant_dialog_title">Απενεργοποίηση Αποθήκης εφαρμογών</string>
-    <string name="open_personal_assistant_title">App vault</string>
+    <string name="open_personal_assistant_title">Αποθήκη εφαρμογών</string>
     <string name="out_of_space">Δεν υπάρχει πια χώρος σε αυτήν την Αρχική Οθόνη</string>
     <string name="permdesc_install_shortcut">Επιτρέπει σε μια εφαρμογή την προσθήκη συντομεύσεων χωρίς την μεσολάβηση του χρήστη.</string>
     <string name="permdesc_install_widget">Επιτρέπει σε μια εφαρμογή την προσθήκη widgets χωρίς την μεσολάβηση του χρήστη.</string>
@@ -280,8 +281,8 @@
     <string name="recommend_apps_tips">"This feature needs to connect to the internet to work normally. To turn this feature off, tap this folder's name."</string>
     <string name="recommend_loading">Φόρτωση</string>
     <string name="refresh">Ανανέωση</string>
-    <string name="reset_description_first_time">You can restore the layout from %1$s within 2 hours</string>
-    <string name="reset_description_others">You can restore the layout from %1$s</string>
+    <string name="reset_description_first_time">Μπορείτε να επαναφέρετε την διάταξη από %1$s μέσα σε 2 ώρες</string>
+    <string name="reset_description_others">Μπορείτε να επαναφέρετε την διάταξη από %1$s</string>
     <string name="reset_fail">Αδυναμία επαναφοράς</string>
     <string name="reset_scene_prompt">Θα γίνει επαναφορά της οθόνης στην προεπιλεγμένη διάταξη.</string>
     <string name="reset_title">Επαναφορά</string>
