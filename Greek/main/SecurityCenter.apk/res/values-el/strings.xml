@@ -421,7 +421,7 @@
     <string name="root">Πρόσβαση Root</string>
     <string name="app_detail">Λεπτομέρειες</string>
     <string name="app_version">Έκδοση:</string>
-    <string name="app_mobile">Κινητό</string>
+    <string name="app_mobile">Mobile data</string>
     <string name="app_wifi">Wi-Fi</string>
     <string name="traffic_none">Κανένα</string>
     <string name="sorted_dialog_title">Ταξινόμηση κατά</string>
@@ -435,6 +435,7 @@
     <string name="managed_user_title">Όλες οι εφαρμογές δουλειάς</string>
     <string name="pref_about_traffic_title">Ρυθμίσεις χρήσης δεδομένων</string>
     <string name="pref_traffic_manage_title">Χρήση δεδομένων</string>
+    <string name="pref_operator_setting">%1$s%2$s</string>
     <string name="pref_package_traffic_settings">Πλάνο δεδομένων</string>
     <string name="pref_adjust_traffic_data">Ορισμός χρήσης δεδομένων</string>
     <string name="pref_category_title_other">Πρόσθετες ρυθμίσεις</string>
@@ -898,7 +899,7 @@
     <string name="tether_over_limit_dialog_message">Φτάσατε το όριο δεδομένων του φορητού σημείου πρόσβασης.</string>
     <string name="tether_over_limit_dialog_cancle_btn">Επαναφορά σημείου πρόσβασης</string>
     <string name="network_traffic_warning_title">Data usage for system apps</string>
-    <string name="network_traffic_warning_text">"MIUI can't calculate data usage stats for individual system apps here.You will be able to see the data usage related info in the app details in case this app is using mobile data actively."</string>
+    <string name="network_traffic_warning_text">"MIUI can't calculate data usage stats for individual system apps here. You will be able to see the data usage related info in the app details in case this app is using mobile data actively."</string>
     <string name="optimize_manage_title">Ενίσχυση ταχύτητας</string>
     <string name="cpu_usage_android_system">Σύστημα Android</string>
     <string name="cpu_usage_process_run_time_little_time">Λιγότερο από 1 λεπτό</string>
@@ -960,6 +961,7 @@
     <string name="om_formatted_percent_string">%s%%</string>
     <string name="om_cpu_usage_warn_title_text">"Η εφαρμογή μπορεί να επιβραδύνει
 την συσκευή σας"</string>
+    <string name="om_memory_clean_memory_info_text">%1$s / %2$s</string>
     <string name="om_ill_proc_handle_unstaill_title">Απεγκατάσταση %s;</string>
     <string name="om_ill_proc_handle_uninstall_prompt">Απεγκαταστήστε την εφαρμογή για επίλυση των προβλημάτων χρήσης μπαταρίας.</string>
     <string name="om_ill_proc_type_wakelock_title">Η εφαρμογή μπλοκάρει την λειτουργία αδράνειας και καταναλώνει μπαταρία</string>
@@ -976,7 +978,7 @@
     <string name="om_ill_proc_type_radio_detail">Επίλυση προβλημάτων σύνδεσης δικτύου</string>
     <string name="om_ill_proc_activity_title">Προβλήματα</string>
     <string name="power_center_title">Κατανάλωση μπαταρίας</string>
-    <string name="power_center_back">Πίσω στην Κατανάλωση μπαταρίας</string>
+    <string name="power_center_back">Back</string>
     <string name="power_center_auto_shutdown">Προγραμματισμένη ενεργοποίηση/ανενεργοποίηση</string>
     <string name="power_center_ontime_boot">Χρόνος ενεργοποίησης</string>
     <string name="power_center_time_to_boot">Χρόνος ενεργοποίησης</string>
@@ -1018,6 +1020,7 @@
     <string name="usage_type_data_send">Έγινε αποστολή κινητών δεδομένων</string>
     <string name="usage_type_no_coverage">Χρόνος χωρίς σήμα</string>
     <string name="usage_type_gps">GPS</string>
+    <string name="process_kernel_label">Android</string>
     <string name="process_mediaserver_label">Διακομιστής πολυμέσων</string>
     <string name="power_screen">Οθόνη</string>
     <string name="power_wifi">Wi-Fi</string>
@@ -1364,11 +1367,13 @@
     <string name="menu_text_optimize_manage">Ενίσχυση ταχύτητας</string>
     <string name="menu_text_networkassistants">Χρήση δεδομένων</string>
     <string name="menu_summary_networkassistants">Manage your data plan</string>
+    <string name="menu_text_networkassistants_2">%s</string>
     <string name="menu_summary_networkassistants_2">Went over the limit</string>
     <string name="menu_summary_networkassistants_3">Enough data remaining</string>
     <string name="menu_summary_networkassistants_4">Running out of data</string>
     <string name="menu_text_networkassistants_remain">%s απέμειναν</string>
     <string name="menu_text_networkassistants_danger">%s παραπάνω</string>
+    <string name="menu_text_networkassistants_data">%1$s%2$s</string>
     <string name="menu_text_networkassistants_unit_gb">GB</string>
     <string name="menu_text_networkassistants_unit_mb">MB</string>
     <string name="menu_text_networkassistants_unit_kb">KB</string>
@@ -1381,12 +1386,14 @@
     <string name="menu_summary_garbage_cleanup">No trash found</string>
     <string name="menu_summary_garbage_cleanup_2">Trash size</string>
     <string name="menu_summary_garbage_cleanup_3">Clear trash now</string>
+    <string name="menu_text_garbage_cleanup_danger">%s</string>
     <string name="menu_text_power_manager">Χρήση μπαταρίας</string>
     <string name="menu_summary_power_manager">Battery saver gives you more time between charges</string>
     <string name="menu_summary_power_manager_1">Battery is fully charged</string>
     <string name="menu_summary_power_manager_2">%s remaining</string>
     <string name="menu_summary_power_manager_3">Connect charger</string>
     <string name="menu_summary_power_manager_4">%s until full</string>
+    <string name="menu_text_power_percent_title">%s</string>
     <string name="last_check_canceled">Η προηγούμενη σάρωση ακυρώθηκε</string>
     <string name="examination_score_100">Όλα φαίνονται να λειτουργούν σωστά!</string>
     <string name="examination_score_80_100">Ορισμένα αντικείμενα μπορούν να βελτιστοποιηθούν</string>
@@ -1752,6 +1759,7 @@
     <string name="card_main_deepclean_wechat_action">Εκκαθάριση</string>
     <string name="card_main_sectool_title">Εργαλεία</string>
     <string name="card_main_monthreport_action">Προβολή</string>
+    <string name="card_main_speeddetail_action">@string/card_main_monthreport_action</string>
     <string name="card_main_netcheck_title">Δοκιμή δικτύου</string>
     <string name="card_main_netcheck_summary">Δοκιμή σύνδεσης για προβλήματα δικτύου</string>
     <string name="card_main_netcheck_action">Δοκιμή</string>
@@ -1905,7 +1913,7 @@
     <string name="applock_not_login_account">Δεν έχετε συνδεθεί</string>
     <string name="applock_bind_account_title">Ξέχασα τον κωδικό</string>
     <string name="applock_close_dialog_title">Απενεργοποίηση Κλειδώματος εφαρμογής;</string>
-    <string name="applock_close_dialog_summary">Οι εφαρμογές δεν θα είναι πλέον προστατευμένες και ο κωδικός σας θα διαγραφεί μετά την απενεργοποίηση του Κλειδώματος εφαρμογής.</string>
+    <string name="applock_close_dialog_summary">Apps will no longer be protected and your password will be deleted after you turn off App lock.</string>
     <string name="applock_header_text_less_than_half">Πολύ μικρό. Σύρετε λίγο περισσότερο.</string>
     <string name="quite_all_string">Ακύρωση</string>
     <string name="delete_input">Διαγραφή</string>
@@ -2287,8 +2295,8 @@
     <string name="gamebox_type_gesture">Σαρώστε για προβολή</string>
     <string name="gb_first_window_title">Game speed booster</string>
     <string name="gb_first_window_summary">Boost speed and performance on a system level</string>
-    <string name="gb_first_window_gamebox_summary_four">Clear cache, make screen recordings and screenshots</string>
-    <string name="gb_first_window_gamebox_summary_six">Use quick replies, make screen recordings and screenshots</string>
+    <string name="gb_first_window_gamebox_summary_four">Use quick replies, make screen recordings and screenshots</string>
+    <string name="gb_first_window_gamebox_summary_six">Clear cache, make screen recordings and screenshots</string>
     <string name="gb_first_window_handsfree_title">Hands-free calls</string>
     <string name="gb_first_window_handsfree_summary">Turn on speaker automatically</string>
     <string name="gb_first_window_antimsg_title">Convenient notifications</string>

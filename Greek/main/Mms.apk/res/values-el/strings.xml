@@ -192,6 +192,7 @@
     <string name="file_size">Μέγεθος:</string>
     <string name="file_title">Όνομα:</string>
     <string name="file_width_height">Μέγεθος:</string>
+    <string name="flatshow_page_no">%1$d</string>
     <string name="force_touch_new_message_title">Νέο μήνυμα</string>
     <string name="forward_from">Προώθηση από:</string>
     <string name="forward_prefix">"Προωθ.: "</string>
@@ -396,7 +397,7 @@
     <string name="pref_show_blocked_messages_summary">Προβολή αποκλεισμένων SMS στη λίστα συνομιλιών</string>
     <string name="pref_show_list_avatar_summary">Προβολή φωτογραφιών προφίλ και πληροφορίες επαφής σε προβολή λίστας</string>
     <string name="pref_show_photo_word_summary">Αυτόματος ορισμός σε επαφές χωρίς φωτογραφία</string>
-    <string name="pref_show_sms_template_entry_summary">Detect one-time passwords and show quick menus</string>
+    <string name="pref_show_sms_template_entry_summary">Εντοπισμός κωδικών μίας χρήσης και εμφάνιση γρήγορων μενού</string>
     <string name="pref_show_sms_template_in_summary">Αυτόματος εντοπισμός κωδικών μίας χρήσης στα SMS</string>
     <string name="pref_show_sms_template_summary">Ενεργοποιήστε για να χρησιμοποιήσετε τις έξυπνες λειτουργίες των Mi Μηνυμάτων, όπως αντιγραφή κωδικών, έλεγχο υπολοίπου, κλπ.</string>
     <string name="pref_smart_messages_settings">Έξυπνα μηνύματα</string>
@@ -543,6 +544,7 @@
     <string name="send_signature_confirm_dialog_title">Αποστολή μηνύματος</string>
     <string name="send_sms">Αποστολή μηνύματος</string>
     <string name="send_to">Προς:</string>
+    <string name="send_to_index_contact">%1$s/%2$s</string>
     <string name="sent_at_time">Έγινε αποστολή στις: %1s</string>
     <string name="sent_label">"Στάλθηκε: "</string>
     <string name="service_message_not_found">Το μήνυμα έληξε ή δεν είναι διαθέσιμο</string>
@@ -625,7 +627,7 @@
     <string name="title_show_blocked_messages">Προβολή αποκλεισμένων μηνυμάτων</string>
     <string name="title_show_list_avatar">Προβολή φωτογραφιών προφίλ</string>
     <string name="title_show_photo_word">Ορισμός φωτογραφιών επαφών</string>
-    <string name="title_show_sms_template">Smart Messaging</string>
+    <string name="title_show_sms_template">Έξυπνα Μηνύματα</string>
     <string name="title_show_sms_template_in">Έλεγχος SMS για OTP</string>
     <string name="title_timed_message_dialog">Ορισμός χρονικού μηνύματος</string>
     <string name="title_use_gsm_alphabet">Χρήση GSM αλφάβητου</string>

@@ -2061,7 +2061,6 @@ Bits ανά δείγμα"</string>
     <string name="instant_app_details_summary">Περισσότερες πληροφορίες στο %1$s</string>
     <string name="instant_apps_account">Λογαριασμός Instant Εφαρμογών</string>
     <string name="instruction_privacy_password">Ο κωδικός προστατεύει τα ακόλουθα στοιχεία</string>
-    <string name="instruction_title">Οδηγίες</string>
     <string name="insufficient_storage">Δεν υπάρχει επαρκής αποθηκευτικός χώρος.</string>
     <string name="intent_sender_account_label">Λογαριασμός:</string>
     <string name="intent_sender_sendbroadcast_text">Αποστολή broadcast</string>
