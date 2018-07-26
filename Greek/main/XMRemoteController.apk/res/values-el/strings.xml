@@ -20,7 +20,6 @@
     <string name="abc_shareactionprovider_share_with_application">Κοινή χρήση με %s</string>
     <string name="abc_toolbar_collapse_description">Σύμπτυξη</string>
     <string name="search_menu_title">Αναζήτηση</string>
-    <string name="status_bar_notification_info_overflow">999+</string>
     <string name="ac_gree">Κλιματιστικό Gree</string>
     <string name="ac_mode_auto">Αυτόματα</string>
     <string name="ac_mode_cold">Ψύξη</string>
@@ -103,7 +102,6 @@
     <string name="bind_stb">Συνέχεια σύζευξης σετ-top κουτιού</string>
     <string name="bind_stb_dlg">Συζεύξτε το σετ-top κουτί για να αλλάζετε κανάλια</string>
     <string name="bind_stb_dlg_agree">Σύζευξη</string>
-    <string name="brand_device">%1$s %2$s</string>
     <string name="brand_search_box_hint">Επιλέξτε κατασκευαστή</string>
     <string name="brand_title_all">Όλα</string>
     <string name="brand_title_hot">Δημοφιλή</string>
@@ -306,7 +304,6 @@
     <string name="hot_videos">Δημοφιλή</string>
     <string name="hour">ώρες</string>
     <string name="humidity">Yγρασία:</string>
-    <string name="humidity_frame">%1$d%%</string>
     <string name="increase">Επάνω</string>
     <string name="input_complete">OK</string>
     <string name="input_dialogue_cancel_button">Ακύρωση</string>
@@ -406,7 +403,6 @@
     <string name="loading_more">Περιμένετε μια στιγμή…</string>
     <string name="locate_current_place">Εύρεση τρέχουσας τοποθεσίας</string>
     <string name="location_select">Μετονομασία συσκευής</string>
-    <string name="lock_screen_device_sum">%1$d</string>
     <string name="login">Σύνδεση</string>
     <string name="login_directly">Σύνδεση</string>
     <string name="login_done">Έγινε σύνδεση</string>
@@ -433,7 +429,6 @@
     <string name="match_data">Πληροφορίες σύζευξης</string>
     <string name="match_data_error_tips">"Αδυναμία απόκτησης πληροφοριών
 Μεταβείτε πίσω για να συνεχίσετε"</string>
-    <string name="match_dataset_frame">%1$d/%2$d</string>
     <string name="match_direction_default">Λειτουργούν τα κουμπιά κατεύθυνσης;</string>
     <string name="match_dvd_intro_pause">Αφήστε όταν γίνεται παύση της αναπαραγωγής DVD</string>
     <string name="match_dvd_intro_play">Αφήστε κατά την έναρξη αναπαραγωγής του DVD</string>
@@ -858,8 +853,6 @@
     <string name="scaning">Γίνεται αναζήτηση…</string>
     <string name="scanning_milink">Γίνεται αναζήτηση συσκευών…</string>
     <string name="scene_default">Προεπιλογή</string>
-    <string name="scene_name_frame">%1$s %2$s%3$s</string>
-    <string name="scene_name_frame_short">%1$s%2$s</string>
     <string name="screenshot">Στιγμιότυπο οθόνης</string>
     <string name="screenshot_failed">Αδυναμία λήψης οθόνης</string>
     <string name="screenshot_failed_and_check_connection">Αδυναμία λήψης οθόνης, ελέγξτε τις συνδεδεμένες συσκευές</string>
@@ -967,7 +960,6 @@
     <string name="start_diagnosis">Δοκιμή</string>
     <string name="start_match">Σύζευξη</string>
     <string name="stb">Ορισμός κουτιού κορυφής</string>
-    <string name="stb_detail_title_frame">%1$s - %2$d</string>
     <string name="stb_power">STB ενεργό/ανενεργό</string>
     <string name="steps">Προσπάθεια #%d</string>
     <string name="sticky_on_top">Καρφίτσωμα</string>
