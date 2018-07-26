@@ -123,7 +123,7 @@
         <item quantity="one">%1$s</item>
     </plurals>
     <plurals name="whatsapp_delete_files">
-        <item quantity="other">Delete %1$d items?</item>
-        <item quantity="one">Delete %1$d item?</item>
+        <item quantity="other">Διαγραφή %1$d αντικειμένων;</item>
+        <item quantity="one">Διαγραφή %1$d αντικειμένου;</item>
     </plurals>
 </resources>

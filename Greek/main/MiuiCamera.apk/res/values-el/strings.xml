@@ -12,9 +12,9 @@
     <string name="video_camera_label">Εγγραφή βίντεου</string>
     <string name="wait">Περιμένετε μια στιγμή…</string>
     <string name="no_storage">Τοποθετείστε κάρτα SD πριν τη χρήση της Κάμερας</string>
-    <string name="not_enough_space">Η εσωτερική μνήμη είναι πλήρης</string>
-    <string name="preparing_sd">Γίνεται έλεγχος εσωτερικής μνήμης…</string>
-    <string name="access_sd_fail">Αδυναμία πρόσβασης στο μέσο αποθήκευσης USB.</string>
+    <string name="not_enough_space">Η κάρτα SD είναι γεμάτη</string>
+    <string name="preparing_sd">Γίνεται έλεγχος κάρτας SD…</string>
+    <string name="access_sd_fail">Αδυναμία πρόσβασης στην κάρτα SD.</string>
     <string name="confirm_restore_title">Επαναφορά προεπιλεγμένων ρυθμίσεων</string>
     <string name="confirm_restore_message">Επαναφορά προεπιλεγμένων ρυθμίσεων κάμερας;</string>
     <string name="confirm_location_title">Απομνημόνευση τοποθεσιών των φωτογραφιών;</string>
@@ -381,7 +381,7 @@
     <string name="pref_camera_beauty">Ωραιοποίηση</string>
     <string name="pref_camera_beauty_deep">Υψηλή ωραιοποίηση</string>
     <string name="pref_camera_asd_night_title">Ενίσχυση φωτογραφιών χαμηλού φωτισμού αυτόματα</string>
-    <string name="pref_camera_super_resolution_title">Turn on SR</string>
+    <string name="pref_camera_super_resolution_title">Ενεργοποίηση ΠΑΚ</string>
     <string name="simple_mode_button_text_scene">Απενεργοποίηση Λειτουργίας σκηνής</string>
     <string name="pref_camera_peak_title">Κορύφωση εστίασης</string>
     <string name="pref_camera_peak_entry_off">Απενεργοποίηση</string>
@@ -427,10 +427,11 @@
     <string name="pref_camera_portrait_mode_entry_on">Κατακόρυφη λειτουργία ενεργή</string>
     <string name="portrait_mode_lowlight_hint">Είναι πολύ σκοτεινά τώρα</string>
     <string name="portrait_mode_too_close_hint">Μετακινηθείτε μακρύτερα από το αντικείμενο</string>
-    <string name="portrait_mode_too_far_hint">Place object within 2 meters</string>
+    <string name="portrait_mode_too_far_hint">Τοποθετήστε το αντικείμενο εντός 2 μέτρων</string>
     <string name="portrait_mode_depth_effect_success_hint">Εφέ βάθους</string>
     <string name="portrait_mode_use_hint">"Η λειτουργία πορτρέτου θολώνει το παρασκήνιο
 και επικεντρώνεται στα άτομα μπροστά."</string>
+    <string name="portrait_mode_use_hint_with_switch">@string/portrait_mode_use_hint</string>
     <string name="pref_camera_square_mode_title">Τετράγωνο</string>
     <string name="simple_mode_button_text_square">Απενεργοποίηση Τετραγώνου</string>
     <string name="face_beauty_smart">Έξυπνο</string>
@@ -445,6 +446,7 @@
     <string name="pref_camera_beautify_entry_low">Χαμηλή</string>
     <string name="pref_camera_beautify_entry_normal">Μεσσαία</string>
     <string name="pref_camera_beautify_entry_high">Υψηλή</string>
+    <string name="pref_camera_beautify_entry_close">@string/face_beauty_close</string>
     <string name="camera_mode_options">Λειτουργίες</string>
     <string name="button_front_camera_title">Δημιουργία selfie</string>
     <string name="button_normal_video_title">Εγγραφή Video</string>
@@ -539,17 +541,17 @@
     <string name="lens_dirty_detected_title_front">Ο φακός εμπρόσθιας κάμερας είναι βρόμικος</string>
     <string name="lens_dirty_detected_content">"Φαίνεται πως ο φακός κάμερας σας είναι βρόμικος.
 Καθαρίστε τον φακό για καλύτερο εφέ."</string>
-    <string name="lighting_hint_title">Studio lighting</string>
-    <string name="lighting_hint_usage">"You can use studio lighting effects
-in Portrait mode"</string>
-    <string name="lighting_hint_needed">Place your object in the spotlight</string>
-    <string name="lighting_hint_too_far">Bring the camera closer</string>
-    <string name="lighting_hint_too_close">Move the camera further away</string>
-    <string name="lighting_pattern_nature">Natural</string>
-    <string name="lighting_pattern_stage">Stage</string>
-    <string name="lighting_pattern_movie">Movie</string>
-    <string name="lighting_pattern_rainbow">Rainbow</string>
-    <string name="lighting_pattern_leaf">Leaves</string>
-    <string name="lighting_pattern_dot">Dots</string>
-    <string name="lighting_pattern_shutter">Blinds</string>
+    <string name="lighting_hint_title">Φωτισμός στούντιο</string>
+    <string name="lighting_hint_usage">"Μπορείτε να χρησιμοποιήσετε εφέ φωτισμού στούντιο
+ στην λειτουργία πορτρέτου"</string>
+    <string name="lighting_hint_needed">Τοποθετήστε το αντικείμενό σας στο κέντρο εστίασης</string>
+    <string name="lighting_hint_too_far">Φέρτε την κάμερα πιο κοντά</string>
+    <string name="lighting_hint_too_close">Μετακινήστε την κάμερα πιο μακριά</string>
+    <string name="lighting_pattern_nature">Φυσικό</string>
+    <string name="lighting_pattern_stage">Σκηνή</string>
+    <string name="lighting_pattern_movie">Ταινία</string>
+    <string name="lighting_pattern_rainbow">Ουράνιο τόξο</string>
+    <string name="lighting_pattern_leaf">Φύλλα</string>
+    <string name="lighting_pattern_dot">Τελείες</string>
+    <string name="lighting_pattern_shutter">Σκίαστρα</string>
 </resources>

@@ -11,7 +11,7 @@
     <string name="permdesc_downloadManagerAdvanced">Να επιτρέπεται στην εφαρμογή η πρόσβαση στις σύνθετες λειτουργίες Λήψεων. Επικίνδυνες εφαρμογές μπορούν να το εκμεταλλευτούν αυτό για παρενόχληση λήψεων και πρόσβαση σε προσωπικές πληροφορίες.</string>
     <string name="permlab_downloadCompletedIntent">Αποστολή ειδοποιήσεων λήψης.</string>
     <string name="permdesc_downloadCompletedIntent">Να επιτρέπεται στην εφαρμογή η αποστολή ειδοποιήσεων για ολοκληρωμένες λήψεις. Επικίνδυνες εφαρμογές μπορούν να το εκμεταλλευτούν αυτό για παρενόχληση λήψεων και πρόσβαση σε προσωπικές πληροφορίες.</string>
-    <string name="permlab_seeAllExternal">Δείτε όλες τις λήψεις στον χώρο αποθήκευσης USB</string>
+    <string name="permlab_seeAllExternal">Δείτε όλες τις λήψεις στην κάρτα SD</string>
     <string name="permdesc_seeAllExternal">Να επιτρέπεται στην εφαρμογή η προβολή όλων των λήψεων στην κάρτα SD, ανεξάτητα από ποια εφαρμογή τις εκτέλεσε.</string>
     <string name="permlab_downloadCacheNonPurgeable">Κράτηση χώρου στο cache λήψεων</string>
     <string name="permdesc_downloadCacheNonPurgeable">Να επιτρέπεται στην εφαρμογή η λήψη αρχείων στο cache λήψεων, όπου δεν μπορεί να γίνει αυτόματη διαγραφή όταν ο διαχειριστής λήψεων απαιτεί περισσότερο χώρο.</string>

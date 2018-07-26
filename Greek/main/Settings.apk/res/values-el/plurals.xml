@@ -236,6 +236,10 @@
         <item quantity="other">Είστε %1$d βήματα μακριά από την υποβολή αναφοράς bug.</item>
         <item quantity="one">Είστε %1$d βήμα μακριά από την υποβολή αναφοράς bug.</item>
     </plurals>
+    <plurals name="show_reset_countdown">
+        <item quantity="other">Ολοκλήρωση βημάτων %1$d για εκτέλεση εργοστασιακής επαναφοράς</item>
+        <item quantity="one">Ολοκλήρωση βήματος %1$d για εκτέλεση εργοστασιακής επαναφοράς</item>
+    </plurals>
     <plurals name="special_access_summary">
         <item quantity="other">%d εφαρμογές μπορούν να χρησιμοποιούν απεριόριστα δεδομένα</item>
         <item quantity="one">1 εφαρμογή μπορεί να χρησιμοποιεί απεριόριστα δεδομένα</item>

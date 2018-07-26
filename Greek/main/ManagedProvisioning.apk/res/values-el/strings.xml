@@ -11,9 +11,9 @@
     <string name="the_following_is_your_mdm">Η παρακάτω εφαρμογή θα χρειαστεί πρόσβαση σε αυτό το προφίλ:</string>
     <string name="the_following_is_your_mdm_for_device">Η παρακάτω εφαρμογή θα διαχειρίζεται τη συσκευή σας:</string>
     <string name="next">Επόμενο</string>
-    <string name="setting_up_workspace">Δημιουργία του προφίλ εργασίας σας…</string>
+    <string name="setting_up_workspace">Ρύθμιση προφίλ εργασίας…</string>
     <string name="admin_has_ability_to_monitor_profile">Ο διαχειριστής σας έχει τη δυνατότητα να παρακολουθεί και να διαχειρίζεται τις ρυθμίσεις, την εταιρική πρόσβαση, τις εφαρμογές τα δικαιώματα και τα δεδομένα που έχουν συσχετιστεί με αυτό το προφίλ, μεταξύ άλλων τη δραστηριότητα δικτύου, καθώς και την τοποθεσία της συσκευής σας, το ιστορικό κλήσεων και το ιστορικό αναζήτησης επαφών.&lt;br>&lt;br>Επικοινωνήστε με τον διαχειριστή σας για περισσότερες πληροφορίες, συμπεριλαμβανομένων των πολιτικών απορρήτου του οργανισμού σας.</string>
-    <string name="admin_has_ability_to_monitor_device">Ο διαχειριστής σας έχει τη δυνατότητα να παρακολουθεί και να διαχειρίζεται τις ρυθμίσεις, την εταιρική πρόσβαση, τις εφαρμογές τα δικαιώματα και τα δεδομένα που έχουν συσχετιστεί με αυτήν τη συσκευή, μεταξύ άλλων τη δραστηριότητα δικτύου, καθώς και την τοποθεσία της συσκευής σας, το ιστορικό κλήσεων και το ιστορικό αναζήτησης επαφών.&lt;br>&lt;br>Επικοινωνήστε με τον διαχειριστή σας για περισσότερες πληροφορίες, συμπεριλαμβανομένων των πολιτικών απορρήτου του οργανισμού σας.</string>
+    <string name="admin_has_ability_to_monitor_device">Ο διαχειριστής σας έχει τη δυνατότητα να παρακολουθεί και να διαχειρίζεται τις ρυθμίσεις, την εταιρική πρόσβαση, τις εφαρμογές τα δικαιώματα και τα δεδομένα που έχουν συσχετιστεί με αυτήν τη συσκευή, συμπεριλαμβανομένης της δραστηριότητας δικτύου, καθώς και την τοποθεσία της συσκευής σας, το ιστορικό κλήσεων και το ιστορικό αναζήτησης επαφών.&lt;br>&lt;br>Επικοινωνήστε με τον διαχειριστή σας περισσότερες πληροφορίες, συμπεριλαμβανομένων των πολιτικών απορρήτου του οργανισμού σας.</string>
     <string name="theft_protection_disabled_warning">Για να χρησιμοποιήσετε τις λειτουργίες προστασίας από κλοπή, πρέπει να έχετε ενεργοποιήσει το κλείδωμα οθόνης με προστασία κωδικού πρόσβασης στη συσκευή σας.</string>
     <string name="contact_your_admin_for_more_info">Επικοινωνήστε με το διαχειριστή σας για περισσότερες πληροφορίες, συμπεριλαμβανομένων των πολιτικών απορρήτου του οργανισμού σας.</string>
     <string name="learn_more_link">Μάθετε περισσότερα</string>
@@ -27,7 +27,7 @@
     <string name="default_managed_profile_name">Προφίλ εργασίας</string>
     <string name="default_first_meat_user_name">Κύριος χρήστης</string>
     <string name="delete_profile_title">Να διαγραφεί το υπάρχον προφίλ;</string>
-    <string name="opening_paragraph_delete_profile">Έχετε ήδη προφίλ εργασίας το οποίο διαχειρίζεται από την εξής εφαρμογή:</string>
+    <string name="opening_paragraph_delete_profile">Έχετε ήδη προφίλ εργασίας. Η διαχείρισή του γίνεται με χρήση της ακόλουθης εφαρμογής:</string>
     <string name="read_more_delete_profile">Πριν συνεχίσετε, <a href="#read_this_link">διάβασε αυτό</a>.</string>
     <string name="sure_you_want_to_delete_profile">Αν συνεχίσετε, όλες οι εφαρμογές και τα δεδομένα αυτού του προφίλ θα διαγραφούν.</string>
     <string name="delete_profile">Διαγραφή</string>
@@ -40,17 +40,15 @@
     <string name="continue_provisioning_notify_text">Πατήστε για να συνεχίσετε τη ρύθμιση του προφίλ εργασίας σας</string>
     <string name="managed_provisioning_error_text">Δεν ήταν δυνατή η ρύθμιση του προφίλ εργασίας σας. Επικοινωνήστε με το τμήμα πληροφορικής υποστήριξης ή δοκιμάστε ξανά αργότερα.</string>
     <string name="cant_add_work_profile">Η προσθήκη προφίλ εργασίας δεν είναι δυνατή</string>
-    <string name="user_cant_have_work_profile_contact_admin">Αυτός ο χρήστης δεν μπορεί να έχει προφίλ εργασίας. Για βοήθεια, επικοινωνήστε με τον διαχειριστή σας.</string>
-    <string name="user_cannot_have_work_profiles_contact_admin">Αυτός ο χρήστης δεν μπορεί να έχει προφίλ εργασίας. Επικοινωνήστε με τον διαχειριστή σας.</string>
-    <string name="device_owner_exists">Δεν είναι δυνατή η ρύθμιση προφίλ εργασίας σε μια διαχειριζόμενη συσκευή</string>
-    <string name="too_many_users_on_device_remove_user_try_again">Πιθανώς να υπάρχουν υπερβολικά πολλοί χρήστες σε αυτήν τη συσκευή. Καταργήστε έναν χρήστη και δοκιμάστε ξανά.</string>
+    <string name="cant_replace_or_remove_work_profile">Δεν είναι δυνατή η αντικατάσταση ή η κατάργηση του προφίλ εργασίας</string>
+    <string name="work_profile_cant_be_added_contact_admin">Δεν είναι δυνατή η προσθήκη ενός προφίλ εργασίας σε αυτήν τη συσκευή. Εάν έχετε απορίες, επικοινωνήστε με τον διαχειριστή σας.</string>
     <string name="change_device_launcher">Αλλάξτε την εφαρμογή εκκίνησης συσκευής</string>
     <string name="launcher_app_cant_be_used_by_work_profile">Αυτή η εφαρμογή εκκίνησης δεν μπορεί να χρησιμοποιηθεί από το προφίλ εργασίας σας</string>
     <string name="cancel_provisioning">Ακύρωση</string>
     <string name="pick_launcher">OK</string>
     <string name="user_setup_incomplete">Μη ολοκληρωμένη ρύθμιση χρήστη</string>
     <string name="default_owned_device_username">Χρήστης συσκευής εργασίας</string>
-    <string name="setup_work_device">Ρύθμιση συσκευής εργασίας</string>
+    <string name="setup_work_device">Ρύθμιση συσκευής εργασίας...</string>
     <string name="progress_data_process">Επεξεργασία δεδομένων ρύθμισης…</string>
     <string name="progress_connect_to_wifi">Σύνδεση με Wi-Fi…</string>
     <string name="progress_download">Λήψη εφαρμογής διαχείρισης…</string>

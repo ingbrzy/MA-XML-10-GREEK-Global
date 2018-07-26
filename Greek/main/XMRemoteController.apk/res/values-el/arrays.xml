@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="ac_mode_array">
+        <item>Ψύξη</item>
+        <item>Θέρμανση</item>
+        <item>Αφύγρανση</item>
+        <item>Ανεμιστήρας</item>
+    </string-array>
+    <string-array name="answer">
+        <item>Η συσκευή σας μπορεί μόνο να κάνει σύζευξη με Mi TV, Mi κουτί και με λιγοστές άλλες Android συσκευές μέσω Wi-Fi.</item>
+        <item>Βεβαιωθείτε ότι έχετε επιλέξει το σωστό μοντέλο κλιματιστικού για τη διαδικασία σύζευξης. Ακολουθήστε τις οδηγίες στη συσκευή σας μέχρι να ολοκληρωθεί η σύζευξη.</item>
+        <item>Όχι. Επί του παρόντος μπορείτε να χρησιμοποιήσετε Mi 4c, Mi 4 και Redmi Σημείωση 2 ως IR τηλεχειριστήρια.</item>
+    </string-array>
+    <string-array name="epg_week_tab">
+        <item>Κυρ</item>
+        <item>Δευ</item>
+        <item>Τρι</item>
+        <item>Τετ</item>
+        <item>Πεμ</item>
+        <item>Παρ</item>
+        <item>Σαβ</item>
+    </string-array>
+    <string-array name="question">
+        <item>Γιατί το τηλέφωνό μου κάνει συνεχώς αναζήτηση για ασύρματες συσκευές;</item>
+        <item>Γιατί μπορώ να ενεργοποιήσω το κλιματιστικό μου αλλά δεν μπορώ να το απενεργοποιήσω;</item>
+        <item>Μπορώ να χρησιμοποιήσω Mi 3, Mi 2 και Redmi ως IR τηλεχειριστήρια;</item>
+    </string-array>
+    <string-array name="voice_ac_help">
+        <item>Ενεργοποίηση Haier AC στο σαλόνι</item>
+        <item>Ρύθμιση θερμοκρασίας στους 25 βαθμούς</item>
+        <item>Ρύθμιση κατεύθυνσης αέρα προς τα \"Επάνω\"</item>
+    </string-array>
+    <string-array name="voice_fan_help">
+        <item>Ενεργοποίηση Gree AC</item>
+        <item>Εναλλαγή σε λειτουργία ταλάντευσης</item>
+        <item>Αύξηση έντασης αέρος AC</item>
+    </string-array>
+    <string-array name="voice_stb_help">
+        <item>Ενεργοποίηση set-top κουτί</item>
+        <item>Θέλω να παρακολουθήσω Hunan TV</item>
+        <item>Επιστροφή στο κανάλι 15</item>
+    </string-array>
+    <string-array name="voice_tips">
+        <item>Ενεργοποίηση AC</item>
+        <item>Θέλω να παρακολουθήσω Shenzhen TV</item>
+        <item>Επιστροφή στο κανάλι 12</item>
+    </string-array>
+    <string-array name="voice_tv_help">
+        <item>Ενεργοποίηση τηλεόρασης στο υπνοδωμάτιο</item>
+        <item>Απενεργοποίηση τηλεόρασης</item>
+        <item>Αύξηση έντασης ήχου στην τηλεόραση</item>
+    </string-array>
+</resources>

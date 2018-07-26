@@ -23,8 +23,10 @@
     <string name="dialog_alert_title">Προσοχή</string>
     <string name="VideoView_error_text_invalid_progressive_playback">Αυτό το βίντεο δεν είναι έγκυρο για ροή σε αυτή τη συσκευή.</string>
     <string name="selectTextMode">Επιλογή κειμένου</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
     <string name="fingerprint_icon_content_description">Εικονίδιο δακτυλικών αποτυπωμάτων</string>
     <string name="paste_as_plain_text">Επικόλληση ως απλό κείμενο</string>
+    <string name="autofill">Αυτόματη συμπλήρωση</string>
     <string name="BaMmi">Φραγή κλήσεων</string>
     <string name="CLIRDefaultOffNextCallOff">Η αναγνώριση κλήσης βρίσκεται από προεπιλογή στην \"μη περιορισμένη\". Επόμενη κλήση: Μη περιορισμένη</string>
     <string name="CLIRDefaultOffNextCallOn">Η αναγνώριση κλήσης βρίσκεται από προεπιλογή στην \"μη περιορισμένη\". Επόμενη κλήση: Περιορισμένη.</string>
@@ -41,8 +43,10 @@
     <string name="ColrMmi">Περιορισμός αναγνωριστικού συνδεδεμένης πρόσβασης</string>
     <string name="CwMmi">Αναμονή</string>
     <string name="DndMmi">Μην ενοχλείτε</string>
+    <string name="EmergencyCallWarningSummary">Για κλήσεις έκτακτης ανάγκης, απαιτείται δίκτυο κινητής τηλεφωνίας.</string>
+    <string name="EmergencyCallWarningTitle">Η κλήση Wi‑Fi είναι ενεργή</string>
     <string name="Midnight">Μεσάνυχτα</string>
-    <string name="NetworkPreferenceSwitchSummary">Για να βελτιώσετε τη λήψη, δοκιμάστε να αλλάξετε τον επιλεγμένο τύπο από το Σύστημα > Δίκτυο και διαδίκτυο > Δίκτυα κινητής τηλεφωνίας > Προτιμώμενος τύπος δικτύου.</string>
+    <string name="NetworkPreferenceSwitchSummary">Για να βελτιώσετε τη λήψη, δοκιμάστε να αλλάξετε τον επιλεγμένο τύπο από τις Ρυθμίσεις > Δίκτυο και διαδίκτυο > Δίκτυα κινητής τηλεφωνίας > Προτιμώμενος τύπος δικτύου.</string>
     <string name="NetworkPreferenceSwitchTitle">Δεν είναι δυνατή η σύνδεση στο δίκτυο</string>
     <string name="Noon">Μεσημέρι</string>
     <string name="PinMmi">Αλλαγή αριθμού PIN</string>
@@ -134,7 +138,6 @@
     <string name="app_running_notification_text">Πατήστε για περισσότερες πληροφορίες ή για να διακόψετε την εκτέλεση της εφαρμογής.</string>
     <string name="app_running_notification_title">Η εφαρμογή %1$s εκτελείται</string>
     <string name="app_upgrading_toast">Η εφαρμογή %1$s αναβαθμίζεται…</string>
-    <string name="autofill">Αυτόματη συμπλήρωση</string>
     <string name="autofill_address_name_separator">" "</string>
     <string name="autofill_address_summary_format">$1$2$3</string>
     <string name="autofill_address_summary_name_format">$1$2$3</string>
@@ -168,7 +171,7 @@
     <string name="autofill_this_form">Αυτόματη συμπλήρωση</string>
     <string name="autofill_zip_code">Ταχυδρομικός κώδικας</string>
     <string name="back_button_label">Πίσω</string>
-    <string name="badPin">Ο παλιός αριθμός PIN που πληκτρολογήσατε είναι λάθος.</string>
+    <string name="badPin">Το παλιό PIN που πληκτρολογήσατε είναι λάθος.</string>
     <string name="badPuk">Ο κωδικός PUK που πληκτρολογήσατε είναι λάθος.</string>
     <string name="battery_saver_description">"Προκειμένου να βελτιώσει τη διάρκεια ζωής της μπαταρίας σας, η Εξοικονόμηση μπαταρίας μειώνει την απόδοση της συσκευής σας και περιορίζει λειτουργίες όπως η δόνηση, οι υπηρεσίες τοποθεσίας και τα περισσότερα δεδομένα παρασκηνίου. Το ηλεκτρονικό ταχυδρομείο, η ανταλλαγή μηνυμάτων και άλλες εφαρμογές που βασίζονται στο συγχρονισμό ενδέχεται να μην ενημερώνονται μέχρι να τις ανοίξετε.
 
@@ -270,10 +273,6 @@
     <string name="deleted_key">%1$s διαγράφηκε</string>
     <string name="demo_restarting_message">Επαναφορά συσκευής…</string>
     <string name="demo_starting_message">Έναρξη επίδειξης…</string>
-    <string name="demo_user_inactivity_timeout_countdown">Τυχόν αλλαγές που πραγματοποιήσατε θα χαθούν και η επίδειξη θα ξεκινήσει ξανά σε %1$s δευτερόλεπτα…</string>
-    <string name="demo_user_inactivity_timeout_left_button">Ακύρωση</string>
-    <string name="demo_user_inactivity_timeout_right_button">Επαναφορά τώρα</string>
-    <string name="demo_user_inactivity_timeout_title">Να γίνει επαναφορά της συσκευής;</string>
     <string name="deny">Άρνηση</string>
     <string name="description_target_unlock_tablet">Σύρετε για ξεκλείδωμα.</string>
     <string name="device_storage_monitor_notification_channel">Αποθηκευτικός χώρος συσκευής</string>
@@ -293,18 +292,6 @@
     <string name="dump_heap_notification_detail">Έγινε λήψη του στιγμιότυπου μνήμης, πατήστε για κοινή χρήση</string>
     <string name="dump_heap_text">Η διαδικασία %1$s υπερβαίνει το όριο μνήμης %2$s. Είναι διαθέσιμο ένα στιγμιότυπο μνήμης για να μοιραστείτε με τον προγραμματιστή. Να είστε προσεκτικοί: αυτό το στιγμιότυπο μνήμης μπορεί να περιέχει οποιοδήποτε από τα προσωπικά σας στοιχεία στα οποία έχει πρόσβαση η εφαρμογή.</string>
     <string name="dump_heap_title">Κοινή χρήση στιγμιότυπου μνήμης;</string>
-    <string name="durationDayHour">%1$d ημ. %2$d ώρα</string>
-    <string name="durationDayHours">%1$d ημ. %2$d ώρες</string>
-    <string name="durationDays">%1$d ημέρες</string>
-    <string name="durationHourMinute">%1$d ώρα %2$d λ</string>
-    <string name="durationHourMinutes">%1$d ώρα %2$d λ</string>
-    <string name="durationHours">%1$d ώρες</string>
-    <string name="durationMinute">%1$d λεπτά</string>
-    <string name="durationMinuteSecond">%1$d λ %2$d δευτ.</string>
-    <string name="durationMinuteSeconds">%1$d λ. %2$d δευτ.</string>
-    <string name="durationMinutes">%1$d λεπτά</string>
-    <string name="durationSecond">%1$d δευτ.</string>
-    <string name="durationSeconds">%1$d δευτ.</string>
     <string name="editTextMenuTitle">Ενέργειες κειμένου</string>
     <string name="elapsed_time_short_format_h_mm_ss">%1$d:%2$02d:%3$02d</string>
     <string name="elapsed_time_short_format_mm_ss">%1$02d:%2$02d</string>
@@ -384,6 +371,7 @@
     <string name="fast_scroll_numeric_alphabet">" 0123456789ABCDEFGHIJKLMNOPQRSTUVWXYZ"</string>
     <string name="fcComplete">Ο κωδικός λειτουργίας ολοκληρώθηκε.</string>
     <string name="fcError">Πρόβλημα σύνδεσης ή μη έγκυρος κώδικας δυνατότητας.</string>
+    <string name="fileSizeSuffix">%1$s %2$s</string>
     <string name="find">Εύρεση</string>
     <string name="find_next">Εύρεση επόμενου</string>
     <string name="find_on_page">Εύρεση στη σελίδα</string>
@@ -405,14 +393,13 @@
     <string name="floating_toolbar_close_overflow_description">Κλείσιμο υπερχείλισης</string>
     <string name="floating_toolbar_open_overflow_description">Περισσότερες επιλογές</string>
     <string name="force_close">ΟΚ</string>
-    <string name="foreground_service_app_in_background">Η εφαρμογή %1$s εκτελείται στο παρασκήνιο</string>
-    <string name="foreground_service_apps_in_background">%1$d εφαρμογές εκτελούνται στο παρασκήνιο</string>
+    <string name="foreground_service_app_in_background">Η εφαρμογή %1$s χρησιμοποιεί μπαταρία</string>
+    <string name="foreground_service_apps_in_background">%1$d εφαρμογές χρησιμοποιούν μπαταρία</string>
     <string name="foreground_service_multiple_separator">%1$s, %2$s</string>
     <string name="foreground_service_tap_for_details">Πατήστε για λεπτομέρειες σχετικά με τη χρήση μπαταρίας και δεδομένων</string>
     <string name="forward_intent_to_owner">Χρησιμοποιείτε αυτήν την εφαρμογή εκτός του προφίλ εργασίας σας</string>
     <string name="forward_intent_to_work">Χρησιμοποιείτε αυτήν την εφαρμογή στο προφίλ εργασίας</string>
     <string name="gadget_host_error_inflating">Δεν ήταν δυνατή η προσθήκη του γραφικού στοιχείου.</string>
-    <string name="gigabyteShort">GB</string>
     <string name="global_action_assist">Βοήθεια</string>
     <string name="global_action_bug_report">Αναφορά σφαλμάτων</string>
     <string name="global_action_emergency">Κλήση έκτακτης ανάγκης</string>
@@ -570,6 +557,7 @@
     <string name="kg_reordering_delete_drop_target_text">Κατάργηση</string>
     <string name="kg_sim_pin_instructions">Εισαγωγή PIN SIM</string>
     <string name="kg_sim_unlock_progress_dialog_message">Ξεκλείδωμα κάρτας SIM...</string>
+    <string name="kg_text_message_separator">" — "</string>
     <string name="kg_too_many_failed_attempts_countdown">Δοκιμάστε ξανά σε %1$d δευτερόλεπτα.</string>
     <string name="kg_too_many_failed_password_attempts_dialog_message">"Έχετε πληκτρολογήσει τον κωδικό πρόσβασης εσφαλμένα %1$d φορές. 
 
@@ -583,7 +571,6 @@
     <string name="kg_wrong_password">Λανθασμένος κωδικός πρόσβασης</string>
     <string name="kg_wrong_pattern">Λάθος μοτίβο</string>
     <string name="kg_wrong_pin">Λανθασμένος κωδικός PIN</string>
-    <string name="kilobyteShort">kB</string>
     <string name="language_picker_section_all">Όλες οι γλώσσες</string>
     <string name="language_picker_section_suggested">Προτεινόμενες</string>
     <string name="language_selection_title">Προσθήκη γλώσσας</string>
@@ -779,7 +766,6 @@
     <string name="mediasize_na_tabloid">Tabloid</string>
     <string name="mediasize_unknown_landscape">Άγνωστος οριζόντιος προσανατολισμός</string>
     <string name="mediasize_unknown_portrait">Άγνωστος κατακόρυφος προσανατολισμός</string>
-    <string name="megabyteShort">MB</string>
     <string name="meid">MEID</string>
     <string name="menu_delete_shortcut_label">διαγραφή</string>
     <string name="menu_enter_shortcut_label">εισαγωγή</string>
@@ -828,8 +814,8 @@
     <string name="notification_channel_developer">Μηνύματα προγραμματιστή</string>
     <string name="notification_channel_device_admin">Διαχείριση συσκευής</string>
     <string name="notification_channel_emergency_callback">Λειτουργία επιστροφής κλήσης έκτακτης ανάγκης</string>
-    <string name="notification_channel_foreground_service">Εφαρμογές που εκτελούνται στο παρασκήνιο</string>
-    <string name="notification_channel_mobile_data_alert">Ειδοποιήσεις δεδομένων κινητής τηλεφωνίας</string>
+    <string name="notification_channel_foreground_service">Εφαρμογές που καταναλώνουν μπαταρία</string>
+    <string name="notification_channel_mobile_data_status">Κατάσταση δεδομένων κινητής τηλεφωνίας</string>
     <string name="notification_channel_network_alert">Ειδοποιήσεις</string>
     <string name="notification_channel_network_alerts">Ειδοποιήσεις δικτύου</string>
     <string name="notification_channel_network_available">Το δίκτυο είναι διαθέσιμο</string>
@@ -844,10 +830,11 @@
     <string name="notification_channel_voice_mail">Μηνύματα αυτόματου τηλεφωνητή</string>
     <string name="notification_channel_vpn">Κατάσταση VPN</string>
     <string name="notification_channel_wfc">Κλήση Wi-Fi</string>
-    <string name="notification_hidden_by_policy_text">Το περιεχόμενο είναι κρυφό βάσει πολιτικής</string>
-    <string name="notification_hidden_text">Κρυφό περιεχόμενο</string>
+    <string name="notification_hidden_text">Νέα ειδοποίηση</string>
     <string name="notification_listener_binding_label">Υπηρεσία ακρόασης ειδοποίησης</string>
+    <string name="notification_messaging_title_template">%1$s: %2$s</string>
     <string name="notification_ranker_binding_label">Υπηρεσία κατάταξης ειδοποιήσεων</string>
+    <string name="notification_reply_button_accessibility">Απάντηση</string>
     <string name="notification_title">Σφάλμα σύνδεσης για τον λογαριασμό %1$s</string>
     <string name="notification_work_profile_content_description">Προφίλ εργασίας</string>
     <string name="now_string_shortest">τώρα</string>
@@ -957,8 +944,8 @@
     <string name="permdesc_requestInstallPackages">Επιτρέπει σε μια εφαρμογή να ζητά εγκατάσταση πακέτων.</string>
     <string name="permdesc_route_media_output">Επιτρέπει σε μια εφαρμογή τη διαγραφή διαδρομής δεδομένων εξόδου μέσων σε άλλες εξωτερικές συσκευές.</string>
     <string name="permdesc_runInBackground">Αυτή η εφαρμογή μπορεί να εκτελείται στο παρασκήνιο. Αυτό μπορεί να εξαντλήσει πιο γρήγορα την μπαταρία.</string>
-    <string name="permdesc_sdcardRead">Επιτρέπει στην εφαρμογή την ανάγνωση του περιεχομένου του αποθηκευτικού σας χώρου USB.</string>
-    <string name="permdesc_sdcardWrite">Επιτρέπει στην εφαρμογή την εγγραφή στον αποθηκευτικό χώρο USB.</string>
+    <string name="permdesc_sdcardRead">Επιτρέπει στην εφαρμογή την ανάγνωση του περιεχομένου της κάρτας SD.</string>
+    <string name="permdesc_sdcardWrite">Επιτρέπει στην εφαρμογή την εγγραφή στην κάρτα SD.</string>
     <string name="permdesc_sendSms">Επιτρέπει στην εφαρμογή των αποστολή μηνυμάτων SMS. Αυτό μπορεί να προκαλέσει μη αναμενόμενες χρεώσεις. Οι κακόβουλες εφαρμογές ενδέχεται να σας κοστίσουν χρήματα, αποστέλλοντας μηνύματα χωρίς την έγκρισή σας.</string>
     <string name="permdesc_setAlarm">Επιτρέπει στην εφαρμογή τη ρύθμιση μιας ειδοποίησης σε μια εγκατεστημένη εφαρμογή ξυπνητηριού. Ορισμένες εφαρμογές ξυπνητηριού ενδέχεται να μην μπορούν να ενσωματώσουν αυτήν τη λειτουργία.</string>
     <string name="permdesc_setInputCalibration">Επιτρέπει στην εφαρμογή να τροποποιεί τις παραμέτρους βαθμονόμησης της οθόνης αφής. Δεν απαιτείται για τις κανονικές εφαρμογές.</string>
@@ -1084,8 +1071,8 @@
     <string name="permlab_requestInstallPackages">ζητά πακέτα εγκατάστασης</string>
     <string name="permlab_route_media_output">δρομολογεί την έξοδο μέσων</string>
     <string name="permlab_runInBackground">εκτέλεση στο παρασκήνιο</string>
-    <string name="permlab_sdcardRead">ανάγν. περιεχ. αποθηκ. χώρ.USB</string>
-    <string name="permlab_sdcardWrite">τροποποιεί/διαγράφει το USB</string>
+    <string name="permlab_sdcardRead">διαβάζει το περιεχομένο της κάρτας SD</string>
+    <string name="permlab_sdcardWrite">τροποποιεί ή διαγράφει τα περιεχόμενα της κάρτας SD</string>
     <string name="permlab_sendSms">στέλνει και να διαβάζει μηνύματα SMS</string>
     <string name="permlab_setAlarm">ρυθμίζει το ξυπνητήρι</string>
     <string name="permlab_setInputCalibration">αλλαγή βαθμονόμησης της συσκευής εισόδου</string>
@@ -1159,6 +1146,7 @@
     <string name="policylab_watchLogin">Παρακολούθηση προσπαθειών ξεκλειδώματος οθόνης</string>
     <string name="policylab_wipeData">Διαγραφή όλων των δεδομένων</string>
     <string name="policylab_wipeData_secondaryUser">Διαγραφή δεδομένων χρήστη</string>
+    <string name="popup_window_default_title">Αναδυόμενο παράθυρο</string>
     <string name="postalTypeCustom">Προσαρμοσμένο</string>
     <string name="postalTypeHome">Σπίτι</string>
     <string name="postalTypeOther">Άλλο</string>
@@ -1173,7 +1161,7 @@
     <string name="print_service_installed_title">Εγκαταστάθηκε η υπηρεσία %s</string>
     <string name="profile_encrypted_detail">Το προφίλ εργασίας κλειδώθηκε</string>
     <string name="profile_encrypted_message">Πατήστε για ξεκλ. προφίλ εργ.</string>
-    <string name="progress_erasing">Διαγραφή αποθηκευτικού χώρου USB...</string>
+    <string name="progress_erasing">Διαγραφή κάρτας SD...</string>
     <string name="quick_contacts_not_available">Δεν βρέθηκε καμία εφαρμογή για την προβολή αυτής της επαφής.</string>
     <string name="reason_service_unavailable">Η υπηρεσία εκτύπωσης δεν είναι ενεργοποιημένη</string>
     <string name="reason_unknown">άγνωστο</string>
@@ -1207,8 +1195,6 @@
     <string name="replace">Αντικατάσταση...</string>
     <string name="report">Αναφορά</string>
     <string name="reset">Επαναφορά</string>
-    <string name="reset_retail_demo_mode_text">Πατήστε για επαναφορά της συσκευής</string>
-    <string name="reset_retail_demo_mode_title">Να γίνει επαναφορά της συσκευής;</string>
     <string name="restr_pin_confirm_pin">Επιβεβαίωση νέου κωδικού PIN</string>
     <string name="restr_pin_create_pin">Δημιουργία PIN για τροποποίηση περιορισμών</string>
     <string name="restr_pin_enter_admin_pin">Εισαγωγή αριθμού PIN διαχειριστή</string>
@@ -1344,7 +1330,7 @@
     <string name="stk_cc_ussd_to_dial">Το αίτημα USSD τροποποιήθηκε σε αίτημα DIAL.</string>
     <string name="stk_cc_ussd_to_ss">Το αίτημα USSD τροποποιήθηκε σε αίτημα SS.</string>
     <string name="stk_cc_ussd_to_ussd">Το αίτημα USSD τροποποιήθηκε σε νέο αίτημα USSD.</string>
-    <string name="storage_internal">Εσωτερικός κοινόχρηστος αποθηκευτικός χώρος</string>
+    <string name="storage_internal">Εσωτ. κοινόχρ. αποθ. χώρος</string>
     <string name="storage_sd_card">Κάρτα SD</string>
     <string name="storage_sd_card_label">Κάρτα SD %s</string>
     <string name="storage_usb">Αποθηκευτικός χώρος USB</string>
@@ -1361,7 +1347,6 @@
     <string name="system_error_manufacturer">Υπάρχει ένα εσωτερικό πρόβλημα με τη συσκευή σας. Επικοινωνήστε με τον κατασκευαστή σας για λεπτομέρειες.</string>
     <string name="system_error_wipe_data">Υπάρχει ένα εσωτερικό πρόβλημα με τη συσκευή σας και ενδέχεται να είναι ασταθής μέχρι την επαναφορά των εργοστασιακών ρυθμίσεων.</string>
     <string name="taking_remote_bugreport_notification_title">Λήψη αναφοράς σφάλματος…</string>
-    <string name="terabyteShort">TB</string>
     <string name="tethered_notification_message">Πατήστε για ρύθμιση.</string>
     <string name="tethered_notification_title">Πρόσδεση ή σύνδεση σημείου πρόσβασης ενεργή</string>
     <string name="textSelectionCABTitle">Επιλογή κειμένου</string>
@@ -1403,6 +1388,8 @@
     <string name="usb_notification_message">Πατήστε για περισσότερες επιλογές.</string>
     <string name="usb_ptp_notification_title">USB για μεταφορά φωτογραφιών</string>
     <string name="usb_supplying_notification_title">Η συνδεδεμένη συσκευή τροφοδοτείται μέσω USB</string>
+    <string name="usb_unsupported_audio_accessory_message">Η συνδεδεμένη συσκευή δεν είναι συμβατή με αυτό το τηλέφωνο. Πατήστε για να μάθετε περισσότερα.</string>
+    <string name="usb_unsupported_audio_accessory_title">Εντοπίστηκε αναλογικό αξεσουάρ ήχου</string>
     <string name="use_a_different_app">Χρήση άλλης εφαρμογής</string>
     <string name="user_creation_account_exists">Να επιτραπεί στην εφαρμογή %1$s να δημιουργήσει έναν νέο χρήστη με το λογαριασμό %2$s;</string>
     <string name="user_creation_adding">Να επιτραπεί στην εφαρμογή %1$s να δημιουργήσει έναν νέο χρήστη με το λογαριασμό %2$s (υπάρχει ήδη χρήστης με αυτόν το λογαριασμό);</string>
@@ -1471,7 +1458,14 @@
     <string name="whichViewApplication">Άνοιγμα με</string>
     <string name="whichViewApplicationLabel">Άνοιγμα</string>
     <string name="whichViewApplicationNamed">Άνοιγμα με %1$s</string>
+    <string name="wifi_available_action_all_networks">Όλα τα δίκτυα</string>
+    <string name="wifi_available_action_connect">Σύνδεση</string>
+    <string name="wifi_available_content_failed_to_connect">Πατήστε για να δείτε όλα τα δίκτυα</string>
     <string name="wifi_available_sign_in">Συνδεθείτε στο δίκτυο Wi-Fi</string>
+    <string name="wifi_available_title">Σύνδεση σε ανοιχτό δίκτυο Wi‑Fi</string>
+    <string name="wifi_available_title_connected">Ολοκληρώθηκε η σύνδεση στο δίκτυο Wi-Fi</string>
+    <string name="wifi_available_title_connecting">Σύνδεση σε ανοιχτό δίκτυο Wi‑Fi</string>
+    <string name="wifi_available_title_failed_to_connect">Δεν ήταν δυνατή η σύνδεση σε δίκτυο Wi‑Fi</string>
     <string name="wifi_calling_off_summary">Ανενεργό</string>
     <string name="wifi_connect_alert_message">Η εφαρμογή %1$s θα ήθελε να συνδεθεί με το δίκτυο WiFi %2$s</string>
     <string name="wifi_connect_alert_title">Να επιτρέπεται η σύνδεση;</string>
@@ -1512,5 +1506,6 @@
     <string name="zen_mode_feature_name">Μην ενοχλείτε</string>
     <string name="zen_mode_forever">Μέχρι να απενεργοποιήσετε \"Μην ενοχλείτε\"</string>
     <string name="zen_mode_forever_dnd">Μέχρι να απενεργοποιήσετε \"Μην ενοχλείτε\"</string>
+    <string name="zen_mode_rule_name_combination">%1$s / %2$s</string>
     <string name="zen_mode_until">Έως τις %1$s</string>
 </resources>
