@@ -1,38 +1,38 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <plurals name="delete_confirm_multiple_files">
+    <plurals name="a">
         <item quantity="other">Διαγραφή %d επιλεγμένων αρχείων;</item>
         <item quantity="one">Διαγραφή %d επιλεγμένου αρχείου;</item>
     </plurals>
-    <plurals name="notif_receive_cancel">
+    <plurals name="b">
         <item quantity="other">Ακυρώθηκε η μεταφορά από %1$s</item>
         <item quantity="one">Ακυρώθηκε η μεταφορά από %1$s</item>
     </plurals>
-    <plurals name="notif_receive_progress">
+    <plurals name="c">
         <item quantity="other">Γίνεται λήψη %1$s αρχείων…</item>
         <item quantity="one">Γίνεται λήψη %1$s αρχείου…</item>
     </plurals>
-    <plurals name="notif_receive_success">
+    <plurals name="d">
         <item quantity="other">Επιτυχής λήψη αρχείων από %1$s</item>
         <item quantity="one">Επιτυχής λήψη αρχείου από %1$s</item>
     </plurals>
-    <plurals name="receiver_file_num">
+    <plurals name="e">
         <item quantity="other">%2$d αρχεία από %1$s</item>
         <item quantity="one">%2$d αρχείο από %1$s</item>
     </plurals>
-    <plurals name="selected_file_num">
+    <plurals name="f">
         <item quantity="other">Έγινε επιλογή %d αντικειμένων</item>
         <item quantity="one">Έγινε επιλογή %d αντικειμένου</item>
     </plurals>
-    <plurals name="sender_file_num">
+    <plurals name="g">
         <item quantity="other">%1$d αντικείμενα</item>
         <item quantity="one">%1$d αντικείμενο</item>
     </plurals>
-    <plurals name="transfer_list_received_header">
+    <plurals name="h">
         <item quantity="other">Λήψη %1$d αρχείων (%2$s)</item>
         <item quantity="one">Λήψη %1$d αρχείου (%2$s)</item>
     </plurals>
-    <plurals name="transfer_list_sent_header">
+    <plurals name="i">
         <item quantity="other">Αποστολή %1$d αρχείων (%2$s)</item>
         <item quantity="one">Αποστολή %1$d αρχείου (%2$s)</item>
     </plurals>

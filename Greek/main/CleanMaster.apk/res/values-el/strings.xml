@@ -26,7 +26,7 @@
     <string name="empty_title_apk">Δεν βρέθηκαν πακέτα εγκατάστασης</string>
     <string name="empty_title_residual">Δεν βρέθηκαν κατάλοιπα</string>
     <string name="btn_text_quick_cleanup">Εκκαθάριση</string>
-    <string name="hints_title_garbage">σκουπίδια</string>
+    <string name="hints_title_garbage">Σκουπίδια</string>
     <string name="activity_title_main">Εκκαθάριση</string>
     <string name="activity_title_deep_clean">Βαθιά εκκαθάριση</string>
     <string name="activity_title_cache">Cache</string>
@@ -91,6 +91,7 @@
     <string name="hints_apk_header_left">Πακέτα</string>
     <string name="hints_residual_header_left">Κατάλοιπα</string>
     <string name="hints_memory_header_left">Μνήμη</string>
+    <string name="hints_header_left">%d</string>
     <string name="hints_large_file_header_left">Μεγάλα αρχεία: %d</string>
     <string name="hints_installed_apps_header_left">Εγκατεστημένες εφαρμογές: %d</string>
     <string name="toast_resolve_apk_error">Επίλυση apk σφάλματος</string>
@@ -194,7 +195,7 @@
     <string name="deepclean_normal_title">Αυτόματη εκκαθάριση</string>
     <string name="deepclean_normal_item_desc1">Αρχεία σκουπιδιών</string>
     <string name="deepclean_normal_item_desc2">Οι ενέργειες της Εκκαθάρισης δεν θα επηρεάσουν την απόδοση του συστήματος</string>
-    <string name="deepclean_1_k_clean">Γρήγορη εκκαθάριση</string>
+    <string name="deepclean_1_k_clean">Εκκαθάριση μνήμης</string>
     <string name="similar_image_title">Φωτογραφίες</string>
     <string name="similar_image_desc">Διαγραφή παρόμοιων φωτογραφιών</string>
     <string name="similar_image_scaning">Γίνεται έλεγχος…</string>
@@ -298,6 +299,7 @@
     <string name="downloading">Γίνεται λήψη</string>
     <string name="installing">Γίνεται εγκατάσταση</string>
     <string name="start_install">Εγκατάσταση τώρα</string>
+    <string name="empty">" "</string>
     <string name="open_browser">Άνοιγμα στον φυλλομετρητή</string>
     <string name="title_share_link">Κοινοποίηση URL</string>
     <string name="connecting">Γίνεται σύνδεση…</string>
@@ -528,7 +530,7 @@
     <string name="wechat_msg_time_long">dd-MM-yyyy</string>
     <string name="wechat_msg_time_short">dd-MM</string>
     <string name="wechat_video_time">%1$s:%2$s</string>
-    <string name="main_total_garbage">Σύνολο απορριφθέντων στοιχείων</string>
+    <string name="main_total_garbage">Μέγεθος σκουπιδιών</string>
     <string name="whatsapp_group_image">Εικόνες</string>
     <string name="whatsapp_group_video">Βίντεο</string>
     <string name="whatsapp_group_voice">Φωνητικά μηνύματα</string>
@@ -543,7 +545,7 @@
     <string name="whatsapp_type_document_recv">Εισερχόμενα αρχεία</string>
     <string name="whatsapp_file_show_order">Σήμερα</string>
     <string name="whatsapp_clean_exit_confirm_title">Διακοπή σάρωσης;</string>
-    <string name="whatsapp_clean_exit_confirm_msg">Δεν έχει ολοκληρωθεί η σάρωση του WhataApp. Διακοπή σάρωσης τώρα;</string>
+    <string name="whatsapp_clean_exit_confirm_msg">Δεν έχει ολοκληρωθεί η σάρωση του WhatsApp. Διακοπή σάρωσης τώρα;</string>
     <string name="whatsapp_clean_exit_confirm_cancel">Συνέχεια σάρωσης</string>
     <string name="whatsapp_clean_exit_confirm_ok">Διακοπή</string>
     <string name="whatsapp_delete_confirm_ok">OK</string>
@@ -551,7 +553,17 @@
     <string name="whatsapp_content_empty">Δεν υπάρχουν στοιχεία εδώ.</string>
     <string name="whatsapp_delete_confirm_message">Διαγραφή τώρα;</string>
     <string name="whatsapp_delete_done">Ολοκλήρωση</string>
-    <string name="whatsapp_title">Καθαρισμός Whatsapp</string>
+    <string name="whatsapp_title">Καθαρισμός WhatsApp</string>
     <string name="whatsapp_function_title">Καθαρισμός WhatsApp</string>
     <string name="whatsapp_function_summery">Διαγραφή Συνημένων WhatsApp</string>
+    <string name="clean_summary">Έγινε εκκαθάριση %1$s αρχείων</string>
+    <string name="onekeyclean_boosting_title">Γίνεται ενίσχυση ταχύτητας</string>
+    <string name="onekeyclean_boosted_title">Επιτυχής εκκαθάριση</string>
+    <string name="onekeyclean_boost_cleaned">Έγινε εκκαθάριση %s</string>
+    <string name="onekeyclean_boost_available">%s διαθέσιμα</string>
+    <string name="onekeyclean_card_summery">Εκκαθάριση σκουπιδιών για απελευθέρωση χώρου</string>
+    <string name="onekeyclean_card_btn">Εκκαθάριση τώρα</string>
+    <string name="memory_clean_icon_text">Εκκαθάριση μνήμης</string>
+    <string name="pref_title_create_onekeyclean_shortcut">Προβολή συντομεύσης Αρχικής οθόνης</string>
+    <string name="memory_clean_no_trash_tip">Όλα φαίνεται να λειτουργούν σωστά</string>
 </resources>

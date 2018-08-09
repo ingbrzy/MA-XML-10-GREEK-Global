@@ -431,6 +431,7 @@
     <string name="portrait_mode_depth_effect_success_hint">Εφέ βάθους</string>
     <string name="portrait_mode_use_hint">"Η λειτουργία πορτρέτου θολώνει το παρασκήνιο
 και επικεντρώνεται στα άτομα μπροστά."</string>
+    <string name="portrait_mode_use_hint_with_switch">@string/portrait_mode_use_hint</string>
     <string name="pref_camera_square_mode_title">Τετράγωνο</string>
     <string name="simple_mode_button_text_square">Απενεργοποίηση Τετραγώνου</string>
     <string name="face_beauty_smart">Έξυπνο</string>
@@ -445,6 +446,7 @@
     <string name="pref_camera_beautify_entry_low">Χαμηλή</string>
     <string name="pref_camera_beautify_entry_normal">Μεσσαία</string>
     <string name="pref_camera_beautify_entry_high">Υψηλή</string>
+    <string name="pref_camera_beautify_entry_close">@string/face_beauty_close</string>
     <string name="camera_mode_options">Λειτουργίες</string>
     <string name="button_front_camera_title">Δημιουργία selfie</string>
     <string name="button_normal_video_title">Εγγραφή Video</string>
@@ -490,6 +492,7 @@
     <string name="beauty_fragment_tab_name_makeup">Σύνθετα</string>
     <string name="beauty_fragment_tab_name_3d_beauty">Ωραιοποίηση</string>
     <string name="beauty_fragment_tab_name_3d_remodeling">Μοντελοποίηση</string>
+    <string name="beauty_fragment_tab_name_3d_makeup">Μακιγιάζ</string>
     <string name="edit_skin_white">Τόνος</string>
     <string name="edit_skin_smooth">Απαλό</string>
     <string name="edit_eye_large">Μεγάλα μάτια</string>
@@ -503,6 +506,10 @@
     <string name="edit_smile">Χαμόγελο</string>
     <string name="edit_slim_nose">Μύτη</string>
     <string name="popup_tip_3d_beauty_intro_text">3D Ομορφιά</string>
+    <string name="edit_eyebrow_dye">Φρύδια</string>
+    <string name="edit_pupil_line">Eyeliner</string>
+    <string name="edit_jelly_lips">Lip gloss</string>
+    <string name="edit_blusher">Ρουζ</string>
     <string name="sticker_tab1">Γλυκό</string>
     <string name="sticker_tab2">Αστείο</string>
     <string name="user_agreement2">Όροι Υπηρεσίας</string>
@@ -524,8 +531,8 @@
     <string name="front_camera_hint_text_place">"Η λήψη των selfies θα γίνει ευκολότερη
 εάν περιστρέψτε το τηλέφωνο σας"</string>
     <string name="pref_camera_ai_scene_title">Κάμερα AI</string>
-    <string name="pref_camera_front_ai_scene_entry_on">κάμερα AI</string>
-    <string name="pref_camera_front_ai_scene_entry_off">Κ κάμερα AI είναι ανενεργή</string>
+    <string name="pref_camera_front_ai_scene_entry_on">Κάμερα AI</string>
+    <string name="pref_camera_front_ai_scene_entry_off">Η κάμερα AI είναι ανενεργή</string>
     <string name="text_ai_scene_selector_text_on">ΣΙΛΟΥΕΤΑ</string>
     <string name="text_ai_scene_selector_text_off">CONTRE-JOUR</string>
     <string name="ai_scene_mode_use_hint_text">"Η κάμερα AI εντοπίζει αυτόματα σενάρια

@@ -52,302 +52,601 @@
         <item>25 λεπτά</item>
         <item>30 λεπτά</item>
     </string-array>
+    <string-array name="cities_names_miui">
+        <item>Αμπιτζάν</item>
+        <item>Άκκρα</item>
+        <item>Αντίς Αμπέμπα</item>
+        <item>Αλγέρι</item>
+        <item>Μπλαντάιρ</item>
+        <item>Μπραζαβίλ</item>
+        <item>Κάιρο</item>
+        <item>Καζαμπλάνκα</item>
+        <item>Κονακρί</item>
+        <item>Ντακάρ</item>
+        <item>Νταρ ες Σαλαάμ</item>
+        <item>Τζιμπουτί</item>
+        <item>Φρίταουν</item>
+        <item>Γκαμπορόνε</item>
+        <item>Χαράρε</item>
+        <item>Γιοχάνεσμπουργκ</item>
+        <item>Καμπάλα</item>
+        <item>Χαρτούμ</item>
+        <item>Κιγκάλι</item>
+        <item>Κινσάσα</item>
+        <item>Λάγος</item>
+        <item>Μαζέρου</item>
+        <item>Μογκαντίσου</item>
+        <item>Ναϊρόμπι</item>
+        <item>Σάο Τομέ</item>
+        <item>Τιμπουκτού</item>
+        <item>Τρίπολη</item>
+        <item>Τύνιδα</item>
+        <item>Άνκορατζ</item>
+        <item>Μεντόζα</item>
+        <item>Αρούμπα</item>
+        <item>Ασουνσιόν</item>
+        <item>Μπαρμπάντος</item>
+        <item>Μπελίσε</item>
+        <item>Μπογκοτά</item>
+        <item>Μπουένος Άιρες</item>
+        <item>Κανκούν</item>
+        <item>Καράκας</item>
+        <item>Κέιμαν</item>
+        <item>Σικάγο</item>
+        <item>Κόστα Ρίκα</item>
+        <item>Κουρασάο</item>
+        <item>Dawson Creek</item>
+        <item>Ντένβερ</item>
+        <item>Ντιτρόιτ</item>
+        <item>Ντομίνικα</item>
+        <item>Έντμοντον</item>
+        <item>Ελ Σαλβαδόρ</item>
+        <item>Φορταλέζα</item>
+        <item>Grand Turk</item>
+        <item>Γρενάδα</item>
+        <item>Γουατεμάλα</item>
+        <item>Γουιάνα</item>
+        <item>Χάλιφαξ</item>
+        <item>Αβάνα</item>
+        <item>Ιντιανάπολις</item>
+        <item>Knox</item>
+        <item>Marengo</item>
+        <item>Petersburg</item>
+        <item>Tell City</item>
+        <item>Vevay</item>
+        <item>Vincennes</item>
+        <item>Winamac</item>
+        <item>Κίνγκστον</item>
+        <item>Nuestra Señora de La Paz</item>
+        <item>Λίμα</item>
+        <item>Λος Άντζελες</item>
+        <item>Λούισβιλ</item>
+        <item>Μανάγκουα</item>
+        <item>Μαρτινίκα</item>
+        <item>Metlakatla</item>
+        <item>Πόλη του Μεξικού</item>
+        <item>Μοντερέι</item>
+        <item>Μοντεβιδέο</item>
+        <item>Μόντρεαλ</item>
+        <item>Νασσάου</item>
+        <item>Νέα Υόρκη</item>
+        <item>Beulah</item>
+        <item>Center</item>
+        <item>Νέα Σάλεμ</item>
+        <item>Παναμάς</item>
+        <item>Φοίνιξ</item>
+        <item>Πορτ ο σπέιν</item>
+        <item>"Πορτ ο ' Πρινς"</item>
+        <item>Πουέρτο Ρίκο</item>
+        <item>Σάντο Ντομίνγκο</item>
+        <item>Σάο Πάολο</item>
+        <item>Σ. Τζόουνς</item>
+        <item>Σ. Κιτσς</item>
+        <item>Σάντα Λουσία</item>
+        <item>Σ. Τόμας</item>
+        <item>Τιχουάνα</item>
+        <item>Τορόντο</item>
+        <item>Βανκούβερ</item>
+        <item>Γουίνιπεγκ</item>
+        <item>Νότιος Πόλος</item>
+        <item>Λονγκιαρμπίεν</item>
+        <item>Αλμάτι</item>
+        <item>Αμμάν</item>
+        <item>Αναντίρ</item>
+        <item>Ακτάου</item>
+        <item>Βαγδάτη</item>
+        <item>Μπαχρέιν</item>
+        <item>Μπακού</item>
+        <item>Μπανγκόκ</item>
+        <item>Βηρυτός</item>
+        <item>Καλκούτα</item>
+        <item>Δαμασκός</item>
+        <item>Ντάκα</item>
+        <item>Ντουμπάι</item>
+        <item>Γάζα</item>
+        <item>Χεβρώνα</item>
+        <item>Χο Τσι Μινχ</item>
+        <item>Χονγκ Κονγκ</item>
+        <item>Τζακάρτα</item>
+        <item>Ιερουσαλήμ</item>
+        <item>Καμπούλ</item>
+        <item>Καράτζι</item>
+        <item>Κατμαντού</item>
+        <item>Κουάλα Λουμπούρ</item>
+        <item>Κουβέιτ</item>
+        <item>Μακάο</item>
+        <item>Μανίλα</item>
+        <item>Μουσκάτ</item>
+        <item>Πνομ Πενχ</item>
+        <item>Πιονγιάνγκ</item>
+        <item>Κατάρ</item>
+        <item>Ρανγκούν</item>
+        <item>Ριάντ</item>
+        <item>Χο Τσι Μιν</item>
+        <item>Σεούλ</item>
+        <item>Σανγκάη</item>
+        <item>Σιγκαπούρη</item>
+        <item>Ταϊπέι</item>
+        <item>Τεχεράνη</item>
+        <item>Τελ Αβίβ</item>
+        <item>Τόκιο</item>
+        <item>Ουλάν Μπατόρ</item>
+        <item>Βερμούδες</item>
+        <item>Κανάριοι Νήσοι</item>
+        <item>Πράσινο Ακρωτήριο</item>
+        <item>Ρέικιαβικ</item>
+        <item>Stanley</item>
+        <item>Αδελαΐδα</item>
+        <item>Μπρισμπέιν</item>
+        <item>Καμπέρα</item>
+        <item>Ντάργουιν</item>
+        <item>Μελβούρνη</item>
+        <item>Νέα Νότια Ουαλία</item>
+        <item>Περθ</item>
+        <item>Κουίνσλαντ</item>
+        <item>Σίδνεϊ</item>
+        <item>Βικτώρια</item>
+        <item>Νέα Γη</item>
+        <item>Σασκάτσουαν</item>
+        <item>Νήσος του Πάσχα</item>
+        <item>Άμστερνταμ</item>
+        <item>Ανδόρα</item>
+        <item>Αθήνα</item>
+        <item>Μπέλφαστ</item>
+        <item>Βελιγράδι</item>
+        <item>Βερολίνο</item>
+        <item>Μπρατισλάβα</item>
+        <item>Βρυξέλλες</item>
+        <item>Βουκουρέστι</item>
+        <item>Βουδαπέστη</item>
+        <item>Κισινάου</item>
+        <item>Κοπεγχάγη</item>
+        <item>Δουβλίνο</item>
+        <item>Γιβραλτάρ</item>
+        <item>Ελσίνκι</item>
+        <item>Νήσος του Μαν</item>
+        <item>Κωνσταντινούπολη</item>
+        <item>Λισαβόνα</item>
+        <item>Λονδίνο</item>
+        <item>Λουξεμβούργο</item>
+        <item>Μαδρίτη</item>
+        <item>Μάλτα</item>
+        <item>Μινσκ</item>
+        <item>Μονακό</item>
+        <item>Μόσχα</item>
+        <item>Όσλο</item>
+        <item>Παρίσι</item>
+        <item>Πράγα</item>
+        <item>Ρίγα</item>
+        <item>Ρώμη</item>
+        <item>Σαν Μαρίνο</item>
+        <item>Σαράγεβο</item>
+        <item>Συμφερόπολη</item>
+        <item>Σκόπια</item>
+        <item>Σόφια</item>
+        <item>Στοκχόλμη</item>
+        <item>Ταλίν</item>
+        <item>Βατικανό</item>
+        <item>Βιέννα</item>
+        <item>Βίλνιους</item>
+        <item>Βαρσοβία</item>
+        <item>Ζάγκρεμπ</item>
+        <item>Ζυρίχη</item>
+        <item>Ανταναρίβο</item>
+        <item>Μαλδίβες</item>
+        <item>Μαυρίκιος</item>
+        <item>Ώκλαντ</item>
+        <item>Φίτζι</item>
+        <item>Γκουάμ</item>
+        <item>Χονολουλού</item>
+        <item>Κιριτιμάτι</item>
+        <item>Νούμεα</item>
+        <item>Σαμόα</item>
+        <item>Ταϊτή</item>
+        <item>Αντίγκουα</item>
+        <item>Όστιν</item>
+        <item>Βοστόνη</item>
+        <item>Κάλγκαρι</item>
+        <item>Κολόμπους</item>
+        <item>Ντάλας</item>
+        <item>Κνόξβιλ</item>
+        <item>Μέμφις</item>
+        <item>Μιάμι</item>
+        <item>Μινεάπολις</item>
+        <item>Οττάβα</item>
+        <item>Φιλαδέλφεια</item>
+        <item>Πόρτλαντ</item>
+        <item>Σαν Ντιέγκο</item>
+        <item>Σαν Φρανσίσκο</item>
+        <item>Σολτ Λέικ Σίτυ</item>
+        <item>Σαν Χοσέ</item>
+        <item>Σαν Σαλβαδόρ</item>
+        <item>Σιάτλ</item>
+        <item>Σ. Λουίς</item>
+        <item>Ουάσιγκτον</item>
+        <item>Χιούστον</item>
+        <item>Σαν Αντόνιο</item>
+        <item>Τζάκσονβιλ</item>
+        <item>Βαλτιμόρη</item>
+        <item>Νάσβιλ</item>
+        <item>Μιλγουόκι</item>
+        <item>Οκλαχόμα Σίτι</item>
+        <item>Λας Βέγκας</item>
+        <item>Αλμπουκέρκη</item>
+        <item>Τουσόν</item>
+        <item>Σακραμέντο</item>
+        <item>Ατλάντα</item>
+        <item>Κλίβελαντ</item>
+        <item>Νέα Ορλεάνη</item>
+        <item>Τάμπα</item>
+        <item>Πίτσμπουργκ</item>
+        <item>Σινσινάτι</item>
+        <item>Mountain View</item>
+        <item>Reno</item>
+        <item>Black Rock City</item>
+        <item>Ντόχα</item>
+        <item>Πεκίνο</item>
+        <item>Μουμπάι</item>
+        <item>Δελχί</item>
+        <item>Νέο Δελχί</item>
+        <item>Οσάκα</item>
+        <item>Λαχόρη</item>
+        <item>Σαναά</item>
+        <item>Βαρκελώνη</item>
+        <item>Μόναχο</item>
+        <item>Μιλάνο</item>
+        <item>Φρανκφούρτη</item>
+        <item>Ανόι</item>
+        <item>Άγκυρα</item>
+        <item>Μπανγκαλόρ</item>
+        <item>Μπραζίλια</item>
+        <item>Κέιπ Τάουν</item>
+        <item>Ισλαμαμπάντ</item>
+        <item>Ρίο Ντε Τζανέιρο</item>
+        <item>Ανν Άρμπορ</item>
+        <item>Boulder</item>
+        <item>Κέιμπριτζ</item>
+        <item>Kirkland</item>
+        <item>Madison</item>
+        <item>Κουανγκτσόου</item>
+        <item>Χαϊντεραμπάντ</item>
+        <item>Reston</item>
+        <item>Μπέλο Οριζόντε</item>
+        <item>Σαντιάγο</item>
+        <item>Μονρόβια</item>
+        <item>Κολόμπο</item>
+        <item>Τσιουάουα</item>
+        <item>Gurgaon</item>
+        <item>Μάντσεστερ</item>
+        <item>Κίεβο</item>
+        <item>Αγία Πετρούπολη</item>
+        <item>Κρακοβία</item>
+        <item>Βρότσλαβ</item>
+        <item>Αμβούργο</item>
+        <item>Όουλου</item>
+        <item>Χάιφα</item>
+        <item>Σαν Χουάν</item>
+        <item>Τεγκουσιγκάλπα</item>
+        <item>Παραμαρίμπο</item>
+        <item>Κίτο</item>
+    </string-array>
     <string-array name="countries_names_miui">
-        <item>"Coate d'Ivoire"</item>
-        <item>Ghana</item>
-        <item>Ethiopia</item>
-        <item>Algeria</item>
-        <item>Malawi</item>
-        <item>Republic of the Congo</item>
-        <item>Egypt</item>
-        <item>Morocco</item>
-        <item>Guinea</item>
-        <item>Senegal</item>
-        <item>Tanzania</item>
-        <item>Republic of the Djibouti</item>
-        <item>Sierra Leone</item>
-        <item>Botswana</item>
-        <item>Zimbabwe</item>
-        <item>South Africa</item>
-        <item>Uganda</item>
-        <item>Republic of the Sudan</item>
-        <item>Rwanda</item>
-        <item>Democratic Republic of the Congo</item>
-        <item>Nigeria</item>
-        <item>Lesotho</item>
-        <item>Somalia</item>
-        <item>Kenya</item>
-        <item>Sao Tome and Principe</item>
-        <item>Mali</item>
-        <item>Libya</item>
-        <item>Tunisia</item>
-        <item>United States</item>
-        <item>Argentina</item>
-        <item>Aruba</item>
-        <item>Paraguay</item>
-        <item>Barbados</item>
-        <item>Belize</item>
-        <item>Colombia</item>
-        <item>Argentina</item>
-        <item>Mexico</item>
-        <item>Venezuela</item>
-        <item>Cayman Islands</item>
-        <item>United States</item>
-        <item>Costa Rica</item>
-        <item>Curaçao</item>
-        <item>Canada</item>
-        <item>United States</item>
-        <item>United States</item>
-        <item>Dominican Republic</item>
-        <item>Canada</item>
-        <item>El Salvador</item>
-        <item>Brazil</item>
-        <item>Turks and Caicos Islands</item>
-        <item>Grenada</item>
-        <item>Guatemala</item>
-        <item>Guyana</item>
-        <item>Canada</item>
-        <item>Cuba</item>
-        <item>United States</item>
-        <item>United States</item>
-        <item>United States</item>
-        <item>United States</item>
-        <item>United States</item>
-        <item>United States</item>
-        <item>United States</item>
-        <item>United States</item>
-        <item>Jamaica</item>
-        <item>Bolivia</item>
-        <item>Peru</item>
-        <item>United States</item>
-        <item>United States</item>
-        <item>Nicaragua</item>
-        <item>Martinique</item>
-        <item>United States</item>
-        <item>Mexico</item>
-        <item>United States</item>
-        <item>Uruguay</item>
-        <item>Canada</item>
-        <item>The Bahamas</item>
-        <item>United States</item>
-        <item>United States</item>
-        <item>United States</item>
-        <item>United States</item>
-        <item>Panama</item>
-        <item>United States</item>
-        <item>Trinidad and Tobago</item>
-        <item>Haiti</item>
-        <item>Puerto Rico</item>
-        <item>Dominican Republic</item>
-        <item>Brazil</item>
-        <item>Canada</item>
-        <item>Saint Kitts and Nevis</item>
-        <item>Saint Lucia</item>
-        <item>U.S. Virgin Islands</item>
-        <item>Mexico</item>
-        <item>Canada</item>
-        <item>Canada</item>
-        <item>Canada</item>
-        <item>Antarctica</item>
-        <item>Svalbard and Jan Mayen</item>
-        <item>Kazakhstan</item>
-        <item>Jordan</item>
-        <item>Russia</item>
-        <item>Kazakhstan</item>
-        <item>Iraq</item>
-        <item>Bahrain</item>
-        <item>Azerbaijan</item>
-        <item>Thailand</item>
-        <item>Lebanon</item>
-        <item>India</item>
-        <item>Syria</item>
-        <item>Bangladesh</item>
-        <item>United Arab Emirates</item>
-        <item>Palestine</item>
-        <item>Palestine</item>
-        <item>Vietnam</item>
-        <item>China</item>
-        <item>Indonesia</item>
-        <item>Israel</item>
-        <item>Afghanistan</item>
-        <item>Pakistan</item>
-        <item>Nepal</item>
-        <item>Malaysia</item>
-        <item>Kuwait</item>
-        <item>China</item>
-        <item>Philippines</item>
-        <item>Oman</item>
-        <item>Cambodia</item>
-        <item>North Korea</item>
-        <item>Qatar</item>
-        <item>Myanmar</item>
-        <item>Saudi Arabia</item>
-        <item>China</item>
-        <item>South Korea</item>
-        <item>China</item>
-        <item>Singapore</item>
-        <item>China</item>
-        <item>Iran</item>
-        <item>Israel</item>
-        <item>Japan</item>
-        <item>Mongolia</item>
-        <item>Bermuda</item>
-        <item>Spain</item>
-        <item>Cape Verde</item>
-        <item>Iceland</item>
-        <item>Falkland Islands</item>
-        <item>Australia</item>
-        <item>Australia</item>
-        <item>Australia</item>
-        <item>Australia</item>
-        <item>Australia</item>
-        <item>Australia</item>
-        <item>Australia</item>
-        <item>Australia</item>
-        <item>Australia</item>
-        <item>Canada</item>
-        <item>Canada</item>
-        <item>Canada</item>
-        <item>Chile</item>
-        <item>Netherlands</item>
-        <item>Andorra</item>
-        <item>Greece</item>
-        <item>United Kingdom</item>
-        <item>Serbia</item>
-        <item>Germany</item>
-        <item>Slovakia</item>
-        <item>Belgium</item>
-        <item>Romania</item>
-        <item>Hungary</item>
-        <item>Moldova</item>
-        <item>Denmark</item>
-        <item>Ireland</item>
-        <item>Gibraltar</item>
-        <item>Finland</item>
-        <item>Isle of Man</item>
-        <item>Turkey</item>
-        <item>Portugal</item>
-        <item>United Kingdom</item>
-        <item>Luxembourg</item>
-        <item>Spain</item>
-        <item>Malta</item>
-        <item>Belarus</item>
-        <item>Monaco</item>
-        <item>Russia</item>
-        <item>Norway</item>
-        <item>France</item>
-        <item>Czechia</item>
-        <item>Latvia</item>
-        <item>Italy</item>
-        <item>San Marino</item>
-        <item>Bosnia and Herzegovina</item>
-        <item>Ukraine</item>
-        <item>Macedonia</item>
-        <item>Bulgaria</item>
-        <item>Sweden</item>
-        <item>Estonia</item>
-        <item>Vatican City</item>
-        <item>Austria</item>
-        <item>Lithuania</item>
-        <item>Poland</item>
-        <item>Croatia</item>
-        <item>Switzerland</item>
-        <item>Madagascar</item>
-        <item>Maldives</item>
-        <item>Mauritius</item>
-        <item>New Zealand</item>
-        <item>Fiji</item>
-        <item>Guam</item>
-        <item>United States</item>
-        <item>Australia</item>
-        <item>New Caledonia</item>
-        <item>Samoa</item>
-        <item>French Polynesia</item>
-        <item>Antigua and Barbuda</item>
-        <item>United States</item>
-        <item>United States</item>
-        <item>Canada</item>
-        <item>United States</item>
-        <item>United States</item>
-        <item>United States</item>
-        <item>United States</item>
-        <item>United States</item>
-        <item>United States</item>
-        <item>Canada</item>
-        <item>United States</item>
-        <item>United States</item>
-        <item>United States</item>
-        <item>United States</item>
-        <item>United States</item>
-        <item>United States</item>
-        <item>El Salvador</item>
-        <item>United States</item>
-        <item>United States</item>
-        <item>United States</item>
-        <item>United States</item>
-        <item>United States</item>
-        <item>United States</item>
-        <item>United States</item>
-        <item>United States</item>
-        <item>United States</item>
-        <item>United States</item>
-        <item>United States</item>
-        <item>United States</item>
-        <item>United States</item>
-        <item>United States</item>
-        <item>United States</item>
-        <item>United States</item>
-        <item>United States</item>
-        <item>United States</item>
-        <item>United States</item>
-        <item>United States</item>
-        <item>United States</item>
-        <item>United States</item>
-        <item>United States</item>
-        <item>Qatar</item>
-        <item>China</item>
-        <item>India</item>
-        <item>India</item>
-        <item>Japan</item>
-        <item>Pakistan</item>
-        <item>India</item>
-        <item>Spain</item>
-        <item>Germany</item>
-        <item>Italy</item>
-        <item>Germany</item>
-        <item>Vietnam</item>
-        <item>Turkey</item>
-        <item>India</item>
-        <item>Brazil</item>
-        <item>South Africa</item>
-        <item>Pakistan</item>
-        <item>Brazil</item>
-        <item>United States</item>
-        <item>United States</item>
-        <item>United Kingdom</item>
-        <item>United States</item>
-        <item>United States</item>
-        <item>China</item>
-        <item>India</item>
-        <item>United States</item>
-        <item>Brazil</item>
-        <item>United States</item>
-        <item>Liberia</item>
-        <item>Sri Lanka</item>
-        <item>Mexico</item>
-        <item>India</item>
-        <item>United Kingdom</item>
-        <item>Ukraine</item>
-        <item>Russia</item>
-        <item>Poland</item>
-        <item>Poland</item>
-        <item>Germany</item>
-        <item>Finland</item>
-        <item>Israel</item>
-        <item>Puerto Rico</item>
-        <item>Honduras</item>
-        <item>Suriname</item>
-        <item>Ecuador</item>
+        <item>Ακτή Ελεφαντοστού</item>
+        <item>Γκάνα</item>
+        <item>Αιθιοπία</item>
+        <item>Αλγερία</item>
+        <item>Μαλάουι</item>
+        <item>Δημοκρατία του Κονγκό</item>
+        <item>Αίγυπτος</item>
+        <item>Μαρόκο</item>
+        <item>Γουινέα</item>
+        <item>Σενεγάλη</item>
+        <item>Τανζανία</item>
+        <item>Δημοκρατία του Τζιμπουτί</item>
+        <item>Σιέρα Λεόνε</item>
+        <item>Μποτσουάνα</item>
+        <item>Ζιμπάμπουε</item>
+        <item>Νότια Αφρική</item>
+        <item>Ουγκάντα</item>
+        <item>Δημοκρατία του Σουδάν</item>
+        <item>Ρουάντα</item>
+        <item>Λαϊκή Δημοκρατία του Κονγκό</item>
+        <item>Νιγηρία</item>
+        <item>Λεσότο</item>
+        <item>Σομαλία</item>
+        <item>Κένυα</item>
+        <item>Σάο Τομέ και Πρίνσιπε</item>
+        <item>Μάλι</item>
+        <item>Λιβύη</item>
+        <item>Τυνησία</item>
+        <item>Ηνωμένες Πολιτείες</item>
+        <item>Αργεντινή</item>
+        <item>Αρούμπα</item>
+        <item>Παραγουάη</item>
+        <item>Μπαρμπάντος</item>
+        <item>Μπελίσε</item>
+        <item>Κολομβία</item>
+        <item>Αργεντινή</item>
+        <item>Μεξικό</item>
+        <item>Βενεζουέλα</item>
+        <item>Νησιά Καϊμάν</item>
+        <item>Ηνωμένες Πολιτείες</item>
+        <item>Κόστα Ρίκα</item>
+        <item>Κουρασάο</item>
+        <item>Καναδάς</item>
+        <item>Ηνωμένες Πολιτείες</item>
+        <item>Ηνωμένες Πολιτείες</item>
+        <item>Δομινικανή Δημοκρατία</item>
+        <item>Καναδάς</item>
+        <item>Ελ Σαλβαδόρ</item>
+        <item>Βραζιλία</item>
+        <item>Τερκς και Κέικος</item>
+        <item>Γρενάδα</item>
+        <item>Γουατεμάλα</item>
+        <item>Γουιάνα</item>
+        <item>Καναδάς</item>
+        <item>Κούβα</item>
+        <item>Ηνωμένες Πολιτείες</item>
+        <item>Ηνωμένες Πολιτείες</item>
+        <item>Ηνωμένες Πολιτείες</item>
+        <item>Ηνωμένες Πολιτείες</item>
+        <item>Ηνωμένες Πολιτείες</item>
+        <item>Ηνωμένες Πολιτείες</item>
+        <item>Ηνωμένες Πολιτείες</item>
+        <item>Ηνωμένες Πολιτείες</item>
+        <item>Τζαμάικα</item>
+        <item>Βολιβία</item>
+        <item>Περού</item>
+        <item>Ηνωμένες Πολιτείες</item>
+        <item>Ηνωμένες Πολιτείες</item>
+        <item>Νικαράγουα</item>
+        <item>Μαρτινίκα</item>
+        <item>Ηνωμένες Πολιτείες</item>
+        <item>Μεξικό</item>
+        <item>Ηνωμένες Πολιτείες</item>
+        <item>Ουρουγουάη</item>
+        <item>Καναδάς</item>
+        <item>Μπαχάμες</item>
+        <item>Ηνωμένες Πολιτείες</item>
+        <item>Ηνωμένες Πολιτείες</item>
+        <item>Ηνωμένες Πολιτείες</item>
+        <item>Ηνωμένες Πολιτείες</item>
+        <item>Παναμάς</item>
+        <item>Ηνωμένες Πολιτείες</item>
+        <item>Τρινιντάντ και Τομπάγκο</item>
+        <item>Αϊτή</item>
+        <item>Πουέρτο Ρίκο</item>
+        <item>Δομινικανή Δημοκρατία</item>
+        <item>Βραζιλία</item>
+        <item>Καναδάς</item>
+        <item>Σεν Κιτς και Νέβις</item>
+        <item>Αγία Λουκία</item>
+        <item>Αμερικανικές Παρθένοι Νήσοι</item>
+        <item>Μεξικό</item>
+        <item>Καναδάς</item>
+        <item>Καναδάς</item>
+        <item>Καναδάς</item>
+        <item>Ανταρκτική</item>
+        <item>Σβάλμπαρντ και Γιαν Μάγεν</item>
+        <item>Καζακστάν</item>
+        <item>Ιορδανία</item>
+        <item>Ρωσία</item>
+        <item>Καζακστάν</item>
+        <item>Ιράκ</item>
+        <item>Μπαχρέιν</item>
+        <item>Αζερμπαϊτζάν</item>
+        <item>Ταϊλάνδη</item>
+        <item>Λίβανος</item>
+        <item>Ινδία</item>
+        <item>Συρία</item>
+        <item>Μπαγκλαντές</item>
+        <item>Ηνωμένα Αραβικά Εμιράτα</item>
+        <item>Παλαιστίνη</item>
+        <item>Παλαιστίνη</item>
+        <item>Βιετνάμ</item>
+        <item>Κίνα</item>
+        <item>Ινδονησία</item>
+        <item>Ισραήλ</item>
+        <item>Αφγανιστάν</item>
+        <item>Πακιστάν</item>
+        <item>Νεπάλ</item>
+        <item>Μαλαισία</item>
+        <item>Κουβέιτ</item>
+        <item>Κίνα</item>
+        <item>Φιλιππίνες</item>
+        <item>Ομάν</item>
+        <item>Καμπότζη</item>
+        <item>Βόρεια Κορέα</item>
+        <item>Κατάρ</item>
+        <item>Μιανμάρ</item>
+        <item>Σαουδική Αραβία</item>
+        <item>Κίνα</item>
+        <item>Νότια Κορέα</item>
+        <item>Κίνα</item>
+        <item>Σιγκαπούρη</item>
+        <item>Κίνα</item>
+        <item>Ιράν</item>
+        <item>Ισραήλ</item>
+        <item>Ιαπωνία</item>
+        <item>Μογγολία</item>
+        <item>Βερμούδες</item>
+        <item>Ισπανία</item>
+        <item>Πράσινο Ακρωτήριο</item>
+        <item>Ισλανδία</item>
+        <item>Νήσοι Φώκλαντ</item>
+        <item>Αυστραλία</item>
+        <item>Αυστραλία</item>
+        <item>Αυστραλία</item>
+        <item>Αυστραλία</item>
+        <item>Αυστραλία</item>
+        <item>Αυστραλία</item>
+        <item>Αυστραλία</item>
+        <item>Αυστραλία</item>
+        <item>Αυστραλία</item>
+        <item>Καναδάς</item>
+        <item>Καναδάς</item>
+        <item>Καναδάς</item>
+        <item>Χιλή</item>
+        <item>Ολλανδία</item>
+        <item>Ανδόρα</item>
+        <item>Ελλάδα</item>
+        <item>Ηνωμένο Βασίλειο</item>
+        <item>Σερβία</item>
+        <item>Γερμανία</item>
+        <item>Σλοβακία</item>
+        <item>Βέλγιο</item>
+        <item>Ρουμανία</item>
+        <item>Ουγγαρία</item>
+        <item>Μολδαβία</item>
+        <item>Δανία</item>
+        <item>Ιρλανδία</item>
+        <item>Γιβραλτάρ</item>
+        <item>Φινλανδία</item>
+        <item>Νήσος του Μαν</item>
+        <item>Τουρκία</item>
+        <item>Πορτογαλία</item>
+        <item>Ηνωμένο Βασίλειο</item>
+        <item>Λουξεμβούργο</item>
+        <item>Ισπανία</item>
+        <item>Μάλτα</item>
+        <item>Λευκορωσία</item>
+        <item>Μονακό</item>
+        <item>Ρωσία</item>
+        <item>Νορβηγία</item>
+        <item>Γαλλία</item>
+        <item>Τσεχία</item>
+        <item>Λετονία</item>
+        <item>Ιταλία</item>
+        <item>Σαν Μαρίνο</item>
+        <item>Βοσνία Ερζεγοβίνη</item>
+        <item>Ουκρανία</item>
+        <item>πρώην Γιουγκοσλαβική Δημοκρατία της Μακεδονίας</item>
+        <item>Βουλγαρία</item>
+        <item>Σουηδία</item>
+        <item>Εσθονία</item>
+        <item>Πόλη του Βατικανού</item>
+        <item>Αυστρία</item>
+        <item>Λιθουανία</item>
+        <item>Πολωνία</item>
+        <item>Κροατία</item>
+        <item>Ελβετία</item>
+        <item>Μαδαγασκάρη</item>
+        <item>Μαλδίβες</item>
+        <item>Μαυρίκιος</item>
+        <item>Νέα Ζηλανδία</item>
+        <item>Φίτζι</item>
+        <item>Γκουάμ</item>
+        <item>Ηνωμένες Πολιτείες</item>
+        <item>Αυστραλία</item>
+        <item>Νέα Καληδονία</item>
+        <item>Σαμόα</item>
+        <item>Γαλλική Πολυνησία</item>
+        <item>Αντίγκουα και Μπαρμπούντα</item>
+        <item>Ηνωμένες Πολιτείες</item>
+        <item>Ηνωμένες Πολιτείες</item>
+        <item>Καναδάς</item>
+        <item>Ηνωμένες Πολιτείες</item>
+        <item>Ηνωμένες Πολιτείες</item>
+        <item>Ηνωμένες Πολιτείες</item>
+        <item>Ηνωμένες Πολιτείες</item>
+        <item>Ηνωμένες Πολιτείες</item>
+        <item>Ηνωμένες Πολιτείες</item>
+        <item>Καναδάς</item>
+        <item>Ηνωμένες Πολιτείες</item>
+        <item>Ηνωμένες Πολιτείες</item>
+        <item>Ηνωμένες Πολιτείες</item>
+        <item>Ηνωμένες Πολιτείες</item>
+        <item>Ηνωμένες Πολιτείες</item>
+        <item>Ηνωμένες Πολιτείες</item>
+        <item>Ελ Σαλβαδόρ</item>
+        <item>Ηνωμένες Πολιτείες</item>
+        <item>Ηνωμένες Πολιτείες</item>
+        <item>Ηνωμένες Πολιτείες</item>
+        <item>Ηνωμένες Πολιτείες</item>
+        <item>Ηνωμένες Πολιτείες</item>
+        <item>Ηνωμένες Πολιτείες</item>
+        <item>Ηνωμένες Πολιτείες</item>
+        <item>Ηνωμένες Πολιτείες</item>
+        <item>Ηνωμένες Πολιτείες</item>
+        <item>Ηνωμένες Πολιτείες</item>
+        <item>Ηνωμένες Πολιτείες</item>
+        <item>Ηνωμένες Πολιτείες</item>
+        <item>Ηνωμένες Πολιτείες</item>
+        <item>Ηνωμένες Πολιτείες</item>
+        <item>Ηνωμένες Πολιτείες</item>
+        <item>Ηνωμένες Πολιτείες</item>
+        <item>Ηνωμένες Πολιτείες</item>
+        <item>Ηνωμένες Πολιτείες</item>
+        <item>Ηνωμένες Πολιτείες</item>
+        <item>Ηνωμένες Πολιτείες</item>
+        <item>Ηνωμένες Πολιτείες</item>
+        <item>Ηνωμένες Πολιτείες</item>
+        <item>Ηνωμένες Πολιτείες</item>
+        <item>Κατάρ</item>
+        <item>Κίνα</item>
+        <item>Ινδία</item>
+        <item>Ινδία</item>
+        <item>Ινδία</item>
+        <item>Ιαπωνία</item>
+        <item>Πακιστάν</item>
+        <item>Ινδία</item>
+        <item>Ισπανία</item>
+        <item>Γερμανία</item>
+        <item>Ιταλία</item>
+        <item>Γερμανία</item>
+        <item>Βιετνάμ</item>
+        <item>Τουρκία</item>
+        <item>Ινδία</item>
+        <item>Βραζιλία</item>
+        <item>Νότια Αφρική</item>
+        <item>Πακιστάν</item>
+        <item>Βραζιλία</item>
+        <item>Ηνωμένες Πολιτείες</item>
+        <item>Ηνωμένες Πολιτείες</item>
+        <item>Ηνωμένο Βασίλειο</item>
+        <item>Ηνωμένες Πολιτείες</item>
+        <item>Ηνωμένες Πολιτείες</item>
+        <item>Κίνα</item>
+        <item>Ινδία</item>
+        <item>Ηνωμένες Πολιτείες</item>
+        <item>Βραζιλία</item>
+        <item>Ηνωμένες Πολιτείες</item>
+        <item>Λιβερία</item>
+        <item>Σρι Λάνκα</item>
+        <item>Μεξικό</item>
+        <item>Ινδία</item>
+        <item>Ηνωμένο Βασίλειο</item>
+        <item>Ουκρανία</item>
+        <item>Ρωσία</item>
+        <item>Πολωνία</item>
+        <item>Πολωνία</item>
+        <item>Γερμανία</item>
+        <item>Φινλανδία</item>
+        <item>Ισραήλ</item>
+        <item>Πουέρτο Ρίκο</item>
+        <item>Ονδούρα</item>
+        <item>Σουρινάμ</item>
+        <item>Ισημερινός</item>
     </string-array>
     <string-array name="snooze_duration_entries">
         <item>1 λεπτό</item>

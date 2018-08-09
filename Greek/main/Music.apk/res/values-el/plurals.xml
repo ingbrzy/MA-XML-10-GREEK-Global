@@ -16,6 +16,10 @@
         <item quantity="other">Η αναπαραγωγή θα διακοπεί σε %d λεπτά</item>
         <item quantity="one">Η αναπαραγωγή θα διακοπεί σε %d λεπτό</item>
     </plurals>
+    <plurals name="Nrecognize_switch_off_alert_message">
+        <item quantity="other">Επιλέξατε μη αυτόματη εύρεση εξώφυλλων τραγουδιών και στίχων για τοπικά τραγούδια. Διαγραφή πληροφοριών για %d τραγούδια;</item>
+        <item quantity="one">Επιλέξατε μη αυτόματη εύρεση εξώφυλλων τραγουδιών και στίχων για τοπικά τραγούδια. Διαγραφή πληροφοριών για %d τραγούδι;</item>
+    </plurals>
     <plurals name="Nsong_group_detail_subtitle">
         <item quantity="other">Δημιουργήθηκε στις %1$s | συνολικά %2$d τραγούδια</item>
         <item quantity="one">Δημιουργήθηκε στις %1$s | συνολικά %2$d τραγούδι</item>
@@ -57,10 +61,10 @@
         <item quantity="one">Διαγραφή %d αντικειμένου;</item>
     </plurals>
     <plurals name="dialog_confirm_delete_downloads_message_with_file">
-        <item quantity="other">"Διαγραφή %d αντικειμένων; 
-Σημείωση: Τα αρχεία θα διαγραφούν από τη συσκευή αυτή επίσης."</item>
-        <item quantity="one">"Διαγραφή %d αντικειμένου; 
-Σημείωση: Το αρχείο θα διαγραφεί από τη συσκευή αυτή επίσης."</item>
+        <item quantity="other">"Delete %d items?
+Note: Files will be deleted from this device as well."</item>
+        <item quantity="one">"Delete %d item?
+Note: File will be deleted from this device as well."</item>
     </plurals>
     <plurals name="dialog_delete_descript">
         <item quantity="other">Διαγραφή%d τραγουδιών;</item>
@@ -109,9 +113,5 @@
     <plurals name="songs_count">
         <item quantity="other">%d τραγούδια</item>
         <item quantity="one">%d τραγούδι</item>
-    </plurals>
-    <plurals name="video_play_count">
-        <item quantity="other">%1$s προβολές</item>
-        <item quantity="one">%1$s προβολή</item>
     </plurals>
 </resources>

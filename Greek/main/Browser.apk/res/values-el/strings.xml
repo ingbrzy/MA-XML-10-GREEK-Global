@@ -732,6 +732,8 @@ Are you sure you want to navigate away from this page?"</string>
     <string name="mw_snippets_disabled_generic_prompt">Αποκτήστε εξατομικευμένο περιεχόμενο</string>
     <string name="mw_snippets_disabled_signed_out_instructions">Για να αποκτήσετε εξατομικευμένο περιεχόμενο που προτείνεται από την Google, συνδεθείτε στο Chrome.</string>
     <string name="mw_time_picker_dialog_am">ΠM</string>
+    <string name="mw_time_picker_dialog_hour_minute_separator">:</string>
+    <string name="mw_time_picker_dialog_minute_second_separator">:</string>
     <string name="mw_time_picker_dialog_pm">ΜM</string>
     <string name="mw_time_picker_dialog_second_subsecond_separator">.</string>
     <string name="mw_time_picker_dialog_title">Ρύθμιση ώρας</string>

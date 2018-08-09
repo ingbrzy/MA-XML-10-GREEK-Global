@@ -197,9 +197,9 @@
     <string name="toast_only_wifi_download">Συνδεθείτε σε Wi-Fi για λήψη αυτού του αντικειμένου</string>
     <string name="total_speedup">Ενίσχυση ταχύτητας (σύνολο)</string>
     <string name="version">Έκδοση %s</string>
-    <string name="get_data_failed">"Couldn't get info. Wait a minute or two and try again."</string>
-    <string name="load_finish_hint">"That's all for now."</string>
-    <string name="loading">Just a sec…</string>
-    <string name="net_error">Connect to the network and try again</string>
-    <string name="rank_app_list">Top downloads</string>
+    <string name="get_data_failed">Αδυναμία απόκτησης πληροφοριών. Περιμένετε ένα δύο λεπτά και προσπαθήστε ξανά.</string>
+    <string name="load_finish_hint">Αυτά για τώρα.</string>
+    <string name="loading">Περιμένετε μια στιγμή…</string>
+    <string name="net_error">Συνδεθείτε στο δίκτυο και προσπαθήστε ξανά</string>
+    <string name="rank_app_list">Κορυφαίες λήψεις</string>
 </resources>

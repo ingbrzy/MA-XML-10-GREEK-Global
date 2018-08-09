@@ -54,7 +54,7 @@
     <string name="album_name_people">Πρόσωπα</string>
     <string name="album_name_recent_discovery">Πρόσφατα</string>
     <string name="album_name_tags">Ετικέτες</string>
-    <string name="album_notes">Notes</string>
+    <string name="album_notes">Σημειώσεις</string>
     <string name="album_others_share_baby_info_format">Άλμπουμ Μωρού από %s</string>
     <string name="album_others_share_info_format">Από %s</string>
     <string name="album_owner_share">Κοινοποιημένα</string>
@@ -374,7 +374,7 @@
     <string name="enable_cloud_for_sharing">Ενεργοποίηση άλμπουμ Mi Cloud για προβολή κοινοποιημένων φωτογραφιών.</string>
     <string name="enable_face_album_summary">Αυτόματη ταξινόμηση φωτογραφιών ανά των ατόμων που απεικονίζονται σε αυτές</string>
     <string name="enable_face_album_title">Ταξινόμηση ανά άτομα</string>
-    <string name="enter_choice_mode">Entered Share dialog</string>
+    <string name="enter_choice_mode">Είσοδος σε διάλογο κοινής χρήσης</string>
     <string name="enter_email_hint">Εισαγωγή διεύθυνσης email</string>
     <string name="error_album_not_exist">Το άλμπουμ δεν υπάρχει</string>
     <string name="error_build_thumbnail_action">Λήψη αρχικού αρχείου</string>
@@ -438,7 +438,7 @@
     <string name="error_unknown_msg">Παρουσιάστηκε σφάλμα. Στείλτε μας τα σχόλια σας.</string>
     <string name="error_unknown_tip">Παρουσιάσθηκε σφάλμα.</string>
     <string name="exit">Έξοδος</string>
-    <string name="exit_choice_mode">Left Share dialog</string>
+    <string name="exit_choice_mode">Έξοδος από διάλογο κοινής χρήσης</string>
     <string name="exit_share">Έξοδος από άλμπουμ</string>
     <string name="exit_share_failed">Αδυναμία εξόδου από %1$s</string>
     <string name="exit_share_in_process">Έξοδος από άλμπουμ \"%s\"…</string>
@@ -463,6 +463,7 @@
     <string name="face_name_edit">Επεξεργασία</string>
     <string name="face_name_input">Εισαγωγή ονόματος</string>
     <string name="face_recommend">Προτάσεις</string>
+    <string name="face_recommend_group_number">%1$d/%2$d</string>
     <string name="fail_hint">Αδυναμία ολοκλήρωσης λειτουργίας</string>
     <string name="fail_to_pick_email">Μη έγκυρη διεύθυνση email</string>
     <string name="fail_to_sync_album">Αδυναμία συγχρονισμού άλμπουμ. Ελέγξτε την σύνδεση δεδομένων σας και προσπαθήστε ξανά.</string>
@@ -470,9 +471,10 @@
     <string name="fancy_color_desc">Χρώματα</string>
     <string name="fast_share_auto_render">Ωραιοποίηση</string>
     <string name="fast_share_auto_render_finish">Έγινε ωραιοποίηση</string>
-    <string name="feature_guidance_photo_effects">"New photo effects
-are available"</string>
-    <string name="feature_guidance_video_editor_smart_effects">New effects are available</string>
+    <string name="feature_guidance_photo_effects">"Νέα εφέ
+ φωτογραφίας διαθέσιμα"</string>
+    <string name="feature_guidance_video_editor_smart_effects">Νέα εφέ διαθέσιμα</string>
+    <string name="fileSizeSuffix">%1$s%2$s</string>
     <string name="filter_bi_memory">Μνήμη</string>
     <string name="filter_bi_mono">Μονόχρωμο</string>
     <string name="filter_bi_pink">Ροζ</string>
@@ -541,6 +543,7 @@ are available"</string>
     <string name="gif_tip">GIF</string>
     <string name="gigabyteShort">GB</string>
     <string name="grant_permission_go_and_set">Ρύθμιση</string>
+    <string name="grant_permission_item">\"%s\"</string>
     <string name="grant_permission_text">"Η Συλλογή απαιτεί πρόσβαση σε 
 %s
  για κανονική λειτουργία, πατήστε \"Ρύθμιση\" για να μεταβείτε στις Άδειες."</string>
@@ -736,6 +739,7 @@ are available"</string>
     <string name="people_mark_mode_title_no_mark_name">Επιλέξτε ένα άτομο</string>
     <string name="people_page_label">Άτομα</string>
     <string name="people_page_unname">Χωρίς όνομα</string>
+    <string name="percent_sign">%</string>
     <string name="pet_album_display_name">Φωτογραφίες κατοικίδιων</string>
     <string name="petabyteShort">PB</string>
     <string name="photo">Φωτογραφίες</string>
@@ -855,7 +859,7 @@ are available"</string>
     <string name="picker_image_will_download">%d από τις επιλεγμένες φωτογραφίες δεν είναι στην συσκευή. Θα γίνει λήψη.</string>
     <string name="picker_no_network_message">Σύνδεση στο δίκτυο για λήψη</string>
     <string name="picker_origin_need_download">%1$d από τις επιλεγμένες φωτογραφίες(%2$dMB) δεν είναι στην συσκευή. Λήψη με χρήση δεδομένων κινητής τηλεφωνίας;</string>
-    <string name="picker_origin_request_progress_message">Preparing original files (%1$d/%2$d)…</string>
+    <string name="picker_origin_request_progress_message">Προετοιμασία πρωτότυπων αρχείων (%1$d/%2$d)…</string>
     <string name="picker_title_format">Επιλέξτε %1$d μέχρι %2$d φωτογραφίες</string>
     <string name="picker_title_selection_format">Επιλεγμένες φωτογραφίες: %d</string>
     <string name="picker_title_selection_format_multiple">Επιλέξτε %1$d μέχρι %2$d φωτογραφίες (%3$d)</string>
@@ -969,7 +973,7 @@ are available"</string>
     <string name="search_net_error">Παρουσιάστηκε σφάλμα δικτύου. Συνδεθείτε σε ένα διαφορετικό δίκτυο και προσπαθήστε ξανά.</string>
     <string name="search_request_applied">Έχει εφαρμοστεί</string>
     <string name="search_request_open">Συμμετάσχετε στην ομάδα εξέτασης</string>
-    <string name="search_request_requesting">Applied. Wait a while before you start.</string>
+    <string name="search_request_requesting">Έχει εφαρμοστεί. Περιμένετε για λίγο πριν ξεκινήσετε.</string>
     <string name="search_result_empty">Δεν βρέθηκε τίποτα</string>
     <string name="search_retry">Προσπαθήστε ξανά</string>
     <string name="search_select_network">Επιλογή δικτύου</string>
@@ -987,6 +991,9 @@ are available"</string>
     <string name="search_title_recommend">Προτεινόμενα</string>
     <string name="search_title_suggestion">Προτάσεις</string>
     <string name="search_title_tag">Αντικείμενα</string>
+    <string name="search_transition_element_icon">search_icon</string>
+    <string name="search_transition_element_input">search_input</string>
+    <string name="search_transition_element_voice">search_voice</string>
     <string name="searching_cast_devices">Αναζήτηση για προβολέα…</string>
     <string name="secret_album_card_description">Το καλύτερο μέρος για όλα τα μυστικά σας</string>
     <string name="secret_album_card_title">Δοκιμάστε τα κρυφά άλμπουμ</string>
@@ -1004,7 +1011,7 @@ are available"</string>
     <string name="secret_reason_too_large">Το αρχείο είναι πολύ μεγάλο</string>
     <string name="secret_reason_type_not_support">Αυτό το αρχείο δεν υποστηρίζεται</string>
     <string name="secret_reason_unknow_reasons">Άγνωστο σφάλμα</string>
-    <string name="secret_reason_video_not_support">"Can't add videos to hidden album"</string>
+    <string name="secret_reason_video_not_support">Αδυναμία προσθήκης βίντεο σε κρυφό άλμπουμ</string>
     <string name="see_ignore_faces">Προβολή ατόμων που αγνοήσατε</string>
     <string name="select_item_face">"Είναι '%s';"</string>
     <string name="select_origin_tip">Αρχικό αρχείο(%s)</string>
@@ -1211,22 +1218,22 @@ are available"</string>
     <string name="video_editor_res_download_mobil_network_confirm_msg">Λήψη τραγουδιών με την χρήση δεδομένων;</string>
     <string name="video_editor_res_download_mobil_network_confirm_title">Με χρήση δεδομένων κινητής τηλεφωνίας</string>
     <string name="video_editor_res_not_load_dialog_msg">Λήψη τραγουδιών για την χρήση αυτής της λειτουργίας( παραπάνω από 20MB).</string>
-    <string name="video_editor_smart_effect_beat">Beats</string>
+    <string name="video_editor_smart_effect_beat">Χτυπήματα</string>
     <string name="video_editor_smart_effect_big_film">Επικό</string>
     <string name="video_editor_smart_effect_cadence">Ρυθμός</string>
     <string name="video_editor_smart_effect_dynamic">Δυναμικό</string>
     <string name="video_editor_smart_effect_fastslow">Κίνηση</string>
     <string name="video_editor_smart_effect_freesze">Παύση κίνησης</string>
     <string name="video_editor_smart_effect_halo">Φωτοστέφανο</string>
-    <string name="video_editor_smart_effect_high_iframes_text">This effect works best for 120 fps videos.</string>
+    <string name="video_editor_smart_effect_high_iframes_text">Αυτό το εφέ δουλεύει καλύτερα για βίντεο 120 fps.</string>
     <string name="video_editor_smart_effect_movie">Ταινία</string>
     <string name="video_editor_smart_effect_none">Χωρίς</string>
     <string name="video_editor_smart_effect_radical">Αισιόδοξο</string>
     <string name="video_editor_smart_effect_rhythm">Σφυγμός</string>
     <string name="video_editor_smart_effect_street">Μητρόπολη</string>
-    <string name="video_editor_smart_effect_time_limit_txt_40">Μπορείτε να εφαρμόσετε αυτό το εφέ σε βίντεο έως και 40 δευτερόλεπτων.</string>
+    <string name="video_editor_smart_effect_time_limit_txt_40">Αυτό το εφέ θα εφαρμοστεί σε βίντεο που δεν ξεπερνούν τα 40 δευτερόλεπτα. Αυτόματη προσαρμογή διάρκειας.</string>
     <string name="video_editor_smart_effect_time_limit_txt_6">Μπορείτε να εφαρμόσετε αυτό το εφέ σε βίντεο τουλάχιστον 6 δευτερόλεπτων.</string>
-    <string name="video_editor_smart_effect_time_limit_txt_60">Μπορείτε να εφαρμόσετε αυτό το εφέ σε βίντεο έως και 60 δευτερόλεπτων.</string>
+    <string name="video_editor_smart_effect_time_limit_txt_60">Αυτό το εφέ θα εφαρμοστεί σε βίντεο που δεν ξεπερνούν τα 60 δευτερόλεπτα. Αυτόματη προσαρμογή διάρκειας.</string>
     <string name="video_editor_template_family">Οικογένεια</string>
     <string name="video_editor_template_forbidden_tips">Αδυναμία εκτέλεσης ενέργειας κατά την χρήση πρότυπου</string>
     <string name="video_editor_template_oldfilm">Βίνταζ</string>
@@ -1246,7 +1253,7 @@ are available"</string>
     <string name="video_editor_unsupport_audio_file">Μη υποστηριζόμενο αρχείο ήχου</string>
     <string name="video_editor_unzip_file_fail">Αδυναμία ξεπακεταρίσματος βίντεο.</string>
     <string name="video_editor_video_is_short">Αδυναμία επεξεργασίας βίντεο.</string>
-    <string name="video_editor_video_loading">Preparing video,Wait a second or two and try again.</string>
+    <string name="video_editor_video_loading">Προετοιμασία του βίντεο … Περιμένετε μια στιγμή και προσπαθήστε ξανά.</string>
     <string name="video_editor_watermark">Υδατογράφημα</string>
     <string name="video_err">Αδυναμία αναπαραγωγής βίντεο</string>
     <string name="video_not_exist">Το βίντεο δεν υπάρχει</string>
@@ -1256,6 +1263,7 @@ are available"</string>
     <string name="view_face_album">Προβολή άλμπουμ</string>
     <string name="view_more_face_desc">Εμφάνιση περισσότερων ατόμων</string>
     <string name="voice_assistant">Εισαγωγή φωνής</string>
+    <string name="welcome_to_auto_backup">@string/welcome_to_micloud</string>
     <string name="welcome_to_micloud">Καλωσορίσατε στο Mi Cloud</string>
     <string name="where_is_barcode">Που είναι ο QR κωδικός;</string>
     <string name="who_is_this">Ποιος είναι;</string>

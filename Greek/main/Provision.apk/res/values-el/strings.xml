@@ -45,19 +45,30 @@
     <string name="ime_privacy_policy">Πολιτική Απορρήτου για επιλεγμένο πληκτρολόγιο</string>
     <string name="ime_privacy_policy_no_network">Δεν υπάχει σύνδεση δικτύου. Δείτε την Πολιτική Απορρήτου για αυτό το πληκτρολόγιο στο %s.</string>
     <string name="terms_of_use">Όροι και Προϋποθέσεις</string>
-    <string name="terms_of_use_label">"Το απόρρητο σας είναι πολύ σημαντικό για εμάς. Διαβάστε τους Όρους Υπηρεσίας και την Πολιτική Απορρήτου μας για να καταλάβετε τι πληροφορίες συλλέγουμε, πως τις χρησιμοποιούμε, και τι επιλογές είναι διαθέσιμες για εσάς.
+    <string name="terms_of_use_label">"Το ιδιωτικό σας απόρρητο είναι πολύ σημαντικό για εμάς. Παρακαλώ διαβάστε τους Όρους Υπηρεσίας και την Πολιτική Απορρήτου μας για να καταλάβετε τι πληροφορίες συλλέγουμε, πώς τις χρησιμοποιούμε, και τι επιλογές είναι διαθέσιμες για εσάς.
 
-Πρέπει να αποδεχτείτε τους Όρους Υπηρεσίας και την Πολιτική Απορρήτου μας πριν την χρήση του MIUI. Οι Mi υπηρεσίες, υπηρεσίες ενεργοποίησης Mi SIM, Mi Cloud, Eύρεση συσκευής, Αρχική οθόνη, Κέντρο Παιχνιδιών, ΜΑΒ, Miui Daemon και MSA στοιχεία συστήματος, Υπηρεσίες Μετάφρασης, Άμεσες εφαρμογές, Αποθήκη εφαρμογών, στατιστικά, smart cards, Mi Link και τα στοιχεία Mi Λογαριασμού θα συνδεθούν στο διαδίκτυο για να αποκτήσουν την τοποθεσία σας."</string>
-    <string name="terms_of_use_label_gms">"Το απόρρητο σας είναι πολύ σημαντικό για εμάς. Διαβάστε τους Όρους Υπηρεσίας και την Πολιτική Απορρήτου μας για να καταλάβετε τι πληροφορίες συλλέγουμε, πως τις χρησιμοποιούμε, και τι επιλογές είναι διαθέσιμες για εσάς.
+Πρέπει να αποδεχτείτε τους Όρους Υπηρεσίας και την Πολιτική Απορρήτου πριν την χρήση του MIUI. %s και στοιχεία Λογαριασμού Mi θα συνδεθούν στο διαδίκτυο για να ανακτήσουν την τοποθεσία σας."</string>
+    <string name="terms_of_use_lable_apps">Υπηρεσίες Mi, υπηρεσίες ενεργοποίησης κάρτας SIM Mi, Mi Cloud, υπηρεσία Εύρεση συσκευής, Αρχική Οθόνη, Game center, MAB, MIUI Daemon και στοιχεία λειτουργικού συστήματος MSA, Υπηρεσίες Μετάφρασης, Quick apps, App vault, στατιστικά στοιχεία, Mi Link</string>
+    <string name="terms_of_use_lable_gms">, Υπηρεσίες Google Play</string>
+    <string name="terms_of_use_label_systemhelper">, Υπηρεσία αυτοεξυπηρέτησης</string>
+    <string name="terms_of_use_lable_smart_cards">, Έξυπνες κάρτες</string>
+    <string name="terms_of_use_lable_default_input_method_facemoji">"
 
-Πρέπει να αποδεχτείτε τους Όρους Υπηρεσίας και την Πολιτική Απορρήτου μας πριν την χρήση του MIUI. Οι Mi υπηρεσίες, υπηρεσίες ενεργοποίησης Mi SIM, Mi Cloud, Eύρεση συσκευής, Αρχική οθόνη, Κέντρο Παιχνιδιών, ΜΑΒ, Miui Daemon και MSA στοιχεία συστήματος, Υπηρεσίες Μετάφρασης, Άμεσες εφαρμογές, Αποθήκη εφαρμογών, στατιστικά, smart cards, Mi Link, Mi Λογαριασμός και στοιχεία υπηρεσιών Google Play θα συνδεθούν στο διαδίκτυο για να αποκτήσουν την τοποθεσία σας."</string>
+Πρέπει να αποδεχτείτε την Πολιτική Απορρήτου του Facemoji πριν χρησιμοποιήσετε αυτή τη λειτουργία."</string>
+    <string name="terms_of_use_lable_default_input_method_kika">"
+
+Πρέπει να αποδεχτείτε την Πολιτική Απορρήτου του Kika πριν χρησιμοποιήσετε αυτή τη λειτουργία."</string>
     <string name="user_agreement">Όροι Υπηρεσίας</string>
     <string name="privacy_policy">Πολιτική Απορρήτου</string>
+    <string name="terms_privacy_policy_input_method_kika">Πολιτική Απορρήτου Kika</string>
+    <string name="terms_privacy_policy_input_method_facemoji">Πολιτική Απορρήτου Facemoji</string>
     <string name="application_permissions">Άδειες εφαρμογής</string>
     <string name="agree">Αποδοχή</string>
     <string name="disagree">Ακύρωση</string>
     <string name="setting_locale">Γίνεται ρύθμιση περιοχής…</string>
     <string name="agree_terms">Έχω διαβάσει και αποδέχομαι τους Όρους Υπηρεσίας και την Πολιτική Απορρήτου.</string>
+    <string name="agree_terms_input_method_facemoji">Έχω διαβάσει και αποδέχομαι την Πολιτική Απορρήτου Facemoji.</string>
+    <string name="agree_terms_input_method_kika">Έχω διαβάσει και αποδέχομαι την Πολιτική Απορρήτου Kika.</string>
     <string name="miui_terms_no_network">Δεν έχετε σύνδεση Ίντερνετ. Δείτε τους Όρους Υπηρεσίας στο %s.</string>
     <string name="miui_privacy_policy_no_network">Δεν έχετε σύνδεση Ίντερνετ. Δείτε την Πολιτική Απορρήτου στο %s.</string>
     <string name="locale_picker_title">Επιλέξτε την περιοχή σας</string>
@@ -72,7 +83,7 @@
     <string name="desc_international_fingerprint">Χρήση του δακτυλικού αποτυπώματός σας για ξεκλείδωμα της συσκευής σας, ή για σύνδεση σε εφαρμογές και υπηρεσίες.</string>
     <string name="content_description_start">Έναρξη</string>
     <string name="start_up_slogan">Σχεδιασμένο για εμπειρία πλήρους οθόνης</string>
-    <string name="content_description_miui_version">MIUI 9</string>
+    <string name="content_description_miui_version">MIUI 10</string>
     <string name="content_description_complete">Ολοκληρώθηκε</string>
     <string name="language_picker_other_languages_title">Περισσότερες γλώσσες</string>
     <string name="language_settings">Επιλογή γλώσσας</string>
@@ -89,4 +100,5 @@
     <string name="continue_to_enable_accessibility">Πατήστε παρατεταμένα με δυο δάκτυλα για να ενεργοποιήστε την πρόσβαση.</string>
     <string name="voice_assist_title">Ενεργοποίηση με φωνή</string>
     <string name="voice_assist_desp">Εκφωνήστε \"Mi AI\" στο τηλέφωνο σας. Το Mi AI θα αναγνωρίσει την φωνή σας και θα έχει δυνατότητα ελέγχου της συσκευής σας.</string>
+    <string name="voice_assist_desp_screen_light">Εκφωνήστε \"Mi AI\" στο τηλέφωνο σας αφώτου φωτιστεί η οθόνη σας. Το Mi AI θα αναγνωρίσει τη φωνή σας και θα έχει δυνατότητα ελέγχου της συσκευής σας.</string>
 </resources>

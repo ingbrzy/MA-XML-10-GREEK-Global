@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="add_alarm">Προσθήκη ξυπνητηριού</string>
-    <string name="add_clock">Προσθήκη Ρολογιού</string>
+    <string name="add_clock">Προσθήκη ρολογιού</string>
     <string name="add_timezone_title">Προσθήκη ζώνης ώρας</string>
     <string name="alarm_alert_alert_silenced">Σίγαση ξυπνητηρίου μετά από %d λεπτά.</string>
     <string name="alarm_alert_snooze_set">Αναβολή για %d λεπτά.</string>
@@ -54,7 +54,7 @@
     <string name="delete_timezone_title">Διαγραφή ζώνης ώρας</string>
     <string name="dialog_confirm_abort">Απόρριψη αλλαγών;</string>
     <string name="dialog_message_agree">Αποδέχομαι</string>
-    <string name="dialog_message_for_contact_permission">In order to make birthday alarms available, Clock needs to access your contacts. Agree?</string>
+    <string name="dialog_message_for_contact_permission">Για ενεργοποίηση συναγερμών γενεθλίων, το Ρολόι πρέπει να έχει πρόσβαση στις επαφές σας. Συμφωνείτε;</string>
     <string name="dialog_message_negative">Δεν αποδέχομαι</string>
     <string name="dialog_message_not_remind">Να μην εμφανιστεί ξανά</string>
     <string name="done">Ολοκλήρωση</string>
@@ -134,10 +134,10 @@
     <string name="remind_ringtone">Ήχος κλήσης</string>
     <string name="reset">Επαναφορά</string>
     <string name="revert">Επαναστροφή</string>
-    <string name="search_alarm_clock_keywords">Alarm;Alarm Clock;</string>
-    <string name="search_stopwatch_keywords">Stopwatch</string>
-    <string name="search_timer_keywords">Timer</string>
-    <string name="search_worldclock_keywords">Time;World Clock;Clock</string>
+    <string name="search_alarm_clock_keywords">Συναγερμός;Ξυπνητήρι?</string>
+    <string name="search_stopwatch_keywords">Χρονόμετρο</string>
+    <string name="search_timer_keywords">Χρονοδιακόπτης</string>
+    <string name="search_worldclock_keywords">Ώρα;Παγκόσμια ώρα;Ρολόι</string>
     <string name="set_alarm">Επιλογή χρόνου</string>
     <string name="set_alarm_done">Τέλος</string>
     <string name="setting_alarm_arriving_summary">Αποστολή ειδοποίησης πριν το κουδούνισμα</string>
@@ -148,6 +148,7 @@
     <string name="shutdown_alarm_enable_summary">Το ξυπνητήρι θα ηχεί όταν το τηλέφωνο είναι εκτός λειτουργίας</string>
     <string name="shutdown_alarm_title">Απενεργοποίηση ξυπνητηριού</string>
     <string name="silent_alarm_summary">Αθόρυβο</string>
+    <string name="skip_alarm_date_format">%1$s (%2$s)</string>
     <string name="skip_alarm_once_hint">Απενεργοποίηση μία φορά σε %s</string>
     <string name="slider_text">Σάρωση προς τα επάνω για απενεργοποίηση</string>
     <string name="snooze_confirm_cancel">Κατάργηση ξυπνητηριού</string>
@@ -156,6 +157,7 @@
     <string name="start_up">Εκκίνηση</string>
     <string name="stopwatch_lap_empty_text">Δεν υπάρχουν γύροι</string>
     <string name="stopwatch_title">Χρονόμετρο</string>
+    <string name="symbol_colon">:</string>
     <string name="system_time_setting">Ρυθμίσεις</string>
     <string name="system_time_settings_category_title">Ρυθμίσεις ώρας</string>
     <string name="temperature_unit">%1$s°</string>
@@ -174,10 +176,14 @@
     <string name="timer_alert_type_rain">Ψιλόβροχο</string>
     <string name="timer_alert_type_stove_fire">Εστία φωτιάς</string>
     <string name="timer_alert_type_summer_night">Καλοκαιρινή νύχτα</string>
+    <string name="timer_cancel_hint">Διακοπή</string>
     <string name="timer_cancel_timer">Ακύρωση αντίστροφης μέτρησης</string>
     <string name="timer_clock_alert_text">Ορισμός αντίστροφης μέτρησης</string>
     <string name="timer_continue">Συνέχεια</string>
     <string name="timer_continue_timer">Συνέχεια αντίστροφης μέτρησης</string>
+    <string name="timer_end_time">Ο χρονοδιακόπτης θα σταματήσει στο %s</string>
+    <string name="timer_end_time_format">HH:mm dd MMM</string>
+    <string name="timer_end_time_format_today">HH:mm</string>
     <string name="timer_got_it">OK</string>
     <string name="timer_item_duration_display">%1$d λεπτά %2$d δευτερόλεπτα</string>
     <string name="timer_item_label_hint">Όνομα αντίστροφης μέτρησης</string>
@@ -212,6 +218,4 @@
     <string name="worldcolock_timezone_date">dd MMM</string>
     <string name="worldcolock_timezone_gap">Ώρα</string>
     <string name="worldcolock_timezone_local">Το ίδιο με τοπική ώρα</string>
-    <string name="timer_pause_hint">Παύση</string>
-    <string name="timer_running_hint">Συνέχεια</string>
 </resources>

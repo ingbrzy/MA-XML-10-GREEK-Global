@@ -164,11 +164,11 @@
     <string name="done_remove">Επιτυχής αφαίρεση</string>
     <string name="doing_restore_home">Γίνεται επαναφορά Αρχικής οθόνης και ρυθμίσεων…</string>
     <string name="title_alert_cancel_restore">Διακοπή επαναφοράς</string>
-    <string name="msg_alert_cancel_restore">Γίνεται επαναφορά αντιγράφων ασφαλείας Cloud, διακοπή;</string>
+    <string name="msg_alert_cancel_restore">Γίνεται επαναφορά αντικειμένων. Διακοπή τώρα;</string>
     <string name="btn_restore_cancel">Ακύρωση</string>
     <string name="btn_restore_resume">Συνέχεια</string>
-    <string name="title_alert_restore_error">Η επαναφορά απέτυχε</string>
-    <string name="msg_alert_restore_error">Επαναφορά αντιγράφων ασφαλείας cloud απέτυχε, παρακαλώ δοκιμάστε ξανά.</string>
+    <string name="title_alert_restore_error">Αδυναμία επαναφοράς</string>
+    <string name="msg_alert_restore_error">Αδυναμία επαναφοράς αντικειμένων από το Mi Cloud. Προσπαθήστε ξανά.</string>
     <string name="btn_restore_retry">Προσπαθήστε ξανά</string>
     <string name="btn_restore_abort">Ακύρωση</string>
 </resources>

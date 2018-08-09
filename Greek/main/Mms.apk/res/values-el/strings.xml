@@ -192,6 +192,7 @@
     <string name="file_size">Μέγεθος:</string>
     <string name="file_title">Όνομα:</string>
     <string name="file_width_height">Μέγεθος:</string>
+    <string name="flatshow_page_no">%1$d</string>
     <string name="force_touch_new_message_title">Νέο μήνυμα</string>
     <string name="forward_from">Προώθηση από:</string>
     <string name="forward_prefix">"Προωθ.: "</string>
@@ -360,9 +361,18 @@
     <string name="no_subject_view">(Χωρίς θέμα)</string>
     <string name="non_english_subject_limit">Όριο 13 χαρακτήρων</string>
     <string name="nosend_message">Να μην γίνει αποστολή</string>
+    <string name="notification_channel_msg_description">Ειδοποιήσεις για τα μηνύματα</string>
+    <string name="notification_channel_msg_name">Μηνύματα</string>
+    <string name="notification_channel_other_description">Άλλες ειδοποιήσεις</string>
+    <string name="notification_channel_other_name">Άλλα</string>
+    <string name="notification_channel_sim1_description">Ειδοποιήσεις για τα μηνύματα SIM 1</string>
+    <string name="notification_channel_sim1_name">Μηνύματα SIM 1</string>
+    <string name="notification_channel_sim2_description">Ειδοποιήσεις για τα μηνύματα SIM 2</string>
+    <string name="notification_channel_sim2_name">Μηνύματα SIM 2</string>
     <string name="notification_copy">Αντιγραφή OTP</string>
     <string name="notification_failed_multiple">Αδυναμία αποστολής %s μηνυμάτων</string>
     <string name="notification_failed_multiple_title">Τα μηνύματα δεν στάλθηκαν</string>
+    <string name="notification_group_name">Μηνύματα</string>
     <string name="notification_multiple">[%s]</string>
     <string name="notification_multiple_title">Νέα μηνύματα</string>
     <string name="number_add_hint">Εισαγωγή αριθμού τηλεφώνου</string>
@@ -397,7 +407,7 @@
     <string name="pref_show_sms_template_entry_summary">Εντοπισμός κωδικών μίας χρήσης και εμφάνιση γρήγορων μενού</string>
     <string name="pref_show_sms_template_in_summary">Αυτόματος εντοπισμός κωδικών μίας χρήσης στα SMS</string>
     <string name="pref_show_sms_template_summary">Ενεργοποιήστε για να χρησιμοποιήσετε τις έξυπνες λειτουργίες των Mi Μηνυμάτων, όπως αντιγραφή κωδικών, έλεγχο υπολοίπου, κλπ.</string>
-    <string name="pref_smart_messages_settings">Έξυπνα μηνύματα</string>
+    <string name="pref_smart_messages_settings">Έξυπνα Μηνύματα</string>
     <string name="pref_sms_storage_title">Χώρος αποθήκευσης</string>
     <string name="pref_sms_theme_title">Οθόνη</string>
     <string name="pref_summary_allow_si_sl_push">Να επιτρέπεται στα μηνύματα η φόρτωση περιεχομένου από ιστοσελίδες</string>
@@ -541,6 +551,7 @@
     <string name="send_signature_confirm_dialog_title">Αποστολή μηνύματος</string>
     <string name="send_sms">Αποστολή μηνύματος</string>
     <string name="send_to">Προς:</string>
+    <string name="send_to_index_contact">%1$s/%2$s</string>
     <string name="sent_at_time">Έγινε αποστολή στις: %1s</string>
     <string name="sent_label">"Στάλθηκε: "</string>
     <string name="service_message_not_found">Το μήνυμα έληξε ή δεν είναι διαθέσιμο</string>
@@ -652,6 +663,7 @@
     <string name="unstick">Ξεκαρφίτσωμα</string>
     <string name="unstick_conversation">Ξεκαρφίτσωμα τρέχουσας συνομιλίας</string>
     <string name="unsticked_conversation">Η συνομιλία ήδη ξεκαρφιτσώθηκε</string>
+    <string name="unsubscribe">Κατάργηση εγγραφής</string>
     <string name="unsupported_media_format">Μη υποστηριζόμενη %1$s μορφή.</string>
     <string name="url_fraud_dangerous_alert">"Η ιστοσελίδα που προσπαθείτε να επισκεφτείτε ενδέχεται να είναι επικίνδυνη. Ενδέχεται να βλάψει την συσκευή και τα δεδομένα σας. Συνέχεια οπωσδήποτε;
 %s"</string>
@@ -672,6 +684,4 @@
     <string name="wild_msg_title">Επιλογή αριθμών για συγχρονισμό</string>
     <string name="yes">OK</string>
     <string name="yesterday">Χθες</string>
-    <string name="notification_channel_description">Ειδοποιήσεις από Μηνύματα</string>
-    <string name="notification_channel_name">Μηνύματα</string>
 </resources>

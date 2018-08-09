@@ -86,4 +86,7 @@
     <string name="sleepmode_privacy_link">Μάθετε περισσότερα σχετικά με το απόρρητο και την ασφάλεια</string>
     <string name="sleepmode_disclaimer_cancel">Ακύρωση</string>
     <string name="sleepmode_disclaimer_agree">Αποδοχή</string>
+    <string name="appconfig_active_app_dialog_title">Διαχείριση ενεργών εγαρμογών</string>
+    <string name="config_classify">Ταξινόμηση με τις ρυθμίσεις εφαρμογής</string>
+    <string name="active_classify">Ταξινόμηση με κατάσταση δραστηριότητας</string>
 </resources>

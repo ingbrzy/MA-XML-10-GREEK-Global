@@ -435,6 +435,7 @@
     <string name="managed_user_title">Όλες οι εφαρμογές δουλειάς</string>
     <string name="pref_about_traffic_title">Ρυθμίσεις χρήσης δεδομένων</string>
     <string name="pref_traffic_manage_title">Χρήση δεδομένων</string>
+    <string name="pref_operator_setting">%1$s%2$s</string>
     <string name="pref_package_traffic_settings">Πλάνο δεδομένων</string>
     <string name="pref_adjust_traffic_data">Ορισμός χρήσης δεδομένων</string>
     <string name="pref_category_title_other">Πρόσθετες ρυθμίσεις</string>
@@ -444,9 +445,9 @@
     <string name="pref_title_declaration">Σημαντικός αποποιητής ευθυνών</string>
     <string name="pref_new_installed_preconfig_title">Προεπιλεγμένες ρυθμίσεις νέων εφαρμογών</string>
     <string name="pref_bg_network_title">Σύνδεση παρασκηνίου</string>
-    <string name="pref_mi_sim_settings">Ρυθμίσεις Mi SIM</string>
-    <string name="pref_title_upload_data_usage">Υποβολή αναφοράς στατιστικών χρήσης δεδομένων</string>
-    <string name="pref_summary_upload_data_usage">Αναφέρετε τα στατιστικά χρήσης δεδομένων σας για να μας βοηθήσετε στην βελτίωση του MIUI. Η αναφορά πραγματοποιείται με βάση την Πολιτική Απορρήτου μας.</string>
+    <string name="pref_mi_sim_settings">Ρυθμίσεις πακέτου %s</string>
+    <string name="pref_title_upload_data_usage">Υποβολή αναφοράς χρήσης δεδομένων</string>
+    <string name="pref_summary_upload_data_usage">Αναφέρετε τις πληροφορίες χρήσης δεδομένων σας για να μας βοηθήσετε στην βελτίωση του MIUI. Η αναφορά πραγματοποιείται με βάση την Πολιτική Απορρήτου μας.</string>
     <string name="pref_manual_adjust">Ορίστε μόνοι τα στατιστικά χρήσης δεδομένων</string>
     <string name="pref_daily_adjust">Ορισμός χρήσης δεδομένων αιχμής</string>
     <string name="pref_free_adjust">Ορισμός χρήσης δεδομένων εκτός αιχμής</string>
@@ -887,6 +888,7 @@
     <string name="status_bar_network_flow_content">Σήμερα: %1$s&amp;nbsp;&amp;nbsp;&amp;nbsp;; Απομένουν: %2$s</string>
     <string name="status_bar_network_flow_content_not_setting">Σήμερα: %1$s&amp;nbsp;&amp;nbsp;&amp;nbsp;; Αυτό το μήνα: %2$s</string>
     <string name="status_bar_network_flow_today">Σήμερα: %1$s</string>
+    <string name="status_bar_network_flow_content_virtual_card">%1$s&amp;nbsp;&amp;nbsp;&amp;nbsp;%2$s&amp;nbsp;&amp;nbsp;&amp;nbsp;</string>
     <string name="pref_key_tethering_setting">Όριο δεδομένων μίας φοράς</string>
     <string name="pref_key_tethering_title">Όριο δεδομένων μίας φοράς</string>
     <string name="tether_limit_value_custom">Προσαρμογή</string>
@@ -960,6 +962,7 @@
     <string name="om_formatted_percent_string">%s%%</string>
     <string name="om_cpu_usage_warn_title_text">"Η εφαρμογή μπορεί να επιβραδύνει
 την συσκευή σας"</string>
+    <string name="om_memory_clean_memory_info_text">%1$s / %2$s</string>
     <string name="om_ill_proc_handle_unstaill_title">Απεγκατάσταση %s;</string>
     <string name="om_ill_proc_handle_uninstall_prompt">Απεγκαταστήστε την εφαρμογή για επίλυση των προβλημάτων χρήσης μπαταρίας.</string>
     <string name="om_ill_proc_type_wakelock_title">Η εφαρμογή μπλοκάρει την λειτουργία αδράνειας και καταναλώνει μπαταρία</string>
@@ -1018,6 +1021,7 @@
     <string name="usage_type_data_send">Έγινε αποστολή κινητών δεδομένων</string>
     <string name="usage_type_no_coverage">Χρόνος χωρίς σήμα</string>
     <string name="usage_type_gps">GPS</string>
+    <string name="process_kernel_label">Android</string>
     <string name="process_mediaserver_label">Διακομιστής πολυμέσων</string>
     <string name="power_screen">Οθόνη</string>
     <string name="power_wifi">Wi-Fi</string>
@@ -1364,11 +1368,13 @@
     <string name="menu_text_optimize_manage">Ενίσχυση ταχύτητας</string>
     <string name="menu_text_networkassistants">Χρήση δεδομένων</string>
     <string name="menu_summary_networkassistants">Διαχείριση του Πλάνου δεδομένων σας</string>
+    <string name="menu_text_networkassistants_2">%s</string>
     <string name="menu_summary_networkassistants_2">Υπέρβαση ορίου</string>
     <string name="menu_summary_networkassistants_3">Απομένουν αρκετά δεδομένα</string>
     <string name="menu_summary_networkassistants_4">Τα δεδομένα σας έχουν σχεδόν εξαντληθεί</string>
     <string name="menu_text_networkassistants_remain">%s απέμειναν</string>
     <string name="menu_text_networkassistants_danger">%s παραπάνω</string>
+    <string name="menu_text_networkassistants_data">%1$s%2$s</string>
     <string name="menu_text_networkassistants_unit_gb">GB</string>
     <string name="menu_text_networkassistants_unit_mb">MB</string>
     <string name="menu_text_networkassistants_unit_kb">KB</string>
@@ -1381,12 +1387,14 @@
     <string name="menu_summary_garbage_cleanup">Δεν βρέθηκαν σκουπίδια</string>
     <string name="menu_summary_garbage_cleanup_2">Μέγεθος σκουπιδιών</string>
     <string name="menu_summary_garbage_cleanup_3">Εκκαθάριση σκουπιδιών τώρα</string>
+    <string name="menu_text_garbage_cleanup_danger">%s</string>
     <string name="menu_text_power_manager">Χρήση μπαταρίας</string>
     <string name="menu_summary_power_manager">Η λειτουργία Εξοικονόμησης Μπαταρίας σας δίνει περισσότερο χρόνο μεταξύ των φορτισμάτων</string>
     <string name="menu_summary_power_manager_1">Η μπαταρία σας είναι πλήρως φορτισμένη</string>
     <string name="menu_summary_power_manager_2">%s απομένουν</string>
     <string name="menu_summary_power_manager_3">Συνδέστε φορτιστή</string>
     <string name="menu_summary_power_manager_4">%s μέχρι πλήρη φόρτιση</string>
+    <string name="menu_text_power_percent_title">%s</string>
     <string name="last_check_canceled">Η προηγούμενη σάρωση ακυρώθηκε</string>
     <string name="examination_score_100">Όλα φαίνονται να λειτουργούν σωστά!</string>
     <string name="examination_score_80_100">Ορισμένα αντικείμενα μπορούν να βελτιστοποιηθούν</string>
@@ -1752,6 +1760,7 @@
     <string name="card_main_deepclean_wechat_action">Εκκαθάριση</string>
     <string name="card_main_sectool_title">Εργαλεία</string>
     <string name="card_main_monthreport_action">Προβολή</string>
+    <string name="card_main_speeddetail_action">@string/card_main_monthreport_action</string>
     <string name="card_main_netcheck_title">Δοκιμή δικτύου</string>
     <string name="card_main_netcheck_summary">Δοκιμή σύνδεσης για προβλήματα δικτύου</string>
     <string name="card_main_netcheck_action">Δοκιμή</string>
@@ -1920,6 +1929,9 @@
     <string name="set_pattern_password_name">Ορισμός μοτίβου</string>
     <string name="set_numeric_password_name">Ορισμός PIN</string>
     <string name="set_mixed_password_name">Ορισμός κωδικού</string>
+    <string name="reset_data_title">Αδυναμία επαναφοράς κωδικού</string>
+    <string name="reset_data_dialog_message">Αυτή η συσκευή δεν συσχετίζεται με τον Mi Λογαριασμό σας. Δεν είναι δυνατή η επαναφορά ή η επαναφορά του κωδικού πρόσβασης. Δημιουργήστε αντίγραφα ασφαλείας όλων των σημαντικών αντικειμένων και πραγματοποιήστε επαναφορά εργοστασιακών δεδομένων. Όλα τα δεδομένα θα διαγραφούν οριστικά και η κάρτα SD θα μορφοποιηθεί κατά την επαναφορά.</string>
+    <string name="reset_data_dialog_ok">Επαναφορά εργοστασιακών δεδομένων</string>
     <string name="wakepath_confirm_start_activity">Να επιτρέπεται σε %1$s το άνοιγμα %2$s;</string>
     <string name="unlike">Όχι ευχαριστώ</string>
     <string name="toast_network_eror">Αδυναμία σύνδεσης σε δίκτυο</string>
@@ -2172,7 +2184,7 @@
     <string name="sys_title_gamebooster_unit_mb">MB</string>
     <string name="gmscore_support_service">Υπηρεσίες Google</string>
     <string name="gmscore_support_remind">Ενεργοποιήστε αυτή την λειτουργία εάν έχετε προβλήματα με την χρήση του Gmail, Google Maps, και άλλων Google εφαρμογών. Θα μειώσει κατά ένα ποσοστό την ζωή μπαταρίας.</string>
-    <string name="google_base_app_install_choice">\"%s απαιτεί Πλαίσιο Παροχής Υπηρεσιών Google για ομαλή λειτουργία, Να γίνει λήψη και εγκατάσταση;</string>
+    <string name="google_base_app_install_choice">Η εφαρμογή απαιτεί Πλαίσιο Παροχής Υπηρεσιών Google για ομαλή λειτουργία, να γίνει λήψη και εγκατάσταση;</string>
     <string name="application_item_disable">Έγινε περιορισμός</string>
     <string name="application_item_already_permission">Έγινε αποδοχή</string>
     <string name="man_add_application">Προσθέστε μόνοι σας εφαρμογές αυτόματης έναρξης</string>

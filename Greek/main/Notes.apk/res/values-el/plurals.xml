@@ -13,11 +13,11 @@
         <item quantity="one">%1$s σημείωση</item>
     </plurals>
     <plurals name="record_last_ten_seconds_reminder">
-        <item quantity="other">%d seconds left</item>
-        <item quantity="one">%d second left</item>
+        <item quantity="other">Απομένουν %d δευτερόλεπτα</item>
+        <item quantity="one">Απομένει %d δευτερόλεπτο</item>
     </plurals>
     <plurals name="word_count">
-        <item quantity="other">%s characters</item>
-        <item quantity="one">%s character</item>
+        <item quantity="other">%d χαρακτήρες</item>
+        <item quantity="one">%d χαρακτήρας</item>
     </plurals>
 </resources>

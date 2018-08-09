@@ -7,10 +7,10 @@
     <string name="explain_send_sms_permission_button">Επαλήθευση</string>
     <string name="activate_phone_failed_notif_title">Αδυναμία ενεργοποίησης κάρτας SIM</string>
     <string name="activate_phone_failed_notif_title_msim">Αδυναμία ενεργοποίησης κάρτας SIM %d</string>
-    <string name="activate_phone_success_notif_title">Η κάρτα SIM ενεργοποιήθηκε</string>
-    <string name="activate_phone_success_notif_title_msim">Η κάρτα SIM %d ενεργοποιήθηκε</string>
-    <string name="activate_phone_cancel_notif_title">Η ενεργοποίηση της κάρτας SIM ακυρώθηκε</string>
-    <string name="activate_phone_cancel_notif_title_msim">Η ενεργοποίηση της κάρτας SIM %d ακυρώθηκε</string>
+    <string name="activate_phone_success_notif_title">Κάρτα SIM ενεργοποιήθηκε επιτυχώς</string>
+    <string name="activate_phone_success_notif_title_msim">Κάρτα SIM %d ενεργοποιήθηκε επιτυχώς</string>
+    <string name="activate_phone_cancel_notif_title">Ακύρωση ενεργοποίησης Κάρτας SIM</string>
+    <string name="activate_phone_cancel_notif_title_msim">Ακύρωση ενεργοποίησης Κάρτας SIM %d</string>
     <string name="activate_status_title_activating">Γίνεται ενεργοποίηση κάρτας SIM…</string>
     <string name="activate_status_title_activating_msim">Γίνεται ενεργοποίηση κάρτας SIM %d…</string>
     <string name="activate_auto_sms_notification_title">Ενεργοποίηση κάρτας SIM</string>
@@ -19,7 +19,7 @@
     <string name="activate_status_desc_query_activation_info">Γίνεται λήψη πληροφοριών ενεργοποίησης…</string>
     <string name="activate_status_desc_query_activation_info_no_info">Αδυναμία εύρεσης πληροφοριών ενεργοποίησης στο διακομιστή</string>
     <string name="activate_status_desc_query_activation_info_server_error">Σφάλμα διακομιστή κατά την διάρκεια απόκτησης πληροφοριών ενεργοποίησης</string>
-    <string name="activate_status_desc_query_activation_info_downlink_sms_error">Αδυναμία αποστολής SMS ενεργοποίησης από τον διακομιστή στο τηλέφωνο σας</string>
+    <string name="activate_status_desc_query_activation_info_downlink_sms_error">Αδυναμία αποστολής SMS ενεργοποίησης από τον διακομιστή στο τηλέφωνό σας</string>
     <string name="activate_status_desc_wait_for_sms">Αναμονή για SMS ενεργοποίησης από το διακομιστή…</string>
     <string name="activate_status_desc_wait_for_sms_success">Έγινε λήψη SMS ενεργοποίησης από το διακομιστή</string>
     <string name="activate_status_desc_wait_for_sms_fail">Αδυναμία λήψης SMS ενεργοποίησης από το διακομιστή</string>
@@ -31,7 +31,7 @@
     <string name="activate_status_desc_prepare_sending_sms">Γίνεται προετοιμασία αποστολής SMS ενεργοποίησης…</string>
     <string name="activate_status_desc_sending_sms">Γίνεται αποστολή SMS ενεργοποίησης…</string>
     <string name="activate_status_desc_sending_sms_fail">Αδυναμία αποστολής SMS ενεργοποίησης</string>
-    <string name="activate_status_desc_sms_sent">Στάλθηκε SMS ενεργοποίησης</string>
+    <string name="activate_status_desc_sms_sent">SMS ενεργοποίησης αποστάλθηκε επιτυχώς</string>
     <string name="activate_status_desc_acquire_phone_number">Γίνεται επαλήθευση αριθμού…</string>
     <string name="activate_status_desc_acquire_phone_number_server_error">Σφάλμα διακομιστή κατά τη διάρκεια επαλήθευσης του αριθμού</string>
     <string name="activate_status_desc_acquire_phone_number_server_no_info">Αδυναμία επαλήθευσης αριθμού</string>
@@ -65,12 +65,12 @@
     <string name="activate_popup_desc_register_account">Ένα εξερχόμενο SMS μήνυμα μπορεί να απαιτείται για την δημιουργία του Mi Λογαριασμού σας. Ο πάροχός σας θα σας επιφέρει χρεώσεις για το μήνυμα αυτό.</string>
     <string name="activate_popup_desc_register_account_intl">Ένα εξερχόμενο SMS μήνυμα μπορεί να απαιτείται για την δημιουργία του Mi Λογαριασμού σας. Ο πάροχός σας θα σας επιφέρει χρεώσεις για το μήνυμα αυτό.</string>
     <string name="activate_popup_desc_register_account_downlink">Εισαγάγετε τον αριθμό τηλεφώνου σας</string>
-    <string name="activate_popup_title_failed_send_sms">Αδυναμία αποστολής μηνύματος</string>
+    <string name="activate_popup_title_failed_send_sms">Αδυναμία αποστολής SMS</string>
     <string name="activate_popup_desc_failed_send_sms">Αδυναμία αποστολής μηνύματος ενεργοποίησης. Βεβαιωθείτε ότι η κάρτα SIM σας είναι ενεργοποιημένη.</string>
-    <string name="activate_popup_confirm_failed_send_sms">Επανάληψη αποστολής</string>
+    <string name="activate_popup_confirm_failed_send_sms">Αποστολή ξανά</string>
     <string name="activate_popup_title_failed_query_info">Αδυναμία εύρεσης αριθμού</string>
     <string name="activate_popup_desc_failed_query_info">Αδυναμία εύρεσης του τηλεφωνικού σας αριθμού. Βεβαιωθείτε ότι η κάρτα SIM σας είναι ενεργοποιημένη.</string>
-    <string name="activate_popup_confirm_failed_query_info">Επανάληψη αποστολής</string>
+    <string name="activate_popup_confirm_failed_query_info">Αποστολή ξανά</string>
     <string name="activate_popup_title_failed_server">Σφάλμα διακομιστή</string>
     <string name="activate_popup_desc_failed_server">Ελέγξτε την σύνδεση δικτύου σας και προσπαθήστε ξανά.</string>
     <string name="activate_popup_confirm_failed_server">Προσπαθήστε ξανά</string>
@@ -80,20 +80,20 @@
     <string name="activate_popup_title_failed_phone_error">Μη έγκυρος αριθμός τηλεφώνου</string>
     <string name="activate_popup_desc_failed_phone_error">Ο αριθμός τηλεφώνου που εισαγάγατε δεν είναι έγκυρος.</string>
     <string name="activate_popup_confirm_failed_phone_error">Προσπαθήστε ξανά</string>
-    <string name="activate_popup_title_all_gateway_failed_send_sms">Αδυναμία αποστολής μηνύματος</string>
+    <string name="activate_popup_title_all_gateway_failed_send_sms">Αδυναμία αποστολής SMS</string>
     <string name="activate_popup_desc_all_gateway_failed_send_sms">"Αδυναμία αποστολής μηνύματος ενεργοποίησης. Βεβαιωθείτε ότι η κάρτα SIM σας είναι ενεργοποιημένη.
-Εισαγάγετε τον αριθμό της νέας σας κάρτας SIM για επανενεργοποίηση %s"</string>
+Εισαγάγετε τον αριθμό της νέας σας κάρτας SIM για επανενεργοποίηση %s."</string>
     <string name="activate_popup_confirm_all_gateway_failed_send_sms">Προσπαθήστε ξανά</string>
     <string name="activate_popup_title_all_gateway_failed_query_info">Αδυναμία εύρεσης αριθμού</string>
     <string name="activate_popup_desc_all_gateway_failed_query_info">"Αδυναμία εύρεσης του αριθμού τηλεφώνου σας. Βεβαιωθείτε ότι η κάρτα SIM σας είναι ενεργοποιημένη.
-Εισαγάγετε τον αριθμό της νέας σας κάρτας SIM για επανενεργοποίηση %s"</string>
+Εισαγάγετε τον αριθμό της νέας σας κάρτας SIM για επανενεργοποίηση %s."</string>
     <string name="activate_popup_confirm_all_gateway_failed_query_info">Προσπαθήστε ξανά</string>
     <string name="activate_popup_title_error_device_id">Μη έγκυρο IMEI</string>
     <string name="activate_popup_desc_error_device_id">Καλέστε *#06# για έλεγχο του IMEI</string>
     <string name="activate_popup_confirm_error_device_id">Προσπαθήστε ξανά</string>
     <string name="activate_feature_mx">Mi Μηνύματα</string>
     <string name="activate_feature_mx_and_voip">Mi Μηνύματα και Φωνή</string>
-    <string name="activate_feature_voip">Mi Μηνύματα Φωνή</string>
+    <string name="activate_feature_voip">Mi Message VoIP</string>
     <string name="activate_feature_mms_sync">Συγχρονισμός μηνυμάτων</string>
     <string name="activate_feature_call_log_sync">Συγχρονισμός ιστορικού κλήσεων</string>
     <string name="activate_feature_find_device">Εύρεση συσκευής</string>
@@ -118,10 +118,10 @@
     <string name="agree">Αποδοχή</string>
     <string name="privacy_revoke_tips">"Μετά την ανάκληση της εξουσιοδότησης, η εφαρμογή θα σταματήσει να συλλέγει τα δεδομένα σας και θα διαγράψει όλα τα δεδομένα σας από τους διακομιστές της. Ο συγχρονισμός με Mi Cloud, Mi Μηνύματα, και άλλες λειτουργίες Μηνυμάτων δεν θα είναι πλέον διαθέσιμες. Ανάκληση εξουσιοδότησης παρ' όλα αυτά;"</string>
     <string name="privacy_revoke_failed_msg">Η ενεργοποίηση απαιτεί παραχώρηση εξουσιοδότησης ώστε τα Μηνύματα να αποκτήσουν τον αριθμό τηλεφώνου σας.</string>
-    <string name="waiting_sim_in_service">αναμονή για Sim σε υπηρεσία</string>
-    <string name="checking_client">έλεγχος περιβ. πελάτη</string>
-    <string name="error_sim_not_in_service">sim εκτός υπηρεσίας</string>
-    <string name="error_checking_client">σφάλμα περιβ. πελάτη</string>
-    <string name="error_network_io">σφάλμα δικτύου</string>
-    <string name="error_no_send_sms_permission">χωρίς άδεια αποστολής sms</string>
+    <string name="waiting_sim_in_service">Αναμονή για ενεργοποίηση SIM</string>
+    <string name="checking_client">Γίνεται έλεγχος περιβάλλοντος ενεργοποίησης</string>
+    <string name="error_sim_not_in_service">Αδυναμία ενεργοποίησης Κάρτας SIM. Βεβαιωθείτε ότι το υπόλοιπο λογαριασμού σας είναι επαρκές.</string>
+    <string name="error_checking_client">Παρουσιάστηκε σφάλμα κατά τη διάρκεια της ενεργοποίησης</string>
+    <string name="error_network_io">Παρουσιάστηκε σφάλμα δικτύου</string>
+    <string name="error_no_send_sms_permission">Η Υπηρεσία ενεργοποίησης SIM της Xiaomi χρειάζεται άδεια για την αποστολή SMS</string>
 </resources>

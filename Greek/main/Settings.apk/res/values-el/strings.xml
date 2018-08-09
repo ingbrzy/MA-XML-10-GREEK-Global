@@ -314,7 +314,7 @@
     <string name="app_list_memory_use">Χρήση εφαρμογών</string>
     <string name="app_list_preference_none">Κανένα</string>
     <string name="app_memory_use">Χρήση μνήμης</string>
-    <string name="app_mobile">Κινητό</string>
+    <string name="app_mobile">Δεδομένα κινητής τηλεφωνίας</string>
     <string name="app_name_label">Εφαρμογή</string>
     <string name="app_name_na">Κατανάλωση δεδομένων</string>
     <string name="app_names_concatenation_template_2">%1$s, %2$s</string>
@@ -371,7 +371,7 @@
     <string name="apply_now_button_text">Ενημέρωση</string>
     <string name="apply_password_to_category_title">Απαιτείται ξεκλείδωμα</string>
     <string name="apply_update_fail">Αδυναμία ενημέρωσης</string>
-    <string name="approve_title">Επαλήθευση</string>
+    <string name="approve_title">Πιστοποιητικό</string>
     <string name="apps_storage">Αποθ. χώρος εφαρμογών</string>
     <string name="apps_summary">Εγκαταστάθηκαν %1$d εφαρμογές</string>
     <string name="apps_summary_example">24 εγκατεστημένες εφαρμογές</string>
@@ -898,6 +898,8 @@ Bits ανά δείγμα"</string>
     <string name="bootloader_locked_answer_2">"1. Βεβαιωθείτε πως έχετε εισάγει ήδη μια κάρτα SIM μέσα στην συσκευή σας.
 2. Πατήστε \"Προσθήκη λογαριασμού\" παρακάτω για να συσχετίσετε τον Mi Λογαριασμό σας με αυτή την συσκευή.
 3. Κατεβάστε το εργαλείο ξεκλειδώματος από την ιστοσελίδα μας. Να σημειωθεί πως πρέπει να ξεκλειδώνετε συσκευές μέσω ενός υπολογιστή. Κατεβάστε από εδώ:"</string>
+    <string name="bootloader_locked_answer_2_no_sim">"1. Πατήστε \"Προσθήκη λογαριασμού\" παρακάτω για να συσχετίσετε τον Mi Λογαριασμό σας με αυτή την συσκευή.
+2. Κατεβάστε το εργαλείο ξεκλειδώματος από την ιστοσελίδα μας. Να σημειωθεί πως πρέπει να ξεκλειδώνετε συσκευές μέσω ενός υπολογιστή. Κατεβάστε από εδώ:"</string>
     <string name="bootloader_locked_check_status">Προσθήκη λογαριασμού και συσκευής</string>
     <string name="bootloader_locked_question_1">Γιατί οι συσκευές πρέπει να είναι κλειδωμένες;</string>
     <string name="bootloader_locked_question_2">Καταλαβαίνω τους κινδύνους, αλλά ακόμα θέλω να ξεκλειδώσω την συσκευή μου.</string>
@@ -914,6 +916,7 @@ Bits ανά δείγμα"</string>
     <string name="bootloader_status_unlocked">Ξεκλείδωτο</string>
     <string name="bootloader_status_unlocked_info">Αυτή η συσκευή είναι ξεκλείδωτη</string>
     <string name="bootloader_summary">Κάντε flash για την συσκευή σας μέσω USB</string>
+    <string name="bootloader_unlock_webhome">https://unlock.update.miui.com</string>
     <string name="breathing_light_color_menu_title">Χρώμα φλας</string>
     <string name="breathing_light_color_summary">Χρώμα φλας κατά την λήψη νέας ειδοποίησης</string>
     <string name="breathing_light_freq_summary">Συχνότητα φλας όταν υπάρχουν νέες ειδοποιήσεις</string>
@@ -925,12 +928,12 @@ Bits ανά δείγμα"</string>
     <string name="brightness_title">Φωτεινότητα</string>
     <string name="bt_hci_snoop_log">Καταγραφή ανίχνευσης HCI Bluetooth</string>
     <string name="bt_hci_snoop_log_summary">Σύλληψη όλων των πακέτων Bluetooth HCI σε ένα αρχείο</string>
-    <string name="bt_ldac_declaration">Όταν η συσκευή Bluetooth υποστηρίζει LDAC, θα συνδεθεί από προεπιλογή. Το LDAC παρέχει μια εμπειρία υψηλής ποιότητας ήχου και φέρει μεγαλύτερη κατανάλωση ενέργειας. Ενδέχεται να γίνει αναπαραγωγή λόγω περιορισμών υλικού Bluetooth</string>
+    <string name="bt_ldac_declaration">Όταν μια συσκευή Bluetooth υποστηρίζει LDAC, θα συνδεθεί από προεπιλογή. Το LDAC παρέχει μια εμπειρία υψηλής ποιότητας ήχου αλλά φέρει μεγαλύτερη κατανάλωση ενέργειας. Ενδέχεται να εμφανιστούν σφάλματα κατά την αναπαραγωγή λόγω περιορισμών υλικού Bluetooth.</string>
     <string name="bt_ldac_dialog_summary">"Το LDAC παρέχει μια εμπειρία υψηλής ποιότητας ήχου και φέρει μεγαλύτερη κατανάλωση ενέργειας
-Αυτό μπορεί να απενεργοποιηθεί στις [Settings]"</string>
+Αυτό μπορεί να απενεργοποιηθεί στις [Ρυθμίσεις]"</string>
     <string name="bt_ldac_dialog_title">Η τρέχουσα συσκευή υποστηρίζει LDAC το οποίο έχει συνδεθεί από προεπιλογή:</string>
-    <string name="bt_ldac_open_dialog_summary">Το LDAC παρέχει μια εμπειρία υψηλής ποιότητας ήχου και φέρει μεγαλύτερη κατανάλωση ενέργειας. Ενδέχεται να γίνει αναπαραγωγή λόγω περιορισμών υλικού Bluetooth</string>
-    <string name="bt_ldac_open_dialog_title">Σίγουρα θέλετε ενεργοποίηση LDAC;</string>
+    <string name="bt_ldac_open_dialog_summary">Το LDAC παρέχει μια εμπειρία υψηλής ποιότητας ήχου αλλά φέρει μεγαλύτερη κατανάλωση ενέργειας. Ενδέχεται να παρουσιαστούν σφάλματα κατά τη διάρκεια της αναπαραγωγής λόγω περιορισμών υλικού Bluetooth.</string>
+    <string name="bt_ldac_open_dialog_title">Ενεργοποίηση LDAC;</string>
     <string name="bt_ldac_pre_summary">Παροχή εμπειρίας υψηλής ποιότητας ήχου</string>
     <string name="bt_ldac_pre_title">LDAC</string>
     <string name="bt_ldac_property">Χαρακτηριστικά</string>
@@ -1550,6 +1553,7 @@ Bits ανά δείγμα"</string>
     <string name="dndm_auto_button_title">Επανάληψη ώρας του Μην Ενοχλείτε</string>
     <string name="dndm_auto_setting_group">Προγραμματισμένο</string>
     <string name="dndm_auto_time_setting">Ορισμός χρόνου</string>
+    <string name="dndm_auto_time_setting_summary">%1$s-%2$s</string>
     <string name="dndm_auto_time_turn_off">Προς</string>
     <string name="dndm_auto_time_turn_off_title">Αυτόματη απενεργοποίηση Μην Ενοχλείτε</string>
     <string name="dndm_auto_time_turn_on">Από</string>
@@ -1951,6 +1955,12 @@ Bits ανά δείγμα"</string>
     <string name="foreground_traffic">Προσκήνιο %s</string>
     <string name="forget">Διαγραφή</string>
     <string name="forget_password_button_text"><u>Ξέχασα τον κωδικό</u></string>
+    <string name="forget_password_dialog_button_text">Πίσω</string>
+    <string name="forget_password_dialog_content_four"><Data>2. Επιλογή &lt;font color=#e6e6e6>[Wipe data]&lt;/font>, και περιμένετε μέχρι να επανεκκινηθεί η συσκευή σας.</Data></string>
+    <string name="forget_password_dialog_content_one"><Data>Εάν ξεχάσετε τον κωδικό σας, δεν θα είστε σε θέση να τον επαναφέρετε. Ωστόσο, μπορείτε να επαναφέρετε τον κωδικό σας αφότου &lt;font color=#ec2700>διαγράψετε όλα τα δεδομένα στη συσκευή σας &lt;/font> (περιλαμβανομένων των φωτογραφιών, των επαφών, κλπ.). Πρώτα δημιουργήστε αντίγραφα ασφαλείας για όλα τα σημαντικά σας δεδομένα.</Data></string>
+    <string name="forget_password_dialog_content_three"><Data>"1. Απενεργοποιήστε τη συσκευή σας. Πατήστε το &lt;font color=#e6e6e6>κουμπί ενεργοποίησης &lt;/font> και το &lt;font color=#e6e6e6> κουμπί Έντασης ήχου+&lt;/font> ταυτόχρονα, και κρατήστε τα μέχρι να δείτε το &lt;img src=''> εικονίδιο."</Data></string>
+    <string name="forget_password_dialog_content_two">Ακολουθήστε αυτά τα βήματα για διαγραφή δεδομένων:</string>
+    <string name="forget_password_dialog_title">Eπαναφορά του κωδικού σας</string>
     <string name="forget_pattern"><u>Ξεχάσατε το μοτίβο;</u></string>
     <string name="forget_privacy_password_setting">Προσθήκη Mi Λογαριασμού</string>
     <string name="forget_privacy_password_summary">Χρήση Mi Λογαριασμού για επαναφορά κωδικού</string>
@@ -1999,6 +2009,7 @@ Bits ανά δείγμα"</string>
     <string name="gadget_picker_title">Επιλογή gadget</string>
     <string name="gadget_state_off">απενεργοποιημένη</string>
     <string name="gadget_state_on">ενεργή</string>
+    <string name="gadget_state_template">%1$s %2$s</string>
     <string name="gadget_state_turning_off">απενεργοποίηση</string>
     <string name="gadget_state_turning_on">ενεργοποίηση</string>
     <string name="gadget_sync">Συγχρονισμός</string>
@@ -2306,6 +2317,7 @@ Bits ανά δείγμα"</string>
     <string name="lift_to_wake_title">Σηκώστε για ενεργοποίηση</string>
     <string name="line_breaking_summary">Βελτιστοποίηση αλλαγής γραμμής παραγράφου</string>
     <string name="line_breaking_title">Βελτιστοποίηση κειμένου</string>
+    <string name="link_speed">%1$d Mbps</string>
     <string name="list_bg_header_text">Εάν περιορίσετε την σύνδεση παρασκηνίου, οι νέες εφαρμογές δεν θα έχουν δυνατότητα σύνδεσης στο Ίντερνετ στο παρασκήνιο μετά την εγκατάσταση τους. Ενδέχεται να μην μπορούν να λάβουν μηνύματα ή να κατεβάζουν περιεχόμενο.</string>
     <string name="list_empty_text">Κενό</string>
     <string name="loading_notification_apps">Φόρτωση εφαρμογών…</string>
@@ -2661,6 +2673,7 @@ Bits ανά δείγμα"</string>
     <string name="memory_title">Διαθέσιμα: %1$s\u0009\u0009Σύνολο: %2$s</string>
     <string name="memory_usage">Χρήση μνήμης</string>
     <string name="memory_usage_apps">Μνήμη που χρησιμοποιείται από εφαρμογές</string>
+    <string name="memory_use_running_format">%1$s / %2$s</string>
     <string name="memory_use_summary">Χρησιμοποιήθηκε μέση μνήμη %1$s στο διάστημα των τελευταίων 3 ωρών</string>
     <string name="menu_cancel">Απόρριψη</string>
     <string name="menu_check">Εμπειρία</string>
@@ -2712,6 +2725,9 @@ Bits ανά δείγμα"</string>
     <string name="miui_lab_features">Ρυθμίσεις MIUI εργαστηρίου</string>
     <string name="miui_lab_gallery_search_desc">Βελτιωμένη αναζήτηση εικόνων</string>
     <string name="miui_lab_gallery_search_title">Βρείτε φωτογραφίες στην Συλλογή</string>
+    <string name="miui_lab_install_drive_mode_error">Αδυναμία εγκατάστασης, προσπαθήστε ξανά.</string>
+    <string name="miui_lab_install_drive_mode_summary">Η Λειτουργία αυτοκινήτου είναι μια εφαρμογή συστήματος. Η εγκατάστασή της δεν απαιτεί σύνδεση στο διαδύκτιο.</string>
+    <string name="miui_lab_install_drive_mode_title">Εγκατάσταση Λειτουργίας αυτοκινήτου</string>
     <string name="miui_lab_settings">MIUI εργαστήριο</string>
     <string name="miui_lab_slogan">Μάθετε. Εξερευνήστε. Ανακαλύψτε.</string>
     <string name="miui_lab_super_resolution_desc">Μετατρέπει τις εικόνες σε πιο ακριβείς</string>
@@ -2848,8 +2864,6 @@ Bits ανά δείγμα"</string>
     <string name="navigation_guide_app_title">Εκκίνηση ενέργειας εφαρμογής</string>
     <string name="navigation_guide_appswitch_summary">Σαρώστε αριστερά ή δεξιά από την άκρη της οθόνης και πατήστε παρατεταμένα για λίγο</string>
     <string name="navigation_guide_appswitch_title">Εναλλαγή στην προηγούμενη εφαρμογή</string>
-    <string name="navigation_guide_back_anim_summary">Προβολή κινούμενων στοιχείων όταν σαρώνετε από την άκρη της οθόνης</string>
-    <string name="navigation_guide_back_anim_title">Αναπαράσταση της χειρονομίας \"Μετάβαση πίσω\"</string>
     <string name="navigation_guide_back_summary">Σαρώστε αριστερά ή δεξιά από την άκρη της οθόνης</string>
     <string name="navigation_guide_back_title">Μετάβαση πίσω</string>
     <string name="navigation_guide_dialog_dont_show_again">Να μην εμφανιστεί ξανά</string>
@@ -2908,6 +2922,7 @@ Bits ανά δείγμα"</string>
     <string name="nfc_how_it_works_got_it">Το κατάλαβα</string>
     <string name="nfc_how_it_works_title">Πληρωμή στο τερματικό</string>
     <string name="nfc_more_title">Περισσότερα…</string>
+    <string name="nfc_payment_app_and_desc">%1$s - %2$s</string>
     <string name="nfc_payment_default">Προεπιλογή πληρωμής</string>
     <string name="nfc_payment_default_not_set">Δεν ρυθμίστηκε</string>
     <string name="nfc_payment_favor_default">Χρήση προεπιλεγμένης εφαρμογής πάντα</string>
@@ -3051,7 +3066,7 @@ Bits ανά δείγμα"</string>
     <string name="notification_show_lights_title">Φως που αναβοσβήνει</string>
     <string name="notification_sound_default">Προεπιλεγμένος ήχος ειδοποίησης</string>
     <string name="notification_sound_dialog_title">Προεπιλεγμένος ήχος ειδοποίησης</string>
-    <string name="notification_sound_title">Ήχοι για μηνύματα και ειδοποιήσεις</string>
+    <string name="notification_sound_title">Προεπιλεγμένος ήχος ειδοποιήσεων</string>
     <string name="notification_suggestion_summary">Εμφάνιση ή απόκρυψη περιεχομένου ειδοποιήσεων</string>
     <string name="notification_suggestion_title">Έλεγχος ειδοποιήσεων κλειδώματος οθόνης</string>
     <string name="notification_summary_channel">%1$s • %2$s</string>
@@ -3119,6 +3134,7 @@ Bits ανά δείγμα"</string>
     <string name="overlay_display_devices_title">Προσομείωση δευτερεύοντων προβολών</string>
     <string name="overlay_settings">Εμφάνιση πάνω σε άλλες εφαρμογές</string>
     <string name="owner_info_settings_edit_text_hint">Π.χ. Το Android του Μάκη.</string>
+    <string name="owner_info_settings_status">%1$d / %2$d</string>
     <string name="owner_info_settings_summary">Κανένα</string>
     <string name="owner_info_settings_title">Υπογραφή Οθόνης κλειδώματος</string>
     <string name="owner_space">Πρώτος χώρος</string>
@@ -3232,6 +3248,7 @@ Bits ανά δείγμα"</string>
     <string name="picture_in_picture_title">Λειτουργία Picture-in-picture</string>
     <string name="pin_failed">Αποτυχία λειτουργίας κωδικού PIN κάρτας SIM!</string>
     <string name="ping_test_label">Εκτέλεση δοκιμής ping</string>
+    <string name="play_pause_description">Αναπαραγωγή/Παύση τραγουδιού</string>
     <string name="please_select_phase2">2η φάση ελέγχου ταυτότητας</string>
     <string name="please_type_passphrase">Κωδικός</string>
     <string name="pointer_location">Τοποθεσία δείκτη</string>
@@ -3430,6 +3447,8 @@ Bits ανά δείγμα"</string>
     <string name="private_sms_recording_intro_header">Σχεδιάστε ένα μοτίβο ξεκλειδώματος:</string>
     <string name="private_sms_reset_by_account">Για επαναφορά του κωδικού σας, συνδεθείτε στο Mi Λογαριασμό σας</string>
     <string name="process_dex2oat_label">Βελτιστοποίηση εφαρμογών</string>
+    <string name="process_format">%1$s (%2$d)</string>
+    <string name="process_kernel_label">Android OS</string>
     <string name="process_mediaserver_label">Mediaserver</string>
     <string name="process_provider_in_use_description">Ο πάροχος %1$s χρησιμοποιείται.</string>
     <string name="process_service_in_use_description">Η υπηρεσία %1$s χρησιμοποιείται.</string>
@@ -3710,7 +3729,7 @@ Bits ανά δείγμα"</string>
     <string name="screen_locking_sounds_title">Ήχοι κλειδώματος οθόνης</string>
     <string name="screen_max_aspect_ratio_desc">Αποδοχή λειτουργίας πλήρης οθόνης για επιλεγμένες εφαρμογές</string>
     <string name="screen_max_aspect_ratio_title">Λειτουργία πλήρης οθόνης</string>
-    <string name="screen_monochrome_mode_apps_loading">Περιμένετε μία στιγμή…</string>
+    <string name="screen_monochrome_mode_apps_loading">Περιμένετε μία στιγμήȂ6</string>
     <string name="screen_monochrome_mode_apps_title">Χρήση Μονόχρωμης λειτουργίας</string>
     <string name="screen_monochrome_mode_global_summary">Χρήση Μονόχρωμης λειτουργίας για όλες τις εφαρμογές</string>
     <string name="screen_monochrome_mode_global_title">Όλες οι εφαρμογές</string>
@@ -4052,6 +4071,7 @@ Bits ανά δείγμα"</string>
     <string name="security_encryption_attention_3">Θα πρέπει να ορίσετε ένα νέο κωδικό οθόνης κλειδώματος.</string>
     <string name="security_encryption_attention_4">Βεβαιωθείτε πως θυμάστε τον κωδικό οθόνης κλειδώματος, αλλιώς θα πρέπει να κάνετε μια πλήρη επαναφορά και διαγραφή όλων των δεδομένων από την συσκευή.</string>
     <string name="security_encryption_attention_info">Μπορείτε να κρυπτογραφήσετε λογαριασμούς, ρυθμίσεις, κατεβασμένες εφαμογές και τα δεδομένα τους, πολυμέσα, και άλλα αρχεία.</string>
+    <string name="security_encryption_attention_symbol">•</string>
     <string name="security_encryption_attention_title">Σημαντικό</string>
     <string name="security_encryption_close_dialog_info">Επιλέγοντας να μην κρυπτογραφήσετε την συσκευή με κωδικό οθόνης κλειδώματος, ορισμένες υπηρεσίες Google μπορεί να μην είναι διαθέσιμες.</string>
     <string name="security_encryption_close_dialog_title">Επιστροφή στον προεπιλεγμένο κωδικό προστασίας</string>
@@ -4061,6 +4081,8 @@ Bits ανά δείγμα"</string>
     <string name="security_encryption_progress_dialog_open">Γίνεται κρυπτογράφηση…</string>
     <string name="security_encryption_rejected_via_home_manager">Αυτή η λειτουργία δεν υποστηρίζεται στην έκδοση επίδειξης.</string>
     <string name="security_encryption_title">Κρυπτογράφηση συσκευής με κωδικό οθόνης κλειδώματος</string>
+    <string name="security_input">Πληροφορίες ασφαλείας</string>
+    <string name="security_input_hint">Εισαγάγετε κωδικό χρησιμοποιώντας πληκτρολόγιο ασφαλείας</string>
     <string name="security_keyguard_category_name">Οθόνη κλειδώματος</string>
     <string name="security_password_category_name">Κλείδωμα οθόνης</string>
     <string name="security_passwords_title">Απόρρητο</string>
@@ -4302,6 +4324,7 @@ Bits ανά δείγμα"</string>
     <string name="sim_reenter_new">Πληκτρολογήστε ξανά το νέο PIN</string>
     <string name="sim_select_card">Επιλογή κάρτας SIM</string>
     <string name="sim_selection_required_pref">Απαιτείται επιλογή</string>
+    <string name="sim_settings_summary">%1$s - %2$s</string>
     <string name="sim_settings_title">Κάρτες SIM</string>
     <string name="sim_setup_wizard_title">Κάρτες SIM</string>
     <string name="sim_signal_strength">%1$d dBm %2$d asu</string>
@@ -4315,6 +4338,7 @@ Bits ανά δείγμα"</string>
     <string name="size_kilo_byte">KB</string>
     <string name="size_mega_byte">MB</string>
     <string name="size_peta_byte">PB</string>
+    <string name="size_suffix">%1$s%2$s</string>
     <string name="size_tera_byte">TB</string>
     <string name="skip_anyway_button_label">Παράλειψη</string>
     <string name="skip_label">Παράλ</string>
@@ -4350,7 +4374,7 @@ Bits ανά δείγμα"</string>
     <string name="sound_settings_summary">Ένταση ήχου κλήσης στο %1$s</string>
     <string name="sound_settings_summary_silent">Η ειδοποίηση ήχου τέθηκε σε σίγαση</string>
     <string name="sound_settings_summary_vibrate">Η ειδοποίηση ήχου ορίστηκε σε δόνηση</string>
-    <string name="sound_stereo_mode_summary">Διαθέσιμο μόνο με την αναπαραγωγή ήχου σε ηχείο</string>
+    <string name="sound_stereo_mode_summary">Λειτουργεί μόνο με ανοικτή ακρόαση</string>
     <string name="sound_stereo_mode_title">Ήχος στερεοφωνικού</string>
     <string name="sound_vibrate_settings">Ήχος &amp; δόνηση</string>
     <string name="sound_work_settings">Ήχοι προφίλ εργασίας</string>
@@ -4392,6 +4416,7 @@ Bits ανά δείγμα"</string>
     <string name="status_bar_settings_all_app_display_loading">Περιμένετε μια στιγμή…</string>
     <string name="status_bar_settings_app_notification_preferences">Ρυθμίσεις εφαρμογής</string>
     <string name="status_bar_settings_basic_settings">Βασικές ρυθμίσεις</string>
+    <string name="status_bar_settings_carrier_sim">"SIM %1$s: "</string>
     <string name="status_bar_settings_custom_carrier">Επεξεργασία ονόματος πάροχου</string>
     <string name="status_bar_settings_custom_wifi_name">Επεξεργασία ονόματος Wi-Fi</string>
     <string name="status_bar_settings_enable_notification">Εμφάνιση ειδοποιήσεων</string>
@@ -4623,6 +4648,7 @@ Bits ανά δείγμα"</string>
     <string name="suggestions_title">Προτάσεις</string>
     <string name="sum_carrier_select">Επιλέξτε μια εταιρεία δικτύου</string>
     <string name="summary_divider_text">", "</string>
+    <string name="summary_range_symbol_combination">%1$s - %2$s</string>
     <string name="summary_range_verbal_combination">%1$s έως %2$s</string>
     <string name="super_resolution_access_title">Προσβάσιμες εφαρμογές</string>
     <string name="super_resolution_desc">Μετατρέπει τις εικόνες σε πιο ακριβείς μέσω ενός AI αλγόριθμου</string>
@@ -4770,7 +4796,8 @@ Bits ανά δείγμα"</string>
     <string name="toast_lockscreen_glogin_empty_password">Εισαγωγή κωδικού</string>
     <string name="toast_need_login">Συνδεθείτε στο Mi Λογαριασμό σας</string>
     <string name="total">Μην ενοχλείτε</string>
-    <string name="total_info">Σίγαση ήχων %1$sεκτός από ξυπνητήρια</string>
+    <string name="total_info">Σίγαση ήχων και απενεργοποίηση δόνησης εκτός από ξυπνητήρια</string>
+    <string name="total_info_no_vibrator">Σίγαση ήχων εκτός από ξυπνητήρια</string>
     <string name="total_memory">Συνολική μνήμη</string>
     <string name="total_size">%s σύνολο</string>
     <string name="total_size_label">Σύνολο</string>
@@ -5328,20 +5355,20 @@ Bits ανά δείγμα"</string>
     <string name="wallpaper_suggestion_title">Αλλαγή ταπετσαρίας</string>
     <string name="wapi_auto_sel_cert">Αυτόματη επιλογή</string>
     <string name="wapi_auto_sel_cert_fail">Αδυναμία αυτόματης επιλογής πιστοποιητικού. Παρακαλώ επιλέξτε πρώτα ένα πιστοποιητικό από την λίστα, και μετά προσπαθήστε να συνδεθείτε.</string>
-    <string name="wapi_cert_is_not_selected">Παρακαλώ επιλέξτε πιστοποιητικό πρώτα</string>
+    <string name="wapi_cert_is_not_selected">Παρακαλώ επιλέξτε πρώτα το πιστοποιητικό</string>
     <string name="wapi_cert_manage_summary">Προσθήκη ή διαγραφή WAPI πιστοποιητικού</string>
     <string name="wapi_cert_manage_title">Διαχείριση πιστοποιητικού WAPI</string>
     <string name="wapi_cert_select">WAPI πιστοποιητικό</string>
-    <string name="wapi_no">όχι</string>
-    <string name="wapi_no_vaild_cert">Μη διαθέσιμα πιστοποιητικά, εγκατάσταση τώρα;</string>
-    <string name="wapi_password_empty">Παρακαλώ εισαγάγετε τον κωδικό</string>
-    <string name="wapi_password_hex_format_invalid">Μη έγκυροι δεκαεξαδικοί χαρακτήρες</string>
-    <string name="wapi_password_hex_length_invalid">Ο αριθμός των δεκαεξαδικών χαρακτήρων πρέπει να είναι ζυγός αριθμός</string>
-    <string name="wapi_password_length_invalid">Ο κωδιός πρέπει να είναι: 8-64 χαρακτήρες</string>
+    <string name="wapi_no">Όχι</string>
+    <string name="wapi_no_vaild_cert">Φαίνεται ότι απαιτούμενα πιστοποιητικά δεν έχουν εγκατασταθεί. Εγκατάσταση τώρα;</string>
+    <string name="wapi_password_empty">Εισαγωγή κωδικού</string>
+    <string name="wapi_password_hex_format_invalid">Μη έγκυρη μορφή κωδικού</string>
+    <string name="wapi_password_hex_length_invalid">Ο αριθμός των δεκαεξαδικών χαρακτήρων πρέπει να είναι μονός αριθμός</string>
+    <string name="wapi_password_length_invalid">Ο κωδικός πρέπει να έχει τουλάχιστον 8 με 64 χαρακτήρες</string>
     <string name="wapi_psk_type">Τύπος κωδικού</string>
     <string name="wapi_psk_type_ascii">ASCII</string>
     <string name="wapi_psk_type_hex">Εξαδεκαδικό</string>
-    <string name="wapi_yes">ναι</string>
+    <string name="wapi_yes">Ναι</string>
     <string name="warm_color">Θερμό</string>
     <string name="web_action_enable_summary">Άνοιγμα συνδέσμων σε εφαρμογές, ακόμα και αν δεν είναι εγκατεστημένες</string>
     <string name="web_action_enable_title">Instant Εφαρμογές</string>
@@ -5612,15 +5639,17 @@ Bits ανά δείγμα"</string>
     <string name="wifi_security_eap">802.1x EAP</string>
     <string name="wifi_security_none">Χωρίς</string>
     <string name="wifi_security_passpoint">Passpoint</string>
+    <string name="wifi_security_psk_generic">@string/wifi_security_wpa_wpa2</string>
     <string name="wifi_security_short_WAPI_CERT">WAPI CERT</string>
     <string name="wifi_security_short_WAPI_PSK">WAPI PSK</string>
     <string name="wifi_security_short_eap">802.1x</string>
+    <string name="wifi_security_short_psk_generic">@string/wifi_security_short_wpa_wpa2</string>
     <string name="wifi_security_short_wep">WEP</string>
     <string name="wifi_security_short_wpa">WPA</string>
     <string name="wifi_security_short_wpa2">WPA2</string>
     <string name="wifi_security_short_wpa_wpa2">WPA/WPA2</string>
-    <string name="wifi_security_wapi_cert">WAPI-Cert</string>
-    <string name="wifi_security_wapi_psk">WAPI-PSK</string>
+    <string name="wifi_security_wapi_cert">WAPI CERT</string>
+    <string name="wifi_security_wapi_psk">WAPI PSK</string>
     <string name="wifi_security_wep">WEP</string>
     <string name="wifi_security_wpa">WPA PSK</string>
     <string name="wifi_security_wpa2">WPA2 PSK</string>
@@ -5944,7 +5973,6 @@ Bits ανά δείγμα"</string>
     <string name="audio_profile_bes_surround_summary">Ήχος περιβάλλοντος</string>
     <string name="audio_profile_bes_surround_title">BesSurround</string>
     <string name="bg_power_saving_title">Έξυπνη εξοικονόμηση ενέργειας αναμονής</string>
-    <string name="cancel_description">Ακύρωση</string>
     <string name="card_emulation_settings_category_title">διαθέσιμο στοιχείο ασφαλείας</string>
     <string name="card_emulation_settings_no_element_found">ν διαθέσιμο στοιχείο ασφαλείας</string>
     <string name="card_emulation_settings_off_text">Για να δείτε τα διαθέσιμα στοιχεία ασφάλειας, με τη σειρά εξομοίωσης κάρτα για.</string>
@@ -5955,7 +5983,6 @@ Bits ανά δείγμα"</string>
     <string name="card_emulation_turning_on_text">Ενεργοποίηση εξομοίωσης κάρτα για …</string>
     <string name="card_emulation_two_sim_not_supported_message">Οι κάρτες SIM1, SIM2 δεν υποστηρίζουν τη λειτουργία προσομοίωσης κάρτας ΕΚΠ.</string>
     <string name="clear_motion_summary">Βελτίωση ροής βίντεο</string>
-    <string name="confirm_description">Επιβεβαίωση</string>
     <string name="custom_build_version">Προσαρμοσμένη έκδοση Build</string>
     <string name="data_saving_title">Αποθήκευση δεδομένων</string>
     <string name="data_usage_menu_cellular_data_control">Έλεγχος κυψελοειδών δεδομένων</string>
@@ -6035,7 +6062,6 @@ Bits ανά δείγμα"</string>
     <string name="status_imei_slot2">IMEI(Υποδοχή2)</string>
     <string name="tethering_apn_settings_summary">Ρύθμιση παραμέτρων APN για πρόσδεση</string>
     <string name="tethering_apn_settings_title">Ρυθμίσεις APN</string>
-    <string name="total_info_sub">και απενεργοποίηση δόνησης</string>
     <string name="two_cdma_dialog_msg">Oι θύρες 1 και 2 δεν μπορούν να υποστηρίξουν το CDMA ταυτόχρονα.</string>
     <string name="usb_bicr_summary">Εμφάνιση εικονικού CD-ROM που περιλαμβάνει χρήσιμο λογισμικό.</string>
     <string name="usb_ums_summary">Συνιστάται XP. Μεταφέρετε αρχεία μεταξύ του υπολογιστή σας και της συσκευής αποθήκευσης USB Android που διαθέτετε.</string>
