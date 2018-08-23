@@ -916,7 +916,6 @@ Bits ανά δείγμα"</string>
     <string name="bootloader_status_unlocked">Ξεκλείδωτο</string>
     <string name="bootloader_status_unlocked_info">Αυτή η συσκευή είναι ξεκλείδωτη</string>
     <string name="bootloader_summary">Κάντε flash για την συσκευή σας μέσω USB</string>
-    <string name="bootloader_unlock_webhome">https://unlock.update.miui.com</string>
     <string name="breathing_light_color_menu_title">Χρώμα φλας</string>
     <string name="breathing_light_color_summary">Χρώμα φλας κατά την λήψη νέας ειδοποίησης</string>
     <string name="breathing_light_freq_summary">Συχνότητα φλας όταν υπάρχουν νέες ειδοποιήσεις</string>
@@ -1554,7 +1553,6 @@ Bits ανά δείγμα"</string>
     <string name="dndm_auto_button_title">Επανάληψη ώρας του Μην Ενοχλείτε</string>
     <string name="dndm_auto_setting_group">Προγραμματισμένο</string>
     <string name="dndm_auto_time_setting">Ορισμός χρόνου</string>
-    <string name="dndm_auto_time_setting_summary">%1$s-%2$s</string>
     <string name="dndm_auto_time_turn_off">Προς</string>
     <string name="dndm_auto_time_turn_off_title">Αυτόματη απενεργοποίηση Μην Ενοχλείτε</string>
     <string name="dndm_auto_time_turn_on">Από</string>
@@ -2011,7 +2009,6 @@ Bits ανά δείγμα"</string>
     <string name="gadget_picker_title">Επιλογή gadget</string>
     <string name="gadget_state_off">απενεργοποιημένη</string>
     <string name="gadget_state_on">ενεργή</string>
-    <string name="gadget_state_template">%1$s %2$s</string>
     <string name="gadget_state_turning_off">απενεργοποίηση</string>
     <string name="gadget_state_turning_on">ενεργοποίηση</string>
     <string name="gadget_sync">Συγχρονισμός</string>
@@ -2321,7 +2318,6 @@ Bits ανά δείγμα"</string>
     <string name="lift_to_wake_title">Σηκώστε για ενεργοποίηση</string>
     <string name="line_breaking_summary">Βελτιστοποίηση αλλαγής γραμμής παραγράφου</string>
     <string name="line_breaking_title">Βελτιστοποίηση κειμένου</string>
-    <string name="link_speed">%1$d Mbps</string>
     <string name="list_bg_header_text">Εάν περιορίσετε την σύνδεση παρασκηνίου, οι νέες εφαρμογές δεν θα έχουν δυνατότητα σύνδεσης στο Ίντερνετ στο παρασκήνιο μετά την εγκατάσταση τους. Ενδέχεται να μην μπορούν να λάβουν μηνύματα ή να κατεβάζουν περιεχόμενο.</string>
     <string name="list_empty_text">Κενό</string>
     <string name="loading_notification_apps">Φόρτωση εφαρμογών…</string>
@@ -2677,7 +2673,6 @@ Bits ανά δείγμα"</string>
     <string name="memory_title">Διαθέσιμα: %1$s\u0009\u0009Σύνολο: %2$s</string>
     <string name="memory_usage">Χρήση μνήμης</string>
     <string name="memory_usage_apps">Μνήμη που χρησιμοποιείται από εφαρμογές</string>
-    <string name="memory_use_running_format">%1$s / %2$s</string>
     <string name="memory_use_summary">Χρησιμοποιήθηκε μέση μνήμη %1$s στο διάστημα των τελευταίων 3 ωρών</string>
     <string name="menu_cancel">Απόρριψη</string>
     <string name="menu_check">Εμπειρία</string>
@@ -2926,7 +2921,6 @@ Bits ανά δείγμα"</string>
     <string name="nfc_how_it_works_got_it">Το κατάλαβα</string>
     <string name="nfc_how_it_works_title">Πληρωμή στο τερματικό</string>
     <string name="nfc_more_title">Περισσότερα…</string>
-    <string name="nfc_payment_app_and_desc">%1$s - %2$s</string>
     <string name="nfc_payment_default">Προεπιλογή πληρωμής</string>
     <string name="nfc_payment_default_not_set">Δεν ρυθμίστηκε</string>
     <string name="nfc_payment_favor_default">Χρήση προεπιλεγμένης εφαρμογής πάντα</string>
@@ -3138,7 +3132,6 @@ Bits ανά δείγμα"</string>
     <string name="overlay_display_devices_title">Προσομείωση δευτερεύοντων προβολών</string>
     <string name="overlay_settings">Εμφάνιση πάνω σε άλλες εφαρμογές</string>
     <string name="owner_info_settings_edit_text_hint">Π.χ. Το Android του Μάκη.</string>
-    <string name="owner_info_settings_status">%1$d / %2$d</string>
     <string name="owner_info_settings_summary">Κανένα</string>
     <string name="owner_info_settings_title">Υπογραφή Οθόνης κλειδώματος</string>
     <string name="owner_space">Πρώτος χώρος</string>
@@ -3451,8 +3444,6 @@ Bits ανά δείγμα"</string>
     <string name="private_sms_recording_intro_header">Σχεδιάστε ένα μοτίβο ξεκλειδώματος:</string>
     <string name="private_sms_reset_by_account">Για επαναφορά του κωδικού σας, συνδεθείτε στο Mi Λογαριασμό σας</string>
     <string name="process_dex2oat_label">Βελτιστοποίηση εφαρμογών</string>
-    <string name="process_format">%1$s (%2$d)</string>
-    <string name="process_kernel_label">Android OS</string>
     <string name="process_mediaserver_label">Mediaserver</string>
     <string name="process_provider_in_use_description">Ο πάροχος %1$s χρησιμοποιείται.</string>
     <string name="process_service_in_use_description">Η υπηρεσία %1$s χρησιμοποιείται.</string>
@@ -4076,7 +4067,6 @@ Bits ανά δείγμα"</string>
     <string name="security_encryption_attention_3">Θα πρέπει να ορίσετε ένα νέο κωδικό οθόνης κλειδώματος.</string>
     <string name="security_encryption_attention_4">Βεβαιωθείτε πως θυμάστε τον κωδικό οθόνης κλειδώματος, αλλιώς θα πρέπει να κάνετε μια πλήρη επαναφορά και διαγραφή όλων των δεδομένων από την συσκευή.</string>
     <string name="security_encryption_attention_info">Μπορείτε να κρυπτογραφήσετε λογαριασμούς, ρυθμίσεις, κατεβασμένες εφαμογές και τα δεδομένα τους, πολυμέσα, και άλλα αρχεία.</string>
-    <string name="security_encryption_attention_symbol">•</string>
     <string name="security_encryption_attention_title">Σημαντικό</string>
     <string name="security_encryption_close_dialog_info">Επιλέγοντας να μην κρυπτογραφήσετε την συσκευή με κωδικό οθόνης κλειδώματος, ορισμένες υπηρεσίες Google μπορεί να μην είναι διαθέσιμες.</string>
     <string name="security_encryption_close_dialog_title">Επιστροφή στον προεπιλεγμένο κωδικό προστασίας</string>
@@ -4329,7 +4319,6 @@ Bits ανά δείγμα"</string>
     <string name="sim_reenter_new">Πληκτρολογήστε ξανά το νέο PIN</string>
     <string name="sim_select_card">Επιλογή κάρτας SIM</string>
     <string name="sim_selection_required_pref">Απαιτείται επιλογή</string>
-    <string name="sim_settings_summary">%1$s - %2$s</string>
     <string name="sim_settings_title">Κάρτες SIM</string>
     <string name="sim_setup_wizard_title">Κάρτες SIM</string>
     <string name="sim_signal_strength">%1$d dBm %2$d asu</string>
@@ -4343,7 +4332,6 @@ Bits ανά δείγμα"</string>
     <string name="size_kilo_byte">KB</string>
     <string name="size_mega_byte">MB</string>
     <string name="size_peta_byte">PB</string>
-    <string name="size_suffix">%1$s%2$s</string>
     <string name="size_tera_byte">TB</string>
     <string name="skip_anyway_button_label">Παράλειψη</string>
     <string name="skip_label">Παράλ</string>
@@ -4421,7 +4409,6 @@ Bits ανά δείγμα"</string>
     <string name="status_bar_settings_all_app_display_loading">Περιμένετε μια στιγμή…</string>
     <string name="status_bar_settings_app_notification_preferences">Ρυθμίσεις εφαρμογής</string>
     <string name="status_bar_settings_basic_settings">Βασικές ρυθμίσεις</string>
-    <string name="status_bar_settings_carrier_sim">"SIM %1$s: "</string>
     <string name="status_bar_settings_custom_carrier">Επεξεργασία ονόματος πάροχου</string>
     <string name="status_bar_settings_custom_wifi_name">Επεξεργασία ονόματος Wi-Fi</string>
     <string name="status_bar_settings_enable_notification">Εμφάνιση ειδοποιήσεων</string>
@@ -4656,7 +4643,6 @@ Bits ανά δείγμα"</string>
     <string name="suggestions_title">Προτάσεις</string>
     <string name="sum_carrier_select">Επιλέξτε μια εταιρεία δικτύου</string>
     <string name="summary_divider_text">", "</string>
-    <string name="summary_range_symbol_combination">%1$s - %2$s</string>
     <string name="summary_range_verbal_combination">%1$s έως %2$s</string>
     <string name="super_resolution_access_title">Προσβάσιμες εφαρμογές</string>
     <string name="super_resolution_desc">Μετατρέπει τις εικόνες σε πιο ακριβείς μέσω ενός AI αλγόριθμου</string>
@@ -5650,11 +5636,9 @@ Bits ανά δείγμα"</string>
     <string name="wifi_security_eap">802.1x EAP</string>
     <string name="wifi_security_none">Χωρίς</string>
     <string name="wifi_security_passpoint">Passpoint</string>
-    <string name="wifi_security_psk_generic">@string/wifi_security_wpa_wpa2</string>
     <string name="wifi_security_short_WAPI_CERT">WAPI CERT</string>
     <string name="wifi_security_short_WAPI_PSK">WAPI PSK</string>
     <string name="wifi_security_short_eap">802.1x</string>
-    <string name="wifi_security_short_psk_generic">@string/wifi_security_short_wpa_wpa2</string>
     <string name="wifi_security_short_wep">WEP</string>
     <string name="wifi_security_short_wpa">WPA</string>
     <string name="wifi_security_short_wpa2">WPA2</string>
