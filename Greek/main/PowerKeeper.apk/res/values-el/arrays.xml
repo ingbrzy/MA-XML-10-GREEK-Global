@@ -12,6 +12,10 @@
         <item>Ενεργές εφαρμογές</item>
         <item>Εφαρμογές υπό καταστολή</item>
     </string-array>
+    <string-array name="emode_app_groups">
+        <item>Εφαρμογές συστήματος</item>
+        <item>Άλλες εφαρμογές</item>
+    </string-array>
     <string-array name="thermal_entries">
         <item>Προεπιλεγμένη λειτουργία ελέγχου θερμοκρασίας</item>
         <item>Λειτουργία απόδοσης</item>

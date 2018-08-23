@@ -81,10 +81,12 @@
     <string name="daily_forecast_add_city_message">Παρακολουθήστε τον καιρό σε %1$s για μια πιο λεπτομεριακή πρόγνωση.</string>
     <string name="daily_forecast_add_city_title">Παρακολουθήστε τον καιρό σε %1$s</string>
     <string name="daily_forecast_detail_date">d/Μ</string>
+    <string name="daily_forecast_detail_date_format">%1$s - %2$s</string>
     <string name="daily_forecast_no_data">"Αδυναμία απόκτησης πληροφοριών καιρού
 Τραβήξτε προς τα κάτω για ανανέωση ή ελέγξτε τις ρυθμίσεις δικτύου"</string>
     <string name="data_provided_by">Τα δεδομένα παρέχονται από</string>
     <string name="edit_city">Διαχείριση πόλης</string>
+    <string name="empty">" "</string>
     <string name="eu_region_version_first_start_network_msg">Με την χρήση αυτού του προϊόντος, αποδέχεστε ότι η Xiaomi θα συλλέξει, θα επεξεργαστεί, και θα χρησιμοποιήσει τις προσωπικές σας πληροφορίες, όπως τις συντεταγμένες των πόλεων που έχετε αναζητήσει, και άλλους τύπους δεδομένων συγκεκριμένων με την Πολιτική Απορρήτου μας. Αναφερθείτε στην Πολιτική Απορρήτου μας για να μάθετε ως συλλέγουμε και επεξεργαζόμαστε πληροφορίες. Πατώντας \"Αποδοχή\", αποδέχεστε τους %1$s και %2$s.</string>
     <string name="feedback_heavy_rain">Έντονη βροχή</string>
     <string name="feedback_heavy_snow">Χιονόπτωση</string>
@@ -97,7 +99,11 @@
     <string name="first_start_network_title">Σύνδεση Ίντερνετ και πρόσβαση τοποθεσίας</string>
     <string name="global_aqi">ΔΠΑ: %1$s %2$s</string>
     <string name="hourly_forcast_now">Τώρα</string>
+    <string name="hourly_forecast_bottom_aqi_chinese">%1$s %2$s</string>
+    <string name="hourly_forecast_bottom_aqi_else">%1$s</string>
     <string name="hourly_forecast_date">d/Μ</string>
+    <string name="hourly_forecast_title_24_hours_desc">24-ωρη Πρόγνωση</string>
+    <string name="hourly_forecast_title_hourly_desc">Ωριαία πρόγνωση</string>
     <string name="index_item_experience_now">Εγκατάσταση τώρα</string>
     <string name="index_item_install_dialog" />
     <string name="index_item_install_dialog_cancel" />
@@ -108,10 +114,12 @@
     <string name="indices_title_feel">Πραγματική αίσθηση</string>
     <string name="indices_title_pressure">Πίεση</string>
     <string name="install">Εγκατάσταση</string>
+    <string name="install_progress">%1$s%%</string>
     <string name="international_details_pressure_title">ΠΙΕΣΗ</string>
     <string name="international_details_real_feel_title">REAL FEEL®</string>
     <string name="international_details_title">Λεπτομέρειες</string>
     <string name="international_details_uv_index_title">ΔΕΙΚΤΗΣ UV</string>
+    <string name="international_details_wind_connect">%1$s %2$s</string>
     <string name="international_details_wind_title">ΑΝΕΜΟΣ</string>
     <string name="it_is_going_to_rain">Θα βρέξει</string>
     <string name="locate_fail_detail_err">"Αδυναμία εντοπισμού συσκευής
@@ -136,6 +144,7 @@
     <string name="network_unavailable">Αδυναμία σύνδεσης στο δίκτυο.</string>
     <string name="night_not_disturb_settings_summary">Σίγαση των ειδοποιήσεων μεταξύ 23:00 και 07:00</string>
     <string name="night_not_disturb_settings_title">Μην ενοχλείτε την νύχτα</string>
+    <string name="no_data">Δεν υπάρχουν δεδομένα</string>
     <string name="no_network_btn">Προσπαθήστε ξανά</string>
     <string name="no_vote_ratio">Κατά %1$s%%</string>
     <string name="open">Άνοιγμα</string>
@@ -182,6 +191,7 @@
     <string name="share_menu_title">Κοινοποίηση</string>
     <string name="share_subject">Κοινοποίηση</string>
     <string name="share_weather_desc">\#MIUI Καιρός#Σήμερα %1$s %2$s</string>
+    <string name="share_weather_desc_alert">%1$s%2$s</string>
     <string name="share_weather_desc_split">,</string>
     <string name="share_weather_save_pic_fail">Αδυναμία λήψης στιγμιότυπου οθόνης</string>
     <string name="some_where_on_earth">Κάπου στη Γη</string>

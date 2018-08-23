@@ -369,7 +369,7 @@
     <string name="tab_title_day">Ημέρα</string>
     <string name="tab_title_month">Μήνας</string>
     <string name="tab_title_week">Εβδομάδα</string>
-    <string name="talk_back_read_date">Τρέχουσα ημερομηνία: %1$s (%2$s ανάλογα με το σεληνιακό ημερολόγιο).</string>
+    <string name="talk_back_read_date">Τρέχουσα ημερομηνία: %1$s (%2$s σύμφωνα με το σεληνιακό ημερολόγιο).</string>
     <string name="template_announce_item_index">Συμβάν %1$s από %2$s.</string>
     <string name="template_week_num">Εβδομάδα%1$s</string>
     <string name="time_zone">Ζώνη Ώρας</string>
@@ -425,5 +425,9 @@
     <string name="xiaomi_calendar_display_name">Ημερολόγιο Mi Λογαριασμού</string>
     <string name="yearly">Ετησίως (κάθε %s)</string>
     <string name="yearly_plain">Ετησίως</string>
+    <string name="close_alarm">Απενεργοποίηση</string>
     <string name="discard_label">Ακύρωση</string>
+    <string name="guide_card_close">Κλείσιμο</string>
+    <string name="login_failed_toast">Αδυναμία σύνδεσης, ανανεώστε και προσπαθήστε ξανά</string>
+    <string name="talk_back_setting">Ρυθμίσεις</string>
 </resources>

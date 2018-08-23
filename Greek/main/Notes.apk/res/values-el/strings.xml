@@ -114,6 +114,7 @@
     <string name="menu_title_select_folder">Επιλογή φακέλου</string>
     <string name="menu_unhide">Εμφάνιση</string>
     <string name="menu_unstick">Ξεκαρφίτσωμα</string>
+    <string name="micloud_state_total_count">%1$s</string>
     <string name="not_now">Όχι τώρα</string>
     <string name="note_description_content">Οι Σημειώσεις είναι ένα σπουδαίο εργαλείο για να καταγράφετε τις ιδέες σας. Έχει ενσωματωμένες υπενθυμίσεις και συγχρονίζει τα αντικείμενά σας στο Mi Cloud ώστε να έχετε πρόσβαση σε αυτά από οπουδήποτε, οποτεδήποτε. Βεβαιωθείτε πως δεν χρειάζεστε πλέον αυτές τις λειτουργίες πριν την διαγραφή την εφαρμογής.</string>
     <string name="note_description_title">Σχετικά με Σημειώσεις</string>
@@ -125,6 +126,7 @@
     <string name="note_sort_way">Επιλέξτε πως θέλετε να ταξινομήσετε τις σημειώσεις σας</string>
     <string name="notealert_enter">Άνοιγμα σημείωσης</string>
     <string name="notealert_ok">Απόρριψη</string>
+    <string name="notelist_string_info">…</string>
     <string name="notify_alarm_title">Υπενθύμιση σημείωσης</string>
     <string name="permdesc_accessNote">Κακόβουλες εφαρμογές μπορεί να έχουν πρόσβαση στα προσωπικά σας δεδομένα.</string>
     <string name="permlab_accessNote">Πρόσβαση σημειώσεων</string>
@@ -159,6 +161,8 @@
     <string name="search_setting_description">Αναζήτηση κειμένου στις σημειώσεις σας</string>
     <string name="select_account_prompt">Συγχρονισμός σημειώσεων</string>
     <string name="set_alarm_description">Ορισμός ξυπνητηριού</string>
+    <string name="setting_other">ΑΛΛΑ</string>
+    <string name="setting_privacy">Πολιτική Απορρήτου</string>
     <string name="snippet_audio_stub">Φωνητική σημείωση</string>
     <string name="snippet_image_stub">Σημείωση εικόνας</string>
     <string name="snippet_image_template">[Εικόνα %1$s]</string>
@@ -197,7 +201,6 @@
     <string name="toast_cancel_to_insert_image">Αδυναμία προσθήκης εικόνας.</string>
     <string name="toast_message_add_image_fail">Αδυναμία προσθήκης εικόνας</string>
     <string name="toast_notes_delete_success">Επιτυχής διαγραφή</string>
-    <string name="toast_notes_hidden">Επιτυχής απόκρυψη</string>
     <string name="toast_notes_hidden_count">Αποκρύφθηκαν επιτυχώς %1$s</string>
     <string name="toast_notes_unhidden">Επιτυχής επανεμφάνιση</string>
     <string name="toast_notes_unhidden_count">Επανεμφανίστηκαν επιτυχώς %1$s</string>
@@ -221,4 +224,5 @@
     <string name="unknown_source">Άγνωστη πηγή</string>
     <string name="widget_content_loading">Περιμένετε μια στιγμή…</string>
     <string name="widget_havenot_content">Πατήστε για δημιουργία σημείωσης. Πατήστε παρατεταμένα το widget για διόρθωση μεγέθους.</string>
+    <string name="toast_notes_hidden">Επιτυχής απόκρυψη</string>
 </resources>

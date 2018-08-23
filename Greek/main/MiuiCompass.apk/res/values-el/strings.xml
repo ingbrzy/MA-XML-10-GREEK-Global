@@ -61,4 +61,6 @@
     <string name="open_perm_title">Απαιτούνται άδειες</string>
     <string name="cancel">Ακύρωση</string>
     <string name="allow">Αποδοχή</string>
+    <string name="preference_other">Άλλα</string>
+    <string name="preference_privacy_title">Πολιτική Απορρήτου</string>
 </resources>

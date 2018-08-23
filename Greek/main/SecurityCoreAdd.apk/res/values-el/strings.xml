@@ -68,6 +68,7 @@
     <string name="xspace_setting_label">Ρυθμίσεις διπλότυπης εφαρμογής</string>
     <string name="xspace_account">Λογαριασμοί διπλότυπων εφαρμογών</string>
     <string name="declare_dialog_title">Σχετικά με διπλότυπες εφαρμογές</string>
+    <string name="menu_item_about_privacy_title">Πολιτική Απορρήτου</string>
     <string name="stop_xspace_alert_title">Γίνεται διαγραφή διπλότυπων λογαριασμών εφαρμογών</string>
     <string name="stop_xspace_alert_content">Διαγράψατε όλες τις διπλότυπες εφαρμογές. Διαγραφή διπλότυπων λογαριασμών εφαρμογών και δεδομένων εφαρμογών επίσης? Μετά από αυτό, θα πρέπει να δημιουργήσετε ξανά διπλότυπες εφαρμογές όταν τις ξαναχρειαστείτε.</string>
     <string name="xspace_loading_msg">Φόρτωση εφαρμογών…</string>
@@ -398,4 +399,37 @@
     <string name="can_not_switch_when_green_kid_active">Η εναλλαγή σε Δεύτερο χώρο έχει περιοριστεί από γονικούς ελέγχους</string>
     <string name="need_network_when_bind">Συνδεθείτε στο δίκτυο πριν προσθέσετε συσκευές</string>
     <string name="this_function_can_not_use_in_second_space">Αυτή η λειτουργία μπορεί να χρησιμοποιηθεί μόνο στον Πρώτο χώρο</string>
+    <string name="enterprise_mode">Λειτουργία επιχείρησης</string>
+    <string name="ent_app_verified">Φαίνεται ότι έχετε εγκατεστημένες εφαρμογές επιχείρησης στη συσκευή σας. Ενεργοποίηση Λειτουργίας επιχείρησης;</string>
+    <string name="activate_ent_mode">Ενεργοποίηση Λειτουργίας επιχείρησης</string>
+    <string name="about_ent_mode">Σχετικά με τη Λειτουργία επιχείρησης</string>
+    <string name="ent_mode_activated">Έγινε ενεργοποίηση Λειτουργίας επιχείρησης</string>
+    <string name="ent_activation_hint">Εισαγωγή εταιρικού κωδικού μαζί με τον κωδικό άδειας για ενεργοποίηση Λειτουργίας επιχείρησης. Στη συνέχεια θα ενεργοποιηθούν οι προσαρμοσμένες υπηρεσίες επιχείρησης.</string>
+    <string name="ent_activation_hint_whit_licence">"Ενεργοποίηση Λειτουργίας επιχείρησης για να ενεργοποιηθούν οι προσαρμοσμένες υπηρεσίες επιχείρησης.
+ Βεβαιωθείτε ότι το όνομα της εταιρείας σας είναι σωστό. Διαβάστε και συμφωνήστε με τις σχετικές Πολιτικές Απορρήτου πριν την ενεργοποίηση."</string>
+    <string name="ent_agency_code">Εταιρικός κωδικός</string>
+    <string name="ent_agency_code_hint">Εισαγωγή εταιρικού κωδικού</string>
+    <string name="ent_agency_code_invalid">Ο εταιρικός κωδικός που εισαγάγατε δεν είναι έγκυρος.</string>
+    <string name="ent_licence_code_invalid">Ο κωδικός άδειας που εισαγάγατε δεν είναι έγκυρος.</string>
+    <string name="ent_licence_code">Κωδικός άδειας</string>
+    <string name="ent_licence_code_hint">Εισαγάγετε κωδικό άδειας</string>
+    <string name="ent_next_step">Επόμενο</string>
+    <string name="ent_get_code_hint">Μπορείτε να λάβετε τον εταιρικό κωδικό και τον κωδικό άδειας από τον προϊστάμενό σας</string>
+    <string name="ent_agree_privacy_policy">Έχω διαβάσει και αποδέχομαι την Πολιτική Απορρήτου</string>
+    <string name="ent_activation">Ενεργοποίηση</string>
+    <string name="ent_activating">Γίνεται ενεργοποίηση…</string>
+    <string name="ent_installing">Εγκατάσταση…</string>
+    <string name="ent_network_error">Αδυναμία σύνδεσης στο δίκτυο. Ελέγξτε τις ρυθμίσεις δικτύου και προσπαθήστε ξανά.</string>
+    <string name="ent_invalid_qr">Μη έγκυρος QR κωδικός.</string>
+    <string name="ent_invalid_agency">Μη έγκυρος εταιρικός κωδικός.</string>
+    <string name="ent_privacy_policy_notice">*Τα προσωπικά δεδομένα σε αυτή τη λειτουργία μαζεύονται σύμφωνα με τις καθιερωμένες πολιτικές της εταιρίας σας. Η Xiaomi δεν συλλέγει τα προσωπικά σας δεδομένα σε αυτή τη λειτουργία.</string>
+    <string name="ent_confirm_dialog_content">Δεν θα είστε σε θέση να επανέλθετε στην παρούσα κατάσταση του συστήματός σας μετά την ενεργοποίηση της Λειτουργίας επιχείρησης. Ωστόσο, θα αποθηκευτούν όλα σας τα δεδομένα σε αυτή τη συσκευή. Θα πρέπει να επανεκκινήσετε τη συσκευή σας για να ενεργοποιήσετε τη Λειτουργία επιχείρησης. Ενεργοποίηση τώρα;</string>
+    <string name="ent_error_dialog_content">Τουλάχιστον ένας από τους κωδικούς που εισαγάγατε είναι λανθασμένος. Ελέγξτε τον εταιρικό κωδικό και τον κωδικό άδειας, και εισαγάγετέ τους ξανά.</string>
+    <string name="ent_download_install_dialog_content">Θα πρέπει να εγκαταστήσετε συνεργαζόμενες εφαρμογές για να ενεργοποιήσετε τη λειτουργία επιχείρησης. Εγκατάσταση τώρα;</string>
+    <string name="ent_download_install_dialog_title">Λήψη συνεργαζόμενων εφαρμογών</string>
+    <string name="ent_downloading_message">Λήψη %d%%</string>
+    <string name="install">Εγκατάσταση</string>
+    <string name="install_error">Αδυναμία εγκατάστασης. Προσπαθήστε ξανά.</string>
+    <string name="ent_install_dialog_content">Εγκατάσταση εφαρμογών και επανεκκίνηση της συσκευής σας τώρα;</string>
+    <string name="ent_disallow_running">Απαγορεύεται το τρέξιμο αυτής της εφαρμογής</string>
 </resources>

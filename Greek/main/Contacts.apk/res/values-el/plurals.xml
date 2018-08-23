@@ -36,6 +36,10 @@
         <item quantity="other">Έγινε εισαγωγή %1$d επαφών</item>
         <item quantity="one">Έγινε εισαγωγή %1$d επαφής</item>
     </plurals>
+    <plurals name="device_import_progress_toast_plurals">
+        <item quantity="other">Έγινε εισαγωγή %1$d επαφών</item>
+        <item quantity="one">Έγινε εισαγωγή %1$d επαφής</item>
+    </plurals>
     <plurals name="dlg_add_blacklist">
         <item quantity="other">Αποκλεισμό %1$d αριθμών;</item>
         <item quantity="one">Αποκλεισμό %1$d αριθμού;</item>

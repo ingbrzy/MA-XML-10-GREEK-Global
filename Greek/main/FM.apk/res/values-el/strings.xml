@@ -12,6 +12,7 @@
     <string name="menu_save_station_presets">Προσθήκη στις προεπιλογές</string>
     <string name="menu_speaker">Αλλαγή σε μεγάφωνο</string>
     <string name="menu_headset">Αλλαγή στα ακουστικά</string>
+    <string name="menu_privacy">Πολιτική Απορρήτου</string>
     <string name="menu_exit">Έξοδος</string>
     <string name="dialog_sleep_title">Ρύθμιση χρονοδιακόπτη</string>
     <string name="search_dialog_title">Σάρωση σταθμών</string>

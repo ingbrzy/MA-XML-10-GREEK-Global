@@ -148,6 +148,7 @@
     <string name="shutdown_alarm_enable_summary">Το ξυπνητήρι θα ηχεί όταν το τηλέφωνο είναι εκτός λειτουργίας</string>
     <string name="shutdown_alarm_title">Απενεργοποίηση ξυπνητηριού</string>
     <string name="silent_alarm_summary">Αθόρυβο</string>
+    <string name="skip_alarm_date_format">%1$s (%2$s)</string>
     <string name="skip_alarm_once_hint">Απενεργοποίηση μία φορά σε %s</string>
     <string name="slider_text">Σάρωση προς τα επάνω για απενεργοποίηση</string>
     <string name="snooze_confirm_cancel">Κατάργηση ξυπνητηριού</string>
@@ -156,6 +157,7 @@
     <string name="start_up">Εκκίνηση</string>
     <string name="stopwatch_lap_empty_text">Δεν υπάρχουν γύροι</string>
     <string name="stopwatch_title">Χρονόμετρο</string>
+    <string name="symbol_colon">:</string>
     <string name="system_time_setting">Ρυθμίσεις</string>
     <string name="system_time_settings_category_title">Ρυθμίσεις ώρας</string>
     <string name="temperature_unit">%1$s°</string>
@@ -174,6 +176,7 @@
     <string name="timer_alert_type_rain">Ψιλόβροχο</string>
     <string name="timer_alert_type_stove_fire">Εστία φωτιάς</string>
     <string name="timer_alert_type_summer_night">Καλοκαιρινή νύχτα</string>
+    <string name="timer_can_continue_in_timer">Ανίξτε τον Χρονοδιακόπτη για συνέχεια</string>
     <string name="timer_cancel_hint">Διακοπή</string>
     <string name="timer_cancel_timer">Ακύρωση αντίστροφης μέτρησης</string>
     <string name="timer_clock_alert_text">Ορισμός αντίστροφης μέτρησης</string>
@@ -183,6 +186,7 @@
     <string name="timer_end_time_format">HH:mm dd MMM</string>
     <string name="timer_end_time_format_today">HH:mm</string>
     <string name="timer_got_it">OK</string>
+    <string name="timer_is_paused">Ο χρονοδιακόπτης είναι σε παύση</string>
     <string name="timer_item_duration_display">%1$d λεπτά %2$d δευτερόλεπτα</string>
     <string name="timer_item_label_hint">Όνομα αντίστροφης μέτρησης</string>
     <string name="timer_item_picker_hour">Ω</string>

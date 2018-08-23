@@ -95,6 +95,7 @@
     <string name="error_sdcard_unmounted">Εισαγωγή κάρτας SD τώρα</string>
     <string name="record_back_pressed_hint">Για διακοπή εγγραφής, αγγίξτε Πίσω ξανά</string>
     <string name="record_mark_point">Επιλογή %s</string>
+    <string name="record_format_preference_title">Διαμόρφωση Ηχογράφησης</string>
     <string name="record_quliaty_preference_title">Ποιότητα ηχογράφησης</string>
     <string name="cloud_record_tip">Συγχρονισμός ηχογραφήσεων με το Mi Cloud.</string>
     <string name="cloud_record_open">Συγχρονισμός ηχογραφήσεων</string>
@@ -152,4 +153,5 @@
     <string name="head_set_tip_dialog_ok">Κατάλαβα</string>
     <string name="rename_fail_tip">Αδυναμία μετονομασίας. Ένα αντικείμενο με αυτό το όνομα υπάρχει ήδη.</string>
     <string name="dialog_privacy_revoke_tips">"Μετά την ανάκληση εξουσιοδότησης, η εφαρμογή θα διακόψει την συλλογή δεδομένων, και όλα τα σχετικά δεδομένα θα διαγραφούν από τους διακομιστές. Αυτό ενδέχεται να καταστήσει άχρηστη την εφαρμογή. Ανάκληση εξουσιοδότησης παρ' όλα αυτά? Για την εξασφάλιση της ασφάλειας του λογαριασμού σας, συνδεθείτε στο i.mi.com πριν την ανάκληση εξουσιοδότησης για τις υπηρεσίες Mi Cloud."</string>
+    <string name="privacy_policy_title">Πολιτική Απορρήτου</string>
 </resources>

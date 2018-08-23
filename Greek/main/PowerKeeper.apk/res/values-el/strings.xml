@@ -4,7 +4,8 @@
     <string name="error_filename_too_long">Το όνομα αρχείου είναι πολύ μακρύ.</string>
     <string name="power_config_select_apps_title">Εφαρμογές</string>
     <string name="power_config_event_delete">Διαγραφή</string>
-    <string name="hide_mode_desc">Όταν μια εφαρμογή εκτελείται στο παρασκήνιο, θα γίνεται παρακολούθηση των ενεργειών της για μείωση χρήσης της μπαταρίας.</string>
+    <string name="hide_mode_desc"><font color="#000000">Όταν μια εφαρμογή τρέχει στο παρασκήνιο, οι δραστηριότητες της θα παρακολουθούνται για μείωση χρήσης της μπαταρίας. Αυτή η λειτουργία θα λαμβάνει και θα χρησιμοποιεί δεδομένα του χρήστη σχετικά με %s</font></string>
+    <string name="privacy">Πολιτική Απορρήτου</string>
     <string name="power_hide_mode_title">Μπαταρία &amp; απόδοση</string>
     <string name="power_config_apps">Εξοικονόμηση μπαταρίας</string>
     <string name="app_list_title">Επιλογή εφαρμογών</string>
@@ -12,6 +13,7 @@
     <string name="about_hide_mode">Σχετικά με Εξοικονόμηση μπαταρίας</string>
     <string name="show_system_app">Εμφάνιση εφαρμογών συστήματος</string>
     <string name="hide_system_app">Απόκρυψη εφαρμογών συστήματος</string>
+    <string name="about_extreme_mode">Ακραία εξοικονόμηση μπαταρίας</string>
     <string name="scenario_policies_title">Έξυπνα σενάρια</string>
     <string name="config_scenario_policies_title">Σενάρια</string>
     <string name="scenario_policies_summary">Εφαρμογή διαφορετικών τρόπων εξοικονόμησης ενέργειας για διαφορετικά σενάρια.</string>
@@ -89,4 +91,6 @@
     <string name="appconfig_active_app_dialog_title">Διαχείριση ενεργών εγαρμογών</string>
     <string name="config_classify">Ταξινόμηση με τις ρυθμίσεις εφαρμογής</string>
     <string name="active_classify">Ταξινόμηση με κατάσταση δραστηριότητας</string>
+    <string name="extreme_mode_max_item_alert">Μόνο 4 εφαρμογές μπορούν να επιλεχθούν για να τρέχουν στο παρασκήνιο σε λειτουργία ακραίας εξοικονόμησης μπαταρίας</string>
+    <string name="message_i_know">Γνωρίζω</string>
 </resources>

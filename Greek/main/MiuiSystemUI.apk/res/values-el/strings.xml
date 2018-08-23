@@ -52,6 +52,7 @@
     <string name="accessibility_camera_button">Κάμερα</string>
     <string name="accessibility_carrier_network_change_mode">Γίνεται αλλαγή παρόχου δικτύου.</string>
     <string name="accessibility_cast_name">Έγινε σύνδεση σε %s.</string>
+    <string name="accessibility_casting">@string/quick_settings_casting</string>
     <string name="accessibility_casting_turned_off">Διακόπηκε η μετάδοση οθόνης.</string>
     <string name="accessibility_cell_data">Δεδομένα κινητής τηλεφωνίας</string>
     <string name="accessibility_cell_data_off">Δεδομένα κινητής τηλεφωνίας ανενεργά</string>
@@ -98,6 +99,9 @@
     <string name="accessibility_enter_lock_wallpaper">Πατήστε για άνοιγμα της ταπετσαρίας Καρουζέλ</string>
     <string name="accessibility_ethernet_connected">Ethernet συνδέθηκε.</string>
     <string name="accessibility_ethernet_disconnected">Ethernet αποσυνδέθηκε.</string>
+    <string name="accessibility_fingerprint_dialog_app_icon">Εικονίδιο εφαρμογών</string>
+    <string name="accessibility_fingerprint_dialog_fingerprint_icon">Εικονίδιο δακτυλικού αποτυπώματος</string>
+    <string name="accessibility_fingerprint_dialog_help_area">Ζώνη μηνύματος βοήθειας</string>
     <string name="accessibility_gps_acquiring">Γίνεται απόκτηση GPS.</string>
     <string name="accessibility_gps_enabled">GPS ενεργό.</string>
     <string name="accessibility_home">Αρχική</string>
@@ -288,6 +292,7 @@
     <string name="available_via_passpoint">Διαθέσιμο μέσω %1$s</string>
     <string name="back">Πίσω</string>
     <string name="battery">Μπαταρία</string>
+    <string name="battery_can_use_time">Περίπου %s απομένει</string>
     <string name="battery_detail_charging_summary">Η Εξοικονόμηση μπαταρίας δεν είναι διαθέσιμη κατά την φόρτιση</string>
     <string name="battery_detail_switch_summary">Μειώνει την απόδοση και δεδομένα παρασκηνίου</string>
     <string name="battery_detail_switch_title">Εξοικονόμηση μπαταρίας</string>
@@ -515,10 +520,17 @@ Bits ανά δείγμα"</string>
     <string name="divider_menu_close">Κλείσιμο</string>
     <string name="divider_menu_select_apps">Επιλογή</string>
     <string name="divider_menu_swap_task">Εναλλαγή</string>
+    <string name="dlg_cancel">Ακύρωση</string>
+    <string name="dlg_confirm">Ενεργοποίηση</string>
     <string name="dlg_confirm_kill_storage_users_text">Εάν ενεργοποιήσετε τον αποθηκευτικό χώρο USB, ορισμένες εφαρμογές σε χρήση θα διακοπούν και μπορεί να μην είναι διαθέσιμες μέχρι την απενεργοποίηση του USB αποθηκευτικού χώρου.</string>
     <string name="dlg_confirm_kill_storage_users_title">Ενεργοποίηση αποθηκευτικού χώρου USB</string>
     <string name="dlg_error_title">Ανεπιτυχής επιχείρηση USB</string>
     <string name="dlg_ok">OK</string>
+    <string name="dlg_summary_close_app">Περιορισμός δραστηριότητας παρασκηνίου και ειδοποιήσεων</string>
+    <string name="dlg_summary_close_theme">Περιορισμός κινούμενων θεμάτων</string>
+    <string name="dlg_summary_close_wifi">Απενεργοποίηση Wi-Fi, Bluetooth, και φορητό σημείο πρόσβασης</string>
+    <string name="dlg_summary_nfc">Απενεργοποίηση NFC</string>
+    <string name="dlg_summary_title">Η ακραία εξοικονόμηση μπαταρίας σταματά όλες τις δραστηριότητες στο παρασκήνιο αφού φύγετε από την εφαρμογή και επιστρέψετε στην Αρχική οθόνη. Εάν θέλετε μια εφαρμογή να τρέχει στο παρασκήνιο, προσθέστε την στις εξαιρέσεις παρασκηνίου.</string>
     <string name="dnd_is_off">Μην ενοχλείτε ανενεργό</string>
     <string name="do_disclosure_generic">Η συσκευή αυτή διαχειρίζεται από τον οργανισμό σας</string>
     <string name="do_disclosure_with_name">Η συσκευή αυτή διαχειρίζεται από %s</string>
@@ -542,6 +554,7 @@ Bits ανά δείγμα"</string>
     <string name="enable_bluetooth_message">Για να συνδέσετε πληκτρολόγιο στο tablet σας, ενεργοποιήστε το Bluetooth πρώτα.</string>
     <string name="enable_bluetooth_title">Ενεργοποίηση Bluetooth τώρα;</string>
     <string name="enable_demo_mode">Ενεργοποίηση λειτουργίας επίδειξης</string>
+    <string name="enable_extreme_power_save_mode">Ακραία εξοικονόμηση μπαταρίας</string>
     <string name="enable_freeform_support">Ενεργοποίηση παραθύρων ελεύθερης μορφής</string>
     <string name="enable_freeform_support_summary">Ενεργοποίηση υποστήριξης για πειραματικά παράθυρα ελεύθερης μορφής.</string>
     <string name="enable_opengl_traces_title">Ενεργοποίηση OpenGL ίχνων</string>
@@ -628,6 +641,7 @@ Bits ανά δείγμα"</string>
     <string name="fingerprint_add_text">Η λειτουργία δακτυλικού αποτυπώματος ενημερώθηκε. Προσθέστε το δακτυλικό σας αποτύπωμα ξανά.</string>
     <string name="fingerprint_add_title">Προσθήκη δακτυλικού αποτυπώματος</string>
     <string name="fingerprint_again_identified_msg">Το δακτυλικό σας αποτύπωμα είναι ενεργό τώρα. Χρησιμοποιήστε το για ξεκλείδωμα της συσκευής, ή εισαγάγετε κωδικό.</string>
+    <string name="fingerprint_dialog_touch_sensor">Αγγίξτε τον αισθητήρα δακτυλικού αποτυπώματος</string>
     <string name="fingerprint_enter_second_psw_msg">Εισαγάγετε τον κωδικό Δεύτερου χώρου μετά την επανεκκίνηση της συσκευής για την δυνατότητα χρήσης δακτυλικού αποτυπώματος</string>
     <string name="fingerprint_enter_second_psw_msg_oldman">Αδυναμία εισόδου στον Δεύτερο χώρο κατά τη διάρκεια Απλής λειτουργίας</string>
     <string name="fingerprint_enter_second_psw_title">Εισαγωγή κωδικού Δεύτερου χώρου</string>
@@ -797,6 +811,10 @@ Bits ανά δείγμα"</string>
     <string name="keyguard_charged">Φορτίστηκε</string>
     <string name="keyguard_charging_info_battery_used_time_text">Ενεργή μπαταρία</string>
     <string name="keyguard_charging_info_click_to_detail">Προβολή λεπτομερειών</string>
+    <string name="keyguard_charging_info_data_c">%s℃</string>
+    <string name="keyguard_charging_info_data_ma">%smA</string>
+    <string name="keyguard_charging_info_data_percent">%s%%</string>
+    <string name="keyguard_charging_info_data_v">%sV</string>
     <string name="keyguard_charging_info_drained_power_percent_text">Έχει καταναλωθεί</string>
     <string name="keyguard_charging_info_last_charge_time">d/M H:mm</string>
     <string name="keyguard_charging_info_last_charge_today_time">Σήμερα %s</string>
@@ -820,6 +838,7 @@ Bits ανά δείγμα"</string>
     <string name="keyguard_missing_sim_instructions_long">Η κάρτα SIM λείπει ή δεν αναγνωρίζεται. Εισάγετε μία κάρτα SIM.</string>
     <string name="keyguard_missing_sim_message">Δεν υπάρχει κάρτα SIM στο τηλέφωνο.</string>
     <string name="keyguard_missing_sim_message_short">Δεν υπάρχει κάρτα SIM</string>
+    <string name="keyguard_more_overflow_text">+%d</string>
     <string name="keyguard_network_locked_message">Κλειδωμένο δίκτυο</string>
     <string name="keyguard_password_enter_password_code">Πληκτρολογήστε κωδικό για ξεκλείδωμα</string>
     <string name="keyguard_password_enter_pin_code">Εισαγάγετε τον PIN κωδικό</string>
@@ -909,6 +928,7 @@ Bits ανά δείγμα"</string>
     <string name="left_keycode">Αριστερό πλήκτρο</string>
     <string name="left_nav_bar_button_type">Επιπλέων αριστερό πλήκτρο</string>
     <string name="legacy_vpn_name">VPN</string>
+    <string name="list_delimeter">", "</string>
     <string name="local_backup_password_summary_change">Πατήστε για αλλαγή ή αφαίρεση κωδικού για αντίγραφα ασφαλείας Αρχικής οθόνης</string>
     <string name="local_backup_password_summary_none">Τα αντίγραφα ασφαλείας Αρχικής οθόνης δεν προστατεύονται αυτή την στιγμή</string>
     <string name="local_backup_password_title">Κωδικός αντίγραφων ασφαλείας αρχικής οθόνης</string>
@@ -970,6 +990,7 @@ Bits ανά δείγμα"</string>
     <string name="miui_guide_dialog_message">Ήχοι πολυμέσων (μουσική, βίντεο, κλπ.) θα συνεχίσουν να αναπαράγονται στην Αθόρυβη λειτουργία. Μπορείτε να το αλλάξετε αυτό στις Ρυθμίσεις.</string>
     <string name="miui_keyguard_ble_unlock_succeed_msg">Ξεκλειδώθηκε από τη συσκευή Bluetooth</string>
     <string name="miui_ringer_count_down">Αντίστροφη μέτρηση</string>
+    <string name="miui_ringer_count_down_time">%s</string>
     <string name="miui_ringer_standard">Αθόρυβο</string>
     <string name="miui_ringer_standard_description">Σίγαση ήχου για εισερχόμενες κλήσεις και ειδοποιήσεων</string>
     <string name="miui_ringer_total">Μην ενοχλείτε</string>
@@ -996,12 +1017,14 @@ Bits ανά δείγμα"</string>
 
 Για περισσότερες πληροφορίες, επικοινωνήστε με τον διαχειριστή σας."</string>
     <string name="monitoring_description_ca_cert_settings">Άνοιγμα αξιόπιστων διαπιστευτηρίων</string>
+    <string name="monitoring_description_ca_cert_settings_separator">" "</string>
     <string name="monitoring_description_ca_certificate">Ένα πιστοποιητικό εξουσιοδότησης είναι εγκατεστημένο στην συσκευή αυτή. Η ασφαλή κυκλοφορία δικτύου σας ενδέχεται να παρακολουθείται ή να τροποποιηθεί.</string>
     <string name="monitoring_description_do_body">Ο διαχειριστής σας μπορεί να παρακολουθεί και να διαχειρίζεται ρυθμίσεις, εταιρική πρόσβαση, εφαρμογές, δεδομένα σχετικά με την εφαρμογή σας, και τις πληροφορίες τοποθεσίας της συσκευής σας.</string>
     <string name="monitoring_description_do_body_vpn">Είστε συνδεδεμένοι σε %1$s, το οποίο μπορεί να παρακολουθεί την δραστηριότητα δικτύου σας, όπως emails, εφαρμογές, και ιστοσελίδες.</string>
     <string name="monitoring_description_do_header_generic">Η συσκευή σας διαχειρίζεται από %1$s.</string>
     <string name="monitoring_description_do_header_with_name">%1$s χρησιμοποιεί %2$s για την διαχείριση της συσκευής σας.</string>
     <string name="monitoring_description_do_learn_more">Μάθετε περισσότερα</string>
+    <string name="monitoring_description_do_learn_more_separator">" "</string>
     <string name="monitoring_description_managed_profile_ca_certificate">Η οργάνωση σας έχει εγκαταστήσει ένα πιστοποιητικό εξουσιοδότησης στο προφίλ εργασίας σας. Η ασφαλή κυκλοφορία δικτύου σας ενδέχεται να παρακολουθείται ή να τροποποιηθεί.</string>
     <string name="monitoring_description_managed_profile_named_vpn">Το προφίλ εργασίας σας είναι συνδεδεμένο σε %1$s, το οποίο μπορεί να παρακολουθεί την δραστηριότητα δικτύου σας, όπως emails, εφαρμογές, και ιστοσελίδες.</string>
     <string name="monitoring_description_management">"Η συσκευή σας διαχειρίζεται από την οργάνωση σας.
@@ -1033,6 +1056,7 @@ Bits ανά δείγμα"</string>
 
 Είστε επίσης συνδεδεμένοι σε ένα VPN, το οποίο μπορεί να ελέγχει την δραστηριότητα δικτύου σας."</string>
     <string name="monitoring_description_vpn_settings">Άνοιγμα Ρυθμίσεων VPN</string>
+    <string name="monitoring_description_vpn_settings_separator">" "</string>
     <string name="monitoring_subtitle_ca_certificate">Πιστοποιητικά CA</string>
     <string name="monitoring_subtitle_network_logging">Αρχείο καταγραφής δικτύου</string>
     <string name="monitoring_subtitle_vpn">VPN</string>
@@ -1047,6 +1071,7 @@ Bits ανά δείγμα"</string>
     <string name="nav_guide_message">Χρήση χειρονομιών για απόκρυψη/εμφάνιση απαλών κουμπιών.</string>
     <string name="nav_guide_ok">Ρύθμιση</string>
     <string name="nav_guide_title">Απόκρυψη απαλών κουμπιών</string>
+    <string name="network_speed_suffix">%1$s%2$s</string>
     <string name="no_application">Καμία</string>
     <string name="no_multi_window_app">Καμία εφαρμογή δεν υποστηρίζει το Διαχωρισμό οθόνης</string>
     <string name="no_notification_tips">Δεν υπάρχουν ειδοποιήσεις</string>
@@ -1116,6 +1141,7 @@ Bits ανά δείγμα"</string>
     <string name="oldman_airplane_mode_text">Λειτουργία πτήσης</string>
     <string name="oldman_incall_text">Πίσω στην κλήση</string>
     <string name="open_camera_hint_text">Σάρωση αριστερά για άνοιγμα κάμερας</string>
+    <string name="open_extreme_power_save_mode_title">Ενεργοποίηση Ακραίας εξοικονόμησης μπαταρίας</string>
     <string name="open_remote_center_hint_text">Σύρετε δεξιά για να ανοίξετε το Mi Τηλεχειριστήριο</string>
     <string name="other">Άλλα</string>
     <string name="overlay_display_devices_title">Προσομείωση δευτερεύοντων προβολών</string>
@@ -1183,6 +1209,7 @@ Bits ανά δείγμα"</string>
     <string name="power_remaining_charging_duration_only">%1$s απομένουν μέχρι πλήρης φόρτιση</string>
     <string name="power_remaining_duration_only">Περίπου %1$sαπομένουν</string>
     <string name="power_remaining_duration_only_short">%1$s απομένουν</string>
+    <string name="process_kernel_label">Android OS</string>
     <string name="profile_owned_footer">Το προφίλ ενδέχεται να παρακολουθείται</string>
     <string name="prompt_danger">Κίνδυνος</string>
     <string name="prompt_detecting">Γίνεται εντοπισμός</string>
@@ -1245,7 +1272,8 @@ Bits ανά δείγμα"</string>
     <string name="quick_settings_done">Ολοκλήρωση</string>
     <string name="quick_settings_drivemode_label">Λειτουργία αυτοκινήτου</string>
     <string name="quick_settings_dual_location_label">Διπλό GPS</string>
-    <string name="quick_settings_edit_label">Επεξεργασία</string>
+    <string name="quick_settings_edit_label">Περισσ.</string>
+    <string name="quick_settings_extreme_batterysaver_label">Ακραία εξοικονόμηση μπαταρίας</string>
     <string name="quick_settings_flashlight_label">Φακός</string>
     <string name="quick_settings_gps_label">GPS</string>
     <string name="quick_settings_hotspot_label">Σημείο πρόσβασης</string>
@@ -1709,6 +1737,7 @@ d MMMM"</string>
     <string name="wait_for_debugger">Αναμονή για εντοπισμό σφαλμάτων</string>
     <string name="wait_for_debugger_summary">Η εφαρμογή εντοπισμού σφαλμάτων βρίσκεται σε αναμονή πριν την εκτέλεση</string>
     <string name="wallpaper_global_des_drop_down_notify_text">Αφήστε για προβολή λεπτομερειών</string>
+    <string name="weather_description_no_aqi">%1$s</string>
     <string name="weather_publish_time">Έγινε ενημέρωση %1$s</string>
     <string name="wifi_aggressive_handover">Απότομη εναλλαγή Wi‑Fi σε δεδομένα</string>
     <string name="wifi_aggressive_handover_summary">Όταν είναι ενεργό, θα γίνεται πιο εύκολα η εναλλαγή σύνδεσης στα δεδομένα κινητής όταν το σήμα Wi‑Fi είναι χαμηλό.</string>
@@ -1733,9 +1762,11 @@ d MMMM"</string>
     <string name="wifi_security_eap">802.1x EAP</string>
     <string name="wifi_security_none">Χωρίς</string>
     <string name="wifi_security_passpoint">Passpoint</string>
+    <string name="wifi_security_psk_generic">@string/wifi_security_wpa_wpa2</string>
     <string name="wifi_security_short_WAPI_CERT">WAPI CERT</string>
     <string name="wifi_security_short_WAPI_PSK">WAPI PSK</string>
     <string name="wifi_security_short_eap">802.1x</string>
+    <string name="wifi_security_short_psk_generic">@string/wifi_security_short_wpa_wpa2</string>
     <string name="wifi_security_short_wep">WEP</string>
     <string name="wifi_security_short_wpa">WPA</string>
     <string name="wifi_security_short_wpa2">WPA2</string>
