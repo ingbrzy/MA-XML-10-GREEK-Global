@@ -26,6 +26,24 @@
         <item>%1$s</item>
         <item>%1$s</item>
     </string-array>
+    <string-array name="aqi_title_append">
+        <item>%1$s</item>
+        <item>%1$s</item>
+        <item>%1$s</item>
+        <item>%1$s</item>
+        <item>%1$s</item>
+        <item>%1$s</item>
+        <item>%1$s</item>
+    </string-array>
+    <string-array name="aqi_title_prefix">
+        <item>ΠΑ %1$s</item>
+        <item>ΠΑ %1$s</item>
+        <item>ΠΑ %1$s</item>
+        <item>ΠΑ %1$s</item>
+        <item>ΠΑ %1$s</item>
+        <item>ΠΑ %1$s</item>
+        <item>ΠΑ %1$s</item>
+    </string-array>
     <string-array name="battery_labels">
         <item>0%</item>
         <item>50%</item>
@@ -276,7 +294,7 @@
         <item>400</item>
     </string-array>
     <string-array name="usb_configuration_titles">
-        <item>Γίνεται φόρτιση</item>
+        <item>Φόρτιση</item>
         <item>ΠΜΠ (Πρωτόκολλο Μεταφοράς Πολυμέσων)</item>
         <item>ΠΜΕ (Πρωτόκολλο Μεταφοράς Εικόνων)</item>
         <item>RNDIS (USB Ethernet)</item>

@@ -38,7 +38,9 @@
     <string name="aqi_quality_ambient_air_quality">Ποιότητας αέρος εδώ κοντά</string>
     <string name="aqi_quality_co_desc">Μονοξείδιο του άνθρακα</string>
     <string name="aqi_quality_detail_15_days">15-ήμερη πρόβλεψη</string>
+    <string name="aqi_quality_detail_24_hours">24-ωρη πρόβλεψη</string>
     <string name="aqi_quality_detail_48_hours">48-ωρη πρόβλεψη</string>
+    <string name="aqi_quality_detail_5_days">5-ήμερη πρόβλεψη</string>
     <string name="aqi_quality_major_pollutants">Κυριότεροι ρύποι</string>
     <string name="aqi_quality_map_title">Χάρτης ποιότητας αέρα</string>
     <string name="aqi_quality_no2_desc">Διοξείδιο του αζώτου</string>
@@ -62,7 +64,7 @@
     <string name="button_sure_abandon">Απόρριψη αλλαγών;</string>
     <string name="card_vote_item_vs">VS</string>
     <string name="change_alert">Ελέγξτε την σύνδεση δικτύου σας και προσπαθήστε ξανά</string>
-    <string name="china_version_first_start_network_msg">Με την χρήση του προϊόντος αυτού, αποδέχεστε τους%1$s και %2$s της Xiaomi. Αυτή η εφαρμογή απαιτεί σύνδεση στο Ίντερνετ και πρόσβαση στην τοποθεσία σας για να λειτουργήσει κανονικά.</string>
+    <string name="china_version_first_start_network_msg">Χρησιμοποιώντας αυτό το προϊόν, συμφωνείτε με τα %1$s και %2$s της Xiaomi. Προκειμένου να σας βοηθήσει να λάβετε πιο ακριβείς πληροφορίες για τον καιρό, ο καιρός θα πάρει πληροφορίες της τοποθεσίας σας, και για αυτό πρέπει να το συνδέσετε στο δίκτυο. Συμφωνείτε;</string>
     <string name="city_exceeded_warning">Μπορείτε να προσθέστε μέχρι και 10 πόλεις</string>
     <string name="common_loading_text">Περιμένετε μία στιγμή…</string>
     <string name="connect_fail">Αδυναμία σύνδεσης στο δίκτυο, προσπαθήστε ξανά</string>
@@ -81,11 +83,13 @@
     <string name="daily_forecast_add_city_message">Παρακολουθήστε τον καιρό σε %1$s για μια πιο λεπτομεριακή πρόγνωση.</string>
     <string name="daily_forecast_add_city_title">Παρακολουθήστε τον καιρό σε %1$s</string>
     <string name="daily_forecast_detail_date">d/Μ</string>
+    <string name="daily_forecast_detail_date_format">%1$s - %2$s</string>
     <string name="daily_forecast_no_data">"Αδυναμία απόκτησης πληροφοριών καιρού
 Τραβήξτε προς τα κάτω για ανανέωση ή ελέγξτε τις ρυθμίσεις δικτύου"</string>
     <string name="data_provided_by">Τα δεδομένα παρέχονται από</string>
     <string name="edit_city">Διαχείριση πόλης</string>
-    <string name="eu_region_version_first_start_network_msg">Με την χρήση αυτού του προϊόντος, αποδέχεστε ότι η Xiaomi θα συλλέξει, θα επεξεργαστεί, και θα χρησιμοποιήσει τις προσωπικές σας πληροφορίες, όπως τις συντεταγμένες των πόλεων που έχετε αναζητήσει, και άλλους τύπους δεδομένων συγκεκριμένων με την Πολιτική Απορρήτου μας. Αναφερθείτε στην Πολιτική Απορρήτου μας για να μάθετε ως συλλέγουμε και επεξεργαζόμαστε πληροφορίες. Πατώντας \"Αποδοχή\", αποδέχεστε τους %1$s και %2$s.</string>
+    <string name="empty">" "</string>
+    <string name="eu_region_version_first_start_network_msg">Χρησιμοποιώντας αυτό το προϊόν, συμφωνείτε ότι αυτό το προϊόν θα συνδέει το δίκτυο, θα συλλέγει, θα επεξεργάζεται και θα χρησιμοποιεί προσωπικά σας στοιχεία, συμπεριλαμβανομένων των συντεταγμένων των πόλεων που αναζητάτε, και άλλων τύπων δεδομένων που καθορίζονται στην Πολιτική Προστασίας Προσωπικών Δεδομένων. Ανατρέξτε στην Πολιτική Απορρήτου μας για να μάθετε πώς συλλέγουμε και επεξεργαζόμαστε τις πληροφορίες. Πατώντας \"Συμφωνώ\", συμφωνείτε με τα %1$s και %2$s της Xiaomi.</string>
     <string name="feedback_heavy_rain">Έντονη βροχή</string>
     <string name="feedback_heavy_snow">Χιονόπτωση</string>
     <string name="feedback_light_rain">Ασθενής βροχή</string>
@@ -97,6 +101,8 @@
     <string name="first_start_network_title">Σύνδεση Ίντερνετ και πρόσβαση τοποθεσίας</string>
     <string name="global_aqi">ΔΠΑ: %1$s %2$s</string>
     <string name="hourly_forcast_now">Τώρα</string>
+    <string name="hourly_forecast_bottom_aqi_chinese">%1$s %2$s</string>
+    <string name="hourly_forecast_bottom_aqi_else">%1$s</string>
     <string name="hourly_forecast_date">d/Μ</string>
     <string name="hourly_forecast_title_24_hours_desc">24-ωρη Πρόγνωση</string>
     <string name="hourly_forecast_title_hourly_desc">Ωριαία πρόγνωση</string>
@@ -110,10 +116,12 @@
     <string name="indices_title_feel">Πραγματική αίσθηση</string>
     <string name="indices_title_pressure">Πίεση</string>
     <string name="install">Εγκατάσταση</string>
+    <string name="install_progress">%1$s%%</string>
     <string name="international_details_pressure_title">ΠΙΕΣΗ</string>
     <string name="international_details_real_feel_title">REAL FEEL®</string>
     <string name="international_details_title">Λεπτομέρειες</string>
     <string name="international_details_uv_index_title">ΔΕΙΚΤΗΣ UV</string>
+    <string name="international_details_wind_connect">%1$s %2$s</string>
     <string name="international_details_wind_title">ΑΝΕΜΟΣ</string>
     <string name="it_is_going_to_rain">Θα βρέξει</string>
     <string name="locate_fail_detail_err">"Αδυναμία εντοπισμού συσκευής
@@ -158,6 +166,7 @@
     <string name="privacy_grant_failed">Αδυναμία παραχώρησης εξουσιοδότησης. Περιμένετε ένα δύο λεπτά και προσπαθήστε ξανά.</string>
     <string name="privacy_grant_or_revoke_settings">Γίνεται παραχώρηση &amp; ανάκληση εξουσιοδότησης</string>
     <string name="privacy_grant_success">Επιτυχής παραχώρηση εξουσιοδότησης</string>
+    <string name="privacy_policy">Πολιτική Απορρήτου</string>
     <string name="privacy_revoke_failed">Αδυναμία ανάκλησης εξουσιοδότησης. Περιμένετε ένα δύο λεπτά και προσπαθήστε ξανά.</string>
     <string name="privacy_revoke_success">Επιτυχής ανάκληση εξουσιοδότησης</string>
     <string name="privacy_settings">Πολιτική Απορρήτου</string>
@@ -185,6 +194,7 @@
     <string name="share_menu_title">Κοινοποίηση</string>
     <string name="share_subject">Κοινοποίηση</string>
     <string name="share_weather_desc">\#MIUI Καιρός#Σήμερα %1$s %2$s</string>
+    <string name="share_weather_desc_alert">%1$s%2$s</string>
     <string name="share_weather_desc_split">,</string>
     <string name="share_weather_save_pic_fail">Αδυναμία λήψης στιγμιότυπου οθόνης</string>
     <string name="some_where_on_earth">Κάπου στη Γη</string>
@@ -220,6 +230,7 @@
     <string name="update_setting_title_text">Ενημέρωση πληροφοριών καιρού</string>
     <string name="updated_a_moment_ago">Μόλις ενημερώθηκε</string>
     <string name="updating">Γίνεται ενημέρωση…</string>
+    <string name="user_agreement">Όροι Χρήσης</string>
     <string name="video_dialog_no_play" />
     <string name="video_dialog_play" />
     <string name="video_dialog_subtitle" />

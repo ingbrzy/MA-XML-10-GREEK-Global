@@ -19,7 +19,9 @@
     <string name="exo_download_notification_channel_name">Λήψεις</string>
     <string name="exo_download_removing">Κατάργηση λήψεων</string>
     <string name="exo_item_list">%1$s, %2$s</string>
+    <string name="exo_track_bitrate">%1$.2f Mbps</string>
     <string name="exo_track_mono">Μονοφωνικό</string>
+    <string name="exo_track_resolution">%1$d × %2$d</string>
     <string name="exo_track_selection_auto">Αυτόματο</string>
     <string name="exo_track_selection_none">Κανένα</string>
     <string name="exo_track_selection_title_audio">Ήχος</string>
@@ -465,6 +467,7 @@
     <string name="managed_user_title">Όλες οι εφαρμογές δουλειάς</string>
     <string name="pref_about_traffic_title">Ρυθμίσεις χρήσης δεδομένων</string>
     <string name="pref_traffic_manage_title">Χρήση δεδομένων</string>
+    <string name="pref_operator_setting">%1$s%2$s</string>
     <string name="pref_package_traffic_settings">Πλάνο δεδομένων</string>
     <string name="pref_adjust_traffic_data">Ορισμός χρήσης δεδομένων</string>
     <string name="pref_category_title_other">Πρόσθετες ρυθμίσεις</string>
@@ -991,6 +994,7 @@
     <string name="om_formatted_percent_string">%s%%</string>
     <string name="om_cpu_usage_warn_title_text">"Η εφαρμογή μπορεί να επιβραδύνει
 την συσκευή σας"</string>
+    <string name="om_memory_clean_memory_info_text">%1$s / %2$s</string>
     <string name="om_ill_proc_handle_unstaill_title">Απεγκατάσταση %s;</string>
     <string name="om_ill_proc_handle_uninstall_prompt">Απεγκαταστήστε την εφαρμογή για επίλυση των προβλημάτων χρήσης μπαταρίας.</string>
     <string name="om_ill_proc_type_wakelock_title">Η εφαρμογή μπλοκάρει την λειτουργία αδράνειας και καταναλώνει μπαταρία</string>
@@ -1049,6 +1053,7 @@
     <string name="usage_type_data_send">Έγινε αποστολή κινητών δεδομένων</string>
     <string name="usage_type_no_coverage">Χρόνος χωρίς σήμα</string>
     <string name="usage_type_gps">GPS</string>
+    <string name="process_kernel_label">Android</string>
     <string name="process_mediaserver_label">Διακομιστής πολυμέσων</string>
     <string name="power_screen">Οθόνη</string>
     <string name="power_wifi">Wi-Fi</string>
@@ -1243,7 +1248,7 @@
     <string name="power_center_main_percent_formatted">%s%%</string>
     <string name="auto_task_manage_new_task">Νέα αυτόματη εργασία</string>
     <string name="extreme_power_save_mode_title">Ακραία εξοικονόμηση μπαταρίας</string>
-    <string name="extreme_power_save_mode_summary">Η Ακραία εξοικονόμηση μπαταρίας περιορίζει τη δραστηριότητα παρασκηνίου, σταματά το συγχρονισμό, και μειώνει τα χρώματα της οθόνης.</string>
+    <string name="extreme_power_save_mode_summary">Η υπερβολική χρήση της εξοικονόμησης μπαταρίας περιορίζει τη δραστηριότητα παρασκηνίου και διακόπτει τον συγχρονισμό.</string>
     <string name="extreme_power_save_description"><li>Η Ακραία εξοικονόμηση μπαταρίας σταματά όλες τις δραστηριότητες παρασκηνίου μιας εφαρμογής αφού φύγετε από αυτή και επιστρέψετε στην Αρχική οθόνη. Αυτή η εφαρμογή δεν θα σας στέλνει ειδοποιήσεις ή δεν θα λαμβάνετε ενημερώσεις.</li>"
 "<li>Εάν θέλετε μια εφαρμογή να τρέχει στο παρασκήνιο, κλειδώστε την στα Πρόσφατα, ή προσθέστε την στις εξαιρέσεις παρασκηνίου παρακάτω. Μέχρι 4 εφαρμογές μπορούν να τρέχουν στο παρασκήνιο όταν η Ακραία εξοικονόμηση μπαταρίας είναι ενεργή.</li>"
 "<li>Η Ακραία εξοικονόμηση μπαταρίας απενεργοποιεί στο NFC από προεπιλογή. Μπορείτε να το αλλάξετε στις Ρυθμίσεις.</li>"
@@ -1406,11 +1411,13 @@
     <string name="menu_text_optimize_manage">Ενίσχυση ταχύτητας</string>
     <string name="menu_text_networkassistants">Χρήση δεδομένων</string>
     <string name="menu_summary_networkassistants">Διαχείριση του Πλάνου δεδομένων σας</string>
+    <string name="menu_text_networkassistants_2">%s</string>
     <string name="menu_summary_networkassistants_2">Υπέρβαση ορίου</string>
     <string name="menu_summary_networkassistants_3">Απομένουν αρκετά δεδομένα</string>
     <string name="menu_summary_networkassistants_4">Τα δεδομένα σας έχουν σχεδόν εξαντληθεί</string>
     <string name="menu_text_networkassistants_remain">%s απέμειναν</string>
     <string name="menu_text_networkassistants_danger">%s παραπάνω</string>
+    <string name="menu_text_networkassistants_data">%1$s%2$s</string>
     <string name="menu_text_networkassistants_unit_gb">GB</string>
     <string name="menu_text_networkassistants_unit_mb">MB</string>
     <string name="menu_text_networkassistants_unit_kb">KB</string>
@@ -1423,12 +1430,14 @@
     <string name="menu_summary_garbage_cleanup">Δεν βρέθηκαν σκουπίδια</string>
     <string name="menu_summary_garbage_cleanup_2">Μέγεθος σκουπιδιών</string>
     <string name="menu_summary_garbage_cleanup_3">Εκκαθάριση σκουπιδιών τώρα</string>
+    <string name="menu_text_garbage_cleanup_danger">%s</string>
     <string name="menu_text_power_manager">Χρήση μπαταρίας</string>
     <string name="menu_summary_power_manager">Η λειτουργία Εξοικονόμησης Μπαταρίας σας δίνει περισσότερο χρόνο μεταξύ των φορτισμάτων</string>
     <string name="menu_summary_power_manager_1">Η μπαταρία σας είναι πλήρως φορτισμένη</string>
     <string name="menu_summary_power_manager_2">%s απομένουν</string>
     <string name="menu_summary_power_manager_3">Συνδέστε φορτιστή</string>
     <string name="menu_summary_power_manager_4">%s μέχρι πλήρη φόρτιση</string>
+    <string name="menu_text_power_percent_title">%s</string>
     <string name="last_check_canceled">Η προηγούμενη σάρωση ακυρώθηκε</string>
     <string name="examination_score_100">Όλα φαίνονται να λειτουργούν σωστά!</string>
     <string name="examination_score_80_100">Ορισμένα αντικείμενα μπορούν να βελτιστοποιηθούν</string>
@@ -1802,6 +1811,7 @@
     <string name="card_main_deepclean_wechat_action">Εκκαθάριση</string>
     <string name="card_main_sectool_title">Εργαλεία</string>
     <string name="card_main_monthreport_action">Προβολή</string>
+    <string name="card_main_speeddetail_action">@string/card_main_monthreport_action</string>
     <string name="card_main_netcheck_title">Δοκιμή δικτύου</string>
     <string name="card_main_netcheck_summary">Δοκιμή σύνδεσης για προβλήματα δικτύου</string>
     <string name="card_main_netcheck_action">Δοκιμή</string>
@@ -2351,17 +2361,19 @@
     <string name="gb_create_icon_summary">Δημιουργία συντόμευσης Αρχικής οθόνης</string>
     <string name="title_reply">Σχολιάστε</string>
     <string name="title_like">Μου αρέσει</string>
+    <string name="ellipsis">…</string>
     <string name="game_video_net_data">Δεδομένα κινητής τηλεφωνίας</string>
     <string name="game_wid_viewpoint_buttom">Κάντε ένα μικρό διάλειμμα.</string>
     <string name="video_repeat">Αναπαραγωγή ξανά</string>
     <string name="game_video_network_eror">Αδυναμία σύνδεσης στο δίκτυο. Ελέγξτε τις ρυθμίσεις δικτύου και προσπαθήστε ξανά.</string>
+    <string name="see_more_content">Ενημερώστε το game center για να δείτε περισσότερα στιγμιότυπα</string>
     <string name="notify_channel_name_security">Ασφάλεια συστήματος</string>
     <string name="privacy_apps_category_title">Κρυμμένες εφαρμογές</string>
     <string name="privacy_apps">Κρυμμένες εφαρμογές</string>
     <string name="privacy_apps_enable_summary">Μεταφέρετε εφαρμογές σε ένα κρυφό φάκελο και αφαιρέστε τις συντομεύσεις Αρχικής οθόνης αυτών</string>
     <string name="privacy_apps_manage">Διαχείριση κρυφών εφαρμογών</string>
     <string name="privacy_apps_tutorial">Οδηγός</string>
-    <string name="privacy_apps_tutorial_prompt_pageone">"Όταν κρύβετε μια εφαρμογή, μεταφέρετε σε ένα κρυφό φάκελο. Η συντόμευση της Αρχικής οθόνης αυτού αποκρύπτεται επίσης.
+    <string name="privacy_apps_tutorial_prompt_pageone">"Όταν κρύβετε μια εφαρμογή, μεταφέρεται σε ένα κρυφό φάκελο. Η συντόμευση της Αρχικής οθόνης αυτού αποκρύπτεται επίσης.
 Αυτό το χαρακτηριστικό δεν υποστηρίζεται για εφαρμογές συστήματος."</string>
     <string name="privacy_apps_tutorial_prompt_pagetwo">Απλώστε δύο δάχτυλα στην οθόνη. Θα δείτε ένα μήνυμα που σας ζητά να εισάγετε τον κωδικό κλειδώματος εφαρμογών.</string>
     <string name="privacy_apps_tutorial_prompt_pagethree">Αφού εισάγετε τον κωδικό σας, ο φάκελος με τις κρυφές εφαρμογές θα εμφανιστεί.</string>

@@ -221,8 +221,8 @@
         <item quantity="one">%1$d διακόπτης θα εμφανίζεται στο Πίνακα ειδοποιήσεων</item>
     </plurals>
     <plurals name="show_audio_logcat_countdown">
-        <item quantity="other">%1$d steps left before you can get audio log</item>
-        <item quantity="one">%1$d step left before you can get audio log</item>
+        <item quantity="other">%1$d βήματα αριστερά προτού λάβετε το αρχείο καταγραφής ήχου</item>
+        <item quantity="one">%1$d βήμα αριστερά προτού λάβετε το αρχείο καταγραφής ήχου</item>
     </plurals>
     <plurals name="show_cit_countdown">
         <item quantity="other">Είστε %1$d βήματα μακριά από την είσοδο στο CIT.</item>
@@ -233,12 +233,12 @@
         <item quantity="one">Απομένει%1$d βήμα για να γίνετε προγραμματιστής.</item>
     </plurals>
     <plurals name="show_gps_logcat_countdown">
-        <item quantity="other">%1$d steps left before you can get GPS log</item>
-        <item quantity="one">%1$d step left before you can get GPS log</item>
+        <item quantity="other">%1$d βήματα αριστερά προτού λάβετε το αρχείο καταγραφής του GPS</item>
+        <item quantity="one">%1$d βήμα αριστερά προτού λάβετε το αρχείο καταγραφής του GPS</item>
     </plurals>
     <plurals name="show_modem_logcat_countdown">
-        <item quantity="other">%1$d steps left before you can get modem log</item>
-        <item quantity="one">%1$d step left before you can get modem log</item>
+        <item quantity="other">%1$d βήματα αριστερά προτού λάβετε το αρχείο καταγραφής του μόντεμ</item>
+        <item quantity="one">%1$d βήμα αριστερά προτού λάβετε το αρχείο καταγραφής του μόντεμ</item>
     </plurals>
     <plurals name="show_pho_countdown">
         <item quantity="other">Είστε %1$d βήματα μακριά από την εισαγωγή πληροφοριών τηλεφώνου.</item>
