@@ -57,6 +57,7 @@
     <string name="save_pic_success">Η εικόνα αποθηκεύτηκε σε %s</string>
     <string name="save_pic_fail">Δεν ήταν δυνατή η αποθήκευση της εικόνας, ελέγξτε την κάρτα SD σας</string>
     <string name="pic_not_exist">Η εικόνα δεν υπάρχει</string>
+    <string name="pic_view_format">%1$s\"/\"%2$s</string>
     <string name="michat_skillset_product_title">Επιλογή προϊόντος</string>
     <string name="michat_skillset_business_type_title">Επιλογή υπηρεσίας</string>
     <string name="michat_close_text">Η συνομιλία τερματίστηκε</string>
@@ -161,13 +162,16 @@
     <string name="cta_cancel">Ακύρωση</string>
     <string name="cta_confirm">ΟΚ</string>
     <string name="submit_dialog_title">Υποβολή αναφοράς</string>
-    <string name="submit_dialog_content">Τα σχόλιά σας, μαζί με τα συνημμένα και τα αρχεία καταγραφής, θα σταλούν στους διακομιστές του MIUI. Μπορεί να περιέχουν προσωπικά δεδομένα και τα δεδομένα τοποθεσίας σας.</string>
-    <string name="submit_dialog_content_global">Τα σχόλια σας, μαζί με τα συννημένα (εάν υπάρχουν) και τα αρχεία καταγραφής( μπορείτε να αποεπιλέξτε τα αντίστοιχα κουτιά για τα αντικείμενα που δεν θέλετε να μεταφορτώστε) θα σταλούν στους διακομιστές MIUI και σε ένα περιορισμένο τμήμα του MIUI Φόρουμ για προγραμματιστές για ανάλυση. Θα γίνει επίσης συλλογή πληροφοριών των θεμάτων σας και της δραστηριότητας του φόρουμ σας για ανάλυση και παραιτέρω επικοινωνία. Τα αρχεία καταγραφής ενδέχεται να περιέχουν προσωπικές πληροφορίες και τα δεδομένα τοποθεσίας σας.</string>
+    <string name="submit_dialog_content"><Data>Τα σχόλια σας, μαζί με τα συνημμένα και τα αρχεία καταγραφής, θα σταλούν στους διακομιστές του MIUI. Μπορεί να περιέχουν προσωπικές πληροφορίες και δεδομένα τοποθεσίας σας. Επιλέγοντας \"Συμφωνώ\"σημαίνει ότι διαβάσατε και συμφωνείτε στην &lt;a href=\"http://www.miui.com/res/doc/privacy.html?region=%1$s&amp;lang=%2$s\">Πολιτική Απορρήτου&lt;/a>και&lt;a href=\"http://www.miui.com/res/doc/eula.html?region=%3$s&amp;lang=%4$s\">Όροι Χρήσης&lt;/a>.</Data></string>
+    <string name="submit_dialog_content_global"><Data>Τα σχόλια σας, μαζί με τα συνημμένα (εάν υπάρχουν) και τα αρχεία καταγραφών (μπορείτε να καταργήσετε την επιλογή στα αντίστοιχα κουτάκια για τα στοιχεία που δεν θέλετε να ανέβουν) θα αποσταλούν στους διακομιστές του MIUI και σε ένα περιορισμένο τμήμα του MIUI Φόρουμ για προγραμματιστές. Οι πληροφορίες σχετικά με τα νήματα σας και την δραστηριότητα τους στο φόρουμ επίσης θα συλλέγονται για ανάλυση και παραπέρα επικοινωνία. Τα αρχεία καταγραφής μπορεί να περιέχουν προσωπικές πληροφορίες και δεδομένα της τοποθεσίας σας. Επιλέγοντας \"Συμφωνώ\" σημαίνει ότι διαβάσατε και συμφωνείτε στην &lt;a href=\"http://www.miui.com/res/doc/privacy.html?region=%1$s&amp;lang=%2$s\">Πολιτική Απορρήτου&lt;/a>και&lt;a href=\"http://www.miui.com/res/doc/eula.html?region=%3$s&amp;lang=%4$s\">Όροι Χρήσης&lt;/a>.</Data></string>
     <string name="submit_dialog_cancel">Δεν αποδέχομαι</string>
     <string name="submit_dialog_confirm">Αποδοχή</string>
+    <string name="tab_title_preferences">Ρυθμίσεις</string>
+    <string name="privacy_policy_title">Πολιτική Απορρήτου</string>
+    <string name="privacy_category_title">Απόρρητο</string>
     <string name="mobile_data_note_dialog_title">Προειδοποίηση κατανάλωσης δεδομένων</string>
-    <string name="mobile_data_note_dialog_content">Η χρήση δεδομένων κινητής τηλεφωνίας για μεταφόρτωση αρχείων καταγραφής μπορεί να επιφέρει επιπλέον χρεώσεις.</string>
-    <string name="mobile_data_note_dialog_content_with_file_size">Η μεταφόρτωση αρχείων καταγραφής μέσω σύνδεσης δεδομένων κινητής απαιτεί %sMB δεδομένων.</string>
+    <string name="mobile_data_note_dialog_content">Φαίνεται ότι έχετε συνδεθεί σε συνδρομητικό δίκτυο. Αποστολή αρχείων καταγραφής είναι πιθανόν να υπόκεινται σε πρόσθετες χρεώσεις.</string>
+    <string name="mobile_data_note_dialog_content_with_file_size">Φαίνεται ότι έχετε συνδεθεί σε συνδρομητικό δίκτυο. Η αποστολή αρχείων καταγραφής απαιτεί χρήση %sMB δεδομένων κινητής τηλεφωνίας.</string>
     <string name="mobile_data_note_dialog_cancel">Αναμονή για Wi-Fi</string>
     <string name="mobile_data_note_dialog_confirm">Μεταφόρτωση</string>
     <string name="modem_tool_log_dumping_title">Σύλληψη αρχείων καταγραφής του μόντεμ</string>
@@ -177,7 +181,7 @@
     <string name="modem_tool_log_finish_title">Η σύλληψη αρχείων καταγραφής του μόντεμ ολοκληρώθηκε</string>
     <string name="modem_tool_log_finish_desc">Το αρχείο καταγραφής αποθηκεύτηκε ως %s</string>
     <string name="bugreport_dialog_not_show_again">Να μην εμφανιστεί ξανά</string>
-    <string name="bugreport_dialog_submit_content">Αποθηκεύετε αρχεία καταγραφής λογισμικού στην συσκευή αυτή τώρα. Τα αρχεία καταγραφής ενδέχεται να περιέχουν προσωπικές πληροφορίες και τα δεδομένα τοποθεσίας σας. Μην μοιράζεστετα αρχεία καταγραφής με άλλους εάν δεν θέλετε να εκθέστε τις πληροφορίες αυτές.</string>
+    <string name="bugreport_dialog_submit_content"><Data>Αποθηκεύετε λογισμικό αρχείων καταγραφής σε αυτή τη συσκευή τώρα. Τα αρχεία καταγραφής μπορεί να περιέχουν προσωπικές πληροφορίες και δεδομένα της τοποθεσίας σας. Μην μοιράζεστε τα αρχεία καταγραφής με κανένα άλλο εάν δεν επιθυμείτε αυτές οι πληροφορίες να εκτεθούν. Επιλέγοντας \"Συμφωνώ\" σημαίνει ότι διαβάσατε και συμφωνείτε στην &lt;a href=\"http://www.miui.com/res/doc/privacy.htmlregion=%1$s&amp;lang=%2$s\">Πολιτική Απορρήτου&lt;/a>και&lt;a href=\"http://www.miui.com/res/doc/eula.html?region=%3$s&amp;lang=%4$s\">Όροι Χρήσης&lt;/a>.</Data></string>
     <string name="bugreport_dump_start_notification_title">Γίνεται δημιουργία αναφοράς…</string>
     <string name="bugreport_dump_start_notification_summary">Αυτό μπορεί να διαρκέσει πολλά λεπτά.</string>
     <string name="bugreport_dump_complete_notification_title">Δημιουργήθηκε αναφορά</string>
@@ -242,6 +246,7 @@
     <string name="feedback_third_packagename_hint">Ποια τρίτη εφαρμογή δημιουργεί προβλήματα;</string>
     <string name="toast_third_packagename_required">Εισαγωγή ονόματος εφαρμογής</string>
     <string name="feedback_contact_info_hint">Αριθμός τηλεφώνου/Email</string>
+    <string name="toast_loading_app_id">Γίνεται λήψη πληροφοριών…</string>
     <string name="feedback_status_commit_succ_title">Έγινε υποβολή</string>
     <string name="feedback_status_commit_uploading_title">Γίνεται υποβολή…</string>
     <string name="feedback_status_commit_failed_title">Αδυναμία υποβολής αναφοράς</string>
@@ -259,7 +264,7 @@
     <string name="feedback_status_save_log_info_failed">Αδυναμία αλλαγής URL συνημμένου</string>
     <string name="feedback_status_submit_bbs_failed">Αδυναμία υποβολής περιεχομένου σχολίων</string>
     <string name="feedback_status_get_and_save_bbs_info_failed">Αδυναμία απόκτησης URL συνημμένου</string>
-    <string name="feedback_status_upload_log_failed">Αδυναμία μεταφόρτωσης συνημμένου</string>
+    <string name="feedback_status_upload_log_failed">Αδυναμία μεταφόρτωσης συνημμένων</string>
     <string name="feedback_status_change_notification_title">Έγινε ενημέρωση της προόδου της αναφοράς σας</string>
     <string name="feedback_bug_status_change_notification_desc">%1$s πρόβλημα \"%2$s\"</string>
     <string name="feedback_suggestion_status_change_notification_desc">%1$s πρόταση \"%2$s\"</string>
@@ -285,6 +290,8 @@
     <string name="warning_field_invalid">Επιλέξτε ένα έγκυρο %1$s</string>
     <string name="min_error">%1$s σας πρέπει να είναι πιο μακρύ.</string>
     <string name="max_error">%1$s σας πρέπει να είναι πιο μικρό.</string>
+    <string name="reply_option_log_hint">可选</string>
+    <string name="reply_select_log_hint">选择日志文件</string>
     <string name="title_mi_family">Κοντινά Mi Σπίτια</string>
     <string name="hint_feedback_main">Περιγράψτε το πρόβλημα</string>
     <string name="goon_feedback_main">Συνέχεια</string>
@@ -320,7 +327,6 @@
     <string name="toast_pic_not_exists">Η εικόνα διαγράφηκε από την προσωρινή μνήμη</string>
     <string name="toast_screenshot_too_large">Αδυναμία μεταφόρτωσης αρχείων μεγαλύτερων από 10MB.</string>
     <string name="toast_log_too_large">Αδυναμία μεταφόρτωσης. Το αρχείο είναι πολύ μεγάλο.</string>
-    <string name="title_bbs_feedback_main">Μάθετε περισσότερα για τα Mi τηλέφωνα</string>
     <string name="title_customer_service">Εξυπηρέτηση πελατών</string>
     <string name="customer_service_apply">Αίτηση για εξυπηρέτηση πελατών</string>
     <string name="customer_service_complain">Αναφορά εξυπηρέτησης πελατών</string>

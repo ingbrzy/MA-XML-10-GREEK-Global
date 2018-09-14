@@ -17,7 +17,7 @@
     <string name="recording">Γίνεται εγγραφή</string>
     <string name="recording_stopped">Διακόπηκε</string>
     <string name="timer_format" formatted="false">%02d:%02d</string>
-    <string name="error_sdcard_access">Αδυναμία πρόσβασης του χώρου αποθήκευσης</string>
+    <string name="error_sdcard_access">Αδυναμία πρόσβασης στην κάρτα SD</string>
     <string name="error_app_internal">Ελέγξτε αν κάποια άλλη εφαρμογή χρησιμοποιεί αυτή τη στιγμή την λειτουργία καταγραφής.</string>
     <string name="error_app_internal_title">Σφάλμα εγγραφής ήχου</string>
     <string name="error_file_access">Το αρχείο δεν υπάρχει ή είναι κατεστραμένο</string>
@@ -36,6 +36,7 @@
     <string name="no_file">Κενό</string>
     <string name="alert_message_delete_record_title">Διαγραφή εγγράφης;</string>
     <string name="alert_message_delete_record">Με την διαγραφή της ηχογράφησης από τη συσκευή σας, η ηχογράφηση θα διαγράφεί επίσης και από το Mi Cloud. Διαγραφή τώρα;</string>
+    <string name="alert_message_delete_local_record">Διαγραφή αυτού του στοιχείου;</string>
     <string name="share">Κοινοποίηση</string>
     <string name="rename">Μετονομασία</string>
     <string name="delete">Διαγραφή</string>
@@ -100,7 +101,7 @@
     <string name="cloud_record_tip">Συγχρονισμός ηχογραφήσεων με το Mi Cloud.</string>
     <string name="cloud_record_open">Συγχρονισμός ηχογραφήσεων</string>
     <string name="cloud_service_state_open_reminder">Ενεργοποιήστε το συγχρονισμό με Mi Cloud για συγχρονισμό αρχείων καταγραφής.</string>
-    <string name="cloud_status_full_dialog_title">Ο αποθηκευτικός χώρους του Mi Cloud είναι πλήρης</string>
+    <string name="cloud_status_full_dialog_title">Το Mi Cloud είναι πλήρης</string>
     <string name="cloud_status_full_dialog_msg">Ο αποθηκευτικός χώρος του cloud σας είναι πλήρης, αδυναμία συγχρονισμού ηχογραφήσεων. Αναβαθμίστε τον λογαριασμό σας για να αποκτήσετε περισσότερο αποθηκευτικό χώρο.</string>
     <string name="cloud_status_full_dialog_cancel">Όχι τώρα</string>
     <string name="cloud_status_full_dialog_ok">Αναβάθμιση</string>

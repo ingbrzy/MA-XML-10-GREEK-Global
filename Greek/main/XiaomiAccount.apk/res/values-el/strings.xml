@@ -300,6 +300,7 @@
     <string name="user_avatar_uploading">Περιμένετε μια στιγμή…</string>
     <string name="user_avatar_update_title">Αλλαγή φωτογραφίας προφίλ</string>
     <string name="photoPickerNotFoundText">Δεν υπάρχουν διαθέσιμες φωτογραφίες.</string>
+    <string name="account_invalid_user_avatar">Αυτή η φωτογραφία δεν είναι έγκυρη. Δοκιμάστε μία άλλη.</string>
     <string name="account_none_binded_info">Κανένα</string>
     <string name="account_bind_secure_phone_title">Προσθήκη αριθμού τηλεφώνου</string>
     <string name="account_bind_secure_email_title">Προσθήκη email</string>

@@ -13,7 +13,7 @@
     <string name="about_hide_mode">Σχετικά με Εξοικονόμηση μπαταρίας</string>
     <string name="show_system_app">Εμφάνιση εφαρμογών συστήματος</string>
     <string name="hide_system_app">Απόκρυψη εφαρμογών συστήματος</string>
-    <string name="about_extreme_mode">Ακραία εξοικονόμηση μπαταρίας</string>
+    <string name="about_extreme_mode">Ακραία λειτουργία</string>
     <string name="scenario_policies_title">Έξυπνα σενάρια</string>
     <string name="config_scenario_policies_title">Σενάρια</string>
     <string name="scenario_policies_summary">Εφαρμογή διαφορετικών τρόπων εξοικονόμησης ενέργειας για διαφορετικά σενάρια.</string>
@@ -38,7 +38,7 @@
     <string name="vip_feedback_enable">Ενεργοποίηση VIP σχολίων</string>
     <string name="extreme_power_config_mode_category">Ακραία λειτουργία</string>
     <string name="extreme_power_config_mode_title">Ακραία λειτουργία</string>
-    <string name="extreme_power_config_mode_desc">Εναλλαγή σε ακραία λειτουργία για απενεργοποίηση συγχρονισμού, Bluetooth, GPS, NFC, διπλού κλικ, φως πλήκτρων, ενεργοποίηση οθόνης κλειδώματος για ειδοποιήσεις, καθώς και φλας ειδοποιήσεων. Το MIUI θα εστιάσει στην εξοικονόμηση μπαταρίας.</string>
+    <string name="extreme_power_config_mode_desc">Εναλλαγή σε Ακραία λειτουργία για απενεργοποίηση συγχρονισμού, Bluetooth, GPS, NFC, φωτών πλήκτρων, διπλού κλικ, ξυπνήματος Οθόνης κλειδώματος για ειδοποιήσεις, καθώς και φλας ειδοποιήσεων. Το MIUI θα εστιάσει στην εξοικονόμηση μπαταρίας.</string>
     <string name="empty_title_apps_container_list">Δεν υπάρχουν εφαρμογές</string>
     <string name="hints_loading_text">Περιμένετε μία στιγμή…</string>
     <string name="config_mode_title">Ρυθμίσεις παρασκηνίου</string>
@@ -91,6 +91,6 @@
     <string name="appconfig_active_app_dialog_title">Διαχείριση ενεργών εγαρμογών</string>
     <string name="config_classify">Ταξινόμηση με τις ρυθμίσεις εφαρμογής</string>
     <string name="active_classify">Ταξινόμηση με κατάσταση δραστηριότητας</string>
-    <string name="extreme_mode_max_item_alert">Μόνο 4 εφαρμογές μπορούν να επιλεχθούν για να τρέχουν στο παρασκήνιο σε λειτουργία ακραίας εξοικονόμησης μπαταρίας</string>
-    <string name="message_i_know">Γνωρίζω</string>
+    <string name="extreme_mode_max_item_alert">Μπορείτε να επιλέξετε έως και 4 εφαρμογές να τρέξουν στο παρασκήνιο κατά την Ακραία λειτουργία</string>
+    <string name="message_i_know">Κατανοητό</string>
 </resources>

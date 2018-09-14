@@ -92,6 +92,7 @@
     <string name="hints_apk_header_left">Πακέτα</string>
     <string name="hints_residual_header_left">Κατάλοιπα</string>
     <string name="hints_memory_header_left">Μνήμη</string>
+    <string name="hints_header_left">%d</string>
     <string name="hints_large_file_header_left">Μεγάλα αρχεία: %d</string>
     <string name="hints_installed_apps_header_left">Εγκατεστημένες εφαρμογές: %d</string>
     <string name="toast_resolve_apk_error">Επίλυση apk σφάλματος</string>
@@ -299,6 +300,7 @@
     <string name="downloading">Γίνεται λήψη</string>
     <string name="installing">Γίνεται εγκατάσταση</string>
     <string name="start_install">Εγκατάσταση τώρα</string>
+    <string name="empty">" "</string>
     <string name="open_browser">Άνοιγμα στον φυλλομετρητή</string>
     <string name="title_share_link">Κοινοποίηση URL</string>
     <string name="connecting">Γίνεται σύνδεση…</string>
@@ -555,7 +557,7 @@
     <string name="whatsapp_title">Καθαρισμός WhatsApp</string>
     <string name="whatsapp_function_title">Καθαρισμός WhatsApp</string>
     <string name="whatsapp_function_summery">Διαγραφή Συνημένων WhatsApp</string>
-    <string name="clean_summary">Έγινε εκκαθάριση %1$s αρχείων</string>
+    <string name="clean_summary">Έγινε εκκαθάριση %1$s</string>
     <string name="onekeyclean_boosting_title">Γίνεται ενίσχυση ταχύτητας</string>
     <string name="onekeyclean_boosted_title">Επιτυχής εκκαθάριση</string>
     <string name="onekeyclean_boost_cleaned">Έγινε εκκαθάριση %s</string>
@@ -565,4 +567,6 @@
     <string name="memory_clean_icon_text">Εκκαθάριση μνήμης</string>
     <string name="pref_title_create_onekeyclean_shortcut">Προβολή συντομεύσης Αρχικής οθόνης</string>
     <string name="memory_clean_no_trash_tip">Όλα φαίνεται να λειτουργούν σωστά</string>
+    <string name="toast_updater_open_4g_text">Οι εφαρμογές θα ενημερωθούν με τη χρήση δεδομένων κινητής τηλεφωνίας (4G)</string>
+    <string name="toast_updater_close_4g_text">Οι εφαρμογές δεν θα ενημερωθούν με τη χρήση δεδομένων κινητής τηλεφωνίας (4G)</string>
 </resources>

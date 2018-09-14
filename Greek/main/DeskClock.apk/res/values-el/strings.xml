@@ -62,7 +62,7 @@
     <string name="edit_alarm">Επεξεργασία ξυπνητήρι</string>
     <string name="edit_systemtime">Επεξεργασία ώρας συστήματος</string>
     <string name="every_day">Κάθε ημέρα</string>
-    <string name="expired_timers_dismissed">Απόρριψη χρονοδιακόπτη</string>
+    <string name="expired_timers_dismissed">Επιτυχής απόρριψη χρονοδιακόπτη</string>
     <string name="force_touch_add_alarm">Προσθήκη ξυπνητηριού</string>
     <string name="force_touch_enter_stopwatch">Χρονόμετρο</string>
     <string name="force_touch_enter_timer">Αντίστροφη μέτρηση</string>
@@ -73,7 +73,7 @@
     <string name="install_weather_app_error">Αδυναμία φόρτωσης εφαρμογής</string>
     <string name="install_weather_app_loading">Περιμένετε μία στιγμή…</string>
     <string name="invalid_time">Μη έγκυρος χρόνος: %3$s %1$d: %2$d</string>
-    <string name="invalid_timer_length">Invalid timer length</string>
+    <string name="invalid_timer_length">Η διάρκεια του χρονοδιακόπτη δεν είναι έγκυρη</string>
     <string name="keep_screen_on">Διατήρηση ενεργής οθόνης</string>
     <string name="label">Ορισμός ετικέτας</string>
     <string name="label_pref_summary">Ετικέτα</string>
@@ -152,6 +152,7 @@
     <string name="shutdown_alarm_enable_summary">Το ξυπνητήρι θα ηχεί όταν το τηλέφωνο είναι εκτός λειτουργίας</string>
     <string name="shutdown_alarm_title">Απενεργοποίηση ξυπνητηριού</string>
     <string name="silent_alarm_summary">Αθόρυβο</string>
+    <string name="skip_alarm_date_format">%1$s (%2$s)</string>
     <string name="skip_alarm_once_hint">Απενεργοποίηση μία φορά σε %s</string>
     <string name="slider_text">Σάρωση προς τα επάνω για απενεργοποίηση</string>
     <string name="snooze_confirm_cancel">Κατάργηση ξυπνητηριού</string>
@@ -160,6 +161,7 @@
     <string name="start_up">Εκκίνηση</string>
     <string name="stopwatch_lap_empty_text">Δεν υπάρχουν γύροι</string>
     <string name="stopwatch_title">Χρονόμετρο</string>
+    <string name="symbol_colon">:</string>
     <string name="system_time_setting">Ρυθμίσεις</string>
     <string name="system_time_settings_category_title">Ρυθμίσεις ώρας</string>
     <string name="temperature_unit">%1$s°</string>
@@ -184,7 +186,7 @@
     <string name="timer_clock_alert_text">Ορισμός αντίστροφης μέτρησης</string>
     <string name="timer_continue">Συνέχεια</string>
     <string name="timer_continue_timer">Συνέχεια αντίστροφης μέτρησης</string>
-    <string name="timer_created">Δημιουργία χρονοδιακόπτη</string>
+    <string name="timer_created">Επιτυχής προσθήκη χρονοδιακόπτη</string>
     <string name="timer_end_time">Ο χρονοδιακόπτης θα σταματήσει στο %s</string>
     <string name="timer_end_time_format">HH:mm dd MMM</string>
     <string name="timer_end_time_format_today">HH:mm</string>

@@ -52,6 +52,10 @@
         <item quantity="other">Η κάρτα SIM μπορεί να αποθηκεύσει %1$d επαφές.</item>
         <item quantity="one">Η κάρτα SIM μπορεί να αποθηκεύσει %1$d επαφή.</item>
     </plurals>
+    <plurals name="foundTooManyContacts_plurals">
+        <item quantity="other">Βρέθηκαν πάνω από %d επαφές.</item>
+        <item quantity="one">Βρέθηκε πάνω από %d επαφή.</item>
+    </plurals>
     <plurals name="group_add_success_toast">
         <item quantity="other">%1$d επαφές προστέθηκαν</item>
         <item quantity="one">%1$d επαφή προστέθηκε</item>
@@ -80,6 +84,10 @@
         <item quantity="other">%1$d αριθμοί</item>
         <item quantity="one">%1$d αριθμός</item>
     </plurals>
+    <plurals name="label_duplicate_count_plurals">
+        <item quantity="other">(%1$d)</item>
+        <item quantity="one">(%1$d)</item>
+    </plurals>
     <plurals name="listFoundAllContacts">
         <item quantity="other">%d βρέθηκαν</item>
         <item quantity="one">1 βρέθηκε</item>
@@ -91,6 +99,10 @@
     <plurals name="listTotalPhoneContacts">
         <item quantity="other">%d επαφές με αριθμούς</item>
         <item quantity="one">1 επαφή με αριθμό</item>
+    </plurals>
+    <plurals name="merge_contact_message_plurals">
+        <item quantity="other">%1$d επαφές με μερικώς πανομοιότυπες πληροφορίες</item>
+        <item quantity="one">%1$d επαφές με μερικώς πανομοιότυπες πληροφορίες</item>
     </plurals>
     <plurals name="merge_info">
         <item quantity="other">συγχωνεύθηκν από %0$d πηγές</item>
@@ -139,6 +151,14 @@
     <plurals name="searchFoundContacts">
         <item quantity="other">%d βρέθηκαν</item>
         <item quantity="one">1 βρέθηκε</item>
+    </plurals>
+    <plurals name="select_all_exceed_plurals">
+        <item quantity="other">Επιλέξτε λιγότερο από %1$d, αδυναμία επιλογής όλων</item>
+        <item quantity="one">Επιλέξτε λιγότερο από %1$d, αδυναμία επιλογής όλων</item>
+    </plurals>
+    <plurals name="select_exceed_plurals">
+        <item quantity="other">Επιλέξτε λιγότερο από %1$d</item>
+        <item quantity="one">Επιλέξτε λιγότερο από %1$d</item>
     </plurals>
     <plurals name="smart_group_member_count">
         <item quantity="other">%1$d άτομα</item>

@@ -4,20 +4,6 @@
         <item>Αγόρι</item>
         <item>Κορίτσι</item>
     </string-array>
-    <string-array name="collage_month">
-        <item>Ιαν</item>
-        <item>Φεβ</item>
-        <item>Μαρ</item>
-        <item>Απρ</item>
-        <item>Μάιος</item>
-        <item>Ιουν</item>
-        <item>Ιουλ</item>
-        <item>Αυγ</item>
-        <item>Σεπ</item>
-        <item>Οκτ</item>
-        <item>Νοε</item>
-        <item>Δεκ</item>
-    </string-array>
     <string-array name="owner_relation">
         <item>Πατέρας</item>
         <item>Μητέρα</item>

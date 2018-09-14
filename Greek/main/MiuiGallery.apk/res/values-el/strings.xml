@@ -21,6 +21,7 @@
     <string name="add_to_secret_successful">Έγινε προσθήκη σε κρυφό άλμπουμ</string>
     <string name="add_to_share_album_not_delete">Αδυναμία διαγραφής φωτογραφίας από Κοινοποιημένα Άλμπουμ</string>
     <string name="added_to_favorites">Έγινε προσθήκη στα αγαπημένα</string>
+    <string name="added_to_favorites_desc">Προστέθηκε στα αγαπημένα</string>
     <string name="added_to_favorites_tip">Έγινε προσθήκη στο άλμπουμ \"Αγαπημένα\"</string>
     <string name="adding">Γίνεται προσθήκη…</string>
     <string name="adding_recipients">Γίνεται προσθήκη παραληπτών…</string>
@@ -98,7 +99,6 @@
     <string name="app_name_view_picture">Προβολή φωτογραφιών</string>
     <string name="app_name_view_video">Δείτε βίντεο</string>
     <string name="apply">Εφαρμογή</string>
-    <string name="assistant_page_label">Βοηθός</string>
     <string name="associate_face_album">Επιλογή άλμπουμ</string>
     <string name="auto_backup_introduce">Δημιουργία αντιγράφων ασφαλείας για φωτογραφίες και βίντεο αυτόματα(απαιτείται Mi Λογαριασμός)</string>
     <string name="auto_download_media_title">Αυτόματη λήψη φωτογραφιών από Mi Cloud</string>
@@ -226,7 +226,7 @@
     <string name="cleaner_screen_shot_action">Εκκαθάριση</string>
     <string name="cleaner_screen_shot_description">Διαγραφή στιγμιότυπων οθόνης που δεν χρειάζεστε πλέον.</string>
     <string name="cleaner_screen_shot_title">Διαγραφή στιγμιότυπων οθόνης</string>
-    <string name="cleaner_slim_action">Γίνεται έναρξη βελτιστοποίησης…</string>
+    <string name="cleaner_slim_action">Start optimization</string>
     <string name="cleaner_slim_description">Διατηρήστε βελτιστοποιημένες φωτογραφίες στην συσκευή σας. Τα αρχικά αρχεία θα αποθηκευτούν στο Mi Cloud.</string>
     <string name="cleaner_slim_start">Βελτιστοποίηση</string>
     <string name="cleaner_slim_title">Βελτιστοποίηση φωτογραφιών</string>
@@ -261,6 +261,9 @@
     <string name="cloudfolder_name_reserved">Το όνομα του άλμπουμ είναι κρατημένο</string>
     <string name="collage__talkback_effect">%d εφέ</string>
     <string name="collage_choose">Επιλογή</string>
+    <string name="collage_drawable_normal_date_format">dd/ΜΜ/yyyy</string>
+    <string name="collage_drawable_rect_date_month_day">dd MMM</string>
+    <string name="collage_drawable_rect_date_year">yyyy</string>
     <string name="collage_margin_text">Περιθώρια</string>
     <string name="collage_mirror">Καθρέπτης</string>
     <string name="collage_poster_global_cat_text">ΠΑΤΟΥΣΕΣ</string>
@@ -463,6 +466,7 @@
     <string name="face_name_edit">Επεξεργασία</string>
     <string name="face_name_input">Εισαγωγή ονόματος</string>
     <string name="face_recommend">Προτάσεις</string>
+    <string name="face_recommend_group_number">%1$d/%2$d</string>
     <string name="fail_hint">Αδυναμία ολοκλήρωσης λειτουργίας</string>
     <string name="fail_to_pick_email">Μη έγκυρη διεύθυνση email</string>
     <string name="fail_to_sync_album">Αδυναμία συγχρονισμού άλμπουμ. Ελέγξτε την σύνδεση δεδομένων σας και προσπαθήστε ξανά.</string>
@@ -473,6 +477,7 @@
     <string name="feature_guidance_photo_effects">"Νέα εφέ
  φωτογραφίας διαθέσιμα"</string>
     <string name="feature_guidance_video_editor_smart_effects">Νέα εφέ διαθέσιμα</string>
+    <string name="fileSizeSuffix">%1$s%2$s</string>
     <string name="filter_bi_memory">Μνήμη</string>
     <string name="filter_bi_mono">Μονόχρωμο</string>
     <string name="filter_bi_pink">Ροζ</string>
@@ -541,6 +546,7 @@
     <string name="gif_tip">GIF</string>
     <string name="gigabyteShort">GB</string>
     <string name="grant_permission_go_and_set">Ρύθμιση</string>
+    <string name="grant_permission_item">\"%s\"</string>
     <string name="grant_permission_text">"Η Συλλογή απαιτεί πρόσβαση σε 
 %s
  για κανονική λειτουργία, πατήστε \"Ρύθμιση\" για να μεταβείτε στις Άδειες."</string>
@@ -649,6 +655,7 @@
     <string name="merge_album_title">Συγχώνευση με ένα άτομο</string>
     <string name="messagelist_sender_self">Εγώ</string>
     <string name="micloud_introduce">Δημιουργία αντιγράφων ασφαλείας για φωτογραφίες και βίντεο αυτόματα(απαιτείται Mi Λογαριασμός)</string>
+    <string name="more">Περισσότερα</string>
     <string name="more_album_hint">, κλπ.</string>
     <string name="more_face">Περισσότερα άτομα που μοιάζουν</string>
     <string name="more_face_album_name">Περισσότερα πρόσωπα</string>
@@ -699,6 +706,7 @@
     <string name="operation_edit_video">Επεξεργασία</string>
     <string name="operation_enable_auto_upload">Ενεργοποίηση συγχρονισμού με Mi Cloud</string>
     <string name="operation_failed">Αδυναμία ολοκλήρωσης λειτουργίας</string>
+    <string name="operation_favorites">Αγαπημένα</string>
     <string name="operation_force_top">Καρφίτσωμα</string>
     <string name="operation_hide">Απόκρυψη</string>
     <string name="operation_in_process">Γίνεται επεξεργασία…</string>
@@ -736,6 +744,7 @@
     <string name="people_mark_mode_title_no_mark_name">Επιλέξτε ένα άτομο</string>
     <string name="people_page_label">Άτομα</string>
     <string name="people_page_unname">Χωρίς όνομα</string>
+    <string name="percent_sign">%</string>
     <string name="pet_album_display_name">Φωτογραφίες κατοικίδιων</string>
     <string name="petabyteShort">PB</string>
     <string name="photo">Φωτογραφίες</string>
@@ -867,6 +876,10 @@
     <string name="play_gif_desc">Αναπαραγωγή GIF</string>
     <string name="play_video_desc">Αναπαραγωγή βίντεο</string>
     <string name="preparing_data">Περιμένετε μια στιγμή…</string>
+    <string name="privacy_permission_request_message">Η Συλλογή χρειάζεται πρόσβαση στο %3$s. Οι πληροφορίες που συλλέγουμε θα χρησιμοποιηθούν σύμφωνα με την %1$s και την %2$s μας. Αποδοχή;</string>
+    <string name="privacy_permission_request_negative">Περιορισμός</string>
+    <string name="privacy_permission_request_positive">Αποδοχή</string>
+    <string name="privacy_permission_request_title">Απαιτούνται άδειες</string>
     <string name="projection_cancel">Ακύρωση</string>
     <string name="projection_checkbox_text">Απομνημόνευση αυτής της οθόνης</string>
     <string name="projection_device_connection_failed">Αδυναμία σύνδεσης προβολέα</string>
@@ -912,6 +925,7 @@
     <string name="remove_from_secret_successful">Έγινε αφαίρεση από κρυφό άλμπουμ</string>
     <string name="remove_to_album_title">Συγχώνευση με</string>
     <string name="remove_to_other_album">Συγχώνευση με ένα διαφορετικό άτομο</string>
+    <string name="removed_from_favorites_desc">Αφαιρέθηκε από τα αγαπημένα</string>
     <string name="remover_edit_type_free">Αντικείμενα</string>
     <string name="remover_edit_type_line">Γραμμές</string>
     <string name="remover_erase_aera_too_big">Η περιοχή εκκαθάρισης είναι πολύ μεγάλη</string>
@@ -988,6 +1002,9 @@
     <string name="search_title_recommend">Προτεινόμενα</string>
     <string name="search_title_suggestion">Προτάσεις</string>
     <string name="search_title_tag">Αντικείμενα</string>
+    <string name="search_transition_element_icon">search_icon</string>
+    <string name="search_transition_element_input">search_input</string>
+    <string name="search_transition_element_voice">search_voice</string>
     <string name="searching_cast_devices">Αναζήτηση για προβολέα…</string>
     <string name="secret_album_card_description">Το καλύτερο μέρος για όλα τα μυστικά σας</string>
     <string name="secret_album_card_title">Δοκιμάστε τα κρυφά άλμπουμ</string>
@@ -1170,10 +1187,15 @@
     <string name="video_editor_auto_trim">Αυτόματο ψαλίδισμα</string>
     <string name="video_editor_auto_trim_tip">Αυτόματη αποκοπή…</string>
     <string name="video_editor_cancel">Ακύρωση</string>
+    <string name="video_editor_cancel_download">Ακύρωση</string>
     <string name="video_editor_done">Ολοκλήρωση</string>
     <string name="video_editor_down_load_later">Αργότερα</string>
     <string name="video_editor_down_load_no_wifi_tips">Σύνδεση στο δίκτυο για λήψη</string>
     <string name="video_editor_down_load_now">Λήψη</string>
+    <string name="video_editor_download">Λήψη</string>
+    <string name="video_editor_download_failed_for_notwork">Αδυναμία λήψης. Συνδεθείτε στο δίκτυο και προσπαθήστε ξανά.</string>
+    <string name="video_editor_download_without_wifi_msg">Θα αυξηθεί η χρήση δεδομένων σας, εάν χρησιμοποιήσετε δεδομένα κινητής τηλεφωνίας για την λήψη αρχείων. Εάν ξεπεράσετε το όριο του πλάνου δεδομένων σας, ενδέχεται να χρεωθείτε επιπλέον από τον πάροχό σας.</string>
+    <string name="video_editor_download_without_wifi_title">Προειδοποίηση κατανάλωσης δεδομένων</string>
     <string name="video_editor_encode_video">Γίνεται κωδικοποίηση βίντεου…</string>
     <string name="video_editor_encode_video_error">Αδυναμία κωδικοποίησης βίντεου</string>
     <string name="video_editor_fatal_error">Άγνωστο σφάλμα</string>
@@ -1212,6 +1234,8 @@
     <string name="video_editor_res_download_mobil_network_confirm_msg">Λήψη τραγουδιών με την χρήση δεδομένων;</string>
     <string name="video_editor_res_download_mobil_network_confirm_title">Με χρήση δεδομένων κινητής τηλεφωνίας</string>
     <string name="video_editor_res_not_load_dialog_msg">Λήψη τραγουδιών για την χρήση αυτής της λειτουργίας( παραπάνω από 20MB).</string>
+    <string name="video_editor_return">Πίσω</string>
+    <string name="video_editor_save">Αποθήκευση</string>
     <string name="video_editor_smart_effect_beat">Χτυπήματα</string>
     <string name="video_editor_smart_effect_big_film">Επικό</string>
     <string name="video_editor_smart_effect_cadence">Ρυθμός</string>
@@ -1257,6 +1281,7 @@
     <string name="view_face_album">Προβολή άλμπουμ</string>
     <string name="view_more_face_desc">Εμφάνιση περισσότερων ατόμων</string>
     <string name="voice_assistant">Εισαγωγή φωνής</string>
+    <string name="welcome_to_auto_backup">@string/welcome_to_micloud</string>
     <string name="welcome_to_micloud">Καλωσορίσατε στο Mi Cloud</string>
     <string name="where_is_barcode">Που είναι ο QR κωδικός;</string>
     <string name="who_is_this">Ποιος είναι;</string>

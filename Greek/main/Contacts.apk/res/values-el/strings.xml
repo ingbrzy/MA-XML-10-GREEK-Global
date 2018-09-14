@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <string name="status_bar_notification_info_overflow">999+</string>
     <string name="accessibility_calllog_detail">Λεπτομέρειες ιστορικού κλήσεων</string>
     <string name="accessibility_contact_detail">Λεπτομέρειες επαφής</string>
     <string name="account_container_title">Εισαγωγή από</string>
@@ -55,7 +56,6 @@
     <string name="btn_split_contact">Διαχωρισμός</string>
     <string name="button_cancel_scan">Διακοπή</string>
     <string name="button_join_service_number">Προσθήκη αριθμού υπηρεσίας</string>
-    <string name="button_my_center">Προφίλ</string>
     <string name="button_scan">Σάρωση ξανά</string>
     <string name="caching_vcard_message">Γίνεται προσωρινή αποθήκευση vCard στην μνήμη συσκευής…</string>
     <string name="caching_vcard_title">Γίνεται αποθήκευση στην προσωρινή μνήμη</string>
@@ -99,6 +99,7 @@
     <string name="call_sim_menu_title_suffix">(Βασικό)</string>
     <string name="call_telex">Κλήση telex</string>
     <string name="call_tty_tdd">Κλήση TTY/TDD</string>
+    <string name="call_type_and_date">%1$s %2$s</string>
     <string name="call_unit">CNY</string>
     <string name="call_work">Κλήση εργασίας</string>
     <string name="call_work_mobile">Κλήση κινητού εργασίας</string>
@@ -191,6 +192,7 @@
     <string name="composer_failed_to_get_database_infomation">Αδυναμία ανάκτησης πληροφοριών από τη βάση δεδομένων.</string>
     <string name="composer_has_no_exportable_contact">Δεν υπάρχουν επαφές με δυνατότητα εξαγωγής. Αν έχετε επαφές στην συσκευή σας, ορισμένοι πάροχοι δεδομένων ενδέχεται να μην επιτρέπουν τις επαφές αυτές να εξαχθούν από την συσκευή.</string>
     <string name="composer_not_initialized">Δεν έγινε σωστή εκκίνηση του συθέτη vCard.</string>
+    <string name="conference_call_disable_tip">Αδυναμία πραγματοποίησης κλήσεων. Βεβαιωθείτε ότι η συσκευή σας είναι συνδεδεμένη σε δίκτυο 4G με υποστήριξη VoLTE.</string>
     <string name="confirm_delete_contact_all_call_logs">Εκκαθάριση όλου του ιστορικού %s;</string>
     <string name="confirm_delete_selected_all_call_logs">Εκκαθάριση ιστορικού κλήσεων?</string>
     <string name="confirm_delete_sim_entry_miui_title">Διαγραφή</string>
@@ -398,6 +400,7 @@
     <string name="dialer_menu_description">Εμφάνιση μενού</string>
     <string name="dialer_menu_title">Επιλογές μενού</string>
     <string name="dialer_returnToInCallScreen">Επιστροφή στην κλήση σε εξέλιξη</string>
+    <string name="dialer_title_divider">" ｜ "</string>
     <string name="dialer_useDtmfDialpad">Χρήση ήχου αφής πληκτρολογίου</string>
     <string name="dialog_import">Εισαγωγή επαφών</string>
     <string name="dialog_import_export">Εισαγωγή/εξαγωγή επαφών</string>
@@ -485,8 +488,8 @@
     <string name="firewall_setting">Λίστα αποκλεισμών</string>
     <string name="force_touch_miprofile">Kαρτέλα επαφής</string>
     <string name="force_touch_new_contact">Νέα επαφή</string>
-    <string name="foundTooManyContacts">Πάνω από %d βρέθηκαν.</string>
     <string name="frequentList">Συχνές</string>
+    <string name="from_account_format">%1$s</string>
     <string name="full_name">Όνομα</string>
     <string name="gallery">Συλλογή</string>
     <string name="generic_no_account_prompt">Διατηρήστε τις επαφές σας ασφαλείς ακόμα και αν χάσετε το τηλέφωνό σας: κάντε συγχρονισμό με μια on-line υπηρεσία.</string>
@@ -654,7 +657,6 @@
     <string name="menu_splitAggregate">Διαχωρισμός</string>
     <string name="menu_sync_remove">Αφαίρεση ομάδας συγχρονισμού</string>
     <string name="menu_viewContact">Προβολή επαφής</string>
-    <string name="merge_contact_message">%1$d επαφές με εν μέρει παρόμοιες πληροφορίες</string>
     <string name="messageShortcutActivityTitle">Επιλογή αριθμού για αποστολή μηνύματος</string>
     <string name="miprofile_account_type">Kαρτέλες επαφών</string>
     <string name="miprofile_alertdialog_edit">Εισαγωγή ονόματος</string>
@@ -668,6 +670,7 @@
     <string name="miprofile_contact_header">Επαφές με καρτέλες επαφών</string>
     <string name="miprofile_contact_meaasge">Τοπικές επαφές</string>
     <string name="miprofile_contact_verifying">Γίνεται επικύρωση</string>
+    <string name="miprofile_delete_alertdialog_message">@string/miprofile_switch_off_alertdialog_message</string>
     <string name="miprofile_edit_title">Επεξεργασία προφίλ</string>
     <string name="miprofile_error_accept_self">Δεν μπορείτε να ανταλλάξετε την δικιά σας καρτέλα επαφής</string>
     <string name="miprofile_error_no_miaccount">Συνδεθείτε στο Mi Λογαριασμό σας</string>
@@ -812,7 +815,10 @@
     <string name="path_wipe_data">Εφαρμογές συστήματος/Επαφές/Οργάνωση επαφών/Εκκαθάριση δεδομένων</string>
     <string name="payphone">Συνδρομητικό τηλέφωνο</string>
     <string name="people">Επαφές</string>
+    <string name="percent_sign">%</string>
+    <string name="percentage">%s%%</string>
     <string name="phoneLabelsGroup">Τηλέφωνο</string>
+    <string name="phone_info_divider">" ｜ "</string>
     <string name="phone_number_too_long_toast">Ο αριθμός είναι πολύ μακρύς</string>
     <string name="phone_primary">Κύριο</string>
     <string name="photoPickerNotFoundText">Δεν υπάρχουν διαθέσιμες φωτογραφίες στην συσκευή.</string>
@@ -1007,8 +1013,6 @@
     <string name="search_wipe_data">Οργάνωση;Επαφές</string>
     <string name="searching_vcard_message">Αναζήτηση δεδομένων vCard από την συσκευή…</string>
     <string name="select_all">Επιλογή όλων</string>
-    <string name="select_all_exceed">Επιλέξτε μέχρι και %1$d, δεν μπορείτε να επιλέξτε τα πάντα</string>
-    <string name="select_exceed">Επιλέξτε μέχρι και %1$d</string>
     <string name="select_groups">Επιλογή ομάδων</string>
     <string name="select_none">Δεν επιλέχθηκαν αντικείμενα</string>
     <string name="select_show_contacts">Λίστα επαφών</string>
@@ -1061,6 +1065,7 @@
     <string name="sim_unloaded">Η κάρτα SIM δεν εγκαταστάθηκε</string>
     <string name="sina_weibo">Sina Weibo</string>
     <string name="single_group_list_empty">Δεν υπάρχουν μέλη ομάδας</string>
+    <string name="smart_group_action_bar_title">%1$s: %2$s (%3$s)</string>
     <string name="smart_group_company_label">Εταιρίες</string>
     <string name="smart_group_company_unavailable">Δεν υπάρχουν πληροφορίες εταιρίας</string>
     <string name="smart_group_frequency_1">Εντός του περασμένου μήνα</string>
@@ -1195,6 +1200,7 @@
     <string name="voip_audio_description">Κλήση VoIP</string>
     <string name="voip_video_description">Βιντεοκλήση VoIP</string>
     <string name="websiteLabelsGroup">Ιστοσελίδα</string>
+    <string name="widget_name_and_phonetic">%1$s (%2$s)</string>
     <string name="wipe_data">Εκκαθάριση δεδομένων</string>
     <string name="yellowPageNavigationIconLabel">Κίτρινες σελίδες</string>
     <string name="yellowPageNavigationLabel">Κίτρινες σελίδες</string>
@@ -1221,4 +1227,5 @@
     <string name="yellowpage_search_the_yellowpage">Αναζήτηση στις Κίτρινες σελίδες</string>
     <string name="yellowpage_user_profile">Προφίλ</string>
     <string name="zero_items_selected">Επιλογή αντικειμένων</string>
+    <string name="button_my_center">Προφίλ</string>
 </resources>

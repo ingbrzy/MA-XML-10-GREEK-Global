@@ -28,7 +28,7 @@
     </string-array>
     <string-array name="prefEntries_vibrateWhen">
         <item>Πάντα</item>
-        <item>Μόνο στο αθόρυβο</item>
+        <item>Μόνο κατά την Αθόρυβη λειτουργία</item>
         <item>Ποτέ</item>
     </string-array>
     <string-array name="resent_via_entries_mms">

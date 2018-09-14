@@ -120,6 +120,14 @@
         <item quantity="other">Βρέθηκαν %d προβλήματα μπαταρίας, επιδιορθώστε τα</item>
         <item quantity="one">Βρέθηκε %d πρόβλημα μπαταρίας, επιδιορθώστε το</item>
     </plurals>
+    <plurals name="power_center_menu_text">
+        <item quantity="other">αντικείμενα</item>
+        <item quantity="one">αντικείμενο</item>
+    </plurals>
+    <plurals name="power_center_list_item_optimize_button">
+        <item quantity="other">Προσθήκη %d λεπτών</item>
+        <item quantity="one">Προσθήκη %d λεπτού</item>
+    </plurals>
     <plurals name="people">
         <item quantity="other">Έγινε λήψη από %1$d άτομα</item>
         <item quantity="one">Έγινε λήψη από %1$d άτομο</item>
@@ -351,6 +359,10 @@
     <plurals name="privacy_apps_disable_header_title">
         <item quantity="other">%d εφαρμογές κρύφτηκαν</item>
         <item quantity="one">%d εφαρμογή κρύφτηκε</item>
+    </plurals>
+    <plurals name="first_aid_card_float_window_summary">
+        <item quantity="other">Οι εφαρμογές %d μπορεί να εμφανίζεται λανθασμένα. Περιορίστε τις αναδυόμενες ειδοποιήσεις.</item>
+        <item quantity="one">Η εφαρμογή %d μπορεί να εμφανίζεται λανθασμένα. Περιορίστε τις αναδυόμενες ειδοποιήσεις.</item>
     </plurals>
     <plurals name="first_aid_result_summary_exception">
         <item quantity="other">%1$d προβλήματα χρειάζονται βελτιστοποίηση</item>

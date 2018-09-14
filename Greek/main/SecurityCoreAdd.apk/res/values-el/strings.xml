@@ -287,6 +287,8 @@
     <string name="xpsace_guide_button">Δημιουργία</string>
     <string name="search_input_txt_na">"&lt;font color='#ff0000'>%s&lt;/font>"</string>
     <string name="search_result_text">Αδυναμία εύρεσης εφαρμογών</string>
+    <string name="confirm_close_password_title">Γίνεται απενεργοποίηση κωδικού</string>
+    <string name="confirm_close_password_desc">Δεν θα έχετε δυνατότητα εισαγωγής στον Δεύτερο χώρο από την Οθόνη κλειδώματος μετά την απενεργοποίηση του κωδικού. Απενεργοποίηση ούτως ή άλλως;</string>
     <string name="xspace_weixin_title">WeChat</string>
     <string name="weixin_pay">WeChat Pay</string>
     <string name="weixin_share_sign">Σύνδεση και κοινοποίηση</string>

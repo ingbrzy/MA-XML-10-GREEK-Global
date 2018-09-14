@@ -67,6 +67,7 @@
     <string name="disagree">Ακύρωση</string>
     <string name="setting_locale">Γίνεται ρύθμιση περιοχής…</string>
     <string name="agree_terms">Έχω διαβάσει και αποδέχομαι τους Όρους Υπηρεσίας και την Πολιτική Απορρήτου.</string>
+    <string name="poco_agree_terms_other">(Περιλαμβανομένης και της Πολιτικής Απορρήτου και της Συμφωνίας Χρήστη του Προγράμματος Εκκίνησης POCO)</string>
     <string name="agree_terms_input_method_facemoji">Έχω διαβάσει και αποδέχομαι την Πολιτική Απορρήτου Facemoji.</string>
     <string name="agree_terms_input_method_kika">Έχω διαβάσει και αποδέχομαι την Πολιτική Απορρήτου Kika.</string>
     <string name="miui_terms_no_network">Δεν έχετε σύνδεση Ίντερνετ. Δείτε τους Όρους Υπηρεσίας στο %s.</string>
@@ -100,5 +101,16 @@
     <string name="continue_to_enable_accessibility">Πατήστε παρατεταμένα με δυο δάκτυλα για να ενεργοποιήστε την πρόσβαση.</string>
     <string name="voice_assist_title">Ενεργοποίηση με φωνή</string>
     <string name="voice_assist_desp">Εκφωνήστε \"Mi AI\" στο τηλέφωνο σας. Το Mi AI θα αναγνωρίσει την φωνή σας και θα έχει δυνατότητα ελέγχου της συσκευής σας.</string>
-    <string name="voice_assist_desp_screen_light">Εκφωνήστε \"Mi AI\" στο τηλέφωνο σας αφώτου φωτιστεί η οθόνη σας. Το Mi AI θα αναγνωρίσει τη φωνή σας και θα έχει δυνατότητα ελέγχου της συσκευής σας.</string>
+    <string name="voice_assist_condition">"Θα είστε σε θέση να χρησιμοποιήσετε το Mi AI στις εξής περιπτώσεις: 
+1. Όταν η οθόνη είναι ενεργοποιημένη. 
+2. Όταν ακούτε μουσική με την οθόνη σας απενεργοποιημένη."</string>
+    <string name="voice_assist_advice">Το Mi AI σάς επιτρέπει να χρησιμοποιείτε έλεγχο φωνής, αλλά καταναλώνει περισσότερη ισχύ (+1% κάθε ώρα).</string>
+    <string name="ai_button_title">Σχετικά με το κουμπί ΑΙ</string>
+    <string name="ai_button_desc">Χρησιμοποιήστε αυτό το κουμπί για να ενεργοποιήσετε το Mi AI και ολοκληρώστε τις εργασίες στο τηλέφωνό σας χρησιμοποιώντας τη φωνή σας</string>
+    <string name="ai_button_long_press">Πατήστε παρατεταμένα</string>
+    <string name="ai_button_long_press_desc">Πείτε την εντολή σας και ελευθερώστε το κουμπί</string>
+    <string name="ai_button_single_press">Πάτημα</string>
+    <string name="ai_button_single_press_desc">Ενεργοποίηση Mi AI</string>
+    <string name="ai_button_double_press">Διπλό πάτημα</string>
+    <string name="ai_button_double_press_desc">Ρύθμιση λειτουργιών Mi AI</string>
 </resources>

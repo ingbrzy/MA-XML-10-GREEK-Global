@@ -52,6 +52,18 @@
         <item quantity="other">%1$d ωρ %2$d λεπ</item>
         <item quantity="one">%1$d ωρ %2$d λεπ</item>
     </plurals>
+    <plurals name="keyguard_extreme_power_info_could_use_hour_time_text">
+        <item quantity="other">"Απομένουν %d  ώρες"</item>
+        <item quantity="one">"Απομένει %d  ώρα"</item>
+    </plurals>
+    <plurals name="keyguard_extreme_power_info_could_use_min_time_text">
+        <item quantity="other">"Απομένουν %d  λεπτά"</item>
+        <item quantity="one">"Απομένει %d  λεπτό"</item>
+    </plurals>
+    <plurals name="keyguard_extreme_power_info_could_use_time_text">
+        <item quantity="other">Απομένουν %1$d h %2$d m</item>
+        <item quantity="one">Απομένει %1$d h%2$d m</item>
+    </plurals>
     <plurals name="kg_password_default_pin_message">
         <item quantity="other">Εισαγωγή SIM PIN, σας απομένουν %d ακόμη προσπάθειες.</item>
         <item quantity="one">Εισαγάγετε το SIM PIN. Σας απομένει%d ακόμη προσπάθεια πριν χρειαστεί να επικοινωνήσετε με τον πάροχό σας για να ξεκλειδώσετε τη συσκευή σας.</item>

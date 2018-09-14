@@ -28,6 +28,10 @@
         <item quantity="other">%d μηνύματα</item>
         <item quantity="one">%d μήνυμα</item>
     </plurals>
+    <plurals name="mark_number_dialog_subtitle">
+        <item quantity="other">Σήμανση ως %2$s από %1$d άτομα</item>
+        <item quantity="one">Σήμανση ως %2$s από %1$d άτομα</item>
+    </plurals>
     <plurals name="message_count">
         <item quantity="other">%1$s μηνύματα</item>
         <item quantity="one">%1$s μήνυμα</item>

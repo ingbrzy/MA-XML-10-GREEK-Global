@@ -48,10 +48,10 @@
     <string name="bcc_label">"Ιδ. κοιν: "</string>
     <string name="block_messaging_entry_title">Αποκλεισμένα SMS</string>
     <string name="block_support_text">Υποστηρίζεται από το Antiy.</string>
-    <string name="bookmark">Με αστέρι</string>
-    <string name="bookmark_confirm_delete_message">Αφαίρεση αστεριών επιλεγμένων μηνυμάτων;</string>
-    <string name="bookmark_empty">Δεν υπάρχουν μηνύματα με αστέρι</string>
-    <string name="bookmark_list_title">Με αστέρι</string>
+    <string name="bookmark">Έγινε προσθήκη στα αγαπημένα</string>
+    <string name="bookmark_confirm_delete_message">Αφαίρεση επιλεγμένων αντικειμένων από τα αγαπημένα;</string>
+    <string name="bookmark_empty">Δεν υπάρχουν μηνύματα στα αγαπημένα</string>
+    <string name="bookmark_list_title">Αγαπημένα</string>
     <string name="button_emoji_creature">Animal emojis</string>
     <string name="button_emoji_lifestyle">Lifestyle emojis</string>
     <string name="button_emoji_smiley">Face emojis</string>
@@ -78,6 +78,7 @@
     <string name="cloud_state_disabled">Ενεργοποίηση συγχρονισμού με Mi Cloud για συγχρονισμό μηνυμάτων</string>
     <string name="cloud_state_sync_finished">Συγχρονίστηκε με Mi Cloud</string>
     <string name="cloud_state_syncing">Γίνεται συγχρονισμός με Mi Cloud…</string>
+    <string name="cmcc_privacy">Συμφωνία Προστασίας προσωπικών δεδομένων Παροχέα China Mobile</string>
     <string name="compressing">Πολύ μεγάλη εικόνα. Γίνεται συμπίεση…</string>
     <string name="confirm">OK</string>
     <string name="confirm_add_blacklist_dialog_dspt">Προσθήκη αυτού του αριθμού στη λίστα αποκλεισμών;</string>
@@ -95,8 +96,7 @@
     <string name="confirm_export_dialog_description">Παλιές συνομιλίες με αυτήν την επαφή δεν θα είναι πλέον κρυμμένες.</string>
     <string name="confirm_export_dialog_title">Αφαίρεση από προσωπικές επαφές</string>
     <string name="confirm_no_block_positive">Άρση αποκλεισμού</string>
-    <string name="confirm_no_block_title">"Άρση αποκλεισμού και επαναφορά όλων των μηνυμάτων από τον αριθμό αυτό?
-(Ο αριθμός θα προστεθεί στις εξαιρέσεις.)"</string>
+    <string name="confirm_no_block_title">Απεμπλοκή επιλεγμένων αριθμών; Θα προστεθούν στις εξαιρέσεις, αλλά προηγουμένως αποκλεισμένα στοιχεία δεν θα εμφανίζονται στα εισερχόμενα μηνύματα.</string>
     <string name="confirm_rate_limit">Γίνεται αποστολή μεγάλου αριθμού μηνυμάτων πολυμέσων.</string>
     <string name="confirm_restore_all_title">Επαναφορά όλων των μηνυμάτων από αυτό τον αριθμό;</string>
     <string name="confirm_restore_checkbox">Επαναφορά αποκλεισμένων μηνυμάτων</string>
@@ -127,7 +127,7 @@
     <string name="copy_to_sdcard_fail">Αδυναμία αποθήκευσης συνημμένου</string>
     <string name="copy_to_sdcard_success">Αποθήκευση συνημμένου ως %s</string>
     <string name="delete">Διαγραφή</string>
-    <string name="delete_bookmark">Αφαίρεση αστεριού</string>
+    <string name="delete_bookmark">Αφαίρεση από τα αγαπημένα</string>
     <string name="delete_message">Διαγραφή</string>
     <string name="delete_phrase">Διαγραφή απάντησης</string>
     <string name="delete_unlocked">Διαγραφή κλειδωμένων μηνυμάτων</string>
@@ -136,15 +136,11 @@
     <string name="delete_wild_sims_title">Διαγραφή επιλεγμένων αριθμών</string>
     <string name="delivery_report_activity">Αναφορά παράδοσης</string>
     <string name="delivery_toast_body">Μήνυμα ελήφθη από %s</string>
-    <string name="delivery_toast_body_more">Message received by %1$s, and %2$d other people</string>
+    <string name="delivery_toast_body_more">Ελήφθη μήνυμα από %1$s, και από %2$d άλλα άτομα</string>
     <string name="dialog_message_fake_cell_detect_error">Correct the info about this message? To do this, MIUI needs to upload the phone number (%1$s), the contents of the message, and the info about nearby location to its servers.</string>
-    <string name="dialog_message_mx">Το Mi Message επιτρέπει την αποστολή μηνυμάτων σε άλλες συσκευές MIUI χωρίς χρέωση. Ένα εξερχόμενο SMS μήνυμα μπορεί να απαιτείται για την επανενεργοποίηση των Mi Μηνυμάτων. Ο πάροχός σας θα σας επιφέρει χρεώσεις για το μήνυμα αυτό. Πρέπει να αποδεχτείτε τα \"%1$s\" και \"%2$s\" μας πριν χρησιμοποιήσετε το Mi Message.</string>
-    <string name="dialog_message_mx_rcs">Το Mi Message επιτρέπει την αποστολή μηνυμάτων σε άλλες συσκευές MIUI και χρήστες της China Mobile χωρίς χρέωση. Απαιτείται ένα εξερχόμενο μήνυμα SMS για την ενεργοποίηση του Mi Message. Ο πάροχός σας θα σας επιφέρει χρεώσεις για το μήνυμα αυτό. Πρέπει να αποδεχτείτε τα \"%1$s\" και \"%2$s\" μας πριν χρησιμοποιήσετε το Mi Message. Αποδοχή;</string>
-    <string name="dialog_message_networking">Τα μηνύματα πρέπει να συνδεθούν στο Διαδίκτυο και να αποκτήσουν πρόσβαση στην τοποθεσία σας, προκειμένου να παρέχουν Έξυπνα Μηνύματα, αναγνώριση ταυτότητας αποστολέα και άλλες υπηρεσίες. Πρέπει να συμφωνήσετε με τα \"%1$s\" και τα \"%2$s\" μας πριν χρησιμοποιήσετε αυτές τις υπηρεσίες. Αποδοχή;</string>
-    <string name="dialog_message_networking_mx">Το Mi Message σας επιτρέπει να στέλνετε μηνύματα σε άλλες συσκευές MIUI χωρίς χρεώσεις. Απαιτείται ένα εξερχόμενο μήνυμα SMS για να ενεργοποιήσετε το Mi Message. Ο πάροχός σας θα σας χρεώσει για αυτό το μήνυμα. Πρέπει να συμφωνήσετε στα «%1$s» και «%2$s» μας πριν από τη χρήση του Mi Message. Το Mi Message πρέπει να συνδεθεί στο Διαδίκτυο και χρειάζεται πρόσβαση στην τοποθεσία σας για να παρέχει Έξυπνα Μηνύματα, Αναγνώριση Ταυτότητας Αποστολέα και άλλες υπηρεσίες. Αποδοχή;</string>
-    <string name="dialog_message_networking_mx_rcs">Το Mi Message σας επιτρέπει να στέλνετε μηνύματα σε άλλες συσκευές MIUI και χρήστες της China Mobile χωρίς χρεώσεις. Απαιτείται ένα εξερχόμενο μήνυμα SMS για να ενεργοποιήσετε το Mi Message. Ο πάροχός σας θα σας χρεώσει για αυτό το μήνυμα. Πρέπει να συμφωνήσετε στα «%1$s» και «%2$s» μας πριν από τη χρήση του Mi Message. Το Mi Message πρέπει να συνδεθεί στο Διαδίκτυο και χρειάζεται πρόσβαση στην τοποθεσία σας για να παρέχει Έξυπνα Μηνύματα, Αναγνώριση Ταυτότητας Αποστολέα και άλλες υπηρεσίες. Αποδοχή;</string>
-    <string name="dialog_message_networking_rcs">Τα μηνύματα China Mobile σας επιτρέπουν να στέλνετε μηνύματα σε άλλους χρήστες China Mobile χωρίς χρεώσεις. Πρέπει να συμφωνήσετε στα «%1$s» και «%2$s» μας πριν από τη χρήση μηνυμάτων China Mobile. Τα Μηνύματα πρέπει να συνδεθούν στο Διαδίκτυο και χρειάζεται πρόσβαση στην τοποθεσία σας για να παρέχουν Έξυπνα Μηνύματα, Αναγνώριση Ταυτότητας Αποστολέα και άλλες υπηρεσίες. Αποδοχή;</string>
-    <string name="dialog_message_rcs">Τα Μηνύματα China Mobile σας επιτρέπουν να στείλετε μηνύματα σε άλλους χρήστες της China Mobile χωρίς χρεώσεις. Πρέπει να συμφωνήσετε στα «%1$s» και «%2$s» πριν από τη χρήση Μηνυμάτων China Mobile. Συμφωνείτε;</string>
+    <string name="dialog_message_mx">Τα επιτρέπουν την αποστολή μηνυμάτων σε άλλους χρήστες MIUI χωρίς χρέωση. Ένα εξερχόμενο SMS μήνυμα απαιτείται για την ενεργοποίηση των Μηνυμάτων Mi. Ο πάροχός σας θα σας επιφέρει χρεώσεις για το μήνυμα αυτό. Πρέπει να αποδεχτείτε την \"%1$s\" και \"%2$s\" μας πριν χρησιμοποιήσετε τα Μηνύματα Mi.</string>
+    <string name="dialog_message_networking">Τα μηνύματα πρέπει να χρησιμοποιούν Κίτρινες σελίδες για να είναι σε θέση να παρέχουν αναγνώριση ταυτότητας αποστολέα. Τα μηνύματα και οι Κίτρινες σελίδες πρέπει να συνδεθούν στο διαδίκτυο και να έχουν πρόσβαση στην τοποθεσία σας για να λειτουργούν κανονικά. Αποδοχή;</string>
+    <string name="dialog_message_rcs">Τα Μηνύματα China Mobile σας επιτρέπουν να στείλετε μηνύματα σε άλλους χρήστες της China Mobile εντός Ηπειρωτικής Κίνας χωρίς χρεώσεις. Πρέπει να συμφωνήσετε στην «%1$s» πριν από τη χρήση Μηνυμάτων China Mobile.</string>
     <string name="dialog_message_sms_report">Τα μηνύματα spam και πληροφορίες αποστολέα θα μεταφορτωθούν στο MIUI όταν τα αναφέρετε. Θα χρησιμοποιηθούν μόνο για την βελτιστοποίηση των φίλτρων spam του MIUI.</string>
     <string name="dialog_title_fake_cell_detect_error">Διόρθωση</string>
     <string name="dialog_title_mx_rcs">Mi Message</string>
@@ -172,12 +168,12 @@
     <string name="edit_slide_activity">Επεξεργασία διαφάνειας</string>
     <string name="edit_slideshow_activity">Επεξεργασία παρουσίασης</string>
     <string name="enabled">Ενεργό</string>
-    <string name="english_subject_limit">Όριο 40 χαρακτήρων</string>
+    <string name="english_subject_limit">40 χαρακτήρες</string>
     <string name="enter_edit_mode">Επεξεργασία μηνυμάτων</string>
     <string name="error_code_label">"Κωδικός σφάλματος: "</string>
     <string name="error_state">Τα δεδομένα δεν ταιριάζουν</string>
     <string name="error_state_text">Τα νήματα και οι παραλήπτες δεν ταιριάζουν. Αναφέρετε το πρόβλημα στο http://go/droidanizer</string>
-    <string name="error_timed_msg">Μη έγκυρος χρόνος.</string>
+    <string name="error_timed_msg">Μη έγκυρος χρόνος</string>
     <string name="ex_type_mx">Mi Μηνύματα</string>
     <string name="ex_type_sms">SMS/MMS</string>
     <string name="exceed_message_size_limitation">Έχετε φθάσει το όριο μεγέθους του μηνύματος.</string>
@@ -194,7 +190,7 @@
     <string name="fake_cell_checking_hint">Γίνεται έλεγχος ασφαλείας…</string>
     <string name="fake_cell_safe_hint">Αυτό το μήνυμα είναι ασφαλές</string>
     <string name="fake_cell_timeout_hint">Αδυναμία ελέγχου ασφαλείας</string>
-    <string name="favorite_at_time">Επισημάνθηκε με αστέρι στις: %1s</string>
+    <string name="favorite_at_time">Προστέθηκε στα αγαπημένα στο: %1s</string>
     <string name="fdn_check_failure">Δυνατότητα αποστολής μηνυμάτων μόνο σε αριθμούς προκαθορισμένης κλήσης.</string>
     <string name="festival_sms_loading">Φόρτωση…</string>
     <string name="fetion_prefix">[Fetion]</string>
@@ -202,6 +198,7 @@
     <string name="file_size">Μέγεθος:</string>
     <string name="file_title">Όνομα:</string>
     <string name="file_width_height">Μέγεθος:</string>
+    <string name="flatshow_page_no">%1$d</string>
     <string name="force_touch_new_message_title">Νέο μήνυμα</string>
     <string name="forward_from">Προώθηση από:</string>
     <string name="forward_prefix">"Προωθ.: "</string>
@@ -231,7 +228,7 @@
     <string name="hybrid_pull_to_refresh_release_label">Αφήστε για ανανέωση…</string>
     <string name="hybrid_service_unavailiable">Μη διαθέσιμη υπηρεσία</string>
     <string name="hybrid_try_again">Προσπαθήστε ξανά</string>
-    <string name="i_know">OK</string>
+    <string name="i_know">Κατανοητό</string>
     <string name="importing_progress_private_message">Γίνεται εισαγωγή…</string>
     <string name="in_sms">Μήνυμα</string>
     <string name="insufficient_drm_rights">Εντοπίστηκαν ανεπαρκή DRM δικαιώματα.</string>
@@ -245,6 +242,7 @@
     <string name="loading_conversations">Περιμένετε μια στιγμή…</string>
     <string name="loading_mms">Περιμένετε μια στιγμή…</string>
     <string name="manage_permission_app_label">Άδειες συσκευής</string>
+    <string name="mark_number_by_own_dialog_subtitle">Σήμανση ως %1$s</string>
     <string name="me">Εγώ</string>
     <string name="menu_add_black">Αποκλεισμός αυτού του αριθμού</string>
     <string name="menu_add_contact">Προσθήκη σε υπάρχουσα επαφή</string>
@@ -254,7 +252,7 @@
     <string name="menu_delete_messages">Διαγραφή μηνυμάτων</string>
     <string name="menu_edit">Επεξεργασία</string>
     <string name="menu_forward">Προώθηση</string>
-    <string name="menu_lock">Αστέρι</string>
+    <string name="menu_lock">Προσθήκη στα αγαπημένα</string>
     <string name="menu_mark">Μαρκάρισμα</string>
     <string name="menu_more">Περισσότερα</string>
     <string name="menu_new_contact">Νέα επαφή</string>
@@ -262,7 +260,7 @@
     <string name="menu_pick_from_contact">Επιλογή από επαφές</string>
     <string name="menu_preferences">Ρυθμίσεις</string>
     <string name="menu_send_as_common">Αποστολή ως SMS</string>
-    <string name="menu_unlock">Αφαίρεση αστεριού</string>
+    <string name="menu_unlock">Αφαίρεση από τα αγαπημένα</string>
     <string name="menu_view_contact">Προβολή επαφής</string>
     <string name="message_class_label">"Κατηγορία μηνύματος: "</string>
     <string name="message_contact">Επαφή:</string>
@@ -303,7 +301,7 @@
     <string name="multimedia_message">Μήνυμα πολυμέσων</string>
     <string name="multimedia_notification">Ειδοποίηση μηνύματος πολυμέσων</string>
     <string name="mx2_type_description">[%s]</string>
-    <string name="mx_activate_allow_notice">Ένα εξερχόμενο μήνυμα SMS μπορεί να απαιτείται για την ενεργοποίηση δωρεάν μηνυμάτων και της υπηρεσίας φωνής. Ο πάροχός σας θα σας επιφέρει χρεώσεις για το μήνυμα αυτό. Eκτός αυτού, αυτή η υπηρεσία απαιτεί πρόσβαση σε δεδομένα κινητής για να λειτουργήσει κανονικά.</string>
+    <string name="mx_activate_allow_notice">Για την ενεργοποίηση της δωρεάν υπηρεσίας κειμένου και φωνής μπορεί να απαιτείται ένα εξερχόμενο μήνυμα SMS. Ο φορέας σας θα σας χρεώσει για αυτό το μήνυμα. Εκτός αυτού, όταν αυτή η λειτουργία είναι ενεργοποιημένη, απαιτείται μια μικρή ποσότητα δεδομένων κινητής τηλεφωνίας για έλεγχο κατά πόσο ο άλλος χρήστης είναι συνδεδεμένος στο διαδίκτυο. Συμφωνείτε;</string>
     <string name="mx_activate_dlg_title">Ενεργοποίηση Mi Μηνύματα</string>
     <string name="mx_activate_dlg_title_ex">Ενεργοποίηση Mi Μηνύματα &amp; Φωνή</string>
     <string name="mx_activate_error_malformed_info">Πρέπει να επανενεργοποιήσετε το Mi Μηνύματα.</string>
@@ -316,7 +314,7 @@
     <string name="mx_activate_int_hint_malformed_info">Ένα διεθνές εξερχόμενο μήνυμα SMS μπορεί να απαιτείται για την επανενεργοποίηση του Mi Μηνύματα. Ο πάροχός σας θα σας επιφέρει χρεώσεις για το μήνυμα αυτό.</string>
     <string name="mx_activate_int_hint_server">Ένα διεθνές εξερχόμενο μήνυμα SMS μπορεί να απαιτείται για την επανενεργοποίηση του Mi Μηνύματα. Ο πάροχός σας θα σας επιφέρει χρεώσεις για το μήνυμα αυτό.</string>
     <string name="mx_activate_int_hint_sim_change">Φαίνεται ότι αλλάξατε κάρτες SIM. Ένα εξερχόμενο μήνυμα SMS μπορεί να απαιτείται για την επανενεργοποίηση των Mi Μηνυμάτων. Ο πάροχος σας θα σας επιφέρει χρεώσεις για το μήνυμα αυτό.</string>
-    <string name="mx_activate_network_allow_notice">Αυτή η υπηρεσία απαιτεί πρόσβαση σε δεδομένα κινητής για να λειτουργήσει κανονικά.</string>
+    <string name="mx_activate_network_allow_notice">Όταν αυτή η δυνατότητα είναι ενεργοποιημένη, απαιτείται μια μικρή ποσότητα δεδομένων κινητής τηλεφωνίας για να ελέγξετε αν ο χρήστης είναι συνδεδεμένος. Συμφωνείτε;</string>
     <string name="mx_activate_status_desc_activating_now">Γίνεται ενεργοποίηση…</string>
     <string name="mx_activate_status_desc_check_net_connection">Αδυναμία σύνδεσης στο δίκτυο</string>
     <string name="mx_activate_status_desc_fail">Αδυναμία ενεργοποίησης Mi Μηνύματα</string>
@@ -334,7 +332,7 @@
     <string name="mx_current_status">Ρυθμίσεις</string>
     <string name="mx_dspt">Στείλτε μηνύματα SMS και MMS σε άλλες MIUI συσκευές χωρίς καμία χρέωση όταν είστε συνδεδεμένοι σε Wi-Fi.</string>
     <string name="mx_dspt_listview">Στείλτε μηνύματα σε άλλες MIUI συσκευές χωρίς καμία χρέωση</string>
-    <string name="mx_dspt_provision">Τα Mi Μηνύματα επιτρέπουν την αποστολή μηνυμάτων σε άλλους MIUI χρήστες μέσω Ίντερνετ χωρίς χρέωση. Ένα εξερχόμενο SMS μήνυμα μπορεί να απαιτείται για την επανενεργοποίηση των Mi Μηνυμάτων. Ο πάροχός σας θα σας επιφέρει χρεώσεις για το μήνυμα αυτό. Εκτός αυτού, αυτή η υπηρεσία απαιτεί πρόσβαση σε δεδομένα κινητής για να λειτουργήσει κανονικά.</string>
+    <string name="mx_dspt_provision">Τα Μηνύματα Mi επιτρέπουν την αποστολή μηνυμάτων σε άλλους χρήστες MIUI μέσω Ίντερνετ χωρίς χρέωση. Μπορεί να απαιτείται ένα εξερχόμενο μήνυμα SMS για την επανενεργοποίηση των Μηνυμάτων Mi. Ο πάροχός σας θα σας επιφέρει χρεώσεις για το μήνυμα αυτό. Εκτός αυτού, όταν αυτή η λειτουργία είναι ενεργοποιημένη, απαιτείται μια μικρή ποσότητα δεδομένων κινητής τηλεφωνίας για να ελέγξετε κατά πόσο ο άλλος χρήστης είναι συνδεδεμένος στο διαδίκτυο. Συμφωνείτε;</string>
     <string name="mx_dspt_provision_ex2">Πολιτική Απορρήτου</string>
     <string name="mx_enable">Mi Μηνύματα</string>
     <string name="mx_enable_ex">Mi Μηνύματα &amp; Φωνή</string>
@@ -352,7 +350,7 @@
     <string name="mx_reactivate">Επανενεργοποίηση Mi Μηνύματα</string>
     <string name="mx_recommend_msg">Αγγίξτε για να ενεργοποιήστε τα Mi Μηνύματα</string>
     <string name="mx_stranger_recommend_msg">Πατήστε για αποκλεισμό Mi Μηνυμάτων από άγνωστους αριθμούς</string>
-    <string name="mx_type_guide">Το Mi Μηνύματα επιτρέπει την αποστολή μηνυμάτων σε άλλους MIUI χρήστες χωρίς καμία χρέωση</string>
+    <string name="mx_type_guide">Στείλτε μηνύματα σε άλλες MIUI συσκευές χωρίς καμία χρέωση</string>
     <string name="need_download">Γίνεται συγχρονισμός…</string>
     <string name="networking_allow_continue">Αποδοχή</string>
     <string name="networking_allow_desc">Το Mi Μηνύματα απαιτεί σύνδεση στο Ίντερνετ για να λειτουργήσει κανονικά. Το Mi Μηνύματα πρέπει να χρησιμοποιήσει τις Κίτρινες σελίδες ώστε να παρέχει δωρεάν υπηρεσίες μηνυμάτων και φωνής, να αναγνωρίζει άγνωστους αριθμούς, να φιλτράρει spam, και να ενεργοποιήσει άλλες λειτουργίες. Να επιτρέπεται η σύνδεση στο Ίντερνετ, η απόκτηση πληροφοριών τοποθεσίας σας, και η ανάγνωση των επαφών σας από τις Κίτρινες σελίδες;</string>
@@ -368,7 +366,7 @@
     <string name="no_delivery_report">Χωρίς αναφορά παράδοσης</string>
     <string name="no_subject">(Χωρίς θέμα)</string>
     <string name="no_subject_view">(Χωρίς θέμα)</string>
-    <string name="non_english_subject_limit">Όριο 13 χαρακτήρων</string>
+    <string name="non_english_subject_limit">13 χαρακτήρες</string>
     <string name="nosend_message">Να μην γίνει αποστολή</string>
     <string name="notification_channel_msg_description">Ειδοποιήσεις για τα μηνύματα</string>
     <string name="notification_channel_msg_name">Μηνύματα</string>
@@ -404,7 +402,7 @@
     <string name="pref_delivery_ringtone">Ήχος παράδοσης</string>
     <string name="pref_edit_smsc_address">Κέντρο υπηρεσίας μικρών Μηνυμάτων(ΚΥΜΜ)</string>
     <string name="pref_forward_title">Προώθηση</string>
-    <string name="pref_hide_verification_code_summary">Αυτόματη απόκρυψη κωδικών μιας χρήσης στις ειδοποιήσεις μηνυμάτων σε ασφαλή οθόνη κλειδώματος</string>
+    <string name="pref_hide_verification_code_summary">Αυτόματη απόκρυψη Κωδικών μιας χρήσης στις ειδοποιήσεις μηνυμάτων σε ασφαλή Οθόνη κλειδώματος</string>
     <string name="pref_messages_to_save">Ορισμός αριθμών μηνυμάτων για αποθήκευση</string>
     <string name="pref_mms_settings_title">Μηνύματα πολυμέσων(MMS)</string>
     <string name="pref_msg_trash_bin_title">Μηνύματα που διαγράφηκαν</string>
@@ -429,7 +427,7 @@
     <string name="pref_summary_mms_auto_retrieval">Αυτόματη λήψη φωτογραφιών και βίντεο μηνυμάτων</string>
     <string name="pref_summary_mms_read_reports">Προβολή ειδοποίησης στη συνομιλία όταν το MMS έχει ληφθεί από τον παραλήπτη</string>
     <string name="pref_summary_mms_retrieval_during_roaming">Αυτόματη λήψη φωτογραφιών και βίντεο μηνυμάτων κατά την περιαγωγή</string>
-    <string name="pref_summary_notification_body_enabled">Προβολή μηνυμάτων στην οθόνη κλειδώματος και στον πίνακα ειδοποιήσεων</string>
+    <string name="pref_summary_notification_body_enabled">Προβολή μηνυμάτων στην Οθόνη κλειδώματος και στον Πίνακα ειδοποιήσεων</string>
     <string name="pref_summary_off_system_mms_priority">Χρησιμποιήστε τρίτες εφαρμογές για αποστολή και λήψη MMS</string>
     <string name="pref_summary_on_system_mms_priority">Ορισμός εφαρμογής Μηνύματα του MIUI ως προεπιλογή για αποστολή και λήψη MMS</string>
     <string name="pref_summary_send_delivery_reports">Αποστολή επιβεβαίωσης παράδοσης στον αποστολέα όταν λαμβάνετε μηνύματα πολυμέσων</string>
@@ -482,12 +480,13 @@
     <string name="private_message">Προσωπικά μηνύματα</string>
     <string name="private_new_notification">Ειδοποιήσεις μηνυμάτων</string>
     <string name="private_protect">Προστασία απορρήτου</string>
-    <string name="private_settings">Ρυθμίσεις προσωπικών μηνυμάτων</string>
+    <string name="private_settings">Ρυθμίσεις</string>
     <string name="processing">Γίνεται επεξεργασία…</string>
     <string name="prvate_contact">Προσωπικές επαφές</string>
     <string name="quick_reply">Απάντηση</string>
     <string name="rate_limit_surpassed">OK</string>
-    <string name="rcs_message_disable">Δεν είναι δυνατό να προβάλετε αυτό το μήνυμα στον δεύτερο χώρο</string>
+    <string name="rcs_message_disable">Δεν είναι δυνατό να προβάλετε αυτό το μήνυμα στον Δεύτερο χώρο</string>
+    <string name="rcs_service_agreement">Σύμβαση παροχής υπηρεσιών</string>
     <string name="received_at_time">Έγινε λήψη στις: %1s</string>
     <string name="received_label">"Ελήφθη: "</string>
     <string name="recipient_editor_count_format">%d</string>
@@ -495,8 +494,8 @@
     <string name="recipients_over_size">Πάρα πολλοί παραλήπτες.</string>
     <string name="recommend_bar_cancel">Αγνόηση</string>
     <string name="recommend_bar_message_mx">Το Mi Message σας επιτρέπει την αποστολή μηνυμάτων σε άλλες συσκευές MIUI χωρίς χρέωση.</string>
-    <string name="recommend_bar_message_mx_rcs">Το Mi Message σας επιτρέπει την αποστολή μηνυμάτων σε άλλες συσκευές MIUI και χρήστες China Mobile χωρίς χρέωση.</string>
-    <string name="recommend_bar_message_rcs">Τα Μηνύματα China Mobile σας επιτρέπουν την αποστολή μηνυμάτων σε άλλους χρήστες China Mobile χωρίς χρέωση.</string>
+    <string name="recommend_bar_message_mx_rcs">Το Mi Message σας επιτρέπει την αποστολή μηνυμάτων σε άλλες συσκευές MIUI και χρήστες China Mobile εντός Ηπειρωτικής Κίνας χωρίς χρέωση.</string>
+    <string name="recommend_bar_message_rcs">Τα Μηνύματα China Mobile σας επιτρέπουν την αποστολή μηνυμάτων σε άλλους χρήστες China Mobile εντός Ηπειρωτικής Κίνας χωρίς χρέωση.</string>
     <string name="recommend_bar_message_smart_message">Αντιγραφή κωδικών μιας χρήσης, παρακολούθηση πακέτων, χρήση έξυπνων μενού, και άλλα</string>
     <string name="recommend_bar_ok">Ενεργοποίηση</string>
     <string name="recommend_bar_title_mx_rcs">Mi Message</string>
@@ -570,6 +569,7 @@
     <string name="send_signature_confirm_dialog_title">Αποστολή μηνύματος</string>
     <string name="send_sms">Αποστολή μηνύματος</string>
     <string name="send_to">Προς:</string>
+    <string name="send_to_index_contact">%1$s/%2$s</string>
     <string name="sent_at_time">Έγινε αποστολή στις: %1s</string>
     <string name="sent_label">"Στάλθηκε: "</string>
     <string name="service_message_not_found">Το μήνυμα έληξε ή δεν είναι διαθέσιμο</string>
@@ -648,7 +648,7 @@
     <string name="timed_message_to">προς</string>
     <string name="title_allow_network_access">Αυτόματη ενημέρωση πληροφοριών</string>
     <string name="title_collapse_sp_messages">Ομαδοποίηση ειδοποιήσεων</string>
-    <string name="title_hide_verification_code">Αυτόματη απόκρυψη κωδικών μιας χρήσης στην οθόνη κλειδώματος</string>
+    <string name="title_hide_verification_code">Αυτόματη απόκρυψη Κωδικών μιας χρήσης στην Οθόνη κλειδώματος</string>
     <string name="title_show_blocked_messages">Προβολή αποκλεισμένων μηνυμάτων</string>
     <string name="title_show_list_avatar">Προβολή φωτογραφιών προφίλ</string>
     <string name="title_show_photo_word">Ορισμός φωτογραφιών επαφών</string>

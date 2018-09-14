@@ -159,6 +159,8 @@
     <string name="preference_follow_web_title">Επίσημος ιστότοπος</string>
     <string name="preference_follow_wechat_title">WeChat</string>
     <string name="preference_follow_weibo_title">Sina Weibo</string>
+    <string name="preference_other">Άλλα</string>
+    <string name="preference_privacy_title">Πολιτική Απορρήτου</string>
     <string name="preference_settings">Ρυθμίσεις</string>
     <string name="preference_use_degress_summary">Αντικατάσταση rads με μοίρες σε τριγωνομετρικές εξισώσεις</string>
     <string name="preference_use_degress_title">Χρήση μοιρών</string>
@@ -295,7 +297,7 @@
     <string name="unit_data_display_currency_nok">Κορόνα Νορβηγίας</string>
     <string name="unit_data_display_currency_nzd">Δολάριο Νέας Ζηλανδίας</string>
     <string name="unit_data_display_currency_omr">Ριάλ του Ομάν</string>
-    <string name="unit_data_display_currency_php">Πίσο Φιλιππίνων</string>
+    <string name="unit_data_display_currency_php">Πέσο Φιλιππίνων</string>
     <string name="unit_data_display_currency_pln">Πολωνικό ζλότι</string>
     <string name="unit_data_display_currency_qar">Ριάλ του Κατάρ</string>
     <string name="unit_data_display_currency_ron">Ρουμανικό λέου</string>
@@ -400,8 +402,8 @@
     <string name="unit_data_display_weight_uk.cwt">Εκατόκιλο ΗΒ</string>
     <string name="unit_data_display_weight_uk.st">Πέτρα</string>
     <string name="unit_data_display_weight_us.cwt">Εκατόκιλο ΗΠΑ</string>
-    <string name="unit_data_short_area_acre">στρέμμα</string>
-    <string name="unit_data_short_area_are">έκταση</string>
+    <string name="unit_data_short_area_acre">ac</string>
+    <string name="unit_data_short_area_are">a</string>
     <string name="unit_data_short_area_ha">χα</string>
     <string name="unit_data_short_area_mu">mu</string>
     <string name="unit_data_short_area_qing">qing</string>
@@ -425,7 +427,7 @@
     <string name="unit_data_short_length_cun">cun</string>
     <string name="unit_data_short_length_dm">δμ</string>
     <string name="unit_data_short_length_fen">fen</string>
-    <string name="unit_data_short_length_fm">fm</string>
+    <string name="unit_data_short_length_fm">ftm</string>
     <string name="unit_data_short_length_ft">ft</string>
     <string name="unit_data_short_length_fur">fur</string>
     <string name="unit_data_short_length_gongli">gongli</string>

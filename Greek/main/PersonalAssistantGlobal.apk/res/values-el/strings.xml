@@ -105,6 +105,7 @@
     <string name="card_settings_rule">Ρυθμίσεις παραγγελίας κάρτας</string>
     <string name="card_title_funclaunch">Συντομεύσεις</string>
     <string name="card_title_noteboard">Μια σύντομη σημείωση</string>
+    <string name="card_title_utilities">Βοηθητικά προγράμματα</string>
     <string name="check_network">Ελέγξτε τις ρυθμίσεις δικτύου</string>
     <string name="check_network_retry">Ελέγξτε τις ρυθμίσεις δικτύου σας και προσπαθήστε ξανά</string>
     <string name="cleanup_garbage">Εκκαθάριση</string>
@@ -141,6 +142,7 @@
     <string name="google">Google</string>
     <string name="help_quick_start_wechat_video">Αποκτήστε πρόσβαση σε συγκεκριμένες λειτουργίες εφαρμογής μέσω συντομεύσεων</string>
     <string name="hold_down_adjustment_order">Πατήστε παρατεταμένα το εικονίδιο στα δεξιά για να σύρετε αντικείμενα</string>
+    <string name="holiday_empty_desc">Πατήστε εδώ για να διαβάσετε περισσότερα</string>
     <string name="home">Σπίτι</string>
     <string name="home_and_company">Σπίτι &amp; δουλειά</string>
     <string name="hour12_format_en">hh:mm</string>
@@ -202,6 +204,7 @@
     <string name="no_more_result">Αυτά είναι όλα για τώρα.</string>
     <string name="no_settings">Δεν έχει οριστεί</string>
     <string name="no_signal">Αδυναμία ανανέωσης, παρακαλώ προσπαθήστε ξανά αργότερα</string>
+    <string name="no_utilities_apps">Καμία βοηθητική υπηρεσία διαθέσιμη. Ελέγξτε αργότερα.</string>
     <string name="not_install_c1">Η εφαρμογή δεν έχει εγκατασταθεί στο τηλέφωνο σας. Λήψη και εγκατάσταση;</string>
     <string name="not_install_c3">Λήψη</string>
     <string name="not_install_c4">Όχι ευχαριστώ</string>
@@ -344,6 +347,7 @@
     <string name="upgrade_log_title">Νέα έκδοση</string>
     <string name="upgrade_now">Ενημέρωση</string>
     <string name="user_id">ID χρήστη: %s</string>
+    <string name="utilities_apps_bref">Εξερευνήστε εδώ υπηρεσίες τρίτων</string>
     <string name="walk">Περπάτημα</string>
     <string name="webull_title">Webull</string>
     <string name="which_transport">Πως πηγαίνετε στον προορισμό σας συνήθως;</string>
