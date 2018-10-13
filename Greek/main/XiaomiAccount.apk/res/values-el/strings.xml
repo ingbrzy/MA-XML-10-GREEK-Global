@@ -9,7 +9,7 @@
     <string name="passport_login">Σύνδεση</string>
     <string name="passport_relogin">Συνδεθείτε ξανά</string>
     <string name="passport_skip_login">Παράλειψη</string>
-    <string name="passport_skip_setup_account_title">Παράλειψη εγκατάστασης</string>
+    <string name="passport_skip_setup_account_title">Να μην γίνει χρήση Mi Cloud;</string>
     <string name="passport_skip_setup_account_msg">Μπορείτε να δημιουργήσετε ένα Mi Λογαριασμό αργότερα από τις Ρυθμίσεις.</string>
     <string name="passport_confirm_login">Συνέχεια</string>
     <string name="passport_find_password_on_web_msg">Επισκεφτείτε το account.mi.com για επαναφορά του κωδικού σας.</string>

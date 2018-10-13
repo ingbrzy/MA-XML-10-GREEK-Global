@@ -36,11 +36,11 @@
     <string name="pref_video_quality_entry_4kuhd_60fps">UHD 4K, 60fps</string>
     <string name="pref_video_quality_entry_1080p">FHD 1080P, 30fps</string>
     <string name="pref_video_quality_entry_1080p_60fps">FHD 1080P, 60fps</string>
-    <string name="pref_video_quality_entry_720p">HD 720P, 30fps</string>
-    <string name="pref_video_quality_entry_480p">SD 480P, 30fps</string>
-    <string name="pref_new_slow_motion_video_quality_entry_1080p">FHD 1080P</string>
-    <string name="pref_new_slow_motion_video_quality_entry_720p">HD 720P</string>
-    <string name="pref_new_slow_motion_video_quality_240_720only">You can only record 720P videos with 240FPS</string>
+    <string name="pref_video_quality_entry_720p">HD 720p, 30fps</string>
+    <string name="pref_video_quality_entry_480p">SD 480p, 30fps</string>
+    <string name="pref_new_slow_motion_video_quality_entry_1080p">FHD 1080p</string>
+    <string name="pref_new_slow_motion_video_quality_entry_720p">HD 720p</string>
+    <string name="pref_new_slow_motion_video_quality_240_720only">Μπορείτε να τραβήξετε μόνο βίντεο 720P με 240fps</string>
     <string name="pref_video_encoder_title">Κωδικοποιητής βίντεο</string>
     <string name="pref_video_encoder_entry_h264">H.264 Υψηλή συμβατότητα</string>
     <string name="pref_video_encoder_entry_h265">H.265 Υψηλή απόδοση</string>
@@ -435,6 +435,7 @@
     <string name="portrait_mode_depth_effect_success_hint">Εφέ βάθους</string>
     <string name="portrait_mode_use_hint">"Η λειτουργία πορτρέτου θολώνει το παρασκήνιο
 και επικεντρώνεται στα άτομα μπροστά."</string>
+    <string name="portrait_mode_use_hint_with_switch">@string/portrait_mode_use_hint</string>
     <string name="portrait_mode_use_hint_for_bokeh">"Δοκιμάστε τη λειτουργία Πορτρέτου.
 Κρατήστε το αντικείμενο ευκρινές ενώ θολώνει το φόντο."</string>
     <string name="pref_camera_square_mode_title">Τετράγωνο</string>
@@ -451,6 +452,7 @@
     <string name="pref_camera_beautify_entry_low">Χαμηλή</string>
     <string name="pref_camera_beautify_entry_normal">Μεσσαία</string>
     <string name="pref_camera_beautify_entry_high">Υψηλή</string>
+    <string name="pref_camera_beautify_entry_close">@string/face_beauty_close</string>
     <string name="camera_mode_options">Λειτουργίες</string>
     <string name="button_front_camera_title">Δημιουργία selfie</string>
     <string name="button_normal_video_title">Εγγραφή Video</string>

@@ -8,7 +8,6 @@
     <string name="close_panel">Απενεργοποίηση Βοηθού αφής</string>
     <string name="customize_entries">Επιλογή συντομεύσεων</string>
     <string name="enable_touch_assistant">Ενεργοποίηση Βοηθού αφής</string>
-    <string name="enabled_for_pad_hint">Να λειτουργεί όταν το \" Αποκλεισμός κουμπιών πλοήγησης κατά την οριζόντια προβολή\" είναι ενεργό</string>
     <string name="function_settings">Ρυθμίσεις συντομεύσεων</string>
     <string name="handy_mode_default_to_close_whether_open">Η λειτουργία Ενός-χεριού είναι ανενεργή από προεπιλογή. Ενεργοποίηση λειτουργίας Ενός-χεριού;</string>
     <string name="hide_touch_assistant">Αυτόματη απόκρυψη</string>

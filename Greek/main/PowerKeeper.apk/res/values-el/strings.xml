@@ -93,4 +93,6 @@
     <string name="active_classify">Ταξινόμηση με κατάσταση δραστηριότητας</string>
     <string name="extreme_mode_max_item_alert">Μπορείτε να επιλέξετε έως και 4 εφαρμογές να τρέξουν στο παρασκήνιο κατά την Ακραία λειτουργία</string>
     <string name="message_i_know">Κατανοητό</string>
+    <string name="high_temp_state">Υψηλή θερμοκρασία</string>
+    <string name="high_temp_state_message">Θα γίνει περιορισμός της προστασίας υψηλής θερμοκρασίας, των δεδομένων, του wifiap, του gps, της κάμερας κλπ</string>
 </resources>

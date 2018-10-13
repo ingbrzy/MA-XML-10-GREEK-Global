@@ -112,6 +112,7 @@
     <string name="description_image_button_dialpad">Πληκτρολόγιο</string>
     <string name="description_image_button_tools">Επιλογές</string>
     <string name="description_target_answer">Απάντηση</string>
+    <string name="description_message_list_title">Λίστα γρήγορων απαντήσεων</string>
     <string name="ok">OK</string>
     <string name="cancel">Ακύρωση</string>
     <string name="wait_prompt_str">"Αποστολή των παρακάτω τόνων?
@@ -199,4 +200,5 @@
     <string name="dialpad_eight">8</string>
     <string name="dialpad_nine">9</string>
     <string name="prompt_no_volte_when_failed">Αδυναμία πραγματοποίησης κλήσεων. Βεβαιωθείτε πως η συσκευή σας είναι συνδεδεμένη σε ένα 4G δίκτυο με υποστήριξη VoLTE.​</string>
+    <string name="volume_boost_text">Επιτυχής ενίσχυση έντασης</string>
 </resources>

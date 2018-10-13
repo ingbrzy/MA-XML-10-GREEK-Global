@@ -88,6 +88,10 @@
         <item quantity="other">Αίθριος</item>
         <item quantity="one">Αίθριος</item>
     </plurals>
+    <plurals name="vote_all_people">
+        <item quantity="other">%d άτομα ψήφισαν</item>
+        <item quantity="one">%d άτομο ψήφισε</item>
+    </plurals>
     <plurals name="last_num_days">
         <item quantity="other">Τελευταίες %d ημέρες</item>
         <item quantity="one">Τελευταία %d ημέρα</item>

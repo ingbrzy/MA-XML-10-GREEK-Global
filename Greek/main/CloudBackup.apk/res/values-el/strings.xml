@@ -31,11 +31,11 @@
     <string name="cloud_back_up_share_activity_discription">Αποκτήστε περισσότερο χώρο αποθήκευσης, δημιουργία αντίγραφων ασφαλείας καθημερινά, και περισσότερα.</string>
     <string name="cloud_back_up_share_activity_confirm">Αναβάθμιση</string>
     <string name="cloud_back_up_detail_discription">"Θα δημιουργηθούν αντίγραφα ασφαλείας για αυτά τα αντικείμενα στο Mi Cloud όταν η συσκευή σας συνδεθεί σε Wi-Fi: 
-*\u0009\u0009\u0009\u0009Εφαρμογές, διάταξη Αρχικής oθόνης, και ταπετσαρίες 
-*\u0009\u0009\u0009\u0009Ξυπνητήρι, ρολόι, και ρυθμίσεις ώρας 
-*\u0009\u0009\u0009\u0009Ρυθμίσεις ειδοποιήσεων 
-*\u0009\u0009\u0009\u0009Ρυθμίσεις MIUI και συστήματος 
-\"Note: Δεν θα δημιουργηθούν στο Mi Cloud αντίγραφα ασφαλείας για δεδομένα εφαρμογών που έχετε εγκαταστήσει.\""</string>
+*  Εφαρμογές, διάταξη Αρχικής oθόνης, και ταπετσαρίες 
+*  Ξυπνητήρι, ρολόι, και ρυθμίσεις ώρας 
+*  Ρυθμίσεις ειδοποιήσεων 
+*  Ρυθμίσεις Miui και συστήματος 
+\"Σημείωση: Δεν θα δημιουργηθούν αντίγραφα ασφαλείας στο Mi Cloud για δεδομένα εφαρμογών που έχετε εγκαταστήσει.\""</string>
     <string name="cloud_app_no_data">Δεν υπάρχουν αντίγραφα ασφαλείας</string>
     <string name="cloud_app_restore_error">Αδυναμία επαναφοράς</string>
     <string name="cloud_app_restore_success">Έγινε επαναφορά εφαρμογών</string>
@@ -45,10 +45,13 @@
     <string name="button_delete">Διαγραφή</string>
     <string name="customization"><u>Προσαρμογή</u></string>
     <string name="home_hint_global_launcher">Poco Αρχική οθόνη</string>
-    <string name="self_phone">Αυτό το τηλέφωνο</string>
-    <string name="self_phone_home">Αυτό το τηλέφωνο: %s</string>
+    <string name="home_hint_other_launcher">Άλλη Αρχική Οθόνη</string>
+    <string name="self_device">" Αυτού του τηλεφώνου"</string>
+    <string name="main_space">Κύριος χώρος</string>
+    <string name="second_space">Δεύτερος χώρος</string>
+    <string name="pattern_backup_name_with_home">%1$s (%2$s%3$s: %4$s)</string>
+    <string name="pattern_backup_name_without_home">%1$s (%2$s%3$s)</string>
     <string name="process_whole_recovery">Γίνεται επαναφορά \"%s\"</string>
-    <string name="device_xiaomi">Mi Τηλέφωνο</string>
     <string name="size_unknown">Άγνωστο μέγεθος</string>
     <string name="recovering">Γίνεται επαναφορά %s</string>
     <string name="start_recover">Επαναφορά %s</string>
@@ -76,7 +79,6 @@
     <string name="open_wifi">Ενεργοποίηση Wi-Fi τώρα</string>
     <string name="open_wifi_description">Συνδεθείτε σε ένα Wi-Fi δίκτυο για επαναφορά της εφαρμογής</string>
     <string name="open_wifi_setting">Ρυθμίσεις Wi-Fi</string>
-    <string name="name_model">%2$s του %1$s</string>
     <string name="download_settings">Γίνεται λήψη ρυθμίσεων Αρχικής οθόνης %s%%</string>
     <string name="cloud_back_up_date_format">HH:mm dd/ΜΜ/yyyy</string>
     <string name="recover_home_settings">Επαναφορά ρυθμίσεων Αρχικής οθόνης</string>
@@ -129,12 +131,18 @@
     <string name="restore_data_title">Επαναφορά δεδομένων</string>
     <string name="provision_error_connect_msg">Δοκιμάστε το δίκτυο και προσπαθήστε ξανά. Τα αντίγραφα ασφαλείας δεν είναι διαθέσιμα όταν η συσκευή σας είναι εκτός σύνδεσης.</string>
     <string name="provision_error_connect_title">Αδυναμία σύνδεσης</string>
+    <string name="loading_user_backup">Φόρτωση αντιγράφων ασφαλείας χρήστη…</string>
+    <string name="loading_progress_num">(%s%%)</string>
+    <string name="error_num_placeholder">--</string>
     <string name="authentication_failed">Αδυναμία επιβεβαίωσης λογαριασμού.</string>
     <string name="no_account">Δεν συνδεθήκατε στο Mi Λογαριασμό σας.</string>
     <string name="no_backup">Δεν υπάρχουν αντίγραφα ασφαλείας στο Mi Cloud.</string>
     <string name="download_meta_failed">Αδυναμία φόρτωσης δεδομένων.</string>
     <string name="home_restore_error">Αδυναμία επαναφοράς Αρχική οθόνης</string>
     <string name="get_device_id_error">Αδυναμία απόκτησης ID συσκευής</string>
+    <string name="unsupported_home">Παρακαλούμε ενημερώστε στην πιο πρόσφατη έκδοση OS.</string>
+    <string name="error_retry_later">Αποτυχία, δοκιμάστε αργότερα.</string>
+    <string name="try_continue">Πατήστε για συνέχεια</string>
     <string name="download_home_data">Γίνεται λήψη διάταξης Αρχικής οθόνης…</string>
     <string name="restore_home_failed">Αδυναμία επαναφοράς Αρχική οθόνης.</string>
     <string name="arrange_restore_order">Γίνεται επαναδιάταξη εφαρμογών…</string>
@@ -145,6 +153,7 @@
     <string name="download_meta_again">Αδυναμία φόρτωσης αντίγραφου ασφαλείας, προσπαθήσετε ξανά.</string>
     <string name="cancel_restore_home">Γίνεται ακύρωση…</string>
     <string name="cancel_backup">Γίνεται ακύρωση δημιουργίας αντίγραφου ασφαλείας…</string>
+    <string name="load_backup_failed">Αποτυχία φόρτωσης αντιγράφων ασφαλείας</string>
     <string name="dialog_title_require_wlan">Σύνδεση σε Wi-Fi</string>
     <string name="dialog_msg_restore_require_wlan">Η επαναφορά αντίγραφων ασφαλείας απαιτεί σύνδεση στο Wi-Fi.</string>
     <string name="dialog_btn_next">Επόμενο</string>

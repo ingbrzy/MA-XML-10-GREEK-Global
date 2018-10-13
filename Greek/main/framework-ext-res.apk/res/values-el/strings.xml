@@ -131,6 +131,7 @@
     <string name="security_permission_xiaomi_account_missed_text">Εισαγάγετε τον κωδικό του Mi Λογαριασμού σας</string>
     <string name="security_permission_validate_warning">Σας ευχαριστούμε για την βοήθειά σας στην βελτίωση του MIUI!</string>
     <string name="security_permission_wifi_and_data_opened_text">Το Wi-Fi και τα δεδομένα κινητής ενεργοποιήθηκαν</string>
+    <string name="security_permission_network_failed_text">Αδυναμία σύνδεσης στο δίκτυο. Ελέγξτε τις ρυθμίσεις δικτύου και προσπαθήστε ξανά.</string>
     <string name="xspace_resolver_activity_title">Επιλέξτε εφαρμογή</string>
     <string name="user_switching_dialog_text">Γίνεται εναλλαγή…</string>
     <string name="activity_package_delete_confirm_title">Προσοχή</string>
@@ -180,4 +181,6 @@
     <string name="miui_warning_button_ok">OK</string>
     <string name="miui_warning_button_cancel">Ακύρωση</string>
     <string name="miui_warning_tip_info">Παρουσιάστηκε σφάλμα στο %1$s. Κλείσιμο εφαρμογής τώρα;</string>
+    <string name="talk_back_water_mark_string1">Το TalkBack είναι ενεργοποιημένο</string>
+    <string name="talk_back_water_mark_string2">Πατήστε παρατεταμένα την \"Ένταση+\" και την \"Ένταση-\" για 3 δευτερόλεπτα για απενεργοποίηση</string>
 </resources>

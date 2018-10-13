@@ -225,6 +225,8 @@
     <string name="tax_social_insurance">Κοινωνική ασφάλιση</string>
     <string name="tax_thershold_foreign">%s (Ξένοι υπήκοοι)</string>
     <string name="tax_thershold_native">%s (Κίνα)</string>
+    <string name="tax_thershold_native_new">%s (νέο)</string>
+    <string name="tax_thershold_native_new_description">Οι φόροι θα υπολογίζονται σύμφωνα με τους νέους φορολογικούς νόμους, από την 1η Οκτωβρίου 2018</string>
     <string name="tax_threshold">Αφορολόγητο</string>
     <string name="tax_title_primary" />
     <string name="tax_title_secondary" />

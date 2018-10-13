@@ -1,5 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <plurals name="resource_comment_score_count">
+        <item quantity="other">Σχόλια %d</item>
+        <item quantity="one">Σχόλιο %d</item>
+    </plurals>
     <plurals name="theme_batch_has_update_text">
         <item quantity="other">Διαθέσιμες ενημερώσεις για %1$d θέματα.</item>
         <item quantity="one">Διαθέσιμη ενημέρωση για %1$d θέμα.</item>

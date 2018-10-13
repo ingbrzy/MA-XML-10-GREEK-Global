@@ -197,7 +197,11 @@
     <string name="toast_only_wifi_download">Συνδεθείτε σε Wi-Fi για λήψη αυτού του αντικειμένου</string>
     <string name="total_speedup">Ενίσχυση ταχύτητας (σύνολο)</string>
     <string name="version">Έκδοση %s</string>
+    <string name="check_new_downloaded_action">Προβολή</string>
+    <string name="check_new_downloaded_file">Εντοπίστηκε νέο αρχείο</string>
     <string name="get_data_failed">Αδυναμία απόκτησης πληροφοριών. Περιμένετε ένα δύο λεπτά και προσπαθήστε ξανά.</string>
+    <string name="info_download_details">Λεπτομέρειες</string>
+    <string name="info_download_progress">Προβολή προόδου λήψης</string>
     <string name="load_finish_hint">Αυτά για τώρα.</string>
     <string name="loading">Περιμένετε μια στιγμή…</string>
     <string name="net_error">Συνδεθείτε στο δίκτυο και προσπαθήστε ξανά</string>

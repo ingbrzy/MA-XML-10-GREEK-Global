@@ -76,6 +76,10 @@
         <item quantity="other">Μπορείτε να εισαγάγετε μέχρι %1$d ημέρες</item>
         <item quantity="one">Μπορείτε να εισαγάγετε μέχρι %1$d ημέρα</item>
     </plurals>
+    <plurals name="event_reminders_to_max">
+        <item quantity="other">Δυνατότητα ρύθμισης μέχρι και %d υπενθυμίσεων</item>
+        <item quantity="one">Δυνατότητα ρύθμισης μέχρι και %d υπενθύμισης</item>
+    </plurals>
     <plurals name="month_more_events">
         <item quantity="other">+%d</item>
         <item quantity="one">+1</item>

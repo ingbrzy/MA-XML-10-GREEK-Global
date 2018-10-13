@@ -4,4 +4,16 @@
         <item quantity="other">Έγινε ηχογράφηση %d κλήσεων.</item>
         <item quantity="one">Έγινε ηχογράφηση %d κλήσης.</item>
     </plurals>
+    <plurals name="duration_seconds">
+        <item quantity="other">%d seconds</item>
+        <item quantity="one">1 second</item>
+    </plurals>
+    <plurals name="duration_minutes">
+        <item quantity="other">%d minutes</item>
+        <item quantity="one">1 minute</item>
+    </plurals>
+    <plurals name="duration_hours">
+        <item quantity="other">%d hours</item>
+        <item quantity="one">1 hour</item>
+    </plurals>
 </resources>

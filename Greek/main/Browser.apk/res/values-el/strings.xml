@@ -25,6 +25,7 @@
     <string name="s5">Δημιουργία συμβάντος ημερολογίου</string>
     <string name="s6">Να επιτραπεί στη διαφήμιση να δημιουργήσει ένα συμβάν ημερολογίου;</string>
     <string name="s7">Δοκιμαστική διαφήμιση</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
     <string name="abc_action_bar_home_description">Μετάβαση στην Αρχική σελίδα</string>
     <string name="abc_action_bar_up_description">Μεταβείτε επάνω</string>
     <string name="abc_action_menu_overflow_description">Περισσότερα</string>
@@ -296,6 +297,7 @@
     <string name="exit">Έξοδος</string>
     <string name="exit_browser_warning">Έξοδος από Πρόγραμμα περιήγησης τώρα;</string>
     <string name="exit_fullscreen">Έξοδος από πλήρη οθόνη</string>
+    <string name="external_app_restricted_access_error">Αδυναμία πρόσβασης σε αυτό το αντικείμενο από το Mi Browser.</string>
     <string name="fast_search_title">Γρήγορη αναζήτηση</string>
     <string name="file_dir">Αλλαγή φακέλου</string>
     <string name="file_name">"Όνομα: "</string>
@@ -730,6 +732,8 @@
     <string name="mw_snippets_disabled_generic_prompt">Αποκτήστε εξατομικευμένο περιεχόμενο</string>
     <string name="mw_snippets_disabled_signed_out_instructions">Για να αποκτήσετε εξατομικευμένο περιεχόμενο που προτείνεται από την Google, συνδεθείτε στο Chrome.</string>
     <string name="mw_time_picker_dialog_am">ΠM</string>
+    <string name="mw_time_picker_dialog_hour_minute_separator">:</string>
+    <string name="mw_time_picker_dialog_minute_second_separator">:</string>
     <string name="mw_time_picker_dialog_pm">ΜM</string>
     <string name="mw_time_picker_dialog_second_subsecond_separator">.</string>
     <string name="mw_time_picker_dialog_title">Ρύθμιση ώρας</string>
@@ -1174,6 +1178,8 @@
     <string name="voice_title_listening">Ακούστε…</string>
     <string name="voice_title_please">Ξεκινήστε να μιλάτε…</string>
     <string name="voice_title_speech_again">Δεν σας καταλάβαμε</string>
+    <string name="vote_already">Έχετε ήδη ψηφίσει</string>
+    <string name="vote_fail">Δεν ήταν δυνατή η ψηφοφορία, δοκιμάστε ξανά αργότερα</string>
     <string name="weather_description_no_aqi">%1$s</string>
     <string name="weather_location_confirm_message">Η απενεργοποίηση αυτής της λειτουργίας μπορεί να επηρεάσει την χρήση.</string>
     <string name="weather_publish_time">Έγινε ενημέρωση %1$s</string>
@@ -1217,7 +1223,6 @@
     <string name="date_picker_dialog_set">Ορισμός</string>
     <string name="date_picker_dialog_title">Ορισμός ημερομηνίας</string>
     <string name="date_time_picker_dialog_title">Ορισμός ημερομηνίας και ώρας</string>
-    <string name="external_app_restricted_access_error">Το Mi Browser δεν έχει πρόσβαση στην πηγή που ζητήσατε.</string>
     <string name="find_next">Αναζήτηση επόμενου</string>
     <string name="find_previous">Αναζήτηση προηγούμενου</string>
     <string name="js_dialog_before_unload">"%s

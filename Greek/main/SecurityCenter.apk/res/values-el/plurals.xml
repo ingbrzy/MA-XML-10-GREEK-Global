@@ -241,12 +241,12 @@
         <item quantity="one">%d ημέρα από το τελευταίο έλεγχο</item>
     </plurals>
     <plurals name="hints_handle_item_text_risk_number">
-        <item quantity="other">%d κίνδυνοι,</item>
-        <item quantity="one">%d κίνδυνος,</item>
+        <item quantity="other">%d risks,</item>
+        <item quantity="one">%d risk,</item>
     </plurals>
     <plurals name="hints_handle_item_text_virus_number">
-        <item quantity="other">%d trojans,</item>
-        <item quantity="one">%d trojan,</item>
+        <item quantity="other">%d trojans</item>
+        <item quantity="one">%d trojan</item>
     </plurals>
     <plurals name="white_list_risk_app_header">
         <item quantity="other">Επικίνδυνες εφαρμογές: %d</item>
