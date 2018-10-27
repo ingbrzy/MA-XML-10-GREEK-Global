@@ -36,7 +36,6 @@
     <string name="s5">Δημιουργία συμβάντος ημερολογίου</string>
     <string name="s6">Να επιτραπεί στη διαφήμιση να δημιουργήσει ένα συμβάν ημερολογίου;</string>
     <string name="s7">Δοκιμαστική διαφήμιση</string>
-    <string name="status_bar_notification_info_overflow">999+</string>
     <string name="abc_action_bar_home_description">Πλοηγήση στην αρχική</string>
     <string name="abc_action_bar_up_description">Πλοήγηση προς τα επάνω</string>
     <string name="abc_action_menu_overflow_description">Περισσότερα</string>
@@ -746,8 +745,6 @@
     <string name="mw_snippets_disabled_generic_prompt">Αποκτήστε εξατομικευμένο περιεχόμενο</string>
     <string name="mw_snippets_disabled_signed_out_instructions">Για να αποκτήσετε εξατομικευμένο περιεχόμενο που προτείνεται από την Google, συνδεθείτε στο Chrome.</string>
     <string name="mw_time_picker_dialog_am">ΠM</string>
-    <string name="mw_time_picker_dialog_hour_minute_separator">:</string>
-    <string name="mw_time_picker_dialog_minute_second_separator">:</string>
     <string name="mw_time_picker_dialog_pm">ΜM</string>
     <string name="mw_time_picker_dialog_second_subsecond_separator">.</string>
     <string name="mw_time_picker_dialog_title">Ρύθμιση ώρας</string>
