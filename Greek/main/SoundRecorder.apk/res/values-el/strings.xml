@@ -36,7 +36,7 @@
     <string name="no_file">Κενό</string>
     <string name="alert_message_delete_record_title">Διαγραφή εγγράφης;</string>
     <string name="alert_message_delete_record">Με την διαγραφή της ηχογράφησης από τη συσκευή σας, η ηχογράφηση θα διαγράφεί επίσης και από το Mi Cloud. Διαγραφή τώρα;</string>
-    <string name="alert_message_delete_local_record">Delete this recording?</string>
+    <string name="alert_message_delete_local_record">Διαγραφή αυτής της εγγραφής;</string>
     <string name="share">Κοινοποίηση</string>
     <string name="rename">Μετονομασία</string>
     <string name="delete">Διαγραφή</string>
@@ -152,7 +152,7 @@
     <string name="head_set_tip_dialog_title">Χρήση εσωτερικού μικρόφωνου</string>
     <string name="head_set_tip_dialog_msg">Αποσυνδέστε τα ακουστικά σας για δυνατότητα ηχογράφησης μουσικής με συγκεκριμένες προεπιλογές (π.χ., Μουσική, Φωνή).</string>
     <string name="head_set_tip_dialog_ok">Κατάλαβα</string>
-    <string name="rename_fail_tip">"Couldn't rename. Item with this name already exists."</string>
+    <string name="rename_fail_tip">Αδυναμία μετονομασίας. Ένα αντικείμενο με αυτό το όνομα υπάρχει ήδη.</string>
     <string name="dialog_privacy_revoke_tips">"Μετά την ανάκληση εξουσιοδότησης, η εφαρμογή θα διακόψει την συλλογή δεδομένων, και όλα τα σχετικά δεδομένα θα διαγραφούν από τους διακομιστές. Αυτό ενδέχεται να καταστήσει άχρηστη την εφαρμογή. Ανάκληση εξουσιοδότησης παρ' όλα αυτά? Για την εξασφάλιση της ασφάλειας του λογαριασμού σας, συνδεθείτε στο i.mi.com πριν την ανάκληση εξουσιοδότησης για τις υπηρεσίες Mi Cloud."</string>
     <string name="privacy_policy_title">Πολιτική Απορρήτου</string>
 </resources>

@@ -18,6 +18,17 @@
     <string name="common_open_on_phone">Άνοιγμα σε τηλέφωνο</string>
     <string name="common_signin_button_text">Σύνδεση</string>
     <string name="common_signin_button_text_long">Συνδεθείτε με το Google</string>
+    <string name="exo_controls_fastforward_description">Γρήγορη προώθηση</string>
+    <string name="exo_controls_next_description">Επόμενο κομμάτι</string>
+    <string name="exo_controls_pause_description">Παύση</string>
+    <string name="exo_controls_play_description">Αναπαραγωγή</string>
+    <string name="exo_controls_previous_description">Προηγούμενο κομμάτι</string>
+    <string name="exo_controls_repeat_all_description">Επανάληψη όλων</string>
+    <string name="exo_controls_repeat_off_description">Καμία επανάληψη</string>
+    <string name="exo_controls_repeat_one_description">Επανάληψη ενός στοιχείου</string>
+    <string name="exo_controls_rewind_description">Επαναφορά</string>
+    <string name="exo_controls_shuffle_description">Τυχαία αναπαραγωγή</string>
+    <string name="exo_controls_stop_description">Διακοπή</string>
     <string name="s1">Αποθήκευση εικόνας</string>
     <string name="s2">Να επιτραπεί στη διαφήμιση να αποθηκεύσει την εικόνα στο gallery φωτογραφιών;</string>
     <string name="s3">Αποδοχή</string>
@@ -25,8 +36,9 @@
     <string name="s5">Δημιουργία συμβάντος ημερολογίου</string>
     <string name="s6">Να επιτραπεί στη διαφήμιση να δημιουργήσει ένα συμβάν ημερολογίου;</string>
     <string name="s7">Δοκιμαστική διαφήμιση</string>
-    <string name="abc_action_bar_home_description">Μετάβαση στην Αρχική σελίδα</string>
-    <string name="abc_action_bar_up_description">Μεταβείτε επάνω</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
+    <string name="abc_action_bar_home_description">Πλοηγήση στην αρχική</string>
+    <string name="abc_action_bar_up_description">Πλοήγηση προς τα επάνω</string>
     <string name="abc_action_menu_overflow_description">Περισσότερα</string>
     <string name="abc_action_mode_done">Ολοκλήρωση</string>
     <string name="abc_action_mode_select_all">Επιλογή όλων</string>
@@ -147,6 +159,7 @@
     <string name="cannot_download">Δυνατότητα λήψης μόνο \"http\" ή \"https\" URLs</string>
     <string name="card_setting_close_recommend">Λήψη προτάσεων</string>
     <string name="cast_video">Μετάδοση βίντεο</string>
+    <string name="change_news_language">Αλλαγή γλώσσας ειδήσεων;</string>
     <string name="channels_edit">Επεξεργασία</string>
     <string name="channels_finish">Τέλος</string>
     <string name="choosertitle_sharevia">Κοινοποίηση μέσω</string>
@@ -240,6 +253,7 @@
     <string name="document_open_other">Άλλες εφαρμογές</string>
     <string name="document_open_title">Άνοιγμα με</string>
     <string name="dont_remind_again">Απομνημόνευση αυτής της επιλογής</string>
+    <string name="download_btn">Download</string>
     <string name="download_btn_select_all">Επιλογή όλων</string>
     <string name="download_btn_select_none">Αποεπιλογή όλων</string>
     <string name="download_complete">Επιτυχής λήψη</string>
@@ -330,6 +344,7 @@
     <string name="go_supermarket_title">Περισσότερες εφαρμογές, γρηγορότερη ταχύτητα, και λιγότερη χρήση δεδομένων στο Κατάστημα Εφαρμογών</string>
     <string name="gold_medals">Χρυσά μετάλλια</string>
     <string name="google_bookmarks">Google</string>
+    <string name="hash_tag">\# %1$s</string>
     <string name="have_sent_bookmark_to_home_screen">Έγινε τοποθέτηση στην Αρχική οθόνη</string>
     <string name="hint">Συμβουλή</string>
     <string name="history">Ιστορικό</string>
@@ -731,6 +746,8 @@
     <string name="mw_snippets_disabled_generic_prompt">Αποκτήστε εξατομικευμένο περιεχόμενο</string>
     <string name="mw_snippets_disabled_signed_out_instructions">Για να αποκτήσετε εξατομικευμένο περιεχόμενο που προτείνεται από την Google, συνδεθείτε στο Chrome.</string>
     <string name="mw_time_picker_dialog_am">ΠM</string>
+    <string name="mw_time_picker_dialog_hour_minute_separator">:</string>
+    <string name="mw_time_picker_dialog_minute_second_separator">:</string>
     <string name="mw_time_picker_dialog_pm">ΜM</string>
     <string name="mw_time_picker_dialog_second_subsecond_separator">.</string>
     <string name="mw_time_picker_dialog_title">Ρύθμιση ώρας</string>
@@ -964,6 +981,7 @@
     <string name="remove_snapshot">Διαγραφή αποθηκευμένης σελίδας</string>
     <string name="removed_from_bookmarks">Αφαιρέθηκε από τους σελιδοδείκτες</string>
     <string name="replace">Αντικατάσταση</string>
+    <string name="replay">Play again</string>
     <string name="reply_comment_title">Απάντηση: %s</string>
     <string name="resume_download">Εκκίνηση</string>
     <string name="retry_after_network_available">Αδυναμία σύνδεσης στο δίκτυο</string>
@@ -1027,6 +1045,7 @@
     <string name="sendstartpage">Aρχική σελίδα</string>
     <string name="share_image_text">Δες τι κοινοποίησα! @MIUI</string>
     <string name="share_page_text">Δες τι κοινοποίησα: %1$s @MIUI| %2$s</string>
+    <string name="share_slide_video_text">Look what I shared: %1$s</string>
     <string name="share_video">Κοινοποίηση βίντεου</string>
     <string name="sign_in_to" formatted="false">Σύνδεση σε %s1 %s2\"</string>
     <string name="site_sort_des">Επαναδιάταξη αντικειμένων</string>
@@ -1163,6 +1182,9 @@
     <string name="video_unknown_duration">Άγνωστη διάρκεια</string>
     <string name="view_certificate">Προβολή πιστοποιητικού</string>
     <string name="view_document_downloaded_files">Δείτε τα ληφθέντα αρχεία στις Λήψεις</string>
+    <string name="view_source">View source</string>
+    <string name="vmate_download_content">Enjoy all prank, comedy, music, dance videos</string>
+    <string name="vmate_download_title">India’s most Entertaining App</string>
     <string name="voice_check_network">Ελέγξτε τις ρυθμίσεις δικτύου σας και προσπαθήστε ξανά.</string>
     <string name="voice_connect_network">Αδυναμία σύνδεσης στο δίκτυο.</string>
     <string name="voice_description">Φωνητική αναζήτηση</string>

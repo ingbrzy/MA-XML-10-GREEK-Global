@@ -20,6 +20,10 @@
         <item quantity="other">%d επιλεγμένα</item>
         <item quantity="one">%d επιλεγμένο</item>
     </plurals>
+    <plurals name="delivery_toast_body_more_plurals">
+        <item quantity="other">Ελήφθη μήνυμα από %1$s, και από %2$d άλλα άτομα</item>
+        <item quantity="one">Ελήφθη μήνυμα από %1$s, και από %2$d άλλο άτομο</item>
+    </plurals>
     <plurals name="group_message_failed_title">
         <item quantity="other">Αδυναμία αποστολής %d επαφών</item>
         <item quantity="one">Αδυναμία αποστολής %d επαφής</item>

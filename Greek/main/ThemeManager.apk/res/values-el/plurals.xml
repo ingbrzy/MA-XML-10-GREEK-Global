@@ -8,6 +8,10 @@
         <item quantity="other">Διαθέσιμες ενημερώσεις για %1$d θέματα.</item>
         <item quantity="one">Διαθέσιμη ενημέρωση για %1$d θέμα.</item>
     </plurals>
+    <plurals name="theme_designer_products_count">
+        <item quantity="other">%1$s εργασίες</item>
+        <item quantity="one">%1$s εργασία</item>
+    </plurals>
     <plurals name="theme_update_local_resource_notifaction">
         <item quantity="other">Διαθέσιμες ενημερώσεις για %1$d θέματα</item>
         <item quantity="one">Διαθέσιμη ενημέρωση για %1$d θέμα</item>

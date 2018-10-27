@@ -105,6 +105,7 @@
     <string name="accessibility_wifi_signal_full">Άριστο σήμα Wi-Fi.</string>
     <string name="accessibility_wifi_security_type_none">Ανοικτό δίκτυο</string>
     <string name="accessibility_wifi_security_type_secured">Ασφαλές δίκτυο</string>
+    <string name="process_kernel_label">Λειτουργικό σύστημα Android</string>
     <string name="data_usage_uninstalled_apps">Εφαρμογές που καταργήθηκαν</string>
     <string name="data_usage_uninstalled_apps_users">Εφαρμογές και χρήστες που έχουν καταργηθεί</string>
     <string name="tether_settings_title_usb">Πρόσδεση USB</string>

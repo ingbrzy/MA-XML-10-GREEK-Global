@@ -19,7 +19,9 @@
     <string name="exo_download_notification_channel_name">Λήψεις</string>
     <string name="exo_download_removing">Κατάργηση λήψεων</string>
     <string name="exo_item_list">%1$s, %2$s</string>
+    <string name="exo_track_bitrate">%1$.2f Mbps</string>
     <string name="exo_track_mono">Μονοφωνικό</string>
+    <string name="exo_track_resolution">%1$d × %2$d</string>
     <string name="exo_track_selection_auto">Αυτόματο</string>
     <string name="exo_track_selection_none">Κανένα</string>
     <string name="exo_track_selection_title_audio">Ήχος</string>
@@ -207,7 +209,7 @@
     <string name="report_only">Επιλέξτε ένα μήνυμα για αναφορά</string>
     <string name="report_success">Έγινε υποβολή αναφοράς για αυτό το μήνυμα</string>
     <string name="report_error">Αδυναμία αναφοράς μηνύματος</string>
-    <string name="report_warning">"Report %1$s SMS to Mi? These messages and phone numbers they were sent from will be uploaded to Mi's servers for review. Any personal info associated with these messages is always kept anonymous."</string>
+    <string name="report_warning">Αναφορά%1$s SMS στο Mi; Αυτά τα μηνύματα καθώς και οι αριθμοί από όπου στάλθηκαν θα μεταφορτωθούν στους διακομιστές του Mi για εξέταση. Οποιαδήποτε προσωπική πληροφορία προκύψει από αυτά τα μηνύματα θα παραμείνει ανώνυμη.</string>
     <string name="report_warning_title">Προσοχή</string>
     <string name="st_sub_title_customize_mode_name">Όνομα</string>
     <string name="read_all_sms">Ανάγνωση όλων</string>
@@ -457,6 +459,7 @@
     <string name="managed_user_title">Όλες οι εφαρμογές δουλειάς</string>
     <string name="pref_about_traffic_title">Ρυθμίσεις χρήσης δεδομένων</string>
     <string name="pref_traffic_manage_title">Χρήση δεδομένων</string>
+    <string name="pref_operator_setting">%1$s%2$s</string>
     <string name="pref_package_traffic_settings">Πλάνο δεδομένων</string>
     <string name="pref_adjust_traffic_data">Ορισμός χρήσης δεδομένων</string>
     <string name="pref_category_title_other">Πρόσθετες ρυθμίσεις</string>
@@ -662,7 +665,7 @@
     <string name="tc_sms_report_notify_correction_body">Μεταβείτε στην εφαρμογή Χρήση δεδομένων στο Κέντρο Ασφαλείας και προσπαθήστε ξανά.</string>
     <string name="tc_sms_report_notify_get_failure_body">Αδυναμία υποβολής αναφοράς χρήσης δεδομένων. Βεβαιωθείτε πως είστε συνδεδεμένοι σε ένα κινητό δίκτυο.</string>
     <string name="tc_sms_report_tips_dialog_title">SMS χρήσης δεδομένων</string>
-    <string name="tc_sms_report_tips_dialog_message">"An SMS is sent to get the latest data usage info from your carrier. If you think the info isn't correct, send us your feedback."</string>
+    <string name="tc_sms_report_tips_dialog_message">Ένα SMS θα σταλεί για την απόκτηση των πιο πρόσφατων πληροφοριών κατανάλωσης δεδομένων από τον πάροχό σας. Εάν πιστεύετε πως οι πληροφορίες δεν είναι σωστές, στείλτε μας τα σχόλια σας.</string>
     <string name="tc_sms_report_get_sms_failure">Αδυναμία απόκτησης πληροφοριών κατανάλωσης δεδομένων</string>
     <string name="tc_sms_report_get_sms_timeout">Το αίτημα έληξε</string>
     <string name="tc_sms_report_get_sms_successs">Επιτυχής ενημέρωση πληροφοριών κατανάλωσης δεδομένων</string>
@@ -974,6 +977,7 @@
     <string name="om_formatted_percent_string">%s%%</string>
     <string name="om_cpu_usage_warn_title_text">"Η εφαρμογή μπορεί να επιβραδύνει
 την συσκευή σας"</string>
+    <string name="om_memory_clean_memory_info_text">%1$s / %2$s</string>
     <string name="om_ill_proc_handle_unstaill_title">Απεγκατάσταση %s;</string>
     <string name="om_ill_proc_handle_uninstall_prompt">Απεγκαταστήστε την εφαρμογή για επίλυση των προβλημάτων χρήσης μπαταρίας.</string>
     <string name="om_ill_proc_type_wakelock_title">Η εφαρμογή μπλοκάρει την λειτουργία αδράνειας και καταναλώνει μπαταρία</string>
@@ -1018,7 +1022,7 @@
     <string name="menu_item_force_stop">Αναγκαστική διακοπή</string>
     <string name="menu_item_uninstall">Απεγκατάσταση</string>
     <string name="menu_item_app_details">Λεπτομέρειες</string>
-    <string name="details_subtitle">Usage details</string>
+    <string name="details_subtitle">Λεπτομέρειες χρήσης</string>
     <string name="packages_subtitle">Συμπεριλαμβανόμενα πακέτα</string>
     <string name="battery_desc_standby">Χρήση μπαταρίας κατά την αδράνεια</string>
     <string name="battery_desc_radio">Χρήση μπαταρίας από το ράδιο</string>
@@ -1032,6 +1036,7 @@
     <string name="usage_type_data_send">Έγινε αποστολή κινητών δεδομένων</string>
     <string name="usage_type_no_coverage">Χρόνος χωρίς σήμα</string>
     <string name="usage_type_gps">GPS</string>
+    <string name="process_kernel_label">Android</string>
     <string name="process_mediaserver_label">Διακομιστής πολυμέσων</string>
     <string name="power_screen">Οθόνη</string>
     <string name="power_wifi">Wi-Fi</string>
@@ -1126,7 +1131,6 @@
     <string name="deep_save_ontime_boot_shutdown_summary">Προγραμματισμός ώρας ενεργοποίησης και απενεργοποίησης συσκευής</string>
     <string name="btn_text_quick_save_power">Διόρθωση</string>
     <string name="notification_battery_consume_abnormal_title">Η μπαταρία εξαντλείται πολύ γρήρορα</string>
-    <string name="notification_battery_consume_abnormal_summary">Εξαντλήθηκαν %2$s μπαταρίας τα τελευταία %1$d λεπτά</string>
     <string name="app_check_no_issue">Φαίνεται ότι δεν έχετε προβλήματα μπαταρίας. Τέλεια!</string>
     <string name="power_save_mode_enable">Εξοικονόμηση Μπαταρίας</string>
     <string name="power_save_mode_summary">Παρακολούθηση ενεργειών παρασκηνίου και απενεργοποίηση συγχονισμού.</string>
@@ -1259,12 +1263,17 @@
     <string name="power_center_list_item_auto_brightness">Αυτόματη προσαρμογή φωτεινότητας οθόνης</string>
     <string name="power_center_list_item_deep_save_title">Σύνθετες ρυθμίσεις</string>
     <string name="power_center_list_item_battery_status_time">h</string>
+    <string name="power_center_list_item_battery_status_temperature">℃</string>
+    <string name="power_center_list_item_battery_status_capacity">mAh</string>
     <string name="power_center_stop_scan_title">Διακοπή σάρωσης</string>
     <string name="hide_mode_result_summary_text">Προσαρμογή ρυθμίσεων Εξοικονόμησης Μπαταρίας για μεμονομένες εφαρμογές</string>
     <string name="auto_task_result_summary_text">Ορισμός αυτοματοποιημένων εργασιών για Εξοικονόμηση Μπαταρίας</string>
     <string name="pc_settings_title">Ρυθμίσεις χρήσης μπαταρίας</string>
     <string name="pc_main_activity_back">Πίσω</string>
     <string name="extreme_power_save_mode_card_summary">Ενεργοποίηση Εξαιρετικής λειτουργίας για εξοικονόμηση ενέργειας όταν η μπαταρία είναι χαμηλή.</string>
+    <string name="power_center_list_item_battery_health_model_voltage">%s V</string>
+    <string name="power_center_list_item_battery_health_model_temperature">%d ℃</string>
+    <string name="power_center_list_item_battery_health_model_volume">%s mAh</string>
     <string name="handle_bar_title_system">Σύστημα</string>
     <string name="apps_list_header_title_sms">Έλεγχος εφαρμογής μηνυμάτων</string>
     <string name="apps_list_header_title_sms_access">Περιορισμός πρόσβασης σε κωδικούς επαλήθευσης</string>
@@ -1418,11 +1427,13 @@
     <string name="menu_text_optimize_manage">Ενίσχυση ταχύτητας</string>
     <string name="menu_text_networkassistants">Χρήση δεδομένων</string>
     <string name="menu_summary_networkassistants">Διαχείριση του Πλάνου δεδομένων σας</string>
+    <string name="menu_text_networkassistants_2">%s</string>
     <string name="menu_summary_networkassistants_2">Υπέρβαση ορίου</string>
     <string name="menu_summary_networkassistants_3">Απομένουν αρκετά δεδομένα</string>
     <string name="menu_summary_networkassistants_4">Τα δεδομένα σας έχουν σχεδόν εξαντληθεί</string>
     <string name="menu_text_networkassistants_remain">%s απέμειναν</string>
     <string name="menu_text_networkassistants_danger">%s παραπάνω</string>
+    <string name="menu_text_networkassistants_data">%1$s%2$s</string>
     <string name="menu_text_networkassistants_unit_gb">GB</string>
     <string name="menu_text_networkassistants_unit_mb">MB</string>
     <string name="menu_text_networkassistants_unit_kb">KB</string>
@@ -1435,12 +1446,14 @@
     <string name="menu_summary_garbage_cleanup">Δεν βρέθηκαν σκουπίδια</string>
     <string name="menu_summary_garbage_cleanup_2">Μέγεθος σκουπιδιών</string>
     <string name="menu_summary_garbage_cleanup_3">Εκκαθάριση σκουπιδιών τώρα</string>
+    <string name="menu_text_garbage_cleanup_danger">%s</string>
     <string name="menu_text_power_manager">Χρήση μπαταρίας</string>
     <string name="menu_summary_power_manager">Η λειτουργία Εξοικονόμησης Μπαταρίας σας δίνει περισσότερο χρόνο μεταξύ των φορτισμάτων</string>
     <string name="menu_summary_power_manager_1">Η μπαταρία σας είναι πλήρως φορτισμένη</string>
     <string name="menu_summary_power_manager_2">%s απομένουν</string>
     <string name="menu_summary_power_manager_3">Συνδέστε φορτιστή</string>
     <string name="menu_summary_power_manager_4">%s μέχρι πλήρη φόρτιση</string>
+    <string name="menu_text_power_percent_title">%s</string>
     <string name="last_check_canceled">Η προηγούμενη σάρωση ακυρώθηκε</string>
     <string name="examination_score_100">Όλα φαίνονται να λειτουργούν σωστά!</string>
     <string name="examination_score_80_100">Ορισμένα αντικείμενα μπορούν να βελτιστοποιηθούν</string>
@@ -1655,6 +1668,8 @@
     <string name="summary_cloud_space_full">Αποκτήστε περισσότερο χώρο αποθήκευσης και πρόσβαση σε περισσότερες λειτουργίες</string>
     <string name="title_auto_update">Αυτόματη ενημέρωση</string>
     <string name="summary_auto_update">Το MIUI θα επιλέξει την καταλληλότερη στιγμή για να κατεβάσει και να εγκαταστήσει ενημερώσεις.</string>
+    <string name="title_rcs_switch">Ενεργοποιήστε τα Μηνύματα China Mobile</string>
+    <string name="summary_rcs_switch">Στείλτε SMS σε χρήστες της China Mobile χωρίς χρέωση</string>
     <string name="title_miui_update_latest">Το MIUI είναι ενημερωμένο</string>
     <string name="title_miui_update">Διαθέσιμη ενημέρωση</string>
     <string name="summary_miui_update">Διαθέσιμη ενημέρωση για %s.</string>
@@ -1814,6 +1829,7 @@
     <string name="card_main_deepclean_wechat_action">Εκκαθάριση</string>
     <string name="card_main_sectool_title">Εργαλεία</string>
     <string name="card_main_monthreport_action">Προβολή</string>
+    <string name="card_main_speeddetail_action">@string/card_main_monthreport_action</string>
     <string name="card_main_netcheck_title">Δοκιμή δικτύου</string>
     <string name="card_main_netcheck_summary">Δοκιμή σύνδεσης για προβλήματα δικτύου</string>
     <string name="card_main_netcheck_action">Δοκιμή</string>
@@ -1855,7 +1871,7 @@
     <string name="ac_notification_contentTitle">Προστατέψτε εφαρμογές με το Κλείδωμα εφαρμογής</string>
     <string name="ac_pre_notification_contentTitle">Δοκιμάστε Κλείδωμα Εφαρμογής</string>
     <string name="ac_post_notification_contentTitle">Ενεργοποίηση Κλειδώματος Εφαρμογής</string>
-    <string name="midrop_post_notification_contentTitle">Need to share files?</string>
+    <string name="midrop_post_notification_contentTitle">Χρειάζεται να κοινοποιήσετε αρχεία;</string>
     <string name="notification_masked_item">Απόκρυψη ειδοποιήσεων</string>
     <string name="lock_mode_title">Ρυθμίσεις κλειδώματος</string>
     <string name="after_the_lock_screen">Κλείδωμα εφαρμογών ταυτόχρονα με την οθόνη</string>
@@ -1865,7 +1881,7 @@
     <string name="ac_notification_contentText">Πατήστε για ενεργοποίηση</string>
     <string name="ac_pre_notification_contentText">Προστατέψτε τις προσωπικές σας πληροφορίες</string>
     <string name="ac_post_notification_contentText">Αποκτήστε προστασία επιπέδου-συστήματος</string>
-    <string name="midrop_post_notification_contentText">Transfer files at speeds up to 50 Mbps in Mi Drop.</string>
+    <string name="midrop_post_notification_contentText">Μεταφορά αρχείων σε ταχύτητες μέχρι και 50 Mbps στο Mi Drop.</string>
     <string name="notification_masked_subtitle">Απόκρυψη ειδοποιήσεων εφαρμογών που προστατεύονται από Κλείδωμα εφαρμογής</string>
     <string name="ac_enter_applock">Είσοδος σε Κλείδωμα εφαρμογής</string>
     <string name="ac_mask_all_apps">Απόκρυψη για όλες τις εφαρμογές</string>
@@ -1985,6 +2001,7 @@
     <string name="reset_data_title">Αδυναμία επαναφοράς κωδικού</string>
     <string name="reset_data_dialog_message">Αυτή η συσκευή δεν συσχετίζεται με τον Mi Λογαριασμό σας. Δεν είναι δυνατή η επαναφορά του κωδικού πρόσβασης. Δημιουργήστε αντίγραφα ασφαλείας όλων των σημαντικών αντικειμένων και πραγματοποιήστε επαναφορά εργοστασιακών δεδομένων. Όλα τα δεδομένα θα διαγραφούν οριστικά και η κάρτα SD θα μορφοποιηθεί κατά την επαναφορά.</string>
     <string name="reset_data_dialog_ok">Επαναφορά εργοστασιακών δεδομένων</string>
+    <string name="ad_split_screen_title">Please switch to full screen mode to unlock</string>
     <string name="wakepath_confirm_start_activity">Να επιτρέπεται σε %1$s το άνοιγμα %2$s;</string>
     <string name="unlike">Όχι ευχαριστώ</string>
     <string name="toast_network_eror">Αδυναμία σύνδεσης σε δίκτυο</string>
@@ -2196,6 +2213,7 @@
     <string name="gs_call_handsfree_mute">Αθόρυβη λειτουργία</string>
     <string name="gs_gamebox">Συντομεύσεις παιχνιδιού</string>
     <string name="gs_gamebox_detail">Προβολή πλαίσιου συντόμευσης παιχνιδιού</string>
+    <string name="gs_gamebox_slip">Push the screen down to open</string>
     <string name="gs_forbid_autosync">Περιορισμός συγχρονισμός παρασκηνίου</string>
     <string name="gs_app_back_self_start">Εξοικονόμηση μπαταρίας</string>
     <string name="gs_only_self_start_for_list">Περιοριορίστε διαδικασίες παρασκηνίου για εξοικονόμηση μπαταρίας όταν παίζετε</string>
@@ -2347,6 +2365,7 @@
     <string name="screenrecord_not_find">Εγκαταστήστε την τελευταία έκδοση Εγγραφής οθόνης και προσπαθήστε ξανά.</string>
     <string name="gamebox_qq_not_find">Εγκαταστήστε QQ και προσπαθήστε ξανά.</string>
     <string name="gamebox_wechat_not_find">Εγκαταστήστε WeChat και προσπαθήστε ξανά.</string>
+    <string name="gamebox_app_not_find">Install the app first.</string>
     <string name="gamebox_type_close">Να μην εμφανίζεται</string>
     <string name="gamebox_type_float">Έγινε επίλυση συντόμευσης</string>
     <string name="gamebox_type_gesture">Σαρώστε για προβολή</string>
@@ -2363,6 +2382,7 @@
     <string name="gb_create_icon_summary">Δημιουργία συντόμευσης Αρχικής οθόνης</string>
     <string name="title_reply">Σχολιάστε</string>
     <string name="title_like">Μου αρέσει</string>
+    <string name="ellipsis">…</string>
     <string name="game_video_net_data">Δεδομένα κινητής τηλεφωνίας</string>
     <string name="game_wid_viewpoint_buttom">Κάντε ένα μικρό διάλειμμα.</string>
     <string name="video_repeat">Αναπαραγωγή ξανά</string>
@@ -2411,9 +2431,6 @@
     <string name="first_aid_card_airplane_title">Αδυναμία πραγματοποίησης κλήσεων ή σύνδεσης στο δίκτυο</string>
     <string name="first_aid_card_airplane_summary">Απενεργοποιήστε τη λειτουργία πτήσης για να μπορείτε να κάνετε κλήσεις και να συνδεθείτε στο δίκτυο</string>
     <string name="first_aid_card_airplane_button">Απενεργοποίηση</string>
-    <string name="first_aid_card_apn_title">Αδυναμία σύνδεσης στο δίκτυο</string>
-    <string name="first_aid_card_apn_summary">Τα APNs άλλαξαν. Επιδιορθώστε για να μπορείτε να συνδεθείτε στο δίκτυο.</string>
-    <string name="first_aid_card_apn_button">Επιδιόρθωση</string>
     <string name="first_aid_card_unable_install_title">Αδυναμία εγκατάστασης εφαρμογών</string>
     <string name="first_aid_card_unable_install_summary">Μόνο %s του χώρου είναι διαθέσιμα. Ελευθερώστε χώρο για να μπορείτε να εγκαταστήσετε εφαρμογές.</string>
     <string name="first_aid_card_unable_install_button">Ελευθέρωση χώρου</string>

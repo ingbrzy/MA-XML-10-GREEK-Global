@@ -132,6 +132,7 @@
     <string name="security_permission_validate_warning">Σας ευχαριστούμε για την βοήθειά σας στην βελτίωση του MIUI!</string>
     <string name="security_permission_wifi_and_data_opened_text">Το Wi-Fi και τα δεδομένα κινητής ενεργοποιήθηκαν</string>
     <string name="security_permission_network_failed_text">Αδυναμία σύνδεσης στο δίκτυο. Ελέγξτε τις ρυθμίσεις δικτύου και προσπαθήστε ξανά.</string>
+    <string name="security_permission_open_wifi_settings">Άνοιγμα ρυθμίσεων Wi-Fi</string>
     <string name="xspace_resolver_activity_title">Επιλέξτε εφαρμογή</string>
     <string name="user_switching_dialog_text">Γίνεται εναλλαγή…</string>
     <string name="activity_package_delete_confirm_title">Προσοχή</string>

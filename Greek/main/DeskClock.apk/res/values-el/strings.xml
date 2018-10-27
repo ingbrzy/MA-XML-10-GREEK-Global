@@ -152,6 +152,7 @@
     <string name="shutdown_alarm_enable_summary">Το ξυπνητήρι θα ηχεί όταν το τηλέφωνο είναι εκτός λειτουργίας</string>
     <string name="shutdown_alarm_title">Απενεργοποίηση ξυπνητηριού</string>
     <string name="silent_alarm_summary">Αθόρυβο</string>
+    <string name="skip_alarm_date_format">%1$s (%2$s)</string>
     <string name="skip_alarm_once_hint">Απενεργοποίηση μία φορά σε %s</string>
     <string name="slider_text">Σάρωση προς τα επάνω για απενεργοποίηση</string>
     <string name="snooze_confirm_cancel">Κατάργηση ξυπνητηριού</string>
@@ -160,6 +161,7 @@
     <string name="start_up">Εκκίνηση</string>
     <string name="stopwatch_lap_empty_text">Δεν υπάρχουν γύροι</string>
     <string name="stopwatch_title">Χρονόμετρο</string>
+    <string name="symbol_colon">:</string>
     <string name="system_time_setting">Ρυθμίσεις</string>
     <string name="system_time_settings_category_title">Ρυθμίσεις ώρας</string>
     <string name="temperature_unit">%1$s°</string>
@@ -172,6 +174,10 @@
     <string name="timer_alarm_cancel_pad">Αγγίξτε την οθόνη για σίγαση</string>
     <string name="timer_alarm_dot_matrix_label">ΧΡΟΝΟΜΕΤΡΟ</string>
     <string name="timer_alert_alert_silenced">Σίγαση αντίστροφης μέτρησης μετά από %d λεπτά.</string>
+    <string name="timer_alert_mute_off">Ο συναγερμός θα ηχεί όταν το χρονόμετρο σταματά</string>
+    <string name="timer_alert_mute_on">Ο συναγερμός δεν ηχεί όταν το χρονόμετρο σταματά</string>
+    <string name="timer_alert_mute_remind">Πατήστε για σίγαση συναγερμού</string>
+    <string name="timer_alert_mute_switch">Διακόπτης σίγασης συναγερμών χρονομέτρου</string>
     <string name="timer_alert_type_beach">Παραλία</string>
     <string name="timer_alert_type_forest">Δάσος</string>
     <string name="timer_alert_type_mute">Προεπιλογή</string>
@@ -215,7 +221,7 @@
     <string name="volume_button_setting_title">Κουμπιά έντασης</string>
     <string name="workday_alarm_clock">Ξυπνητήρι καθημερινής</string>
     <string name="worldclock_empty_text">Δεν υπάρχουν ρολόγια</string>
-    <string name="worldclock_input_hint_text">Εισαγωγή πόλης</string>
+    <string name="worldclock_input_hint_text">Αναζήτηση για χώρα ή πόλη</string>
     <string name="worldclock_search_city">Επιλογή πόλης</string>
     <string name="worldclock_title">Ρολόι</string>
     <string name="worldclock_world_time">Ζώνες ώρας</string>

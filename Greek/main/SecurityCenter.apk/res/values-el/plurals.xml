@@ -120,6 +120,10 @@
         <item quantity="other">Βρέθηκαν %d προβλήματα μπαταρίας, επιδιορθώστε τα</item>
         <item quantity="one">Βρέθηκε %d πρόβλημα μπαταρίας, επιδιορθώστε το</item>
     </plurals>
+    <plurals name="notification_battery_consume_abnormal_summary">
+        <item quantity="other">Drained %2$d%% of the battery during last %1$d minutes</item>
+        <item quantity="one">Drained %2$d%% of the battery during last %1$d minute</item>
+    </plurals>
     <plurals name="power_center_menu_text">
         <item quantity="other">αντικείμενα</item>
         <item quantity="one">αντικείμενο</item>
@@ -241,8 +245,8 @@
         <item quantity="one">%d ημέρα από το τελευταίο έλεγχο</item>
     </plurals>
     <plurals name="hints_handle_item_text_risk_number">
-        <item quantity="other">%d risks,</item>
-        <item quantity="one">%d risk,</item>
+        <item quantity="other">%d κίνδυνοι,</item>
+        <item quantity="one">%d κίνδυνος,</item>
     </plurals>
     <plurals name="hints_handle_item_text_virus_number">
         <item quantity="other">%d trojans</item>
@@ -367,5 +371,13 @@
     <plurals name="first_aid_result_summary_exception">
         <item quantity="other">%1$d προβλήματα χρειάζονται βελτιστοποίηση</item>
         <item quantity="one">%1$d πρόβλημα χρειάζεται βελτιστοποίηση</item>
+    </plurals>
+    <plurals name="game_booster_incoming_call_duration_p1">
+        <item quantity="other">%1$s:</item>
+        <item quantity="one">%1$s:</item>
+    </plurals>
+    <plurals name="game_booster_incoming_call_duration_p2">
+        <item quantity="other">%1$s</item>
+        <item quantity="one">%1$s</item>
     </plurals>
 </resources>

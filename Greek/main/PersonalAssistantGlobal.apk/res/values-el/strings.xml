@@ -108,6 +108,8 @@
     <string name="card_title_utilities">Βοηθητικά προγράμματα</string>
     <string name="check_network">Ελέγξτε τις ρυθμίσεις δικτύου</string>
     <string name="check_network_retry">Ελέγξτε τις ρυθμίσεις δικτύου σας και προσπαθήστε ξανά</string>
+    <string name="clean_grabage">Εκκαθάριση</string>
+    <string name="clean_now">Έλεγχος</string>
     <string name="cleanup_garbage">Εκκαθάριση</string>
     <string name="cleanup_memory">Εκκαθάριση προσωρινής μνήμης</string>
     <string name="cleanup_power">Βαθιά εκκαθάριση</string>
@@ -129,6 +131,7 @@
     <string name="cta_negative">Κλείσιμο</string>
     <string name="cta_positive">Λεπτομέρειες</string>
     <string name="cta_title">Αφήστε την Αποθήκη εφαρμογών να σας βοηθήσει</string>
+    <string name="current_optimization_value">Οι κίνδυνοι μειώνουν τον βαθμό ασφάλειας της συσκευής σας</string>
     <string name="data_error">Παρουσιάστηκε σφάλμα. περιμένετε ένα δύο λεπτά και προσπαθήστε ξανά.</string>
     <string name="data_error_show">Η παραγγελία ολοκληρώθηκε, αδυναμία εμφάνισης πληροφοριών.</string>
     <string name="donnot_ask">Να μην γίνει ερώτηση ξανά</string>
@@ -225,7 +228,11 @@
     <string name="ola_trip">Καλέστε ένα ταξί</string>
     <string name="ola_trip_content">Εκτιμήστε την τιμή και καλέστε ένα Ola</string>
     <string name="ola_trip_content_detail">Εκτιμήστε την τιμή κατά προσέγγιση και καλέστε ένα Ola.</string>
+    <string name="optimizate_now">Βελτιστοποίηση</string>
+    <string name="optimization">Βαθμός ασφάλειας</string>
     <string name="phone_check">Βελτιστοποίηση</string>
+    <string name="phone_has_garbage">Άχρηστα αρχεία μπορεί να επιβραδύνουν τη συσκευή σας</string>
+    <string name="phone_has_virus">Κακόβουλο λογισμικό και υιοί ενέχουν κινδύνους για την ασφάλεια</string>
     <string name="place_label">Συχνές τοποθεσίες</string>
     <string name="record_name">Εγγραφή</string>
     <string name="record_parent">Ηχογράφηση</string>
@@ -241,6 +248,7 @@
     <string name="search_card_view_date">EE y.M.d</string>
     <string name="search_tip">Γίνεται αναζήτηση…</string>
     <string name="security">Ασφάλεια</string>
+    <string name="security_brief">Προστατεύστε τη συσκευή σας και καθαρίστε τον χώρο αποθήκευσης</string>
     <string name="service_unavailiable">Συνδεθείτε στο δίκτυο και προσπαθήστε ξανά.</string>
     <string name="set_home_failed">Αδυναμία προσθήκης διεύθυνσης, προσπαθήστε ξανά.</string>
     <string name="set_office_failed">Αδυναμία προσθήκης διεύθυνσης, προσπαθήστε ξανά.</string>
@@ -353,6 +361,7 @@
     <string name="upgrade_now">Ενημέρωση</string>
     <string name="user_id">ID χρήστη: %s</string>
     <string name="utilities_apps_bref">Εξερευνήστε εδώ υπηρεσίες τρίτων</string>
+    <string name="virus_scan">Σάρωση για ιούς</string>
     <string name="walk">Περπάτημα</string>
     <string name="webull_title">Webull</string>
     <string name="which_transport">Πως πηγαίνετε στον προορισμό σας συνήθως;</string>

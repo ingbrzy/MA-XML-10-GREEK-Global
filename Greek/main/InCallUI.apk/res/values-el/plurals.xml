@@ -5,15 +5,15 @@
         <item quantity="one">Έγινε ηχογράφηση %d κλήσης.</item>
     </plurals>
     <plurals name="duration_seconds">
-        <item quantity="other">%d seconds</item>
-        <item quantity="one">1 second</item>
+        <item quantity="other">%d δευτερόλεπτα</item>
+        <item quantity="one">1 δευτερόλεπτο</item>
     </plurals>
     <plurals name="duration_minutes">
-        <item quantity="other">%d minutes</item>
-        <item quantity="one">1 minute</item>
+        <item quantity="other">%d λεπτά</item>
+        <item quantity="one">1 λεπτό</item>
     </plurals>
     <plurals name="duration_hours">
-        <item quantity="other">%d hours</item>
-        <item quantity="one">1 hour</item>
+        <item quantity="other">%d ώρες</item>
+        <item quantity="one">1 ώρα</item>
     </plurals>
 </resources>

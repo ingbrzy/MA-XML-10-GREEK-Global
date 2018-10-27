@@ -84,6 +84,10 @@
         <item quantity="other">Ρίξτε μια ματιά στα %1$d νέα βίντεο</item>
         <item quantity="one">Ρίξτε μια ματιά στο %1$d νέο βίντεο</item>
     </plurals>
+    <plurals name="view_count">
+        <item quantity="other">%1$d views</item>
+        <item quantity="one">%1$d view</item>
+    </plurals>
     <plurals name="view_realtime_clear">
         <item quantity="other">Αίθριος</item>
         <item quantity="one">Αίθριος</item>

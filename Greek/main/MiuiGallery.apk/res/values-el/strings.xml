@@ -274,6 +274,7 @@
     <string name="collage_poster_global_summer_flower_text">ΚΑΛΟΚΑΙΡΙ</string>
     <string name="collage_poster_global_tea_text">ΑΠΟΓΕΥΜΑΤΙΝΟ ΤΣΑΙ</string>
     <string name="collage_rotate">Περιστροφή</string>
+    <string name="collage_select_image_range">Τα κολλάζ μπορούν να περιέχουν 1-4 φωτογραφίες</string>
     <string name="collage_title_layout">Διάταξη</string>
     <string name="collage_title_poster">Αφίσα</string>
     <string name="collaps_people">Απόκρυψη</string>
@@ -466,6 +467,7 @@
     <string name="face_name_edit">Επεξεργασία</string>
     <string name="face_name_input">Εισαγωγή ονόματος</string>
     <string name="face_recommend">Προτάσεις</string>
+    <string name="face_recommend_group_number">%1$d/%2$d</string>
     <string name="fail_hint">Αδυναμία ολοκλήρωσης λειτουργίας</string>
     <string name="fail_to_pick_email">Μη έγκυρη διεύθυνση email</string>
     <string name="fail_to_sync_album">Αδυναμία συγχρονισμού άλμπουμ. Ελέγξτε την σύνδεση δεδομένων σας και προσπαθήστε ξανά.</string>
@@ -476,6 +478,7 @@
     <string name="feature_guidance_photo_effects">"Νέα εφέ
  φωτογραφίας διαθέσιμα"</string>
     <string name="feature_guidance_video_editor_smart_effects">Νέα εφέ διαθέσιμα</string>
+    <string name="fileSizeSuffix">%1$s%2$s</string>
     <string name="filter_bi_memory">Μνήμη</string>
     <string name="filter_bi_mono">Μονόχρωμο</string>
     <string name="filter_bi_pink">Ροζ</string>
@@ -537,6 +540,7 @@
     <string name="finish_fill_baby">Δημιουργία</string>
     <string name="flash_off">Χωρίς Φλας</string>
     <string name="flash_on">Φλας σε χρήση</string>
+    <string name="frame_not_support_image_ratio">Αυτή η αναλογία δεν υποστηρίζεται</string>
     <string name="free_view_desc">Προβολή 3D</string>
     <string name="gallery_setting">Ρυθμίσεις</string>
     <string name="gallery_sync_disable_toast">Ο συγχρονισμός είναι απενεργοποιημένος για την Συλλογή</string>
@@ -544,6 +548,7 @@
     <string name="gif_tip">GIF</string>
     <string name="gigabyteShort">GB</string>
     <string name="grant_permission_go_and_set">Ρύθμιση</string>
+    <string name="grant_permission_item">\"%s\"</string>
     <string name="grant_permission_text">"Η Συλλογή απαιτεί πρόσβαση σε 
 %s
  για κανονική λειτουργία, πατήστε \"Ρύθμιση\" για να μεταβείτε στις Άδειες."</string>
@@ -709,6 +714,7 @@
     <string name="operation_in_process">Γίνεται επεξεργασία…</string>
     <string name="operation_move_to_other_albums">Μετακίνηση σε άλλα άλμπουμ</string>
     <string name="operation_not_show_in_photos_tab">Να μην γίνεται προβολή στις Φωτογραφίες</string>
+    <string name="operation_produce">Δημιουργικότητα</string>
     <string name="operation_projection">Μεταβίβαση</string>
     <string name="operation_remove_face">Αφαίρεση</string>
     <string name="operation_remove_from_face_album">Αφαίρεση από το άλμπουμ</string>
@@ -741,6 +747,7 @@
     <string name="people_mark_mode_title_no_mark_name">Επιλέξτε ένα άτομο</string>
     <string name="people_page_label">Άτομα</string>
     <string name="people_page_unname">Χωρίς όνομα</string>
+    <string name="percent_sign">%</string>
     <string name="pet_album_display_name">Φωτογραφίες κατοικίδιων</string>
     <string name="petabyteShort">PB</string>
     <string name="photo">Φωτογραφίες</string>
@@ -751,10 +758,12 @@
     <string name="photo_editor_beauty_compare">Αρχικό</string>
     <string name="photo_editor_crop_and_rotate">Αποκοπή</string>
     <string name="photo_editor_crop_auto">Αυτόματο</string>
+    <string name="photo_editor_crop_auto_tips">Έγινε αυτόματη αποκοπή</string>
     <string name="photo_editor_crop_reset">Επαναφορά</string>
     <string name="photo_editor_crop_rotation_format">%d°</string>
     <string name="photo_editor_doodle">Σκιτσογραφία</string>
     <string name="photo_editor_filter">Φίλτρο</string>
+    <string name="photo_editor_frame">Πλαίσιο</string>
     <string name="photo_editor_label">Επεξεργασία</string>
     <string name="photo_editor_long_crop">Αποκοπή</string>
     <string name="photo_editor_miui_beauty">Ωραιοποίηση</string>
@@ -809,6 +818,7 @@
     <string name="photo_editor_talkback_redo">Επανάληψη</string>
     <string name="photo_editor_talkback_undo">Αναίρεση</string>
     <string name="photo_editor_text">Κείμενο</string>
+    <string name="photo_movie_select_image_range">Τα κλιπ μπορούν να περιέχουν 3-6 φωτογραφίες</string>
     <string name="photo_page_save_uri_image_fail">Αδυναμία αποθήκευσης στη Συλλογή</string>
     <string name="photo_page_save_uri_image_ok">Η φωτογραφία αποθηκεύτηκε στη Συλλογή</string>
     <string name="photo_print_menu_loading">Φόρτωση plug-in…</string>
@@ -998,6 +1008,9 @@
     <string name="search_title_recommend">Προτεινόμενα</string>
     <string name="search_title_suggestion">Προτάσεις</string>
     <string name="search_title_tag">Αντικείμενα</string>
+    <string name="search_transition_element_icon">search_icon</string>
+    <string name="search_transition_element_input">search_input</string>
+    <string name="search_transition_element_voice">search_voice</string>
     <string name="searching_cast_devices">Αναζήτηση για προβολέα…</string>
     <string name="secret_album_card_description">Το καλύτερο μέρος για όλα τα μυστικά σας</string>
     <string name="secret_album_card_title">Δοκιμάστε τα κρυφά άλμπουμ</string>
@@ -1017,6 +1030,7 @@
     <string name="secret_reason_unknow_reasons">Άγνωστο σφάλμα</string>
     <string name="secret_reason_video_not_support">Αδυναμία προσθήκης βίντεο σε κρυφό άλμπουμ</string>
     <string name="see_ignore_faces">Προβολή ατόμων που αγνοήσατε</string>
+    <string name="select_image_operation">Γίνεται προσθήκη φωτογραφιών</string>
     <string name="select_item_face">"Είναι '%s';"</string>
     <string name="select_origin_tip">Αρχικό αρχείο(%s)</string>
     <string name="send_file_beautify_failed">Αδυναμία κοινοποίησης</string>
@@ -1157,6 +1171,7 @@
     <string name="unpublish_failed">Αδυναμία άρσης δημοσίευσης</string>
     <string name="unpublish_succeeded">Έγινε άρση δημοσίευσης άλμπουμ</string>
     <string name="unpublishing">Γίνεται ακύρωση…</string>
+    <string name="unsupport_video">%s δεν λειτουργεί με βίντεο</string>
     <string name="user_agree">Αποδοχή</string>
     <string name="user_agreement2">Όροι Υπηρεσίας</string>
     <string name="user_agreement4">Πολιτική Απορρήτου</string>
@@ -1274,6 +1289,7 @@
     <string name="view_face_album">Προβολή άλμπουμ</string>
     <string name="view_more_face_desc">Εμφάνιση περισσότερων ατόμων</string>
     <string name="voice_assistant">Εισαγωγή φωνής</string>
+    <string name="welcome_to_auto_backup">@string/welcome_to_micloud</string>
     <string name="welcome_to_micloud">Καλωσορίσατε στο Mi Cloud</string>
     <string name="where_is_barcode">Που είναι ο QR κωδικός;</string>
     <string name="who_is_this">Ποιος είναι;</string>
@@ -1281,10 +1297,7 @@
     <string name="yes">Ναι</string>
     <string name="yesterday">Χθες</string>
     <string name="you_are">Ποια είναι η σχέση σας με το μωρό</string>
-    <string name="collage_select_image_range">Collages can contain 1-4 photos</string>
-    <string name="operation_produce">Creativity</string>
-    <string name="photo_editor_crop_auto_tips">Cropped automatically</string>
-    <string name="photo_movie_select_image_range">Clips can contain 3-6 photos</string>
+    <string name="operation_set_slide_wallpaper">Ορισμός ως ταπετσαρία διαφανειών</string>
     <string name="refocus_discard_confirm_message">Αποθήκευση αλλαγών;</string>
     <string name="refocus_discard_negative_btn">Διαγραφή</string>
     <string name="refocus_discard_positive_btn">Αποθήκευση</string>
@@ -1297,6 +1310,6 @@
     <string name="refocus_title">Θολό</string>
     <string name="refocus_type_static">Επίπεδο θολότητας</string>
     <string name="refocus_type_video">Ίχνη φωτός</string>
-    <string name="select_image_operation">Adding photos</string>
-    <string name="unsupport_video">"%s doesn't work with videos"</string>
+    <string name="set_as_slide_wallpaper_description">Αυτή η εικόνα είναι μικρογραφία, λήψη αρχικής εικόνας;</string>
+    <string name="set_as_slide_wallpaper_title">Ορισμός ως ταπετσαρία διαφανειών</string>
 </resources>

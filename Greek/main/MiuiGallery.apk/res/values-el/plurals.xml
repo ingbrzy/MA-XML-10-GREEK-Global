@@ -76,6 +76,10 @@
         <item quantity="other">%d βίντεο</item>
         <item quantity="one">%d βίντεο</item>
     </plurals>
+    <plurals name="creation_max_image">
+        <item quantity="other">Επιλέξτε μέχρι %d φωτογραφίες</item>
+        <item quantity="one">Επιλέξτε μέχρι %d φωτογραφία</item>
+    </plurals>
     <plurals name="custom_select_title_items_selected">
         <item quantity="other">%d αντικείμενα επιλέχθηκαν</item>
         <item quantity="one">%d αντικείμενο επιλέχθηκε</item>
@@ -259,9 +263,5 @@
     <plurals name="sync_total_count">
         <item quantity="other">%d αντικείμενα</item>
         <item quantity="one">%d αντικείμενο</item>
-    </plurals>
-    <plurals name="creation_max_image">
-        <item quantity="other">Select up to %d photos</item>
-        <item quantity="one">Select up to %d photo</item>
     </plurals>
 </resources>

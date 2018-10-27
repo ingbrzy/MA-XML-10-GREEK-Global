@@ -57,6 +57,7 @@
     <string name="save_pic_success">Η εικόνα αποθηκεύτηκε σε %s</string>
     <string name="save_pic_fail">Δεν ήταν δυνατή η αποθήκευση της εικόνας, ελέγξτε την κάρτα SD σας</string>
     <string name="pic_not_exist">Η εικόνα δεν υπάρχει</string>
+    <string name="pic_view_format">%1$s\"/\"%2$s</string>
     <string name="michat_skillset_product_title">Επιλογή προϊόντος</string>
     <string name="michat_skillset_business_type_title">Επιλογή υπηρεσίας</string>
     <string name="michat_close_text">Η συνομιλία τερματίστηκε</string>
@@ -289,8 +290,8 @@
     <string name="warning_field_invalid">Επιλέξτε ένα έγκυρο %1$s</string>
     <string name="min_error">%1$s σας πρέπει να είναι πιο μακρύ.</string>
     <string name="max_error">%1$s σας πρέπει να είναι πιο μικρό.</string>
-    <string name="reply_option_log_hint">可选</string>
-    <string name="reply_select_log_hint">选择日志文件</string>
+    <string name="reply_option_log_hint">Optional</string>
+    <string name="reply_select_log_hint">Select log</string>
     <string name="title_mi_family">Κοντινά Mi Σπίτια</string>
     <string name="hint_feedback_main">Περιγράψτε το πρόβλημα</string>
     <string name="goon_feedback_main">Συνέχεια</string>
@@ -330,5 +331,34 @@
     <string name="customer_service_apply">Αίτηση για εξυπηρέτηση πελατών</string>
     <string name="customer_service_complain">Αναφορά εξυπηρέτησης πελατών</string>
     <string name="customer_service_station">Τοποθεσίες υπηρεσίας</string>
+    <string name="title_catch_full_log">Αρχεία καταγραφής</string>
+    <string name="toast_catch_full_log_catching">Μπορείτε να δημιουργήσετε μόνο ένα αρχείο καταγραφής κάθε φορά.</string>
+    <string name="catch_full_log_item_title_signal">Τηλέφωνο, σήμα, και δίκτυα τηλεφωνίας</string>
+    <string name="catch_full_log_item_title_wifi">Wi-Fi και Mi Drop</string>
+    <string name="catch_full_log_item_title_gps">Υπηρεσίες τοποθεσίας</string>
+    <string name="catch_full_log_item_title_audio">Ήχος, εγγραφή ήχου, και κλήσεις ήχου</string>
+    <string name="catch_full_log_item_title_sensor">Αισθητήρες</string>
+    <string name="catch_full_log_item_title_bt">Bluetooth</string>
+    <string name="catch_full_log_item_title_dump_heap">Lagging</string>
+    <string name="catch_full_log_item_content_need_open">"Steps:
+1. Tap \"Generate log\".
+2. Go back to the feature you want to report and reproduce it.
+3. Come back to this page and tap \"Finish and upload\"."</string>
+    <string name="catch_full_log_item_content_catch_direct">"Steps:
+1. Go back to the feature you want to report and reproduce it.
+2. Come back to this page and tap \"Finish and upload\"."</string>
+    <string name="catch_full_log_action_start">Δημιουργία αρχείου καταγραφής</string>
+    <string name="catch_full_log_action_complete">Τελείωμα και μεταφόρτωση</string>
+    <string name="catch_full_log_action_cancel">Ακύρωση</string>
+    <string name="catch_full_log_dialog_content">"MIUI is generating a log. This might affect the overall productivity of your device. If you can't reproduce the issue you want to report, go back to logs and tap \"Cancel\"."</string>
+    <string name="catch_full_log_dialog_confirm_text">Μεταβείτε στην Αρχική Οθόνη</string>
+    <string name="catch_full_log_notification_title">Γίνεται δημιουργία αρχείου καταγραφής…</string>
+    <string name="catch_full_log_notification_content">Tap to go back to logs</string>
+    <string name="catch_full_log_start_dump_hprof">Generate lagging log</string>
+    <string name="catch_full_log_dump_hprof_failed">"Couldn't generate lagging log"</string>
+    <string name="catch_full_log_add_original_photo">Προσθήκη φωτογραφίας</string>
+    <string name="catch_full_log_add_photo_dialog_content">"If the issue you're reporting is related to camera's image quality, add an original sample photo (uncropped) to help us locate the issue. Add photo now?"</string>
+    <string name="catch_full_log_submit_directly">Υποβολή</string>
+    <string name="catch_full_log_add_photo">Προσθήκη φωτογραφίας</string>
     <string name="select_system_app_tag">Επιλέξτε ένα πρόβλημα</string>
 </resources>

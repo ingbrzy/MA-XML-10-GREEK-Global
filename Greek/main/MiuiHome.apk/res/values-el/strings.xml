@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <string name="status_bar_notification_info_overflow">999+</string>
     <string name="action_add_to_workspace">Προσθήκη στον χώρο εργασίας</string>
     <string name="activity_not_found">Η εφαρμογή δεν έχει εγκατασταθεί στην συσκευή σας</string>
     <string name="add_screen">Προσθήκη οθόνης</string>
@@ -273,7 +274,7 @@
     <string name="recents_config_title">Πρόσφατα</string>
     <string name="recommend_apk_size_and_desc">%1$dMB | %2$s</string>
     <string name="recommend_apps_default_title">Κενό</string>
-    <string name="recommend_apps_no_data">Δεν υπάρχουν δεδομένα</string>
+    <string name="recommend_apps_no_data">Χωρίς δεδομένα</string>
     <string name="recommend_apps_notice">Προτεινόμενες εφαρμογές</string>
     <string name="recommend_apps_notice_nodata">Προτεινόμενες εφαρμογές(Χωρίς δεδομένα)</string>
     <string name="recommend_apps_switch_title">Προτεινόμενες εφαρμογές</string>

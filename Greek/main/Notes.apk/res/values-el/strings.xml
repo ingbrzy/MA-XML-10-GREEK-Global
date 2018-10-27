@@ -30,7 +30,11 @@
     <string name="cancel_alarm_description">Ακύρωση ξυπνητηριού</string>
     <string name="cloud_service_state_open_reminder">Ενεργοποίηση συγχρονισμού με Mi Cloud για συγχρονισμό σημειώσεων.</string>
     <string name="cloud_trash_bin_title">Διαγραφή σημειώσεων από το Mi Cloud</string>
-    <string name="cta_reminder">Aυτή η εφαρμογή απαιτεί σύνδεση στο Ίντερνετ για τη δημιουργία αντίγραφου ασφαλείας των σημειώσεων στο Mi Cloud, καθώς και ανάγνωση των επαφών σας ώστε να ταξινομεί τις σημειώσεις σας κατά την διάρκεια κλήσεων.</string>
+    <string name="cta_confirm_cancel">Απόρριψη</string>
+    <string name="cta_confirm_ok">Αποδοχή</string>
+    <string name="cta_dialog_message">Οι σημειώσεις χρειάζονται άδειες για σύνδεση στο διαδίκτυο, εγγραφή ήχου, και πρόσβαση στις επαφές σας για να λειτουργήσουν κανονικά. Αποδοχή;</string>
+    <string name="cta_dialog_title">Απαιτούνται άδειες</string>
+    <string name="cta_reminder">Οι σημειώσεις χρειάζονται άδειες για σύνδεση στο διαδίκτυο, εγγραφή ήχου, και πρόσβαση στις επαφές σας για να λειτουργήσουν κανονικά. Αποδοχή;</string>
     <string name="date_time_picker_alarm_reminder">Ξυπνητήρι</string>
     <string name="date_time_picker_dialog_title">Ορισμός ημερομηνίας και ώρας</string>
     <string name="date_time_picker_has_not_set_alarm">Δεν έχει οριστεί ξυπνητήρι</string>
@@ -114,6 +118,7 @@
     <string name="menu_title_select_folder">Επιλογή φακέλου</string>
     <string name="menu_unhide">Εμφάνιση</string>
     <string name="menu_unstick">Ξεκαρφίτσωμα</string>
+    <string name="micloud_state_total_count">%1$s</string>
     <string name="not_now">Όχι τώρα</string>
     <string name="note_description_content">Οι Σημειώσεις είναι ένα σπουδαίο εργαλείο για να καταγράφετε τις ιδέες σας. Έχει ενσωματωμένες υπενθυμίσεις και συγχρονίζει τα αντικείμενά σας στο Mi Cloud ώστε να έχετε πρόσβαση σε αυτά από οπουδήποτε, οποτεδήποτε. Βεβαιωθείτε πως δεν χρειάζεστε πλέον αυτές τις λειτουργίες πριν την διαγραφή την εφαρμογής.</string>
     <string name="note_description_title">Σχετικά με Σημειώσεις</string>
@@ -125,6 +130,7 @@
     <string name="note_sort_way">Επιλέξτε πως θέλετε να ταξινομήσετε τις σημειώσεις σας</string>
     <string name="notealert_enter">Άνοιγμα σημείωσης</string>
     <string name="notealert_ok">Απόρριψη</string>
+    <string name="notelist_string_info">…</string>
     <string name="notify_alarm_title">Υπενθύμιση σημείωσης</string>
     <string name="permdesc_accessNote">Κακόβουλες εφαρμογές μπορεί να έχουν πρόσβαση στα προσωπικά σας δεδομένα.</string>
     <string name="permlab_accessNote">Πρόσβαση σημειώσεων</string>
