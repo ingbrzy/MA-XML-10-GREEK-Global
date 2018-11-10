@@ -95,4 +95,7 @@
     <string name="message_i_know">Κατανοητό</string>
     <string name="high_temp_state">Υψηλή θερμοκρασία</string>
     <string name="high_temp_state_message">Θα γίνει περιορισμός της προστασίας υψηλής θερμοκρασίας, των δεδομένων, του wifiap, του gps, της κάμερας κλπ</string>
+    <string name="atrace_start">Γίνεται εγγραφή αρχείου καταγραφής atrace…</string>
+    <string name="atrace_saving">Γίνεται αποθήκευση αρχείου καταγραφής atrace…</string>
+    <string name="atrace_saved">Επιτυχής αποθήκευση</string>
 </resources>

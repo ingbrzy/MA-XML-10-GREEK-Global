@@ -25,6 +25,7 @@
     <string name="s5">Δημιουργία συμβάντος ημερολογίου</string>
     <string name="s6">Να επιτραπεί στη διαφήμιση να δημιουργήσει ένα συμβάν ημερολογίου;</string>
     <string name="s7">Δοκιμαστική διαφήμιση</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
     <string name="account_and_cloud">Λογαριασμός</string>
     <string name="action_item_add">Προσθήκη σε</string>
     <string name="action_item_add_song">Προσθήκη σε λίστα αναπαραγωγής</string>
@@ -135,6 +136,7 @@
     <string name="continue_backup">Συνέχεια</string>
     <string name="cp_info_first">"Η online υπηρεσία αναπαραγωγής μουσικής
 παρέχεται κυρίως από την Ultimate Inc."</string>
+    <string name="cp_info_second">service1@ultimobi.com</string>
     <string name="create_order_fail">Αδυναμία δημιουργίας παραγγελίας, προσπαθήστε ξανά.</string>
     <string name="create_playlist">Δημιουργία λίστας αναπαραγωγής</string>
     <string name="create_playlist_failure">Αδυναμία δημιουργίας λίστας αναπαραγωγής</string>
@@ -229,6 +231,7 @@
     <string name="download_method">Λήψη</string>
     <string name="download_no_application_title">Αδυναμία ανοίγματος αρχείου</string>
     <string name="download_paused_in_power_save_mode">Παύση λήψεων όταν η Εξοικονόμηση μπαταρίας είναι ενεργή</string>
+    <string name="download_percent">%d%%</string>
     <string name="download_processing">Γίνεται λήψη…</string>
     <string name="download_quality">Ποιότητα λήψης</string>
     <string name="download_quality_summary">Πρόσθετες ρυθμίσεις για τραγούδια που κατεβάζετε</string>
@@ -562,6 +565,7 @@
     <string name="priority_storage">Χρήση εξωτερικής κάρτας SD</string>
     <string name="priority_storage_summary">Αυτόματη λήψη στην εξωτερική κάρτα SD εφόσον είναι διαθέσιμη</string>
     <string name="privacy_policy">Πολιτική Απορρήτου</string>
+    <string name="privacy_policy_url">http://www.miui.com/res/doc/privacy.html?lang=en</string>
     <string name="project_device">Mi Τηλέφωνο</string>
     <string name="prompt_grant_write_settings_permission">Να επιτρέπεται η αλλαγή ρυθμίσεων συστήματος</string>
     <string name="pulluprefreshrecyclerview_loading_error">Αδυναμία φόρτωσης</string>
@@ -734,6 +738,7 @@
     <string name="upgrade_music">Ενημέρωση Μουσικής</string>
     <string name="upgrade_music_message">Οι ενημερώσεις είναι έτοιμες. Επανεκκινήστε για ενημέρωση.</string>
     <string name="user_agreement">Όροι Χρήσης</string>
+    <string name="user_agreement_url">http://www.miui.com/res/doc/eula.html?lang=en</string>
     <string name="version_info">Έκδοση</string>
     <string name="vip_after_tomorrow_auto_renew_message">Η συνδρομή της Μουσικής σας θα ανανεωθεί αυτόματα μεθαύριο βράδυ. Βεβαιωθείτε πως έχετε αρκετές Mi Μονάδες στο λογαριασμό σας για να ολοκληρώσετε την πληρωμή.</string>
     <string name="vip_after_tomorrow_renew_message">Δεν θα έχετε την δυνατότητα αναπαραγωγής ήχου υψηλής ποιότητας, αλλά ορισμένα τραγούδια θα είναι διαθέσιμα σε κανονική ποιότητα.</string>

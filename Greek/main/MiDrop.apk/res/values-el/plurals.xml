@@ -21,19 +21,31 @@
         <item quantity="one">%2$d αρχείο από %1$s</item>
     </plurals>
     <plurals name="f">
+        <item quantity="other">%1$s και %2$s άλλα αντικείμενα ήδη μεταφέρονται.</item>
+        <item quantity="one">%1$s και %2$s άλλο αντικείμενο ήδη μεταφέρονται.</item>
+    </plurals>
+    <plurals name="g">
         <item quantity="other">Έγινε επιλογή %d αντικειμένων</item>
         <item quantity="one">Έγινε επιλογή %d αντικειμένου</item>
     </plurals>
-    <plurals name="g">
+    <plurals name="h">
         <item quantity="other">%1$d αντικείμενα</item>
         <item quantity="one">%1$d αντικείμενο</item>
     </plurals>
-    <plurals name="h">
+    <plurals name="i">
         <item quantity="other">Λήψη %1$d αρχείων (%2$s)</item>
         <item quantity="one">Λήψη %1$d αρχείου (%2$s)</item>
     </plurals>
-    <plurals name="i">
+    <plurals name="j">
         <item quantity="other">Αποστολή %1$d αρχείων (%2$s)</item>
         <item quantity="one">Αποστολή %1$d αρχείου (%2$s)</item>
+    </plurals>
+    <plurals name="k">
+        <item quantity="other">Βρέθηκαν ενημερώσεις για %d εφαρμογές</item>
+        <item quantity="one">Βρέθηκαν ενημερώσεις για %d εφαρμογή</item>
+    </plurals>
+    <plurals name="l">
+        <item quantity="other">%1$s κοινοποίησε %2$s αντικείμενα</item>
+        <item quantity="one">%1$s κοινοποίησε %2$s αντικείμενο</item>
     </plurals>
 </resources>

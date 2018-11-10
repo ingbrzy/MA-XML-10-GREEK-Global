@@ -70,7 +70,7 @@
     <string name="global_search_key_mortgage">Υπολογισμός υποθηκών, Υπολογιστής υποθηκών, Υποθήκη</string>
     <string name="global_search_key_personal_tax">Ατομικός φόρος εισοδήματος, Έσοδα μετά από φόρους, Φορολογικός υπολογιστής, υπολογισμός προσωπικού εισοδήματος, υπολογισμός εισοδήματος, υπολογισμός εσόδων μετά από φόρους, προσωπικός φόρος εισοδήματος, φόρος, φόροι</string>
     <string name="global_search_key_scientific_convertion">Επιστημονική αριθμομηχανή, Υπολογισμός λειτουργίας, Μαθηματικά, Άλγεβρα</string>
-    <string name="global_search_key_speed_convertion">Speed unit conversion;Velocity conversion;Speed conversion;Speed converter;Speed;Velocity</string>
+    <string name="global_search_key_speed_convertion">Μετατροπή μονάδων ταχύτητας,Μετατροπή ταχύτητας με κατεύθυνση,Μετατροπή ταχύτητας,Μετατροπέας ταχύτητας,Ταχύτητα,Ταχύτητα με κατεύθυνση</string>
     <string name="global_search_key_temperature_convertion">Μετατροπή μονάδας θερμοκρασίας, Μετατροπή θερμοκρασίας, Μετατροπέας θερμοκρασίας, Φαρενάιτ, Βαθμοί Κελσίου, Εκατοντάβαθμο</string>
     <string name="global_search_key_volume_convertion">Μετατροπή όγκου μονάδας, Μετατροπή όγκου, Μετατροπέας όγκου</string>
     <string name="global_search_key_weight_convertion">Μετατροπή μονάδας βάρους, Μετατροπή βάρους, Μετατροπέας βάρους, Κιλά, Kg, Χιλιόγραμμα, Λίβρα, Λίβρες, lbs</string>
@@ -552,8 +552,11 @@
     <string name="word_figure_unit_shi">拾</string>
     <string name="word_figure_yuan">元</string>
     <string name="word_figure_zheng">整</string>
+    <string name="xiaomi_bytes_unit">%1$sB</string>
     <string name="xiaomi_connect_download_manager_fail">Δεν ήταν δυνατή η εκκίνηση της λήψης. Βεβαιωθείτε ότι ο Διαχειριστής λήψεων λειτουργεί κανονικά.</string>
     <string name="xiaomi_external_storage_unavailable">Αποθηκευτικός χώρος μη διαθέσιμος, ελέγξτε την κάρτα SD.</string>
+    <string name="xiaomi_kilobytes_unit">%1$sKB</string>
+    <string name="xiaomi_megabytes_unit">%1$sMB</string>
     <string name="xiaomi_update_dialog_message">"Εισαγωγή έκδοσης %1$s
 Μέγεθος: %2$s"</string>
     <string name="xiaomi_update_dialog_message_diff">"Εισαγωγή έκδοσης %1$s

@@ -92,6 +92,7 @@
     <string name="hints_apk_header_left">Πακέτα</string>
     <string name="hints_residual_header_left">Κατάλοιπα</string>
     <string name="hints_memory_header_left">Μνήμη</string>
+    <string name="hints_header_left">%d</string>
     <string name="hints_large_file_header_left">Μεγάλα αρχεία: %d</string>
     <string name="hints_installed_apps_header_left">Εγκατεστημένες εφαρμογές: %d</string>
     <string name="toast_resolve_apk_error">Επίλυση apk σφάλματος</string>
@@ -299,6 +300,7 @@
     <string name="downloading">Γίνεται λήψη</string>
     <string name="installing">Γίνεται εγκατάσταση</string>
     <string name="start_install">Εγκατάσταση τώρα</string>
+    <string name="empty">" "</string>
     <string name="open_browser">Άνοιγμα στον φυλλομετρητή</string>
     <string name="title_share_link">Κοινοποίηση URL</string>
     <string name="connecting">Γίνεται σύνδεση…</string>
@@ -467,9 +469,9 @@
     <string name="file_not_found">Δεν βρέθηκε αρχείο</string>
     <string name="app_usage_never">Όχι πρόσφατα σε χρήση</string>
     <string name="app_usage_recently">Πρόσφατα σε χρήση</string>
-    <string name="resutl_function_deep_clean_summary">" "<Data>&lt;font color=#ff0000 >%1$s&lt;/font> ακόμη αρχεία μπορούν να διαγραφούν. Ελευθερώστε περισσότερο χώρο.;</Data>" "</string>
-    <string name="resutl_function_wechat_clean_summary">" "<Data>&lt;font color=#ff0000 >%1$s&lt;/font> WeChat cache. Ελευθερώστε περισσότερο χώρο.;</Data>" "</string>
-    <string name="resutl_function_qq_clean_summary">" "<Data>Δυνατότητα εκκαθάρισης &lt;font color=#ff0000 >%1$s&lt;/font> προσωρινής μνήμης από το QQ;</Data>" "</string>
+    <string name="resutl_function_deep_clean_summary">" "<Data> &lt;font color=#ff0000 >%1$s&lt;/font> ακόμη αρχεία μπορούν να διαγραφούν. Ελευθερώστε περισσότερο χώρο. ;</Data>" "</string>
+    <string name="resutl_function_wechat_clean_summary">" "<Data> &lt;font color=#ff0000 >%1$s&lt;/font> WeChat cache. Ελευθερώστε περισσότερο χώρο. ;</Data>" "</string>
+    <string name="resutl_function_qq_clean_summary">" "<Data> Δυνατότητα εκκαθάρισης &lt;font color=#ff0000 >%1$s&lt;/font> προσωρινής μνήμης από το QQ ;</Data>" "</string>
     <string name="engine_tm">Tencent</string>
     <string name="engine_cm">Clean Master</string>
     <string name="app_description_title">Σχετικά με Εκκαθάριση</string>
@@ -498,19 +500,6 @@
     <string name="auto_clean_time_three_day">Κάθε 3 ημέρες</string>
     <string name="auto_clean_time_seven_day">Κάθε 7 ημέρες</string>
     <string name="auto_clean_time_fifteen_day">Κάθε 15 ημέρες</string>
-    <string name="pref_category_title_auto_clean_config_settings">Αυτόματες εκκαθαρίσεις</string>
-    <string name="pref_title_auto_clean">Αυτόματη εκκαθάριση</string>
-    <string name="pref_title_auto_clean_operation">Μέθοδος εκκαθάρισης</string>
-    <string name="pref_title_auto_clean_trigger">Εκκαθάριση χώρου αποθήκευσης</string>
-    <string name="auto_clean_operation_dialog_title">Μέθοδος εκκαθάρισης</string>
-    <string name="auto_clean_operation_clean_and_alert">Υπενθύμιση και εκκαθάριση</string>
-    <string name="auto_clean_operation_just_clean">Μόνο εκκαθάριση</string>
-    <string name="auto_clean_trigger_dialog_title">Εκκαθάριση χώρου αποθήκευσης</string>
-    <string name="auto_clean_trigger_percent_ninety">Όταν το 90% είναι κατειλημμένο</string>
-    <string name="auto_clean_trigger_percent_eighty">Όταν το 80% είναι κατειλημμένο</string>
-    <string name="auto_clean_trigger_percent_sixty">Όταν το 60% είναι κατειλημμένο</string>
-    <string name="auto_clean_notification_title">Υπενθύμιση για εκκαθάριση</string>
-    <string name="auto_clean_notification_content">Έγινε εκκαθάριση %s σκουπιδιών</string>
     <string name="guide_secure_dialog_title">Βελτιστοποίηση απόδοσης</string>
     <string name="guide_secure_dialog_message">Το σκορ βελτιστοποίησης της συσκευής σας είναι χαμηλότερο από 80 βαθμούς. Βελτιστοποίηση τώρα;</string>
     <string name="guide_secure_dialog_positive">Βελτιστοποίηση</string>
@@ -538,10 +527,6 @@
     <string name="whatsapp_group_gif">GIFs</string>
     <string name="whatsapp_group_document">Έγγραφα</string>
     <string name="whatsapp_btn_quick_cleanup">Διαγραφή επιλεγμένων αρχείων (%s)</string>
-    <string name="whatsapp_type_image_send">Απεσταλμένες εικόνες</string>
-    <string name="whatsapp_type_image_recv">Εισερχόμενες εικόνες</string>
-    <string name="whatsapp_type_document_send">Απεσταλμένα αρχεία</string>
-    <string name="whatsapp_type_document_recv">Εισερχόμενα αρχεία</string>
     <string name="whatsapp_file_show_order">Σήμερα</string>
     <string name="whatsapp_clean_exit_confirm_title">Διακοπή σάρωσης;</string>
     <string name="whatsapp_clean_exit_confirm_msg">Δεν έχει ολοκληρωθεί η σάρωση του WhatsApp. Διακοπή σάρωσης τώρα;</string>
@@ -567,4 +552,17 @@
     <string name="memory_clean_no_trash_tip">Όλα φαίνεται να λειτουργούν σωστά</string>
     <string name="toast_updater_open_4g_text">Οι εφαρμογές θα ενημερωθούν με τη χρήση δεδομένων κινητής τηλεφωνίας (4G)</string>
     <string name="toast_updater_close_4g_text">Οι εφαρμογές δεν θα ενημερωθούν με τη χρήση δεδομένων κινητής τηλεφωνίας (4G)</string>
+    <string name="facebook_cleaner">Εκκαθάριση Facebook</string>
+    <string name="facebook_group_image">Εικόνες</string>
+    <string name="facebook_group_video">Βίντεο</string>
+    <string name="facebook_group_gif">GIFs</string>
+    <string name="facebook_group_cache">Αρχεία προσωρινής μνήμης</string>
+    <string name="app_clean_group_image_send">Απεσταλμένες εικόνες</string>
+    <string name="app_clean_group_image_recv">Εισερχόμενες εικόνες</string>
+    <string name="app_clean_group_document_send">Απεσταλμένα αρχεία</string>
+    <string name="app_clean_group_document_recv">Εισερχόμενα αρχεία</string>
+    <string name="facebook_clean_exit_confirm_title">Διακοπή σάρωσης;</string>
+    <string name="facebook_clean_exit_confirm_msg">Δεν έχει ολοκληρωθεί η σάρωση του Facebook. Διακοπή σάρωσης τώρα;</string>
+    <string name="facebook_clean_exit_confirm_cancel">Συνέχεια σάρωσης</string>
+    <string name="facebook_clean_exit_confirm_ok">Διακοπή</string>
 </resources>

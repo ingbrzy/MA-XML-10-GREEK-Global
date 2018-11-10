@@ -135,6 +135,7 @@
     <string name="security_permission_open_wifi_settings">Άνοιγμα ρυθμίσεων Wi-Fi</string>
     <string name="xspace_resolver_activity_title">Επιλέξτε εφαρμογή</string>
     <string name="user_switching_dialog_text">Γίνεται εναλλαγή…</string>
+    <string name="xspace_head">Διπλότυπη εφαρμογή</string>
     <string name="activity_package_delete_confirm_title">Προσοχή</string>
     <string name="button_text_cancel">Ακύρωση</string>
     <string name="button_text_delete">Απεγκατάσταση</string>

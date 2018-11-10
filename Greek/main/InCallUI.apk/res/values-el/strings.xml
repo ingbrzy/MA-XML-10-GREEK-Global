@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="inCallLabel">Διεπαφή κλήσεων</string>
+    <string name="inCallLabel">Τηλέφωνο</string>
     <string name="unknown">Άγνωστο</string>
     <string name="private_num">Απόρρητος αριθμός</string>
     <string name="payphone">Καρτοτηλέφωνο</string>

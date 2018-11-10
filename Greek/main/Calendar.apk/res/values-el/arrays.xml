@@ -32,6 +32,39 @@
         <item>Προς τα εμπρός</item>
         <item>Προς τα πίσω</item>
     </string-array>
+    <string-array name="dates">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+        <item>7</item>
+        <item>8</item>
+        <item>9</item>
+        <item>10</item>
+        <item>11</item>
+        <item>12</item>
+        <item>13</item>
+        <item>14</item>
+        <item>15</item>
+        <item>16</item>
+        <item>17</item>
+        <item>18</item>
+        <item>19</item>
+        <item>20</item>
+        <item>21</item>
+        <item>22</item>
+        <item>23</item>
+        <item>24</item>
+        <item>25</item>
+        <item>26</item>
+        <item>27</item>
+        <item>28</item>
+        <item>29</item>
+        <item>30</item>
+        <item>31</item>
+    </string-array>
     <string-array name="default_reminder_labels">
         <item>Την ώρα του συμβάντος</item>
         <item>5 λεπτά πριν</item>
@@ -47,6 +80,10 @@
         <item>Μόνο αυτό το συμβάν</item>
         <item>Αυτό και μελλοντικά συμβάντα</item>
         <item>Όλα τα συμβάντα</item>
+    </string-array>
+    <string-array name="english_premium_league">
+        <item>4</item>
+        <item>@string/english_premium_league</item>
     </string-array>
     <string-array name="gemini_info">
         <item>δίδυμοι</item>
@@ -281,15 +318,15 @@
         <item>Γιακούτσκ</item>
         <item>Αδελαΐδα</item>
         <item>Ντάργουιν</item>
-        <item>Μπρίσμπεϊν</item>
+        <item>Μπρισμπέιν</item>
         <item>Χόμπαρτ</item>
-        <item>Σίδνεϊ, Καμπέρα</item>
+        <item>Σίντνεϋ, Καμπέρα</item>
         <item>Βλαδιβοστόκ</item>
         <item>Γκουάμ</item>
         <item>Μαγκαντάν</item>
-        <item>Όκλαντ</item>
+        <item>Ώκλαντ</item>
         <item>Φίτζι</item>
-        <item>Τόγκα</item>
+        <item>Τόνγκα</item>
     </string-array>
     <string-array name="travel_reminder_minutes_labels">
         <item>3 ώρες πριν</item>
@@ -315,12 +352,5 @@
     <string-array name="widget_style_list">
         <item>Διάφανο</item>
         <item>Λευκό φόντο</item>
-    </string-array>
-    <string-array name="edit_event_dislike">
-        <item>No event type I want to create</item>
-        <item>More Settings</item>
-        <item>Some Settings cannot be determined</item>
-        <item>Just look around</item>
-        <item>"Don't tell you"</item>
     </string-array>
 </resources>

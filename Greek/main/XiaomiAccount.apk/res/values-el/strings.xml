@@ -30,6 +30,7 @@
     <string name="passport_register">Δημιουργία λογαριασμού</string>
     <string name="passport_new_user_register">Δημιουργία λογαριασμού</string>
     <string name="passport_vcode_sms_send_prompt">Αποστολή κωδικού επαλήθευσης σε %s</string>
+    <string name="passport_input_phone_password">Παρακαλούμε εισαγάγετε τον κωδικό για τον αριθμό τηλεφώνου%s</string>
     <string name="passport_get_verify_code">Απόκτηση κωδικού</string>
     <string name="passport_re_get_verify_code">Απόκτηση κωδικού ξανά</string>
     <string name="passport_getting_verify_code">Γίνεται λήψη</string>
@@ -59,6 +60,7 @@
     <string name="passport_forget_password_no_underline">Ξέχασα τον κωδικό</string>
     <string name="passport_reg_type_email">Διεύθυνση email</string>
     <string name="passport_register_by_email"><u>Δημιουργία λογαριασμού με διεύθυνση email</u></string>
+    <string name="passport_international_register_by_email">Δημιουργία λογαριασμού με διεύθυνση email</string>
     <string name="passport_account_not_actived">Ο λογαριασμός σας δεν ενεργοποιήθηκε</string>
     <string name="passport_active_email_visit">Ελέγξτε τα εισερχόμενα στο %s</string>
     <string name="passport_click_email_to_valid">"
@@ -177,6 +179,7 @@
     <string name="passport_quick_register_notice"><u>Δεν έχετε Mi Λογαριασμό? Δημιουργήστε έναν.</u></string>
     <string name="passport_password_phone_login">Σύνδεση με Mi Λογαριασμό</string>
     <string name="passport_sms_verification_code_login">Σύνδεση με SMS</string>
+    <string name="passport_sms_verification_code_login_or_register">Είσοδος ή εγγραφή με SMS</string>
     <string name="passport_login_other_account">Άλλος λογαριασμός</string>
     <string name="passport_reg_new_account">Δημιουργία λογαριασμού</string>
     <string name="passport_select_the_login_account">Επιλέξτε λογαριασμό για σύνδεση</string>

@@ -76,9 +76,9 @@
         <item quantity="other">"Η πρόβαση δικτύου περιορίστηκε για &lt;font color='#ff0000'>%d&lt;/font> εφαρμογές"</item>
         <item quantity="one">"Η πρόβαση δικτύου περιορίστηκε για &lt;font color='#ff0000'>%d&lt;/font> εφαρμογή"</item>
     </plurals>
-    <plurals name="om_ill_proc_multi_app_title">
-        <item quantity="other">%d εφαρμογές δεν λειτουργούν κανονικά και καταναλώνουν μπαταρία</item>
-        <item quantity="one">%d εφαρμογή δεν λειτουργεί κανονικά και καταναλώνει μπαταρία</item>
+    <plurals name="om_locked_apps_title">
+        <item quantity="other">%d κλειδωμένες εφαρμογές</item>
+        <item quantity="one">%d κλειδωμένη εφαρμογή</item>
     </plurals>
     <plurals name="power_center_battery_day">
         <item quantity="other">"%d ημέρες "</item>
@@ -121,8 +121,8 @@
         <item quantity="one">Βρέθηκε %d πρόβλημα μπαταρίας, επιδιορθώστε το</item>
     </plurals>
     <plurals name="notification_battery_consume_abnormal_summary">
-        <item quantity="other">Drained %2$d%% of the battery during last %1$d minutes</item>
-        <item quantity="one">Drained %2$d%% of the battery during last %1$d minute</item>
+        <item quantity="other">Εξαντλήθηκε %2$d%% της μπαταρίας μέσα στα τελευταία %1$d λεπτά</item>
+        <item quantity="one">Εξαντλήθηκε %2$d%% της μπαταρίας μέσα στο τελευταίο %1$d λεπτό</item>
     </plurals>
     <plurals name="power_center_menu_text">
         <item quantity="other">αντικείμενα</item>

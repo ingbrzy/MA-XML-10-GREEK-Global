@@ -67,10 +67,11 @@
     <string name="xspace_label">Διπλότυπες εφαρμογές</string>
     <string name="xspace_setting_label">Ρυθμίσεις διπλότυπης εφαρμογής</string>
     <string name="xspace_account">Λογαριασμοί διπλότυπων εφαρμογών</string>
+    <string name="xspace_remove">Γίνεται διαγραφή διπλότυπων λογαριασμών εφαρμογών</string>
     <string name="declare_dialog_title">Σχετικά με διπλότυπες εφαρμογές</string>
     <string name="menu_item_about_privacy_title">Πολιτική Απορρήτου</string>
     <string name="stop_xspace_alert_title">Γίνεται διαγραφή διπλότυπων λογαριασμών εφαρμογών</string>
-    <string name="stop_xspace_alert_content">Διαγράψατε όλες τις διπλότυπες εφαρμογές. Διαγραφή διπλότυπων λογαριασμών εφαρμογών και δεδομένων εφαρμογών επίσης? Μετά από αυτό, θα πρέπει να δημιουργήσετε ξανά διπλότυπες εφαρμογές όταν τις ξαναχρειαστείτε.</string>
+    <string name="stop_xspace_alert_content">Όλες οι διπλότυπες εφαρμογές και τα δεδομένα τους θα διαγραφούν οριστικά. Θα πρέπει να επανεκκινήσετε τη συσκευή σας για να εφαρμόσετε αυτή την αλλαγή. Διαγραφή λογαριασμών τώρα;</string>
     <string name="xspace_loading_msg">Φόρτωση εφαρμογών…</string>
     <string name="xspace_header">Διπλότυπες εφαρμογές</string>
     <string name="xspace_introduce">Προτεινόμενα</string>

@@ -98,7 +98,6 @@
     <string name="app_name">Συλλογή</string>
     <string name="app_name_view_picture">Προβολή φωτογραφιών</string>
     <string name="app_name_view_video">Δείτε βίντεο</string>
-    <string name="apply">Εφαρμογή</string>
     <string name="associate_face_album">Επιλογή άλμπουμ</string>
     <string name="auto_backup_introduce">Δημιουργία αντιγράφων ασφαλείας για φωτογραφίες και βίντεο αυτόματα(απαιτείται Mi Λογαριασμός)</string>
     <string name="auto_download_media_title">Αυτόματη λήψη φωτογραφιών από Mi Cloud</string>
@@ -123,10 +122,6 @@
     <string name="baby_album_sharers_page_title">Κοινοποίηση στην οικογένεια</string>
     <string name="baby_birthday">Γενέθλια</string>
     <string name="baby_face_desc">Άλμπουμ μωρού</string>
-    <string name="baby_lock_wallpaper">Ταπετσαρία οθόνης κλειδώματος</string>
-    <string name="baby_lock_wallpaper_cancelled">Έγινε εναλλαγή σε προεπιλεγμένη ταπετσαρία Οθόνης κλειδώματος</string>
-    <string name="baby_lock_wallpaper_save_settings_msg">Εφαρμογή τρεχόντων ρυθμίσεων;</string>
-    <string name="baby_lock_wallpaper_title">Χρήση φωτογραφιών μωρού ως ταπετσαρία οθόνης κλειδώματος</string>
     <string name="baby_name_cannot_empty">Εισαγωγή ονόματος</string>
     <string name="baby_name_cannot_start_with">"Το όνομα δεν μπορεί να ξεκινάει με '%s'"</string>
     <string name="baby_name_contain_invalidate_char">"Το όνομα δεν μπορεί να περιέχει '%s'"</string>
@@ -196,7 +191,6 @@
     <string name="byteShort">B</string>
     <string name="camera_needs_auto_backup_tip">Πρέπει να δημιουργηθεί αντίγραφο ασφαλείας για το άλμπουμ Κάμερα</string>
     <string name="cancel">Ακύρωση</string>
-    <string name="cancel_baby_lock_wallpaper_confirm_msg">Εναλλαγή σε προεπιλεγμένη ταπετσαρία Οθόνης κλειδώματος;</string>
     <string name="cancel_download_btn_text">Διακοπή</string>
     <string name="cancel_hint">Η λειτουργία ακυρώθηκε</string>
     <string name="cannot_remove_creator">Αδυναμία αφαίρεσης δημιουργού</string>
@@ -347,6 +341,11 @@
     <string name="disable_auto_upload_tip">Απενεργοποίηση συγχρονισμού με Mi Cloud για αυτό το άλμπουμ;</string>
     <string name="disable_auto_upload_title">Απενεργοποίηση συγχρονισμού με Mi Cloud</string>
     <string name="do_not_remind_me">Να μην εμφανιστεί ξανά</string>
+    <string name="document_provider_guide_step_1">1. Πατήστε το κουμπί \"Περισσότερα\".</string>
+    <string name="document_provider_guide_step_2">2. Πατήστε \"Εμφάνιση εσωτερικού χώρου αποθήκευσης\".</string>
+    <string name="document_provider_guide_step_3">3. Πατήστε το κουμπί πλευρικού μενού.</string>
+    <string name="document_provider_guide_step_4">4. Επιλέξτε \"Κάρτα SD\".</string>
+    <string name="document_provider_guide_step_5">5. Πατήστε \"Επιλογή\".</string>
     <string name="double_tap_to_higher_definition">Διπλό άγγιγμα ξανά για HD προβολή</string>
     <string name="download_canceled">Λήψη ακυρώθηκε</string>
     <string name="download_error_format">Αδυναμία λήψης %s</string>
@@ -450,6 +449,18 @@
     <string name="exit_video_play">Έξοδος</string>
     <string name="expand_desc">Περισσότερα</string>
     <string name="expand_people">Εμφάνιση περισσότερων ατόμων</string>
+    <string name="ext_sdcard_first_entrance_request_failed_text">Η Συλλογή αποθηκεύει τα αντικείμενα στον εσωτερικό χώρο αποθήκευσης. Μπορείτε να το αλλάξετε στις Ρυθμίσεις > Αποθήκευση > Ρυθμίσεις αποθήκευσης.</string>
+    <string name="ext_sdcard_first_entrance_request_failed_title">Αδυναμία παραχώρησης αδειών.</string>
+    <string name="ext_sdcard_guide_first_page_button_text">Επόμενο</string>
+    <string name="ext_sdcard_guide_last_page_button_text">Παραχωρήστε άδειες</string>
+    <string name="ext_sdcard_guide_text">Η Συλλογή χρειάζεται την άδειά σας για πρόσβαση στην κάρτα SD. Ορίστε τι μπορείτε να κάνετε:</string>
+    <string name="ext_sdcard_operation_failed_text">Η Συλλογή χρειάζεται άδεια πρόσβασης στην κάρτα SD.</string>
+    <string name="ext_sdcard_operation_failed_title">Αδυναμία ολοκλήρωσης αυτής της ενέργειας</string>
+    <string name="ext_sdcard_permission_request_button_text">Κατανοητό</string>
+    <string name="ext_sdcard_permission_request_reason">Η Συλλογή χρειάζεται την άδειά σας για πρόσβαση στην κάρτα SD. Θα σας επιτρέψει να διαγράψετε και να επεξεργαστείτε φωτογραφίες και βίντεο που είναι αποθηκευμένα στην κάρτα SD σας.</string>
+    <string name="ext_sdcard_permission_request_title">Να επιτρέπεται στη Συλλογή η πρόσβαση στην κάρτα SD</string>
+    <string name="ext_sdcard_request_failed_button_text">ΟΚ</string>
+    <string name="ext_sdcard_request_succeed_toast_text">Είστε έτοιμοι!</string>
     <string name="face_album_empty">"Δεν υπάρχουν αρκετές φωτογραφίες για αναγνώριση προσώπων.
 Κάντε λήψη περισσότερων φωτογραφιών!"</string>
     <string name="face_album_empty_syncing">Γίνεται συγχρονισμός δεδομένων, επανέλθετε αργότερα</string>
@@ -467,6 +478,7 @@
     <string name="face_name_edit">Επεξεργασία</string>
     <string name="face_name_input">Εισαγωγή ονόματος</string>
     <string name="face_recommend">Προτάσεις</string>
+    <string name="face_recommend_group_number">%1$d/%2$d</string>
     <string name="fail_hint">Αδυναμία ολοκλήρωσης λειτουργίας</string>
     <string name="fail_to_pick_email">Μη έγκυρη διεύθυνση email</string>
     <string name="fail_to_sync_album">Αδυναμία συγχρονισμού άλμπουμ. Ελέγξτε την σύνδεση δεδομένων σας και προσπαθήστε ξανά.</string>
@@ -477,6 +489,7 @@
     <string name="feature_guidance_photo_effects">"Νέα εφέ
  φωτογραφίας διαθέσιμα"</string>
     <string name="feature_guidance_video_editor_smart_effects">Νέα εφέ διαθέσιμα</string>
+    <string name="fileSizeSuffix">%1$s%2$s</string>
     <string name="filter_bi_memory">Μνήμη</string>
     <string name="filter_bi_mono">Μονόχρωμο</string>
     <string name="filter_bi_pink">Ροζ</string>
@@ -546,6 +559,7 @@
     <string name="gif_tip">GIF</string>
     <string name="gigabyteShort">GB</string>
     <string name="grant_permission_go_and_set">Ρύθμιση</string>
+    <string name="grant_permission_item">\"%s\"</string>
     <string name="grant_permission_text">"Η Συλλογή απαιτεί πρόσβαση σε 
 %s
  για κανονική λειτουργία, πατήστε \"Ρύθμιση\" για να μεταβείτε στις Άδειες."</string>
@@ -721,6 +735,7 @@
     <string name="operation_save">Αποθήκευση</string>
     <string name="operation_send">Αποστολή</string>
     <string name="operation_set_contact_photo">Ορισμός ως φωτογραφία επαφής</string>
+    <string name="operation_set_slide_wallpaper">Ορισμός ως ταπετσαρία διαφανειών</string>
     <string name="operation_set_wallpaper">Ορισμός ως ταπετσαρία</string>
     <string name="operation_share">Κοινοποίηση</string>
     <string name="operation_show_in_photos_tab">Προβολή στις Φωτογραφίες</string>
@@ -744,6 +759,7 @@
     <string name="people_mark_mode_title_no_mark_name">Επιλέξτε ένα άτομο</string>
     <string name="people_page_label">Άτομα</string>
     <string name="people_page_unname">Χωρίς όνομα</string>
+    <string name="percent_sign">%</string>
     <string name="pet_album_display_name">Φωτογραφίες κατοικίδιων</string>
     <string name="petabyteShort">PB</string>
     <string name="photo">Φωτογραφίες</string>
@@ -867,6 +883,7 @@
     <string name="picker_image_will_download">%d από τις επιλεγμένες φωτογραφίες δεν είναι στην συσκευή. Θα γίνει λήψη.</string>
     <string name="picker_no_network_message">Σύνδεση στο δίκτυο για λήψη</string>
     <string name="picker_origin_need_download">%1$d από τις επιλεγμένες φωτογραφίες(%2$dMB) δεν είναι στην συσκευή. Λήψη με χρήση δεδομένων κινητής τηλεφωνίας;</string>
+    <string name="picker_origin_request_progress_fail">Αδυναμία λήψης αρχικής εικόνας λόγω σφάλματος δικτύου.</string>
     <string name="picker_origin_request_progress_message">Προετοιμασία πρωτότυπων αρχείων (%1$d/%2$d)…</string>
     <string name="picker_title_format">Επιλέξτε %1$d μέχρι %2$d φωτογραφίες</string>
     <string name="picker_title_selection_format">Επιλεγμένες φωτογραφίες: %d</string>
@@ -1004,6 +1021,9 @@
     <string name="search_title_recommend">Προτεινόμενα</string>
     <string name="search_title_suggestion">Προτάσεις</string>
     <string name="search_title_tag">Αντικείμενα</string>
+    <string name="search_transition_element_icon">search_icon</string>
+    <string name="search_transition_element_input">search_input</string>
+    <string name="search_transition_element_voice">search_voice</string>
     <string name="searching_cast_devices">Αναζήτηση για προβολέα…</string>
     <string name="secret_album_card_description">Το καλύτερο μέρος για όλα τα μυστικά σας</string>
     <string name="secret_album_card_title">Δοκιμάστε τα κρυφά άλμπουμ</string>
@@ -1032,7 +1052,8 @@
     <string name="send_secret_file_failed">Αδυναμία κοινοποίησης</string>
     <string name="send_secret_file_space_low">Ανεπαρκής χώρος αποθήκευσης</string>
     <string name="send_too_many_files_error">Επιτρέπεται η αποστολή μέχρι %d αντικειμένων κάθε φορά</string>
-    <string name="set_as_baby_lock_wallpaper">Ορισμός ως ταπετσαρία οθόνης κλειδώματος</string>
+    <string name="set_as_slide_wallpaper_description">Αυτή η εικόνα είναι μικρογραφία, λήψη αρχικής εικόνας;</string>
+    <string name="set_as_slide_wallpaper_title">Ορισμός ως ταπετσαρία διαφανειών</string>
     <string name="set_as_wallpaper_description">Αυτή η εικόνα είναι μικρογραφία, λήψη αρχικής εικόνας;</string>
     <string name="set_as_wallpaper_title">Ορισμός ως ταπετσαρία</string>
     <string name="set_face_group_toast_msg_new_user">Κρατήστε πατημένο ένα άτομο για συγχώνευση ή αγνόησή του.</string>
@@ -1282,6 +1303,7 @@
     <string name="view_face_album">Προβολή άλμπουμ</string>
     <string name="view_more_face_desc">Εμφάνιση περισσότερων ατόμων</string>
     <string name="voice_assistant">Εισαγωγή φωνής</string>
+    <string name="welcome_to_auto_backup">@string/welcome_to_micloud</string>
     <string name="welcome_to_micloud">Καλωσορίσατε στο Mi Cloud</string>
     <string name="where_is_barcode">Που είναι ο QR κωδικός;</string>
     <string name="who_is_this">Ποιος είναι;</string>
@@ -1289,7 +1311,7 @@
     <string name="yes">Ναι</string>
     <string name="yesterday">Χθες</string>
     <string name="you_are">Ποια είναι η σχέση σας με το μωρό</string>
-    <string name="operation_set_slide_wallpaper">Ορισμός ως ταπετσαρία διαφανειών</string>
+    <string name="photo_editor_talkback_crop_screen">Αναλογία διαστάσεων πλήρους οθόνης</string>
     <string name="refocus_discard_confirm_message">Αποθήκευση αλλαγών;</string>
     <string name="refocus_discard_negative_btn">Διαγραφή</string>
     <string name="refocus_discard_positive_btn">Αποθήκευση</string>
@@ -1302,6 +1324,4 @@
     <string name="refocus_title">Θολό</string>
     <string name="refocus_type_static">Επίπεδο θολότητας</string>
     <string name="refocus_type_video">Ίχνη φωτός</string>
-    <string name="set_as_slide_wallpaper_description">Αυτή η εικόνα είναι μικρογραφία, λήψη αρχικής εικόνας;</string>
-    <string name="set_as_slide_wallpaper_title">Ορισμός ως ταπετσαρία διαφανειών</string>
 </resources>

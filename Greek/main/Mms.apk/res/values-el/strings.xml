@@ -202,6 +202,7 @@
     <string name="file_size">Μέγεθος:</string>
     <string name="file_title">Όνομα:</string>
     <string name="file_width_height">Μέγεθος:</string>
+    <string name="flatshow_page_no">%1$d</string>
     <string name="force_touch_new_message_title">Νέο μήνυμα</string>
     <string name="forward_from">Προώθηση από:</string>
     <string name="forward_message_select_title">Προώθηση μηνύματος</string>
@@ -530,6 +531,7 @@
     <string name="rcs_summary_auto_resend_mms">Μετατροπή μηνυμάτων πολυμέσων China Mobile σε SMS σε περίπτωση αποτυχίας αποστολής του αρχικού μηνύματος. Ο πάροχός σας θα σας χρεώσει για αυτό το μήνυμα.</string>
     <string name="rcs_summary_auto_resend_sms">Μετατροπή μηνυμάτων κειμένου China Mobile σε SMS σε περίπτωση αποτυχίας αποστολής του αρχικού μηνύματος. Ο πάροχός σας θα σας χρεώσει για αυτό το μήνυμα.</string>
     <string name="rcs_summary_silence_message">Σίγαση ειδοποιήσεων μηνυμάτων όταν ο πελάτης επιφάνειας εργασίας είναι σε λειτουργία</string>
+    <string name="rcs_unavailable">Δεν είναι δυνατή η χρήση του China Mobile Messaging τώρα. Η κάρτα SIM της China Mobile δεν είναι η προεπιλεγμένη κάρτα δεδομένων σας.</string>
     <string name="rcs_wait_for_retry_text">Αναμονή…</string>
     <string name="received_at_time">Έγινε λήψη στις: %1s</string>
     <string name="received_label">"Ελήφθη: "</string>
@@ -633,6 +635,7 @@
     <string name="send_signature_confirm_dialog_title">Αποστολή μηνύματος</string>
     <string name="send_sms">Αποστολή μηνύματος</string>
     <string name="send_to">Προς:</string>
+    <string name="send_to_index_contact">%1$s/%2$s</string>
     <string name="sent_at_time">Έγινε αποστολή στις: %1s</string>
     <string name="sent_label">"Στάλθηκε: "</string>
     <string name="service_message_not_found">Το μήνυμα έληξε ή δεν είναι διαθέσιμο</string>
