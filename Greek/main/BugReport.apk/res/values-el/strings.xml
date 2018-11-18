@@ -57,6 +57,7 @@
     <string name="save_pic_success">Η εικόνα αποθηκεύτηκε σε %s</string>
     <string name="save_pic_fail">Δεν ήταν δυνατή η αποθήκευση της εικόνας, ελέγξτε την κάρτα SD σας</string>
     <string name="pic_not_exist">Η εικόνα δεν υπάρχει</string>
+    <string name="pic_view_format">%1$s\"/\"%2$s</string>
     <string name="michat_skillset_product_title">Επιλογή προϊόντος</string>
     <string name="michat_skillset_business_type_title">Επιλογή υπηρεσίας</string>
     <string name="michat_close_text">Η συνομιλία τερματίστηκε</string>
@@ -161,8 +162,8 @@
     <string name="cta_cancel">Ακύρωση</string>
     <string name="cta_confirm">ΟΚ</string>
     <string name="submit_dialog_title">Υποβολή αναφοράς</string>
-    <string name="submit_dialog_content">" "<Data> Τα σχόλια σας, μαζί με τα συνημμένα και τα αρχεία καταγραφής, θα σταλούν στους διακομιστές του MIUI. Μπορεί να περιέχουν προσωπικές πληροφορίες και δεδομένα τοποθεσίας σας. Επιλέγοντας \"Συμφωνώ\"σημαίνει ότι διαβάσατε και συμφωνείτε στην &lt;a href=\"http://www.miui.com/res/doc/privacy.html?region=%1$s&amp;lang=%2$s\">Πολιτική Απορρήτου&lt;/a>και&lt;a href=\"http://www.miui.com/res/doc/eula.html?region=%3$s&amp;lang=%4$s\">Όροι Χρήσης&lt;/a>. </Data>" "</string>
-    <string name="submit_dialog_content_global">" "<Data> Τα σχόλια σας, μαζί με τα συνημμένα (εάν υπάρχουν) και τα αρχεία καταγραφών (μπορείτε να καταργήσετε την επιλογή στα αντίστοιχα κουτάκια για τα στοιχεία που δεν θέλετε να ανέβουν) θα αποσταλούν στους διακομιστές του MIUI και σε ένα περιορισμένο τμήμα του MIUI Φόρουμ για προγραμματιστές. Οι πληροφορίες σχετικά με τα νήματα σας και την δραστηριότητα τους στο φόρουμ επίσης θα συλλέγονται για ανάλυση και παραπέρα επικοινωνία. Τα αρχεία καταγραφής μπορεί να περιέχουν προσωπικές πληροφορίες και δεδομένα της τοποθεσίας σας. Επιλέγοντας \"Συμφωνώ\" σημαίνει ότι διαβάσατε και συμφωνείτε στην &lt;a href=\"http://www.miui.com/res/doc/privacy.html?region=%1$s&amp;lang=%2$s\">Πολιτική Απορρήτου&lt;/a>και&lt;a href=\"http://www.miui.com/res/doc/eula.html?region=%3$s&amp;lang=%4$s\">Όροι Χρήσης&lt;/a>. </Data>" "</string>
+    <string name="submit_dialog_content"><Data>Τα σχόλια σας, μαζί με τα συνημμένα και τα αρχεία καταγραφής, θα σταλούν στους διακομιστές του MIUI. Μπορεί να περιέχουν προσωπικές πληροφορίες και δεδομένα τοποθεσίας σας. Επιλέγοντας \"Συμφωνώ\"σημαίνει ότι διαβάσατε και συμφωνείτε στην &lt;a href=\"http://www.miui.com/res/doc/privacy.html?region=%1$s&amp;lang=%2$s\">Πολιτική Απορρήτου&lt;/a>και&lt;a href=\"http://www.miui.com/res/doc/eula.html?region=%3$s&amp;lang=%4$s\">Όροι Χρήσης&lt;/a>.</Data></string>
+    <string name="submit_dialog_content_global"><Data>Τα σχόλια σας, μαζί με τα συνημμένα (εάν υπάρχουν) και τα αρχεία καταγραφών (μπορείτε να καταργήσετε την επιλογή στα αντίστοιχα κουτάκια για τα στοιχεία που δεν θέλετε να ανέβουν) θα αποσταλούν στους διακομιστές του MIUI και σε ένα περιορισμένο τμήμα του MIUI Φόρουμ για προγραμματιστές. Οι πληροφορίες σχετικά με τα νήματα σας και την δραστηριότητα τους στο φόρουμ επίσης θα συλλέγονται για ανάλυση και παραπέρα επικοινωνία. Τα αρχεία καταγραφής μπορεί να περιέχουν προσωπικές πληροφορίες και δεδομένα της τοποθεσίας σας. Επιλέγοντας \"Συμφωνώ\" σημαίνει ότι διαβάσατε και συμφωνείτε στην &lt;a href=\"http://www.miui.com/res/doc/privacy.html?region=%1$s&amp;lang=%2$s\">Πολιτική Απορρήτου&lt;/a>και&lt;a href=\"http://www.miui.com/res/doc/eula.html?region=%3$s&amp;lang=%4$s\">Όροι Χρήσης&lt;/a>.</Data></string>
     <string name="submit_dialog_cancel">Δεν αποδέχομαι</string>
     <string name="submit_dialog_confirm">Αποδοχή</string>
     <string name="tab_title_preferences">Ρυθμίσεις</string>
@@ -180,7 +181,7 @@
     <string name="modem_tool_log_finish_title">Η σύλληψη αρχείων καταγραφής του μόντεμ ολοκληρώθηκε</string>
     <string name="modem_tool_log_finish_desc">Το αρχείο καταγραφής αποθηκεύτηκε ως %s</string>
     <string name="bugreport_dialog_not_show_again">Να μην εμφανιστεί ξανά</string>
-    <string name="bugreport_dialog_submit_content">" "<Data> Αποθηκεύετε λογισμικό αρχείων καταγραφής σε αυτή τη συσκευή τώρα. Τα αρχεία καταγραφής μπορεί να περιέχουν προσωπικές πληροφορίες και δεδομένα της τοποθεσίας σας. Μην μοιράζεστε τα αρχεία καταγραφής με κανένα άλλο εάν δεν επιθυμείτε αυτές οι πληροφορίες να εκτεθούν. Επιλέγοντας \"Συμφωνώ\" σημαίνει ότι διαβάσατε και συμφωνείτε στην &lt;a href=\"http://www.miui.com/res/doc/privacy.htmlregion=%1$s&amp;lang=%2$s\">Πολιτική Απορρήτου&lt;/a>και&lt;a href=\"http://www.miui.com/res/doc/eula.html?region=%3$s&amp;lang=%4$s\">Όροι Χρήσης&lt;/a>. </Data>" "</string>
+    <string name="bugreport_dialog_submit_content"><Data>Αποθηκεύετε λογισμικό αρχείων καταγραφής σε αυτή τη συσκευή τώρα. Τα αρχεία καταγραφής μπορεί να περιέχουν προσωπικές πληροφορίες και δεδομένα της τοποθεσίας σας. Μην μοιράζεστε τα αρχεία καταγραφής με κανένα άλλο εάν δεν επιθυμείτε αυτές οι πληροφορίες να εκτεθούν. Επιλέγοντας \"Συμφωνώ\" σημαίνει ότι διαβάσατε και συμφωνείτε στην &lt;a href=\"http://www.miui.com/res/doc/privacy.htmlregion=%1$s&amp;lang=%2$s\">Πολιτική Απορρήτου&lt;/a>και&lt;a href=\"http://www.miui.com/res/doc/eula.html?region=%3$s&amp;lang=%4$s\">Όροι Χρήσης&lt;/a>.</Data></string>
     <string name="bugreport_dump_start_notification_title">Γίνεται δημιουργία αναφοράς…</string>
     <string name="bugreport_dump_start_notification_summary">Αυτό μπορεί να διαρκέσει πολλά λεπτά.</string>
     <string name="bugreport_dump_complete_notification_title">Δημιουργήθηκε αναφορά</string>
@@ -210,7 +211,7 @@
     <string name="feedback_submit_succ_button">Ολοκλήρωση</string>
     <string name="feedback_title">Τίτλος</string>
     <string name="feedback_description">Περιγραφή</string>
-    <string name="feedback_select_images">Προθήκη εικόνων</string>
+    <string name="feedback_select_images">Προσθέστε μια εικόνα ή ένα σύντομο βίντεο</string>
     <string name="feedback_delete_images">Διαγραφή φωτογραφιών</string>
     <string name="feedback_select_upload_log">Προσθήκη αρχείων καταγραφής</string>
     <string name="feedback_select_modem_log">Προσθήκη αρχείων καταγραφής μόντεμ</string>
@@ -324,9 +325,10 @@
     <string name="toast_post_deleted">Αυτό το θέμα δεν υπάρχει, διαγράφηκε ή έχει επεξεργαστεί.</string>
     <string name="toast_log_not_exists">Το απαιτούμενο αρχείο καταγραφής διαγράφηκε ή δεν υπάρχει</string>
     <string name="toast_pic_not_exists">Η εικόνα διαγράφηκε από την προσωρινή μνήμη</string>
-    <string name="toast_screenshot_too_large">Αδυναμία μεταφόρτωσης αρχείων μεγαλύτερων από 10MB.</string>
+    <string name="toast_screenshot_too_large">Δεν είναι δυνατή η μεταφόρτωση εικόνων ή βίντεο μεγαλύτερων από 10MB.</string>
     <string name="toast_log_too_large">Αδυναμία μεταφόρτωσης. Το αρχείο είναι πολύ μεγάλο.</string>
     <string name="title_customer_service">Εξυπηρέτηση πελατών</string>
+    <string name="title_first_aid">Πρώτες βοήθειες</string>
     <string name="customer_service_apply">Αίτηση για εξυπηρέτηση πελατών</string>
     <string name="customer_service_complain">Αναφορά εξυπηρέτησης πελατών</string>
     <string name="customer_service_station">Τοποθεσίες υπηρεσίας</string>
@@ -355,7 +357,7 @@
     <string name="catch_full_log_notification_content">Πατήστε για επιστροφή στα αρχεία καταγραφής</string>
     <string name="catch_full_log_start_dump_hprof">Δημιουργία αρχείου καταγραφής καθυστερήσεων</string>
     <string name="catch_full_log_dump_hprof_failed">Αδυναμία δημιουργίας αρχείου καταγραφής καθυστερήσεων</string>
-    <string name="catch_full_log_add_original_photo">Προσθήκη φωτογραφίας</string>
+    <string name="catch_full_log_add_original_photo">Προσθέστε πρωτότυπη εικόνα ή σύντομο βίντεο</string>
     <string name="catch_full_log_add_photo_dialog_content">Εάν το ζήτημα που θέλετε να αναφέρετε σχετίζεται με την ποιότητα εικόνας της κάμερας, προσθέστε ένα πρωτότυπο δείγμα φωτογραφίας (όχι κομμένη) για να μας βοηθήσει να εντοπίσουμε το ζήτημα. Προσθήκη φωτογραφίας τώρα;</string>
     <string name="catch_full_log_submit_directly">Υποβολή</string>
     <string name="catch_full_log_add_photo">Προσθήκη φωτογραφίας</string>

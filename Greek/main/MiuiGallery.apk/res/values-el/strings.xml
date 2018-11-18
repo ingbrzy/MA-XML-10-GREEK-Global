@@ -287,10 +287,10 @@
     <string name="confirm_merge_face_albums">" "<Data> Συγχώνευση του άλμπουμ με %s? </Data>" "</string>
     <string name="confirm_merge_many_face_albums">" "<Data> Συγχώνευση των άλμπουμ με %s? </Data>" "</string>
     <string name="confirm_not_face">Καμία αντιστοίχιση</string>
-    <string name="confirm_recommandation_face_is">" "<Data> Σίγουρα αυτό είναι &lt;font color=#323232>&lt;b>%1$s&lt;/b>&lt;/font>? Αυτό το άτομο θα μετακινηθεί στο\"%2$s\" album. </Data>" "</string>
+    <string name="confirm_recommandation_face_is"><Data> Σίγουρα αυτό είναι &lt;font color=#323232>&lt;b>%1$s&lt;/b>&lt;/font>? Αυτό το άτομο θα μετακινηθεί στο\"%2$s\" album. </Data>" "</string>
     <string name="confirm_recommandation_face_not">" "<Data> Σίγουρα αυτό δεν είναι &lt;font color=#323232>&lt;b>%1$s&lt;/b>&lt;/font>? </Data>" "</string>
     <string name="confirm_recommandation_multiple_faces_are">" "<Data> Σίγουρα αυτά είναι &lt;font color=#323232>&lt;b>%1$s&lt;/b>&lt;/font>? Αυτά τα άτομα θα μετακινηθούν στο \"%2$s\" album. </Data>" "</string>
-    <string name="confirm_recommandation_multiple_faces_not">" "<Data> Σίγουρα αυτά δεν είναι&lt;font color=#323232>&lt;b>%1$s&lt;/b>&lt;/font>; </Data>" "</string>
+    <string name="confirm_recommandation_multiple_faces_not"><Data> Σίγουρα αυτά δεν είναι&lt;font color=#323232>&lt;b>%1$s&lt;/b>&lt;/font>; </Data>" "</string>
     <string name="contact_tip">Επαφή</string>
     <string name="context_menu_add_contact">Προσθήκη στις επαφές</string>
     <string name="context_menu_copy">Αντιγραφή</string>
@@ -478,6 +478,7 @@
     <string name="face_name_edit">Επεξεργασία</string>
     <string name="face_name_input">Εισαγωγή ονόματος</string>
     <string name="face_recommend">Προτάσεις</string>
+    <string name="face_recommend_group_number">%1$d/%2$d</string>
     <string name="fail_hint">Αδυναμία ολοκλήρωσης λειτουργίας</string>
     <string name="fail_to_pick_email">Μη έγκυρη διεύθυνση email</string>
     <string name="fail_to_sync_album">Αδυναμία συγχρονισμού άλμπουμ. Ελέγξτε την σύνδεση δεδομένων σας και προσπαθήστε ξανά.</string>
@@ -488,6 +489,7 @@
     <string name="feature_guidance_photo_effects">"Νέα εφέ
  φωτογραφίας διαθέσιμα"</string>
     <string name="feature_guidance_video_editor_smart_effects">Νέα εφέ διαθέσιμα</string>
+    <string name="fileSizeSuffix">%1$s%2$s</string>
     <string name="filter_bi_memory">Μνήμη</string>
     <string name="filter_bi_mono">Μονόχρωμο</string>
     <string name="filter_bi_pink">Ροζ</string>
@@ -557,6 +559,7 @@
     <string name="gif_tip">GIF</string>
     <string name="gigabyteShort">GB</string>
     <string name="grant_permission_go_and_set">Ρύθμιση</string>
+    <string name="grant_permission_item">\"%s\"</string>
     <string name="grant_permission_text">"Η Συλλογή απαιτεί πρόσβαση σε 
 %s
  για κανονική λειτουργία, πατήστε \"Ρύθμιση\" για να μεταβείτε στις Άδειες."</string>
@@ -756,6 +759,7 @@
     <string name="people_mark_mode_title_no_mark_name">Επιλέξτε ένα άτομο</string>
     <string name="people_page_label">Άτομα</string>
     <string name="people_page_unname">Χωρίς όνομα</string>
+    <string name="percent_sign">%</string>
     <string name="pet_album_display_name">Φωτογραφίες κατοικίδιων</string>
     <string name="petabyteShort">PB</string>
     <string name="photo">Φωτογραφίες</string>
@@ -1017,6 +1021,9 @@
     <string name="search_title_recommend">Προτεινόμενα</string>
     <string name="search_title_suggestion">Προτάσεις</string>
     <string name="search_title_tag">Αντικείμενα</string>
+    <string name="search_transition_element_icon">search_icon</string>
+    <string name="search_transition_element_input">search_input</string>
+    <string name="search_transition_element_voice">search_voice</string>
     <string name="searching_cast_devices">Αναζήτηση για προβολέα…</string>
     <string name="secret_album_card_description">Το καλύτερο μέρος για όλα τα μυστικά σας</string>
     <string name="secret_album_card_title">Δοκιμάστε τα κρυφά άλμπουμ</string>
@@ -1296,6 +1303,7 @@
     <string name="view_face_album">Προβολή άλμπουμ</string>
     <string name="view_more_face_desc">Εμφάνιση περισσότερων ατόμων</string>
     <string name="voice_assistant">Εισαγωγή φωνής</string>
+    <string name="welcome_to_auto_backup">@string/welcome_to_micloud</string>
     <string name="welcome_to_micloud">Καλωσορίσατε στο Mi Cloud</string>
     <string name="where_is_barcode">Που είναι ο QR κωδικός;</string>
     <string name="who_is_this">Ποιος είναι;</string>

@@ -51,14 +51,12 @@
     <string name="onscreen_note_calls_text">Σημείωση</string>
     <string name="call_record_wait_label">Σε αναμονή</string>
     <string name="contacts_icon_label">Επαφές</string>
-    <string name="conference_call_number">%s άτομα</string>
     <string name="conference_call_description" formatted="false">%s,%s κλπ. συνολικά%s</string>
     <string name="conference_call_single_description" formatted="false">%s κλπ. συνολικά %s</string>
     <string name="separate_from_conference">Διαχωρισμός κλήσης</string>
     <string name="caller_manage_header">Κλήση συνδιάσκεψης %s</string>
     <string name="incall_call_type_label_sip">Κλήση διαδικτύου</string>
     <string name="incoming_call_forwarded_title">Προώθηση εισερχόμενων κλήσεων</string>
-    <string name="call_title_redialing_with_times">Έγινε επανάκληση %d φορές</string>
     <string name="card_title_dialing">Γίνεται κλήση</string>
     <string name="card_title_conf_call">Κλήση συνδιάσκεψης</string>
     <string name="card_title_video_conf_call">Βιντεοκλήση συνδιάσκεψης</string>
@@ -146,7 +144,6 @@
     <string name="call_recording_deny_permission_msg">Απορρίψατε την άδεια καταγραφής, αδυναμία καταγραφής.</string>
     <string name="call_contacts_deny_permission_msg">Απορρίψατε την άδεια ανάγνωσης επαφών, αδυναμία προβολής πληροφοριών επαφών.</string>
     <string name="conference_call_recorder_title">Κλήση συνδιάσκεψης</string>
-    <string name="antispam_marked_count">Υποβλήθηκε αναφορά από %1$d MIUI χρήστες</string>
     <string name="antispam_local_marked">Έγινε μαρκάρισμα τοπικά</string>
     <string name="antispam_provider">Αναγνωρίστηκε από %s</string>
     <string name="antispam_notification_title">Άγνωστος αριθμός</string>
