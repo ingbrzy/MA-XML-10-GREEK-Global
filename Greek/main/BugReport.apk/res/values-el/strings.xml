@@ -56,7 +56,6 @@
     <string name="save_pic_success">Η εικόνα αποθηκεύτηκε σε %s</string>
     <string name="save_pic_fail">Δεν ήταν δυνατή η αποθήκευση της εικόνας, ελέγξτε την κάρτα SD σας</string>
     <string name="pic_not_exist">Η εικόνα δεν υπάρχει</string>
-    <string name="pic_view_format">%1$s\"/\"%2$s</string>
     <string name="michat_skillset_product_title">Επιλογή προϊόντος</string>
     <string name="michat_skillset_business_type_title">Επιλογή υπηρεσίας</string>
     <string name="michat_close_text">Η συνομιλία τερματίστηκε</string>

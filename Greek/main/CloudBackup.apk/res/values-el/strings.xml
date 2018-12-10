@@ -133,7 +133,6 @@
     <string name="provision_error_connect_msg">Δοκιμάστε το δίκτυο και προσπαθήστε ξανά. Τα αντίγραφα ασφαλείας δεν είναι διαθέσιμα όταν η συσκευή σας είναι εκτός σύνδεσης.</string>
     <string name="provision_error_connect_title">Αδυναμία σύνδεσης</string>
     <string name="loading_user_backup">Φόρτωση αντιγράφων ασφαλείας χρήστη…</string>
-    <string name="loading_progress_num">(%s%%)</string>
     <string name="error_num_placeholder">--</string>
     <string name="authentication_failed">Αδυναμία επιβεβαίωσης λογαριασμού.</string>
     <string name="no_account">Δεν συνδεθήκατε στο Mi Λογαριασμό σας.</string>
