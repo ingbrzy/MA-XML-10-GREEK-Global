@@ -9,7 +9,7 @@
         <item quantity="one">Διαγραφή του ξυπνητήριου;</item>
     </plurals>
     <plurals name="delete_timezone_confirm">
-        <item quantity="other">Διαγραφή των επιλεγμένων ζώνων ώρας;</item>
+        <item quantity="other">Διαγραφή των επιλεγμένων ζωνών ώρας;</item>
         <item quantity="one">Διαγραφή της ζώνης ώρας;</item>
     </plurals>
     <plurals name="second">

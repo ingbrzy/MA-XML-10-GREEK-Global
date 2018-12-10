@@ -105,6 +105,7 @@
     <string name="accessibility_wifi_signal_full">Άριστο σήμα Wi-Fi.</string>
     <string name="accessibility_wifi_security_type_none">Ανοικτό δίκτυο</string>
     <string name="accessibility_wifi_security_type_secured">Ασφαλές δίκτυο</string>
+    <string name="process_kernel_label">Λειτουργικό σύστημα Android</string>
     <string name="data_usage_uninstalled_apps">Εφαρμογές που καταργήθηκαν</string>
     <string name="data_usage_uninstalled_apps_users">Εφαρμογές και χρήστες που έχουν καταργηθεί</string>
     <string name="tether_settings_title_usb">Πρόσδεση USB</string>
@@ -433,7 +434,7 @@ Bit ανά δείγμα"</string>
     <string name="answer_incoming_call">Απάντηση</string>
     <string name="decline_incoming_call">Απόρριψη</string>
     <string name="cant_call_due_to_ongoing_call">Αδυναμία πραγματοποίησης κλήσης. %1$s άλλη κλήση σε εξέλιξη.</string>
-    <string name="cant_call_due_to_ongoing_calls">Αδυναμία πραγματοποίησης κλήσης. %1$s άλλες κλήσεις σε εξέλιξη.</string>
+    <string name="cant_call_due_to_ongoing_calls">Δεν είναι δυνατή η πραγματοποίηση κλήσης. Τερματίστε πρώτα την %1$s κλήση.</string>
     <string name="cant_call_due_to_ongoing_unknown_call">Αδυναμία πραγματοποίησης κλήσης λόγω μιας κλήσης σε άλλη εφαρμογή.</string>
     <string name="notification_channel_incoming_call">Εισερχόμενες κλήσεις</string>
     <string name="notification_channel_missed_call">Αναπάντητες κλήσεις</string>

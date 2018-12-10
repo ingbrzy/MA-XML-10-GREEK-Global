@@ -185,4 +185,5 @@
     <string name="miui_warning_tip_info">Παρουσιάστηκε σφάλμα στο %1$s. Κλείσιμο εφαρμογής τώρα;</string>
     <string name="talk_back_water_mark_string1">Το TalkBack είναι ενεργοποιημένο</string>
     <string name="talk_back_water_mark_string2">Πατήστε παρατεταμένα την \"Ένταση+\" και την \"Ένταση-\" για 3 δευτερόλεπτα για απενεργοποίηση</string>
+    <string name="start_dump_log">Έναρξη λήψης αρχείων καταγραφής που σχετίζονται με ζητήματα</string>
 </resources>

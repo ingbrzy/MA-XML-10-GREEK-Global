@@ -30,6 +30,9 @@
     <string name="other_settings_auto_update_summary">Το MIUI θα επιλέξει την καλύτερη στιγμή για να εγκαταστήσει τις ενημερώσεις</string>
     <string name="other_settings_ad_enable">Εξατομικευμένες πρότασεις διαφημίσεων</string>
     <string name="other_settings_ad_enable_summary">Λάβετε εξατομικευμένες διαφημίσεις ανάλογα με τα δεδομένα συμπεριφοράς σας</string>
+    <string name="other_settings_enhanced_lockscreen">Ταπετσαρία Carousel</string>
+    <string name="other_settings_enhanced_lockscreen_summary">Λάβετε ημερήσιες φωτογραφίες και ιστορίες που έχουν παραδοθεί στην οθόνη κλειδώματος. Ισχύουν όροι και προϋποθέσεις.</string>
+    <string name="other_settings_enhanced_lockscreen_summary_index">Όροι και προϋποθέσεις</string>
     <string name="back">Πίσω</string>
     <string name="next">Επόμενο</string>
     <string name="skip_underline">Παράλειψη αυτού του βήματος</string>
@@ -113,4 +116,5 @@
     <string name="ai_button_single_press_desc">Ενεργοποίηση Mi AI</string>
     <string name="ai_button_double_press">Διπλό πάτημα</string>
     <string name="ai_button_double_press_desc">Ρύθμιση λειτουργιών Mi AI</string>
+    <string name="zone_picker_title">Επιλογή ζώνης ώρας</string>
 </resources>

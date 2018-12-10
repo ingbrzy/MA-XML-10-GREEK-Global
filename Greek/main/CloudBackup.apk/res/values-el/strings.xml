@@ -46,9 +46,12 @@
     <string name="customization"><u>Προσαρμογή</u></string>
     <string name="home_hint_global_launcher">Εκκινητής POCO</string>
     <string name="home_hint_other_launcher">Άλλος εκκινητής</string>
-    <string name="self_device">" Αυτού του τηλεφώνου"</string>
-    <string name="main_space">Πρώτος χώρος</string>
-    <string name="second_space">Δεύτερος χώρος</string>
+    <string name="self_device_main_space">Πρώτος χώρος αυτού του τηλεφώνου</string>
+    <string name="self_device_second_space">Δεύτερος χώρος αυτού του τηλεφώνου</string>
+    <string name="other_device_main_space">Πρώτος χώρος</string>
+    <string name="other_device_second_space">Δεύτερος χώρος</string>
+    <string name="pattern_backup_name_with_home">%1$s (%2$s: %3$s)</string>
+    <string name="pattern_backup_name_without_home">%1$s (%2$s)</string>
     <string name="process_whole_recovery">Γίνεται επαναφορά \"%s\"</string>
     <string name="size_unknown">Άγνωστο μέγεθος</string>
     <string name="recovering">Γίνεται επαναφορά %s</string>
@@ -130,6 +133,8 @@
     <string name="provision_error_connect_msg">Δοκιμάστε το δίκτυο και προσπαθήστε ξανά. Τα αντίγραφα ασφαλείας δεν είναι διαθέσιμα όταν η συσκευή σας είναι εκτός σύνδεσης.</string>
     <string name="provision_error_connect_title">Αδυναμία σύνδεσης</string>
     <string name="loading_user_backup">Φόρτωση αντιγράφων ασφαλείας χρήστη…</string>
+    <string name="loading_progress_num">(%s%%)</string>
+    <string name="error_num_placeholder">--</string>
     <string name="authentication_failed">Αδυναμία επιβεβαίωσης λογαριασμού.</string>
     <string name="no_account">Δεν συνδεθήκατε στο Mi Λογαριασμό σας.</string>
     <string name="no_backup">Δεν υπάρχουν αντίγραφα ασφαλείας στο Mi Cloud.</string>
@@ -137,7 +142,7 @@
     <string name="home_restore_error">Αδυναμία επαναφοράς Αρχική οθόνης</string>
     <string name="get_device_id_error">Αδυναμία απόκτησης ID συσκευής</string>
     <string name="unsupported_home">Ενημερώστε το MIUI στην πιο πρόσφατη έκδοση.</string>
-    <string name="error_retry_later">Αδυναμία ολοκλήρωση ενέργειας. Περιμένετε ένα δύο λεπτά και προσπαθήστε ξανά..</string>
+    <string name="error_retry_later">Αδυναμία ολοκλήρωση ενέργειας. Περιμένετε ένα δύο λεπτά και προσπαθήστε ξανά…</string>
     <string name="try_continue">Πατήστε για συνέχεια</string>
     <string name="download_home_data">Γίνεται λήψη διάταξης Αρχικής οθόνης…</string>
     <string name="restore_home_failed">Αδυναμία επαναφοράς Αρχική οθόνης.</string>
@@ -154,6 +159,9 @@
     <string name="dialog_msg_restore_require_wlan">Η επαναφορά αντίγραφων ασφαλείας απαιτεί σύνδεση στο Wi-Fi.</string>
     <string name="dialog_btn_next">Επόμενο</string>
     <string name="dialog_btn_restore_skip">Επαναφορά αργότερα</string>
+    <string name="dialog_btn_cancel_backup">Ακύρωση</string>
+    <string name="dialog_btn_overwrite_backup">Αντικατάσταση</string>
+    <string name="dialog_msg_overwrite_backup">Το τοπικό αντίγραφο ασφαλείας είναι διαφορετικό από αυτό στο Mi Cloud. Αν συνεχίσετε, το τρέχον αντίγραφο ασφαλείας θα αντικαταστήσει το προηγούμενο αντίγραφο ασφαλείας.</string>
     <string name="cloud_backup">Αντίγραφα ασφαλείας Mi Cloud</string>
     <string name="open_backup_switch">Εναλλαγή διακόπτη για αντίγραφα ασφαλείας</string>
     <string name="restore_cloud_backup_to_phone">Επαναφορά αντικειμένων από Mi Cloud</string>
@@ -176,4 +184,6 @@
     <string name="msg_alert_restore_error">Αδυναμία επαναφοράς αντικειμένων από το Mi Cloud. Προσπαθήστε ξανά.</string>
     <string name="btn_restore_retry">Προσπαθήστε ξανά</string>
     <string name="btn_restore_abort">Ακύρωση</string>
+    <string name="backup_stopped_title">Η δημιουργία αντιγράφων ασφαλείας σταμάτησε</string>
+    <string name="backup_stopped_msg">Το τρέχον αντίγραφο ασφαλείας θα αντικαταστήσει το προηγούμενο αντίγραφο ασφαλείας. Πατήστε για προβολή.</string>
 </resources>

@@ -92,6 +92,7 @@
     <string name="hints_apk_header_left">Πακέτα</string>
     <string name="hints_residual_header_left">Κατάλοιπα</string>
     <string name="hints_memory_header_left">Μνήμη</string>
+    <string name="hints_header_left">%d</string>
     <string name="hints_large_file_header_left">Μεγάλα αρχεία: %d</string>
     <string name="hints_installed_apps_header_left">Εγκατεστημένες εφαρμογές: %d</string>
     <string name="toast_resolve_apk_error">Επίλυση apk σφάλματος</string>
@@ -277,7 +278,7 @@
     <string name="just_now">Μόλις τώρα</string>
     <string name="yesterday">Χθες</string>
     <string name="month_day_format">dd MMM</string>
-    <string name="year_month_day_format">dd MMM, yyyy</string>
+    <string name="year_month_day_format">dd MMM yyyy</string>
     <string name="go_to">Μετάβαση</string>
     <string name="promotion">Διαφήμηση</string>
     <string name="recommended">Προτεινόμενα</string>
@@ -299,6 +300,7 @@
     <string name="downloading">Γίνεται λήψη</string>
     <string name="installing">Γίνεται εγκατάσταση</string>
     <string name="start_install">Εγκατάσταση τώρα</string>
+    <string name="empty">" "</string>
     <string name="open_browser">Άνοιγμα στον φυλλομετρητή</string>
     <string name="title_share_link">Κοινοποίηση URL</string>
     <string name="connecting">Γίνεται σύνδεση…</string>

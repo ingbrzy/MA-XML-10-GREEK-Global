@@ -29,12 +29,12 @@
         <item quantity="one">Εσφαλμένος κωδικός PUK, απομένει %d προσπάθεια</item>
     </plurals>
     <plurals name="input_password_after_timeout_msg">
-        <item quantity="other">Απαιτείται εισαγωγή κωδικού μετά από %d ώρες αδράνειας</item>
-        <item quantity="one">Απαιτείται εισαγωγή κωδικού μετά από %d ώρα αδράνειας</item>
+        <item quantity="other">Δεν έχετε χρησιμοποιήσει τον κωδικό σας για τουλάχιστον %d ώρες. Εισάγετε τον κωδικό σας.</item>
+        <item quantity="one">Δεν έχετε χρησιμοποιήσει τον κωδικό σας για τουλάχιστον %d ώρα. Εισάγετε τον κωδικό σας.</item>
     </plurals>
     <plurals name="input_pattern_after_timeout_msg">
-        <item quantity="other">Απαιτείται εισαγωγή μοτίβου ξεκλειδώματος μετά από %d ώρες αδράνειας</item>
-        <item quantity="one">Απαιτείται εισαγωγή μοτίβου ξεκλειδώματος μετά από %d ώρα αδράνειας</item>
+        <item quantity="other">Δεν έχετε χρησιμοποιήσει το μοτίβο ξεκλειδώματός σας για τουλάχιστον %d ώρες. Εισάγετε το μοτίβο ξεκλειδώματός σας.</item>
+        <item quantity="one">Δεν έχετε χρησιμοποιήσει το μοτίβο ξεκλειδώματός σας για τουλάχιστον %d ώρα. Εισάγετε το μοτίβο ξεκλειδώματός σας.</item>
     </plurals>
     <plurals name="keyguard_charging_info_could_use_hour_time_text">
         <item quantity="other">"Απομένουν περίπου %d  ώρες"</item>

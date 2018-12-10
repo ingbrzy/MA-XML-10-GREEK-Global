@@ -198,4 +198,5 @@
     <string name="dialpad_nine">9</string>
     <string name="prompt_no_volte_when_failed">Αδυναμία πραγματοποίησης κλήσεων. Βεβαιωθείτε πως η συσκευή σας είναι συνδεδεμένη σε ένα 4G δίκτυο με υποστήριξη VoLTE.​</string>
     <string name="volume_boost_text">Επιτυχής ενίσχυση έντασης</string>
+    <string name="supp_service_notification_call_waiting">Ο αριθμός που καλέσατε είναι απασχολημένος. Παρακαλούμε περιμένετε…</string>
 </resources>

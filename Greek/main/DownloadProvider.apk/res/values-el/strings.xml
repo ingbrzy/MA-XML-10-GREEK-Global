@@ -4,6 +4,7 @@
     <string name="notif_title_file_size">%1$d συνολικά</string>
     <string name="notif_title_single_downloading">Γίνεται λήψη %1$s</string>
     <string name="download_filesize_unknown">Άγνωστο</string>
+    <string name="notification_dld_msg">Διαχείριση εφαρμογών που κατεβάζονται</string>
     <string name="app_label">Λήψεις</string>
     <string name="permlab_downloadManager">Πρόσβαση σε Λήψεις.</string>
     <string name="permdesc_downloadManager">Να επιτρέπεται στην εφαρμογή η πρόσβαση στις Λήψεις και η χρήση της για λήψη αρχείων. Επικίνδυνες εφαρμογές μπορούν να το εκμεταλλευτούν αυτό για παρενόχληση λήψεων και πρόσβαση σε προσωπικές πληροφορίες.</string>

@@ -1,13 +1,16 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <string name="status_bar_notification_info_overflow">999+</string>
     <string name="action_add_to_workspace">Προσθήκη στον χώρο εργασίας</string>
     <string name="activity_not_found">Η εφαρμογή δεν έχει εγκατασταθεί στην συσκευή σας</string>
     <string name="add_screen">Προσθήκη οθόνης</string>
+    <string name="announce_for_app_move_in_folder">Μετακινήθηκε στη θέση %1$d στο φάκελο</string>
     <string name="announce_for_checked">%1$s, ελέγχθηκε</string>
     <string name="announce_for_choose_default_screen">Ορισμός οθόνης %1$d ως προεπιλεγμένη Αρχική οθόνη</string>
     <string name="announce_for_close_default_preview">Έγινε κλείσιμο προεπιλεγμένων ρυθμίσεων Αρχικής οθόνης</string>
     <string name="announce_for_close_folder">Κλείσατε φάκελο</string>
     <string name="announce_for_close_launcher_menu">Έγινε κλείσιμο μενού</string>
+    <string name="announce_for_create_folder_with_app">Δημιουργήθηκε φάκελος με %1$s</string>
     <string name="announce_for_delete_gadget_and_widget">Widget</string>
     <string name="announce_for_delete_item">%1$s διεγράφη</string>
     <string name="announce_for_drag_enter_delete_zone">Σύρατε αντικείμενα στην ζώνη απεγκατάστασης</string>
@@ -30,6 +33,7 @@
     <string name="announce_for_open_launcher_menu">Έγινε άνοιγμα μενού</string>
     <string name="announce_for_show_uninstall_dialog">Εμφανίστηκε παράθυρο απεγκατάστασης. Ακύρωση ή επιβεβαίωση.</string>
     <string name="announce_for_unchecked">%1$s, δεν ελέγχθηκε</string>
+    <string name="announce_for_widget_span">Πλάτος %1$d, ύψος %2$d</string>
     <string name="app_already_exist">Η εφαρμογή υπάρχει ήδη</string>
     <string name="app_being_backup_message">Δημιουργείται αντίγραφο ασφαλείας για την εφαρμογή</string>
     <string name="app_being_restored_message">Γίνεται επαναφορά εφαρμογής</string>
@@ -296,6 +300,7 @@
     <string name="share">Κοινοποίηση</string>
     <string name="show_all">Προβολή όλων</string>
     <string name="show_mem_info_title">Προβολή κατάστασης μνήμης</string>
+    <string name="show_recents_recommend_title">Προβολή προτάσεων</string>
     <string name="sort_by_abc">Ταξινόμηση κατά όνομα</string>
     <string name="sort_by_frequency">Ταξινόμηση κατά χρήση</string>
     <string name="sort_by_not_defined">Αυτόματη ταξινόμηση</string>
@@ -343,10 +348,7 @@
     <string name="widget_gadget_player">Μουσική</string>
     <string name="widget_global_search">Αναζήτηση</string>
     <string name="widget_quick_function">Γρήγορες λειτουργίες</string>
-    <string name="announce_for_app_move_in_folder">Moved to position %1$d in the folder</string>
-    <string name="announce_for_create_folder_with_app">Created a folder with %1$s</string>
-    <string name="announce_for_widget_span">Width %1$d, height %2$d</string>
-    <string name="recommend_apps_no_data_toast">No recommendations for now.</string>
+    <string name="recommend_apps_no_data_toast">Δεν υπάρχουν προτάσεις προς το παρόν.</string>
     <string name="recommend_refresh">Ανανέωση</string>
-    <string name="recommend_xout">"Don't show"</string>
+    <string name="recommend_xout">Να μην εμφανίζεται</string>
 </resources>

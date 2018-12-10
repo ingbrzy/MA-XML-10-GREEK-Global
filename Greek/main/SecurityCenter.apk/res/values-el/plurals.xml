@@ -264,6 +264,18 @@
         <item quantity="other">"Περιμένετε %d δευτερόλεπτα και προσπαθήστε ξανά. "</item>
         <item quantity="one">"Περιμένετε %d δευτερόλεπτο και προσπαθήστε ξανά. "</item>
     </plurals>
+    <plurals name="lockpattern_recording_incorrect_too_short">
+        <item quantity="other">Συνδέστε τουλάχιστον %d τελείες</item>
+        <item quantity="one">Συνδέστε τουλάχιστον %d τελεία</item>
+    </plurals>
+    <plurals name="numeric_recording_incorrect_too_short">
+        <item quantity="other">Εισαγάγετε τουλάχιστον %d ψηφία</item>
+        <item quantity="one">Εισαγάγετε τουλάχιστον %d ψηφίο</item>
+    </plurals>
+    <plurals name="mixed_recording_incorrect_too_short">
+        <item quantity="other">Εισαγάγετε τουλάχιστον %d χαρακτήρες</item>
+        <item quantity="one">Εισαγάγετε τουλάχιστον %d χαρακτήρα</item>
+    </plurals>
     <plurals name="number_masked">
         <item quantity="other">%d εφαρμογές</item>
         <item quantity="one">%d εφαρμογή</item>

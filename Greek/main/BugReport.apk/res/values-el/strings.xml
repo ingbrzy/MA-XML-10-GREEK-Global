@@ -46,7 +46,6 @@
     <string name="michat_cant_join_artificial">Αδυναμία σύνδεσης λόγω σφάλματος δικτύου</string>
     <string name="michat_lose_artificial">Σφάλμα δικτύου, έξοδος από τη συνεδρία</string>
     <string name="michat_transfer_message">Γίνεται αναζήτηση ατόμου που θα σας βοηθήσει…</string>
-    <string name="michat_queue_pos_update">Υπάρχουν %1$d άτομα που προηγούνται, περιμένετε μια στιγμή…</string>
     <string name="michat_in_artificial_customer_state">Δεν μπορεί να γίνει αυτή η ενέργεια ενώ σας παρέχεται βοήθεια από ένα άτομο</string>
     <string name="michat_pull_to_refresh_pull_label">Τραβήξτε προς τα κάτω για να δείτε το ιστορικό</string>
     <string name="michat_pull_to_refresh_release_label">Αφήστε για να δείτε το ιστορικό</string>
@@ -57,6 +56,7 @@
     <string name="save_pic_success">Η εικόνα αποθηκεύτηκε σε %s</string>
     <string name="save_pic_fail">Δεν ήταν δυνατή η αποθήκευση της εικόνας, ελέγξτε την κάρτα SD σας</string>
     <string name="pic_not_exist">Η εικόνα δεν υπάρχει</string>
+    <string name="pic_view_format">%1$s\"/\"%2$s</string>
     <string name="michat_skillset_product_title">Επιλογή προϊόντος</string>
     <string name="michat_skillset_business_type_title">Επιλογή υπηρεσίας</string>
     <string name="michat_close_text">Η συνομιλία τερματίστηκε</string>
@@ -132,7 +132,6 @@
     <string name="toast_report_sent_failed">Αδυναμία υποβολής αναφοράς</string>
     <string name="toast_report_copied_to_clipboard">Η αναφορά αντιγράφηκε στο πρόχειρο</string>
     <string name="toast_description_required">Πρέπει να γράψετε μια περιγραφή</string>
-    <string name="toast_feedbackservice_in_submit">Γίνεται χειρισμός προηγούμενων σχολίων…</string>
     <string name="toast_pending_log_collection">Γίνεται ακόμη απόκτηση αρχείων καταγραφής…</string>
     <string name="toast_feedback_submitted">Έγινε υποβολή αναφοράς</string>
     <string name="toast_feedback_submitting">Γίνεται αποστολή…</string>
@@ -161,7 +160,7 @@
     <string name="cta_cancel">Ακύρωση</string>
     <string name="cta_confirm">ΟΚ</string>
     <string name="submit_dialog_title">Υποβολή αναφοράς</string>
-    <string name="submit_dialog_content"><Data>Τα σχόλια σας, μαζί με τα συνημμένα και τα αρχεία καταγραφής, θα σταλούν στους διακομιστές του MIUI. Μπορεί να περιέχουν προσωπικές πληροφορίες και δεδομένα τοποθεσίας σας. Επιλέγοντας \"Συμφωνώ\"σημαίνει ότι διαβάσατε και συμφωνείτε στην &lt;a href=\"http://www.miui.com/res/doc/privacy.html?region=%1$s&amp;lang=%2$s\">Πολιτική Απορρήτου&lt;/a>και&lt;a href=\"http://www.miui.com/res/doc/eula.html?region=%3$s&amp;lang=%4$s\">Όροι Χρήσης&lt;/a>.</Data></string>
+    <string name="submit_dialog_content"><Data>Πρέπει να αποδεχτείτε την &lt;a href=\"http://www.miui.com/res/doc/privacy.html?region=%1$s&amp;lang=%2$s\">Πολιτική Απορρήτου&lt;/a> μας και με τους &lt;a href=\"http://www.miui.com/res/doc/eula.html?region=%3$s&amp;lang=%4$s\"> Όρους Χρήσης&lt;/a> προτού μπορέσετε να χρησιμοποιήσετε την Ανατροφοδότηση. Τα ζητήματα που αναφέρετε μαζί με τα στοιχεία που επισυνάπτετε (ενδέχεται να περιέχουν προσωπικές πληροφορίες, καθώς και τις πληροφορίες σχετικά με τη συσκευή και το δίκτυό σας) θα μεταφορτωθούν στους διακομιστές του MIUI. Αυτό θα μας βοηθήσει να εντοπίσουμε και να λύσουμε τα προβλήματα που αναφέρετε.</Data></string>
     <string name="submit_dialog_content_global"><Data>Τα σχόλια σας, μαζί με τα συνημμένα (εάν υπάρχουν) και τα αρχεία καταγραφών (μπορείτε να καταργήσετε την επιλογή στα αντίστοιχα κουτάκια για τα στοιχεία που δεν θέλετε να ανέβουν) θα αποσταλούν στους διακομιστές του MIUI και σε ένα περιορισμένο τμήμα του MIUI Φόρουμ για προγραμματιστές. Οι πληροφορίες σχετικά με τα νήματα σας και την δραστηριότητα τους στο φόρουμ επίσης θα συλλέγονται για ανάλυση και παραπέρα επικοινωνία. Τα αρχεία καταγραφής μπορεί να περιέχουν προσωπικές πληροφορίες και δεδομένα της τοποθεσίας σας. Επιλέγοντας \"Συμφωνώ\" σημαίνει ότι διαβάσατε και συμφωνείτε στην &lt;a href=\"http://www.miui.com/res/doc/privacy.html?region=%1$s&amp;lang=%2$s\">Πολιτική Απορρήτου&lt;/a>και&lt;a href=\"http://www.miui.com/res/doc/eula.html?region=%3$s&amp;lang=%4$s\">Όροι Χρήσης&lt;/a>.</Data></string>
     <string name="submit_dialog_cancel">Δεν αποδέχομαι</string>
     <string name="submit_dialog_confirm">Αποδοχή</string>
@@ -247,6 +246,7 @@
     <string name="feedback_contact_info_hint">Αριθμός τηλεφώνου/Email</string>
     <string name="toast_loading_app_id">Γίνεται λήψη πληροφοριών…</string>
     <string name="feedback_status_commit_succ_title">Έγινε υποβολή</string>
+    <string name="feedback_status_commit_in_queue_title">Αναμονή…</string>
     <string name="feedback_status_commit_uploading_title">Γίνεται υποβολή…</string>
     <string name="feedback_status_commit_failed_title">Αδυναμία υποβολής αναφοράς</string>
     <string name="feedback_status_processing">Γίνεται επεξεργασία…</string>
@@ -333,6 +333,7 @@
     <string name="customer_service_station">Τοποθεσίες υπηρεσίας</string>
     <string name="title_catch_full_log">Αρχεία καταγραφής</string>
     <string name="toast_catch_full_log_catching">Μπορείτε να δημιουργήσετε μόνο ένα αρχείο καταγραφής κάθε φορά.</string>
+    <string name="toast_catch_full_log_open_failed">Αδυναμία εκκίνησης αρχείου εγγραφής.</string>
     <string name="catch_full_log_item_title_signal">Τηλέφωνο, σήμα, και δίκτυα τηλεφωνίας</string>
     <string name="catch_full_log_item_title_wifi">Wi-Fi και Mi Drop</string>
     <string name="catch_full_log_item_title_gps">Υπηρεσίες τοποθεσίας</string>

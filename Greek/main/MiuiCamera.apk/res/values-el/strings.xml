@@ -203,7 +203,7 @@
     <string name="tap_to_exposure">Αγγίξτε για μη αυτόματη διόρθωση έκθεσης</string>
     <string name="accessibility_shutter_button">Κουμπί κλείστρου</string>
     <string name="accessibility_intent_done_apply">Τέλος</string>
-    <string name="accessibility_intent_done_retry">Λήψη ξανά</string>
+    <string name="accessibility_intent_done_retry">Προσπαθήστε ξανά</string>
     <string name="accessibility_review_thumbnail">Πιο πρόσφατη φωτογραφία</string>
     <string name="accessibility_camera_picker">Διακόπτης εναλλαγής κάμερας</string>
     <string name="accessibility_stereo_button">Προσαρμογή εστίασης</string>
@@ -261,13 +261,12 @@
     <string name="pref_camera_referenceline_title">Εμφάνιση γραμμών πλέγματος</string>
     <string name="pref_camera_volumekey_function_entry_volume">Ένταση</string>
     <string name="pref_camera_volumekey_function_entry_shutter">Κλείστρο</string>
+    <string name="pref_camera_volumekey_function_entry_timer">Αντίστροφη μέτρηση κλείστρου</string>
     <string name="pref_camera_volumekey_function_entry_zoom">Ζουμ</string>
-    <string name="pref_camera_volumekey_function_entry_exposure">Έκθεση</string>
     <string name="pref_camera_volumekey_function_title">Λειτουργία κουμπιών έντασης</string>
     <string name="error_fail_to_start_audio_capture">Αδυναμία εκκίνησης λήψης ήχου</string>
     <string name="toast_start_audio_capture">Ήχος κατά την λήψη φωτογραφίας</string>
     <string name="record_back_pressed_hint">Αγγίξτε ξανά για να σταματήσετε την εγγραφή</string>
-    <string name="toast_burst_snap_finished_summary">Λήψη ριπής ολοκληρώθηκε, έγινε λήψη %1$s φωτογραφιών</string>
     <string name="toast_burst_snap_forbidden_when_audio_capture_open">Αδυναμία παρατεταμένης λήψης ενώ είναι ενεργή η λήψη ήχου</string>
     <string name="time_lapse_error">Αδυναμία χρήσης αυτής της ανάλυσης για εγγραφή με χρονικό διάστημα</string>
     <string name="pref_camera_movie_solid_title">Σταθερότητα εικόνας</string>
@@ -430,11 +429,12 @@
     <string name="pref_camera_portrait_mode_entry_off">Κατακόρυφη λειτουργία ανενεργή</string>
     <string name="pref_camera_portrait_mode_entry_on">Κατακόρυφη λειτουργία ενεργή</string>
     <string name="portrait_mode_lowlight_hint">Είναι πολύ σκοτεινά τώρα</string>
-    <string name="portrait_mode_too_close_hint">Μετακινηθείτε μακρύτερα από το αντικείμενο</string>
-    <string name="portrait_mode_too_far_hint">Τοποθετήστε το αντικείμενο εντός 2 μέτρων</string>
+    <string name="portrait_mode_too_close_hint">Απομακρυνθείτε από το αντικείμενο</string>
+    <string name="portrait_mode_too_far_hint">Τοποθετήστε το αντικείμενο σε απόσταση 2 μέτρων</string>
     <string name="portrait_mode_depth_effect_success_hint">Εφέ βάθους</string>
     <string name="portrait_mode_use_hint">"Η λειτουργία πορτρέτου θολώνει το παρασκήνιο
 και επικεντρώνεται στα άτομα μπροστά."</string>
+    <string name="portrait_mode_use_hint_with_switch">@string/portrait_mode_use_hint</string>
     <string name="portrait_mode_use_hint_for_bokeh">"Δοκιμάστε τη λειτουργία Πορτρέτου.
 Κρατήστε το αντικείμενο ευκρινές ενώ θολώνει το φόντο."</string>
     <string name="pref_camera_square_mode_title">Τετράγωνο</string>
@@ -451,6 +451,7 @@
     <string name="pref_camera_beautify_entry_low">Χαμηλή</string>
     <string name="pref_camera_beautify_entry_normal">Μεσσαία</string>
     <string name="pref_camera_beautify_entry_high">Υψηλή</string>
+    <string name="pref_camera_beautify_entry_close">@string/face_beauty_close</string>
     <string name="camera_mode_options">Λειτουργίες</string>
     <string name="button_front_camera_title">Δημιουργία selfie</string>
     <string name="button_normal_video_title">Εγγραφή Video</string>
@@ -569,5 +570,5 @@
     <string name="portrait_bokeh_text">Κατακόρυφη λειτουργία</string>
     <string name="portrait_bokeh_first_tips">"Χρήση κατακόρυφης λειτουργίας για θόλωμα
 του φόντου στις φωτογραφίες σας"</string>
-    <string name="portrait_bokeh_tips">Τοποθετήστε το αντικείμενο εντός 1.5 μέτρων</string>
+    <string name="portrait_bokeh_tips">Τοποθετήστε το αντικείμενο σε απόσταση 1.5 μέτρων</string>
 </resources>

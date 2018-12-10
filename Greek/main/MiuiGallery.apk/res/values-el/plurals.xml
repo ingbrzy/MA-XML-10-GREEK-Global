@@ -264,4 +264,12 @@
         <item quantity="other">%d αντικείμενα</item>
         <item quantity="one">%d αντικείμενο</item>
     </plurals>
+    <plurals name="backup_file_over_size_title">
+        <item quantity="other">%d στοιχεία είναι πολύ μεγάλα για να δημιουργηθεί αντίγραφο ασφαλείας</item>
+        <item quantity="one">%d στοιχείο είναι πολύ μεγάλο για να δημιουργηθεί αντίγραφο ασφαλείας</item>
+    </plurals>
+    <plurals name="sync_oversized_count">
+        <item quantity="other">%d στοιχεία είναι πολύ μεγάλα για να δημιουργηθεί αντίγραφο ασφαλείας</item>
+        <item quantity="one">%d στοιχείο είναι πολύ μεγάλο για να δημιουργηθεί αντίγραφο ασφαλείας</item>
+    </plurals>
 </resources>

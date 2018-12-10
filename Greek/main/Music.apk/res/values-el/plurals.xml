@@ -8,25 +8,23 @@
         <item quantity="other">Γίνεται αναζήτηση για εξώφυλλα άλμπουμ και στίχων (%1$d/%2$d)</item>
         <item quantity="one">Γίνεται αναζήτηση για εξώφυλλα άλμπουμ και στίχων (%1$d/%2$d)</item>
     </plurals>
-    <plurals name="Nbackup_songs">
-        <item quantity="other">Γίνεται δημιουργία αντίγραφου ασφαλείας τραγουδιών, %1$d τραγούδια απομένουν (%2$.1fMB)</item>
-        <item quantity="one">Γίνεται δημιουργία αντίγραφου ασφαλείας τραγουδιών, %1$d τραγούδι απομένει (%2$.1fMB)</item>
+    <plurals name="Ndialog_renew_content">
+        <item quantity="other">"Η συνδρομή σας λήγει σε %d ημέρες. 
+Θέλετε να σας βοηθήσουμε να την ανανεώσετε;"</item>
+        <item quantity="one">"Η συνδρομή σας λήγει σε %d ημέρα. 
+Θέλετε να σας βοηθήσουμε να την ανανεώσετε;"</item>
+    </plurals>
+    <plurals name="Nhungama_free_download_summary">
+        <item quantity="other">Μπορείτε να κατεβάσετε %1$d δωρεάν τραγούδια. Λήψη %2$s τώρα;</item>
+        <item quantity="one">Μπορείτε να κατεβάσετε %1$d δωρεάν τραγούδι. Λήψη %2$s τώρα;</item>
     </plurals>
     <plurals name="Nquit_warning">
         <item quantity="other">Η αναπαραγωγή θα διακοπεί σε %d λεπτά</item>
         <item quantity="one">Η αναπαραγωγή θα διακοπεί σε %d λεπτό</item>
     </plurals>
-    <plurals name="Nrecognize_switch_off_alert_message">
-        <item quantity="other">Επιλέξατε μη αυτόματη εύρεση εξώφυλλων τραγουδιών και στίχων για τοπικά τραγούδια. Διαγραφή πληροφοριών για %d τραγούδια;</item>
-        <item quantity="one">Επιλέξατε μη αυτόματη εύρεση εξώφυλλων τραγουδιών και στίχων για τοπικά τραγούδια. Διαγραφή πληροφοριών για %d τραγούδι;</item>
-    </plurals>
     <plurals name="Nsong_group_detail_subtitle">
         <item quantity="other">Δημιουργήθηκε στις %1$s | συνολικά %2$d τραγούδια</item>
         <item quantity="one">Δημιουργήθηκε στις %1$s | συνολικά %2$d τραγούδι</item>
-    </plurals>
-    <plurals name="Nstop_backup_songs_message">
-        <item quantity="other">Δεν δημιουργήθηκε αντίγραφο ασφαλείας στο Mi Cloud για %d τραγούδια. Διακοπή τώρα;</item>
-        <item quantity="one">Δεν δημιουργήθηκε αντίγραφο ασφαλείας στο Mi Cloud για %d τραγούδι. Διακοπή τώρα;</item>
     </plurals>
     <plurals name="Ntracks_add_to_playlist">
         <item quantity="other">%d τραγούδια προστέθηκαν στη λίστα αναπαραγωγής</item>
@@ -44,14 +42,6 @@
         <item quantity="other">%d παρόμοια τραγούδια</item>
         <item quantity="one">%d παρόμοιο τραγούδι</item>
     </plurals>
-    <plurals name="Nunbackup_audios">
-        <item quantity="other">Δεν έχει δημιουργηθεί αντίγραφο ασφαλείας για %1$d τραγούδια (%2$.1fMB)</item>
-        <item quantity="one">Δεν έχει δημιουργηθεί αντίγραφο ασφαλείας για %1$d τραγούδι (%2$.1fMB)</item>
-    </plurals>
-    <plurals name="Nupload_song_button">
-        <item quantity="other">Δημιουργία αντίγραφου ασφαλείας για %1$d τραγούδια (%2$.1fMB)</item>
-        <item quantity="one">Δημιουργία αντίγραφου ασφαλείας για %1$d τραγούδι (%2$.1fMB)</item>
-    </plurals>
     <plurals name="comment_count">
         <item quantity="other">%d σχόλια</item>
         <item quantity="one">%d σχόλιο</item>
@@ -61,10 +51,10 @@
         <item quantity="one">Διαγραφή %d αντικειμένου;</item>
     </plurals>
     <plurals name="dialog_confirm_delete_downloads_message_with_file">
-        <item quantity="other">"Delete %d items?
-Note: Files will be deleted from this device as well."</item>
-        <item quantity="one">"Delete %d item?
-Note: File will be deleted from this device as well."</item>
+        <item quantity="other">"Διαγραφή %d αντικειμένων; 
+Σημείωση: Τα αρχεία θα διαγραφούν από τη συσκευή αυτή επίσης."</item>
+        <item quantity="one">"Διαγραφή %d αντικειμένου; 
+Σημείωση: Το αρχείο θα διαγραφεί από τη συσκευή αυτή επίσης."</item>
     </plurals>
     <plurals name="dialog_delete_descript">
         <item quantity="other">Διαγραφή%d τραγουδιών;</item>
@@ -73,10 +63,6 @@ Note: File will be deleted from this device as well."</item>
     <plurals name="dialog_remove_descript">
         <item quantity="other">Αφαίρεση %d τραγουδιών;</item>
         <item quantity="one">Αφαίρεση %d τραγουδιού;</item>
-    </plurals>
-    <plurals name="dialog_remove_from_cloud_descript">
-        <item quantity="other">Διαγραφή %d τραγουδιών από Mi Cloud? Θα διαγραφούν επίσης από τις τοπικές λίστες αναπαραγωγής.</item>
-        <item quantity="one">Διαγραφή %d τραγουδιού από Mi Cloud? Θα διαγραφεί επίσης από τις τοπικές λίστες αναπαραγωγής.</item>
     </plurals>
     <plurals name="download_finished">
         <item quantity="other">&lt;χρώμα γραμματοσειράς=\"κόκκινο\">%d τραγούδια&lt;/γραμματοσειρά> έγινε λήψη</item>
@@ -113,5 +99,13 @@ Note: File will be deleted from this device as well."</item>
     <plurals name="songs_count">
         <item quantity="other">%d τραγούδια</item>
         <item quantity="one">%d τραγούδι</item>
+    </plurals>
+    <plurals name="video_count">
+        <item quantity="other">Βίντεο</item>
+        <item quantity="one">Βίντεο</item>
+    </plurals>
+    <plurals name="video_play_count">
+        <item quantity="other">%1$s προβολές</item>
+        <item quantity="one">%1$s προβολή</item>
     </plurals>
 </resources>
