@@ -56,6 +56,7 @@
     <string name="save_pic_success">Η εικόνα αποθηκεύτηκε σε %s</string>
     <string name="save_pic_fail">Δεν ήταν δυνατή η αποθήκευση της εικόνας, ελέγξτε την κάρτα SD σας</string>
     <string name="pic_not_exist">Η εικόνα δεν υπάρχει</string>
+    <string name="pic_view_format">%1$s\"/\"%2$s</string>
     <string name="michat_skillset_product_title">Επιλογή προϊόντος</string>
     <string name="michat_skillset_business_type_title">Επιλογή υπηρεσίας</string>
     <string name="michat_close_text">Η συνομιλία τερματίστηκε</string>
@@ -215,8 +216,10 @@
     <string name="feedback_select_suggestion">Προτάσεις</string>
     <string name="feedback_select_problem">Προβλήματα</string>
     <string name="feedback_choose_module">Επιλογή αντικειμένου</string>
+    <string name="feedback_choose_app_tag">Επιλογή ζητήματος</string>
     <string name="feedback_choose_third_app_name">Επιλογή ονόματος εφαρμογής</string>
     <string name="toast_module_required">Επιλογή αντικειμένου</string>
+    <string name="toast_app_tag_required">Επιλογή ζητήματος</string>
     <string name="feedback_choose_module_hint">Υποχρεωτικό</string>
     <string name="feedback_choose_reproductivity">Αναπαραγωγικότητα</string>
     <string name="feedback_title_reproductivity">Επιλογή αναπαραγωγικότητας</string>
@@ -327,6 +330,7 @@
     <string name="toast_log_too_large">Αδυναμία μεταφόρτωσης. Το αρχείο είναι πολύ μεγάλο.</string>
     <string name="title_customer_service">Εξυπηρέτηση πελατών</string>
     <string name="title_first_aid">Πρώτες βοήθειες</string>
+    <string name="title_user_guide">Εγχειρίδιο χρήσης</string>
     <string name="customer_service_apply">Αίτηση για εξυπηρέτηση πελατών</string>
     <string name="customer_service_complain">Αναφορά εξυπηρέτησης πελατών</string>
     <string name="customer_service_station">Τοποθεσίες υπηρεσίας</string>
@@ -340,12 +344,11 @@
     <string name="catch_full_log_item_title_sensor">Αισθητήρες</string>
     <string name="catch_full_log_item_title_bt">Bluetooth</string>
     <string name="catch_full_log_item_title_dump_heap">Καθυστερήσεις</string>
-    <string name="catch_full_log_item_content_need_open">"Βήματα:
-1. Πατήστε στο \"Δημιουργία αρχείου καταγραφής\".
-2. Γυρίστε πίσω στη λειτουργία που θέλετε να αναφέρετε και κάντε αναπαραγωγή.
+    <string name="catch_full_log_item_content_title">Βήματα:</string>
+    <string name="catch_full_log_item_content_need_open">"1. Πατήστε στο \"Δημιουργία αρχείου καταγραφής\".
+2. Επιστρέψτε στη λειτουργία που θέλετε να αναφέρετε και κάντε αναπαραγωγή.
 3. Επιστρέψτε σε αυτή τη σελίδα και πατήστε \"Τελείωμα και ανέβασμα\"."</string>
-    <string name="catch_full_log_item_content_catch_direct">"Βήματα:
-1. Γυρίστε πίσω στη λειτουργία που θέλετε να αναφέρετε και κάντε αναπαραγωγή.
+    <string name="catch_full_log_item_content_catch_direct">"1. Επιστροφή στη λειτουργία που θέλετε να αναφέρετε και κάντε αναπαραγωγή.
 2. Επιστρέψτε σε αυτή τη σελίδα και πατήστε \"Τελείωμα και ανέβασμα\"."</string>
     <string name="catch_full_log_action_start">Δημιουργία αρχείου καταγραφής</string>
     <string name="catch_full_log_action_complete">Τελείωμα και μεταφόρτωση</string>

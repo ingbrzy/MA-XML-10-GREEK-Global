@@ -13,8 +13,8 @@
     <string-array name="alarm_repeat_type">
         <item>Μία φορά</item>
         <item>Καθημερινά</item>
-        <item>Ημέρες εργασίας</item>
-        <item>Ημέρες ξεκούρασης</item>
+        <item>Εργάσιμες ημέρες</item>
+        <item>Ρεπό</item>
         <item>Δευ - Παρ</item>
         <item>Προσαρμογή</item>
     </string-array>
@@ -673,17 +673,5 @@
         <item>0</item>
         <item>1</item>
         <item>2</item>
-    </string-array>
-    <string-array name="weather_tips_value">
-        <item>Ελαττώστε τις εξωτερικές δραστηριότητες.</item>
-        <item>Οι δρόμοι είναι ολισθηροί σήμερα.</item>
-        <item>Υπάρχει καταιγίδα, προσοχή.</item>
-        <item>Έχει ομίχλη σήμερα. Οδηγήστε με υπευθυνότητα.</item>
-        <item>Ο αέρας είναι μολυσμένος, φορέστε μάσκα.</item>
-        <item>Πάρτε μια ομπρέλα μαζί σας όταν βγείτε έξω.</item>
-        <item>Προσοχή στον δρόμο.</item>
-        <item>Έχει χαλάζι σήμερα, προσοχή.</item>
-        <item>Προβλέπεται αμμοθύελλα, φορέστε μάσκα.</item>
-        <item>Καλή σας ημέρα!</item>
     </string-array>
 </resources>

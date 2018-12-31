@@ -92,6 +92,7 @@
     <string name="module_title_business_card">Επαγγελματική κάρτα</string>
     <string name="module_title_code">QR κωδικός</string>
     <string name="module_title_document">Έγγραφο</string>
+    <string name="module_title_plant">Φυτό</string>
     <string name="module_title_shopping">Αγορές</string>
     <string name="module_title_translation">Μετάφραση</string>
     <string name="name">Όνομα:</string>
@@ -106,6 +107,11 @@
     <string name="payment_text">Άνοιγμα με %s</string>
     <string name="phone">Τηλέφωνο:</string>
     <string name="place_barcode_into_rectangle">Τοποθετήστε τον κωδικό μέσα στο πλαίσιο</string>
+    <string name="plant_fail">Αδυναμία αναγνώρισης</string>
+    <string name="plant_loading">Γίνεται αναγνώριση…</string>
+    <string name="plant_reg_fail_2">Δεν ήταν δυνατή η αναγνώριση αυτού του αντικειμένου. Ο σαρωτής μπορεί να αναγνωρίσει μόνο φυτά.</string>
+    <string name="plant_support">" (Τεχνική υποστήριξη)"</string>
+    <string name="plant_title">Σαρώστε το φυτό που θέλετε να εντοπίσετε</string>
     <string name="preparing_sd">Γίνεται προετοιμασία εσωτερικής μνήμης…</string>
     <string name="previous">Πίσω</string>
     <string name="qr_code_details">Λεπτομέρειες QR κωδικού:</string>

@@ -22,7 +22,7 @@
     <string name="sleep_config_enhance_description_non_nfc">Όποτε το MIUI εντοπίζει πως κοιμάστε, θα κλείσει όλες τις εφαμοργές παρασκηνίου, θα περιορίσει το Bluetooth, GPS, δεδομένα κινητής και κατανάλωση Wi-Fi, και δεν θα ενεργοποιεί την οθόνη κατά τις ειδοποιήσεις.</string>
     <string name="nonui_mode_config_title">Λειτουργία χωρίς αλληλεπίδραση</string>
     <string name="nonui_mode_config_description">Να μην φωτίζεται η οθόνη για ειδοποιήσεις, απενεργοποίηση φωτισμού LED, αισθητήρα δακτυλικού αποτυπώματος, και ελέγχων αφής για να εξοικονομήσετε μπαταρία όταν το MIUI εντοπίζει πως δεν χρησιμοποιείτε την συσκευή σας.</string>
-    <string name="power_center">Ενέργεια</string>
+    <string name="power_center">Χρήση μπαταρίας</string>
     <string name="power_usage">Χρήση μπαταρίας</string>
     <string name="power_mode">Ρυθμίσεις μπαταρίας</string>
     <string name="performance_category">Απόδοση</string>
@@ -98,4 +98,13 @@
     <string name="atrace_start">Γίνεται εγγραφή αρχείου καταγραφής atrace…</string>
     <string name="atrace_saving">Γίνεται αποθήκευση αρχείου καταγραφής atrace…</string>
     <string name="atrace_saved">Επιτυχής αποθήκευση</string>
+    <string name="notification_open_extreme_mode_text">Turned on Extreme battery saver</string>
+    <string name="extreme_power_settings_title">settings</string>
+    <string name="notification_exit_extreme_mode_title">Turned off Extreme battery saver</string>
+    <string name="notification_exit_extreme_mode_text">Battery is more than %s charged</string>
+    <string name="extreme_power_config_mode_summary">Extreme battery saver restricts background activity, and stops sync.</string>
+    <string name="extreme_add_white_list_title">Background exceptions</string>
+    <string name="extreme_add_white_list_summary">Add up to 4 apps</string>
+    <string name="adaptive_battery_title">Use Adaptive Battery</string>
+    <string name="adaptive_battery_summary">"Limit battery for apps that you don't use often"</string>
 </resources>

@@ -341,7 +341,7 @@
     <string name="gpg_message">Η δημιουργία διπλότυπων εφαρμογών για παιχνίδια απαιτεί το Google Play Games. Δημιουργία διπλότυπης εφαρμογής για Google Play Games;</string>
     <string name="gpg_title">Διπλότυπες εφαρμογές για Google Play Games</string>
     <string name="gms_message">Η δημιουργία διπλότυπων εφαρμογών απαιτεί τις Google υπηρεσίες. Δημιουργία διπλότυπης εφαρμογής για Google υπηρεσίες;</string>
-    <string name="gms_title">Ενεργοποίηση Google υπηρεσιών</string>
+    <string name="gms_title">Διπλή εφαρμογή για τις υπηρεσίες Google</string>
     <string name="gms_open_button">Ενεργοποίηση</string>
     <string name="create_second_space">Επιτυχής δημιουργία</string>
     <string name="set_space_password">Ορισμός κωδικού</string>
@@ -440,7 +440,7 @@
     <string name="greenguard_parent_des_title">Χρειάζομαι βοήθεια από τους φίλους και την οικογένειά μου</string>
     <string name="greenguard_parent_des">Κατεβάστε την εφαρμογή μας και προσθέστε συσκευές άλλων ατόμων</string>
     <string name="cta_declaration_title">Όροι και Προϋποθέσεις</string>
-    <string name="cta_declaration_message_format" formatted="false">Πρέπει να διαβάσετε και να συμφωνήσετε με το &lt;font color=%s>&lt;a href=%s> %s &lt;/a>&lt;/font> πριν χρησιμοποιήσετε τη Λειτουργία επιχείρησης. Η συσκευή σας πρέπει να συνδεθεί στο διαδίκτυο για να ενεργοποιήσει τη Λειτουργία επιχείρησης. Αποδοχή;</string>
+    <string name="cta_declaration_message_format" formatted="false">Πρέπει να διαβάσετε και να συμφωνήσετε με την &lt;font color=%s>&lt;a href=%s>%s&lt;/a>&lt;/font> μας πριν χρησιμοποιήσετε τη Λειτουργία επιχείρησης. Η συσκευή σας πρέπει να συνδεθεί στο διαδίκτυο για να ενεργοποιήσει τη Λειτουργία επιχείρησης. Αποδοχή;</string>
     <string name="cta_declaration_agree_and_continue">Αποδοχή</string>
     <string name="undo_activated_dialog_message">Η ανάκληση της εξουσιοδότησης θα απενεργοποιήσει τη Λειτουργία επιχείρησης και θα πραγματοποιήσει επαναφορά εργοστασιακών δεδομένων στη συσκευή σας. Όλα τα σχετικά χαρακτηριστικά δεν θα είναι πλέον διαθέσιμα. Εκτός αυτού, η Xiaomi θα σταματήσει να συλλέγει τις πληροφορίες που απαιτούνται για τη Λειτουργία επιχείρησης (IMEI, ID Συσκευής, έκδοση συστήματος, περιοχή κλπ.). Θα θέλαμε να σας υπενθυμίσουμε ότι η Xiaomi δεν διαχειρίζεται τα δεδομένα που συλλέγει για τη Λειτουργία επιχείρησης. Θα βάλουμε τα δυνατά μας για να ενημερώσουμε όλα τα συνδεδεμένα μέρη, αλλά συνιστούμε να επικοινωνήσετε με τους επόπτες της εταιρείας σας για να εγκρίνετε αυτή την ανάκληση. Ανάκληση εξουσιοδότησης και επαναφορά εργοστασιακών δεδομένων;</string>
     <string name="undo_activated_dialog_ok">Ανάκληση</string>
@@ -457,4 +457,8 @@
     <string name="dialog_undo_negative">Να μην γίνει ανάκληση</string>
     <string name="dialog_title_service_error">Σφάλμα διακομιστή</string>
     <string name="dialog_message_service_error">Αδυναμία ανάκλησης εξουσιοδότησης και επαναφοράς εργοστασιακών δεδομένων. Δοκιμάστε ξανά.</string>
+    <string name="dialog_verify">Επαληθεύστε το δακτυλικό σας αποτύπωμα</string>
+    <string name="dialog_verify_fingerprint_retry">Αδυναμία ανάγνωσης δακτυλικού αποτυπώματος. Προσπαθήστε ξανά.</string>
+    <string name="button_touch">Τοποθετήστε το δάκτυλο σας στον αισθητήρα</string>
+    <string name="button_input_password">Εισαγωγή κωδικού</string>
 </resources>

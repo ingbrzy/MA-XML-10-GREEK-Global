@@ -25,6 +25,8 @@
     <string name="adding_recipients">Γίνεται προσθήκη παραληπτών…</string>
     <string name="alert_dlg_cancel_button">Ακύρωση</string>
     <string name="alert_dlg_ok_button">OK</string>
+    <string name="allow_network_hint">Ενεργοποιήστε αυτόματα την \"Ενημέρωση πληροφοριών\" ή ελέγξτε τη σύνδεση δικτύου</string>
+    <string name="already_updated">Έγινε ενημέρωση</string>
     <string name="app_label">Μηνύματα</string>
     <string name="app_name">Συσκευές</string>
     <string name="attach_image">Εικόνες</string>
@@ -54,6 +56,7 @@
     <string name="bookmark_confirm_delete_message">Αφαίρεση επιλεγμένων αντικειμένων από τα αγαπημένα;</string>
     <string name="bookmark_empty">Δεν υπάρχουν μηνύματα στα αγαπημένα</string>
     <string name="bookmark_list_title">Αγαπημένα</string>
+    <string name="button_close">Κλείσιμο</string>
     <string name="button_emoji_creature">Animal emojis</string>
     <string name="button_emoji_lifestyle">Lifestyle emojis</string>
     <string name="button_emoji_smiley">Face emojis</string>
@@ -77,16 +80,22 @@
     <string name="change_duration_activity">Αλλαγή διάρκειας</string>
     <string name="check_all">Επιλογή όλων</string>
     <string name="class_0_message_activity">Κατηγορία 0 μηνύματα</string>
+    <string name="click_to_update">Πατήστε για να ελέγξετε για ενημερωμένες εκδόσεις</string>
     <string name="close">Κλείσιμο</string>
     <string name="cloud_state_disabled">Ενεργοποίηση συγχρονισμού με Mi Cloud για συγχρονισμό μηνυμάτων</string>
     <string name="cloud_state_sync_finished">Συγχρονίστηκε με Mi Cloud</string>
     <string name="cloud_state_syncing">Γίνεται συγχρονισμός με Mi Cloud…</string>
+    <string name="cm_privacy_dialog_allow">Αποδοχή</string>
+    <string name="cm_privacy_dialog_cancel">Ακύρωση</string>
+    <string name="cm_privacy_dialog_spannable_tips">Πολιτική Απορρήτου</string>
+    <string name="cm_privacy_dialog_tips">Οι υπηρεσίες έξυπνων μηνυμάτων παρέχονται από τον μεταφορέα σας. Τα μηνύματα πρέπει να συνδεθούν στο Διαδίκτυο και να έχουν πρόσβαση στην τοποθεσία σας για να παρέχουν αυτές τις υπηρεσίες. Πρέπει να συμφωνείτε με την %1s του φορέα σας πριν αρχίσετε να χρησιμοποιείτε αυτές τις υπηρεσίες. Συμφωνείτε;</string>
+    <string name="cm_privacy_dialog_title">Προσοχή</string>
     <string name="cmcc_privacy">Συμφωνία Προστασίας προσωπικών δεδομένων Παροχέα China Mobile</string>
     <string name="complain_input_number">Εισαγάγετε τον αριθμό τηλεφώνου σας</string>
     <string name="complain_jump">Παράλειψη</string>
-    <string name="complain_message_title">Παράπονα</string>
+    <string name="complain_message_title">Αναφορά</string>
     <string name="complain_ok">ΟΚ</string>
-    <string name="complain_phone_number">αριθμός τηλεφώνου</string>
+    <string name="complain_phone_number">Αριθμός τηλεφώνου (προαιρετικό)</string>
     <string name="complain_reason">Γιατί κάνετε αναφορά αυτού του μηνύματος;</string>
     <string name="complain_success">Ευχαριστούμε για τα σχόλιά σας. Μας βοηθούν να βελτιώσουμε τα Μηνύματα!</string>
     <string name="complain_tips">"Το περιεχόμενο του πιο πρόσφατου μηνύματος που αναφέρετε θα μεταφορτωθεί στους διακομιστές μας μαζί με τον αριθμό τηλεφώνου που παρέχετε. Οι πάροχοι υπηρεσιών μας θα εξετάσουν το αναφερόμενο μήνυμα.
@@ -100,8 +109,8 @@
     <string name="confirm_delete_all_conversations">Διαγραφή όλων των συνομιλιών;</string>
     <string name="confirm_delete_conversation">Διαγραφή της συνομιλίας;</string>
     <string name="confirm_delete_group_message">Διαγραφή μηνυμάτων ομάδας;</string>
-    <string name="confirm_delete_locked_message">Διαγραφή κλειδωμένου μηνύματος;</string>
-    <string name="confirm_delete_message">Διαγραφή μηνύματος;</string>
+    <string name="confirm_delete_locked_message">Διαγραφή αυτού του κλειδωμένου μηνύματος;</string>
+    <string name="confirm_delete_message">Διαγραφή του μηνύματος;</string>
     <string name="confirm_dialog_locked_title">Διαγραφή κλειδωμένου μηνύματος;</string>
     <string name="confirm_dialog_title">Διαγραφή;</string>
     <string name="confirm_dlg__msg">"CMCC σημείωση: Δεν θα σας παρέχουμε δωρεάν CMCC υπηρεσίες και και υποστήριξη εάν ακυρώσετε. Ακύρωση παρ' όλα αυτά;"</string>
@@ -136,10 +145,11 @@
     <string name="converting_to_text_message">Γίνεται μετατροπή σε μήνυμα κειμένου…</string>
     <string name="converting_vcard_failed">Δεν ήταν δυνατή η μετατροπή της επαφής</string>
     <string name="copy_message_text">Αντιγραφή</string>
-    <string name="copy_message_text_success">Ολοκληρώθηκε η αντιγραφή</string>
+    <string name="copy_message_text_success">Επιτυχής αντιγραφή</string>
     <string name="copy_to_sdcard">Αποθήκευση συνημμένου</string>
     <string name="copy_to_sdcard_fail">Αδυναμία αποθήκευσης συνημμένου</string>
     <string name="copy_to_sdcard_success">Αποθήκευση συνημμένου ως %s</string>
+    <string name="current_data_version">Έκδοση Μηνύματος Mi</string>
     <string name="delete">Διαγραφή</string>
     <string name="delete_bookmark">Αφαίρεση από τα αγαπημένα</string>
     <string name="delete_message">Διαγραφή</string>
@@ -210,6 +220,7 @@
     <string name="file_size">Μέγεθος:</string>
     <string name="file_title">Όνομα:</string>
     <string name="file_width_height">Μέγεθος:</string>
+    <string name="flatshow_page_no">%1$d</string>
     <string name="force_touch_new_message_title">Νέο μήνυμα</string>
     <string name="forward_from">Προώθηση από:</string>
     <string name="forward_message_select_title">Προώθηση μηνύματος</string>
@@ -248,6 +259,7 @@
     <string name="hybrid_service_unavailiable">Μη διαθέσιμη υπηρεσία</string>
     <string name="hybrid_try_again">Προσπαθήστε ξανά</string>
     <string name="i_know">Κατανοητό</string>
+    <string name="imageview_ad">Διαφήμιση</string>
     <string name="importing_progress_private_message">Γίνεται εισαγωγή…</string>
     <string name="in_sms">Μήνυμα</string>
     <string name="insufficient_drm_rights">Εντοπίστηκαν ανεπαρκή DRM δικαιώματα.</string>
@@ -283,7 +295,7 @@
     <string name="menu_view_contact">Προβολή επαφής</string>
     <string name="message_class_label">"Κατηγορία μηνύματος: "</string>
     <string name="message_contact">Επαφή:</string>
-    <string name="message_details_title">Λεπτομέριες μηνύματος</string>
+    <string name="message_details_title">Λεπτομέρειες μηνύματος</string>
     <string name="message_download_failed_title">Το μήνυμα δεν ελήφθη</string>
     <string name="message_expired">Έληξε</string>
     <string name="message_failed">Απέτυχε</string>
@@ -304,8 +316,10 @@
     <string name="message_too_big_for_video">Αδυναμία επισύναψης βίντεου λόγω πολύ μεγάλου μηνύματος.</string>
     <string name="message_type_label">"Είδος: "</string>
     <string name="messagelist_sender_self">Εγώ</string>
+    <string name="messaging">Μηνύματα</string>
     <string name="millionbyte">MB</string>
     <string name="mms">MMS</string>
+    <string name="more">Περισσότερα</string>
     <string name="move_down">Κίνηση προς τα κάτω</string>
     <string name="move_up">Κίνηση προς τα επάνω</string>
     <string name="msg_no_member_selected">Επιλέξτε τουλάχιστον 1 επαφή</string>
@@ -363,6 +377,7 @@
     <string name="mx_filter_message_from_stranger_dialog_desc">Δεν θα επηρεαστεί η δυνατότητα λήψης κανονικών SMS από άγνωστους αριθμούς. Μπορείτε να ενεργοποιήσετε ή να απενεργοποιήσετε αυτή την λειτουργία οποιαδήποτε στιγμή από τα Μηνύματα > Ρυθμίσεις.</string>
     <string name="mx_filter_message_from_stranger_dialog_title">Αποκλεισμός Mi Μηνυμάτων από άγνωστους αριθμούς</string>
     <string name="mx_filter_message_from_stranger_summary">Δεν θα επηρεαστεί η δυνατότητα λήψης κανονικών SMS από άγνωστους αριθμούς</string>
+    <string name="mx_message">Μήνυμα Mi</string>
     <string name="mx_msg">Mi Μηνύματα</string>
     <string name="mx_msg_pageview_setting_title">Ρυθμίσεις Mi Μηνύματα</string>
     <string name="mx_offline">Εκτός σύνδεσης</string>
@@ -374,6 +389,7 @@
     <string name="mx_stranger_recommend_msg">Πατήστε για αποκλεισμό Mi Μηνυμάτων από άγνωστους αριθμούς</string>
     <string name="mx_type_guide">Στείλτε μηνύματα σε άλλες MIUI συσκευές χωρίς καμία χρέωση</string>
     <string name="need_download">Γίνεται συγχρονισμός…</string>
+    <string name="net_sms_unsubscribe">Επιτυχία κατάργησης εγγραφής</string>
     <string name="network_error_description">Παρουσιάστηκε σφάλμα. Περιμένετε ένα δύο λεπτά και προσπαθήστε ξανά.</string>
     <string name="networking_allow_continue">Αποδοχή</string>
     <string name="networking_allow_desc">Το Mi Μηνύματα απαιτεί σύνδεση στο Ίντερνετ για να λειτουργήσει κανονικά. Το Mi Μηνύματα πρέπει να χρησιμοποιήσει τις Κίτρινες σελίδες ώστε να παρέχει δωρεάν υπηρεσίες μηνυμάτων και φωνής, να αναγνωρίζει άγνωστους αριθμούς, να φιλτράρει spam, και να ενεργοποιήσει άλλες λειτουργίες. Να επιτρέπεται η σύνδεση στο Ίντερνετ, η απόκτηση πληροφοριών τοποθεσίας σας, και η ανάγνωση των επαφών σας από τις Κίτρινες σελίδες;</string>
@@ -412,6 +428,7 @@
     <string name="open_url_with_web">Άνοιγμα αυτής της URL στο φυλλομετρητή;</string>
     <string name="over_max_mms_size">Το MMS είναι πάρα πολύ μεγάλο.</string>
     <string name="overwrite_edited_content">Το περιεχόμενο που επεξεργάστηκε θα αντικατασταθεί.</string>
+    <string name="packages_select_sim_cards_title">Επιλογή κάρτας SIM</string>
     <string name="phrase_confirm_delete_message">Αυτή η απάντηση θα διαγραφεί.</string>
     <string name="phrase_empty">Δεν υπάρχουν απαντήσεις</string>
     <string name="phrase_from">Από %1s</string>
@@ -561,6 +578,9 @@
     <string name="remove_slide">Κατάργηση διαφάνειας</string>
     <string name="remove_text">Κατάργηση κειμένου</string>
     <string name="remove_video">Κατάργηση βίντεου</string>
+    <string name="repayment_network_error">Κάτι συνέβη με το δίκτυό σας</string>
+    <string name="repayment_title">Αποπληρωμή</string>
+    <string name="repayment_way">Τρόπος αποπληρωμής</string>
     <string name="replace">Αντικατάσταση</string>
     <string name="replace_image">Αντικατάσταση εικόνας</string>
     <string name="reply_button_msg">Απάντηση</string>
@@ -617,8 +637,10 @@
     <string name="security_alert_dialog_title">Αναφορά</string>
     <string name="select_audio">Επιλογή ήχου</string>
     <string name="select_bottom_text">Κείμενο στο κάτω μέρος</string>
-    <string name="select_copy_text">Επιλογή και αντιγραφή κειμένου</string>
-    <string name="select_different_media">Επιλέξτε διαφορετικό %1$s.</string>
+    <string name="select_different_attachment">Επιλέξτε διαφορετικό συνημμένο.</string>
+    <string name="select_different_audio">Επιλέξτε διαφορετική εγγραφή ήχου.</string>
+    <string name="select_different_picture">Επιλέξτε διαφορετική εικόνα.</string>
+    <string name="select_different_video">Επιλέξτε διαφορετικό βίντεο.</string>
     <string name="select_link_title">Επιλογή ενέργειας</string>
     <string name="select_local_audio">Επιλογή ήχου</string>
     <string name="select_local_video">Επιλογή βίντεο</string>
@@ -640,6 +662,7 @@
     <string name="send_signature_confirm_dialog_title">Αποστολή μηνύματος</string>
     <string name="send_sms">Αποστολή μηνύματος</string>
     <string name="send_to">Προς:</string>
+    <string name="send_to_index_contact">%1$s/%2$s</string>
     <string name="sent_at_time">Έγινε αποστολή στις: %1s</string>
     <string name="sent_label">"Στάλθηκε: "</string>
     <string name="service_message_not_found">Το μήνυμα έληξε ή δεν είναι διαθέσιμο</string>
@@ -664,6 +687,8 @@
     <string name="slide_show_part">Μέρος %1$d/%2$d</string>
     <string name="slide_up_to_cancel">Κύλιση προς τα επάνω για ακύρωση</string>
     <string name="slideshow_activity">Παρουσίαση</string>
+    <string name="smart_messages_network_allow_message">Το Mi Μηνύματα απαιτεί σύνδεση στο Ίντερνετ ώστε να λειτουργήσουν κανονικά οι υπηρεσίες του. Αποδοχή τώρα;</string>
+    <string name="smart_messages_network_allow_title">Απαιτείται σύνδεση στο ίντερνετ</string>
     <string name="sms_card_partner_label">"Συνεργάτης κάρτας SMS: "</string>
     <string name="sms_card_teddy_mobile">Teddy Mobile</string>
     <string name="sms_content">Περιεχόμενο:</string>
@@ -709,6 +734,8 @@
     <string name="storage_unavailable">Δεν υπάρχει διαθέσιμος χώρος</string>
     <string name="subject_hint">Θέμα</string>
     <string name="subject_label">"Θέμα: "</string>
+    <string name="subscribe">Subscribe</string>
+    <string name="summary_pref_cm_smart_sms">Πρότυπα καρτών, αριθμοί υπηρεσιών SMS και άλλα.</string>
     <string name="switch_to_editor">Λειτουργία επεξεργασίας</string>
     <string name="switch_to_menu">Λειτουργία μενού</string>
     <string name="text_in_popup_saved_to_clipboard">Αντιγράφηκε στο πρόχειρο</string>
@@ -718,6 +745,7 @@
     <string name="title_allow_network_access">Αυτόματη ενημέρωση πληροφοριών</string>
     <string name="title_collapse_sp_messages">Ομαδοποίηση ειδοποιήσεων</string>
     <string name="title_hide_verification_code">Αυτόματη απόκρυψη Κωδικών μιας χρήσης στην Οθόνη κλειδώματος</string>
+    <string name="title_pref_cm_smart_sms">Έξυπνο SMS China Mobile</string>
     <string name="title_show_blocked_messages">Προβολή αποκλεισμένων μηνυμάτων</string>
     <string name="title_show_list_avatar">Προβολή φωτογραφιών προφίλ</string>
     <string name="title_show_photo_word">Ορισμός φωτογραφιών επαφών</string>
@@ -752,6 +780,7 @@
     <string name="unsticked_conversation">Η συνομιλία ήδη ξεκαρφιτσώθηκε</string>
     <string name="unsubscribe">Κατάργηση εγγραφής</string>
     <string name="unsupported_media_format">Μη υποστηριζόμενη %1$s μορφή.</string>
+    <string name="updating">Γίνεται ενημέρωση…</string>
     <string name="url_fraud_dangerous_alert">"Η ιστοσελίδα που προσπαθείτε να επισκεφτείτε ενδέχεται να είναι επικίνδυνη. Ενδέχεται να βλάψει την συσκευή και τα δεδομένα σας. Συνέχεια οπωσδήποτε;
 %s"</string>
     <string name="url_fraud_risky_alert">"Η ιστοσελίδα %s που προσπαθείτε να επισκεφτείτε ενδέχεται να είναι επικίνδυνη. Συνέχεια παρ' όλα αυτά;

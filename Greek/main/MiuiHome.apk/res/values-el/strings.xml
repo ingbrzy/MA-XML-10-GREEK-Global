@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <string name="status_bar_notification_info_overflow">999+</string>
     <string name="action_add_to_workspace">Προσθήκη στον χώρο εργασίας</string>
     <string name="activity_not_found">Η εφαρμογή δεν έχει εγκατασταθεί στην συσκευή σας</string>
     <string name="add_screen">Προσθήκη οθόνης</string>
@@ -152,6 +153,7 @@
     <string name="gadget_clock_24_label">Ρολόι 4x2</string>
     <string name="gadget_clock_34_label">Ρολόι 4x3</string>
     <string name="gadget_clock_label">Ρολόι</string>
+    <string name="gadget_dual_clock_label">Διπλό ρολόι</string>
     <string name="gadget_error_text">Αδυναμία φόρτωσης widget</string>
     <string name="gadget_google_search_label">Αναζήτηση Google</string>
     <string name="gadget_load_error">Φόρτωση…</string>
@@ -277,11 +279,14 @@
     <string name="recommend_apk_size_and_desc">%1$dMB | %2$s</string>
     <string name="recommend_apps_default_title">Κενό</string>
     <string name="recommend_apps_no_data">Χωρίς δεδομένα</string>
+    <string name="recommend_apps_no_data_toast">Δεν υπάρχουν προτάσεις προς το παρόν.</string>
     <string name="recommend_apps_notice">Προτεινόμενες εφαρμογές</string>
     <string name="recommend_apps_notice_nodata">Προτεινόμενες εφαρμογές(Χωρίς δεδομένα)</string>
     <string name="recommend_apps_switch_title">Προτεινόμενες εφαρμογές</string>
     <string name="recommend_apps_tips">"This feature needs to connect to the internet to work normally. To turn this feature off, tap this folder's name."</string>
     <string name="recommend_loading">Φόρτωση</string>
+    <string name="recommend_refresh">Ανανέωση</string>
+    <string name="recommend_xout">Να μην εμφανίζεται</string>
     <string name="reset_description_first_time">Μπορείτε να επαναφέρετε την διάταξη από %1$s μέσα σε 2 ώρες</string>
     <string name="reset_description_others">Μπορείτε να επαναφέρετε την διάταξη από %1$s</string>
     <string name="reset_fail">Αδυναμία επαναφοράς</string>
@@ -347,7 +352,4 @@
     <string name="widget_gadget_player">Μουσική</string>
     <string name="widget_global_search">Αναζήτηση</string>
     <string name="widget_quick_function">Γρήγορες λειτουργίες</string>
-    <string name="recommend_apps_no_data_toast">Δεν υπάρχουν προτάσεις προς το παρόν.</string>
-    <string name="recommend_refresh">Ανανέωση</string>
-    <string name="recommend_xout">Να μην εμφανίζεται</string>
 </resources>

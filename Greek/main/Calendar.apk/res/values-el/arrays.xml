@@ -68,10 +68,10 @@
     <string-array name="default_reminder_labels">
         <item>Την ώρα του συμβάντος</item>
         <item>5 λεπτά πριν</item>
-        <item>10 λεπτά πριν</item>
         <item>15 λεπτά πριν</item>
         <item>30 λεπτά πριν</item>
         <item>1 ώρα πριν</item>
+        <item>4 ώρες πριν</item>
         <item>1 ημέρα πριν</item>
         <item>2 ημέρες πριν</item>
         <item>1 εβδομάδα πριν</item>
@@ -80,6 +80,10 @@
         <item>Μόνο αυτό το συμβάν</item>
         <item>Αυτό και μελλοντικά συμβάντα</item>
         <item>Όλα τα συμβάντα</item>
+    </string-array>
+    <string-array name="english_premium_league">
+        <item>4</item>
+        <item>@string/english_premium_league</item>
     </string-array>
     <string-array name="gemini_info">
         <item>δίδυμοι</item>

@@ -23,8 +23,10 @@
         <item quantity="one">Η αναπαραγωγή θα διακοπεί σε %d λεπτό</item>
     </plurals>
     <plurals name="Nsong_group_detail_subtitle">
-        <item quantity="other">Δημιουργήθηκε στις %1$s | συνολικά %2$d τραγούδια</item>
-        <item quantity="one">Δημιουργήθηκε στις %1$s | συνολικά %2$d τραγούδι</item>
+        <item quantity="other">"Δημιουργήθηκε στις %1$s 
+συνολικά %2$d τραγούδια"</item>
+        <item quantity="one">"Δημιουργήθηκε στις %1$s 
+συνολικά %2$d τραγούδι"</item>
     </plurals>
     <plurals name="Ntracks_add_to_playlist">
         <item quantity="other">%d τραγούδια προστέθηκαν στη λίστα αναπαραγωγής</item>
@@ -79,6 +81,14 @@
     <plurals name="multichoice_title">
         <item quantity="other">%d αντικείμενα επιλέχθηκαν</item>
         <item quantity="one">%d αντικείμενο επιλέχθηκε</item>
+    </plurals>
+    <plurals name="notif_title_multiple_downloading">
+        <item quantity="other">Γίνεται λήψη %1$d αρχείων</item>
+        <item quantity="one">Γίνεται λήψη %1$d αρχείου</item>
+    </plurals>
+    <plurals name="notification_download_failed_more">
+        <item quantity="other">Αδυναμία λήψης %1$d αντικειμένων</item>
+        <item quantity="one">Αδυναμία λήψης %1$d αντικειμένου</item>
     </plurals>
     <plurals name="reader_count">
         <item quantity="other">%d ακόλουθοι</item>

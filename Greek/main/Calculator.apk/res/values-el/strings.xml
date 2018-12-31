@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <string name="allow">Συμφωνώ</string>
     <string name="app_name">Aριθμομηχανή</string>
     <string name="app_name_danfa">Mi Aριθμομηχανή</string>
     <string name="base_rate">Βασικό επιτόκιο</string>
@@ -41,6 +42,12 @@
     <string name="description_content">Εκτός από τις βασικές της λειτουργίες, η Αριθμομηχανή αποτελεί επίσης έναν πολλαπλό μετατροπέα, και υπολογίζει δάνεια και φόρους.Βεβαιωθείτε πως δεν χρειάζεστε πλέον τις λειτουργίες αυτές πριν την απεγκατάσταση της εφαρμογής.</string>
     <string name="description_title">Σχετικά με Αριθμομηχανή</string>
     <string name="devided_by_zero_reminder_message">Αδυναμία διαίρεσης με μηδέν</string>
+    <string name="dialog_privacy_content">Εκτός από τα βασικά χαρακτηριστικά μιας αριθμομηχανής, η εφαρμογή μας περιέχει επίσης μια επιστημονική αριθμομηχανή και έναν μετατροπέα πολλαπλών χρήσεων. Ορισμένες λειτουργίες πρέπει να συνδεθούν στο διαδίκτυο για να λειτουργούν κανονικά. Πρέπει να διαβάσετε και να συμφωνήσετε με την %1$s και την %2$s μας πριν τη χρήση της Αριθμομηχανής.</string>
+    <string name="dialog_privacy_title">Όροι και Προϋποθέσεις</string>
+    <string name="dialog_rating_desc_ask">How do you feel about Calculator?</string>
+    <string name="dialog_rating_desc_less">Could you give us your feedback as well?</string>
+    <string name="dialog_rating_desc_perfect">Nice! Rate Calculator in App Store as well?</string>
+    <string name="dialog_rating_title">Rate our app</string>
     <string name="digit0">0</string>
     <string name="digit1">1</string>
     <string name="digit2">2</string>
@@ -58,6 +65,7 @@
     <string name="equalDesc">ίσον</string>
     <string name="error">Σφάλμα</string>
     <string name="error_fomrat">Σφάλμα μορφής</string>
+    <string name="exit">Έξοδος</string>
     <string name="factorialDesc">παραγοντικό</string>
     <string name="fund" />
     <string name="fund_loan">Δάνειο χρηματοδότησης</string>
@@ -103,6 +111,11 @@
     <string name="lgDesc">λογάριθμος</string>
     <string name="ln">ln</string>
     <string name="lnDesc">φυσικός λογάριθμος</string>
+    <string name="loading_fail_message_no_network">Δεν ήταν δυνατή η σύνδεση στο δίκτυο. Πατήστε εδώ για να προσπαθήσετε ξανά.</string>
+    <string name="loading_fail_refresh">Ανανέωση</string>
+    <string name="loading_message">Φόρτωση εφαρμογής…</string>
+    <string name="loading_slogan">Χρήση εφαρμογών χωρίς εγκατάσταση</string>
+    <string name="loading_tips">Επιτυχής λήψη ρυθμίσεων. Επανεκκινήστε τον Υπολογιστή για εφαρμογή.</string>
     <string name="loan_edittext_hint_commercial">Εισαγωγή ποσού</string>
     <string name="loan_edittext_hint_commercial_combined">Εμπορικός (×10K)</string>
     <string name="loan_edittext_hint_fund">Εισαγωγή ποσού</string>
@@ -157,6 +170,7 @@
     <string name="network_confirm_content">Ο μετατροπέας νομίσματος, και οι αριθμομηχανές υπολογισμού φόρων και υποθηκών απαιτούν σύνδεση στο Ίντερνετ και πρόσβαση στις υπηρεσίες τοποθεσίας για να λειτουργήσουν κανονικά.</string>
     <string name="network_confirm_title">Απαιτούνται άδειες</string>
     <string name="not_supported_due_to_language">Αυτή η δυνατότητα είναι διαθέσιμη μόνο για την κινεζική γλώσσα</string>
+    <string name="ok">OK</string>
     <string name="percent" />
     <string name="percentDesc">τοις εκατό</string>
     <string name="piDesc">π</string>
@@ -175,11 +189,14 @@
     <string name="preference_follow_web_title">Επίσημος ιστότοπος</string>
     <string name="preference_follow_wechat_title">WeChat</string>
     <string name="preference_follow_weibo_title">Sina Weibo</string>
+    <string name="preference_help">Help &amp; feedback</string>
     <string name="preference_other">Άλλα</string>
     <string name="preference_privacy_title">Πολιτική Απορρήτου</string>
+    <string name="preference_rating_title">Rate our app</string>
     <string name="preference_settings">Ρυθμίσεις</string>
     <string name="preference_use_degress_summary">Αντικατάσταση rads με μοίρες σε τριγωνομετρικές εξισώσεις</string>
     <string name="preference_use_degress_title">Χρήση μοιρών</string>
+    <string name="privacy_policy">Πολιτική Απορρήτου</string>
     <string name="radDesc">Ακτίνα</string>
     <string name="rate_data_provider">Τα επιτόκια παρέχονται από το hexun.com</string>
     <string name="reciprocalDesc">Πολλαπλασιαστικό αντίστροφο</string>
@@ -237,6 +254,7 @@
     <string name="tax_location">Τοποθεσία</string>
     <string name="tax_medical">Περίθαλψη</string>
     <string name="tax_param_error">Εισαγωγή σωστών τόκων ασφάλειας</string>
+    <string name="tax_rate_provider">Τα δεδομένα παρέχονται από το hexun.com και το East Money</string>
     <string name="tax_result_real_get">Μετά τον υπολογισμό φόρου</string>
     <string name="tax_social_insurance">Κοινωνική ασφάλιση</string>
     <string name="tax_thershold_foreign">%s (Ξένοι υπήκοοι)</string>
@@ -250,6 +268,7 @@
     <string name="tax_unemployment">Ανεργία</string>
     <string name="tax_update_time_format">Τα δεδομένα παρέχονται από HeXun (%s)</string>
     <string name="times" />
+    <string name="unKnow_error">Άγνωστο σφάλμα</string>
     <string name="unit_data_display_area_acre">Στρέμμα</string>
     <string name="unit_data_display_area_are">Έκταση</string>
     <string name="unit_data_display_area_ha">Εκτάριο</string>
@@ -529,6 +548,7 @@
     <string name="unit_year">Y</string>
     <string name="unit_year_format">Έτος %s</string>
     <string name="unit_yuan">CNY</string>
+    <string name="user_agreement">Όροι Χρήσης</string>
     <string name="voiceDesc">Φωνητικές εντολές</string>
     <string name="wf_word_figure">Οικονομικοί χαρακτήρες</string>
     <string name="word_figure_big_unit_fen">分</string>
@@ -552,8 +572,11 @@
     <string name="word_figure_unit_shi">拾</string>
     <string name="word_figure_yuan">元</string>
     <string name="word_figure_zheng">整</string>
-    <string name="xiaomi_connect_download_manager_fail">Δεν ήταν δυνατή η εκκίνηση της λήψης. Βεβαιωθείτε ότι ο Διαχειριστής λήψεων λειτουργεί κανονικά.</string>
-    <string name="xiaomi_external_storage_unavailable">Αποθηκευτικός χώρος μη διαθέσιμος, ελέγξτε την κάρτα SD.</string>
+    <string name="xiaomi_bytes_unit">%1$sB</string>
+    <string name="xiaomi_connect_download_manager_fail">Δεν ήταν δυνατή η σύνδεση με τις Λήψεις. Ελέγξτε αν αυτή η εφαρμογή διαθέτει όλα τα απαιτούμενα δικαιώματα στις Ρυθμίσεις > Εγκατεστημένες εφαρμογές.</string>
+    <string name="xiaomi_external_storage_unavailable">Μη διαθέσιμος χώρος αποθήκευσης. Ελέγξτε την κάρτα SD σας.</string>
+    <string name="xiaomi_kilobytes_unit">%1$sKB</string>
+    <string name="xiaomi_megabytes_unit">%1$sMB</string>
     <string name="xiaomi_update_dialog_message">"Εισαγωγή έκδοσης %1$s
 Μέγεθος: %2$s"</string>
     <string name="xiaomi_update_dialog_message_diff">"Εισαγωγή έκδοσης %1$s
