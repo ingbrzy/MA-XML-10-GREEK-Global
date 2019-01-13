@@ -11,6 +11,7 @@
     <string name="cal_result_format">= %s</string>
     <string name="cal_text_copied">Έγινε αντιγραφή κειμένου</string>
     <string name="cancel">Ακύρωση</string>
+    <string name="children_education">Παιδική εκπαίδευση</string>
     <string name="choose_currency">Επιλογή συναλλάγματος</string>
     <string name="choose_unit">Επιλογή μονάδας</string>
     <string name="city">Πόλη</string>
@@ -44,10 +45,10 @@
     <string name="devided_by_zero_reminder_message">Αδυναμία διαίρεσης με μηδέν</string>
     <string name="dialog_privacy_content">Εκτός από τα βασικά χαρακτηριστικά μιας αριθμομηχανής, η εφαρμογή μας περιέχει επίσης μια επιστημονική αριθμομηχανή και έναν μετατροπέα πολλαπλών χρήσεων. Ορισμένες λειτουργίες πρέπει να συνδεθούν στο διαδίκτυο για να λειτουργούν κανονικά. Πρέπει να διαβάσετε και να συμφωνήσετε με την %1$s και την %2$s μας πριν τη χρήση της Αριθμομηχανής.</string>
     <string name="dialog_privacy_title">Όροι και Προϋποθέσεις</string>
-    <string name="dialog_rating_desc_ask">How do you feel about Calculator?</string>
-    <string name="dialog_rating_desc_less">Could you give us your feedback as well?</string>
-    <string name="dialog_rating_desc_perfect">Nice! Rate Calculator in App Store as well?</string>
-    <string name="dialog_rating_title">Rate our app</string>
+    <string name="dialog_rating_desc_ask">Ποια είναι η γνώμη σας για την Αριθμομηχανή;</string>
+    <string name="dialog_rating_desc_less">Μπορείτε να αφήσετε επίσης τα σχόλιά σας;</string>
+    <string name="dialog_rating_desc_perfect">Τέλεια! Αξιολόγηση της Αριθμομηχανής και στο Κατάστημα Εφαρμογών;</string>
+    <string name="dialog_rating_title">Αξιολογήστε την εφαρμογή μας</string>
     <string name="digit0">0</string>
     <string name="digit1">1</string>
     <string name="digit2">2</string>
@@ -66,9 +67,13 @@
     <string name="error">Σφάλμα</string>
     <string name="error_fomrat">Σφάλμα μορφής</string>
     <string name="exit">Έξοδος</string>
+    <string name="extra_deduction_instruction">Λεπτομέρειες μείωσης</string>
+    <string name="extra_deduction_tips">Αγγίξτε το κουμπί στην επάνω γωνία της οθόνης για να δείτε τις λεπτομέρειες μείωσης.</string>
+    <string name="extra_deduction_title">Πρόσθετες μειώσεις</string>
     <string name="factorialDesc">παραγοντικό</string>
     <string name="fund" />
     <string name="fund_loan">Δάνειο χρηματοδότησης</string>
+    <string name="further_education">Περαιτέρω εκπαίδευση</string>
     <string name="global_network_confirm_content">Ο μετατροπέας συναλλάγματος απαιτεί σύνδεση στο Ίντερνετ για να λειτουργήσει κανονικά.</string>
     <string name="global_search_key_area_convertion">Περιοχή, Μετατροπέας περιοχής, Μετατροπή περιοχής</string>
     <string name="global_search_key_calculation">Υπολογισμός, Αριθμομηχανή, Μετατροπή μονάδας, Μετατροπέας, Μετατροπέας μονάδας</string>
@@ -85,7 +90,10 @@
     <string name="global_search_key_word_figure">Οικονομικοί χαρακτήρες</string>
     <string name="golbal_search_calculator_setting">Αριθμομηχανή, Ρυθμίσεις Αριθμομηχανής, Ρυθμίσεις</string>
     <string name="golbal_search_path_calculator_setting">Εφαρμογές συστήματος/Αριθμομηχανή/Ρυθμίσεις</string>
+    <string name="help_content_desc">Βοήθεια</string>
+    <string name="home_loan">Στεγαστικό ενδιαφέρον</string>
     <string name="home_title_calculator">Aριθμομηχανή</string>
+    <string name="house_rent">Ενοικίαση</string>
     <string name="income_type" />
     <string name="install">Εγκατάσταση</string>
     <string name="install_scanner_to_continued_use">Ο Σαρωτής απεγκαταστάθηκε. Εγκατάσταση ξανά;</string>
@@ -109,8 +117,10 @@
     <string name="leftParenDesc">αριστερή παρένθεση</string>
     <string name="lg">log</string>
     <string name="lgDesc">λογάριθμος</string>
+    <string name="license_host_unreachable">Αδυναμία σύνδεσης στο δίκτυο. Ελέγξτε τις ρυθμίσεις δικτύου σας και προσπαθήστε ξανά.</string>
     <string name="ln">ln</string>
     <string name="lnDesc">φυσικός λογάριθμος</string>
+    <string name="loading">Μια στιγμή…</string>
     <string name="loading_fail_message_no_network">Δεν ήταν δυνατή η σύνδεση στο δίκτυο. Πατήστε εδώ για να προσπαθήσετε ξανά.</string>
     <string name="loading_fail_refresh">Ανανέωση</string>
     <string name="loading_message">Φόρτωση εφαρμογής…</string>
@@ -130,6 +140,7 @@
     <string name="loan_repayment_detail_loading">Φόρτωση λεπτομεριακής αποπληρωμής…</string>
     <string name="loan_repayment_detail_unit">Λεπτομεριακή αποπληρωμή (CNY)</string>
     <string name="loan_unit">(×10K)</string>
+    <string name="medical_treatment">Ιατρική περίθαλψη</string>
     <string name="menuDesc">μενού</string>
     <string name="minusDesc">μείον</string>
     <string name="month" />
@@ -165,12 +176,14 @@
     <string name="mortgage_tab_combining_loan">Υβριδικό</string>
     <string name="mortgage_tab_commercial_loan">Εμπορικό</string>
     <string name="mortgage_years_amount">Περίοδος στεγαστικού δάνειου</string>
+    <string name="mt_max">Το ποσό που εισάγετε είναι πολύ μεγάλο</string>
     <string name="mulDesc">πολλαπλασιασμός</string>
     <string name="negDesc">Εναλλαγή μεταξύ θερμοκρασιών κάτω και επάνω του μηδενός</string>
     <string name="network_confirm_content">Ο μετατροπέας νομίσματος, και οι αριθμομηχανές υπολογισμού φόρων και υποθηκών απαιτούν σύνδεση στο Ίντερνετ και πρόσβαση στις υπηρεσίες τοποθεσίας για να λειτουργήσουν κανονικά.</string>
     <string name="network_confirm_title">Απαιτούνται άδειες</string>
+    <string name="none">Τίποτα</string>
     <string name="not_supported_due_to_language">Αυτή η δυνατότητα είναι διαθέσιμη μόνο για την κινεζική γλώσσα</string>
-    <string name="ok">OK</string>
+    <string name="ok">ΟΚ</string>
     <string name="percent" />
     <string name="percentDesc">τοις εκατό</string>
     <string name="piDesc">π</string>
@@ -189,10 +202,10 @@
     <string name="preference_follow_web_title">Επίσημος ιστότοπος</string>
     <string name="preference_follow_wechat_title">WeChat</string>
     <string name="preference_follow_weibo_title">Sina Weibo</string>
-    <string name="preference_help">Help &amp; feedback</string>
+    <string name="preference_help">Βοήθεια &amp; ανατροφοδότηση</string>
     <string name="preference_other">Άλλα</string>
     <string name="preference_privacy_title">Πολιτική Απορρήτου</string>
-    <string name="preference_rating_title">Rate our app</string>
+    <string name="preference_rating_title">Αξιολογήστε την εφαρμογή μας</string>
     <string name="preference_settings">Ρυθμίσεις</string>
     <string name="preference_use_degress_summary">Αντικατάσταση rads με μοίρες σε τριγωνομετρικές εξισώσεις</string>
     <string name="preference_use_degress_title">Χρήση μοιρών</string>
@@ -212,6 +225,7 @@
     <string name="social_security" />
     <string name="sqrtDesc">τετραγωνική ρίζα</string>
     <string name="start_calculate" />
+    <string name="support_elder">Υποστήριξη για τους ηλικιωμένους</string>
     <string name="switchDesc">Εναλλαγή</string>
     <string name="tab_title_calculator">Aριθμομηχανή</string>
     <string name="tab_title_convert">Μετατροπέας</string>
@@ -254,7 +268,7 @@
     <string name="tax_location">Τοποθεσία</string>
     <string name="tax_medical">Περίθαλψη</string>
     <string name="tax_param_error">Εισαγωγή σωστών τόκων ασφάλειας</string>
-    <string name="tax_rate_provider">Τα δεδομένα παρέχονται από το hexun.com και το East Money</string>
+    <string name="tax_rate_provider">Υπολογίστηκε σύμφωνα με τους νέους φορολογικούς κανονισμούς. Τα δεδομένα παρέχονται από το hexun.com και το East Money.</string>
     <string name="tax_result_real_get">Μετά τον υπολογισμό φόρου</string>
     <string name="tax_social_insurance">Κοινωνική ασφάλιση</string>
     <string name="tax_thershold_foreign">%s (Ξένοι υπήκοοι)</string>
@@ -548,6 +562,7 @@
     <string name="unit_year">Y</string>
     <string name="unit_year_format">Έτος %s</string>
     <string name="unit_yuan">CNY</string>
+    <string name="updating">Ενημέρωση υπολογιστικής…</string>
     <string name="user_agreement">Όροι Χρήσης</string>
     <string name="voiceDesc">Φωνητικές εντολές</string>
     <string name="wf_word_figure">Οικονομικοί χαρακτήρες</string>
@@ -572,8 +587,11 @@
     <string name="word_figure_unit_shi">拾</string>
     <string name="word_figure_yuan">元</string>
     <string name="word_figure_zheng">整</string>
+    <string name="xiaomi_bytes_unit">%1$sB</string>
     <string name="xiaomi_connect_download_manager_fail">Δεν ήταν δυνατή η σύνδεση με τις Λήψεις. Ελέγξτε αν αυτή η εφαρμογή διαθέτει όλα τα απαιτούμενα δικαιώματα στις Ρυθμίσεις > Εγκατεστημένες εφαρμογές.</string>
     <string name="xiaomi_external_storage_unavailable">Μη διαθέσιμος χώρος αποθήκευσης. Ελέγξτε την κάρτα SD σας.</string>
+    <string name="xiaomi_kilobytes_unit">%1$sKB</string>
+    <string name="xiaomi_megabytes_unit">%1$sMB</string>
     <string name="xiaomi_update_dialog_message">"Εισαγωγή έκδοσης %1$s
 Μέγεθος: %2$s"</string>
     <string name="xiaomi_update_dialog_message_diff">"Εισαγωγή έκδοσης %1$s

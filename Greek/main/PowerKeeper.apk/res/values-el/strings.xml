@@ -38,7 +38,10 @@
     <string name="vip_feedback_enable">Ενεργοποίηση VIP σχολίων</string>
     <string name="extreme_power_config_mode_category">Ακραία λειτουργία</string>
     <string name="extreme_power_config_mode_title">Ακραία λειτουργία</string>
-    <string name="extreme_power_config_mode_desc">Εναλλαγή σε Ακραία λειτουργία για απενεργοποίηση συγχρονισμού, Bluetooth, GPS, NFC, φωτών πλήκτρων, διπλού κλικ, ξυπνήματος Οθόνης κλειδώματος για ειδοποιήσεις, καθώς και φλας ειδοποιήσεων. Το MIUI θα εστιάσει στην εξοικονόμηση μπαταρίας.</string>
+    <string name="extreme_power_config_mode_desc"><li>Η Ακραία εξοικονόμηση μπαταρίας σταματά όλες τις δραστηριότητες παρασκηνίου μιας εφαρμογής αφού φύγετε από αυτή και επιστρέψετε στην Αρχική οθόνη. Αυτή η εφαρμογή δεν θα σας στέλνει ειδοποιήσεις ή δεν θα λαμβάνετε ενημερώσεις.</li>"
+"<li>Εάν θέλετε μια εφαρμογή να τρέχει στο παρασκήνιο, κλειδώστε την στα Πρόσφατα, ή προσθέστε την στις εξαιρέσεις παρασκηνίου παρακάτω. Μέχρι 4 εφαρμογές μπορούν να τρέχουν στο παρασκήνιο όταν η Ακραία εξοικονόμηση μπαταρίας είναι ενεργή.</li>"
+"<li>Η Ακραία εξοικονόμηση μπαταρίας απενεργοποιεί στο NFC από προεπιλογή. Μπορείτε να το αλλάξετε στις Ρυθμίσεις.</li>"
+"<li>Για να βεβαιωθείτε ότι χρησιμοποιείτε όλα τα χαρακτηριστικά της συσκευής σας κανονικά, η Ακραία εξοικονόμηση μπαταρίας θα απενεργοποιηθεί αυτόματα όταν η μπαταρία σας φορτιστεί 30%.</li></string>
     <string name="empty_title_apps_container_list">Δεν υπάρχουν εφαρμογές</string>
     <string name="hints_loading_text">Περιμένετε μία στιγμή…</string>
     <string name="config_mode_title">Ρυθμίσεις παρασκηνίου</string>
@@ -98,13 +101,13 @@
     <string name="atrace_start">Γίνεται εγγραφή αρχείου καταγραφής atrace…</string>
     <string name="atrace_saving">Γίνεται αποθήκευση αρχείου καταγραφής atrace…</string>
     <string name="atrace_saved">Επιτυχής αποθήκευση</string>
-    <string name="notification_open_extreme_mode_text">Turned on Extreme battery saver</string>
-    <string name="extreme_power_settings_title">settings</string>
-    <string name="notification_exit_extreme_mode_title">Turned off Extreme battery saver</string>
-    <string name="notification_exit_extreme_mode_text">Battery is more than %s charged</string>
-    <string name="extreme_power_config_mode_summary">Extreme battery saver restricts background activity, and stops sync.</string>
-    <string name="extreme_add_white_list_title">Background exceptions</string>
-    <string name="extreme_add_white_list_summary">Add up to 4 apps</string>
-    <string name="adaptive_battery_title">Use Adaptive Battery</string>
-    <string name="adaptive_battery_summary">"Limit battery for apps that you don't use often"</string>
+    <string name="notification_open_extreme_mode_text">Ενεργοποιήθηκε η Ακραία εξοικονόμηση μπαταρίας</string>
+    <string name="extreme_power_settings_title">ρυθμίσεις</string>
+    <string name="notification_exit_extreme_mode_title">Απενεργοποιήθηκε η Ακραία εξοικονόμηση μπαταρίας</string>
+    <string name="notification_exit_extreme_mode_text">Η μπαταρία είναι περισσότερο από %s φορτισμένη</string>
+    <string name="extreme_power_config_mode_summary">Η υπερβολική χρήση της εξοικονόμησης μπαταρίας περιορίζει τη δραστηριότητα παρασκηνίου και διακόπτει τον συγχρονισμό.</string>
+    <string name="extreme_add_white_list_title">Εξαιρέσεις παρασκηνίου</string>
+    <string name="extreme_add_white_list_summary">Προσθέστε μέχρι 4 εφαρμογές</string>
+    <string name="adaptive_battery_title">Χρήση Προσαρμοστικής Μπαταρίας</string>
+    <string name="adaptive_battery_summary">Μείωση κατανάλωσης μπαταρίας για εφαρμογές που δεν χρησιμοποιείτε συχνά</string>
 </resources>

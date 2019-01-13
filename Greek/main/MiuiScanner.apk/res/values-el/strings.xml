@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <string name="about_title">Σχετικά</string>
     <string name="access_sd_fail">Αδυναμία πρόσβασης στην κάρτα SD</string>
     <string name="accessibility_shutter_button">Κλείστρο</string>
+    <string name="action_search">Αναζήτηση</string>
     <string name="address">Διεύθυνση:</string>
     <string name="agree_btn">Συμφωνώ</string>
     <string name="amazon_assistant_shopping_title">Αναζήτηση στο Amazon</string>
@@ -14,6 +16,7 @@
     <string name="birthday">Γενέθλια:</string>
     <string name="blog">Weibo</string>
     <string name="business_card">Επαγγελματική κάρτα</string>
+    <string name="business_card_result_title">Επαγγελματική κάρτα</string>
     <string name="business_card_title">Τοποθετήστε την επαγγελματική κάρτα μέσα στο πλαίσιο</string>
     <string name="business_copy">Αντιγραφή</string>
     <string name="business_new_contacts">Δημιουργία επαφής</string>
@@ -22,8 +25,10 @@
     <string name="call_anyone">Κλήση</string>
     <string name="camera_error_title">Σφάλμα Κάμερας</string>
     <string name="cancel">Ακύρωση</string>
+    <string name="choose_pay_title">Επιλογή μεθόδου πληρωμής</string>
     <string name="choose_picture">Επιλογή εικόνας QR κωδικού</string>
     <string name="common_retake_picture">Λήψη ξανά</string>
+    <string name="common_retry">Προσπαθήστε ξανά</string>
     <string name="common_save">Αποθήκευση</string>
     <string name="company">Εταιρία:</string>
     <string name="confirm">ΟΚ</string>
@@ -35,6 +40,7 @@
     <string name="copy_text_success">Έγινε αντιγραφή κειμένου</string>
     <string name="crop_cancel_description">Ακύρωση</string>
     <string name="crop_done_description">Ολοκληρώθηκε</string>
+    <string name="crop_title_study">Περικοπή φωτογραφίας</string>
     <string name="crop_title_translation">Επιλογή κειμένου για μετάφραση</string>
     <string name="document_color_picture">Χρώμα</string>
     <string name="document_color_picture_tip">Μετατροπή σε έγχρωμο…</string>
@@ -59,9 +65,11 @@
     <string name="email">Email:</string>
     <string name="error_camera_disabled">Δεν επιτρέπεται η πρόσβαση στην Κάμερα για λόγους ασφαλείας</string>
     <string name="error_cannot_connect_camera">Αδυναμία σύνδεσης με την Κάμερα</string>
+    <string name="error_empty_result">Αδυναμία εύρεσης αποτελεσμάτων</string>
     <string name="error_get_image">Αδυναμία απόκτησης εικόνας</string>
     <string name="error_media_storage_failure">Αδυναμία αποθήκευσης φωτογραφίας</string>
     <string name="error_permissions">Ο Σαρωτής δεν έχει τις απαιτούμενες άδειες για να λειτουργήσει κανονικά. Για να συνεχίσετε, μεταβείτε στις Ρυθμίσεις και ελέγξτε τις άδειες.</string>
+    <string name="error_server_error">Σφάλμα διακομιστή</string>
     <string name="fax">Φαξ</string>
     <string name="feed_search_fail">Κανένα αποτέλεσμα, προσπαθήστε ξανά</string>
     <string name="feedback_description_camera_access">Αδυναμία σύνδεσης σαρωτή με την Κάμερα</string>
@@ -94,12 +102,14 @@
     <string name="module_title_document">Έγγραφο</string>
     <string name="module_title_plant">Φυτό</string>
     <string name="module_title_shopping">Αγορές</string>
+    <string name="module_title_study">Μελέτη</string>
     <string name="module_title_translation">Μετάφραση</string>
     <string name="name">Όνομα:</string>
     <string name="new_schedule">Δημιουργία εκδήλωσης</string>
     <string name="nickname">Ψευδώνυμο:</string>
     <string name="no_network">Αδυναμία σύνδεσης στο δίκτυο</string>
     <string name="no_storage">Δεν υπάρχει εσωτερικός χώρος αποθήκευσης</string>
+    <string name="no_support_to_translate_type">Αυτή η γλώσσα δεν υποστηρίζεται</string>
     <string name="not_insert_contact">Αδυναμία προσθήκης επαφής</string>
     <string name="not_recommend_access_web_url">Μετάβαση</string>
     <string name="note">Παρατήρηση:</string>
@@ -118,18 +128,32 @@
     <string name="recognize">Σάρωση</string>
     <string name="recognize_fail">Αδυναμία ανάγνωσης κώδικα</string>
     <string name="scan_result">Αποτέλεσμα</string>
+    <string name="scan_support_type">WeChat, Alipay, κωδικοί QR, γραμμικοί κώδικες</string>
     <string name="sdk_not_ready">Γίνεται προετοιμασία του SDK. Προσπαθήστε ξανά αργότερα.</string>
     <string name="secure_access_web_url">Μετάβαση στην ιστοσελίδα</string>
     <string name="see_app_details">Προβολή λεπτομερειών εφαρμογής</string>
     <string name="select_dialog_confirm">ΟΚ</string>
     <string name="send_mail">Αποστολή email</string>
+    <string name="setting_alipay">Alipay</string>
+    <string name="setting_choose_every_time">Ερώτηση πάντα</string>
+    <string name="setting_default_function">Προεπιλεγμένη λειτουργία</string>
+    <string name="setting_preference_pay">Προτιμώμενη μέθοδος πληρωμής</string>
+    <string name="setting_title">Ρυθμίσεις</string>
+    <string name="setting_use_last_choose">Απομνημόνευση προηγούμενης επιλογής</string>
+    <string name="setting_wechat">WeChat</string>
     <string name="shopping_searching">Γίνεται αναζήτηση…</string>
     <string name="shopping_title">Τραβήξτε μια φωτογραφία για το προϊόν</string>
     <string name="shopping_vendor_info">Υποστηρίζεται από την Taobao</string>
     <string name="spaceIsLow_content">Ανεπαρκής χώρος στον εσωτερικό αποθηκευτικό χώρο. Ελευθερώστε ορισμένο χώρο.</string>
+    <string name="study_rotate_picture">Γίνεται επεξεργασία φωτογραφίας</string>
+    <string name="study_scan_result">Αποτέλεσμα</string>
+    <string name="study_searching">Αναζήτηση για αποτελέσματα</string>
+    <string name="study_title">Τραβήξτε μια φωτογραφία του προβλήματος</string>
+    <string name="study_vendor_info">Powered by 作业帮</string>
     <string name="switch_open">Ενεργοποίηση</string>
     <string name="tel">Τηλέφωνο</string>
     <string name="title">Τίτλος:</string>
+    <string name="to_pay">Ολοκλήρωση πληρωμής</string>
     <string name="translate_auto_lock">Κλείδωμα μετάφρασης</string>
     <string name="translate_auto_unlock">Ξεκλείδωμα μετάφρασης</string>
     <string name="translate_copy_success">Επιτυχής αντιγραφή</string>

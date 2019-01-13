@@ -27,9 +27,9 @@
     <string name="cloud_back_up_frequence_choice_title">Προγραμματισμός για δημιουργία αντίγραφου ασφαλείας</string>
     <string name="cloud_back_up_frequence_long">Κάθε 7 μέρες</string>
     <string name="cloud_back_up_frequence_short">Κάθε ημέρα</string>
-    <string name="cloud_back_up_share_activity_title">Αναβάθμιση Mi Λογαριασμού</string>
-    <string name="cloud_back_up_share_activity_discription">Αποκτήστε περισσότερο χώρο αποθήκευσης, δημιουργία αντίγραφων ασφαλείας καθημερινά, και περισσότερα.</string>
-    <string name="cloud_back_up_share_activity_confirm">Αναβάθμιση</string>
+    <string name="cloud_back_up_subscribe_vip_title">Upgrade Mi Account</string>
+    <string name="cloud_back_up_subscribe_vip_discription">Get more storage space, daily backups, and more.</string>
+    <string name="cloud_back_up_subscribe_vip_confirm">Upgrade</string>
     <string name="cloud_back_up_detail_discription">"Θα δημιουργηθούν αντίγραφα ασφαλείας για αυτά τα αντικείμενα στο Mi Cloud όταν η συσκευή σας συνδεθεί σε Wi-Fi: 
 *  Εφαρμογές, διάταξη Αρχικής oθόνης, και ταπετσαρίες 
 *  Ξυπνητήρι, ρολόι, και ρυθμίσεις ώρας 
@@ -50,6 +50,8 @@
     <string name="self_device_second_space">Δεύτερος χώρος αυτού του τηλεφώνου</string>
     <string name="other_device_main_space">Πρώτος χώρος</string>
     <string name="other_device_second_space">Δεύτερος χώρος</string>
+    <string name="pattern_backup_name_with_home">%1$s (%2$s: %3$s)</string>
+    <string name="pattern_backup_name_without_home">%1$s (%2$s)</string>
     <string name="process_whole_recovery">Γίνεται επαναφορά \"%s\"</string>
     <string name="size_unknown">Άγνωστο μέγεθος</string>
     <string name="recovering">Γίνεται επαναφορά %s</string>
@@ -59,6 +61,7 @@
     <string name="backing_up_to_micloud">Γίνεται δημιουργία αντίγραφου ασφαλείας…</string>
     <string name="restore_from_cloud">Επαναφορά από αντίγραφο ασφαλείας του Mi Cloud</string>
     <string name="backup_to_cloud">Δημιουργία αντίγραφου ασφαλείας για την εφαρμογή</string>
+    <string name="restoring_file_title_no_progress">Γίνεται επαναφορά αρχείων…</string>
     <string name="menu_item_sort">Ταξινόμηση κατά</string>
     <string name="menu_item_sort_name">Όνομα</string>
     <string name="menu_item_sort_size">Μέγεθος</string>
@@ -86,6 +89,8 @@
     <string name="recover_miui_settings">Επαναφορά ρυθμίσεων συστήματος</string>
     <string name="wait_icon_download">Γίνεται λήψη εικονιδίων εφαρμογών</string>
     <string name="download_settings_fail">Αδυναμία λήψης ρυθμίσεων Αρχικής οθόνης</string>
+    <string name="restore_init_description">Έναρξη επαναφοράς</string>
+    <string name="restore_finish_description">Η επαναφορά τελείωσε</string>
     <string name="backup_fail_wifi_needed">Αδυναμία δημιουργίας αντίγραφων ασφαλείας, απαιτείται Wi-Fi.</string>
     <string name="backup_success">Επιτυχής δημιουργία αντιγράφου ασφαλείας</string>
     <string name="cloud_task_in_process">Διακοπή %s και διαγραφή αυτού του αντίγραφου ασφαλείας? Δεν μπορείτε να αναιρέσετε αυτήν την ενέργεια.</string>
@@ -131,6 +136,7 @@
     <string name="provision_error_connect_msg">Δοκιμάστε το δίκτυο και προσπαθήστε ξανά. Τα αντίγραφα ασφαλείας δεν είναι διαθέσιμα όταν η συσκευή σας είναι εκτός σύνδεσης.</string>
     <string name="provision_error_connect_title">Αδυναμία σύνδεσης</string>
     <string name="loading_user_backup">Φόρτωση αντιγράφων ασφαλείας χρήστη…</string>
+    <string name="loading_progress_num">(%s%%)</string>
     <string name="error_num_placeholder">--</string>
     <string name="authentication_failed">Αδυναμία επιβεβαίωσης λογαριασμού.</string>
     <string name="no_account">Δεν συνδεθήκατε στο Mi Λογαριασμό σας.</string>
@@ -173,6 +179,7 @@
     <string name="notification_channel_remind">Υπενθύμιση</string>
     <string name="done_remove">Επιτυχής αφαίρεση</string>
     <string name="doing_restore_home">Γίνεται επαναφορά Αρχικής οθόνης και ρυθμίσεων…</string>
+    <string name="restoring_settings">Γίνεται επαναφορά Ρυθμίσεων…</string>
     <string name="title_alert_cancel_restore">Διακοπή επαναφοράς</string>
     <string name="msg_alert_cancel_restore">Γίνεται επαναφορά αντικειμένων. Διακοπή τώρα;</string>
     <string name="btn_restore_cancel">Ακύρωση</string>

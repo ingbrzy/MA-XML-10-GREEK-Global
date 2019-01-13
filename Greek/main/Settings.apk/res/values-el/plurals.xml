@@ -172,6 +172,10 @@
         <item quantity="other">%s λεπτά</item>
         <item quantity="one">1 λεπτό</item>
     </plurals>
+    <plurals name="miui_sos_emergency_contacts_quantity">
+        <item quantity="other">%d προστέθηκαν</item>
+        <item quantity="one">%d προστέθηκε</item>
+    </plurals>
     <plurals name="network_restrictions_summary">
         <item quantity="other">%1$d περιορισμοί</item>
         <item quantity="one">1 περιορισμός</item>

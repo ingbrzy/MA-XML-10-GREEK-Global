@@ -205,6 +205,9 @@
     <string name="change_to_face_mode">Εμφάνιση προσώπου μόνο</string>
     <string name="change_to_photo_mode">Εμφάνιση πλήρων προεπισκοπήσεων</string>
     <string name="change_to_visible">Επαναφορά αυτού του ατόμου;</string>
+    <string name="channel_default_name">Νέες δυνατότητες</string>
+    <string name="channel_low_name">Νέα μηνύματα</string>
+    <string name="channel_min_name">Ειδοποιήσεις εφαρμογών</string>
     <string name="checked">Έγινε επιλογή</string>
     <string name="checked_something">Επιλέχθηκαν %s</string>
     <string name="choose_baby_sexy">Γένος</string>
@@ -484,6 +487,7 @@
     <string name="face_name_edit">Επεξεργασία</string>
     <string name="face_name_input">Εισαγωγή ονόματος</string>
     <string name="face_recommend">Προτάσεις</string>
+    <string name="face_recommend_group_number">%1$d/%2$d</string>
     <string name="fail_hint">Αδυναμία ολοκλήρωσης λειτουργίας</string>
     <string name="fail_to_pick_email">Μη έγκυρη διεύθυνση email</string>
     <string name="fail_to_sync_album">Αδυναμία συγχρονισμού άλμπουμ. Ελέγξτε την σύνδεση δεδομένων σας και προσπαθήστε ξανά.</string>
@@ -494,17 +498,19 @@
     <string name="feature_guidance_photo_effects">"Νέα εφέ
  φωτογραφίας διαθέσιμα"</string>
     <string name="feature_guidance_video_editor_smart_effects">Νέα εφέ διαθέσιμα</string>
+    <string name="fileSizeSuffix">%1$s%2$s</string>
+    <string name="filter_bi_bw">Μ&amp;Α</string>
+    <string name="filter_bi_dusk">Σούρουπο</string>
+    <string name="filter_bi_lilt">Lilt</string>
     <string name="filter_bi_memory">Μνήμη</string>
-    <string name="filter_bi_mono">Μονόχρωμο</string>
     <string name="filter_bi_pink">Ροζ</string>
-    <string name="filter_bi_portrait">Πορτρέτο</string>
     <string name="filter_bi_retro">Ρέτρο</string>
     <string name="filter_bi_romantic">Ρομαντικό</string>
+    <string name="filter_bi_sepia">Kαστανόχρωμα</string>
     <string name="filter_bi_strong">Δυνατός</string>
     <string name="filter_bi_sunny">Ηλιοφάνεια</string>
-    <string name="filter_bi_sweet">Γλυκό</string>
+    <string name="filter_bi_tea">Τσάι</string>
     <string name="filter_bi_warm">Θερμό</string>
-    <string name="filter_bi_young">Νεανικό</string>
     <string name="filter_category_film">Ταινία</string>
     <string name="filter_category_food">Φαγητό</string>
     <string name="filter_category_master">Master</string>
@@ -541,7 +547,7 @@
     <string name="filter_people_nature">Φυσικό</string>
     <string name="filter_people_pink">Κοκκίνισμα</string>
     <string name="filter_people_riddle">Αίνιγμα</string>
-    <string name="filter_people_sepia">Σέπια</string>
+    <string name="filter_people_sepia">Kαστανόχρωμα</string>
     <string name="filter_people_story">Παραμύθι</string>
     <string name="filter_people_tea">Τσάι</string>
     <string name="filter_scene_city">Πόλη</string>
@@ -564,6 +570,7 @@
     <string name="gif_tip">GIF</string>
     <string name="gigabyteShort">GB</string>
     <string name="grant_permission_go_and_set">Ρύθμιση</string>
+    <string name="grant_permission_item">\"%s\"</string>
     <string name="grant_permission_text">"Η Συλλογή απαιτεί πρόσβαση σε 
 %s
  για κανονική λειτουργία, πατήστε \"Ρύθμιση\" για να μεταβείτε στις Άδειες."</string>
@@ -676,6 +683,7 @@
     <string name="more_album_hint">, κλπ.</string>
     <string name="more_face">Περισσότερα άτομα που μοιάζουν</string>
     <string name="more_face_album_name">Περισσότερα πρόσωπα</string>
+    <string name="motion_photo_play">Play</string>
     <string name="move_to_other_albums_tip">Μετακίνηση αυτού του άλμπουμ σε Άλλα άλμπουμ;</string>
     <string name="movie_add_disable">Μπορείτε να επιλέξετε μέχρι και 20 φωτογραφίες</string>
     <string name="movie_audio_custom">Τοπικά</string>
@@ -688,6 +696,10 @@
     <string name="movie_audio_sport">Τέκνο</string>
     <string name="movie_cancel_download">Ακύρωση</string>
     <string name="movie_change_to_long_video">Έχετε επιλέξει πάνω από 5 φωτογραφίες. Έγινε εναλλαγή σε βίντεο μεγαλύτερης διαρκείας.</string>
+    <string name="movie_content_describe_add">Προσθήκη φωτογραφιών</string>
+    <string name="movie_content_describe_delete">Διαγραφή φωτογραφιών</string>
+    <string name="movie_content_describe_pause">Παύση</string>
+    <string name="movie_content_describe_play">Αναπαραγωγή</string>
     <string name="movie_delete_disable">Χρειάζεστε τρεις τουλάχιστον φωτογραφίες για δημιουργία κλιπ.</string>
     <string name="movie_download">Λήψη</string>
     <string name="movie_download_failed">Αδυναμία λήψης</string>
@@ -806,6 +818,7 @@
     <string name="people_mark_mode_title_no_mark_name">Επιλέξτε ένα άτομο</string>
     <string name="people_page_label">Άτομα</string>
     <string name="people_page_unname">Χωρίς όνομα</string>
+    <string name="percent_sign">%</string>
     <string name="pet_album_display_name">Φωτογραφίες κατοικίδιων</string>
     <string name="petabyteShort">PB</string>
     <string name="photo">Φωτογραφίες</string>
@@ -877,6 +890,8 @@
     <string name="photo_editor_talkback_redo">Επανάληψη</string>
     <string name="photo_editor_talkback_undo">Αναίρεση</string>
     <string name="photo_editor_text">Κείμενο</string>
+    <string name="photo_movie_menu_loading">@string/photo_print_menu_loading</string>
+    <string name="photo_movie_module_failed">@string/error_install_connect_fail</string>
     <string name="photo_movie_module_finish">Επιτυχής φόρτωση Κλιπ</string>
     <string name="photo_movie_module_loading">Φόρτωση Κλιπ…</string>
     <string name="photo_movie_select_image_range">Τα κλιπ μπορούν να περιέχουν 3-20 φωτογραφίες</string>
@@ -1036,6 +1051,9 @@
     <string name="search_title_recommend">Προτεινόμενα</string>
     <string name="search_title_suggestion">Προτάσεις</string>
     <string name="search_title_tag">Αντικείμενα</string>
+    <string name="search_transition_element_icon">search_icon</string>
+    <string name="search_transition_element_input">search_input</string>
+    <string name="search_transition_element_voice">search_voice</string>
     <string name="searching_cast_devices">Αναζήτηση για προβολέα…</string>
     <string name="secret_album_card_description">Το καλύτερο μέρος για όλα τα μυστικά σας</string>
     <string name="secret_album_card_title">Δοκιμάστε τα κρυφά άλμπουμ</string>
@@ -1322,6 +1340,7 @@
     <string name="view_face_album">Προβολή άλμπουμ</string>
     <string name="view_more_face_desc">Εμφάνιση περισσότερων ατόμων</string>
     <string name="voice_assistant">Εισαγωγή φωνής</string>
+    <string name="welcome_to_auto_backup">@string/welcome_to_micloud</string>
     <string name="welcome_to_micloud">Καλωσορίσατε στο Mi Cloud</string>
     <string name="where_is_barcode">Που είναι ο QR κωδικός;</string>
     <string name="who_is_this">Ποιος είναι;</string>
@@ -1329,9 +1348,9 @@
     <string name="yes">Ναι</string>
     <string name="yesterday">Χθες</string>
     <string name="you_are">Ποια είναι η σχέση σας με το μωρό</string>
-    <string name="channel_default_name">Νέες δυνατότητες</string>
-    <string name="channel_low_name">Νέα μηνύματα</string>
-    <string name="channel_min_name">Ειδοποιήσεις εφαρμογών</string>
+    <string name="month_view_tip_button_text">Κατανοητό</string>
+    <string name="month_view_tip_sub_title">Πιέστε την οθόνη για να μεταβείτε στην προβολή μήνα</string>
+    <string name="month_view_tip_title">Προβολή μήνα</string>
     <string name="photomovie_audio_custom">Τοπικά</string>
     <string name="photomovie_audio_default">Μνήμη</string>
     <string name="photomovie_audio_kawaii">Ρομαντικό</string>
@@ -1378,4 +1397,6 @@
     <string name="refocus_title">Θολό</string>
     <string name="refocus_type_static">Επίπεδο θολότητας</string>
     <string name="refocus_type_video">Ίχνη φωτός</string>
+    <string name="text_tab_bubble">Bubbles</string>
+    <string name="text_tab_watermark">Watermarks</string>
 </resources>
