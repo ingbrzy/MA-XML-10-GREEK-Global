@@ -296,7 +296,6 @@
     <string name="sms_happened">Ολοκληρώθηκε</string>
     <string name="stock_card_add">Προσθήκη εταιρειών</string>
     <string name="stock_card_title">Μετοχές</string>
-    <string name="stock_change_rate_format">%.2f%%</string>
     <string name="stock_color_schema">Σχέδιο χρώματος</string>
     <string name="stock_list_empty_text">Δεν ακολουθείτε καμία εταιρεία.</string>
     <string name="stock_provider">Οι πληροφορίες χρηματιστηριακής αγοράς παρέχονται από τη Webull</string>
