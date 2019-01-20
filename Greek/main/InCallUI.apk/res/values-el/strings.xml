@@ -51,6 +51,7 @@
     <string name="onscreen_note_calls_text">Σημείωση</string>
     <string name="call_record_wait_label">Σε αναμονή</string>
     <string name="contacts_icon_label">Επαφές</string>
+    <string name="call_not_support_high_frequency_click">Μην πατάτε αυτό το κουμπί τόσο συχνά</string>
     <string name="conference_call_description" formatted="false">%s,%s κλπ. συνολικά%s</string>
     <string name="conference_call_single_description" formatted="false">%s κλπ. συνολικά %s</string>
     <string name="separate_from_conference">Διαχωρισμός κλήσης</string>

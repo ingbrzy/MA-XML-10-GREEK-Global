@@ -27,9 +27,9 @@
     <string name="cloud_back_up_frequence_choice_title">Προγραμματισμός για δημιουργία αντίγραφου ασφαλείας</string>
     <string name="cloud_back_up_frequence_long">Κάθε 7 μέρες</string>
     <string name="cloud_back_up_frequence_short">Κάθε ημέρα</string>
-    <string name="cloud_back_up_subscribe_vip_title">Upgrade Mi Account</string>
-    <string name="cloud_back_up_subscribe_vip_discription">Get more storage space, daily backups, and more.</string>
-    <string name="cloud_back_up_subscribe_vip_confirm">Upgrade</string>
+    <string name="cloud_back_up_subscribe_vip_title">Αναβάθμιση Mi Λογαριασμού</string>
+    <string name="cloud_back_up_subscribe_vip_discription">Αποκτήστε περισσότερο χώρο αποθήκευσης, καθημερινή δημιουργία αντιγράφων ασφαλείας, και άλλα.</string>
+    <string name="cloud_back_up_subscribe_vip_confirm">Αναβάθμιση</string>
     <string name="cloud_back_up_detail_discription">"Θα δημιουργηθούν αντίγραφα ασφαλείας για αυτά τα αντικείμενα στο Mi Cloud όταν η συσκευή σας συνδεθεί σε Wi-Fi: 
 *  Εφαρμογές, διάταξη Αρχικής oθόνης, και ταπετσαρίες 
 *  Ξυπνητήρι, ρολόι, και ρυθμίσεις ώρας 
@@ -50,6 +50,8 @@
     <string name="self_device_second_space">Δεύτερος χώρος αυτού του τηλεφώνου</string>
     <string name="other_device_main_space">Πρώτος χώρος</string>
     <string name="other_device_second_space">Δεύτερος χώρος</string>
+    <string name="pattern_backup_name_with_home">%1$s (%2$s: %3$s)</string>
+    <string name="pattern_backup_name_without_home">%1$s (%2$s)</string>
     <string name="process_whole_recovery">Γίνεται επαναφορά \"%s\"</string>
     <string name="size_unknown">Άγνωστο μέγεθος</string>
     <string name="recovering">Γίνεται επαναφορά %s</string>
@@ -134,6 +136,7 @@
     <string name="provision_error_connect_msg">Δοκιμάστε το δίκτυο και προσπαθήστε ξανά. Τα αντίγραφα ασφαλείας δεν είναι διαθέσιμα όταν η συσκευή σας είναι εκτός σύνδεσης.</string>
     <string name="provision_error_connect_title">Αδυναμία σύνδεσης</string>
     <string name="loading_user_backup">Φόρτωση αντιγράφων ασφαλείας χρήστη…</string>
+    <string name="loading_progress_num">(%s%%)</string>
     <string name="error_num_placeholder">--</string>
     <string name="authentication_failed">Αδυναμία επιβεβαίωσης λογαριασμού.</string>
     <string name="no_account">Δεν συνδεθήκατε στο Mi Λογαριασμό σας.</string>

@@ -22,7 +22,7 @@
     <string name="sleep_config_enhance_description_non_nfc">Όποτε το MIUI εντοπίζει πως κοιμάστε, θα κλείσει όλες τις εφαμοργές παρασκηνίου, θα περιορίσει το Bluetooth, GPS, δεδομένα κινητής και κατανάλωση Wi-Fi, και δεν θα ενεργοποιεί την οθόνη κατά τις ειδοποιήσεις.</string>
     <string name="nonui_mode_config_title">Λειτουργία χωρίς αλληλεπίδραση</string>
     <string name="nonui_mode_config_description">Να μην φωτίζεται η οθόνη για ειδοποιήσεις, απενεργοποίηση φωτισμού LED, αισθητήρα δακτυλικού αποτυπώματος, και ελέγχων αφής για να εξοικονομήσετε μπαταρία όταν το MIUI εντοπίζει πως δεν χρησιμοποιείτε την συσκευή σας.</string>
-    <string name="power_center">Χρήση μπαταρίας</string>
+    <string name="power_center">Εξοικονόμηση Μπαταρίας</string>
     <string name="power_usage">Χρήση μπαταρίας</string>
     <string name="power_mode">Ρυθμίσεις μπαταρίας</string>
     <string name="performance_category">Απόδοση</string>
@@ -110,4 +110,8 @@
     <string name="extreme_add_white_list_summary">Προσθέστε μέχρι 4 εφαρμογές</string>
     <string name="adaptive_battery_title">Χρήση Προσαρμοστικής Μπαταρίας</string>
     <string name="adaptive_battery_summary">Μείωση κατανάλωσης μπαταρίας για εφαρμογές που δεν χρησιμοποιείτε συχνά</string>
+    <string name="dark_mode">Σκοτεινή λειτουργία</string>
+    <string name="dark_mode_summary">Μεταβείτε στη μαύρη παλέτα χρωμάτων για εξοικονόμηση μπαταρίας</string>
+    <string name="open_dark_mode">Εναλλαγή σε σκοτεινή λειτουργία</string>
+    <string name="open_dark_mode_tip">Η ποιότητα εμφάνισης ορισμένων λειτουργιών ενδέχεται να μειωθεί στη Σκοτεινή λειτουργία. Θα επανέλθει στο κανονικό επίπεδο όταν βγείτε από τη Σκοτεινή λειτουργία. Μετάβαση στη Σκοτεινή λειτουργία τώρα;</string>
 </resources>

@@ -97,6 +97,7 @@
     <string name="card_title_change">Περισσότερα</string>
     <string name="change_response_title">Αλλαγή απάντησης</string>
     <string name="click_to_share">Πατήστε για Κοινοποίηση</string>
+    <string name="close_alarm">Απενεργοποίηση</string>
     <string name="countdown_event_title">Αντίστροφη μέτρηση: %1$s</string>
     <string name="countdown_notify_before_3_day_title">Αντίστροφη μέτρηση: %1$s σε 3 ημέρες</string>
     <string name="countdown_notify_title">Αντίστροφη μέτρηση: %1$s</string>
@@ -291,6 +292,8 @@
     <string name="no_visiable_calendar_select_account">Προσθήκη λογαριασμού</string>
     <string name="no_visiable_calendar_title">Προσθήκη λογαριασμού</string>
     <string name="not_synced">δεν έγινε συγχρονισμός</string>
+    <string name="notification_channel_description" />
+    <string name="notification_channel_name">Υπενθυμίσεις ημερολογίου</string>
     <string name="panchang_amanta">Amanta</string>
     <string name="panchang_amanta_month">Μήνας Amanta:</string>
     <string name="panchang_ayana">Ayana</string>
