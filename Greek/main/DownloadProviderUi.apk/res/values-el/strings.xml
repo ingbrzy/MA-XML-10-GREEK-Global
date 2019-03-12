@@ -151,6 +151,14 @@
     <string name="install">Εγκατάσταση</string>
     <string name="installing">Γίνεται εγκατάσταση…</string>
     <string name="insufficient_space">Ανεπαρκής χώρος αποθήκευσης</string>
+    <string name="korean_all_choose_item_title">Συμφωνώ με όλους τους παρακάτω όρους και προϋποθέσεις.</string>
+    <string name="korean_permission_group_phone_describe">Αποκτήστε πρόσβαση στο IMEI και στην κατάσταση δικτύου της συσκευής, συλλέξτε πληροφορίες για αποτυχημένες λήψεις για βελτιστοποίηση των υπηρεσιών</string>
+    <string name="korean_permission_group_phone_title">Τηλέφωνο</string>
+    <string name="korean_privacy_btn_accept">Αποδοχή</string>
+    <string name="korean_privacy_btn_exit">Έξοδος</string>
+    <string name="korean_privacy_item_title">Πολιτική Απορρήτου (η υποχρεωτική ενημερώθηκε)</string>
+    <string name="korean_privacy_tv_summary">Διαβάστε προσεκτικά όλα τα παρακάτω αντικείμενα και αποφασίστε αν θα τα αποδεχτείτε.</string>
+    <string name="korean_user_agreement_item_title">Συμφωνία Χρήστη (υποχρεωτική)</string>
     <string name="load_finish_hint">Αυτά για τώρα.</string>
     <string name="loading">Περιμένετε μια στιγμή…</string>
     <string name="media_filter">Πολυμέσα</string>
@@ -162,6 +170,7 @@
     <string name="menu_title_resume_all">Εκκίνηση όλων</string>
     <string name="menu_title_settings">Ρυθμίσεις</string>
     <string name="net_error">Συνδεθείτε στο δίκτυο και προσπαθήστε ξανά</string>
+    <string name="new_file_notification_title_image">Εικόνα</string>
     <string name="no_file_hint">Υπάρχει ήδη εργασία λήψης για αυτό το αρχείο</string>
     <string name="no_result_for_keyword">Αδυναμία εύρεσης \"%1$s\"</string>
     <string name="no_share_file">Αδυναμία κοινοποίησης αρχείου</string>

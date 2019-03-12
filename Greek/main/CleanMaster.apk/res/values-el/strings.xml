@@ -92,6 +92,7 @@
     <string name="hints_apk_header_left">Πακέτα</string>
     <string name="hints_residual_header_left">Κατάλοιπα</string>
     <string name="hints_memory_header_left">Μνήμη</string>
+    <string name="hints_header_left">%d</string>
     <string name="hints_large_file_header_left">Μεγάλα αρχεία: %d</string>
     <string name="hints_installed_apps_header_left">Εγκατεστημένες εφαρμογές: %d</string>
     <string name="toast_resolve_apk_error">Επίλυση apk σφάλματος</string>
@@ -299,6 +300,7 @@
     <string name="downloading">Γίνεται λήψη</string>
     <string name="installing">Γίνεται εγκατάσταση</string>
     <string name="start_install">Εγκατάσταση τώρα</string>
+    <string name="empty">" "</string>
     <string name="open_browser">Άνοιγμα στον φυλλομετρητή</string>
     <string name="title_share_link">Κοινοποίηση URL</string>
     <string name="connecting">Γίνεται σύνδεση…</string>
@@ -467,9 +469,9 @@
     <string name="file_not_found">Δεν βρέθηκε αρχείο</string>
     <string name="app_usage_never">Όχι πρόσφατα σε χρήση</string>
     <string name="app_usage_recently">Πρόσφατα σε χρήση</string>
-    <string name="resutl_function_deep_clean_summary">" "<Data>&lt;font color=#ff0000 >%1$s&lt;/font> ακόμη αρχεία μπορούν να διαγραφούν. Ελευθερώστε περισσότερο χώρο.;</Data>" "</string>
-    <string name="resutl_function_wechat_clean_summary">" "<Data>&lt;font color=#ff0000 >%1$s&lt;/font> WeChat cache. Ελευθερώστε περισσότερο χώρο.;</Data>" "</string>
-    <string name="resutl_function_qq_clean_summary">" "<Data>Δυνατότητα εκκαθάρισης &lt;font color=#ff0000 >%1$s&lt;/font> προσωρινής μνήμης από το QQ;</Data>" "</string>
+    <string name="resutl_function_deep_clean_summary">&lt;Data>&lt;font color=#ff0000 >%1$s&lt;/font> ακόμη αρχεία μπορούν να διαγραφούν. Ελευθερώστε περισσότερο χώρο.;&lt;/Data></string>
+    <string name="resutl_function_wechat_clean_summary">&lt;Data>&lt;font color=#ff0000 >%1$s&lt;/font> WeChat cache. Ελευθερώστε περισσότερο χώρο.;&lt;/Data></string>
+    <string name="resutl_function_qq_clean_summary">&lt;Data>Δυνατότητα εκκαθάρισης &lt;font color=#ff0000 >%1$s&lt;/font> προσωρινής μνήμης από το QQ;&lt;/Data></string>
     <string name="engine_tm">Tencent</string>
     <string name="engine_cm">Clean Master</string>
     <string name="app_description_title">Σχετικά με Εκκαθάριση</string>
@@ -545,7 +547,6 @@
     <string name="onekeyclean_boost_available">%s διαθέσιμα</string>
     <string name="onekeyclean_card_summery">Εκκαθάριση σκουπιδιών για απελευθέρωση χώρου</string>
     <string name="onekeyclean_card_btn">Εκκαθάριση τώρα</string>
-    <string name="memory_clean_icon_text">Εκκαθάριση μνήμης</string>
     <string name="pref_title_create_onekeyclean_shortcut">Προβολή συντομεύσης Αρχικής οθόνης</string>
     <string name="memory_clean_no_trash_tip">Όλα φαίνεται να λειτουργούν σωστά</string>
     <string name="toast_updater_open_4g_text">Οι εφαρμογές θα ενημερωθούν με τη χρήση δεδομένων κινητής τηλεφωνίας (4G)</string>
@@ -563,6 +564,6 @@
     <string name="facebook_clean_exit_confirm_msg">Δεν έχει ολοκληρωθεί η σάρωση του Facebook. Διακοπή σάρωσης τώρα;</string>
     <string name="facebook_clean_exit_confirm_cancel">Συνέχεια σάρωσης</string>
     <string name="facebook_clean_exit_confirm_ok">Διακοπή</string>
-    <string name="one_tap_clean_M">%dM</string>
-    <string name="one_tap_clean_GB">%sG</string>
+    <string name="one_tap_clean_M">%dMB</string>
+    <string name="one_tap_clean_GB">%sGB</string>
 </resources>

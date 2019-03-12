@@ -118,6 +118,7 @@
     <string name="menu_title_select_folder">Επιλογή φακέλου</string>
     <string name="menu_unhide">Εμφάνιση</string>
     <string name="menu_unstick">Ξεκαρφίτσωμα</string>
+    <string name="micloud_state_total_count">%1$s</string>
     <string name="not_now">Όχι τώρα</string>
     <string name="note_description_content">Οι Σημειώσεις είναι ένα σπουδαίο εργαλείο για να καταγράφετε τις ιδέες σας. Έχει ενσωματωμένες υπενθυμίσεις και συγχρονίζει τα αντικείμενά σας στο Mi Cloud ώστε να έχετε πρόσβαση σε αυτά από οπουδήποτε, οποτεδήποτε. Βεβαιωθείτε πως δεν χρειάζεστε πλέον αυτές τις λειτουργίες πριν την διαγραφή την εφαρμογής.</string>
     <string name="note_description_title">Σχετικά με Σημειώσεις</string>
@@ -129,8 +130,13 @@
     <string name="note_sort_way">Επιλέξτε πως θέλετε να ταξινομήσετε τις σημειώσεις σας</string>
     <string name="notealert_enter">Άνοιγμα σημείωσης</string>
     <string name="notealert_ok">Απόρριψη</string>
+    <string name="notelist_string_info">…</string>
     <string name="notify_alarm_title">Υπενθύμιση σημείωσης</string>
     <string name="permdesc_accessNote">Κακόβουλες εφαρμογές μπορεί να έχουν πρόσβαση στα προσωπικά σας δεδομένα.</string>
+    <string name="permission_intro_contact">Για σήμανση σημειώσεων κατά τη διάρκεια κλήσεων</string>
+    <string name="permission_intro_microphone">Για ηχογράφηση σημειώσεων φωνής</string>
+    <string name="permission_intro_phone">Για σήμανση σημειώσεων κατά τη διάρκεια κλήσεων</string>
+    <string name="permission_intro_storage">Για την αποθήκευση σημειώσεων και συνημμένων</string>
     <string name="permlab_accessNote">Πρόσβαση σημειώσεων</string>
     <string name="pref_desc_skip_confirm_for_quick_delete">Να μην γίνεται ερώτηση κατά την διαγραφή μιας σημείωσης με χειρονομία</string>
     <string name="pref_title_cloud_trash_bin">Διαγραμμένες σημειώσεις από το Mi Cloud</string>
@@ -213,6 +219,14 @@
     <string name="toast_reach_text_limit_truncate">Η σημείωση είναι πολύ μεγάλη. Ορισμένο κείμενο έχει κοπεί στο τέλος.</string>
     <string name="toast_refuse_to_record_when_in_call">Δεν μπορεί να χρησιμοποιηθεί αυτή η δυνατότητα κατά τη διάρκεια κλήσεων</string>
     <string name="toast_refuse_to_record_when_in_multi_window">Δεν μπορεί να χρησιμοποιηθεί αυτή η δυνατότητα με το Split screen</string>
+    <string name="toast_refuse_to_use_contact">"Οι άδειες επαφών είναι περιορισμένες.
+Επιτρέψτε στις Σημειώσεις να διαβάζουν τις επαφές σας και να εντοπίζουν λογαριασμούς στη συσκευή σας."</string>
+    <string name="toast_refuse_to_use_external_storage">"Οι άδειες αποθηκευτικού χώρου είναι περιορισμένες.
+Επιτρέψτε στις Σημειώσεις να διαβάζουν τα περιεχόμενα της κάρτας SD σας."</string>
+    <string name="toast_refuse_to_use_phone_state">"Οι άδειες τηλεφώνου είναι περιορισμένες.
+Επιτρέψτε στις Σημειώσεις να διαβάζουν την κατάσταση και ταυτότητα τηλεφώνου."</string>
+    <string name="toast_refuse_to_use_record_audio">"Οι άδειες μικροφώνου είναι περιορισμένες.
+Επιτρέψτε στις Σημειώσεις να κάνουν εγγραφή ήχου."</string>
     <string name="toolbar_check_description">Προσθήκη πλαίσιου επιλογής</string>
     <string name="toolbar_delete_description">Διαγραφή σημείωσης</string>
     <string name="toolbar_gallery_description">Προσθήκη εικόνας</string>

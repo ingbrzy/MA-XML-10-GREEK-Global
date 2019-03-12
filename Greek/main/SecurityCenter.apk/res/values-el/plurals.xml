@@ -244,6 +244,10 @@
         <item quantity="other">%d ημέρες από το τελευταίο έλεγχο</item>
         <item quantity="one">%d ημέρα από το τελευταίο έλεγχο</item>
     </plurals>
+    <plurals name="hints_scan_danger_result_with_number">
+        <item quantity="other">%d κίνδυνοι βρέθηκαν, επίλυση τώρα</item>
+        <item quantity="one">%d κίνδυνος βρέθηκε, επίλυση τώρα</item>
+    </plurals>
     <plurals name="hints_handle_item_text_risk_number">
         <item quantity="other">%d κίνδυνοι,</item>
         <item quantity="one">%d κίνδυνος,</item>
@@ -375,10 +379,6 @@
     <plurals name="privacy_apps_disable_header_title">
         <item quantity="other">%d εφαρμογές κρύφτηκαν</item>
         <item quantity="one">%d εφαρμογή κρύφτηκε</item>
-    </plurals>
-    <plurals name="first_aid_card_float_window_summary">
-        <item quantity="other">Οι εφαρμογές %d μπορεί να εμφανίζεται λανθασμένα. Περιορίστε τις αναδυόμενες ειδοποιήσεις.</item>
-        <item quantity="one">Η εφαρμογή %d μπορεί να εμφανίζεται λανθασμένα. Περιορίστε τις αναδυόμενες ειδοποιήσεις.</item>
     </plurals>
     <plurals name="first_aid_result_summary_exception">
         <item quantity="other">%1$d προβλήματα χρειάζονται βελτιστοποίηση</item>

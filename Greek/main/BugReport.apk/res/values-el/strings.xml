@@ -9,7 +9,7 @@
     <string name="app_search">Αναζήτηση εφαρμογών</string>
     <string name="btn_send">Αποστολή</string>
     <string name="bugreport_dialog_not_show_again">Να μην εμφανιστεί ξανά</string>
-    <string name="bugreport_dialog_submit_content"><Data>Αποθηκεύετε λογισμικό αρχείων καταγραφής σε αυτή τη συσκευή τώρα. Τα αρχεία καταγραφής μπορεί να περιέχουν προσωπικές πληροφορίες και δεδομένα της τοποθεσίας σας. Μην μοιράζεστε τα αρχεία καταγραφής με κανένα άλλο εάν δεν επιθυμείτε αυτές οι πληροφορίες να εκτεθούν. Επιλέγοντας \"Συμφωνώ\" σημαίνει ότι διαβάσατε και συμφωνείτε στην &lt;a href=\"http://www.miui.com/res/doc/privacy.htmlregion=%1$s&amp;lang=%2$s\">Πολιτική Απορρήτου&lt;/a>και&lt;a href=\"http://www.miui.com/res/doc/eula.html?region=%3$s&amp;lang=%4$s\">Όροι Χρήσης&lt;/a>.</Data></string>
+    <string name="bugreport_dialog_submit_content">&lt;Data>Αποθηκεύετε λογισμικό αρχείων καταγραφής σε αυτή τη συσκευή τώρα. Τα αρχεία καταγραφής μπορεί να περιέχουν προσωπικές πληροφορίες και δεδομένα της τοποθεσίας σας. Μην μοιράζεστε τα αρχεία καταγραφής με κανένα άλλο εάν δεν επιθυμείτε αυτές οι πληροφορίες να εκτεθούν. Επιλέγοντας \"Συμφωνώ\" σημαίνει ότι διαβάσατε και συμφωνείτε στην &lt;a href=\"http://www.miui.com/res/doc/privacy.htmlregion=%1$s&amp;lang=%2$s\">Πολιτική Απορρήτου&lt;/a>και&lt;a href=\"http://www.miui.com/res/doc/eula.html?region=%3$s&amp;lang=%4$s\">Όροι Χρήσης&lt;/a>.&lt;/Data></string>
     <string name="bugreport_dump_complete_notification_summary">Αγγίξτε για προβολή.</string>
     <string name="bugreport_dump_complete_notification_title">Δημιουργήθηκε αναφορά</string>
     <string name="bugreport_dump_start_notification_summary">Αυτό μπορεί να διαρκέσει πολλά λεπτά.</string>
@@ -107,6 +107,10 @@
     <string name="feedback_remind_login_btn">Σύνδεση</string>
     <string name="feedback_report_remind_login_desc">Συνδεθείτε με το Mi Λογαριασμό σας έτσι ώστε οι μηχανικοί μας να μπορούν να επικοινωνήσουν μαζί σας.</string>
     <string name="feedback_report_remind_login_desc2">Μπορείτε επίσης να δείτε την πρόοδο της αναφοράς σας στις \"Οι αναφορές μου\".</string>
+    <string name="feedback_reproductivity_everytime">Κάθε φορά</string>
+    <string name="feedback_reproductivity_occasionally">Περιστασιακά</string>
+    <string name="feedback_reproductivity_often">Συχνά</string>
+    <string name="feedback_reproductivity_once">Μία φορά</string>
     <string name="feedback_retest_label">Βήματα για την εύρεση</string>
     <string name="feedback_select_images">Προσθέστε μια εικόνα ή ένα σύντομο βίντεο</string>
     <string name="feedback_select_modem_log">Προσθήκη αρχείων καταγραφής μόντεμ</string>
@@ -167,6 +171,20 @@
     <string name="goon_feedback_main">Συνέχεια</string>
     <string name="hint_feedback_main">Περιγράψτε το πρόβλημα</string>
     <string name="issue_search">Αναζήτηση</string>
+    <string name="kr_authorization_agree">Accept</string>
+    <string name="kr_authorization_contact">Accounts</string>
+    <string name="kr_authorization_contact_desc">For getting Mi Account info and verifying your account</string>
+    <string name="kr_authorization_exit">Exit</string>
+    <string name="kr_authorization_log_protocol">Log Protocol (optional)</string>
+    <string name="kr_authorization_log_protocol_desc">"In order to improve the services provided to you, we'll upload usage stats and system logs to our servers. These items may include your personal information, as well as the information about your device and networks. We'll use uploaded items to locate and analyze the problems in the system."</string>
+    <string name="kr_authorization_phone">Phone</string>
+    <string name="kr_authorization_phone_desc">For identifying device using IMEI and model number, as well as locating and analyzing issues</string>
+    <string name="kr_authorization_privacy_policy">Privacy Policy (mandatory)</string>
+    <string name="kr_authorization_select_all">Select all</string>
+    <string name="kr_authorization_storage">Storage</string>
+    <string name="kr_authorization_storage_desc">For accessing storage and saving items including logs, images, and videos</string>
+    <string name="kr_authorization_summary">Legal documents</string>
+    <string name="kr_authorization_user_protocol">User Agreement (mandatory)</string>
     <string name="loading_apps">Φόρτωση λίστας…</string>
     <string name="login_system_failed">Αδυναμία σύνδεσης, προσπαθήστε ξανά</string>
     <string name="logo_title">Σχόλια</string>
@@ -438,6 +456,7 @@
     <string name="passport_wrong_phone_number_format">Ο αριθμός τηλεφώνου που εισαγάγατε δεν είναι έγκυρος</string>
     <string name="passport_wrong_vcode">Ο κωδικός που εισαγάγατε είναι εσφαλμένος</string>
     <string name="pic_not_exist">Η εικόνα δεν υπάρχει</string>
+    <string name="pic_view_format">%1$s\"/\"%2$s</string>
     <string name="plus_one_submit_dialog_content">Τα σχόλιά σας μαζί με αρχεία καταγραφής σφαλμάτων θα σταλούν στους διακομιστές της Mi.</string>
     <string name="plus_one_submit_dialog_not_show_again">Απομνημόνευση προτίμησης</string>
     <string name="post_miui_bbs_failed">Αδυναμία δημοσίευσης στο MIUI Φόρουμ</string>
@@ -466,8 +485,8 @@
     <string name="select_system_app_tag">Επιλέξτε ένα πρόβλημα</string>
     <string name="submit_dialog_cancel">Δεν αποδέχομαι</string>
     <string name="submit_dialog_confirm">Αποδοχή</string>
-    <string name="submit_dialog_content"><Data>Πρέπει να αποδεχτείτε την &lt;a href=\"http://www.miui.com/res/doc/privacy.html?region=%1$s&amp;lang=%2$s\">Πολιτική Απορρήτου&lt;/a> μας και με τους &lt;a href=\"http://www.miui.com/res/doc/eula.html?region=%3$s&amp;lang=%4$s\"> Όρους Χρήσης&lt;/a> προτού μπορέσετε να χρησιμοποιήσετε την Ανατροφοδότηση. Τα ζητήματα που αναφέρετε μαζί με τα στοιχεία που επισυνάπτετε (ενδέχεται να περιέχουν προσωπικές πληροφορίες, καθώς και τις πληροφορίες σχετικά με τη συσκευή και το δίκτυό σας) θα μεταφορτωθούν στους διακομιστές του MIUI. Αυτό θα μας βοηθήσει να εντοπίσουμε και να λύσουμε τα προβλήματα που αναφέρετε.</Data></string>
-    <string name="submit_dialog_content_global"><Data>Τα σχόλια σας, μαζί με τα συνημμένα (εάν υπάρχουν) και τα αρχεία καταγραφών (μπορείτε να καταργήσετε την επιλογή στα αντίστοιχα κουτάκια για τα στοιχεία που δεν θέλετε να ανέβουν) θα αποσταλούν στους διακομιστές του MIUI και σε ένα περιορισμένο τμήμα του MIUI Φόρουμ για προγραμματιστές. Οι πληροφορίες σχετικά με τα νήματα σας και την δραστηριότητα τους στο φόρουμ επίσης θα συλλέγονται για ανάλυση και παραπέρα επικοινωνία. Τα αρχεία καταγραφής μπορεί να περιέχουν προσωπικές πληροφορίες και δεδομένα της τοποθεσίας σας. Επιλέγοντας \"Συμφωνώ\" σημαίνει ότι διαβάσατε και συμφωνείτε στην &lt;a href=\"http://www.miui.com/res/doc/privacy.html?region=%1$s&amp;lang=%2$s\">Πολιτική Απορρήτου&lt;/a>και&lt;a href=\"http://www.miui.com/res/doc/eula.html?region=%3$s&amp;lang=%4$s\">Όροι Χρήσης&lt;/a>.</Data></string>
+    <string name="submit_dialog_content">&lt;Data>Πρέπει να αποδεχτείτε την &lt;a href=\"http://www.miui.com/res/doc/privacy.html?region=%1$s&amp;lang=%2$s\">Πολιτική Απορρήτου&lt;/a> μας και με τους &lt;a href=\"http://www.miui.com/res/doc/eula.html?region=%3$s&amp;lang=%4$s\"> Όρους Χρήσης&lt;/a> προτού μπορέσετε να χρησιμοποιήσετε την Ανατροφοδότηση. Τα ζητήματα που αναφέρετε μαζί με τα στοιχεία που επισυνάπτετε (ενδέχεται να περιέχουν προσωπικές πληροφορίες, καθώς και τις πληροφορίες σχετικά με τη συσκευή και το δίκτυό σας) θα μεταφορτωθούν στους διακομιστές του MIUI. Αυτό θα μας βοηθήσει να εντοπίσουμε και να λύσουμε τα προβλήματα που αναφέρετε.&lt;/Data></string>
+    <string name="submit_dialog_content_global">&lt;Data>Τα σχόλια σας, μαζί με τα συνημμένα (εάν υπάρχουν) και τα αρχεία καταγραφών (μπορείτε να καταργήσετε την επιλογή στα αντίστοιχα κουτάκια για τα στοιχεία που δεν θέλετε να ανέβουν) θα αποσταλούν στους διακομιστές του MIUI και σε ένα περιορισμένο τμήμα του MIUI Φόρουμ για προγραμματιστές. Οι πληροφορίες σχετικά με τα νήματα σας και την δραστηριότητα τους στο φόρουμ επίσης θα συλλέγονται για ανάλυση και παραπέρα επικοινωνία. Τα αρχεία καταγραφής μπορεί να περιέχουν προσωπικές πληροφορίες και δεδομένα της τοποθεσίας σας. Επιλέγοντας \"Συμφωνώ\" σημαίνει ότι διαβάσατε και συμφωνείτε στην &lt;a href=\"http://www.miui.com/res/doc/privacy.html?region=%1$s&amp;lang=%2$s\">Πολιτική Απορρήτου&lt;/a>και&lt;a href=\"http://www.miui.com/res/doc/eula.html?region=%3$s&amp;lang=%4$s\">Όροι Χρήσης&lt;/a>.&lt;/Data></string>
     <string name="submit_dialog_title">Υποβολή αναφοράς</string>
     <string name="submit_feedback_info_failed">Αδυναμία υποβολής αναφοράς</string>
     <string name="suggestion_description">Προσθέστε περιγραφή εδώ</string>

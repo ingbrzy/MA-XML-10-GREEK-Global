@@ -1,5 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <string-array name="korea_permission_groups_descriptions">
+        <item>Για τον εντοπισμό συγχρονισμένων αντικειμένων</item>
+        <item>Για τον συγχρονισμό μηνυμάτων</item>
+        <item>Για τον συγχρονισμό επαφών</item>
+        <item>Για τον συγχρονισμό συμβάντων ημερολογίου</item>
+        <item>Για τον συγχρονισμό αντικειμένων με υπηρεσίες που χρησιμοποιούν αποθηκευτικό χώρο</item>
+    </string-array>
+    <string-array name="korea_permission_groups_names">
+        <item>Τηλέφωνο</item>
+        <item>SMS</item>
+        <item>Επαφές</item>
+        <item>Ημερολόγιο</item>
+        <item>Χώρος αποθήκευσης</item>
+    </string-array>
     <string-array name="micloud_entrance_titleArray">
         <item>Συγχρονισμός δεδομένων εφαρμογής</item>
         <item>Δημιουργία αντίγραφου ασφαλείας για διάταξη Αρχικής οθόνης</item>

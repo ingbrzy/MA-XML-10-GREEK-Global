@@ -6,7 +6,7 @@
     </string-array>
     <string-array name="hmode_app_classify1">
         <item>Προσαρμογή</item>
-        <item>Εξοικονόμηση Μπαταρίας</item>
+        <item>MIUI εξοικονόμηση μπαταρίας</item>
     </string-array>
     <string-array name="hmode_app_classify2">
         <item>Ενεργές εφαρμογές</item>
@@ -24,7 +24,7 @@
     <string-array name="thermal_summaries">
         <item>Προτεραιότητα στον έλεγχο θερμοκρασίας</item>
         <item>Προτεραιότητα στην απόδοση</item>
-        <item>Δεν λειτουργεί κατά την Ακραία λειτουργία</item>
+        <item>Δεν υποστηρίζεται από την Ακραία εξοικονόμηση μπαταρίας</item>
     </string-array>
     <string-array name="power_mode_entries">
         <item>Απόδοση</item>

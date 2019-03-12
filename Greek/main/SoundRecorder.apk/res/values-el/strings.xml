@@ -64,6 +64,12 @@
     <string name="keywords_search_call_record">Ηχογράφηση κλήσεων;Ηχογράφηση κλήσης;Ηχογράφηση κλήσης;Ηχογραφήσεις κλήσεων</string>
     <string name="keywords_search_record">Νέα ηχογράφηση;Προσθήκη ηχογράφησης;Ηχογράφηση;Ηχογραφήσεις;Σενάριο;Σεναριοποίηση;Ηχογράφηση;Ηχογράφηση ομιλίας;Ηχογράφηση ήχου;Εφαρμογή ηχογράφησης;Εφαρμογή ηχογράφησης;Πως ηχογραφώ;Πως ηχογραφώ ήχο;Που είναι η ηχογράφηση;MIUI Ηχογράφηση</string>
     <string name="keywords_search_record_list">Ηχογράφηση;Σενάριο;Σενάρια;Εγγραφή;Κοινοποίηση ηχογράφησης;Κοινοποίηση ηχογραφήσεων;Ηχογράφηση;Ηχογραφήσεις</string>
+    <string name="korea_permission_phone">Τηλέφωνο</string>
+    <string name="korea_permission_phone_resc">Για την πρόσβαση κατάστασης συσκευής και το χειρισμό εγγραφών κατά τη διάρκεια κλήσεων</string>
+    <string name="korea_permission_record">Μικρόφωνο</string>
+    <string name="korea_permission_record_resc">Για την εγγραφή ήχου</string>
+    <string name="korea_permission_storage">χώρος αποθήκευσης</string>
+    <string name="korea_permission_storage_desc">Για την αποθήκευση εγγραφών</string>
     <string name="loading_order_list">Μια στιγμή…</string>
     <string name="loading_order_list_empty">Δεν υπάρχουν παραγγελίες εδώ.</string>
     <string name="low_battery_error">Απομένει λιγότερο από 5% της μπαταρίας. Σταματήστε και αποθηκεύστε την ηχογράφησή σας για να βεβαιωθείτε ότι δεν θα χαθεί.</string>

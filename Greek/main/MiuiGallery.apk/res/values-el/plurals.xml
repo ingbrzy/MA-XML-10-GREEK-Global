@@ -144,10 +144,6 @@
         <item quantity="other">Παραλήφθηκαν %1$d φωτογραφίες που δεν μπόρεσαν να ανταποκριθούν.</item>
         <item quantity="one">Παραλήφθηκε μία φωτογραφία που δεν μπόρεσε να ανταποκριθεί.</item>
     </plurals>
-    <plurals name="file_count_format">
-        <item quantity="other">Συνολικά %1$d αντικείμενα</item>
-        <item quantity="one">Συνολικά %1$d αντικείμενο</item>
-    </plurals>
     <plurals name="number_of_images_and_videos_to_upload">
         <item quantity="other">Θα δημιουργηθούν αντίγραφα ασφαλείας για %1$d αντικείμενα</item>
         <item quantity="one">Θα δημιουργηθεί αντίγραφο ασφαλείας για 1 αντικείμενο</item>
@@ -271,5 +267,13 @@
     <plurals name="sync_total_count">
         <item quantity="other">%d αντικείμενα</item>
         <item quantity="one">%d αντικείμενο</item>
+    </plurals>
+    <plurals name="photo_count_format">
+        <item quantity="other">Συνολικά %1$d αντικείμενα</item>
+        <item quantity="one">Συνολικά %1$d αντικείμενο</item>
+    </plurals>
+    <plurals name="video_count_format">
+        <item quantity="other">%1$d αρχεία</item>
+        <item quantity="one">%1$d αρχείο</item>
     </plurals>
 </resources>

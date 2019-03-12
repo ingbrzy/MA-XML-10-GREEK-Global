@@ -461,4 +461,5 @@
     <string name="dialog_verify_fingerprint_retry">Αδυναμία ανάγνωσης δακτυλικού αποτυπώματος. Προσπαθήστε ξανά.</string>
     <string name="button_touch">Τοποθετήστε το δάκτυλο σας στον αισθητήρα</string>
     <string name="button_input_password">Εισαγωγή κωδικού</string>
+    <string name="master_clear_not_available">Η εταιρεία σας απαγορεύει την Εργοστασιακή επαναφορά.</string>
 </resources>

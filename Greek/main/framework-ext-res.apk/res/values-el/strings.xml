@@ -175,6 +175,12 @@
     <string name="wifi_assistant_wifi_no_internet">Αυτό το δίκτυο Wi-Fi δεν έχει πρόσβαση στο Ίντερνετ</string>
     <string name="wifi_assistant_wifi_no_internet_detail">Αγγίξτε για προβολή λεπτομερειών</string>
     <string name="resolver_app_recommend_flag">Προτεινόμενα</string>
+    <string name="resolver_checkbox_once">Μία φορά</string>
+    <string name="resolver_checkbox_always">Πάντα</string>
+    <string name="resolver_mi_browser">Πρόγραμμα περιήγησης Mi</string>
+    <string name="resolver_recommend_options_tag">Προτεινόμενες επιλογές</string>
+    <string name="resolver_offical_recommend">Επίσημες</string>
+    <string name="resolver_other_method">Άλλες επιλογές</string>
     <string name="voice_button_action_up">Πατήστε για να μιλήσετε</string>
     <string name="voice_button_action_down">Αφήστε για αναζήτηση</string>
     <string name="voice_begin">Τι ψάχνετε;</string>

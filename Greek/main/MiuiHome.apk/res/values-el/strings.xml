@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <string name="status_bar_notification_info_overflow">999+</string>
     <string name="action_add_to_workspace">Προσθήκη στον χώρο εργασίας</string>
     <string name="activity_not_found">Η εφαρμογή δεν έχει εγκατασταθεί στην συσκευή σας</string>
     <string name="add_screen">Προσθήκη οθόνης</string>
@@ -98,7 +99,7 @@
     <string name="default_folder_title_services">Υπηρεσίες</string>
     <string name="default_folder_title_telcel">Telcel</string>
     <string name="default_folder_title_tools">Εργαλεία</string>
-    <string name="default_screen_preview_title">Πατήστε για ορισμό προεπιλεγμένης οθόνης</string>
+    <string name="default_screen_preview_title">Ορισμός προεπιλεγμένης οθόνης</string>
     <string name="default_shortcut_title_10086">10086.cn</string>
     <string name="delete">Διαγραφή</string>
     <string name="delete_screen">Διαγραφή οθόνης</string>
@@ -108,6 +109,7 @@
     <string name="download_action">Λήψη</string>
     <string name="drag_multiple_item_name" />
     <string name="drag_single_item_name" />
+    <string name="dual_app">Διπλότυπες εφαρμογές</string>
     <string name="edit_folder_title">Επεξεργασία ονόματος φακέλου</string>
     <string name="edit_mode_group">Ομάδα</string>
     <string name="edit_mode_group_error_full">Ανεπαρκής χώρος</string>
@@ -351,5 +353,15 @@
     <string name="widget_gadget_player">Μουσική</string>
     <string name="widget_global_search">Αναζήτηση</string>
     <string name="widget_quick_function">Γρήγορες λειτουργίες</string>
-    <string name="dual_app">Διπλότυπες εφαρμογές</string>
+    <string name="home_gesture_content_center">Κέντρο Περιεχομένων</string>
+    <string name="home_gesture_global_search">Αναζήτηση</string>
+    <string name="home_gesture_no_action">Τίποτα</string>
+    <string name="home_gesture_notification_bar">Ειδοποιήσεις</string>
+    <string name="home_pull_down_action">Σύρετε προς τα κάτω στην Αρχική οθόνη</string>
+    <string name="home_slide_up_action">Σύρετε προς τα πάνω στην Αρχική οθόνη</string>
+    <string name="launcher_pull_down_title">Σύρετε προς τα πάνω στην Αρχική οθόνη</string>
+    <string name="launcher_slide_up_title">Σύρετε προς τα κάτω στην Αρχική οθόνη</string>
+    <string name="menu_finish">Ολοκλήρωση</string>
+    <string name="minus_one_screen">μείον μία οθόνη</string>
+    <string name="widgets_preview_title">Προσθήκη widget</string>
 </resources>

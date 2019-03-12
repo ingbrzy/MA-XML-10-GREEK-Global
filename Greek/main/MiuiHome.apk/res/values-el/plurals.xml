@@ -29,7 +29,7 @@
         <item quantity="one">Αδυναμία απεγκατάστασης %1$d εφαρμογής</item>
     </plurals>
     <plurals name="uninstall_result_multi_succeeded">
-        <item quantity="other">Uninstalled %1$d apps</item>
-        <item quantity="one">Uninstalled %1$d app</item>
+        <item quantity="other">Έγινε απεγκατάσταση %1$d εφαρμογών</item>
+        <item quantity="one">Έγινε απεγκατάσταση %1$d εφαρμογής</item>
     </plurals>
 </resources>

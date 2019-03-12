@@ -45,6 +45,10 @@
     <string name="audio_message_mx_offline">Αδυναμία λήψης ήχου. Το Mi Μηνύματα είναι εκτός λειτουργίας ή δεν είναι διαθέσιμο.</string>
     <string name="audio_playing_seconds">%d\"</string>
     <string name="audio_sim_card_mismatching">Δεν υπάρχει σύνδεση δικτύου ή έχει εγκατασταθεί λάθος κάρτα SIM. Εγκαταστήστε την κάρτα SIM από όπου έχει σταλθεί το μήνυμα και συνδεθείτε στο δίκτυο.</string>
+    <string name="auto_identify_btn_text_only_smart_messaging">Ενεργοποιήστε τα Έξυπνα Μηνύματα</string>
+    <string name="auto_identify_btn_text_when_all_disabled">Αυτόματη Αναγνώριση ταυτότητας αποστολέα</string>
+    <string name="auto_identify_btn_title">Αυτό το μήνυμα αποστέλλεται από έναν άγνωστο αριθμό.</string>
+    <string name="auto_identify_confirmation">Ενδέχεται να χρειαστούν αρκετά λεπτά για να ενεργοποιηθεί αυτή η λειτουργία.</string>
     <string name="back_to_message_list">Πίσω στη λίστα μηνυμάτων</string>
     <string name="batch_adding_progress_message">Γίνεται προσθήκη…</string>
     <string name="batch_deleting_message_progress_message">Γίνεται διαγραφή…</string>
@@ -220,6 +224,7 @@
     <string name="file_size">Μέγεθος:</string>
     <string name="file_title">Όνομα:</string>
     <string name="file_width_height">Μέγεθος:</string>
+    <string name="flatshow_page_no">%1$d</string>
     <string name="force_touch_new_message_title">Νέο μήνυμα</string>
     <string name="forward_from">Προώθηση από:</string>
     <string name="forward_message_select_title">Προώθηση μηνύματος</string>
@@ -290,6 +295,7 @@
     <string name="menu_pick_from_contact">Επιλογή από επαφές</string>
     <string name="menu_preferences">Ρυθμίσεις</string>
     <string name="menu_send_as_common">Αποστολή ως SMS</string>
+    <string name="menu_traffic_destination">Προορισμός</string>
     <string name="menu_unlock">Αφαίρεση από τα αγαπημένα</string>
     <string name="menu_view_contact">Προβολή επαφής</string>
     <string name="message_class_label">"Κατηγορία μηνύματος: "</string>
@@ -388,6 +394,7 @@
     <string name="mx_stranger_recommend_msg">Πατήστε για αποκλεισμό Mi Μηνυμάτων από άγνωστους αριθμούς</string>
     <string name="mx_type_guide">Στείλτε μηνύματα σε άλλες MIUI συσκευές χωρίς καμία χρέωση</string>
     <string name="need_download">Γίνεται συγχρονισμός…</string>
+    <string name="net_sms_subscribed">Επιτυχία εγγραφής</string>
     <string name="net_sms_unsubscribe">Επιτυχία κατάργησης εγγραφής</string>
     <string name="network_error_description">Παρουσιάστηκε σφάλμα. Περιμένετε ένα δύο λεπτά και προσπαθήστε ξανά.</string>
     <string name="networking_allow_continue">Αποδοχή</string>
@@ -396,7 +403,7 @@
     <string name="networking_allow_title">Προσοχή</string>
     <string name="new_message">Σύνθεση</string>
     <string name="new_message_arrived">Έχετε ένα νέο μήνυμα</string>
-    <string name="new_phrase">Προσθήκη απάντησης</string>
+    <string name="new_phrase">Προσθέστε απάντηση</string>
     <string name="new_phrase_hint">Εισαγωγή νέας απάντησης</string>
     <string name="no">Ακύρωση</string>
     <string name="no_block_button_msg">Άρση αποκλεισμού</string>
@@ -422,6 +429,7 @@
     <string name="notification_multiple">[%s]</string>
     <string name="notification_multiple_title">Νέα μηνύματα</string>
     <string name="number_add_hint">Εισαγωγή αριθμού τηλεφώνου</string>
+    <string name="number_recognition_partner">Πάροχοι υπηρεσιών αναγνώρισης Ταυτότητας Αποστολέα</string>
     <string name="open_audio_record_panel">Ανοίξτε τον διάλογο για ηχογράφηση ήχου</string>
     <string name="open_edit_sms_panel">Ανοίξτε τον διάλογο για επεξεργασία μηνυμάτων</string>
     <string name="open_url_with_web">Άνοιγμα αυτής της URL στο φυλλομετρητή;</string>
@@ -429,7 +437,7 @@
     <string name="overwrite_edited_content">Το περιεχόμενο που επεξεργάστηκε θα αντικατασταθεί.</string>
     <string name="packages_select_sim_cards_title">Επιλογή κάρτας SIM</string>
     <string name="phrase_confirm_delete_message">Αυτή η απάντηση θα διαγραφεί.</string>
-    <string name="phrase_empty">Δεν υπάρχουν απαντήσεις</string>
+    <string name="phrase_empty">Καμία απάντηση</string>
     <string name="phrase_from">Από %1s</string>
     <string name="phrase_list_title">Γρήγορες απαντήσεις</string>
     <string name="pick_too_many_recipients">Πάρα πολλοί παραλήπτες</string>
@@ -661,6 +669,7 @@
     <string name="send_signature_confirm_dialog_title">Αποστολή μηνύματος</string>
     <string name="send_sms">Αποστολή μηνύματος</string>
     <string name="send_to">Προς:</string>
+    <string name="send_to_index_contact">%1$s/%2$s</string>
     <string name="sent_at_time">Έγινε αποστολή στις: %1s</string>
     <string name="sent_label">"Στάλθηκε: "</string>
     <string name="service_message_not_found">Το μήνυμα έληξε ή δεν είναι διαθέσιμο</string>
@@ -732,7 +741,7 @@
     <string name="storage_unavailable">Δεν υπάρχει διαθέσιμος χώρος</string>
     <string name="subject_hint">Θέμα</string>
     <string name="subject_label">"Θέμα: "</string>
-    <string name="subscribe">Subscribe</string>
+    <string name="subscribe">Εγγραφή</string>
     <string name="summary_pref_cm_smart_sms">Πρότυπα καρτών, αριθμοί υπηρεσιών SMS και άλλα.</string>
     <string name="switch_to_editor">Λειτουργία επεξεργασίας</string>
     <string name="switch_to_menu">Λειτουργία μενού</string>
@@ -759,6 +768,7 @@
     <string name="too_many_attachments">Όχι πάνω από %1$s συνημμένα. Μόνο το πρώτο %2$s θα προστεθεί.</string>
     <string name="too_many_recipients">Το μήνυμα έχει πάρα πολλούς παραλήπτες (%1$s). Δεν μπορείτε να έχετε πάνω από %2$s παραλήπτες.</string>
     <string name="too_many_unsent_mms">Αδυναμία αποστολής μηνύματος τώρα. Υπάρχουν πάρα πολλά μηνύματα πολυμέσων που δεν έχουν σταλεί.</string>
+    <string name="train_edit_destination">Προσθήκη</string>
     <string name="try_to_send">Δοκιμάστε αποστολή</string>
     <string name="type_attachment">συνημμένο</string>
     <string name="type_audio">ήχος</string>

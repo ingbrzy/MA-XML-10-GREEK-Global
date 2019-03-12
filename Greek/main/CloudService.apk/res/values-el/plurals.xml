@@ -56,12 +56,16 @@
         <item quantity="other">%d κρυφές φωτογραφίες δεν έχουν συγχρονιστεί. Αποσυνδεθείτε μόνο μετά τον συγχρονισμό όλων των αντικειμένων ώστε να τα διατηρήσετε; αλλιώς, τα αντικείμενα θα διαγραφούν.</item>
         <item quantity="one">%d κρυφή φωτογραφία δεν έχει συγχρονιστεί. Αποσυνδεθείτε μόνο μετά τον συγχρονισμό όλων των αντικειμένων ώστε να τα διατηρήσετε; αλλιώς, τα αντικείμενα θα διαγραφούν.</item>
     </plurals>
-    <plurals name="micloud_main_resume_sync_hour">
-        <item quantity="other">Συνέχεια συγχρονισμού μετά από %d ώρες</item>
-        <item quantity="one">Συνέχεια συγχρονισμού μετά από %d ώρα</item>
+    <plurals name="micloud_manual_pause_and_resume">
+        <item quantity="other">Ο συγχρονισμός σταμάτησε. Συνέχεια σε %d λεπτά…</item>
+        <item quantity="one">Ο συγχρονισμός σταμάτησε. Συνέχεια σε %d λεπτό…</item>
     </plurals>
-    <plurals name="micloud_main_resume_sync_min">
-        <item quantity="other">Συνέχεια συγχρονισμού μετά από %d λεπτά</item>
-        <item quantity="one">Συνέχεια συγχρονισμού μετά από %d λεπτό</item>
+    <plurals name="last_sync_time_mins_ago">
+        <item quantity="other">%s λεπτό πριν</item>
+        <item quantity="one">%s λεπτό πριν</item>
+    </plurals>
+    <plurals name="last_sync_time_hours_ago">
+        <item quantity="other">%s ώρες πριν</item>
+        <item quantity="one">%s ώρα πριν</item>
     </plurals>
 </resources>

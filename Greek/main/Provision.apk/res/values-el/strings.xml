@@ -30,6 +30,9 @@
     <string name="other_settings_auto_update_summary">Το MIUI θα επιλέξει την καλύτερη στιγμή για να εγκαταστήσει τις ενημερώσεις</string>
     <string name="other_settings_ad_enable">Εξατομικευμένες πρότασεις διαφημίσεων</string>
     <string name="other_settings_ad_enable_summary">Λάβετε εξατομικευμένες διαφημίσεις ανάλογα με τα δεδομένα συμπεριφοράς σας</string>
+    <string name="other_settings_enhanced_lockscreen">Ταπετσαρία Carousel</string>
+    <string name="other_settings_enhanced_lockscreen_summary">Λάβετε ημερήσιες φωτογραφίες και ιστορίες που έχουν παραδοθεί στην οθόνη κλειδώματος. Ισχύουν όροι και προϋποθέσεις.</string>
+    <string name="other_settings_enhanced_lockscreen_summary_index">Όροι και προϋποθέσεις</string>
     <string name="back">Πίσω</string>
     <string name="next">Επόμενο</string>
     <string name="skip_underline">Παράλειψη αυτού του βήματος</string>
@@ -52,6 +55,7 @@
     <string name="terms_of_use_lable_gms">, Υπηρεσίες Google Play</string>
     <string name="terms_of_use_label_systemhelper">, Υπηρεσία αυτοεξυπηρέτησης</string>
     <string name="terms_of_use_lable_smart_cards">, Έξυπνες κάρτες</string>
+    <string name="terms_of_use_lable_vsimcore">, MConnService</string>
     <string name="terms_of_use_lable_default_input_method_facemoji">"
 
 Πρέπει να αποδεχτείτε την Πολιτική Απορρήτου του Facemoji πριν χρησιμοποιήσετε αυτή τη λειτουργία."</string>
@@ -105,13 +109,14 @@
 1. Όταν η οθόνη είναι ενεργοποιημένη. 
 2. Όταν ακούτε μουσική με την οθόνη σας απενεργοποιημένη."</string>
     <string name="voice_assist_advice">Το Mi AI σάς επιτρέπει να χρησιμοποιείτε έλεγχο φωνής, αλλά καταναλώνει περισσότερη ισχύ (+1% κάθε ώρα).</string>
-    <string name="ai_button_title">Σχετικά με το κουμπί ΑΙ</string>
-    <string name="ai_button_desc">Χρησιμοποιήστε αυτό το κουμπί για να ενεργοποιήσετε το Mi AI και ολοκληρώστε τις εργασίες στο τηλέφωνό σας χρησιμοποιώντας τη φωνή σας</string>
+    <string name="ai_button_title">Κουμπί AI</string>
+    <string name="ai_button_desc">Αποκτήστε άμεση πρόσβαση στον έξυπνο φωνητικό σας βοηθό</string>
     <string name="ai_button_long_press">Πατήστε παρατεταμένα</string>
-    <string name="ai_button_long_press_desc">Πείτε την εντολή σας και ελευθερώστε το κουμπί</string>
+    <string name="ai_button_long_press_desc">Πατήστε παρατεταμένα το κουμπί AI για να μιλήσετε στον Mi AI</string>
     <string name="ai_button_single_press">Πάτημα</string>
-    <string name="ai_button_single_press_desc">Ενεργοποίηση Mi AI</string>
+    <string name="ai_button_single_press_desc">Πατήστε το κουμπί AI για προβολή συντομεύσεων του Mi AI</string>
     <string name="ai_button_double_press">Διπλό πάτημα</string>
-    <string name="ai_button_double_press_desc">Ρύθμιση λειτουργιών Mi AI</string>
-    <string name="zone_picker_title">Choose time zone</string>
+    <string name="ai_button_double_press_desc">Πατήστε διπλά το κουμπί AI για ολοκλήρωση προσαρμοσμένων εργασιών</string>
+    <string name="zone_picker_title">Επιλογή ζώνης ώρας</string>
+    <string name="locale_picker_other_locale_title">Περισσότερες περιοχές</string>
 </resources>

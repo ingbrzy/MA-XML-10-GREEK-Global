@@ -88,7 +88,7 @@
     <string name="pref_camera_flashmode_entry_torch">Φακός</string>
     <string name="pref_camera_front_bokeh_entry_on">Ενεργό</string>
     <string name="pref_camera_front_bokeh_entry_off">Ανενεργό</string>
-    <string name="pref_camera_whitebalance_title">ΜΑ</string>
+    <string name="pref_camera_whitebalance_title">WB</string>
     <string name="pref_camera_whitebalance_entry_auto">ΑYTOMATA</string>
     <string name="pref_camera_whitebalance_entry_incandescent">Πυρακτώμενο φως</string>
     <string name="pref_camera_whitebalance_entry_daylight">Φως ημέρας</string>
@@ -152,7 +152,7 @@
     <string name="portait_effect_entry_movie">Ταινία</string>
     <string name="portait_effect_entry_tea">Τσάι</string>
     <string name="portait_effect_entry_lilt">Lilt</string>
-    <string name="portait_effect_entry_sepia">Kαστανόχρους</string>
+    <string name="portait_effect_entry_sepia">Sepia</string>
     <string name="portait_effect_entry_dusk">Σούρουπο</string>
     <string name="color_effect_live_blue">Ορχιδέα</string>
     <string name="color_effect_live_contrast">Xpro</string>
@@ -161,7 +161,7 @@
     <string name="color_effect_live_hongkong">Bauhinia</string>
     <string name="color_effect_live_mousse">Μους</string>
     <string name="color_effect_live_solar">Μπλε Ουρανός</string>
-    <string name="color_effect_live_years">Kαστανόχρους</string>
+    <string name="color_effect_live_years">Sepia</string>
     <string name="color_effect_live_none">Κανονικό</string>
     <string name="pref_camera_touchafaec_entry_off">Απενεργοποίηση</string>
     <string name="pref_camera_touchafaec_entry_on">Ενεργοποίηση</string>
@@ -402,12 +402,12 @@
     <string name="pref_camera_delay_capture_entry_3s">3δ καθυστέρηση</string>
     <string name="pref_camera_delay_capture_entry_5s">5δ καθυστέρηση</string>
     <string name="pref_camera_delay_capture_entry_10s">10δ καθυστέρηση</string>
-    <string name="pref_ai_detect">AI ανίχνευση</string>
+    <string name="pref_ai_detect">Ανίχνευση AI</string>
     <string name="pref_google_lens">Google lens</string>
-    <string name="pref_camera_beauty">Ωραιοποίηση</string>
-    <string name="pref_camera_beauty_deep">Υψηλή ωραιοποίηση</string>
+    <string name="pref_camera_beauty">Beautify</string>
+    <string name="pref_camera_beauty_deep">Beautify Pro</string>
     <string name="pref_camera_asd_night_title">Ενίσχυση φωτογραφιών χαμηλού φωτισμού αυτόματα</string>
-    <string name="pref_camera_super_resolution_title">Ενεργοποίηση ΠΑΚ</string>
+    <string name="pref_camera_super_resolution_title">Ενεργοποίηση SR</string>
     <string name="simple_mode_button_text_scene">Απενεργοποίηση Λειτουργίας σκηνής</string>
     <string name="pref_camera_peak_title">Κορύφωση εστίασης</string>
     <string name="pref_camera_peak_entry_off">Απενεργοποίηση</string>
@@ -431,7 +431,7 @@
     <string name="pref_camera_magic_mirror_title">Μαγικός καθρέπτης</string>
     <string name="simple_mode_button_text_magic_mirror">Απενεργοποίηση Μαγικού Καθρέπτη</string>
     <string name="pano_how_to_use_prompt_align_reference_line">Eυθυγραμμίστε το βέλος στην σχετική ευθεία</string>
-    <string name="pano_how_to_use_prompt_slow_down">Επιβράδυνση…</string>
+    <string name="pano_how_to_use_prompt_slow_down">Επιβραδύνετε…</string>
     <string name="pref_camera_stereo_mode_title">Προσαρμογή εστίασης</string>
     <string name="simple_mode_button_text_stereo_mode">Απενεργοποίηση προσαρμογής εστίασης</string>
     <string name="dual_camera_too_close_toast">Η κάμερα βρίσκεται πολύ κοντά στο αντικείμενο.</string>
@@ -443,7 +443,7 @@
     <string name="pref_camera_zoom_ratio_wide">100</string>
     <string name="pref_camera_zoom_ratio_tele">200</string>
     <string name="pref_camera_zoom_mode_title">ΦΑΚΟΣ</string>
-    <string name="pref_camera_zoom_mode_entry_wide">ΠΛΑΤΟΣ</string>
+    <string name="pref_camera_zoom_mode_entry_wide">ΕΥΡΥΣ</string>
     <string name="pref_camera_zoom_mode_entry_tele">ΤΕΛΕ</string>
     <string name="pref_camera_zoom_mode_entry_standard">ΚΑΝΟΝΙΚΟ</string>
     <string name="pref_camera_zoom_mode_entry_high_pixel">ΧΑΜΗΛΟΣ ΦΩΤΙΣΜΟΣ</string>
@@ -452,11 +452,12 @@
     <string name="pref_camera_portrait_mode_entry_off">Κατακόρυφη λειτουργία ανενεργή</string>
     <string name="pref_camera_portrait_mode_entry_on">Κατακόρυφη λειτουργία ενεργή</string>
     <string name="portrait_mode_lowlight_hint">Είναι πολύ σκοτεινά τώρα</string>
-    <string name="portrait_mode_too_close_hint">Απομακρυνθείτε από το αντικείμενο</string>
-    <string name="portrait_mode_too_far_hint">Τοποθετήστε το αντικείμενο σε απόσταση 2 μέτρων</string>
+    <string name="portrait_mode_too_close_hint">Σταθείτε πιο μακριά</string>
+    <string name="portrait_mode_too_far_hint">Σταθείτε πιο κοντά</string>
     <string name="portrait_mode_depth_effect_success_hint">Εφέ βάθους</string>
-    <string name="portrait_mode_use_hint">"Η λειτουργία πορτρέτου θολώνει το παρασκήνιο
-και επικεντρώνεται στα άτομα μπροστά."</string>
+    <string name="portrait_mode_use_hint">"Λειτουργία πορτρέτου θολώνει το παρασκήνιο
+και εστιάζει στα άτομα μπροστά."</string>
+    <string name="portrait_mode_use_hint_with_switch">@string/portrait_mode_use_hint</string>
     <string name="portrait_mode_use_hint_for_bokeh">"Δοκιμάστε τη λειτουργία Πορτρέτου.
 Κρατήστε το αντικείμενο ευκρινές ενώ θολώνει το φόντο."</string>
     <string name="pref_camera_square_mode_title">Τετράγωνο</string>
@@ -473,6 +474,7 @@
     <string name="pref_camera_beautify_entry_low">Χαμηλή</string>
     <string name="pref_camera_beautify_entry_normal">Μεσσαία</string>
     <string name="pref_camera_beautify_entry_high">Υψηλή</string>
+    <string name="pref_camera_beautify_entry_close">@string/face_beauty_close</string>
     <string name="camera_mode_options">Λειτουργίες</string>
     <string name="button_front_camera_title">Δημιουργία selfie</string>
     <string name="button_normal_video_title">Εγγραφή Video</string>
@@ -511,10 +513,10 @@
     <string name="config_name_straighten">Ίσιωμα</string>
     <string name="config_name_hht">Λήψη νυκτός</string>
     <string name="config_name_group">Ομαδική selfie</string>
-    <string name="config_name_tilt">Αλλαγή κλίσης</string>
+    <string name="config_name_tilt">Tilt-shift</string>
     <string name="config_name_scene">Σκηνή</string>
     <string name="config_name_magic">Μαγεία</string>
-    <string name="config_name_super_resolution">Σούπερ ανάλυση</string>
+    <string name="config_name_super_resolution">Super resolution</string>
     <string name="beauty_fragment_tab_name_beauty">Ωραιοποίηση</string>
     <string name="beauty_fragment_tab_name_makeup">Σύνθετα</string>
     <string name="beauty_fragment_tab_name_3d_beauty">Ωραιοποίηση</string>
@@ -588,6 +590,7 @@
     <string name="lighting_pattern_leaf">Φύλλα</string>
     <string name="lighting_pattern_dot">Τελείες</string>
     <string name="lighting_pattern_shutter">Σκίαστρα</string>
+    <string name="lighting_pattern_holi">Holi</string>
     <string name="view_privacy_policy">Προβολή Πολιτικής Απορρήτου</string>
     <string name="fps960_toast">Η λήψη αργής κίνησης θα ξεκινήσει στο τελευταίο τέταρτο της εγγραφής</string>
     <string name="portrait_bokeh_text">Κατακόρυφη λειτουργία</string>
@@ -608,27 +611,27 @@
     <string name="live_speed_extreme_fast">Υπερβολικά γρήγορη</string>
     <string name="live_sticker_updating">Γίνεται ενημέρωση…</string>
     <string name="live_sticker_network_error_hint">Σφάλμα δικτύου</string>
-    <string name="ultra_wide_mode">Ευρεία γωνία</string>
+    <string name="ultra_wide_mode">Εξαιρετικά ευρεία γωνία</string>
     <string name="beauty_body">Φιγούρα</string>
     <string name="beauty_body_head">Κεφάλι</string>
     <string name="beauty_body_body">Λεπτό</string>
     <string name="beauty_body_shoulder">Ώμοι</string>
     <string name="beauty_body_legged">Πόδια</string>
     <string name="beauty_body_reset_tip">Επιτυχής επαναφορά των εφέ φιγούρας</string>
-    <string name="ultra_wide_open_tip">Λειτουργία ευρείας γωνίας</string>
-    <string name="ultra_wide_close_tip">Η λειτουργία ευρείας γωνίας είναι απενεργοποιημένη</string>
-    <string name="pref_camera_zoom_mode_entry_ultra">Ευρεία γωνία</string>
-    <string name="ultra_wide_recommend_tip_hint">Δοκιμάστε τη λειτουργία ευρείας γωνίας</string>
+    <string name="ultra_wide_open_tip">Λειτουργία εξαιρετικά ευρείας γωνίας</string>
+    <string name="ultra_wide_close_tip">Η Λειτουργία εξαιρετικά ευρείας γωνίας είναι απενεργοποιημένη</string>
+    <string name="pref_camera_zoom_mode_entry_ultra">ΕΞΑΙΡΕΤΙΚΑ ΕΥΡΕΙΑ</string>
+    <string name="ultra_wide_recommend_tip_hint">Δοκιμάστε τη Λειτουργία εξαιρετικά ευρείας γωνίας</string>
     <string name="camera_liveshot_on_tip">Δυναμικές λήψεις</string>
     <string name="camera_liveshot_off_tip">Απενεργοποίηση δυναμικής λήψης</string>
     <string name="accessibility_camera_liveshot_on">Ενεργοποίηση δυναμικών λήψεων</string>
     <string name="accessibility_camera_liveshot_off">Απενεργοποίηση δυναμικών λήψεων</string>
     <string name="beauty_tab_name_live_filter">Φίλτρα</string>
     <string name="beauty_tab_name_live_beauty">Ωραιοποίηση</string>
-    <string name="accessibility_ultra_wide_on">Ενεργοποίηση λειτουργίας ευρείας γωνίας</string>
-    <string name="accessibility_ultra_wide_off">Απενεργοποίηση λειτουργίας ευρείας γωνίας</string>
+    <string name="accessibility_ultra_wide_on">Έγινε ενεργοποίηση Λειτουργίας εξαιρετικά ευρείας γωνίας</string>
+    <string name="accessibility_ultra_wide_off">Έγινε απενεργοποίηση Λειτουργίας εξαιρετικά ευρείας γωνίας</string>
     <string name="ai_scene_top_tip">Λειτουργία σελήνης</string>
-    <string name="pref_camera_ultra_wide_ldc_title">Επιδιόρθωση παραμορφώσεων σε ευρείες λήψεις</string>
+    <string name="pref_camera_ultra_wide_ldc_title">Επιδιόρθωση παραμορφώσεων σε εξαιρετικά ευρείες λήψεις</string>
     <string name="pref_camera_ultra_wide_ldc_description">Αυτόματη διόρθωση παραμορφωμένων αντικειμένων</string>
     <string name="pref_camera_normal_wide_ldc_title">Διόρθωση παραμορφώσεων προσώπων στις ομαδικές φωτογραφίες</string>
     <string name="pref_camera_normal_wide_ldc_description">Διόρθωση παραμορφωμένων προσώπων των ανθρώπων που βρίσκονται κοντά στην άκρη του πλαισίου</string>
@@ -646,9 +649,9 @@
     <string name="live_edit_exit_confirm">Διακοπή</string>
     <string name="live_edit_share_title">Κοινοποίηση</string>
     <string name="beauty_reset_toast">Επιτυχής αφαίρεση αποτελεσμάτων Βελτιστοποίησης</string>
-    <string name="pref_camera_ultra_wide_mode_title">Λειτουργία ευρείας γωνίας</string>
+    <string name="pref_camera_ultra_wide_mode_title">Λειτουργία εξαιρετικά ευρείας γωνίας</string>
     <string name="ultra_wide_mode_use_hint_text">"Χρησιμοποιήστε αυτή τη λειτουργία για να συμπεριλάβετε μεγαλύτερο μέρος του τοπίου στη φωτογραφία σας.
-Η λειτουργία ευρείας γωνίας βοηθάει όταν δεν μπορείτε να μετακινηθείτε μακρύτερα από τη τοπίο."</string>
+Η Λειτουργία εξαιρετικά ευρείας γωνίας βοηθάει όταν δεν μπορείτε να μετακινηθείτε μακρύτερα από το τοπίο."</string>
     <string name="live_reverse_message">Διαγραφή αντικειμένου που φωτογραφήθηκε προηγουμένως;</string>
     <string name="live_reverse_confirm">Διαγραφή</string>
     <string name="live_error_title">Ο χρόνος συστήματος δεν είναι σωστός</string>
@@ -673,4 +676,10 @@
     <string name="accessibility_ultra_pixel_photography_32mp_on">Το 32MP είναι ενεργοποιημένο</string>
     <string name="accessibility_ultra_pixel_photography_32mp_off">Το 32MP είναι απενεργοποιημένο</string>
     <string name="zoom_no_support_tip_48M">Η μεγέθυνση δεν λειτουργεί στη λειτουργία 48MP</string>
+    <string name="hand_gesture_open_tip">Δείξτε την παλάμη σας στην κάμερα για να ξεκινήσει ο χρονοδιακόπτης</string>
+    <string name="hand_gesture_tip">Ενεργοποιητής παλάμης</string>
+    <string name="autozoom_landscape_hint">Λήψη σε οριζόντια λειτουργία για καλύτερο αποτέλεσμα</string>
+    <string name="super_night_toast">Κρατήστε σταθερά το τηλέφωνό σας όσο βγάζετε μια φωτογραφία</string>
+    <string name="capture_back_pressed_hint">Πατήστε ξανά για έξοδο</string>
+    <string name="video_ultra_clear_tip">4K UHD</string>
 </resources>

@@ -4,16 +4,16 @@
     <string name="error_filename_too_long">Το όνομα αρχείου είναι πολύ μακρύ.</string>
     <string name="power_config_select_apps_title">Εφαρμογές</string>
     <string name="power_config_event_delete">Διαγραφή</string>
-    <string name="hide_mode_desc"><font color="#000000">Όταν μια εφαρμογή τρέχει στο παρασκήνιο, οι δραστηριότητες της θα παρακολουθούνται για μείωση χρήσης της μπαταρίας. Αυτή η λειτουργία θα λαμβάνει και θα χρησιμοποιεί δεδομένα του χρήστη σχετικά με %s</font></string>
+    <string name="hide_mode_desc">Όταν μια εφαρμογή τρέχει στο παρασκήνιο, οι δραστηριότητές της θα παρακολουθούνται για μείωση χρήσης της μπαταρίας. Αυτή η λειτουργία θα λαμβάνει και θα χρησιμοποιεί δεδομένα του χρήστη σχετικά με %s</string>
     <string name="privacy">Πολιτική Απορρήτου</string>
     <string name="power_hide_mode_title">Μπαταρία &amp; απόδοση</string>
-    <string name="power_config_apps">Εξοικονόμηση μπαταρίας</string>
+    <string name="power_config_apps">Εφαρμογή εξοικονόμησης ενέργειας</string>
     <string name="app_list_title">Επιλογή εφαρμογών</string>
     <string name="power_hide_mode_app_list_summary">Εξοικονόμηση ενέργειας στο παρασκήνιο</string>
-    <string name="about_hide_mode">Σχετικά με Εξοικονόμηση μπαταρίας</string>
+    <string name="about_hide_mode">Σχετικά με Εφαρμογή εξοικονόμησης ενέργειας</string>
     <string name="show_system_app">Εμφάνιση εφαρμογών συστήματος</string>
     <string name="hide_system_app">Απόκρυψη εφαρμογών συστήματος</string>
-    <string name="about_extreme_mode">Ακραία λειτουργία</string>
+    <string name="about_extreme_mode">Ακραία εξοικονόμηση μπαταρίας</string>
     <string name="scenario_policies_title">Έξυπνα σενάρια</string>
     <string name="config_scenario_policies_title">Σενάρια</string>
     <string name="scenario_policies_summary">Εφαρμογή διαφορετικών τρόπων εξοικονόμησης ενέργειας για διαφορετικά σενάρια.</string>
@@ -22,7 +22,7 @@
     <string name="sleep_config_enhance_description_non_nfc">Όποτε το MIUI εντοπίζει πως κοιμάστε, θα κλείσει όλες τις εφαμοργές παρασκηνίου, θα περιορίσει το Bluetooth, GPS, δεδομένα κινητής και κατανάλωση Wi-Fi, και δεν θα ενεργοποιεί την οθόνη κατά τις ειδοποιήσεις.</string>
     <string name="nonui_mode_config_title">Λειτουργία χωρίς αλληλεπίδραση</string>
     <string name="nonui_mode_config_description">Να μην φωτίζεται η οθόνη για ειδοποιήσεις, απενεργοποίηση φωτισμού LED, αισθητήρα δακτυλικού αποτυπώματος, και ελέγχων αφής για να εξοικονομήσετε μπαταρία όταν το MIUI εντοπίζει πως δεν χρησιμοποιείτε την συσκευή σας.</string>
-    <string name="power_center">Εξοικονόμηση Μπαταρίας</string>
+    <string name="power_center">Βελτιστοποίηση μπαταρίας</string>
     <string name="power_usage">Χρήση μπαταρίας</string>
     <string name="power_mode">Ρυθμίσεις μπαταρίας</string>
     <string name="performance_category">Απόδοση</string>
@@ -36,8 +36,8 @@
     <string name="warm_performance_tip">Η συσκευή σας θα ζεσταθεί κατά την εκτέλεση περισσότερων διαδικασιών.</string>
     <string name="vip_feedback">Vip σχόλια</string>
     <string name="vip_feedback_enable">Ενεργοποίηση VIP σχολίων</string>
-    <string name="extreme_power_config_mode_category">Ακραία λειτουργία</string>
-    <string name="extreme_power_config_mode_title">Ακραία λειτουργία</string>
+    <string name="extreme_power_config_mode_category">Ακραία εξοικονόμηση μπαταρίας</string>
+    <string name="extreme_power_config_mode_title">Ακραία εξοικονόμηση μπαταρίας</string>
     <string name="extreme_power_config_mode_desc"><li>Η Ακραία εξοικονόμηση μπαταρίας σταματά όλες τις δραστηριότητες παρασκηνίου μιας εφαρμογής αφού φύγετε από αυτή και επιστρέψετε στην Αρχική οθόνη. Αυτή η εφαρμογή δεν θα σας στέλνει ειδοποιήσεις ή δεν θα λαμβάνετε ενημερώσεις.</li>"
 "<li>Εάν θέλετε μια εφαρμογή να τρέχει στο παρασκήνιο, κλειδώστε την στα Πρόσφατα, ή προσθέστε την στις εξαιρέσεις παρασκηνίου παρακάτω. Μέχρι 4 εφαρμογές μπορούν να τρέχουν στο παρασκήνιο όταν η Ακραία εξοικονόμηση μπαταρίας είναι ενεργή.</li>"
 "<li>Η Ακραία εξοικονόμηση μπαταρίας απενεργοποιεί στο NFC από προεπιλογή. Μπορείτε να το αλλάξετε στις Ρυθμίσεις.</li>"
@@ -94,7 +94,7 @@
     <string name="appconfig_active_app_dialog_title">Διαχείριση ενεργών εγαρμογών</string>
     <string name="config_classify">Ταξινόμηση με τις ρυθμίσεις εφαρμογής</string>
     <string name="active_classify">Ταξινόμηση με κατάσταση δραστηριότητας</string>
-    <string name="extreme_mode_max_item_alert">Μπορείτε να επιλέξετε έως και 4 εφαρμογές να τρέξουν στο παρασκήνιο κατά την Ακραία λειτουργία</string>
+    <string name="extreme_mode_max_item_alert">Μπορείτε να επιλέξετε έως και 4 εφαρμογές να τρέξουν στο παρασκήνιο όταν η Ακραία εξοικονόμηση ενέργειας είναι ενεργή</string>
     <string name="message_i_know">Κατανοητό</string>
     <string name="high_temp_state">Υπερθέρμανση</string>
     <string name="high_temp_state_message">Η συσκευή σας είναι σε υπερθέρμανση. Τα δεδομένα κινητής τηλεφωνίας, τα σημεία πρόσβασης Wi-Fi, το GPS και η κάμερα θα περιοριστούν.</string>
@@ -110,8 +110,4 @@
     <string name="extreme_add_white_list_summary">Προσθέστε μέχρι 4 εφαρμογές</string>
     <string name="adaptive_battery_title">Χρήση Προσαρμοστικής Μπαταρίας</string>
     <string name="adaptive_battery_summary">Μείωση κατανάλωσης μπαταρίας για εφαρμογές που δεν χρησιμοποιείτε συχνά</string>
-    <string name="dark_mode">Σκοτεινή λειτουργία</string>
-    <string name="dark_mode_summary">Μεταβείτε στη μαύρη παλέτα χρωμάτων για εξοικονόμηση μπαταρίας</string>
-    <string name="open_dark_mode">Εναλλαγή σε σκοτεινή λειτουργία</string>
-    <string name="open_dark_mode_tip">Η ποιότητα εμφάνισης ορισμένων λειτουργιών ενδέχεται να μειωθεί στη Σκοτεινή λειτουργία. Θα επανέλθει στο κανονικό επίπεδο όταν βγείτε από τη Σκοτεινή λειτουργία. Μετάβαση στη Σκοτεινή λειτουργία τώρα;</string>
 </resources>

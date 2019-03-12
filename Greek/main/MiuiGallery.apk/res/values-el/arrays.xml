@@ -1,8 +1,23 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <string-array name="activities_title">
+        <item>Ξεχωριστή μέρα</item>
+        <item>Αξιομνημόνευτη μέρα</item>
+        <item>Ζωντανές στιγμές</item>
+    </string-array>
     <string-array name="baby_sexy">
         <item>Αγόρι</item>
         <item>Κορίτσι</item>
+    </string-array>
+    <string-array name="last_weekend_title">
+        <item>Tα Σαββατοκύριακά μου</item>
+        <item>Στιγμιότυπα ζωής</item>
+        <item>Αναμνήσεις Σαββατοκύριακου</item>
+    </string-array>
+    <string-array name="menu_copy_or_move">
+        <item>Μετακίνηση</item>
+        <item>Αντιγραφή</item>
+        <item>@string/cancel</item>
     </string-array>
     <string-array name="month">
         <item>Ιανουάριος</item>
@@ -26,6 +41,11 @@
         <item>Παππούς από την μεριά της μητέρας</item>
         <item>Γιαγιά από την μεριά της μητέρας</item>
     </string-array>
+    <string-array name="parties_title">
+        <item>Μαζί</item>
+        <item>Καλές εποχές</item>
+        <item>Σε αρμονία</item>
+    </string-array>
     <string-array name="relation_with_me">
         <item>Εγώ</item>
         <item>Παιδί</item>
@@ -48,5 +68,9 @@
         <item>Γιαγιά από την μεριά του πατέρα</item>
         <item>Παππούς από την μεριά της μητέρας</item>
         <item>Γιαγιά από την μεριά της μητέρας</item>
+    </string-array>
+    <string-array name="sports_title">
+        <item>Κινείται προς τα εμπρός</item>
+        <item>Γεμάτο ενέργεια</item>
     </string-array>
 </resources>

@@ -13,6 +13,7 @@
     <string name="no_network_btn">Προσπαθήστε ξανά</string>
     <string name="main_toolbar_purchase">Ανανέωση χρόνου ομιλίας</string>
     <string name="usage_sorted_loading_text">Περιμένετε μια στιγμή…</string>
+    <string name="empty">" "</string>
     <string name="share">Κοινοποίηση</string>
     <string name="open_browser">Άνοιγμα στον φυλλομετρητή</string>
     <string name="title_share_link">Κοινοποίηση URL</string>
@@ -33,4 +34,5 @@
     <string name="gb_weixinpay_can_not_complete">Αδυναμία ολοκλήρωσης πληρωμής. Εγκαταστήστε για να συνεχίσετε.</string>
     <string name="gb_alipays_can_not_complete">Αδυναμία ολοκλήρωσης πληρωμής. Εγκαταστήστε για να συνεχίσετε.</string>
     <string name="xunyou_pay_webview">Xunyou υπηρεσίες</string>
+    <string name="gamebox_no_network_btn">Επαναφόρτωση</string>
 </resources>
