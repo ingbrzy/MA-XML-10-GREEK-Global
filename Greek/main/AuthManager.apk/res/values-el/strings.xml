@@ -7,12 +7,12 @@
     <string name="HIPS_Perm_SendSMS_Desc">απευθείας αποστολή μηνυμάτων SMS</string>
     <string name="HIPS_Perm_SendMMS">Αποστολή μηνυμάτων MMS</string>
     <string name="HIPS_Perm_SendMMS_Desc">απευθείας αποστολή μηνυμάτων πολυμέσων</string>
-    <string name="HIPS_Perm_Call">Πραγματοποιήσετε κλήσεις</string>
+    <string name="HIPS_Perm_Call">Πραγματοποίηση τηλεφωνικών κλήσεων</string>
     <string name="HIPS_Perm_Call_Desc">απευθείας κλήση τηλεφωνικών αριθμών</string>
     <string name="HIPS_Perm_Location">Απόκτηση πληροφοριών τοποθεσίας</string>
     <string name="HIPS_Perm_Location_Desc">απόκτηση ακριβής τοποθεσίας (Μέσω δικτύου και GPS)</string>
     <string name="HIPS_Perm_PhoneID">Απόκτηση πληροφοριών συσκευής</string>
-    <string name="HIPS_Perm_PhoneID_Desc">Πρόσβαση τηλεφωνικού αριθμού, IMEI και IMSI</string>
+    <string name="HIPS_Perm_PhoneID_Desc">Πρόσβαση σε τηλεφωνικό αριθμό, IMEI και IMSI</string>
     <string name="HIPS_Perm_Contact">Τροποποίηση και διαγραφή επαφών</string>
     <string name="HIPS_Perm_Contact_Desc">τροποποίηση και διαγραφή των επαφών σας</string>
     <string name="HIPS_Perm_CallLog">Εγγραφή και διαγραφή ιστορικού κλήσεων</string>
@@ -22,7 +22,7 @@
     <string name="HIPS_Perm_Settings">Τροποποίηση ρυθμίσεων συστήματος</string>
     <string name="HIPS_Perm_Settings_Desc">τροποποίηση ρυθμίσεων συστήματος</string>
     <string name="HIPS_Perm_VideoRecorder">Πρόσβαση στην κάμερα</string>
-    <string name="HIPS_Perm_VideoRecorder_Desc">πρόσβαση στην κάμερα για λήψη φωτογραφιών ή λήψη βίντεο</string>
+    <string name="HIPS_Perm_VideoRecorder_Desc">πρόσβαση στην κάμερα για λήψη φωτογραφιών ή βίντεο</string>
     <string name="HIPS_Perm_AudioRecorder">Εγγραφή ήχου</string>
     <string name="HIPS_Perm_AudioRecorder_Desc">εγγραφή ήχου και τηλεφωνικών κλήσεων</string>
     <string name="HIPS_Perm_WIFI_Connectivity">Αλλαγή σύνδεσης Wi-Fi</string>
@@ -64,7 +64,7 @@
     <string name="HIPS_Perm_process_outgoing_calls">Πρόσβαση εφαρμογής Τηλέφωνο</string>
     <string name="HIPS_Perm_process_outgoing_calls_Desc">απάντηση, παρακολούθηση και τερματισμός κλήσεων</string>
     <string name="HIPS_Perm_process_nfc">NFC</string>
-    <string name="HIPS_Perm_process_nfc_Desc">πρόσβαση υλικού πρόσβασης πεδίου επικοινωνίας (NFC)</string>
+    <string name="HIPS_Perm_process_nfc_Desc">πρόσβαση σε υλικό κοντινού πεδίου επικοινωνίας (NFC)</string>
     <string name="HIPS_Perm_install_shortcut">Συντομεύσεις Αρχικής οθόνης</string>
     <string name="HIPS_Perm_install_shortcut_Desc">προσθήκη συντομεύσεων στην Αρχική οθόνη</string>
     <string name="HIPS_Perm_read_notification_sms">Υπηρεσία SMS</string>
@@ -79,6 +79,8 @@
     <string name="HIPS_Perm_get_installed_apps_Desc">αποκτήστε πληροφοριες για εφαρμογές εγκατεστημένες σε αυτή την συσκευή</string>
     <string name="HIPS_Perm_service_foreground">Υπηρεσίες προσκηνίου</string>
     <string name="HIPS_Perm_service_foreground_Desc">υπηρεσίες προσκηνίου</string>
+    <string name="HIPS_Perm_UDevice_ID">Μοιραστείτε μέρη των πληροφοριών συσκευής με τους προγραμματιστές παιχνιδιών για να τους βοηθήσετε να βελτιώσουν την εμπειρία παιχνιδιού σας. Αποδοχή;</string>
+    <string name="HIPS_Perm_UDevice_ID_DESC">μοιραστεί μέρη των πληροφοριών συσκευής με τους προγραμματιστές παιχνιδιών για να τους βοηθήσετε να βελτιώσουν την εμπειρία παιχνιδιού σας. Αποδοχή;</string>
     <string name="permission_group_title_charges_related">Χρεώσεις</string>
     <string name="permission_group_title_privacy_related">Απόρρητο</string>
     <string name="permission_group_title_media_related">Πολυμέσα</string>

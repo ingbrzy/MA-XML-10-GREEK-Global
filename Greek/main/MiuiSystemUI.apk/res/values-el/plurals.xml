@@ -144,4 +144,8 @@
         <item quantity="other">Αίθριος</item>
         <item quantity="one">Αίθριος</item>
     </plurals>
+    <plurals name="wifi_tether_connected_summary">
+        <item quantity="other">%1$d συσκευές συνδέθηκαν</item>
+        <item quantity="one">%1$d συσκευή συνδέθηκε</item>
+    </plurals>
 </resources>

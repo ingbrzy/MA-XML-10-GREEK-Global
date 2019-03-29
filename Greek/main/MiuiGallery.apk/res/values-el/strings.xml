@@ -1,10 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="status_bar_notification_info_overflow">999+</string>
-    <string name="confirm_recommandation_face_is">&lt;Data> Σίγουρα αυτό είναι &lt;font color=#323232>&lt;b>%1$s&lt;/b>&lt;/font>? Αυτό το άτομο θα μετακινηθεί στο\"%2$s\" album. &lt;/Data></string>
-    <string name="confirm_recommandation_face_not">&lt;Data> Σίγουρα αυτό δεν είναι &lt;font color=#323232>&lt;b>%1$s&lt;/b>&lt;/font>? &lt;/Data></string>
-    <string name="confirm_recommandation_multiple_faces_are">&lt;Data> Σίγουρα αυτά είναι &lt;font color=#323232>&lt;b>%1$s&lt;/b>&lt;/font>? Αυτά τα άτομα θα μετακινηθούν στο \"%2$s\" album. &lt;/Data></string>
-    <string name="confirm_recommandation_multiple_faces_not">&lt;Data> Σίγουρα αυτά δεν είναι&lt;font color=#323232>&lt;b>%1$s&lt;/b>&lt;/font>; &lt;/Data></string>
     <string name="accept">Αποδοχή</string>
     <string name="accept_or_deny">%1$s κοινοποίησε το άλμπουμ %2$s με εσάς.</string>
     <string name="actionbar_overflow_item_desc">Περισσότερες επιλογές</string>
@@ -237,6 +232,9 @@
     <string name="cleaner_screen_shot_action">Εκκαθάριση</string>
     <string name="cleaner_screen_shot_description">Διαγραφή στιγμιότυπων οθόνης που δεν χρειάζεστε πλέον.</string>
     <string name="cleaner_screen_shot_title">Διαγραφή στιγμιότυπων οθόνης</string>
+    <string name="cleaner_similar_action">Διαγραφή τώρα</string>
+    <string name="cleaner_similar_description">Διαγραφή διπλότυπων φωτογραφιών</string>
+    <string name="cleaner_similar_title">Δημιουργία αντιγράφων φωτογραφίας</string>
     <string name="cleaner_slim_action">Έναρξη βελτιστοποίησης</string>
     <string name="cleaner_slim_description">Διατηρήστε βελτιστοποιημένες φωτογραφίες στην συσκευή σας. Τα αρχικά αρχεία θα αποθηκευτούν στο Mi Cloud.</string>
     <string name="cleaner_slim_start">Βελτιστοποίηση</string>
@@ -244,6 +242,10 @@
     <string name="cleaner_space_description">μπορούν να ελευθερωθούν</string>
     <string name="cleaner_space_detail_description">Εκκαθάριση φωτογραφιών στην Συλλογή σας για να ελευθερώστε χώρο αποθήκευσης</string>
     <string name="cleaner_stop_scan">Διακοπή σάρωσης</string>
+    <string name="cleaner_video_action">Διαγραφή τώρα</string>
+    <string name="cleaner_video_description">Διαγραφή βίντεο που καταλαμβάνουν αποθηκευτικό χώρο</string>
+    <string name="cleaner_video_pick_delete_selected">Διαγραφή επιλεγμένων βίντεο</string>
+    <string name="cleaner_video_title">Διαγραφή βίντεο</string>
     <string name="click_download_gif">Αγγίξτε για λήψη GIF</string>
     <string name="click_top_right">Πατήστε αυτό το εικονίδιο</string>
     <string name="close">Κλείσιμο</string>
@@ -306,6 +308,10 @@
     <string name="confirm_merge_face_albums">&lt;Data> Συγχώνευση του άλμπουμ με %s? &lt;/Data></string>
     <string name="confirm_merge_many_face_albums">&lt;Data> Συγχώνευση των άλμπουμ με %s? &lt;/Data></string>
     <string name="confirm_not_face">Καμία αντιστοίχιση</string>
+    <string name="confirm_recommandation_face_is">&lt;Data> Σίγουρα αυτό είναι &lt;font color=#323232>&lt;b>%1$s&lt;/b>&lt;/font>? Αυτό το άτομο θα μετακινηθεί στο\"%2$s\" album. &lt;/Data></string>
+    <string name="confirm_recommandation_face_not">&lt;Data> Σίγουρα αυτό δεν είναι &lt;font color=#323232>&lt;b>%1$s&lt;/b>&lt;/font>? &lt;/Data></string>
+    <string name="confirm_recommandation_multiple_faces_are">&lt;Data> Σίγουρα αυτά είναι &lt;font color=#323232>&lt;b>%1$s&lt;/b>&lt;/font>? Αυτά τα άτομα θα μετακινηθούν στο \"%2$s\" album. &lt;/Data></string>
+    <string name="confirm_recommandation_multiple_faces_not">&lt;Data> Σίγουρα αυτά δεν είναι&lt;font color=#323232>&lt;b>%1$s&lt;/b>&lt;/font>; &lt;/Data></string>
     <string name="contact_tip">Επαφή</string>
     <string name="context_menu_add_contact">Προσθήκη στις επαφές</string>
     <string name="context_menu_copy">Αντιγραφή</string>
@@ -476,7 +482,7 @@
     <string name="ext_sdcard_permission_request_title">Να επιτρέπεται στη Συλλογή η πρόσβαση στην κάρτα SD</string>
     <string name="ext_sdcard_request_failed_button_text">ΟΚ</string>
     <string name="ext_sdcard_request_succeed_toast_text">Είστε έτοιμοι!</string>
-    <string name="face_album_empty">"Δεν υπάρχουν αρκετές φωτογραφίες για αναγνώριση προσώπων.
+    <string name="face_album_empty">"Δεν υπάρχουν αρκετές φωτογραφίες για αναγνώριση προσώπων.r
 Κάντε λήψη περισσότερων φωτογραφιών!"</string>
     <string name="face_album_empty_syncing">Γίνεται συγχρονισμός δεδομένων, επανέλθετε αργότερα</string>
     <string name="face_album_empty_syncing_when_connect_wifi">Σύνδεση στο δίκτυο για συγχρονισμό πληροφοριών</string>
@@ -493,6 +499,7 @@
     <string name="face_name_edit">Επεξεργασία</string>
     <string name="face_name_input">Εισαγωγή ονόματος</string>
     <string name="face_recommend">Προτάσεις</string>
+    <string name="face_recommend_group_number">%1$d/%2$d</string>
     <string name="fail_hint">Αδυναμία ολοκλήρωσης λειτουργίας</string>
     <string name="fail_to_pick_email">Μη έγκυρη διεύθυνση email</string>
     <string name="fail_to_sync_album">Αδυναμία συγχρονισμού άλμπουμ. Ελέγξτε την σύνδεση δεδομένων σας και προσπαθήστε ξανά.</string>
@@ -503,6 +510,7 @@
     <string name="feature_guidance_photo_effects">"Νέα εφέ
  φωτογραφίας διαθέσιμα"</string>
     <string name="feature_guidance_video_editor_smart_effects">Νέα εφέ διαθέσιμα</string>
+    <string name="fileSizeSuffix">%1$s%2$s</string>
     <string name="filter_bi_bw">Μ&amp;Α</string>
     <string name="filter_bi_dusk">Σούρουπο</string>
     <string name="filter_bi_lilt">Lilt</string>
@@ -576,6 +584,7 @@
     <string name="gif_tip">GIF</string>
     <string name="gigabyteShort">GB</string>
     <string name="grant_permission_go_and_set">Ρύθμιση</string>
+    <string name="grant_permission_item">\"%s\"</string>
     <string name="grant_permission_text">"Η Συλλογή απαιτεί πρόσβαση σε 
 %s
  για κανονική λειτουργία, πατήστε \"Ρύθμιση\" για να μεταβείτε στις Άδειες."</string>
@@ -829,6 +838,7 @@
     <string name="people_mark_mode_title_no_mark_name">Επιλέξτε ένα άτομο</string>
     <string name="people_page_label">Άτομα</string>
     <string name="people_page_unname">Χωρίς όνομα</string>
+    <string name="percent_sign">%</string>
     <string name="permissin_contract_desc">Για την ονομασία ατόμων στις φωτογραφίες</string>
     <string name="permission_contract_name">Επαφές</string>
     <string name="permission_optional_category">Προαιρετικές άδειες</string>
@@ -1021,6 +1031,16 @@
     <string name="scan_barcode_guide">Για την απόκτηση QR κωδικού του άλμπουμ, πατήστε το εικονίδιο Κοινοποίηση.</string>
     <string name="scan_barcode_to_join">Σάρωση QR κωδικού για προσθήκη στο άλμπουμ</string>
     <string name="scan_qr_code_buttom_text">Σάρωση QR κωδικού για προβολή του άλμπουμ</string>
+    <string name="screen_doodle_talkback_size">Πλάτος γραμμής doodle</string>
+    <string name="screen_editor_crop">@string/photo_editor_long_crop</string>
+    <string name="screen_editor_doodle">@string/photo_editor_doodle</string>
+    <string name="screen_editor_finish">Ολοκλήρωση</string>
+    <string name="screen_editor_mosaic">@string/photo_editor_mosaic</string>
+    <string name="screen_editor_send">@string/operation_send</string>
+    <string name="screen_editor_text">@string/photo_editor_text</string>
+    <string name="screen_save_dialog_btn_cancel">Ακύρωση</string>
+    <string name="screen_save_dialog_btn_delete">Διαγραφή στιγμιοτύπου οθόνης</string>
+    <string name="screen_save_dialog_btn_save">Αποθήκευση σε Συλλογή</string>
     <string name="search_backup_full_screen">Ενεργοποιήστε τον συγχρονισμό με Mi Cloud για να βρείτε περισσότερα αντικείμενα και άτομα</string>
     <string name="search_backup_now">Ενεργοποίηση</string>
     <string name="search_backup_sub_title">Ενεργοποίηση για να βρείτε περισσότερες εικόνες</string>
@@ -1075,6 +1095,9 @@
     <string name="search_title_recommend">Προτεινόμενα</string>
     <string name="search_title_suggestion">Προτάσεις</string>
     <string name="search_title_tag">Αντικείμενα</string>
+    <string name="search_transition_element_icon">search_icon</string>
+    <string name="search_transition_element_input">search_input</string>
+    <string name="search_transition_element_voice">search_voice</string>
     <string name="searching_cast_devices">Αναζήτηση για προβολέα…</string>
     <string name="secret_album_card_description">Το καλύτερο μέρος για όλα τα μυστικά σας</string>
     <string name="secret_album_card_title">Δοκιμάστε τα κρυφά άλμπουμ</string>
@@ -1131,6 +1154,7 @@
     <string name="show_hidden_album_title">Εμφάνιση κρυφών άλμπουμ</string>
     <string name="show_in_other_albums_disable_toast_long_press_menu">Επιτυχής μετακίνηση, μεταβείτε στα Άλλα άλμπουμ για προβολή</string>
     <string name="show_in_other_albums_enable_toast_long_press_menu">Επιτυχής μετακίνηση, μεταβείτε στα Άλμπουμ για προβολή</string>
+    <string name="similar_keep_clear">Κρατήστε τις καλύτερες λήψεις</string>
     <string name="slideshow_interval_dialog_title">Εισαγωγή διαστήματος</string>
     <string name="slideshow_interval_invalid">Το διάστημα πρέπει να είναι μεταξύ 3 και 3600 δευτερολέπτων</string>
     <string name="slideshow_interval_title">Εμφάνιση κάθε διαφάνειας για</string>
@@ -1151,6 +1175,7 @@
     <string name="slim_stop">Διακοπή βελτιστοποίησης</string>
     <string name="start_debug">Εντοπισμός σφαλμάτων για Συλλογή</string>
     <string name="start_to_use_face_albumset">Ταξινόμηση ανά άτομα</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
     <string name="sticker_ad">Φυλλάδια</string>
     <string name="sticker_baibai">Φυτά</string>
     <string name="sticker_beard">Κουρείο</string>
@@ -1167,6 +1192,10 @@
     <string name="sticker_spring">Άνοιξη</string>
     <string name="sticker_summer">Καλοκαίρι</string>
     <string name="sticker_words">Λέξεις</string>
+    <string name="storage_description_primary">Εσωτερικός χώρος αποθήκευσης</string>
+    <string name="storage_description_sdcard">Κάρτα SD</string>
+    <string name="storage_description_usb">Χώρος αποθήκευσης USB</string>
+    <string name="storage_description_xspace">Δεδομένα διπλότυπων εφαρμογών</string>
     <string name="storage_no_space">Μη επαρκής χώρος αποθήκευσης</string>
     <string name="story_back_stop_download">Πατήστε ξανά για διακοπή λήψης</string>
     <string name="story_cancel_download">Ακύρωση</string>
@@ -1229,6 +1258,7 @@
     <string name="to_enable_sync_dialog_message">Ενεργοποιήστε τον συγχρονισμό πρώτα</string>
     <string name="to_enable_sync_dialog_positive_button_text">Μετάβαση στις Ρυθμίσεις</string>
     <string name="to_enable_sync_dialog_title">Συγχρονισμός</string>
+    <string name="today">Σήμερα</string>
     <string name="too_many_recipients">Αδυναμία προσθήκης παραπάνω από %2$s παραλήπτες(Έχετε ήδη προσθέσει %1$s).</string>
     <string name="trash_bin">Κάδος σκουπιδιών</string>
     <string name="trash_bin_summary">Αναζήτηση φωτογραφιών με αντίγραφα ασφαλείας που διαγράφηκαν πρόσφατα</string>
@@ -1365,64 +1395,6 @@
     <string name="who_is_this">Ποιος είναι;</string>
     <string name="xiaomi_account_not_exists_toast">Ο Mi Λογαριασμός δεν υπάρχει</string>
     <string name="yes">Ναι</string>
+    <string name="yesterday">Χθες</string>
     <string name="you_are">Ποια είναι η σχέση σας με το μωρό</string>
-    <string name="cleaner_similar_action">Διαγραφή τώρα</string>
-    <string name="cleaner_similar_description">Διαγραφή διπλότυπων φωτογραφιών</string>
-    <string name="cleaner_similar_title">Δημιουργία αντιγράφων φωτογραφίας</string>
-    <string name="cleaner_video_action">Διαγραφή τώρα</string>
-    <string name="cleaner_video_description">Διαγραφή βίντεο που καταλαμβάνουν αποθηκευτικό χώρο</string>
-    <string name="cleaner_video_pick_delete_selected">Διαγραφή επιλεγμένων βίντεο</string>
-    <string name="cleaner_video_title">Διαγραφή βίντεο</string>
-    <string name="photomovie_audio_custom">Τοπικά</string>
-    <string name="photomovie_audio_default">Μνήμη</string>
-    <string name="photomovie_audio_kawaii">Ρομαντικό</string>
-    <string name="photomovie_audio_light">Μπαλάντα</string>
-    <string name="photomovie_audio_linear">Ροκ</string>
-    <string name="photomovie_audio_none">Χωρίς</string>
-    <string name="photomovie_audio_soft">Γιουκαλίλι</string>
-    <string name="photomovie_audio_sport">Τέκνο</string>
-    <string name="photomovie_cancel_download">Ακύρωση</string>
-    <string name="photomovie_delete_disable">Χρειάζεστε τρεις τουλάχιστον φωτογραφίες για δημιουργία κλιπ.</string>
-    <string name="photomovie_download">Λήψη</string>
-    <string name="photomovie_download_failed">Αδυναμία λήψης</string>
-    <string name="photomovie_download_failed_for_notwork">Αδυναμία λήψης. Συνδεθείτε στο δίκτυο και προσπαθήστε ξανά.</string>
-    <string name="photomovie_download_without_wifi_msg">Θα αυξηθεί η χρήση δεδομένων σας, εάν χρησιμοποιήσετε δεδομένα κινητής τηλεφωνίας για την λήψη αρχείων. Εάν ξεπεράσετε το όριο του πλάνου δεδομένων σας, ενδέχεται να χρεωθείτε επιπλέον από τον πάροχό σας.</string>
-    <string name="photomovie_download_without_wifi_title">Προειδοποίηση κατανάλωσης δεδομένων</string>
-    <string name="photomovie_exit_cancel">Ακύρωση</string>
-    <string name="photomovie_exit_confirm">Έξοδος</string>
-    <string name="photomovie_exit_content">"Θα χαθούν όλες οι αλλαγές. Έξοδος παρ' όλα αυτά;"</string>
-    <string name="photomovie_exit_title">Έξοδος</string>
-    <string name="photomovie_item_name">Κλιπ</string>
-    <string name="photomovie_return">Πίσω</string>
-    <string name="photomovie_save">Αποθήκευση</string>
-    <string name="photomovie_save_failed">Αδυναμία αποθήκευσης</string>
-    <string name="photomovie_save_successfully">Επιτυχής αποθήκευση</string>
-    <string name="photomovie_saving">Γίνεται δημιουργία κλιπ…</string>
-    <string name="photomovie_tab_edit">Επεξεργασία</string>
-    <string name="photomovie_tab_music">Μουσική</string>
-    <string name="photomovie_tab_template">Πρότυπο</string>
-    <string name="photomovie_template_default">Αργό</string>
-    <string name="photomovie_template_kawaii">Charms</string>
-    <string name="photomovie_template_light">Αεράκι</string>
-    <string name="photomovie_template_linear">Εκδρομή</string>
-    <string name="photomovie_template_soft">Νεολαία</string>
-    <string name="photomovie_template_sport">Ενέργεια</string>
-    <string name="refocus_discard_confirm_message">Αποθήκευση αλλαγών;</string>
-    <string name="refocus_discard_negative_btn">Διαγραφή</string>
-    <string name="refocus_discard_positive_btn">Αποθήκευση</string>
-    <string name="refocus_photo_not_support">Αδυναμία εφαρμογής θολότητας στην φωτογραφία αυτή</string>
-    <string name="refocus_save_cancel">Ακύρωση</string>
-    <string name="refocus_save_title">Επιλογή μορφής</string>
-    <string name="refocus_save_to_photo">Αποθήκευση ως εικόνα</string>
-    <string name="refocus_save_to_video">Αποθήκευση ως βίντεο</string>
-    <string name="refocus_saving">Γίνεται αποθήκευση…</string>
-    <string name="refocus_title">Θολό</string>
-    <string name="refocus_type_static">Επίπεδο θολότητας</string>
-    <string name="refocus_type_video">Ίχνη φωτός</string>
-    <string name="screen_doodle_talkback_size">Πλάτος γραμμής doodle</string>
-    <string name="screen_editor_finish">Ολοκλήρωση</string>
-    <string name="screen_save_dialog_btn_cancel">Ακύρωση</string>
-    <string name="screen_save_dialog_btn_delete">Διαγραφή στιγμιοτύπου οθόνης</string>
-    <string name="screen_save_dialog_btn_save">Αποθήκευση σε Συλλογή</string>
-    <string name="similar_keep_clear">Κρατήστε τις καλύτερες λήψεις</string>
 </resources>

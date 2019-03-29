@@ -8,6 +8,14 @@
         <item quantity="other">Η επιλεγμένη ενέργεια δεν είναι διαθέσιμη κατά τη διάρκεια της λειτουργίας Έκτακτης Επανάκλησης. Το τηλέφωνο θα παραμείνει σε αυτήν τη λειτουργία για %s λεπτά. Έξοδος τώρα;</item>
         <item quantity="one">Η επιλεγμένη ενέργεια δεν είναι διαθέσιμη κατά τη διάρκεια της λειτουργίας Έκτακτης Επανάκλησης. Το τηλέφωνο θα παραμείνει σε αυτήν τη λειτουργία για %s λεπτό. Έξοδος τώρα;</item>
     </plurals>
+    <plurals name="auto_answer_summary_delay">
+        <item quantity="other">καθυστέρηση: %s δευτερόλεπτα</item>
+        <item quantity="one">καθυστέρηση: %s δευτερόλεπτο</item>
+    </plurals>
+    <plurals name="call_record_add_white_list_over_reminder">
+        <item quantity="other">Μπορείτε να προσθέστε μέχρι και %s άτομα, επιλέξτε ξανά.</item>
+        <item quantity="one">Μπορείτε να προσθέστε μέχρι και %s άτομο, επιλέξτε ξανά.</item>
+    </plurals>
     <plurals name="call_record_auto_whitelist_summary">
         <item quantity="other">%d αριθμοί</item>
         <item quantity="one">%d αριθμός</item>
@@ -16,18 +24,14 @@
         <item quantity="other">%d αριθμοί διαγράφηκαν.</item>
         <item quantity="one">%d αριθμός διαγράφηκε.</item>
     </plurals>
-    <plurals name="call_record_add_white_list_over_reminder">
-        <item quantity="other">Μπορείτε να προσθέστε μέχρι και %s άτομα, επιλέξτε ξανά.</item>
-        <item quantity="one">Μπορείτε να προσθέστε μέχρι και %s άτομο, επιλέξτε ξανά.</item>
-    </plurals>
-    <plurals name="auto_answer_summary_delay">
-        <item quantity="other">καθυστέρηση: %s δευτερόλεπτα</item>
-        <item quantity="one">καθυστέρηση: %s δευτερόλεπτο</item>
-    </plurals>
     <plurals name="pin_attempts">
         <item quantity="other">"
 %d προσπάθειες απομένουν."</item>
         <item quantity="one">"
 %d προσπάθεια απομένει."</item>
+    </plurals>
+    <plurals name="wifi_tether_connected_summary">
+        <item quantity="other">%1$d συσκευές συνδέθηκαν</item>
+        <item quantity="one">%1$d συσκευή συνδέθηκε</item>
     </plurals>
 </resources>

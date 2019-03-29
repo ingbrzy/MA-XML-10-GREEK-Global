@@ -13,7 +13,7 @@
         <item quantity="one">%d μήνυμα δεν συγχρονίστηκε</item>
     </plurals>
     <plurals name="confirm_delete_conversation">
-        <item quantity="other">Διαγραφή των επιλεγμένων &lt;g example="15" id="number">%1$s&lt;/g> συνομιλιών;</item>
+        <item quantity="other">Διαγραφή των επιλεγμένων %1$s συνομιλιών;</item>
         <item quantity="one">Διαγραφή της συνομιλίας;</item>
     </plurals>
     <plurals name="custom_select_title_items_selected">
@@ -39,6 +39,10 @@
     <plurals name="message_count">
         <item quantity="other">%1$s μηνύματα</item>
         <item quantity="one">%1$s μήνυμα</item>
+    </plurals>
+    <plurals name="rcs_group_notification_invitation_receive">
+        <item quantity="other">Έχετε λάβει %d προσκλήσεις για ομαδικές συνομιλίες</item>
+        <item quantity="one">Έχετε λάβει %d πρόσκληση για ομαδική συνομιλία</item>
     </plurals>
     <plurals name="recipient_count">
         <item quantity="other">%1$s άτομα</item>

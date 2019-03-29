@@ -27,8 +27,8 @@
     <string name="stk_dialog_reject">ΝΟ</string>
     <string name="no_sim_card_inserted">Εισαγάγετε SIM για εκκίνηση της εργαλειοθήκης SIM.</string>
     <string name="stk_channel_name">Μηνύματα υπηρεσίας κινητής τηλεφωνίας</string>
-    <string name="stk_intent_permission">Απαιτούνται άδειες</string>
     <string name="sim_type_sim_name">Εργαλειοθήκη SIM</string>
     <string name="sim_type_usim_name">Εργαλειοθήκη USIM</string>
     <string name="sim_type_uim_name">Εργαλειοθήκη UIM</string>
+    <string name="stk_intent_permission">Απαιτούνται άδειες</string>
 </resources>

@@ -176,6 +176,10 @@
         <item quantity="other">Θα δημιουργηθούν αντίγραφα ασφαλείας για %1$d βίντεο</item>
         <item quantity="one">Θα δημιουργηθεί αντίγραφο ασφαλείας για 1 βίντεο</item>
     </plurals>
+    <plurals name="photo_count_format">
+        <item quantity="other">Συνολικά %1$d αντικείμενα</item>
+        <item quantity="one">Συνολικά %1$d αντικείμενο</item>
+    </plurals>
     <plurals name="picker_all_image_need_download">
         <item quantity="other">Οι επιλεγμένες φωτογραφίες δεν είναι στην συσκευή. Λήψη με χρήση δεδομένων κινητής τηλεφωνίας;</item>
         <item quantity="one">Η επιλεγμένη φωτογραφία δεν είναι στην συσκευή. Λήψη με χρήση δεδομένων κινητής τηλεφωνίας;</item>
@@ -267,10 +271,6 @@
     <plurals name="sync_total_count">
         <item quantity="other">%d αντικείμενα</item>
         <item quantity="one">%d αντικείμενο</item>
-    </plurals>
-    <plurals name="photo_count_format">
-        <item quantity="other">Συνολικά %1$d αντικείμενα</item>
-        <item quantity="one">Συνολικά %1$d αντικείμενο</item>
     </plurals>
     <plurals name="video_count_format">
         <item quantity="other">%1$d αρχεία</item>

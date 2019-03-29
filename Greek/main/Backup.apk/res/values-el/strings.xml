@@ -6,6 +6,9 @@
     <string name="xiaomi_update_dialog_message_diff">"Γίνεται εισαγωγή έκδοσης %1$s
 Μέγεθος ενημέρωσης Delta: %2$s"</string>
     <string name="xiaomi_external_storage_unavailable">Ο χώρος αποθήκευσης δεν είναι διαθέσιμος, ελέγξτε την κάρτα SD σας.</string>
+    <string name="xiaomi_bytes_unit">%1$sB</string>
+    <string name="xiaomi_kilobytes_unit">%1$sKB</string>
+    <string name="xiaomi_megabytes_unit">%1$sMB</string>
     <string name="xiaomi_connect_download_manager_fail">Αδυναμία εκκίνησης λήψης. Βεβαιωθείτε πως η Διαχείριση λήψεων λειτουργεί κανονικά.</string>
     <string name="app_name">Αντίγραφα ασφαλείας</string>
     <string name="local_app_name">Αντίγραφα ασφαλείας</string>
@@ -43,7 +46,7 @@
     <string name="restore_progress">Γίνεται επαναφορά…</string>
     <string name="restore_contacts_hit">Μπορεί να απαιτείται σύνδεση ξανά για την προβολή δεδομένων επαναφοράς.</string>
     <string name="restore_telephony_hit">Η επαναφορά θα επανεκκινήσει την εφαρμογή Τηλέφωνο.</string>
-    <string name="restore_launcher_layout_hit">Επαναφορά ρυθμίσεων launcher</string>
+    <string name="restore_launcher_layout_hit">Επαναφορά ρυθμίσεων εκκινητή</string>
     <string name="settings_summary">Ρυθμίσεις μηνυμάτων και τηλεφώνου</string>
     <string name="camera_summary">Ρυθμίσεις Κάμερας (δεν περιλαμβάνονται φωτογραφίες)</string>
     <string name="account_summary">Δημιουργία αντίγραφων ασφαλείας για Google Account, Mi Λογαριασμό, και άλλα δεδομένα χρήστη</string>
@@ -225,6 +228,7 @@
     <string name="restore_backup">Επαναφορά</string>
     <string name="enable_encrypt_description">Κρυπτογράφηση</string>
     <string name="disable_encrypt_description">Μη κρυπτογραφημένο</string>
+    <string name="digit_percent">%</string>
     <string name="state_waiting">Περιμένετε μια στιγμή…</string>
     <string name="state_mounting">Γίνεται πρόσβαση στον χώρο αποθήκευσης του router…</string>
     <string name="abort_backup_confirm">Η δημιουργία αντίγραφου ασφαλείας δεν ολοκληρώθηκε. Διακοπή οπωσδήποτε;</string>
@@ -293,7 +297,7 @@
 Κρατήστε τις συσκευές την μία κοντά στην άλλη."</string>
     <string name="trans_receiver_time_remained">"%s απομένουν.
 Μην απενεργοποιήστε το σημείο πρόσβασης Wi-Fi.
-Διατηρήστε τις συσκευές την μία κοντά στην άλλη."</string>
+Κρατήστε τις συσκευές την μία κοντά στην άλλη."</string>
     <string name="trans_time_spent">Χρόνος που χρειάστηκε: %s</string>
     <string name="trans_restoring_no_items">Γίνεται λήψη πληροφοριών…</string>
     <string name="trans_detail_category_sysdata">Δεδομένα συστήματος (όπως μηνύματα, επαφές, και ιστορικό κλήσεων)</string>
@@ -308,7 +312,9 @@
     <string name="trans_detail_app_data_useless_tip">Μπορείτε να τα επαναφέρετε από την εφαρμογή, δεν χρειάζεται να τα μεταφέρετε.</string>
     <string name="trans_detail_item_app_data_too_large_tip">Φαίνεται πως το αντικείμενο είναι πολύ μεγάλο για μεταφορά.</string>
     <string name="trans_detail_item_app_data_selected_tip">Επιλέχτηκαν αντίστοιχες εφαρμογές επίσης.</string>
-    <string name="trans_detail_list_footer">Σημείωση: Μπορείτε να επιλέξτε να μεταφέρετε εφαρμογές ξεχωριστά. Όμως, εάν επιλέξτε δεδομένα εφαρμογών, οι αντίστοιχες εφαρμογές θα μεταφερθούν επίσης.</string>
+    <string name="trans_detail_list_footer">"1. Μπορείτε να επιλέξετε ατομικές εφαρμογές τις οποίες θέλετε να μεταφέρετε.
+2. Εάν επιλέξετε δεδομένα εφαρμογών, οι σχετικές εφαρμογές θα επιλεχθούν επίσης.
+3. Τα δεδομένα εφαρμογών του WeChat και του QQ ίσως δεν μεταφερθούν λόγω ζητημάτων συμβατότητας. Μπορείτε να δοκιμάσετε λειτουργίες μεταφοράς εντός της εφαρμογής."</string>
     <string name="trans_detail_page_tip">Όσο περισσότερα αντικείμενα επιλέξετε τόσο περισσότερο θα διαρκέσει η μεταφορά.</string>
     <string name="trans_detail_sys_data_list_title">Εφαρμογές συστήματος</string>
     <string name="trans_detail_app_data_list_title">Δεδομένα εφαρμογής</string>
@@ -368,8 +374,9 @@
     <string name="trans_wait_trans_data">"Έγινε σύνδεση στην παλιά συσκευή.
 Αναμονή για μεταφορά…"</string>
     <string name="trans_select_data">Επιλογή αντικειμένων για αποστολή</string>
-    <string name="trans_select_data_tips">"Επιλογή αντικειμένων για μεταφορά
-Παρόμοια αρχεία στην νέα συσκευή θα αντικατασταθούν"</string>
+    <string name="trans_select_data_tips">"Επιλέχθηκαν αντικείμενα για μεταφορά.
+Παρόμοια αντικείμενα στην καινούρια συσκευή θα αντικατασταθούν.
+(Το μέγεθος των μεταφερθέντων αντικειμένων που βλέπετε τώρα είναι μία κατά προσέγγιση εκτίμηση.)"</string>
     <string name="trans_select_data_no_space">"Δεν υπάρχει επαρκής χώρος αποθήκευσης στην νέα συσκευή (%s διαθέσιμα).
 Ελευθερώστε χώρο αποθήκευσης ή μεταφέρετε μόνο σημαντικά αντικείμενα."</string>
     <string name="trans_select_data_too_large">"Επιλέξατε πάρα πολλά αντικείμενα για μεταφορά.
@@ -385,6 +392,22 @@
     <string name="trans_old_phone_low_space_msg">To Mi Mover χρειάζεται ορισμένο αποθηκευτικό χώρο για την τακτοποίηση των μεταφερθέντων δεδομένων, αλλά φαίνεται πως δεν υπάρχει διαθέσιμος σώρος στην παλιά συσκευή. Ελευθερώστε χώρο από την \"Ασφάλεια\" ή μεταφέρετε μόνο σημαντικά αντικείμενα.</string>
     <string name="button_clean_garbage">Ελευθερώστε χώρο</string>
     <string name="button_quit">Έξοδος</string>
+    <string name="soft_ap_creating">Γίνεται δημιουργία σημείου πρόσβασης…</string>
+    <string name="wait_link">"Συνδέστε την παλιά σας συσκευή σε αυτό το σημείο πρόσβασης.
+Μην εγκαταλείψετε αυτή τη σελίδα μέχρι να πραγματοποιηθεί σύνδεση."</string>
+    <string name="old_way">Μπορείτε επίσης να συνδεθείτε χρησιμοποιώντας έναν κωδικό QR. Πατήστε για δημιουργία κωδικού.</string>
+    <string name="soft_ap_create_failed">Αδυναμία δημιουργίας σημείου πρόσβασης</string>
+    <string name="scan_soft_ap_label">Σύνδεση στην παλιά συσκευή</string>
+    <string name="scan_soft_ap">Αναζήτηση για τη νέα συσκευή…</string>
+    <string name="click_soft_ap_to_link">Επιλέξτε σημείο πρόσβασης για σύνδεση</string>
+    <string name="waiting">Μια στιγμή…</string>
+    <string name="old_soft_name">Σύνδεση μέσω κωδικού QR</string>
+    <string name="confirm_exit_link_title">Γίνεται διακοπή της μεταφοράς</string>
+    <string name="confirm_exit_link_msg">Η σε εξέλιξη μεταφορά θα διακοπεί εάν εγκαταλείψετε την εφαρμογή τώρα. Θα πρέπει να δημιουργήσετε σύνδεση μεταξύ των δύο συσκευών ξανά. Εγκατάλειψη εφαρμογής ούτως ή άλλως;</string>
+    <string name="confirm_exit_link">Έξοδος</string>
+    <string name="confirm_exit_link_cancel">Παραμονή</string>
+    <string name="connect_soft_ap_label">Γίνεται σύνδεση στη νέα συσκευή…</string>
+    <string name="recreate_soft_ap_tips">Πατήστε το πιο κάτω κουμπί για να ξαναπροσπαθήσετε.</string>
     <string name="trans_install_guide_page_title">Εγκαταστήστε το Mi Mover στο παλιό σας τηλέφωνο</string>
     <string name="trans_install_guide_scan_install_tip">"Σαρώστε αυτό τον QR κωδικό με το παλιό σας τηλέφωνο
 για να κατεβάσετε και να εγκαταστήστε το Mi Mover."</string>
@@ -417,6 +440,8 @@
     <string name="trans_intro_title_old">Στο παλιό τηλέφωνο:</string>
     <string name="trans_intro_desc_old">Πατήστε \"Είμαι αποστολέας\". Σαρώστε τον QR κωδικό στο νέο τηλέφωνο, περιμένετε μέχρι το Mi Mover δείξει ποια αρχεία θα σταλούν, και πατήστε \"Αποστολή\".</string>
     <string name="trans_intro_desc_old_market">Πατήστε \"Έναρξη\". Σαρώστε τον QR κωδικό στο νέο τηλέφωνο, περιμένετε μέχρι το Mi Mover δείξει ποια αρχεία θα σταλούν, και πατήστε \"Αποστολή\".</string>
+    <string name="trans_intro_question_10">%d. Δεν μπορείτε να εντοπίσετε το σημείο πρόσβασης στην παλιά συσκευή;</string>
+    <string name="trans_intro_desc_10">Πατήστε \"Σύνδεση μέσω κωδικού QR\" στη νέα συσκευή και σαρώστε τον κωδικό QR για δημιουργία σύνδεσης.</string>
     <string name="trans_intro_question_3">%d. Τι πρέπει να κάνω εάν το Mi Mover κολλήσει σε κάποιο βήμα;</string>
     <string name="trans_intro_desc_3">Ακυρώστε την μεταφορά, εξέλθετε από το Mi Mover, και ξεκινήστε ξανά. Διπλότυπα αρχεία θα αντικατασταθούν κατά την νέα μεταφορά.</string>
     <string name="trans_intro_question_4">%d. Γιατί δεν μπορώ να χρησιμοποιήσω Wi-Fi κατά την διάρκεια μεταφορών;</string>
@@ -439,6 +464,8 @@
     <string name="trans_intro_desc_multiuser">Το Mi Mover δεν έχει δυνατότητα πρόσβασης σε αντικείμενα Δεύτερου χώρου. Μετακινήστε αντικείμενα στον Πρώτο χώρο και ξεκινήστε το Mi Mover από εκεί.</string>
     <string name="trans_intro_title_multiapp">Δεδομένα διπλότυπων εφαρμογών:</string>
     <string name="trans_intro_desc_multiapp">Το Mi Mover δεν μεταφέρει δεδομένα Διπλότυπων εφαρμογών ώστε να αποφύγει επανάληψη μεταξύ αρχείων.</string>
+    <string name="trans_intro_title_gms">Δεδομένα που δημιουργήθηκαν από εφαρμογές Google:</string>
+    <string name="trans_intro_desc_gms">Λόγω υψηλής πιθανότητας ανεπιτυχών μεταφορών εξαιτίας ζητημάτων συμβατότητας, ο Μετακινητής Mi δεν υποστηρίζει τα δεδομένα που δημιουργούνται από τις εφαρμογές Google.</string>
     <string name="trans_intro_question_9_market">%d. Σχόλια.</string>
     <string name="trans_intro_desc_9_method_1_title">1. Κοινοποιήστε τα σχόλια σας μέσω της εφαρμογής \"Σχόλια\".</string>
     <string name="trans_intro_desc_9_method_1_dec">Μεταβείτε στην Αρχική οθόνη > Εργαλεία > Σχόλια.</string>
@@ -470,7 +497,6 @@
     <string name="trans_success_dialog_button_survey">Έρευνα</string>
     <string name="trans_success_dialog_survey_title">Εκτιμούμε τα σχόλιά σας</string>
     <string name="trans_success_survey_hint">Συμπληρώστε πρώτα όλα τα πεδία.</string>
-    <string name="trans_cancel_dialog_survey_title">Γιατί διακόψατε τη μεταφορά;</string>
     <string name="trans_dialog_survey_finish">Αποστολή</string>
     <string name="trans_failed_details_page_title">Ανεπιτυχείς μεταφορές</string>
     <string name="close_twice_auth_tutor">Απενεργοποίηση διπλής επαλήθευσης Apple ID</string>
@@ -540,6 +566,7 @@ https://appleid.apple.com/#!&amp;page=signin για κλείσιμο"</string>
 πρέπει πρώτα να δημιουργήστε ένα αντίγραφο ασφαλείας για το iCloud."</string>
     <string name="list_footer_tip_title">Συμβουλές:</string>
     <string name="import_tip_summary">Λόγω προβλήματα συμβατότητας, μπορείτε να μεταφέρετε μόνο ορισμένα δεδομένα από συσκευές iOS. Βεβαιωθείτε πως έχετε δημιουργήσει ένα αντίγραφο ασφαλείας για το iCloud πριν την μεταφορά.</string>
+    <string name="import_tip_message">@string/icloud_how_to_backup_tip_steps</string>
     <string name="button_import">Εισαγωγή</string>
     <string name="select_empty">Επιλογή αντικειμένων για εισαγωγή</string>
     <string name="select_item_summary_wait">Αναμονή…</string>

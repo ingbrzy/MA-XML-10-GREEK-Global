@@ -30,6 +30,7 @@
     <string name="sdcard_not_present">Δεν υπάρχει κάρτα SD.</string>
     <string name="only_primary_user_allowed">Μόνο ο κάτοχος αυτής της συσκευής μπορεί να εγκαταστήσει πιστοποιητικά.</string>
     <string name="credential_usage_label">Χρήση διαπιστευτηρίων:</string>
+    <string name="certificate_capabilities_warning">Σημείωση: Ο εκδότης αυτού του πιστοποιητικού μπορεί να επιθεωρήσει όλη την επισκεψιμότητα από και προς τη συσκευή.</string>
     <string name="wifi_title">Προφίλ Wi-Fi</string>
     <string name="wifi_detail_title">Λεπτομέρειες για %s</string>
     <string name="wifi_detail_label">Λεπτομέρειες</string>

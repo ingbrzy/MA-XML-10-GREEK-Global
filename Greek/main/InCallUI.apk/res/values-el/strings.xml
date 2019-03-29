@@ -78,6 +78,7 @@
     <string name="respond_via_sms_custom_message">Προσαρμογή SMS</string>
     <string name="manageConferenceLabel">Διαχείριση κλήσης συνδιάσκεψης</string>
     <string name="emergency_call_dialog_number_for_display">Αριθμός έκτακτης ανάγκης</string>
+    <string name="volte_call">Κλήση VoLTE</string>
     <string name="notification_dialing">Γίνεται κλήση</string>
     <string name="notification_ongoing_call">Εξερχόμενη κλήση</string>
     <string name="notification_on_hold">Σε αναμονή</string>

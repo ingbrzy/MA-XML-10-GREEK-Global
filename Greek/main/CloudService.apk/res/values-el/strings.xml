@@ -35,6 +35,8 @@
     <string name="mx_sub_dspt_provision_with_voip">Κλήση Ίντερνετ</string>
     <string name="phone_number_required_dspt_provision">"Αυτή η υπηρεσία απαιτεί τον αριθμό τηλεφώνου σας. "</string>
     <string name="sync_dspt_provision">"Συγχρονίστε τις φωτογραφίες, επαφές, σημειώσεις και άλλα σε όλες τις συσκευές σας ή αποκτήστε πρόσβαση σε αυτές στο "</string>
+    <string name="sync_dspt_provision2">i.mi.com</string>
+    <string name="sync_dspt_provision2_int">www.mi.com/micloud</string>
     <string name="sync_dspt_provision3">". Μπορείτε να ενεργοποιήστε ή απενεργοποιήστε την λειτουργία αυτή στις Ρυθμίσεις.
 "</string>
     <string name="sync_dspt_entrance_provision">"Συγχρονίστε τις φωτογραφίες, επαφές, ιστορικό κλήσεων και μηνύματά σας σε όλες τις συσκευές σας. Αποκτήστε πρόσβαση σε ότι έχετε συγχρονίσει από οποιονδήποτε φυλλομετρητή στο %s. "</string>
@@ -45,6 +47,8 @@
     <string name="sync_dspt_entrance_provision_skip">Παράλειψη αυτού του βήματος</string>
     <string name="sync_dspt_entrance_provision_network">Αυτή η εφαρμογή απαιτεί σύνδεση στο διαδίκτυο για να λειτουργήσει κανονικά. Ο συγχρονισμός δεδομένων μπορεί να απαιτεί σύνδεση δεδομένων κινητής και ενεργοποίηση του WiFi.</string>
     <string name="find_device_dspt_provision">Εάν χάσετε την συσκευή σας, μεταβείτε στο %s για να την εντοπίσετε, κλειδώσετε ή να την επαναφέρετε. Μπορείτε να ενεργοποιήστε ή να απενεργοποιήστε την λειτουργία αυτή από τις Ρυθμίσεις.</string>
+    <string name="find_device_dspt_provision_2">i.mi.com</string>
+    <string name="find_device_dspt_provision_2_int">www.mi.com/micloud</string>
     <string name="find_device_send_sms_alert">Εάν αλλάξετε κάρτες SIM, ένα SMS μπορεί να σταλεί αυτόματα για την επανενεργοποίηση αυτής της λειτουργίας.</string>
     <string name="mx_dspt_provision">"Το Mi Μηνύματα επιτρέπει την αποστολή μηνυμάτων μεταξύ MIUI συσκευών χωρίς χρεώσεις όταν είστε συνδεδεμένοι σε Wi-Fi.
 
@@ -243,6 +247,7 @@
     <string name="micloud_find_device_opened">Εύρεση συσκευής ενεργή</string>
     <string name="micloud_find_device_open_fail">Αδυναμία ενεργοποίησης Εύρεση συσκευής</string>
     <string name="micloud_find_device_opened_content">Βρείτε την συσκευή σας στο %s</string>
+    <string name="micloud_find_device_opened_content_url">i.mi.com</string>
     <string name="micloud_find_device_verify_fail">Αδυναμία επανενεργοποίησης Εύρεση συσκευής</string>
     <string name="micloud_find_device_close_fail">Αδυναμία απενεργοποίησης Εύρεση συσκευής</string>
     <string name="micloud_find_device_finish">Ολοκλήρωση</string>
@@ -301,6 +306,8 @@
     <string name="micloud_main_head_menu_state_close">Ανενεργό</string>
     <string name="micloud_main_head_menu_state_unavailable">Μη υποστηριζόμενο</string>
     <string name="micloud_main_head_menu_finddevice_unavailable">Η Εύρεση συσκευής δεν είναι διαθέσιμη στον Δεύτερο χώρο, μπορείτε να την χρησιμοποιήσετε στον Πρώτο χώρο.</string>
+    <string name="micloud_footer_normal_url">i.mi.com</string>
+    <string name="micloud_footer_international_url">mi.com/micloud</string>
     <string name="ks_fingerprint_payment">Πληρωμές δακτυλικού αποτυπώματος</string>
     <string name="ks_name_fido">FIDO</string>
     <string name="ks_name_alipay">IFAA</string>

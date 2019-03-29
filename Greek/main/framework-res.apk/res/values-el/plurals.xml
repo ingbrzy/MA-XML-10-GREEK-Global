@@ -72,6 +72,10 @@
         <item quantity="other">σε %d ε</item>
         <item quantity="one">σε %d ε</item>
     </plurals>
+    <plurals name="kg_too_many_failed_attempts_countdown">
+        <item quantity="other">Δοκιμάστε ξανά σε %d δευτερόλεπτα.</item>
+        <item quantity="one">Δοκιμάστε ξανά σε 1 δευτερόλεπτο</item>
+    </plurals>
     <plurals name="last_num_days">
         <item quantity="other">Τελευταίες %d ημέρες</item>
         <item quantity="one">Τελευταία %d ημέρα</item>
@@ -106,15 +110,15 @@
     </plurals>
     <plurals name="zen_mode_duration_hours">
         <item quantity="other">Για %d ώρες</item>
-        <item quantity="one">Για μία ώρα</item>
+        <item quantity="one">Για 1 ώρα</item>
     </plurals>
     <plurals name="zen_mode_duration_hours_short">
         <item quantity="other">Για %d ώρες</item>
         <item quantity="one">Για 1 ώρα</item>
     </plurals>
     <plurals name="zen_mode_duration_hours_summary">
-        <item quantity="other">Για %1$d ώρες (έως τις %2$s)</item>
-        <item quantity="one">Για μία ώρα (έως τις %2$s)</item>
+        <item quantity="other">Για %1$d ώρες (μέχρι τις %2$s)</item>
+        <item quantity="one">Για 1 ώρα (μέχρι τις %2$s)</item>
     </plurals>
     <plurals name="zen_mode_duration_hours_summary_short">
         <item quantity="other">Για %1$d ώρες (μέχρι %2$s)</item>

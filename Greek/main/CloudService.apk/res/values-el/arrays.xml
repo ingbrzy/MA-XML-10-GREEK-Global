@@ -14,6 +14,106 @@
         <item>Ημερολόγιο</item>
         <item>Χώρος αποθήκευσης</item>
     </string-array>
+    <string-array name="settings_search_contacts">
+        <item>Συγχρονισμός επαφών με το Mi Cloud</item>
+        <item>Ενεργοποίηση/Ρύθμιση συγχρονισμού</item>
+        <item>Επαφές,Ιστορικό κλήσεων,Cloud,Συγχρονισμός,Υπηρεσίες Cloud,Mi Cloud</item>
+    </string-array>
+    <string-array name="settings_search_sms">
+        <item>Συγχρονισμός μηνυμάτων με το Mi Cloud</item>
+        <item>Ενεργοποίηση/Ρύθμιση συγχρονισμού</item>
+        <item>Μηνύματα,SMS,MMS,Cloud,Συγχρονισμός,Υπηρεσίες Cloud,Mi Cloud</item>
+    </string-array>
+    <string-array name="settings_search_gallery">
+        <item>Συγχρονισμός Συλλογής με Mi Cloud</item>
+        <item>Ενεργοποίηση/Ρύθμιση συγχρονισμού</item>
+        <item>Συλλογή,Φωτογραφίες,Cloud,Συγχρονισμός,Υπηρεσίες Cloud,Mi Cloud</item>
+    </string-array>
+    <string-array name="settings_search_dial">
+        <item>Συγχρονισμός ιστορικού μηνυμάτων με Mi Cloud</item>
+        <item>Ενεργοποίηση/Ρύθμιση συγχρονισμού</item>
+        <item>Ιστορικό κλήσεων,Cloud,Συγχρονισμός,Υπηρεσίες Cloud,Mi Cloud</item>
+    </string-array>
+    <string-array name="settings_search_recorder">
+        <item>Συγχρονισμός ηχογραφήσεων με το Mi Cloud</item>
+        <item>Ενεργοποίηση/Ρύθμιση συγχρονισμού</item>
+        <item>Ηχογράφηση,Cloud,Συγχρονισμός,Υπηρεσίες Cloud,Mi Cloud</item>
+    </string-array>
+    <string-array name="settings_search_music">
+        <item>Συγχρονισμός μουσικής με Mi Cloud</item>
+        <item>Ενεργοποίηση συγχρονισμού</item>
+        <item>Μουσική,Cloud,Συγχρονισμός,Υπηρεσίες Cloud,Mi Cloud</item>
+    </string-array>
+    <string-array name="settings_search_notes">
+        <item>Συγχρονισμός σημειώσεων με Mi Cloud</item>
+        <item>Ενεργοποίηση συγχρονισμού</item>
+        <item>Notes;Cloud;Sync;Cloud services;Mi Cloud</item>
+    </string-array>
+    <string-array name="settings_search_wlan">
+        <item>Sync Wi-Fi settings with Mi Cloud</item>
+        <item>Turn on sync</item>
+        <item>WLAN;wifi;Wi-Fi;Cloud;Sync;Cloud services;Mi Cloud</item>
+    </string-array>
+    <string-array name="settings_search_calendar">
+        <item>Sync Calendar with Mi Cloud</item>
+        <item>Turn on sync</item>
+        <item>Calendar;Cloud;Sync;Cloud services;Mi Cloud</item>
+    </string-array>
+    <string-array name="settings_search_browser">
+        <item>Sync Browser with Mi Cloud</item>
+        <item>Turn on sync</item>
+        <item>Browser;Cloud;Sync;Cloud services;Mi Cloud</item>
+    </string-array>
+    <string-array name="settings_search_security">
+        <item>Sync Security with Mi Cloud</item>
+        <item>Turn on sync</item>
+        <item>Security;Cloud;Sync;Cloud services;Mi Cloud</item>
+    </string-array>
+    <string-array name="settings_search_personal_assistant">
+        <item>Sync App vault with Mi Cloud</item>
+        <item>Turn on sync</item>
+        <item>App vault;Cards;Cloud;Sync;Cloud services;Mi Cloud</item>
+    </string-array>
+    <string-array name="settings_search_sync_manage">
+        <item>Mi Cloud. All Mi services in one place.</item>
+        <item>Access your photos, contacts, messages, and devices from anywhere</item>
+        <item>Insufficient storage;Membership;Storage;Storage space;Cloud;Sync;Cloud services;Mi Cloud;Trash;Deleted items;Security</item>
+    </string-array>
+    <string-array name="settings_search_find_phone">
+        <item>Find device</item>
+        <item>"Erase data and lock your device if it's lost"</item>
+        <item>Find device;Lost;Cloud;Sync;Cloud services;Mi Cloud</item>
+    </string-array>
+    <string-array name="settings_search_find_pad">
+        <item>Find device</item>
+        <item>"Erase data and lock your device if it's lost"</item>
+        <item>Find device;Lost;Cloud;Sync;Cloud services;Mi Cloud</item>
+    </string-array>
+    <string-array name="settings_search_recycle_bin">
+        <item>Deleted items in Mi Cloud</item>
+        <item>Restore contacts, photos, messages, and more</item>
+        <item>Trash;Deleted items;Trash bin;Restore;Cloud services;Mi Cloud</item>
+    </string-array>
+    <string-array name="settings_search_subscribe_vip">
+        <item>Mi Cloud membership</item>
+        <item>Upgrade your membership, get more storage space, and secure your data</item>
+        <item>Insufficient storage;Membership;Storage;Storage space;Cloud;Sync;Cloud services;Mi Cloud;Mega;Ultra;VIP;Back up;Backup;Restore;Trash;Deleted items;Trash bin</item>
+    </string-array>
+    <string-array name="settings_search_backup_setting">
+        <item>Back up Home screen to Mi Cloud</item>
+        <item>Back up Home screen layout, list of installed apps, and system settings</item>
+        <item>Cloud;Back up;Backup;Cloud services;Mi Cloud;Home screen;Layout;Apps;Settings;Backup frequency;Manage backups;Restore</item>
+    </string-array>
+    <string-array name="settings_search_backup_manage">
+        <item>Backups</item>
+        <item>Backed up items</item>
+        <item>Cloud;Back up;Backup;Cloud services;Mi Cloud;Home screen;Layout;Apps;Manage backups;Restore</item>
+    </string-array>
+    <string-array name="settings_search_restore_device">
+        <item>Restore items from Mi Cloud</item>
+        <item>Download backed up items to your device</item>
+        <item>Cloud;Back up;Backup;Restore;Cloud services;Mi Cloud</item>
+    </string-array>
     <string-array name="micloud_entrance_titleArray">
         <item>Συγχρονισμός δεδομένων εφαρμογής</item>
         <item>Δημιουργία αντίγραφου ασφαλείας για διάταξη Αρχικής οθόνης</item>

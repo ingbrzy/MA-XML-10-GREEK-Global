@@ -29,6 +29,8 @@
     <string name="already_updated">Έγινε ενημέρωση</string>
     <string name="app_label">Μηνύματα</string>
     <string name="app_name">Συσκευές</string>
+    <string name="application_list_title">Μίνι εφαρμογή</string>
+    <string name="attach_group_chat">Ομαδική συνομιλία</string>
     <string name="attach_image">Εικόνες</string>
     <string name="attach_rcs_file">Αρχείο</string>
     <string name="attach_rcs_location">Τοποθεσία</string>
@@ -40,6 +42,7 @@
     <string name="attach_take_photo">Λήψη φωτογραφίας</string>
     <string name="attach_transaction">Αποστολή χρημάτων</string>
     <string name="attach_video">Βίντεο</string>
+    <string name="attach_video_call">Βιντεοκλήση</string>
     <string name="audio_download_failed">Αδυναμία λήψης ήχου</string>
     <string name="audio_message_expired">Το ηχητικό μήνυμα έληξε.</string>
     <string name="audio_message_mx_offline">Αδυναμία λήψης ήχου. Το Mi Μηνύματα είναι εκτός λειτουργίας ή δεν είναι διαθέσιμο.</string>
@@ -73,6 +76,7 @@
     <string name="button_unfold">Άνοιγμα</string>
     <string name="call_sender">Κλήση αποστολέα</string>
     <string name="can_not_send_by_rcs">Αδυναμία χρήσης Μηνυμάτων China Mobile</string>
+    <string name="can_not_view_group_chat_stranger">Δεν είναι δυνατό να προβάλετε τις λεπτομέρειες ξένων.</string>
     <string name="cannot_add_picture_and_video">Αδυναμία προσθήκης και βίντεο και εικόνας σε μία διαφάνεια.</string>
     <string name="cannot_add_slide_anymore">Αδυναμία προσθήκης περισσότερων διαφάνειων.</string>
     <string name="cannot_forward_drm_obj">Το DRM αντικείμενο που συμπεριλήφθηκε στο μήνυμα δεν μπορεί να προωθηθεί.</string>
@@ -130,6 +134,7 @@
     <string name="confirm_restore_positive">Επαναφορά</string>
     <string name="confirm_restore_title">Επαναφορά μηνυμάτων</string>
     <string name="confirm_send_mms">"Ένας από τους παραλήπτες σας περιλαμβάνει μια διεύθυνση email. Αυτό το μήνυμα θα σταλεί ως MMS και γι' αυτό μπορεί να επιβληθούν έξτρα χρεώσεις από τον πάροχό σας."</string>
+    <string name="contact_not_exists">Αυτό το άτομο δεν είναι στις επαφές σας.</string>
     <string name="context_menu_add_calendar">Προσθήκη στο Ημερολόγιο</string>
     <string name="context_menu_add_contact">Προσθήκη στις επαφές</string>
     <string name="context_menu_add_to_browser_favorite">Προσθήκη στους σελιδοδείκτες Φυλλομετρητή</string>
@@ -224,6 +229,7 @@
     <string name="file_size">Μέγεθος:</string>
     <string name="file_title">Όνομα:</string>
     <string name="file_width_height">Μέγεθος:</string>
+    <string name="flatshow_page_no">%1$d</string>
     <string name="force_touch_new_message_title">Νέο μήνυμα</string>
     <string name="forward_from">Προώθηση από:</string>
     <string name="forward_message_select_title">Προώθηση μηνύματος</string>
@@ -245,6 +251,7 @@
     <string name="group_resend_message">Αποστολή ξανά (%d)</string>
     <string name="group_view_settings_disolved">Αδυναμία προβολής στοιχείων. Αυτή η ομαδική συνομιλία έχει διαγραφεί.</string>
     <string name="group_view_settings_not_memeber">Αδυναμία προβολής στοιχείων. Δεν είστε πλέον μέλος αυτής της ομαδικής συνομιλίας.</string>
+    <string name="groupchat_list_title">Ομαδικές συνομιλίες</string>
     <string name="guild_add_attachments">Πατήστε για προσθήκη emoticons και άλλων αντικειμένων</string>
     <string name="guild_add_recipients">Πατήστε για προσθήκη παραληπτών από επαφές</string>
     <string name="guild_msim_switcher">Πατήστε για εναλλαγή καρτών SIM</string>
@@ -287,6 +294,7 @@
     <string name="menu_edit">Επεξεργασία</string>
     <string name="menu_forward">Προώθηση</string>
     <string name="menu_lock">Προσθήκη στα αγαπημένα</string>
+    <string name="menu_make_call">Κλήση</string>
     <string name="menu_mark">Μαρκάρισμα</string>
     <string name="menu_more">Περισσότερα</string>
     <string name="menu_new_contact">Νέα επαφή</string>
@@ -297,6 +305,7 @@
     <string name="menu_traffic_destination">Προορισμός</string>
     <string name="menu_unlock">Αφαίρεση από τα αγαπημένα</string>
     <string name="menu_view_contact">Προβολή επαφής</string>
+    <string name="menu_view_group_info">Πληροφορίες ομάδας</string>
     <string name="message_class_label">"Κατηγορία μηνύματος: "</string>
     <string name="message_contact">Επαφή:</string>
     <string name="message_details_title">Λεπτομέρειες μηνύματος</string>
@@ -408,6 +417,7 @@
     <string name="no_block_button_msg">Άρση αποκλεισμού</string>
     <string name="no_conversations">Δεν υπάρχουν συνομιλίες</string>
     <string name="no_delivery_report">Χωρίς αναφορά παράδοσης</string>
+    <string name="no_network_description">Αδυναμία σύνδεσης στο δίκτυο. Ελέγξτε τις ρυθμίσεις δικτύου σας και προσπαθήστε ξανά.</string>
     <string name="no_subject">(Χωρίς θέμα)</string>
     <string name="no_subject_view">(Χωρίς θέμα)</string>
     <string name="non_english_subject_limit">13 χαρακτήρες</string>
@@ -530,6 +540,9 @@
     <string name="prvate_contact">Προσωπικές επαφές</string>
     <string name="quick_reply">Απάντηση</string>
     <string name="rate_limit_surpassed">OK</string>
+    <string name="rcs_auto_resend_as_sms_remind_change">Αλλαγή</string>
+    <string name="rcs_auto_resend_as_sms_remind_desp">Όταν το σήμα του δικτύου είναι αδύναμο, τμήμα κειμένου ενός μηνύματος (έως και 900 Bytes) μπορεί να μετατραπεί και να αποσταλεί ως SMS. Μπορείτε να το αλλάξετε αυτό στις ρυθμίσεις.</string>
+    <string name="rcs_auto_resend_as_sms_remind_title">Μετατροπή σε SMS</string>
     <string name="rcs_auto_resend_mms">Μετατροπή σε SMS</string>
     <string name="rcs_auto_resend_sms">Μετατροπή σε SMS</string>
     <string name="rcs_auto_resume">Ξαναρχίστε αυτόματα τις ενημερώσεις που είχαν διακοπεί</string>
@@ -540,10 +553,12 @@
     <string name="rcs_forward_faild">Αδυναμία προώθησης</string>
     <string name="rcs_forward_successful">Επιτυχής προώθηση</string>
     <string name="rcs_group_notification_invitation">Πρόσκληση σε ομαδική συνομιλία</string>
+    <string name="rcs_hello_from_pc">Συνδεθείτε στο Fetion στον υπολογιστή σας για μεταφορά αρχείων.</string>
     <string name="rcs_message">Μηνύματα China Mobile</string>
     <string name="rcs_message_disable">Δεν είναι δυνατό να προβάλετε αυτό το μήνυμα στον Δεύτερο χώρο</string>
     <string name="rcs_msg">Μηνύματα China Mobile</string>
     <string name="rcs_not_online">Δεν είναι δυνατή η χρήση των Μηνυμάτων China Mobile. Ελέγξτε τις ρυθμίσεις δικτύου και δοκιμάστε ξανά.</string>
+    <string name="rcs_offline">Δεν είστε συνδεδεμένοι στο UC. Περιμένετε ένα δύο λεπτά και προσπαθήστε ξανά.</string>
     <string name="rcs_offline_hint">Το Μηνύματα China Mobile είναι εκτός σύνδεσης. Δεν είναι δυνατή η προώθηση αυτού του μηνύματος.</string>
     <string name="rcs_recipient_type_contact">Προώθηση σε μία επαφή</string>
     <string name="rcs_recipient_type_group">Προώθηση σε ομαδική συνομιλία</string>
@@ -668,6 +683,7 @@
     <string name="send_signature_confirm_dialog_title">Αποστολή μηνύματος</string>
     <string name="send_sms">Αποστολή μηνύματος</string>
     <string name="send_to">Προς:</string>
+    <string name="send_to_index_contact">%1$s/%2$s</string>
     <string name="sent_at_time">Έγινε αποστολή στις: %1s</string>
     <string name="sent_label">"Στάλθηκε: "</string>
     <string name="service_message_not_found">Το μήνυμα έληξε ή δεν είναι διαθέσιμο</string>

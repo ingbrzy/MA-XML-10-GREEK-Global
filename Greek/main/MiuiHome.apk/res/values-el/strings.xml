@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <string name="status_bar_notification_info_overflow">999+</string>
     <string name="action_add_to_workspace">Προσθήκη στον χώρο εργασίας</string>
     <string name="activity_not_found">Η εφαρμογή δεν έχει εγκατασταθεί στην συσκευή σας</string>
     <string name="add_screen">Προσθήκη οθόνης</string>
@@ -114,6 +115,7 @@
     <string name="edit_mode_group_error_full">Ανεπαρκής χώρος</string>
     <string name="edit_mode_group_error_in_folder">Κλείστε τον φάκελο πριν ομαδοποιήσετε τα εικονίδια</string>
     <string name="edit_mode_group_error_one_folder">Αδυναμία δημιουργίας διπλότυπου φακέλου όταν έχετε επιλεγμένα εικονίδια</string>
+    <string name="edit_mode_top_menu_finish">Ολοκλήρωση</string>
     <string name="edit_mode_uninstall">Απεγκατάσταση</string>
     <string name="editing_add_widget_tips">Επεξεργασία widgets</string>
     <string name="editing_mode_enter_tip_text">Τσιμπήστε για επεξεργασία Αρχικής οθόνης</string>
@@ -215,6 +217,7 @@
     <string name="menu_default_screen_preview">Ορισμός προεπιλεγμένης οθόνης</string>
     <string name="menu_edit">Επεξεργασία Αρχικής οθόνης</string>
     <string name="menu_exit_scene">Έξοδος από Mi Χώρο</string>
+    <string name="menu_finish">Ολοκλήρωση</string>
     <string name="menu_item_add_item">Τοποθέτηση στην Αρχική οθόνη</string>
     <string name="menu_launcher_setting">Ρυθμίσεις εκκινητή</string>
     <string name="menu_lock">Κλειδωμα διάταξης κλειδώματος Αρχικής οθόνης</string>
@@ -352,15 +355,15 @@
     <string name="widget_gadget_player">Μουσική</string>
     <string name="widget_global_search">Αναζήτηση</string>
     <string name="widget_quick_function">Γρήγορες λειτουργίες</string>
+    <string name="widgets_preview_title">Προσθήκη widget</string>
     <string name="home_gesture_content_center">Κέντρο Περιεχομένων</string>
     <string name="home_gesture_global_search">Αναζήτηση</string>
     <string name="home_gesture_no_action">Τίποτα</string>
     <string name="home_gesture_notification_bar">Ειδοποιήσεις</string>
     <string name="home_pull_down_action">Σύρετε προς τα κάτω στην Αρχική οθόνη</string>
     <string name="home_slide_up_action">Σύρετε προς τα πάνω στην Αρχική οθόνη</string>
-    <string name="launcher_pull_down_title">Σύρετε προς τα πάνω στην Αρχική οθόνη</string>
-    <string name="launcher_slide_up_title">Σύρετε προς τα κάτω στην Αρχική οθόνη</string>
-    <string name="menu_finish">Ολοκλήρωση</string>
-    <string name="minus_one_screen">μείον μία οθόνη</string>
-    <string name="widgets_preview_title">Προσθήκη widget</string>
+    <string name="launcher_pull_down_title">Σύρετε προς τα κάτω στην Αρχική οθόνη</string>
+    <string name="launcher_slide_up_title">Σύρετε προς τα πάνω στην Αρχική οθόνη</string>
+    <string name="launcher_sliding_up_gesture">Σαρώστε προς τα επάνω στην Αρχική οθόνη για άνοιγμα αναζήτησης</string>
+    <string name="minus_one_screen">Θάλαμος εφαρμογών</string>
 </resources>
