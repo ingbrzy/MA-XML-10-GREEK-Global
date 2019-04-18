@@ -38,9 +38,7 @@
     <string name="exo_download_notification_channel_name">Λήψεις</string>
     <string name="exo_download_removing">Κατάργηση λήψεων</string>
     <string name="exo_item_list">%1$s, %2$s</string>
-    <string name="exo_track_bitrate">%1$.2f Mbps</string>
     <string name="exo_track_mono">Μονοφωνικό</string>
-    <string name="exo_track_resolution">%1$d × %2$d</string>
     <string name="exo_track_selection_auto">Αυτόματο</string>
     <string name="exo_track_selection_none">Κανένα</string>
     <string name="exo_track_selection_title_audio">Ήχος</string>
@@ -52,7 +50,6 @@
     <string name="exo_track_surround_7_point_1">Περιφερειακός ήχος 7.1</string>
     <string name="exo_track_unknown">Άγνωστο</string>
     <string name="search_menu_title">Αναζήτηση</string>
-    <string name="status_bar_notification_info_overflow">999+</string>
     <string name="accessibility_setting_hint">"Πατήστε το κουμπί στην επάνω δεξιά γωνία για να ενεργοποιήσετε αυτή την υπηρεσία.
 Τα θέματα θα εντοπίσουν τις εφαρμογές που χρησιμοποιείτε και θα εμφανίζουν διαφανείς ταπετσαρίες στις εφαρμογές της επιλογής σας."</string>
     <string name="accessibiliy_description_content_account">Προφίλ</string>
@@ -209,7 +206,6 @@
     <string name="incompatible_dialog_ok">Κατάλαβα</string>
     <string name="incompatible_dialog_title">Προβλήματα συμβατότητας</string>
     <string name="is_setting_wallpaper_message">Γίνεται ορισμός ταπετσαρίας…</string>
-    <string name="item_resource_audio_divider">│</string>
     <string name="item_resource_audio_optional_alarm_ring">Ξυπνητήρια</string>
     <string name="item_resource_audio_optional_color_ring">Τόνος επιστροφής κλήσης</string>
     <string name="item_resource_audio_optional_notification_ring">Ειδοποιήσεις</string>
@@ -439,7 +435,6 @@
     <string name="resource_pack_price_info">Αρχική τιμή: %1$s</string>
     <string name="resource_pack_warning">Έχετε ήδη αγοράσει %1$d από τα συστατικά αυτού του θέματος. Για αυτό η αγορά των υπόλοιπων συστατικών ξεχωριστά είναι πιο φθηνή επιλογή.</string>
     <string name="resource_present">Δώρο</string>
-    <string name="resource_price_format">(%1$s)</string>
     <string name="resource_price_free">Δωρεάν</string>
     <string name="resource_price_unit">Mi Credits</string>
     <string name="resource_purchase_common_error">Παρουσιάστηκε σφάλμα, προσπαθήστε ξανά</string>
@@ -451,10 +446,6 @@
     <string name="resource_ranking">Δημοφιλή</string>
     <string name="resource_ranking_free">Δωρεάν</string>
     <string name="resource_ranking_purchase">Επί πληρωμή</string>
-    <string name="resource_ring_ranking_list_divider">-</string>
-    <string name="resource_ring_ranking_list_rank_1">1</string>
-    <string name="resource_ring_ranking_list_rank_2">2</string>
-    <string name="resource_ring_ranking_list_rank_3">3</string>
     <string name="resource_ringtone_default">Ήχοι κλήσης</string>
     <string name="resource_ringtone_playing_error">Σφάλμα</string>
     <string name="resource_ringtone_volume_mute">Έγινε σίγαση κουδουνίσματος</string>
@@ -594,7 +585,6 @@
     <string name="theme_is_external_priority_storage">Αποθήκευση σε κάρτα SD</string>
     <string name="theme_is_external_priority_storage_summary">Η εφαρμογή Θέματα θα κάνει αμέσως επανεκκίνηση για την εφαρμογή αυτής της ρύθμισης.</string>
     <string name="theme_multiple_button_title_customize">Προσαρμογή</string>
-    <string name="theme_name">%1$s</string>
     <string name="theme_no">Όχι</string>
     <string name="theme_purchased_list_empty">Δεν έχετε αγοράσει θέματα.</string>
     <string name="theme_purchased_non_local">Online</string>
