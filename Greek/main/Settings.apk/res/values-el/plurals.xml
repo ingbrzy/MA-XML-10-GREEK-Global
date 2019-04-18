@@ -32,6 +32,10 @@
         <item quantity="other">Πολύ μικρή καθυστέρηση (%1$d χιλιοστά δευτερολέπτου)</item>
         <item quantity="one">Πολύ μικρή καθυστέρηση (%1$d χιλιοστό δευτερολέπτου)</item>
     </plurals>
+    <plurals name="aod_dual_togother_city">
+        <item quantity="other">" %1$sώρες %2$s"</item>
+        <item quantity="one">" %1$sώρα %2$s"</item>
+    </plurals>
     <plurals name="app_notification_listing_summary_others">
         <item quantity="other">Ανενεργές για %d εφαρμογές</item>
         <item quantity="one">Ανενεργή για %d εφαρμογή</item>

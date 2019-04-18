@@ -78,6 +78,10 @@
         <item quantity="other">&lt;χρώμα γραμματοσειράς=\"κόκκινο\">%d τραγούδια&lt;/γραμματοσειρά> γίνεται λήψη</item>
         <item quantity="one">&lt;χρώμα γραμματοσεράς==\"κόκκινο\">%d τραγούδι&lt;/γραμματοσειρά> γίνεται λήψη</item>
     </plurals>
+    <plurals name="free_downloads_num_hint">
+        <item quantity="other">Απομένουν %d δωρεάν λήψεις τραγουδιών</item>
+        <item quantity="one">Απομένει %d δωρεάν λήψη τραγουδιού</item>
+    </plurals>
     <plurals name="multichoice_title">
         <item quantity="other">%d αντικείμενα επιλέχθηκαν</item>
         <item quantity="one">%d αντικείμενο επιλέχθηκε</item>
@@ -117,5 +121,9 @@
     <plurals name="video_play_count">
         <item quantity="other">%1$s προβολές</item>
         <item quantity="one">%1$s προβολή</item>
+    </plurals>
+    <plurals name="vip_remain_days_hint">
+        <item quantity="other">Απομένουν %d ημέρες</item>
+        <item quantity="one">Απομένει %d ημέρα</item>
     </plurals>
 </resources>

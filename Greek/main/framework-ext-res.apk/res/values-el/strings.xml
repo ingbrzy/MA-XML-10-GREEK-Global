@@ -192,4 +192,18 @@
     <string name="talk_back_water_mark_string1">Το TalkBack είναι ενεργοποιημένο</string>
     <string name="talk_back_water_mark_string2">Πατήστε παρατεταμένα την \"Ένταση+\" και την \"Ένταση-\" για 3 δευτερόλεπτα για απενεργοποίηση</string>
     <string name="start_dump_log">Έναρξη λήψης αρχείων καταγραφής που σχετίζονται με ζητήματα</string>
+    <string name="popup_camera_tip">Προσοχή</string>
+    <string name="popup_camera_sure">Κατανοητό</string>
+    <string name="popup_camera_sure_wait">Κατανοητό (%dδ)</string>
+    <string name="popup_camera_front_failed">Αδυναμία ανοίγματος μπροστινής κάμερας. Προσπαθήστε ξανά.</string>
+    <string name="popup_camera_front_falied_times">Αδυναμία ανοίγματος μπροστινής κάμερας πολλαπλές φορές. Πάρτε τη συσκευή σας σε ένα Mi Home κοντά σας για διάγνωση του προβλήματος.</string>
+    <string name="takeback_camera_front_failed">Δεν μπόρεσε να κλείσει η μπροστινή κάμερα. Προσπαθήστε ξανά.</string>
+    <string name="stop_operate_camera_frequently">Φαίνεται ότι έχετε κάνει εναλλαγή ανάμεσα στις κάμερες υπερβολικά γρήγορα.</string>
+    <string name="popup_camera_front_when_use">Η μπροστινή κάμερα είναι απασχολημένη τώρα. Άνοιγμα έτσι και αλλιώς;</string>
+    <string name="popup_camera_popup_falied_times_calibrate">Αδυναμία ανοίγματος μπροστινής κάμερας πολλαπλές φορές. Δοκιμάστε να την βαθμονομήσετε.</string>
+    <string name="popup_camera_takeback_falied_times_calibrate">Δεν μπόρεσε να κλείσει η μπροστινή κάμερα πολλαπλές φορές. Δοκιμάστε να την βαθμονομήσετε.</string>
+    <string name="popup_camera_calibrate_now">Βαθμονόμηση</string>
+    <string name="popup_camera_calibrate_success">Επιτυχία βαθμονόμησης. Μπορείτε να ανοίξετε τη μπροστινή κάμερα τώρα.</string>
+    <string name="popup_camera_calibrate_failed">Αδυναμία βαθμονόμησης. Πάρτε τη συσκευή σας σε ένα Mi Home κοντά σας για διάγνωση του προβλήματος.</string>
+    <string name="popup_camera_using_camera_background">%s χρησιμοποιεί τη μπροστινή κάμερα</string>
 </resources>

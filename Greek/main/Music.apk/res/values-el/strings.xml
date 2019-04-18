@@ -47,8 +47,13 @@
     <string name="album_label">Εξώφυλλα άλμπουμ</string>
     <string name="album_name">Άλμπουμ</string>
     <string name="all_album_count">Όλα τα άλμπουμ (%d)</string>
+    <string name="all_albums">Όλα τα άλμπουμ</string>
+    <string name="all_artists">Όλοι οι καλλιτέχνες</string>
     <string name="all_playlist_count">Όλες οι λίστες αναπαραγωγής (%d)</string>
+    <string name="all_playlists">Όλες οι λίστες αναπαραγωγής</string>
+    <string name="all_songs">Όλα τα τραγούδια</string>
     <string name="all_tracks">Όλα τα τραγούδια</string>
+    <string name="all_videos">Όλα τα βίντεο</string>
     <string name="already_download">Γίνεται λήψη…</string>
     <string name="already_download_btn">Γίνεται λήψη…</string>
     <string name="already_favorited">Επισημάνθηκε ήδη ως αγαπημένο</string>
@@ -217,6 +222,7 @@
     <string name="download_method">Λήψη</string>
     <string name="download_no_application_title">Αδυναμία ανοίγματος αρχείου</string>
     <string name="download_paused_in_power_save_mode">Παύση λήψεων όταν η Εξοικονόμηση μπαταρίας είναι ενεργή</string>
+    <string name="download_percent">%d%%</string>
     <string name="download_processing">Γίνεται λήψη…</string>
     <string name="download_quality">Ποιότητα λήψης</string>
     <string name="download_quality_summary">Πρόσθετες ρυθμίσεις για τραγούδια που κατεβάζετε</string>
@@ -296,7 +302,9 @@
     <string name="exo_download_notification_channel_name">Λήψεις</string>
     <string name="exo_download_removing">Κατάργηση λήψεων</string>
     <string name="exo_item_list">%1$s, %2$s</string>
+    <string name="exo_track_bitrate">%1$.2f Mbps</string>
     <string name="exo_track_mono">Μονοφωνικό</string>
+    <string name="exo_track_resolution">%1$d × %2$d</string>
     <string name="exo_track_selection_auto">Αυτόματο</string>
     <string name="exo_track_selection_none">Κανένα</string>
     <string name="exo_track_selection_title_audio">Ήχος</string>
@@ -555,6 +563,7 @@
     <string name="priority_storage_summary">Αυτόματη λήψη στην εξωτερική κάρτα SD εφόσον είναι διαθέσιμη</string>
     <string name="privacy_desc">Πολιτική Απορρήτου (υποχρεωτικό)</string>
     <string name="privacy_policy">Πολιτική Απορρήτου</string>
+    <string name="privacy_policy_url">http://www.miui.com/res/doc/privacy.html?lang=el_GR</string>
     <string name="pro_member">Μέλος PRO</string>
     <string name="project_device">Mi Τηλέφωνο</string>
     <string name="prompt_grant_write_settings_permission">Να επιτρέπεται η αλλαγή ρυθμίσεων συστήματος</string>
@@ -592,6 +601,8 @@
     <string name="search_for_album">Άλμπουμ</string>
     <string name="search_for_artist">Καλλιτέχνης</string>
     <string name="search_hint">Αναζήτηση για καλλιτέχνες, τραγούδια, άλμπουμ, και προτάσεις</string>
+    <string name="search_hint_local">Αναζήτηση τραγουδιών στη συσκευή</string>
+    <string name="search_hint_online">Ον-λάιν αναζήτηση για καλλιτέχνες, άλμπουμ, τραγούδια, λίστες αναπαραγωγής και βίντεο</string>
     <string name="search_history_clear_all">Εκκαθάριση</string>
     <string name="search_instant_online_music">Online</string>
     <string name="search_menu_title">Αναζήτηση</string>
@@ -653,6 +664,7 @@
     <string name="start_to_check_new_version">Γίνεται έλεγχος για ενημερώσεις…</string>
     <string name="start_to_download">Γίνεται λήψη…</string>
     <string name="start_to_play">Αναπαραγωγή</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
     <string name="storage_internal">Εσωτερικός χώρος αποθήκευσης</string>
     <string name="storage_sd_card">Κάρτα SD</string>
     <string name="storage_usb">Χώρος αποθήκευσης USB</string>
@@ -662,8 +674,10 @@
     <string name="tab_artist">Καλλιτέχνες</string>
     <string name="tab_artist_list">Καλλιτέχνες</string>
     <string name="tab_folder">Φάκελοι</string>
+    <string name="tab_playlist">Λίστες αναπαραγωγής</string>
     <string name="tab_track">Τραγούδια</string>
     <string name="tab_track_list">Τραγούδια</string>
+    <string name="tab_video">Βίντεο</string>
     <string name="take_effect_afater_restart">Επανεκκινήσετε την εφαρμογή για να εφαρμόσετε αυτήν την ρύθμιση.</string>
     <string name="talkback_back">Πίσω</string>
     <string name="talkback_batch_process">Πολλαπλά αντικείμενα</string>
@@ -713,6 +727,7 @@
     <string name="upgrade_music_message">Οι ενημερώσεις είναι έτοιμες. Επανεκκινήστε για ενημέρωση.</string>
     <string name="upgrading_in_backstage">Γίνεται ενημέρωση στο παρασκήνιο…</string>
     <string name="user_agreement">Όροι Χρήσης</string>
+    <string name="user_agreement_url">http://www.miui.com/res/doc/eula.html?lang=el_GR</string>
     <string name="version_info">Έκδοση</string>
     <string name="video_play_cellular">Η συσκευή σας δεν είναι συνδεδεμένη στο Wi-Fi. Χρήση δεδομένων κινητής τηλεφωνίας;</string>
     <string name="video_replay_btn">Αναπαραγωγή ξανά</string>
@@ -720,6 +735,7 @@
     <string name="view_album">Προβολή άλμπουμ</string>
     <string name="vip_required">Αποκτήστε Premium Πακέτο Τραγουδιών για την αναπαραγωγή του τραγουδιού. Έχει γίνει παράλειψη του τραγουδιού προσωρινά.</string>
     <string name="vip_required_with_song">%s διαθέσιμο σε μέλη PRO μόνο. Προσωρινή παράλειψη τραγουδιού.</string>
+    <string name="voice_search_first_hint">Δοκιμάστε φωνητική αναζήτηση!</string>
     <string name="wifi_required_body" formatted="false">"Συνδεθείτε σε Wi-Fi για ολοκλήρωση αυτής της %s λήψης. 
 
 Πατήστε %s για έναρξη της λήψης την επόμενη φορά που θα είστε συνδεδεμένοι με δίκτυο Wi-Fi."</string>

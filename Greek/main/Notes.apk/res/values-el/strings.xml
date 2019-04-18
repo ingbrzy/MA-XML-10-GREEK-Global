@@ -86,8 +86,6 @@
     <string name="force_touch_menu_add">Προσθήκη σημείωσης</string>
     <string name="format_move_note_out_folder">Αυτή η σημείωση μετακινήθηκε</string>
     <string name="format_move_note_to_folder">Έγινε μετακίνηση σε %1$s</string>
-    <string name="format_move_notes_out_folder">Αφαιρέθηκαν %1$s</string>
-    <string name="format_move_notes_to_folder">Έγινε μετακίνηση %1$s σε %2$s</string>
     <string name="hidden_notes_fragment_title">Κρυφές σημειώσεις</string>
     <string name="hide_arrow_description">Απόκρυψη</string>
     <string name="hint_cannot_view_hidden_note_content">Αδυναμία προβολής περιεχομένου στις κρυφές σημειώσεις</string>
@@ -129,6 +127,7 @@
     <string name="note_sort_way">Επιλέξτε πως θέλετε να ταξινομήσετε τις σημειώσεις σας</string>
     <string name="notealert_enter">Άνοιγμα σημείωσης</string>
     <string name="notealert_ok">Απόρριψη</string>
+    <string name="notelist_string_info">…</string>
     <string name="notify_alarm_title">Υπενθύμιση σημείωσης</string>
     <string name="permdesc_accessNote">Κακόβουλες εφαρμογές μπορεί να έχουν πρόσβαση στα προσωπικά σας δεδομένα.</string>
     <string name="permission_intro_contact">Για σήμανση σημειώσεων κατά τη διάρκεια κλήσεων</string>
@@ -207,11 +206,9 @@
     <string name="toast_cancel_to_insert_image">Αδυναμία προσθήκης εικόνας.</string>
     <string name="toast_message_add_image_fail">Αδυναμία προσθήκης εικόνας</string>
     <string name="toast_notes_delete_success">Επιτυχής διαγραφή</string>
-    <string name="toast_notes_hidden_count">Αποκρύφθηκαν επιτυχώς %1$s</string>
     <string name="toast_notes_hidden_edit">Επιτυχής απόκρυψη σημειώματος. Σύρετε προς τα κάτω για να δείτε κρυμμένες σημειώσεις.</string>
     <string name="toast_notes_hidden_home">Επιτυχής απόκρυψη σημειώματος. Σύρετε προς τα κάτω για να δείτε κρυμμένες σημειώσεις.</string>
     <string name="toast_notes_unhidden">Επιτυχής επανεμφάνιση</string>
-    <string name="toast_notes_unhidden_count">Επανεμφανίστηκαν επιτυχώς %1$s</string>
     <string name="toast_reach_text_limit_attachment">Αδυναμία προσθήκης νέων συνημμένων λόγω τεράστιου μεγέθους σημείωσης</string>
     <string name="toast_reach_text_limit_checkbox">Αδυναμία προσθήκης πλαίσιου επιλογής λόγω τεράστιου μεγέθους σημείωσης</string>
     <string name="toast_reach_text_limit_truncate">Η σημείωση είναι πολύ μεγάλη. Ορισμένο κείμενο έχει κοπεί στο τέλος.</string>

@@ -50,6 +50,8 @@
     <string name="self_device_second_space">Δεύτερος χώρος αυτού του τηλεφώνου</string>
     <string name="other_device_main_space">Πρώτος χώρος</string>
     <string name="other_device_second_space">Δεύτερος χώρος</string>
+    <string name="pattern_backup_name_with_home">%1$s (%2$s: %3$s)</string>
+    <string name="pattern_backup_name_without_home">%1$s (%2$s)</string>
     <string name="process_whole_recovery">Γίνεται επαναφορά \"%s\"</string>
     <string name="size_unknown">Άγνωστο μέγεθος</string>
     <string name="recovering">Γίνεται επαναφορά %s</string>
@@ -72,7 +74,7 @@
     <string name="desktop_waiting">Αναμονή</string>
     <string name="desktop_downloading">Γίνεται λήψη</string>
     <string name="desktop_installing">Γίνεται εγκατάσταση</string>
-    <string name="desktop_wait_wifi">Αναμονή</string>
+    <string name="desktop_wait_network">Αναμονή…</string>
     <string name="desktop_failed">Σφάλμα</string>
     <string name="recover_from_micloud">Επαναφορά από αντίγραφο ασφαλείας του Mi Cloud</string>
     <string name="click_try_to_restore_again">Αγγίξτε για να προσπαθήσετε ξανά</string>
@@ -114,7 +116,7 @@
     <string name="confirm_cancel_restore_positive">Συνέχεια</string>
     <string name="confirm_cancel_restore_negative">Ακύρωση</string>
     <string name="confirm_restore_title">Επαναφορά</string>
-    <string name="confirm_restore_summary">Η Αρχική οθόνη θα κάνει επανεκκίνηση και θα γίνει αυτόματη λήψη εφαρμογών όταν γίνει σύνδεση με Wi-Fi</string>
+    <string name="confirm_restore_summary">Η Αρχική Οθόνη σας θα επανεκκινηθεί. Εφαρμογές που έχουν αντίγραφα ασφαλείας θα κάνουν λήψη αυτόματα.</string>
     <string name="confirm_restore">Επαναφορά</string>
     <string name="cloud_backup_have_data">Βρέθηκε αντίγραφο ασφαλείας στο Mi Cloud</string>
     <string name="cloud_backup_select_recover">Επιλογή αντίγραφου ασφαλείας από Mi Cloud</string>
@@ -134,7 +136,9 @@
     <string name="provision_error_connect_msg">Δοκιμάστε το δίκτυο και προσπαθήστε ξανά. Τα αντίγραφα ασφαλείας δεν είναι διαθέσιμα όταν η συσκευή σας είναι εκτός σύνδεσης.</string>
     <string name="provision_error_connect_title">Αδυναμία σύνδεσης</string>
     <string name="loading_user_backup">Φόρτωση αντιγράφων ασφαλείας χρήστη…</string>
+    <string name="loading_progress_num">(%s%%)</string>
     <string name="error_num_placeholder">--</string>
+    <string name="doing_calc_backup_data_size">Γίνεται υπολογισμός μεγέθους…</string>
     <string name="authentication_failed">Αδυναμία επιβεβαίωσης λογαριασμού.</string>
     <string name="no_account">Δεν συνδεθήκατε στο Mi Λογαριασμό σας.</string>
     <string name="no_backup">Δεν υπάρχουν αντίγραφα ασφαλείας στο Mi Cloud.</string>
@@ -181,10 +185,34 @@
     <string name="msg_alert_cancel_restore">Γίνεται επαναφορά αντικειμένων. Διακοπή τώρα;</string>
     <string name="btn_restore_cancel">Ακύρωση</string>
     <string name="btn_restore_resume">Συνέχεια</string>
+    <string name="btn_restore_wait">Αναμονή για Wi-Fi</string>
+    <string name="btn_restore_continue">"Επαναφορά παρ' όλα αυτά"</string>
+    <string name="msg_restore_with_metered_network_pattern">"&lt;font color='red'>&lt;b>%s&lt;/b>&lt;/font> αρχείων θα κατέβουν."</string>
+    <string name="msg_restore_with_metered_network_hint">Εάν προχωρήσετε στην επαναφορά αυτών των στοιχείων, θα χρησιμοποιηθούν δεδομένα κινητής τηλεφωνίας για τη λήψη.</string>
+    <string name="msg_restore_start_with_metered_network">"Η Αρχική Οθόνη σας θα επανεκκινηθεί. Θα γίνει αυτόματη λήψη εφαρμογών που έχουν αντίγραφα ασφαλείας. &lt;br />&lt;b>&lt;font color='red'>%s αρχείων θα κατέβουν.&lt;/font>&lt;/b>"</string>
+    <string name="title_restore_with_current_network">Χρήση τρέχουσας σύνδεσης για λήψης φακέλων</string>
     <string name="title_alert_restore_error">Αδυναμία επαναφοράς</string>
     <string name="msg_alert_restore_error">Αδυναμία επαναφοράς αντικειμένων από το Mi Cloud. Προσπαθήστε ξανά.</string>
     <string name="btn_restore_retry">Προσπαθήστε ξανά</string>
     <string name="btn_restore_abort">Ακύρωση</string>
     <string name="backup_stopped_title">Η δημιουργία αντιγράφων ασφαλείας σταμάτησε</string>
     <string name="backup_stopped_msg">Το τρέχον αντίγραφο ασφαλείας θα αντικαταστήσει το προηγούμενο αντίγραφο ασφαλείας. Πατήστε για προβολή.</string>
+    <string name="restore_network_unconnect">%s (Αναμονή για σύνδεση)</string>
+    <string name="restore_network_pause">%s (Πατήστε για συνέχεια)</string>
+    <string name="restore_detail_title">Επιλογή αντικειμένων για επαναφορά</string>
+    <string name="restore_detail_category_settings">Ρυθμίσεις</string>
+    <string name="restore_detail_category_apps">Διάταξη Αρχικής Οθόνης &amp; εφαρμογών</string>
+    <string name="restore_detail_more">Περισσότερα</string>
+    <string name="restore_app_order_title">Προτεραιότητα σε αντικείμενα που έχουν επανέλθει</string>
+    <string name="restore_app_order_search_hint">Αναζήτηση αντικειμένων για ρύθμιση προτεραιότητας</string>
+    <string name="restore_app_order_search_prior">Εφαρμογές υψηλής προτεραιότητας</string>
+    <string name="restore_app_order_search_normal">Εφαρμογές κανονικής προτεραιότητας</string>
+    <string name="restore_app_order_search_installed">Εφαρμογές σε αυτή τη συσκευή</string>
+    <string name="restore_app_order_retry">Προσπαθήστε ξανά</string>
+    <string name="restore_app_order_retry_desc">"Αδυναμία σύνδεσης στο δίκτυο.
+Ελέγξτε τις ρυθμίσεις δικτύου και προσπαθήστε ξανά."</string>
+    <string name="restore_app_order_loading">Περιμένετε μια στιγμή…</string>
+    <string name="restore_app_order_finish">Ολοκλήρωση</string>
+    <string name="provision_restore_data">Επαναφορά αντικειμένων</string>
+    <string name="provision_background_restore_more_data">Επαναφορά περισσότερων αντικειμένων στο παρασκήνιο</string>
 </resources>

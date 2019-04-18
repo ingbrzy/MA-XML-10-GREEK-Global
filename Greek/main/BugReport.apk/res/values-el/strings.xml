@@ -456,6 +456,7 @@
     <string name="passport_wrong_phone_number_format">Ο αριθμός τηλεφώνου που εισαγάγατε δεν είναι έγκυρος</string>
     <string name="passport_wrong_vcode">Ο κωδικός που εισαγάγατε είναι εσφαλμένος</string>
     <string name="pic_not_exist">Η εικόνα δεν υπάρχει</string>
+    <string name="pic_view_format">%1$s\"/\"%2$s</string>
     <string name="plus_one_submit_dialog_content">Τα σχόλιά σας μαζί με αρχεία καταγραφής σφαλμάτων θα σταλούν στους διακομιστές της Mi.</string>
     <string name="plus_one_submit_dialog_not_show_again">Απομνημόνευση προτίμησης</string>
     <string name="post_miui_bbs_failed">Αδυναμία δημοσίευσης στο MIUI Φόρουμ</string>

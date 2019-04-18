@@ -19,7 +19,9 @@
     <string name="exo_download_notification_channel_name">Λήψεις</string>
     <string name="exo_download_removing">Κατάργηση λήψεων</string>
     <string name="exo_item_list">%1$s, %2$s</string>
+    <string name="exo_track_bitrate">%1$.2f Mbps</string>
     <string name="exo_track_mono">Μονοφωνικό</string>
+    <string name="exo_track_resolution">%1$d × %2$d</string>
     <string name="exo_track_selection_auto">Αυτόματο</string>
     <string name="exo_track_selection_none">Κανένα</string>
     <string name="exo_track_selection_title_audio">Ήχος</string>
@@ -126,7 +128,7 @@
     <string name="st_settings_name">Ρυθμίσεις λίστας αποκλεισμών</string>
     <string name="st_filter_keywords_setting_summary1">Αποκλεισμός μηνύματων από άγνωστους αριθμούς που εμπεριέχουν τις λέξεις αυτής της λίστας.</string>
     <string name="st_filter_keywords_setting_summary3">Θα επιτρέπονται μηνύματα από άγνωστους αριθμούς που εμπεριέχουν τις λέξεις αυτής της λίστας.</string>
-    <string name="st_filter_keywords_setting_summary2">(Use a comma to separate multiple keywords)</string>
+    <string name="st_filter_keywords_setting_summary2">(Χρησιμοποιείστε κόμμα για να διαχωρίσετε πολλαπλές λέξεις-κλειδιά)</string>
     <string name="label_callwait">Ειδοποίηση αναμονής κλήσης</string>
     <string name="open_callwait">Ενεργό</string>
     <string name="close_callwait">Ανενεργό</string>
@@ -463,6 +465,7 @@
     <string name="not_limited_brand">Απεριόριστα</string>
     <string name="pref_about_traffic_title">Ρυθμίσεις χρήσης δεδομένων</string>
     <string name="pref_traffic_manage_title">Χρήση δεδομένων</string>
+    <string name="pref_operator_setting">%1$s%2$s</string>
     <string name="pref_package_traffic_settings">Πλάνο δεδομένων</string>
     <string name="pref_adjust_traffic_data">Ορισμός χρήσης δεδομένων</string>
     <string name="pref_category_title_other">Πρόσθετες ρυθμίσεις</string>
@@ -930,7 +933,7 @@
     <string name="status_bar_network_flow_phone_balance">"   Υπόλοιπο τηλεφώνου:%1$s "</string>
     <string name="status_bar_network_flow_exceed_content">Σήμερα: %1$s&amp;nbsp;&amp;nbsp;&amp;nbsp;Υπέρβαση πλάνου: &lt;font color=%2$s>%3$s&lt;/font></string>
     <string name="status_bar_network_flow_content">Σήμερα: %1$s&amp;nbsp;&amp;nbsp;&amp;nbsp;; Απομένουν: %2$s</string>
-    <string name="status_bar_network_flow_content_not_setting">Σήμερα: %1$s&amp;nbsp;&amp;nbsp;&amp;nbsp;; Αυτό το μήνα: %2$s</string>
+    <string name="status_bar_network_flow_content_not_setting">Σήμερα: %1$s&amp;nbsp;&amp;nbsp;&amp;nbsp;Αυτό το μήνα: %2$s</string>
     <string name="status_bar_network_flow_content_virtual_card">%1$s&amp;nbsp;&amp;nbsp;&amp;nbsp;%2$s&amp;nbsp;&amp;nbsp;&amp;nbsp;</string>
     <string name="pref_key_tethering_setting">Όριο δεδομένων μίας φοράς</string>
     <string name="pref_key_tethering_title">Όριο δεδομένων μίας φοράς</string>
@@ -951,7 +954,7 @@
     <string name="memory_clean_memory_size_tip">Cache</string>
     <string name="memory_clean_no_need_clean">Όλα φαίνονται να λειτουργούν σωστά</string>
     <string name="optimize_result_available_memory_info">Διαθέσιμη μνήμη</string>
-    <string name="optimize_result_title_uninstall_apps">Εφαρμογές</string>
+    <string name="optimize_result_title_uninstall_apps">Απεγκατάσταση εφαρμογών</string>
     <string name="om_settings_title">Ρυθμίσεις</string>
     <string name="om_settings_lock_app_manage">Κλείδωμα εφαρμογών</string>
     <string name="om_settings_lock_app">Κλείδωμα εφαρμογών</string>
@@ -1014,6 +1017,7 @@
     <string name="usage_type_data_send">Έγινε αποστολή κινητών δεδομένων</string>
     <string name="usage_type_no_coverage">Χρόνος χωρίς σήμα</string>
     <string name="usage_type_gps">GPS</string>
+    <string name="process_kernel_label">Android</string>
     <string name="process_mediaserver_label">Διακομιστής πολυμέσων</string>
     <string name="power_screen">Οθόνη</string>
     <string name="power_wifi">Wi-Fi</string>
@@ -1236,12 +1240,17 @@
     <string name="power_center_list_item_auto_brightness">Αυτόματη προσαρμογή φωτεινότητας οθόνης</string>
     <string name="power_center_list_item_deep_save_title">Σύνθετες ρυθμίσεις</string>
     <string name="power_center_list_item_battery_status_time">h</string>
+    <string name="power_center_list_item_battery_status_temperature">℃</string>
+    <string name="power_center_list_item_battery_status_capacity">mAh</string>
     <string name="power_center_stop_scan_title">Διακοπή σάρωσης</string>
     <string name="hide_mode_result_summary_text">Προσαρμογή ρυθμίσεων Εξοικονόμησης Μπαταρίας για μεμονομένες εφαρμογές</string>
     <string name="auto_task_result_summary_text">Ορισμός αυτοματοποιημένων εργασιών για Εξοικονόμηση Μπαταρίας</string>
     <string name="pc_settings_title">Ρυθμίσεις βελτιστοποίησης μπαταρίας</string>
     <string name="pc_main_activity_back">Πίσω</string>
     <string name="extreme_power_save_mode_card_summary">Ενεργοποίηση Ακραίας εξοικονόμησης μπαταρίας όταν η μπαταρία είναι χαμηλή.</string>
+    <string name="power_center_list_item_battery_health_model_voltage">%s V</string>
+    <string name="power_center_list_item_battery_health_model_temperature">%d ℃</string>
+    <string name="power_center_list_item_battery_health_model_volume">%s mAh</string>
     <string name="handle_bar_title_system">Σύστημα</string>
     <string name="apps_list_header_title_sms">Έλεγχος εφαρμογής μηνυμάτων</string>
     <string name="apps_list_header_title_sms_access">Περιορισμός πρόσβασης σε κωδικούς επαλήθευσης</string>
@@ -1350,11 +1359,13 @@
     <string name="menu_text_optimize_manage">Ενίσχυση ταχύτητας</string>
     <string name="menu_text_networkassistants">Χρήση δεδομένων</string>
     <string name="menu_summary_networkassistants">Διαχείριση του Πλάνου δεδομένων σας</string>
+    <string name="menu_text_networkassistants_2">%s</string>
     <string name="menu_summary_networkassistants_2">Υπέρβαση ορίου</string>
     <string name="menu_summary_networkassistants_3">Απομένουν αρκετά δεδομένα</string>
     <string name="menu_summary_networkassistants_4">Τα δεδομένα σας έχουν σχεδόν εξαντληθεί</string>
     <string name="menu_text_networkassistants_remain">%s απέμειναν</string>
     <string name="menu_text_networkassistants_danger">%s παραπάνω</string>
+    <string name="menu_text_networkassistants_data">%1$s%2$s</string>
     <string name="menu_text_networkassistants_unit_gb">GB</string>
     <string name="menu_text_networkassistants_unit_mb">MB</string>
     <string name="menu_text_networkassistants_unit_kb">KB</string>
@@ -1367,12 +1378,14 @@
     <string name="menu_summary_garbage_cleanup">Δεν βρέθηκαν σκουπίδια</string>
     <string name="menu_summary_garbage_cleanup_2">Μέγεθος σκουπιδιών</string>
     <string name="menu_summary_garbage_cleanup_3">Εκκαθάριση σκουπιδιών τώρα</string>
+    <string name="menu_text_garbage_cleanup_danger">%s</string>
     <string name="menu_text_power_manager">Βελτιστοποίηση μπαταρίας</string>
     <string name="menu_summary_power_manager">Η λειτουργία Εξοικονόμησης Μπαταρίας σας δίνει περισσότερο χρόνο μεταξύ των φορτισμάτων</string>
     <string name="menu_summary_power_manager_1">Η μπαταρία σας είναι πλήρως φορτισμένη</string>
     <string name="menu_summary_power_manager_2">%s απομένουν</string>
     <string name="menu_summary_power_manager_3">Συνδέστε φορτιστή</string>
     <string name="menu_summary_power_manager_4">%s μέχρι πλήρη φόρτιση</string>
+    <string name="menu_text_power_percent_title">%s</string>
     <string name="last_check_canceled">Η προηγούμενη σάρωση ακυρώθηκε</string>
     <string name="examination_score_100">Όλα φαίνονται να λειτουργούν σωστά!</string>
     <string name="examination_score_80_100">Ορισμένα αντικείμενα μπορούν να βελτιστοποιηθούν</string>
@@ -1750,6 +1763,7 @@
     <string name="card_main_deepclean_wechat_action">Εκκαθάριση</string>
     <string name="card_main_sectool_title">Εργαλεία</string>
     <string name="card_main_monthreport_action">Προβολή</string>
+    <string name="card_main_speeddetail_action">@string/card_main_monthreport_action</string>
     <string name="card_main_netcheck_title">Δοκιμή δικτύου</string>
     <string name="card_main_netcheck_summary">Δοκιμή σύνδεσης για προβλήματα δικτύου</string>
     <string name="card_main_netcheck_action">Δοκιμή</string>
@@ -2012,6 +2026,7 @@
     <string name="confirmSecondSpacePassword">Επιβεβαίωση κωδικού Δεύτερου χώρου</string>
     <string name="sponsored_sec_fb">Χορηγείται</string>
     <string name="add_game_notification_summary">Πατήστε για εκκίνηση &amp; ενίσχυση ταχύτητας</string>
+    <string name="gb_shortcut_pref_title">Συντόμευση Αρχικής οθόνης</string>
     <string name="app_manager_title">Διαχείριση εφαρμογών</string>
     <string name="app_manager_uninstall">Απεγκατάσταση</string>
     <string name="app_manager_bipartition">Διπλότυπες εφαρμογές</string>
@@ -2127,6 +2142,7 @@
     <string name="manage_hybrid_permissions">Διαχείριση αδειών εφαρμογής</string>
     <string name="app_manager_full_screen_title">Λειτουργία πλήρης οθόνης</string>
     <string name="app_manager_full_screen_summary">Αποδοχή λειτουργίας πλήρης οθόνης για επιλεγμένες εφαρμογές</string>
+    <string name="app_manager_find_apps">Εντοπισμός εφαρμογών</string>
     <string name="ad_btn_default_text">Μάθετε περισσότερα</string>
     <string name="open_activity_err">Δεν βρέθηκε εφαρμογή</string>
     <string name="low_memory_warning_dialog_title">Δεν υπάρχει αρκετός ελεύθερος χώρος</string>
@@ -2356,6 +2372,7 @@
     <string name="gb_advance_settings_reset_dialog_content">Επαναφορά προεπιλεγμένων ρυθμίσεων τώρα;</string>
     <string name="title_reply">Σχολιάστε</string>
     <string name="title_like">Μου αρέσει</string>
+    <string name="ellipsis">…</string>
     <string name="game_video_net_data">Δεδομένα κινητής τηλεφωνίας</string>
     <string name="game_wid_viewpoint_buttom">Κάντε ένα μικρό διάλειμμα.</string>
     <string name="video_repeat">Αναπαραγωγή ξανά</string>
@@ -2393,8 +2410,13 @@
     <string name="notify_diving_mode_exception_open_fail">Παρουσιάστηκε σφάλμα κάρτας SIM. Αδυναμία ενεργοποίησης Λειτουργίας καθήλωσης.</string>
     <string name="notify_diving_mode_exception_close_fail">Παρουσιάστηκε σφάλμα κάρτας SIM. Αδυναμία απενεργοποίησης Λειτουργίας καθήλωσης.</string>
     <string name="gamebox_recent_task_expand_fail">Δεν υπάρχουν εγκατεστημένες εφαρμογές που λειτουργούν με συντομεύσεις</string>
-    <string name="gamecenter_install_sucessfull">Installed successfully</string>
-    <string name="gamecenter_install_fail">"Couldn't install"</string>
+    <string name="gamecenter_install_sucessfull">Εγκαταστάθηκε επιτυχώς</string>
+    <string name="gamecenter_install_fail">Αδυναμία εγκατάστασης</string>
+    <string name="securityadd_update_tips_title">Ενημέρωση</string>
+    <string name="securityadd_update_tips_message">Ανανέωση υπηρεσίας προσθήκης Ασφάλειας για να αποκτήσετε πρόσβαση στις τελευταίες λειτουργίες παιχνιδιών. Θα γίνει λήψη %1$dMB.</string>
+    <string name="securityadd_update_tips_cancle">Όχι τώρα</string>
+    <string name="securityadd_update_tips_now">Ενημέρωση</string>
+    <string name="securityadd_install_fail">Αδυναμία ανανέωσης προσθήκης. Προσπαθήστε ξανά.</string>
     <string name="notify_channel_name_security">Ασφάλεια συστήματος</string>
     <string name="privacy_apps_category_title">Κρυμμένες εφαρμογές</string>
     <string name="privacy_apps">Κρυμμένες εφαρμογές</string>
@@ -2526,5 +2548,4 @@
     <string name="resource_gamebooster">Ενισχυτής ταχύτητας παιχνιδιών</string>
     <string name="keywords_gamebooster">Παιχνίδι;ενισχυτής ταχύτητας;Δόξα του Βασιλιά;Λειτουργία απόδοσης;Μην ενοχλείτε;Παιχνίδια;Gaming;Ταχύτητα παιχνιδιού;ενίσχυση</string>
     <string name="path_gamebooster">Εφαρμογές συστήματος/Ασφάλεια/Ενισχυτής ταχύτητας παιχνιδιών</string>
-    <string name="gb_shortcut_pref_title">Home screen shortcut</string>
 </resources>

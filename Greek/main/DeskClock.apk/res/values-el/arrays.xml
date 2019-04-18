@@ -340,6 +340,11 @@
         <item>Παραμαρίμπο</item>
         <item>Κίτο</item>
     </string-array>
+    <string-array name="clock_bg_setting_entries">
+        <item>Άσπρο</item>
+        <item>Μαύρο</item>
+        <item>Αυτόματο</item>
+    </string-array>
     <string-array name="countries_names_miui">
         <item>Ακτή Ελεφαντοστού</item>
         <item>Γκάνα</item>

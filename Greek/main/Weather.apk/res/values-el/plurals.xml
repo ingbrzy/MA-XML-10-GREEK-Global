@@ -20,10 +20,6 @@
         <item quantity="other">%1$s-ήμερη πρόγνωση</item>
         <item quantity="one">%1$s-ήμερη πρόγνωση</item>
     </plurals>
-    <plurals name="feedback_result_interval_time_too_short">
-        <item quantity="other">%1$s δευτερόλεπτα μετά από σχόλια</item>
-        <item quantity="one">%1$s δευτερόλεπτο μετά από σχόλια</item>
-    </plurals>
     <plurals name="no_vote_num">
         <item quantity="other">%1$s άτομα | </item>
         <item quantity="one">%1$s άτομο | </item>
@@ -39,5 +35,9 @@
     <plurals name="yes_vote_num">
         <item quantity="other"> | %1$s άτομα</item>
         <item quantity="one"> | %1$s άτομο</item>
+    </plurals>
+    <plurals name="feedback_result_interval_time_too_short">
+        <item quantity="other">%1$s δευτερόλεπτα μετά από σχόλια</item>
+        <item quantity="one">%1$s δευτερόλεπτο μετά από σχόλια</item>
     </plurals>
 </resources>

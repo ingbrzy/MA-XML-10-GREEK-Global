@@ -28,6 +28,7 @@
     <string name="abc_shareactionprovider_share_with_application">Κοινή χρήση με %s</string>
     <string name="abc_toolbar_collapse_description">Σύμπτυξη</string>
     <string name="search_menu_title">Αναζήτηση</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
     <string name="add_alarm">Προσθήκη ξυπνητηριού</string>
     <string name="add_clock">Προσθήκη ρολογιού</string>
     <string name="add_timezone_title">Προσθήκη ζώνης ώρας</string>
@@ -63,6 +64,9 @@
     <string name="channel_name_timer">Αντίστροφη μέτρηση</string>
     <string name="check_theme_app_install">Βεβαιωθείτε ότι η εφαρμογή Θέματα είναι εγκατεστημένο στη συσκευή σας.</string>
     <string name="check_voice_assist_app_version">Ενημερώστε το Mi AI στην τελευταία του έκδοση.</string>
+    <string name="clock_bg_button_setting_summary_common">Επιλέξτε χρώμα παρασκηνίου για την εφαρμογή Ρολόι</string>
+    <string name="clock_bg_button_setting_summary_follow_sys">Θα χρησιμοποιείται το μαύρο ως χρώμα παρασκηνίου κάθε φορά που κάνετε εναλλαγή σε Σκοτεινή λειτουργία</string>
+    <string name="clock_bg_button_setting_title">Χρώμα παρασκηνίου</string>
     <string name="close_alarm">Απενεργοποίηση</string>
     <string name="common_settings">Ρυθμίσεις</string>
     <string name="confirm_abort">Απόρριψη</string>
@@ -83,6 +87,11 @@
     <string name="dialog_message_for_contact_permission">Για ενεργοποίηση συναγερμών γενεθλίων, το Ρολόι πρέπει να έχει πρόσβαση στις επαφές σας. Συμφωνείτε;</string>
     <string name="dialog_message_negative">Δεν αποδέχομαι</string>
     <string name="dialog_message_not_remind">Να μην εμφανιστεί ξανά</string>
+    <string name="dialog_privacy_content">Το Ρολόι χρειάζεται σύνδεση στο διαδίκτυο προκειμένου να λαμβάνει και να συγχρονίζει πληροφορίες σχετικά με τις τοπικές δημόσιες αργίες και να παρέχει εξατομικευμένες υπηρεσίες. Πριν χρησιμοποιήσετε το Ρολόι, πρέπει επίσης να διαβάσετε και να συμφωνήσετε με τη %1$s μας και την %2$s μας. Αποδοχή;</string>
+    <string name="dialog_privacy_content_global">Το Ρολόι χρειάζεται σύνδεση στο διαδίκτυο προκειμένου να παρέχει εξατομικευμένες υπηρεσίες. Πριν χρησιμοποιήσετε το Ρολόι, πρέπει επίσης να διαβάσετε και να συμφωνήσετε με τη %1$s μας και την %2$s μας. Αποδοχή;</string>
+    <string name="dialog_privacy_content_news">Το Ρολόι χρειάζεται σύνδεση στο διαδίκτυο προκειμένου να παρέχει εξατομικευμένες υπηρεσίες και να περιέχει πρωινά νέα στους συναγερμούς σας. Πριν χρησιμοποιήσετε το Ρολόι, πρέπει επίσης να διαβάσετε και να συμφωνήσετε με τη %1$s μας και την %2$s μας. Αποδοχή;</string>
+    <string name="dialog_privacy_content_timer">Το Ρολόι χρειάζεται σύνδεση στο διαδίκτυο προκειμένου να κάνει λήψη χρονοδιακοπτών θορύβου περιβάλλοντος και να παρέχει εξατομικευμένες υπηρεσίες. Πριν χρησιμοποιήσετε το Ρολόι, πρέπει επίσης να διαβάσετε και να συμφωνήσετε με τη %1$s μας και την %2$s μας. Αποδοχή;</string>
+    <string name="dialog_privacy_content_timer_data">Το Ρολόι χρειάζεται σύνδεση στο διαδίκτυο προκειμένου να κάνει λήψη χρονοδιακοπτών θορύβου περιβάλλοντος (≈20MB) και να παρέχει εξατομικευμένες υπηρεσίες. Πριν χρησιμοποιήσετε το Ρολόι, πρέπει επίσης να διαβάσετε και να συμφωνήσετε με τη %1$s μας και την %2$s μας. Αυτή τη στιγμή χρησιμοποιείτε δεδομένα κινητής τηλεφωνίας. Αποδοχή;</string>
     <string name="done">Ολοκλήρωση</string>
     <string name="dynamic_alarm_speech">Έξυπνο ξυπνητήρι</string>
     <string name="edit_alarm">Επεξεργασία ξυπνητήρι</string>
@@ -93,6 +102,10 @@
     <string name="force_touch_enter_stopwatch">Χρονόμετρο</string>
     <string name="force_touch_enter_timer">Αντίστροφη μέτρηση</string>
     <string name="go_back">Πίσω</string>
+    <string name="holiday_update">Υπάρχει μια διαθέσιμη ενημέρωση για τις δημόσιες αργίες</string>
+    <string name="holiday_update_fail">Αδυναμία ενημέρωσης</string>
+    <string name="holiday_update_loading">Γίνεται ενημέρωση…</string>
+    <string name="holiday_update_success">Όλα τα αντικείμενα είναι πλήρως ενημερωμένα</string>
     <string name="hour_unit">Ώρα +</string>
     <string name="install_weather_app_error">Αδυναμία φόρτωσης εφαρμογής</string>
     <string name="install_weather_app_loading">Περιμένετε μία στιγμή…</string>
@@ -118,6 +131,7 @@
     <string name="life_post_setting">Πρωινή αναφορά</string>
     <string name="life_post_setting_FBE_remind">Λόγω περιορισμών συστήματος, οι πληροφορίες καιρού στις πρωινές αναφορές μπορεί να μην εμφανίζεται σωστά μετά την επανεκκίνηση της συσκευής.</string>
     <string name="life_post_setting_close_title">Απενεργοποίηση πρωινών αναφορών</string>
+    <string name="life_post_setting_open_desc">Απενεργοποίηση επανάληψης συναγερμών μεταξύ 04:00 και 10:00 πμ για ακρόαση τρέχουσας πρόγνωσης καιρού</string>
     <string name="life_post_setting_open_subtitle">Λήψη πληροφοριών καιρού όταν απενεργοποιείτε τα ξυπνητήρια μεταξύ 4:00 και 9:30</string>
     <string name="life_post_setting_open_title">Λήψη πρωινών αναφορών</string>
     <string name="life_post_setting_wake_up_list_title">Ιστορικό αφύπνισης</string>
@@ -139,13 +153,15 @@
     <string name="menu_item_sort_by_gmt_offset">Ταξινόμηση κατά ώρα</string>
     <string name="menu_item_sort_by_name">Ταξινόμηση κατά όνομα</string>
     <string name="module_download_cancel">Όχι ευχαριστώ</string>
-    <string name="module_download_data_msg">Το ρολόι χρειάζεται να συνδεθεί στο διαδίκτυο για λήψη αρχείων ήχου για ειδοποιήσεις καιρού MIUI 10 και χρονοδιακόπτες θορύβου περιβάλλοντος. Θα χρειαστούν 20MB δεδομένων κινητής τηλεφωνίας για αυτήν τη λήψη. Αποδοχή;</string>
-    <string name="module_download_data_msg_golbal">Το ρολόι χρειάζεται λήψη αρχείων ήχου για ειδοποιήσεις καιρού MIUI 10 και χρονοδιακόπτες θορύβου περιβάλλοντος. Θα χρειαστούν 20MB δεδομένων κινητής τηλεφωνίας για αυτήν τη λήψη. Αποδοχή;</string>
-    <string name="module_download_data_msg_replace">Ο ενημερωμένος ήχος για έξυπνους συναγερμούς (≈20MB) είναι διαθέσιμος. Σύνδεση στο δίκτυο και λήψη με χρήση δεδομένων κινητής τηλεφωνίας τώρα;</string>
+    <string name="module_download_data_msg">Το ρολόι απαιτεί τη λήψη αρχείων ήχου για τους έξυπνους συναγερμούς MIUI. Οι έξυπνοι συναγερμοί περιέχουν λειτουργίες ήχου που επιτρέπουν την προσθήκη πληροφοριών καιρού στους συναγερμούς. Απαιτούνται ≈20MB των δεδομένων κινητής τηλεφωνίας σας για τη λήψη αυτή. Λήψη τώρα;</string>
+    <string name="module_download_data_msg_golbal">Το ρολόι απαιτεί τη λήψη αρχείων ήχου για τους έξυπνους συναγερμούς MIUI. Απαιτούνται ≈20MB των δεδομένων κινητής τηλεφωνίας σας για τη λήψη αυτή. Λήψη τώρα;</string>
+    <string name="module_download_data_msg_replace">Υπάρχει διαθέσιμη ενημέρωση για τους έξυπνους συναγερμούς MIUI. Απαιτούνται ≈20MB των δεδομένων κινητής τηλεφωνίας σας για τη λήψη αυτή. Λήψη τώρα;</string>
+    <string name="module_download_data_msg_timer">Το ρολόι απαιτεί τη λήψη αρχείων ήχου για τους χρονοδιακόπτες θορύβων περιβάλλοντος. Απαιτούνται ≈20MB των δεδομένων κινητής τηλεφωνίας σας για τη λήψη αυτή. Λήψη τώρα;</string>
     <string name="module_download_fail">Αδυναμία λήψης πρόσθετου ήχου</string>
-    <string name="module_download_msg">Το ρολόι χρειάζεται να συνδεθεί στο διαδίκτυο για λήψη αρχείων ήχου για συναγερμούς καιρού MIUI 10 και χρονοδιακόπτες θορύβου περιβάλλοντος. Αποδοχή;</string>
-    <string name="module_download_msg_golbal">Το ρολόι χρειάζεται λήψη αρχείων ήχου για συναγερμούς καιρού MIUI 10 και χρονοδιακόπτες θορύβου περιβάλλοντος. Αποδοχή;</string>
-    <string name="module_download_msg_replace">Ο ενημερωμένος ήχος για έξυπνους συναγερμούς είναι διαθέσιμος. Σύνδεση στο δίκτυο και λήψη τώρα;</string>
+    <string name="module_download_msg">Το ρολόι απαιτεί να κάνετε λήψη αρχείων ήχου για τους έξυπνους συναγερμούς MIUI. Οι έξυπνοι συναγερμοί περιέχουν λειτουργίες ήχου που επιτρέπουν την προσθήκη πληροφοριών καιρού στους συναγερμούς. Λήψη τώρα;</string>
+    <string name="module_download_msg_golbal">Το ρολόι απαιτεί τη λήψη αρχείων ήχου για τα MIUI έξυπνα ξυπνητήρια. Λήψη τώρα;</string>
+    <string name="module_download_msg_replace">Ο ενημερωμένος ήχος για τους MIUI έξυπνους συναγερμούς είναι διαθέσιμος. Λήψη τώρα;</string>
+    <string name="module_download_msg_timer">Το ρολόι απαιτεί τη λήψη αρχείων ήχου για τους χρονοδιακόπτες θορύβων περιβάλλοντος. Λήψη τώρα;</string>
     <string name="module_download_no_network">Αδυναμία σύνδεσης στο δίκτυο. Ελέγξτε τις ρυθμίσεις δικτύου σας και προσπαθήστε ξανά.</string>
     <string name="module_download_ok">Αποδοχή</string>
     <string name="module_download_success">Επιτυχής λήψη πρόσθετου ήχου</string>
@@ -160,6 +176,7 @@
     <string name="other_category_title">Άλλα</string>
     <string name="pause">Παύση</string>
     <string name="percentage_sign">%</string>
+    <string name="personal_recommend">Εξατομικευμένες πρότασεις περιεχομένων</string>
     <string name="privacy_policy">Πολιτική Απορρήτου</string>
     <string name="remind_ringtone">Ήχος κλήσης</string>
     <string name="repeat_count">Φορές</string>
@@ -184,6 +201,7 @@
     <string name="shutdown_alarm_enable_summary">Ο συναγερμός θα σβήσει εάν είναι ρυθμισμένος για τουλάχιστον 5 λεπτά μετά την απενεργοποίηση της συσκευής σας</string>
     <string name="shutdown_alarm_title">Απενεργοποίηση ξυπνητηριού</string>
     <string name="silent_alarm_summary">Αθόρυβο</string>
+    <string name="skip_alarm_date_format">%1$s (%2$s)</string>
     <string name="skip_alarm_once_hint">Απενεργοποίηση μία φορά σε %s</string>
     <string name="slider_text">Σάρωση προς τα επάνω για απενεργοποίηση</string>
     <string name="snooze_confirm_cancel">Κατάργηση ξυπνητηριού</string>
@@ -202,6 +220,7 @@
     <string name="start_up">Εκκίνηση</string>
     <string name="stopwatch_lap_empty_text">Δεν υπάρχουν γύροι</string>
     <string name="stopwatch_title">Χρονόμετρο</string>
+    <string name="symbol_colon">:</string>
     <string name="system_time_setting">Ρυθμίσεις</string>
     <string name="system_time_settings_category_title">Ρυθμίσεις ώρας</string>
     <string name="temperature_unit">℃</string>
@@ -255,6 +274,7 @@
     <string name="turn_off_this_repeat_alarm">Απενεργοποίηση του επαναλαμβανόμενου ξυπνητηριού</string>
     <string name="upcoming_alarm">%s Επόμενο ξυπνητήρι</string>
     <string name="upcoming_alarm_hint">Μπορείτε να κλείσετε αυτό το ξυπνητήρι εκ των προτέρων</string>
+    <string name="user_agreement">Συμφωνία Χρήστη</string>
     <string name="vibrate_pref_summary">Δόνηση κατά την αφύπνιση</string>
     <string name="vibrate_when_ringing">Δόνηση κατά το κουδούνισμα</string>
     <string name="volume_button_setting_summary">Ορισμός λειτουργίας κουμπιών έντασης κατά την αφύπνιση</string>

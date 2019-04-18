@@ -4,6 +4,14 @@
         <item quantity="other">%d αντικείμενα</item>
         <item quantity="one">%d αντικείμενο</item>
     </plurals>
+    <plurals name="loan_repayment_detail">
+        <item quantity="other">Λεπτομερειακή αποπληρωμή (%d χρόνια)</item>
+        <item quantity="one">Λεπτομερειακή αποπληρωμή (%d χρόνος)</item>
+    </plurals>
+    <plurals name="loan_repayment_detail_unit">
+        <item quantity="other">Λεπτομερειακή αποπληρωμή (%d χρόνια), CNY</item>
+        <item quantity="one">Λεπτομερειακή αποπληρωμή (%d χρόνος), CNY</item>
+    </plurals>
     <plurals name="mortgage_summary_years">
         <item quantity="other">%1$d έτη(%2$d μήνες)</item>
         <item quantity="one">%1$d έτος (%2$d μήνες)</item>

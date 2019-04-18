@@ -58,6 +58,7 @@
     <string name="cast_forward">Προώθηση</string>
     <string name="cast_forward_10">Προώθηση 10 δευτερόλεπτα μπροστά</string>
     <string name="cast_forward_30">Προώθηση 30 δευτερόλεπτα μπροστά</string>
+    <string name="cast_intro_overlay_button_text">\@android:string/ok</string>
     <string name="cast_mute">Σίγαση</string>
     <string name="cast_notification_connected_message">Συνδέθηκε με το %1$s</string>
     <string name="cast_notification_connecting_message">Γίνεται σύνδεση με το %1$s</string>
@@ -487,6 +488,7 @@
     <string name="slid_fail_message">Αδυναμία αποθήκευσης</string>
     <string name="slide_save_message">Δημιουργία βίντεο…</string>
     <string name="sns_sign_in">Άλλοι τρόποι σύνδεσης</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
     <string name="sure_to_logout">Αποσύνδεση τώρα;</string>
     <string name="switch_ratio_pause">Η ταχύτητα αναπαραγωγής είναι ασταθής. Μετάβαση στην προεπιλεγμένη ταχύτητα…</string>
     <string name="symbol_rmb">¥</string>
@@ -518,4 +520,26 @@
     <string name="v_ok">ΟΚ</string>
     <string name="v_pw_need_update_app">Ενημερώστε το Mi Βίντεο για χρήση όλων των λειτουργιών του</string>
     <string name="v_save">Αποθήκευση</string>
+    <string name="Subscribe">Εγγραφή</string>
+    <string name="diy_channels_tips">Μπορείτε να προσαρμόσετε τη λίστα των καναλιών σας τώρα.</string>
+    <string name="empty_channels">Διαχείριση καναλιών</string>
+    <string name="empty_subscribe">Δεν έχετε κάνει καμία συνδρομή προς το παρόν.</string>
+    <string name="hidden_channels">Τα ακόλουθα κανάλια δεν θα εμφανίζονται στην Αρχική σελίδα.</string>
+    <string name="init_channels">Επαναφορά προεπιλογών</string>
+    <string name="isSubscribed">Έγινε εγγραφή</string>
+    <string name="my_favorite_channels">Τα κανάλια μου</string>
+    <string name="ovp_navigation_subscribe">Εγγραφή</string>
+    <string name="ovp_player_plugin_dlg_neg_btn">Κλείσιμο</string>
+    <string name="ovp_player_plugin_dlg_no_content">Κανένα plug-in για αναπαραγωγή βίντεο.</string>
+    <string name="ovp_player_plugin_dlg_title">Plug-in για αναπαραγωγή βίντεο</string>
+    <string name="permission_phone">Τηλέφωνο</string>
+    <string name="permission_phone_desc">Για πρόσβαση στην κατάσταση συσκευής και σίγαση υπενθυμίσεων κατά τη διάρκεια κλήσεων</string>
+    <string name="permission_storage">Αποθηκευτικός χώρος</string>
+    <string name="permission_storage_desc">Για την πρόσβαση σε στοιχεία, αποθήκευση αρχείων, εμφάνιση και αναπαραγωγή τοπικών βίντεο</string>
+    <string name="pw_channels">Κανάλια</string>
+    <string name="recommend_channels">Προτεινόμενα κανάλια</string>
+    <string name="restore_channel_list">Επαναφορά προεπιλογών τώρα;</string>
+    <string name="title_publisher">Δημιουργοί</string>
+    <string name="title_subscribe">Συνδρομές</string>
+    <string name="ugc_confirm_unsubscribe">Κατάργηση εγγραφής τώρα;</string>
 </resources>

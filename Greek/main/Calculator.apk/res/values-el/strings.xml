@@ -136,9 +136,7 @@
     <string name="loan_interest_rate">Τόκος</string>
     <string name="loan_pay_years">Περίοδος δανείου</string>
     <string name="loan_payback_way">Αποπληρωμή</string>
-    <string name="loan_repayment_detail">Λεπτομεριακή αποπληρωμή</string>
     <string name="loan_repayment_detail_loading">Φόρτωση λεπτομεριακής αποπληρωμής…</string>
-    <string name="loan_repayment_detail_unit">Λεπτομεριακή αποπληρωμή (CNY)</string>
     <string name="loan_unit">(×10K)</string>
     <string name="medical_treatment">Ιατρική περίθαλψη</string>
     <string name="menuDesc">μενού</string>
@@ -166,7 +164,7 @@
     <string name="mortgage_interest_rate">Εμπορικό επιτόκιο</string>
     <string name="mortgage_item_repayment">Τρόπος αποπληρωμής</string>
     <string name="mortgage_item_start_time">Αρχική ημερομηνία</string>
-    <string name="mortgage_item_years">Περίοδος στεγαστικού δάνειου</string>
+    <string name="mortgage_item_years">Θητεία δανείου</string>
     <string name="mortgage_loans_amount">Ποσό στεγαστικού δάνειου</string>
     <string name="mortgage_provident_found_interest_rate">Επιτόκιο κεφαλαίου</string>
     <string name="mortgage_repayment_amount">Ποσό αποπληρωμής</string>
@@ -594,12 +592,23 @@
     <string name="word_figure_unit_shi">拾</string>
     <string name="word_figure_yuan">元</string>
     <string name="word_figure_zheng">整</string>
+    <string name="xiaomi_bytes_unit">%1$sB</string>
     <string name="xiaomi_connect_download_manager_fail">Δεν ήταν δυνατή η σύνδεση με τις Λήψεις. Ελέγξτε αν αυτή η εφαρμογή διαθέτει όλα τα απαιτούμενα δικαιώματα στις Ρυθμίσεις > Εγκατεστημένες εφαρμογές.</string>
     <string name="xiaomi_external_storage_unavailable">Μη διαθέσιμος χώρος αποθήκευσης. Ελέγξτε την κάρτα SD σας.</string>
+    <string name="xiaomi_kilobytes_unit">%1$sKB</string>
+    <string name="xiaomi_megabytes_unit">%1$sMB</string>
     <string name="xiaomi_update_dialog_message">"Εισαγωγή έκδοσης %1$s
 Μέγεθος: %2$s"</string>
     <string name="xiaomi_update_dialog_message_diff">"Εισαγωγή έκδοσης %1$s
 Μέγεθος ενημέρωσης Delta: %2$s"</string>
     <string name="xiaomi_update_dialog_title">%1$s ενημέρωση!</string>
     <string name="year" />
+    <string name="app_notification_info">Η Αριθμομηχανή εκτελείται στο παρασκήνιο</string>
+    <string name="btn_float_window_alpha">Ρύθμιση αδιαφάνειας</string>
+    <string name="btn_float_window_back_to_app">Μεγιστοποίηση Αριθμομηχανής</string>
+    <string name="btn_float_window_close">Κλείσιμο ελαχιστοποιημένης Αριθμομηχανής</string>
+    <string name="btn_float_window_resize">Επαναμεγέθυνση ελαχιστοποιημένης αριθμομηχανής</string>
+    <string name="float_window_guide_text">Πατήστε εδώ για την ελαχιστοποίηση της Αριθμομηχανής</string>
+    <string name="hint_floatwindow_alpha_guide_text">Αγγίξτε για διόρθωση αδιαφάνειας</string>
+    <string name="view_float_window_move">Μετακίνηση ελαχιστοποιημένης Αριθμομηχανής</string>
 </resources>

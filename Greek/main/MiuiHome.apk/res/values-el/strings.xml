@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <string name="status_bar_notification_info_overflow">999+</string>
     <string name="action_add_to_workspace">Προσθήκη στον χώρο εργασίας</string>
     <string name="activity_not_found">Η εφαρμογή δεν έχει εγκατασταθεί στην συσκευή σας</string>
     <string name="add_screen">Προσθήκη οθόνης</string>
@@ -195,6 +196,7 @@
     <string name="is_system_wallpaper_message">Αδυναμία διαγραφής πόρων συστήματος</string>
     <string name="launcher_auto_fill_empty_title">Συμπλήρωση κενών κελιών</string>
     <string name="launcher_not_exist">Παρουσιάστηκε σφάλμα. Μεταβείτε στην Αρχική οθόνη και προσπαθήστε ξανά.</string>
+    <string name="launcher_sliding_up_gesture">Σαρώστε προς τα επάνω στην Αρχική οθόνη για άνοιγμα αναζήτησης</string>
     <string name="launcher_title">Αρχική οθόνη &amp; Πρόσφατα</string>
     <string name="like">Προσθήκη στα αγαπημένα</string>
     <string name="liked">Έγινε προσθήκη στα αγαπημένα</string>
@@ -355,6 +357,9 @@
     <string name="widget_global_search">Αναζήτηση</string>
     <string name="widget_quick_function">Γρήγορες λειτουργίες</string>
     <string name="widgets_preview_title">Προσθήκη widget</string>
+    <string name="edit_mode_dual_app">Create dual app</string>
+    <string name="edit_mode_group_error_cant_delete_system_apps">"Can't uninstall system apps"</string>
+    <string name="edit_mode_group_error_nothing_be_selected">Select an app first</string>
     <string name="home_gesture_content_center">Κέντρο Περιεχομένων</string>
     <string name="home_gesture_global_search">Αναζήτηση</string>
     <string name="home_gesture_no_action">Τίποτα</string>
@@ -363,6 +368,5 @@
     <string name="home_slide_up_action">Σύρετε προς τα πάνω στην Αρχική οθόνη</string>
     <string name="launcher_pull_down_title">Σύρετε προς τα κάτω στην Αρχική οθόνη</string>
     <string name="launcher_slide_up_title">Σύρετε προς τα πάνω στην Αρχική οθόνη</string>
-    <string name="launcher_sliding_up_gesture">Σαρώστε προς τα επάνω στην Αρχική οθόνη για άνοιγμα αναζήτησης</string>
     <string name="minus_one_screen">Θάλαμος εφαρμογών</string>
 </resources>
