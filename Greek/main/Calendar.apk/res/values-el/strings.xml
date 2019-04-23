@@ -290,7 +290,6 @@
     <string name="month_view">Μήνας</string>
     <string name="monthly">Μηνιαία</string>
     <string name="monthly_on_day">Μηνιαία(ίδια ημερομηνία)</string>
-    <string name="monthly_on_day_count">Μηνιαία (%1$s %2$s)</string>
     <string name="network_not_available">Αδυναμία σύνδεσης στο δίκτυο</string>
     <string name="new_event_description">Νέο</string>
     <string name="news">Νέα</string>
