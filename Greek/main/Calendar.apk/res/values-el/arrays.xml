@@ -81,6 +81,10 @@
         <item>Αυτό και μελλοντικά συμβάντα</item>
         <item>Όλα τα συμβάντα</item>
     </string-array>
+    <string-array name="english_premium_league">
+        <item>4</item>
+        <item>@string/english_premium_league</item>
+    </string-array>
     <string-array name="gemini_info">
         <item>gemini</item>
         <item>Δίδυμοι</item>
@@ -103,13 +107,6 @@
     <string-array name="ligue_1">
         <item>5</item>
         <item>Ligue 1</item>
-    </string-array>
-    <string-array name="ordinal_labels">
-        <item>πρώτη</item>
-        <item>δεύτερη</item>
-        <item>τρίτη</item>
-        <item>τέταρτη</item>
-        <item>τελευταία</item>
     </string-array>
     <string-array name="pisces_info">
         <item>pisces</item>
@@ -348,5 +345,42 @@
     <string-array name="widget_style_list">
         <item>Διάφανο</item>
         <item>Λευκό φόντο</item>
+    </string-array>
+    <string-array name="repeat_monthly_on_day_count_values">
+        <item>πρώτη Δευτέρα</item>
+        <item>πρώτη Τρίτη</item>
+        <item>πρώτη Τετάρτη</item>
+        <item>πρώτη Πέμπτη</item>
+        <item>πρώτη Παρασκευή</item>
+        <item>πρώτο Σάββατο</item>
+        <item>πρώτη Κυριακή</item>
+        <item>δεύτερη Δευτέρα</item>
+        <item>δεύτερη Τρίτη</item>
+        <item>δεύτερη Τετάρτη</item>
+        <item>δεύτερη Πέμπτη</item>
+        <item>δεύτερη Παρασκευή</item>
+        <item>δεύτερο Σάββατο</item>
+        <item>δεύτερη Κυριακή</item>
+        <item>τρίτη Δευτέρα</item>
+        <item>τρίτη Τρίτη</item>
+        <item>τρίτη Τετάρτη</item>
+        <item>τρίτη Πέμπτη</item>
+        <item>τρίτη Παρασκευή</item>
+        <item>τρίτο Σάββατο</item>
+        <item>τρίτη Κυριακή</item>
+        <item>τέταρτη Δευτέρα</item>
+        <item>τέταρτη Τρίτη</item>
+        <item>τέταρτη Τετάρτη</item>
+        <item>τέταρτη Πέμπτη</item>
+        <item>τέταρτη Παρασκευή</item>
+        <item>τέταρτο Σάββατο</item>
+        <item>τέταρτη Κυριακή</item>
+        <item>τελευταία Δευτέρα</item>
+        <item>τελευταία Τρίτη</item>
+        <item>τελευταία Τετάρτη</item>
+        <item>τελευταία Πέμπτη</item>
+        <item>τελευταία Παρασκευή</item>
+        <item>τελευταίο Σάββατο</item>
+        <item>τελευταία Κυριακή</item>
     </string-array>
 </resources>

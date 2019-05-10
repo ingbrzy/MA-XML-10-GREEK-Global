@@ -39,6 +39,7 @@
     <string name="business_card">Επαγγελματική κάρτα</string>
     <string name="business_card_result_title">Επαγγελματική κάρτα</string>
     <string name="business_card_title">Τοποθετήστε την επαγγελματική κάρτα μέσα στο πλαίσιο</string>
+    <string name="business_card_with_qr_code">Τοποθετήστε την επαγγελματική κάρτα ή τον Κωδικό QR μέσα στο πλαίσιο</string>
     <string name="business_copy">Αντιγραφή</string>
     <string name="business_new_contacts">Δημιουργία επαφής</string>
     <string name="business_no_result">Αδυναμία αναγνώρισης επαγγελματικής κάρτας. Προσπαθήστε ξανά.</string>

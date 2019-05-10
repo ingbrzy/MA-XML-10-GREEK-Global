@@ -4,6 +4,14 @@
         <item quantity="other">Σχόλια %d</item>
         <item quantity="one">Σχόλιο %d</item>
     </plurals>
+    <plurals name="resource_rating">
+        <item quantity="other">%1$.1f σημεία</item>
+        <item quantity="one">%1$.1f σημείο</item>
+    </plurals>
+    <plurals name="ringtone_nums">
+        <item quantity="other">%1$s ήχοι κλήσης</item>
+        <item quantity="one">%1$s ήχος κλήσης</item>
+    </plurals>
     <plurals name="theme_batch_has_update_text">
         <item quantity="other">Διαθέσιμες ενημερώσεις για %1$d θέματα.</item>
         <item quantity="one">Διαθέσιμη ενημέρωση για %1$d θέμα.</item>
@@ -23,6 +31,14 @@
     <plurals name="transparent_wallpaper_filter_result">
         <item quantity="other">εντοπίστηκαν %1$d εφαρμογές</item>
         <item quantity="one">εντοπίστηκε %1$d εφαρμογή</item>
+    </plurals>
+    <plurals name="trial_countdown_notification_tip">
+        <item quantity="other">Θα είστε σε θέση να δοκιμάσετε δωρεάν το \"%2$s\" σε %1$d ώρες</item>
+        <item quantity="one">Θα είστε σε θέση να δοκιμάσετε δωρεάν το \"%2$s\" σε %1$d ώρα</item>
+    </plurals>
+    <plurals name="try_3_day">
+        <item quantity="other">3-ήμερη δωρεάν δοκιμαστική έκδοση (παρέμειναν %1$d στοιχεία για σήμερα)</item>
+        <item quantity="one">3-ήμερη δωρεάν δοκιμαστική έκδοση (παρέμεινε %1$d στοιχείο για σήμερα)</item>
     </plurals>
     <plurals name="wallpaper_staggered_item_text">
         <item quantity="other">%1$s | %2$d εικόνες</item>

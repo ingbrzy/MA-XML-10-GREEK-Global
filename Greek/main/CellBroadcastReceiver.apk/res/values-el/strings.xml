@@ -2,7 +2,7 @@
 <resources>
     <string name="button_dismiss">OK</string>
     <string name="app_label">Εκπομπές κινητής τηλεφωνίας</string>
-    <string name="sms_cb_settings">Ρυθμίσεις εκπομπής κινητής τηλεφωνίας</string>
+    <string name="sms_cb_settings">Ειδοποιήσεις έκτακτης ανάγκης</string>
     <string name="cell_broadcast_settings_not_available">Οι ρυθμίσεις εκπομπής κινητής τηλεφωνίας δεν είναι διαθέσιμες για αυτόν το χρήστη</string>
     <string name="no_cell_broadcasts">Δεν υπάρχουν ενεργές ειδοποιήσεις στην περιοχή σας. Μπορείτε να αλλάξετε τις ρυθμίσεις ειδοποιήσεων χρησιμοποιώντας την επιλογή μενού Ρυθμίσεις.</string>
     <string name="menu_preferences">Ρυθμίσεις</string>

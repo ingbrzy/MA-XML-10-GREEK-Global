@@ -9,10 +9,19 @@
         <item>Αγόρι</item>
         <item>Κορίτσι</item>
     </string-array>
+    <string-array name="backup_automatically_key_words">
+        <item>Δημιουργία αντιγράφων ασφαλείας για φωτογραφίες</item>
+        <item>Συγχρονισμός φωτογραφιών με Mi Cloud</item>
+    </string-array>
     <string-array name="last_weekend_title">
         <item>Tα Σαββατοκύριακά μου</item>
         <item>Στιγμιότυπα ζωής</item>
         <item>Αναμνήσεις Σαββατοκύριακου</item>
+    </string-array>
+    <string-array name="menu_copy_or_move">
+        <item>Μετακίνηση</item>
+        <item>Αντιγραφή</item>
+        <item>@string/cancel</item>
     </string-array>
     <string-array name="month">
         <item>Ιανουάριος</item>

@@ -92,6 +92,8 @@
     <string name="content_description_complete">Ολοκληρώθηκε</string>
     <string name="language_picker_other_languages_title">Περισσότερες γλώσσες</string>
     <string name="language_settings">Επιλογή γλώσσας</string>
+    <string name="font_hint_normal">Αύξηση μεγέθους κειμένου</string>
+    <string name="font_hint_large">Προεπιλεγμένο μέγεθος κειμένου</string>
     <string name="navigation_picker_radio_text_full_screen">Χειρονομίες πλήρους οθόνης</string>
     <string name="navigation_picker_radio_text_virtual_key">Πλήκτρα</string>
     <string name="congratulation_swipe">Σαρώστε προς τα επάνω για να εισέλθετε στο σύστημα</string>
@@ -119,4 +121,8 @@
     <string name="ai_button_double_press_desc">Πατήστε διπλά το κουμπί AI για ολοκλήρωση προσαρμοσμένων εργασιών</string>
     <string name="zone_picker_title">Επιλογή ζώνης ώρας</string>
     <string name="locale_picker_other_locale_title">Περισσότερες περιοχές</string>
+    <string name="skip_gesture_guide_dialog_title">Χειρονομίες πλήρους οθόνης</string>
+    <string name="skip_gesture_guide_dialog_message">Βεβαιωθείτε ότι γνωρίζετε πώς να χρησιμοποιείτε τις χειρονομίες πλήρους οθόνης προτού επιλέξετε αυτή την επιλογή.</string>
+    <string name="skip_gesture_guide_dialog_negative_btn">Ακύρωση</string>
+    <string name="skip_gesture_guide_dialog_positive_btn">OK</string>
 </resources>

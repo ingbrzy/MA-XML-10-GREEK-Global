@@ -219,6 +219,7 @@
     <string name="passport_talkback_switch_image_captcha">Εναλλαγή σε κωδικό επαλήθευσης εικόνας</string>
     <string name="passport_license_info_open">Λεπτομέρειες</string>
     <string name="passport_license_info_collapse">Κλείσιμο</string>
+    <string name="passport_first_login_prompt">Θα δημιουργηθεί αυτόματα Mi Λογαριασμός όταν συνδεθείτε την πρώτη φορά.</string>
     <string name="search_app_name">Mi Λογαριασμός</string>
     <string name="search_mi_account">Mi Λογαριασμός</string>
     <string name="search_mi_account_key_words">Mi Cloud,Ρύθμιση Λογαριασμού,Πληροφορίες για Mi Πληρωμή,Αποσύνδεση</string>
@@ -353,6 +354,8 @@
     <string name="activity_not_found_notice">Αδυναμία εύρεσης εφαρμογής</string>
     <string name="scan_barcode_title">Για σύνδεση στο Mi Λογαριασμό σας, σαρώστε τον QR κωδικό</string>
     <string name="talkback_scan_barcode">Σάρωση QR κωδικού</string>
+    <string name="scan_barcode">Σάρωση Κωδικού QR για σύνδεση</string>
+    <string name="agreement_and_privacy">Πολιτική Απορρήτου και Όροι Χρήσης</string>
     <string name="authorize_title">Εξουσιοδότηση</string>
     <string name="my_device_title">Τρέχουσα συσκευή</string>
     <string name="device_list_title">Οι συσκευές μου</string>
@@ -419,9 +422,8 @@
     <string name="push_notify_dialog_title">Επαλήθευση λογαριασμού</string>
     <string name="push_notify_dialog_message">Μια άγνωστη συσκευή χρησιμοποιήθηκε για σύνδεση στο Mi Λογαριασμό σας. Εισαγάγετε αυτό το κωδικό επαλήθευσης στην συσκευή. Εάν δεν συνδεθήκατε εσείς, αλλάξτε αμέσως τον κωδικό του Mi Λογαριασμού σας. Μην γνωστοποιήσετε τον κωδικό επαλήθευσης σε άλλα άτομα.</string>
     <string name="account_secure_info_pref_title">Πληροφορίες λογαριασμού</string>
-    <string name="account_user_email">Email</string>
-    <string name="account_user_phone">Τηλέφωνο</string>
-    <string name="account_user_recovery_phone">Ανάκτηση τηλεφώνου</string>
+    <string name="account_user_email">Email ανάκτησης</string>
+    <string name="account_user_phone">Τηλέφωνο ανάκτησης</string>
     <string name="input_new_pwd">Εισαγωγή νέου κωδικού</string>
     <string name="confirm_new_pwd">Επιβεβαίωση νέου κωδικού</string>
     <string name="inconsistent_pwd">Οι κωδικοί δεν ταιριάζουν</string>

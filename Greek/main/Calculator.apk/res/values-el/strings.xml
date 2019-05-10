@@ -3,7 +3,12 @@
     <string name="allow">Συμφωνώ</string>
     <string name="app_name">Aριθμομηχανή</string>
     <string name="app_name_danfa">Mi Aριθμομηχανή</string>
+    <string name="app_notification_info">Η Αριθμομηχανή εκτελείται στο παρασκήνιο</string>
     <string name="base_rate">Βασικό επιτόκιο</string>
+    <string name="btn_float_window_alpha">Ρύθμιση αδιαφάνειας</string>
+    <string name="btn_float_window_back_to_app">Μεγιστοποίηση Αριθμομηχανής</string>
+    <string name="btn_float_window_close">Κλείσιμο ελαχιστοποιημένης Αριθμομηχανής</string>
+    <string name="btn_float_window_resize">Επαναμεγέθυνση ελαχιστοποιημένης αριθμομηχανής</string>
     <string name="cal_convert_to_word_figure">Μετατροπή σε οικονομικούς χαρακτήρες</string>
     <string name="cal_copy">Αντιγραφή</string>
     <string name="cal_edit_mode">Λειτουργία επεξεργασίας</string>
@@ -71,6 +76,7 @@
     <string name="extra_deduction_tips">Αγγίξτε το κουμπί στην επάνω γωνία της οθόνης για να δείτε τις λεπτομέρειες μείωσης.</string>
     <string name="extra_deduction_title">Πρόσθετες μειώσεις</string>
     <string name="factorialDesc">παραγοντικό</string>
+    <string name="float_window_guide_text">Πατήστε εδώ για την ελαχιστοποίηση της Αριθμομηχανής</string>
     <string name="fund" />
     <string name="fund_loan">Δάνειο χρηματοδότησης</string>
     <string name="further_education">Περαιτέρω εκπαίδευση</string>
@@ -91,6 +97,7 @@
     <string name="golbal_search_calculator_setting">Αριθμομηχανή, Ρυθμίσεις Αριθμομηχανής, Ρυθμίσεις</string>
     <string name="golbal_search_path_calculator_setting">Εφαρμογές συστήματος/Αριθμομηχανή/Ρυθμίσεις</string>
     <string name="help_content_desc">Βοήθεια</string>
+    <string name="hint_floatwindow_alpha_guide_text">Αγγίξτε για διόρθωση αδιαφάνειας</string>
     <string name="home_loan">Στεγαστικό ενδιαφέρον</string>
     <string name="home_title_calculator">Aριθμομηχανή</string>
     <string name="house_rent">Ενοικίαση</string>
@@ -569,6 +576,7 @@
     <string name="unit_yuan">CNY</string>
     <string name="updating">Ενημέρωση υπολογιστικής…</string>
     <string name="user_agreement">Όροι Χρήσης</string>
+    <string name="view_float_window_move">Μετακίνηση ελαχιστοποιημένης Αριθμομηχανής</string>
     <string name="voiceDesc">Φωνητικές εντολές</string>
     <string name="wf_word_figure">Οικονομικοί χαρακτήρες</string>
     <string name="word_figure_big_unit_fen">分</string>
@@ -592,20 +600,15 @@
     <string name="word_figure_unit_shi">拾</string>
     <string name="word_figure_yuan">元</string>
     <string name="word_figure_zheng">整</string>
+    <string name="xiaomi_bytes_unit">%1$sB</string>
     <string name="xiaomi_connect_download_manager_fail">Δεν ήταν δυνατή η σύνδεση με τις Λήψεις. Ελέγξτε αν αυτή η εφαρμογή διαθέτει όλα τα απαιτούμενα δικαιώματα στις Ρυθμίσεις > Εγκατεστημένες εφαρμογές.</string>
     <string name="xiaomi_external_storage_unavailable">Μη διαθέσιμος χώρος αποθήκευσης. Ελέγξτε την κάρτα SD σας.</string>
+    <string name="xiaomi_kilobytes_unit">%1$sKB</string>
+    <string name="xiaomi_megabytes_unit">%1$sMB</string>
     <string name="xiaomi_update_dialog_message">"Εισαγωγή έκδοσης %1$s
 Μέγεθος: %2$s"</string>
     <string name="xiaomi_update_dialog_message_diff">"Εισαγωγή έκδοσης %1$s
 Μέγεθος ενημέρωσης Delta: %2$s"</string>
     <string name="xiaomi_update_dialog_title">%1$s ενημέρωση!</string>
     <string name="year" />
-    <string name="app_notification_info">Η Αριθμομηχανή εκτελείται στο παρασκήνιο</string>
-    <string name="btn_float_window_alpha">Ρύθμιση αδιαφάνειας</string>
-    <string name="btn_float_window_back_to_app">Μεγιστοποίηση Αριθμομηχανής</string>
-    <string name="btn_float_window_close">Κλείσιμο ελαχιστοποιημένης Αριθμομηχανής</string>
-    <string name="btn_float_window_resize">Επαναμεγέθυνση ελαχιστοποιημένης αριθμομηχανής</string>
-    <string name="float_window_guide_text">Πατήστε εδώ για την ελαχιστοποίηση της Αριθμομηχανής</string>
-    <string name="hint_floatwindow_alpha_guide_text">Αγγίξτε για διόρθωση αδιαφάνειας</string>
-    <string name="view_float_window_move">Μετακίνηση ελαχιστοποιημένης Αριθμομηχανής</string>
 </resources>

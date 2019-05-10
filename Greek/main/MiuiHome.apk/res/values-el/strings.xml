@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <string name="status_bar_notification_info_overflow">999+</string>
     <string name="action_add_to_workspace">Προσθήκη στον χώρο εργασίας</string>
     <string name="activity_not_found">Η εφαρμογή δεν έχει εγκατασταθεί στην συσκευή σας</string>
     <string name="add_screen">Προσθήκη οθόνης</string>
@@ -110,9 +111,12 @@
     <string name="drag_single_item_name" />
     <string name="dual_app">Διπλότυπες εφαρμογές</string>
     <string name="edit_folder_title">Επεξεργασία ονόματος φακέλου</string>
+    <string name="edit_mode_dual_app">Δημιουργία διπλότυπης εφαρμογής</string>
     <string name="edit_mode_group">Ομάδα</string>
+    <string name="edit_mode_group_error_cant_delete_system_apps">Αδυναμία απεγκατάστασης εφαρμογών συστήματος</string>
     <string name="edit_mode_group_error_full">Ανεπαρκής χώρος</string>
     <string name="edit_mode_group_error_in_folder">Κλείστε τον φάκελο πριν ομαδοποιήσετε τα εικονίδια</string>
+    <string name="edit_mode_group_error_nothing_be_selected">Επιλέξτε πρώτα μια εφαρμογή</string>
     <string name="edit_mode_group_error_one_folder">Αδυναμία δημιουργίας διπλότυπου φακέλου όταν έχετε επιλεγμένα εικονίδια</string>
     <string name="edit_mode_top_menu_finish">Ολοκλήρωση</string>
     <string name="edit_mode_uninstall">Απεγκατάσταση</string>
@@ -186,15 +190,22 @@
     <string name="guide_install_app_msg">"This app isn't installed on your device. Find and install the app now?"</string>
     <string name="guide_install_app_title">Αναζήτηση και εγκατάσταση εφαρμογής;</string>
     <string name="guide_tips_editing_mode">Πατήστε &amp; πατήστε παρατεταμένα για να μετακινήσετε ένα widget</string>
+    <string name="home_gesture_content_center">Κέντρο Περιεχομένων</string>
+    <string name="home_gesture_global_search">Αναζήτηση</string>
+    <string name="home_gesture_no_action">Τίποτα</string>
+    <string name="home_gesture_notification_bar">Ειδοποιήσεις</string>
+    <string name="home_pull_down_action">Σύρετε προς τα κάτω στην Αρχική οθόνη</string>
     <string name="home_screen">Αρχική οθόνη</string>
+    <string name="home_slide_up_action">Σύρετε προς τα πάνω στην Αρχική οθόνη</string>
     <string name="icon_reorganize_channel">Τααξινόμηση εικονιδίων</string>
     <string name="image_too_small_message">Η αρχική εικόνα δεν είναι αρκετά μεγάλη.</string>
     <string name="install">Εγκατάσταση</string>
     <string name="invalid_contact_shortcut">Μη έγκυρη επαφή</string>
     <string name="is_setting_wallpaper_message">Γίνεται ορισμός ταπετσαρίας…</string>
     <string name="is_system_wallpaper_message">Αδυναμία διαγραφής πόρων συστήματος</string>
-    <string name="launcher_auto_fill_empty_title">Συμπλήρωση κενών κελιών</string>
     <string name="launcher_not_exist">Παρουσιάστηκε σφάλμα. Μεταβείτε στην Αρχική οθόνη και προσπαθήστε ξανά.</string>
+    <string name="launcher_pull_down_title">Σύρετε προς τα κάτω στην Αρχική οθόνη</string>
+    <string name="launcher_slide_up_title">Σύρετε προς τα πάνω στην Αρχική οθόνη</string>
     <string name="launcher_sliding_up_gesture">Σαρώστε προς τα επάνω στην Αρχική οθόνη για άνοιγμα αναζήτησης</string>
     <string name="launcher_title">Αρχική οθόνη &amp; Πρόσφατα</string>
     <string name="like">Προσθήκη στα αγαπημένα</string>
@@ -210,7 +221,7 @@
     <string name="memory_clear_nothing_result">Δεν υπάρχει τίποτα προς διαγραφή στην προσωρινή μνήμη</string>
     <string name="memory_clear_result">Έγινε εκκαθάριση %1$sB</string>
     <string name="menu_add">Προσθήκη</string>
-    <string name="menu_auto_fill">Συμπλήρωση κενών κελιών</string>
+    <string name="menu_auto_fill_of_uninstall">Συμπλήρωση κελιών μη εγκατεστημένων εφαρμογών</string>
     <string name="menu_back_desktop">Επιστροφή στην Αρχική Οθόνη</string>
     <string name="menu_cell_setting">Διάταξη αρχικής οθόνης</string>
     <string name="menu_customize">Ρυθμίσεις</string>
@@ -231,6 +242,7 @@
     <string name="menu_wallpaper">Ταπετσαρία</string>
     <string name="menu_workspace_preview">Προεπισκόπιση αρχικής οθόνης</string>
     <string name="mi_wallpaper">MIUI Θέματα</string>
+    <string name="minus_one_screen">Θάλαμος εφαρμογών</string>
     <string name="miui_screen_config_title">Ρυθμίσεις αρχικής οθόνης</string>
     <string name="mtzgadget_missing_text">Το widget δεν είναι διαθέσιμο</string>
     <string name="multi_selecting_tips">Για να μετακινήσετε μια εφαρμογή, σύρετε το εικονίδιο και αφήστε το εδώ.</string>
@@ -356,16 +368,7 @@
     <string name="widget_global_search">Αναζήτηση</string>
     <string name="widget_quick_function">Γρήγορες λειτουργίες</string>
     <string name="widgets_preview_title">Προσθήκη widget</string>
-    <string name="edit_mode_dual_app">Create dual app</string>
-    <string name="edit_mode_group_error_cant_delete_system_apps">"Can't uninstall system apps"</string>
-    <string name="edit_mode_group_error_nothing_be_selected">Select an app first</string>
-    <string name="home_gesture_content_center">Κέντρο Περιεχομένων</string>
-    <string name="home_gesture_global_search">Αναζήτηση</string>
-    <string name="home_gesture_no_action">Τίποτα</string>
-    <string name="home_gesture_notification_bar">Ειδοποιήσεις</string>
-    <string name="home_pull_down_action">Σύρετε προς τα κάτω στην Αρχική οθόνη</string>
-    <string name="home_slide_up_action">Σύρετε προς τα πάνω στην Αρχική οθόνη</string>
-    <string name="launcher_pull_down_title">Σύρετε προς τα κάτω στην Αρχική οθόνη</string>
-    <string name="launcher_slide_up_title">Σύρετε προς τα πάνω στην Αρχική οθόνη</string>
-    <string name="minus_one_screen">Θάλαμος εφαρμογών</string>
+    <string name="privacy_thumbnail_blur_summary">Blur app previews in Recents</string>
+    <string name="privacy_thumbnail_blur_title">Blur app previews</string>
+    <string name="system_shortcuts_more_operation">Πληροφορίες εφαρμογής</string>
 </resources>

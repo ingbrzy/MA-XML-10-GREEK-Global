@@ -15,7 +15,7 @@
     <string name="add_to_album_success">Προστέθηκε στο άλμπουμ</string>
     <string name="add_to_album_tip">Φωτογραφίες Cloud</string>
     <string name="add_to_favorites_failed">Αδυναμία προσθήκης στα αγαπημένα</string>
-    <string name="add_to_secret_exist">Η φωτογραφία υπάρχει ήδη στο κρυφό άλμπουμ</string>
+    <string name="add_to_secret_exist">Αυτό το αντικείμενο υπάρχει ήδη στο κρυφό άλμπουμ</string>
     <string name="add_to_secret_fail">Αδυναμία προσθήκης σε κρυφό άλμπουμ</string>
     <string name="add_to_secret_failed_with_reason">Αδυναμία προσθήκης σε κρυφό άλμπουμ. %1$s.</string>
     <string name="add_to_secret_successful">Έγινε προσθήκη σε κρυφό άλμπουμ</string>
@@ -32,13 +32,14 @@
     <string name="adjust_saturation">Κορεσμός</string>
     <string name="adjust_sharpen">Οξύτητα</string>
     <string name="adjust_vignette">Βινιετάρισμα</string>
-    <string name="agreement_agree">Αποδέχομαι</string>
+    <string name="agreement_agree">Αποδοχή</string>
     <string name="agreement_optional_tip">(Προαιρετικό)</string>
     <string name="agreement_quit">Έξοδος</string>
     <string name="agreement_required_tip">(Υποχρεωτικό)</string>
     <string name="agreement_summary">Νομικά έγγραφα</string>
     <string name="ai_album_open_switch_button_title">Ξεκινήστε την ανάλυση φωτογραφιών</string>
     <string name="ai_album_requesting_title">Ο αλγόριθμος AI εξακολουθεί να επεξεργάζεται τις φωτογραφίες σας. Επανέλθετε σε λίγο.</string>
+    <string name="ai_album_setting_key_word">Αναζήτηση φωτογραφιών</string>
     <string name="ai_album_setting_sub_title">Να επιτρέπεται στον αλγόριθμο AI ο εντοπισμός ατόμων, τοποθεσιών και αντικειμένων στις φωτογραφίες σας ώστε να μπορείτε να τους βρείτε πιο γρήγορα.</string>
     <string name="ai_album_setting_title">Προσδιορίστε αντικείμενα στις φωτογραφίες</string>
     <string name="album_already_exists_check">Προβολή</string>
@@ -188,6 +189,8 @@
     <string name="backuped_title">Επιτυχής δημιουργία αντιγράφου ασφαλείας</string>
     <string name="backuping_title_gprs">Γίνετε δημιουργία αντίγραφου ασφαλείας με δεδομένα κινητής τηλεφωνίας…</string>
     <string name="backuping_title_normal">Γίνεται δημιουργία αντίγραφου ασφαλείας…</string>
+    <string name="base_btn_cancel">Ακύρωση</string>
+    <string name="base_btn_download">Λήψη</string>
     <string name="begin_share">Δημιουργήθηκε άλμπουμ Μωρού \"%s\", μπορείτε να το κοινοποιήσετε τώρα</string>
     <string name="begin_share_toast">Δημιουργία ξεχωριστού άλμπουμ για το παιδί αυτό πριν την κοινοποίηση;</string>
     <string name="blank_app_name" />
@@ -499,6 +502,7 @@
     <string name="face_name_edit">Επεξεργασία</string>
     <string name="face_name_input">Εισαγωγή ονόματος</string>
     <string name="face_recommend">Προτάσεις</string>
+    <string name="face_recommend_group_number">%1$d/%2$d</string>
     <string name="fail_hint">Αδυναμία ολοκλήρωσης λειτουργίας</string>
     <string name="fail_to_pick_email">Μη έγκυρη διεύθυνση email</string>
     <string name="fail_to_sync_album">Αδυναμία συγχρονισμού άλμπουμ. Ελέγξτε την σύνδεση δεδομένων σας και προσπαθήστε ξανά.</string>
@@ -509,6 +513,7 @@
     <string name="feature_guidance_photo_effects">"Νέα εφέ
  φωτογραφίας διαθέσιμα"</string>
     <string name="feature_guidance_video_editor_smart_effects">Νέα εφέ διαθέσιμα</string>
+    <string name="fileSizeSuffix">%1$s%2$s</string>
     <string name="filter_bi_bw">Μ&amp;Α</string>
     <string name="filter_bi_dusk">Σούρουπο</string>
     <string name="filter_bi_lilt">Lilt</string>
@@ -526,6 +531,7 @@
     <string name="filter_category_master">Master</string>
     <string name="filter_category_portrait">Πορτρέτο</string>
     <string name="filter_category_scene">Τοπίο</string>
+    <string name="filter_category_sky">Ουρανός</string>
     <string name="filter_film_blackwhite">Μ&amp;Α</string>
     <string name="filter_film_dew">Δροσιά</string>
     <string name="filter_film_fade">Ξεθώριασμα</string>
@@ -568,6 +574,17 @@
     <string name="filter_scene_series">Αντανακλάσεις</string>
     <string name="filter_scene_vivid">Ζωντάνια</string>
     <string name="filter_scene_warm">Ήλιος</string>
+    <string name="filter_sky_cloudy">Συνvεφιασμένος</string>
+    <string name="filter_sky_detect_forbidden_tips">Αδυναμία ανίχνευσης ουρανού</string>
+    <string name="filter_sky_download_failed">Αδυναμία λήψης plug-in. Ελέγξτε τις ρυθμίσεις δικτύου και προσπαθήστε ξανά.</string>
+    <string name="filter_sky_download_finish">Επιτυχής λήψη plug-in</string>
+    <string name="filter_sky_download_sdk_without_wifi_msg">Εάν δεν είστε συνδεδεμένοι σε δίκτυο Wi-Fi, μπορείτε να χρησιμοποιήσετε δεδομένα κινητής τηλεφωνίας για να κατεβάσετε το plug-in (%1$dMB) που σας επιτρέπει την αντικατάσταση του ουρανού στις φωτογραφίες σας.</string>
+    <string name="filter_sky_download_sdk_without_wifi_title">Λήψη plug-in</string>
+    <string name="filter_sky_dusk">Σούρουπο</string>
+    <string name="filter_sky_glow">Λάμψη</string>
+    <string name="filter_sky_rainbow">Ουράνιο τόξο</string>
+    <string name="filter_sky_sunny">Ηλιοφάνεια</string>
+    <string name="filter_sky_sunset">Ηλιοβασίλεμα</string>
     <string name="finish_create_baby_album_toast">Δημιουργήθηκε ένα άλμπουμ για \"%s\" στο Mi Cloud</string>
     <string name="finish_fill_baby">Δημιουργία</string>
     <string name="flash_off">Χωρίς Φλας</string>
@@ -582,13 +599,14 @@
     <string name="gif_tip">GIF</string>
     <string name="gigabyteShort">GB</string>
     <string name="grant_permission_go_and_set">Ρύθμιση</string>
+    <string name="grant_permission_item">\"%s\"</string>
     <string name="grant_permission_text">"Η Συλλογή απαιτεί πρόσβαση σε 
 %s
  για κανονική λειτουργία, πατήστε \"Ρύθμιση\" για να μεταβείτε στις Άδειες."</string>
     <string name="grant_permission_title">Αποδοχή πρόσβασης</string>
     <string name="grant_permission_unlock_and_set">Ξεκλείδωμα και ρύθμιση</string>
     <string name="has_invalid_recipient">Μη έγκυροι παραλήπτες: %1$s</string>
-    <string name="have_known">Κατάλαβα</string>
+    <string name="have_known">Κατανοητό</string>
     <string name="hidden_album_display_name">Κρυφό άλμπουμ</string>
     <string name="home_menu_cleaner">Ελευθερώστε χώρο</string>
     <string name="home_menu_collage">Κολάζ</string>
@@ -835,6 +853,7 @@
     <string name="people_mark_mode_title_no_mark_name">Επιλέξτε ένα άτομο</string>
     <string name="people_page_label">Άτομα</string>
     <string name="people_page_unname">Χωρίς όνομα</string>
+    <string name="percent_sign">%</string>
     <string name="permissin_contract_desc">Για την ονομασία ατόμων στις φωτογραφίες</string>
     <string name="permission_contract_name">Επαφές</string>
     <string name="permission_optional_category">Προαιρετικές άδειες</string>
@@ -843,7 +862,7 @@
     <string name="permission_require_category">Υποχρεωτικές άδειες</string>
     <string name="permission_storage_desc">Για την εμφάνιση, επεξεργασία και αποθήκευση φωτογραφιών</string>
     <string name="permission_storage_name">Χώρος αποθήκευσης</string>
-    <string name="permission_use_desc">Δικαιώματα</string>
+    <string name="permission_use_desc">Άδειες</string>
     <string name="pet_album_display_name">Φωτογραφίες κατοικίδιων</string>
     <string name="petabyteShort">PB</string>
     <string name="photo">Φωτογραφίες</string>
@@ -1030,7 +1049,12 @@
     <string name="scan_barcode_to_join">Σάρωση QR κωδικού για προσθήκη στο άλμπουμ</string>
     <string name="scan_qr_code_buttom_text">Σάρωση QR κωδικού για προβολή του άλμπουμ</string>
     <string name="screen_doodle_talkback_size">Πλάτος γραμμής doodle</string>
+    <string name="screen_editor_crop">@string/photo_editor_long_crop</string>
+    <string name="screen_editor_doodle">@string/photo_editor_doodle</string>
     <string name="screen_editor_finish">Ολοκλήρωση</string>
+    <string name="screen_editor_mosaic">@string/photo_editor_mosaic</string>
+    <string name="screen_editor_send">@string/operation_send</string>
+    <string name="screen_editor_text">@string/photo_editor_text</string>
     <string name="screen_save_dialog_btn_cancel">Ακύρωση</string>
     <string name="screen_save_dialog_btn_delete">Διαγραφή στιγμιοτύπου οθόνης</string>
     <string name="screen_save_dialog_btn_save">Αποθήκευση σε Συλλογή</string>
@@ -1088,6 +1112,9 @@
     <string name="search_title_recommend">Προτεινόμενα</string>
     <string name="search_title_suggestion">Προτάσεις</string>
     <string name="search_title_tag">Αντικείμενα</string>
+    <string name="search_transition_element_icon">search_icon</string>
+    <string name="search_transition_element_input">search_input</string>
+    <string name="search_transition_element_voice">search_voice</string>
     <string name="searching_cast_devices">Αναζήτηση για προβολέα…</string>
     <string name="secret_album_card_description">Το καλύτερο μέρος για όλα τα μυστικά σας</string>
     <string name="secret_album_card_title">Δοκιμάστε τα κρυφά άλμπουμ</string>
@@ -1251,6 +1278,7 @@
     <string name="today">Σήμερα</string>
     <string name="too_many_recipients">Αδυναμία προσθήκης παραπάνω από %2$s παραλήπτες(Έχετε ήδη προσθέσει %1$s).</string>
     <string name="trash_bin">Κάδος σκουπιδιών</string>
+    <string name="trash_bin_key_word">Διαγραμμένες φωτογραφίες</string>
     <string name="trash_bin_summary">Αναζήτηση φωτογραφιών με αντίγραφα ασφαλείας που διαγράφηκαν πρόσφατα</string>
     <string name="try_again_later">Προσπαθήστε ξανά αργότερα.</string>
     <string name="try_to_send">Αποστολή</string>

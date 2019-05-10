@@ -56,6 +56,7 @@
     <string name="loading_space">Περιμένετε μια στιγμή…</string>
     <string name="private_space_setting">Διαχείρηση</string>
     <string name="exit_private_space">Εναλλαγή</string>
+    <string name="kid_mode_label">Χώρος παιδιού</string>
     <string name="wating">Περιμένετε μια στιγμή…</string>
     <string name="Active">Ενεργό</string>
     <string name="ok_button">OK</string>
@@ -161,6 +162,7 @@
     <string name="create_space_loading">Γίνεται δημιουργία Δεύτερου χώρου…</string>
     <string name="close_second_space">Έγινε διαγραφή Δεύτερου χώρου</string>
     <string name="close_second_space_success">Έγινε διαγραφή Δεύτερου χώρου</string>
+    <string name="close_kid_space_success">Έγινε διαγραφή Χώρου παιδιού</string>
     <string name="enable">Ενεργοποίηση</string>
     <string name="disable">Απενεργοποίηση</string>
     <string name="PrivacyContactDes1">"Οι επαφές θα γίνουν προσωπικές.
@@ -462,4 +464,6 @@
     <string name="button_touch">Τοποθετήστε το δάκτυλο σας στον αισθητήρα</string>
     <string name="button_input_password">Εισαγωγή κωδικού</string>
     <string name="master_clear_not_available">Η εταιρεία σας απαγορεύει την Εργοστασιακή επαναφορά.</string>
+    <string name="dual_animation">Εκκίνηση εφέ κίνησης</string>
+    <string name="dual_animation_description">Εμφάνιση εφέ κίνησης όταν γίνεται εκκίνηση διπλότυπων εφαρμογών</string>
 </resources>

@@ -23,6 +23,7 @@
     <string name="dialog_alert_title">Προσοχή</string>
     <string name="VideoView_error_text_invalid_progressive_playback">Αυτό το βίντεο δεν είναι έγκυρο για ροή σε αυτή τη συσκευή.</string>
     <string name="selectTextMode">Επιλογή κειμένου</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
     <string name="fingerprint_icon_content_description">Εικονίδιο δακτυλικών αποτυπωμάτων</string>
     <string name="paste_as_plain_text">Επικόλληση ως απλό κείμενο</string>
     <string name="autofill">Αυτόματη συμπλήρωση</string>
@@ -386,6 +387,7 @@
     <string name="fast_scroll_numeric_alphabet">" 0123456789ABCDEFGHIJKLMNOPQRSTUVWXYZ"</string>
     <string name="fcComplete">Ο κωδικός λειτουργίας ολοκληρώθηκε.</string>
     <string name="fcError">Πρόβλημα σύνδεσης ή μη έγκυρος κώδικας δυνατότητας.</string>
+    <string name="fileSizeSuffix">%1$s %2$s</string>
     <string name="find">Εύρεση</string>
     <string name="find_next">Εύρεση επόμενου</string>
     <string name="find_on_page">Εύρεση στη σελίδα</string>
@@ -591,6 +593,7 @@
     <string name="kg_reordering_delete_drop_target_text">Κατάργηση</string>
     <string name="kg_sim_pin_instructions">Εισαγωγή PIN SIM</string>
     <string name="kg_sim_unlock_progress_dialog_message">Ξεκλείδωμα κάρτας SIM...</string>
+    <string name="kg_text_message_separator">" — "</string>
     <string name="kg_too_many_failed_password_attempts_dialog_message">"Έχετε πληκτρολογήσει τον κωδικό πρόσβασης εσφαλμένα %1$d φορές. 
 
 Δοκιμάστε ξανά σε %2$d δευτερόλεπτα."</string>
@@ -615,14 +618,14 @@
     <string name="leave_accessibility_shortcut_on">Χρήση συντόμευσης</string>
     <string name="loading">Φόρτωση…</string>
     <string name="locale_search_menu">Αναζήτηση</string>
-    <string name="lock_to_app_description">"Το καρφίτσωμα κλειδώνει την οθόνη σε μια ενιάια προβολή.
+    <string name="lock_to_app_description">"Το καρφίτσωμα οθόνης κλειδώνει την οθόνη σε μια ενιαία προβολή.
 
-Για να ξεκαρφιτσώσετε πατήστε παρατεταμένα το κουμπί Αρχικής και το κουμπί λειτουργίας την ίδια στιγμή."</string>
-    <string name="lock_to_app_description_accessible">"Το καρφίτσωμα κλειδώνει την οθόνη σε μια ενιάια προβολή.
+Για να ξεκαρφιτσώσετε πατήστε παρατεταμένα το κουμπί Αρχικής και το κουμπί Λειτουργίας ταυτόχρονα."</string>
+    <string name="lock_to_app_description_accessible">"Το καρφίτσωμα οθόνης κλειδώνει την οθόνη σε μια ενιαία προβολή.
 
-Για να ξεκαρφιτσώσετε πατήστε παρατεταμένα το κουμπί Home και το κουμπί λειτουργίας την ίδια στιγμή."</string>
-    <string name="lock_to_app_toast">Για να ξεκαρφιτσώσετε αυτήν την οθόνη, πατήστε και κρατήστε παρατεταμένα το κουμπί Αρχικής και το κουμπί λειτουργίας την ίδια στιγμή.</string>
-    <string name="lock_to_app_toast_accessible">Για να ξεκαρφιτσώσετε αυτήν την οθόνη, πατήστε και κρατήστε παρατεταμένα το κουμπί Home και το κουμπί λειτουργίας την ίδια στιγμή.</string>
+Για να ξεκαρφιτσώσετε πατήστε παρατεταμένα το κουμπί Αρχικής και το κουμπί Λειτουργίας ταυτόχρονα."</string>
+    <string name="lock_to_app_toast">Για να ξεκαρφιτσώσετε αυτή την οθόνη, πατήστε παρατεταμένα το κουμπί Αρχικής και το κουμπί λειτουργίας την ίδια στιγμή.</string>
+    <string name="lock_to_app_toast_accessible">Για να ξεκαρφιτσώσετε αυτή την οθόνη, πατήστε παρατεταμένα το κουμπί Αρχικής και το κουμπί Λειτουργίας ταυτόχρονα.</string>
     <string name="lock_to_app_unlock_password">Να γίνεται ερώτηση για τον κωδικό πρόσβασης, πριν από το ξεκαρφίτσωμα</string>
     <string name="lock_to_app_unlock_pattern">Να γίνεται ερώτηση για το μοτίβο ξεκλειδώματος, πριν από το ξεκαρφίτσωμα</string>
     <string name="lock_to_app_unlock_pin">Να γίνεται ερώτηση για το PIN, πριν από το ξεκαρφίτσωμα</string>
@@ -662,7 +665,7 @@
     <string name="lockscreen_pattern_instructions">Σχεδιασμός μοτίβου για ξεκλείδωμα</string>
     <string name="lockscreen_pattern_wrong">Προσπαθήστε ξανά</string>
     <string name="lockscreen_permanent_disabled_sim_instructions">"Η κάρτα SIM σας έχει απενεργοποιηθεί μόνιμα.
-Επικοινωνήστε με τον πάροχο σας για άλλη κάρτα SIM."</string>
+Επικοινωνήστε με τον παροχέα σας για άλλη κάρτα SIM."</string>
     <string name="lockscreen_permanent_disabled_sim_message_short">Κάρτα SIM χωρίς δυνατότητα χρήσης.</string>
     <string name="lockscreen_return_to_call">Επιστροφή στην κλήση</string>
     <string name="lockscreen_screen_locked">Η οθόνη κλειδώθηκε.</string>
@@ -883,6 +886,7 @@
     <string name="notification_channel_wfc">Κλήση Wi-Fi</string>
     <string name="notification_hidden_text">Νέα ειδοποίηση</string>
     <string name="notification_listener_binding_label">Υπηρεσία ακρόασης ειδοποίησης</string>
+    <string name="notification_messaging_title_template">%1$s: %2$s</string>
     <string name="notification_ranker_binding_label">Υπηρεσία κατάταξης ειδοποιήσεων</string>
     <string name="notification_reply_button_accessibility">Απάντηση</string>
     <string name="notification_title">Σφάλμα σύνδεσης για τον λογαριασμό %1$s</string>
@@ -1428,11 +1432,11 @@
     <string name="system_error_wipe_data">Υπάρχει ένα εσωτερικό πρόβλημα με τη συσκευή σας και ενδέχεται να είναι ασταθής μέχρι την επαναφορά των εργοστασιακών ρυθμίσεων.</string>
     <string name="taking_remote_bugreport_notification_title">Λήψη αναφοράς σφάλματος…</string>
     <string name="terabyteShort">TB</string>
-    <string name="tethered_notification_message">Tap to set up.</string>
-    <string name="tethered_notification_multi_device_message">%1$s connected devices</string>
-    <string name="tethered_notification_no_device_message">No connected device</string>
-    <string name="tethered_notification_one_device_message">%1$s connected device</string>
-    <string name="tethered_notification_title">Tethering or hotspot active</string>
+    <string name="tethered_notification_message">Πατήστε για ρύθμιση.</string>
+    <string name="tethered_notification_multi_device_message">Συνδεδεμένες συσκευές: %1$s</string>
+    <string name="tethered_notification_no_device_message">Δεν υπάρχουν συνδεδεμένες συσκευές</string>
+    <string name="tethered_notification_one_device_message">Συνδεδεμένες συσκευές: %1$s</string>
+    <string name="tethered_notification_title">Ενεργά tethering ή hotspot</string>
     <string name="textSelectionCABTitle">Επιλογή κειμένου</string>
     <string name="text_copied">Το κείμενο αντιγράφηκε στο πρόχειρο.</string>
     <string name="time_of_day" formatted="false">%-l:%M:%S %p</string>
@@ -1503,7 +1507,7 @@
     <string name="volume_icon_description_incall">Κλήση</string>
     <string name="volume_icon_description_media">Πολυμέσα</string>
     <string name="volume_icon_description_notification">Ειδοποίηση</string>
-    <string name="volume_icon_description_ringer">Ένταση ήχου κλήσης</string>
+    <string name="volume_icon_description_ringer">Ήχος κλήσης</string>
     <string name="volume_music">Ένταση ήχου πολυμέσων</string>
     <string name="volume_music_hint_playing_through_bluetooth">Αναπαραγωγή μέσω Bluetooth</string>
     <string name="volume_music_hint_silent_ringtone_selected">Ορίστηκε αθόρυβος ήχος κλήσης</string>
@@ -1608,6 +1612,7 @@
     <string name="zen_mode_feature_name">Μην ενοχλείτε</string>
     <string name="zen_mode_forever">Μέχρι την απενεργοποίηση</string>
     <string name="zen_mode_forever_dnd">Μέχρι να απενεργοποιήσετε \"Μην ενοχλείτε\"</string>
+    <string name="zen_mode_rule_name_combination">%1$s / %2$s</string>
     <string name="zen_mode_until">Έως τις %1$s</string>
     <string name="zen_upgrade_notification_content">Πατήστε για να ελέγξετε το περιεχόμενο που έχει αποκλειστεί.</string>
     <string name="zen_upgrade_notification_title">Η λειτουργία \"Μην ενοχλείτε\" άλλαξε</string>

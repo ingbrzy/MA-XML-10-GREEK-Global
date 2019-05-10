@@ -38,7 +38,9 @@
     <string name="exo_download_notification_channel_name">Λήψεις</string>
     <string name="exo_download_removing">Κατάργηση λήψεων</string>
     <string name="exo_item_list">%1$s, %2$s</string>
+    <string name="exo_track_bitrate">%1$.2f Mbps</string>
     <string name="exo_track_mono">Μονοφωνικό</string>
+    <string name="exo_track_resolution">%1$d × %2$d</string>
     <string name="exo_track_selection_auto">Αυτόματο</string>
     <string name="exo_track_selection_none">Κανένα</string>
     <string name="exo_track_selection_title_audio">Ήχος</string>
@@ -50,6 +52,7 @@
     <string name="exo_track_surround_7_point_1">Περιφερειακός ήχος 7.1</string>
     <string name="exo_track_unknown">Άγνωστο</string>
     <string name="search_menu_title">Αναζήτηση</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
     <string name="accessibility_setting_hint">"Πατήστε το κουμπί στην επάνω δεξιά γωνία για να ενεργοποιήσετε αυτή την υπηρεσία.
 Τα θέματα θα εντοπίσουν τις εφαρμογές που χρησιμοποιείτε και θα εμφανίζουν διαφανείς ταπετσαρίες στις εφαρμογές της επιλογής σας."</string>
     <string name="accessibiliy_description_content_account">Προφίλ</string>
@@ -89,6 +92,7 @@
     <string name="apply_theme_with_ringtones">Χρήση ήχων θεμάτων</string>
     <string name="audio_duration_minutes_format">%1$d λεπτά</string>
     <string name="audio_duration_seconds_format">%1$d δευτερόλεπτα</string>
+    <string name="audition_ringtone">Αναπαραγωγή</string>
     <string name="automatically_update_using_theme_tips">Αυτόματη ενημέρωση την επόμενη φορά</string>
     <string name="backup_theme_dialog_message">Δημιουργία αντίγραφου ασφαλείας για τρέχον θέμα;</string>
     <string name="backup_theme_dialog_ok">Δημιουργία</string>
@@ -115,6 +119,7 @@
     <string name="component_title_settings_video_wallpaper">Ταπετσαρίες με ειδικά εφέ</string>
     <string name="component_title_video_wallpaper">Ταινίες ταπετσαριών</string>
     <string name="component_title_wallpaper">Ταπετσαρίες</string>
+    <string name="count_down_tip">%dδ απομένουν</string>
     <string name="current_using_desktop_wallpaper_text">Αρχική οθόνη</string>
     <string name="current_using_lockscreen_wallpaper_text">Οθόνη κλειδώματος</string>
     <string name="current_version_incompatible">Μη συμβατό</string>
@@ -206,11 +211,13 @@
     <string name="incompatible_dialog_ok">Κατάλαβα</string>
     <string name="incompatible_dialog_title">Προβλήματα συμβατότητας</string>
     <string name="is_setting_wallpaper_message">Γίνεται ορισμός ταπετσαρίας…</string>
+    <string name="item_resource_audio_divider">│</string>
     <string name="item_resource_audio_optional_alarm_ring">Ξυπνητήρια</string>
     <string name="item_resource_audio_optional_color_ring">Τόνος επιστροφής κλήσης</string>
     <string name="item_resource_audio_optional_notification_ring">Ειδοποιήσεις</string>
     <string name="item_resource_audio_optional_phone_ring">Ήχος κλήσης</string>
     <string name="lab">Εργαστήριο Θεμάτων</string>
+    <string name="like_list">Αντικείμενα που μου άρεσαν</string>
     <string name="live_wallpaper">Ζωντανή ταπετσαρία</string>
     <string name="loading">Περιμένετε μία στιγμή…</string>
     <string name="loading_resource_detail_fail">Αδυναμία φόρτωσης πηγής</string>
@@ -277,6 +284,7 @@
     <string name="online_precust_plant">Φυτό</string>
     <string name="online_precust_scenery">Τοπίο</string>
     <string name="online_search_hint">Αναζήτηση πηγών στο διαδίκτυο</string>
+    <string name="playing_ringtone">Σε αναπαραγωγή</string>
     <string name="pref_privacy_policy">Πολιτική Απορρήτου</string>
     <string name="present_local_fonts">Οι γραμματοσειρές μου</string>
     <string name="present_local_themes">Τα θέματα μου</string>
@@ -309,7 +317,6 @@
     <string name="resource_alarm_default">Ξυπνητήρι</string>
     <string name="resource_app_name">Εμφάνιση πηγών</string>
     <string name="resource_apply">Εφαρμογή</string>
-    <string name="resource_apply_trial">Δοκιμάστε τώρα</string>
     <string name="resource_back">Πίσω</string>
     <string name="resource_buy">Αγορά</string>
     <string name="resource_can_not_selected">Αδυναμία επιλογής %1$s</string>
@@ -380,7 +387,6 @@
     <string name="resource_download">Λήψη</string>
     <string name="resource_download_notification_title_many">Έγινε λήψη %1$s θεμάτων</string>
     <string name="resource_download_notification_title_one">Έγινε λήψη θέματος</string>
-    <string name="resource_download_trial">Δοκιμάστε δωρεάν</string>
     <string name="resource_downloaded_title">Κατεβασμένες πηγές</string>
     <string name="resource_downloading">Γίνεται λήψη</string>
     <string name="resource_exchange">Εξαργύρωση</string>
@@ -435,6 +441,7 @@
     <string name="resource_pack_price_info">Αρχική τιμή: %1$s</string>
     <string name="resource_pack_warning">Έχετε ήδη αγοράσει %1$d από τα συστατικά αυτού του θέματος. Για αυτό η αγορά των υπόλοιπων συστατικών ξεχωριστά είναι πιο φθηνή επιλογή.</string>
     <string name="resource_present">Δώρο</string>
+    <string name="resource_price_format">(%1$s)</string>
     <string name="resource_price_free">Δωρεάν</string>
     <string name="resource_price_unit">Mi Credits</string>
     <string name="resource_purchase_common_error">Παρουσιάστηκε σφάλμα, προσπαθήστε ξανά</string>
@@ -446,6 +453,10 @@
     <string name="resource_ranking">Δημοφιλή</string>
     <string name="resource_ranking_free">Δωρεάν</string>
     <string name="resource_ranking_purchase">Επί πληρωμή</string>
+    <string name="resource_ring_ranking_list_divider">-</string>
+    <string name="resource_ring_ranking_list_rank_1">1</string>
+    <string name="resource_ring_ranking_list_rank_2">2</string>
+    <string name="resource_ring_ranking_list_rank_3">3</string>
     <string name="resource_ringtone_default">Ήχοι κλήσης</string>
     <string name="resource_ringtone_playing_error">Σφάλμα</string>
     <string name="resource_ringtone_volume_mute">Έγινε σίγαση κουδουνίσματος</string>
@@ -540,8 +551,6 @@
     <string name="theme_changed_failed_message">Αδυναμία εφαρμογής θέματος</string>
     <string name="theme_changed_message">Το θέμα έχει εφαρμοστεί</string>
     <string name="theme_changing_dialog_title">"Γίνεται εφαρμογή "</string>
-    <string name="theme_comment_dialog_message">Αξιολογήστε αυτή την εφαρμογή και πείτε μας τι πιστεύετε.</string>
-    <string name="theme_comment_dialog_ok">Αξιολόγηση</string>
     <string name="theme_component_title_alarm">Ξυπνητήρι</string>
     <string name="theme_component_title_alarmstyle">Στυλ ξυπνητηριού</string>
     <string name="theme_component_title_all">Θέματα</string>
@@ -585,13 +594,13 @@
     <string name="theme_is_external_priority_storage">Αποθήκευση σε κάρτα SD</string>
     <string name="theme_is_external_priority_storage_summary">Η εφαρμογή Θέματα θα κάνει αμέσως επανεκκίνηση για την εφαρμογή αυτής της ρύθμισης.</string>
     <string name="theme_multiple_button_title_customize">Προσαρμογή</string>
+    <string name="theme_name">%1$s</string>
     <string name="theme_no">Όχι</string>
     <string name="theme_purchased_list_empty">Δεν έχετε αγοράσει θέματα.</string>
     <string name="theme_purchased_non_local">Online</string>
     <string name="theme_select_others">Αναζήτηση</string>
     <string name="theme_setting">Ρυθμίσεις</string>
     <string name="theme_staggered_item_text">Λήψη Mi Πιστώσεων</string>
-    <string name="theme_to_comment">Καθόλου άσχημα!</string>
     <string name="theme_user_agreement_allow">Αποδοχή</string>
     <string name="theme_user_agreement_content1">"Με την χρήση αυτού του προϊόντος, είστε σύμφωνος με τα "</string>
     <string name="theme_user_agreement_content2">Όροι Χρήσης</string>
@@ -630,6 +639,17 @@
     <string name="transparent_wallpaper_guide">Μετάβαση στα Θέματα</string>
     <string name="transparent_wallpaper_guide_tip">Μπορείτε να επιλέξετε μια διαφανή ταπετσαρία στα Θέματα τώρα.</string>
     <string name="transparent_wallpaper_pref_summary">Ταπετσαρίες με μειωμένη αδιαφάνεια παρασκηνίου</string>
+    <string name="transparent_wallpaper_white_wallpaper">Κάντε το φόντο λευκό</string>
+    <string name="transparent_wallpaper_white_wallpaper_failed">Αδυναμία μετατροπής φόντου σε λευκό</string>
+    <string name="transparent_wallpaper_white_wallpaper_success">Το χρώμα φόντου είναι λευκό τώρα</string>
+    <string name="transparent_wallpaper_white_wallpaper_tip">Η διαφανής ταπετσαρία φαίνεται καλύτερα σε λευκό φόντο</string>
+    <string name="trial_count_empty">Δεν υπάρχουν άλλα ελεύθερα στοιχεία για σήμερα. Επιστρέψτε αύριο!</string>
+    <string name="trial_count_tip">Δοκιμαστική περίοδος τελειώνει σε %1$s:%2$s:%3$s</string>
+    <string name="trial_for_free">Δωρεάν δοκιμή</string>
+    <string name="trial_get_failed_tip">Τελειώστε την παρακολούθηση του βίντεο για να λάβετε το θέμα.</string>
+    <string name="trial_get_success_tip">Συγχαρητήρια! Έχεις μία 3-ήμερη δωρεάν δοκιμή.</string>
+    <string name="trial_now">Δοκιμάστε τώρα</string>
+    <string name="try_5_min">Δοκιμάστε για 5 λεπτά</string>
     <string name="uid_change_dialog_message">Διαγράψατε ενημερώσεις. Επανεκκινήστε την συσκευή για δυνατότητα χρήσης θεμάτων.</string>
     <string name="uid_change_dialog_ok">Κατάλαβα</string>
     <string name="uid_change_dialog_title">Επανεκκίνηση συσκευής</string>
@@ -647,6 +667,11 @@
     <string name="using_theme_next_automatic_update">Αυτόματες ενημερώσεις</string>
     <string name="using_theme_next_automatic_update_summary">Ενημέρωση ληφθέντων θεμάτων μέσω Wi-Fi αυτόματα όταν η οθόνη είναι κλειδωμένη</string>
     <string name="using_theme_show_ad">Προτάσεις</string>
+    <string name="video_ad_click">Δοκιμάστε τώρα</string>
+    <string name="video_ad_try_for_free">Δωρεάν δοκιμή</string>
+    <string name="video_ad_uncomplete_tip">Τελειώστε την παρακολούθηση του βίντεο για να λάβετε το θέμα.</string>
+    <string name="video_ad_uncomplete_tip_cancel">Ακύρωση</string>
+    <string name="video_ad_uncomplete_tip_continue">Συνέχεια παρακολούθησης</string>
     <string name="video_audio_apply_success">Επιτυχής διαμόρφωση σε βίντεο με ήχο</string>
     <string name="video_data_tips_message">"Η χρήση δεδομένων κινητής ενδέχεται να προκαλέσει πρόσθετες χρεώσεις. Συνέχεια παρ' όλα αυτά;"</string>
     <string name="video_data_tips_title">Προειδοποίηση κατανάλωσης δεδομένων</string>

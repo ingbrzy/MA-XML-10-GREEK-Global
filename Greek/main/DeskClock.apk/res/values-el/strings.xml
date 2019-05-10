@@ -28,6 +28,7 @@
     <string name="abc_shareactionprovider_share_with_application">Κοινή χρήση με %s</string>
     <string name="abc_toolbar_collapse_description">Σύμπτυξη</string>
     <string name="search_menu_title">Αναζήτηση</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
     <string name="add_alarm">Προσθήκη ξυπνητηριού</string>
     <string name="add_clock">Προσθήκη ρολογιού</string>
     <string name="add_timezone_title">Προσθήκη ζώνης ώρας</string>
@@ -86,7 +87,7 @@
     <string name="dialog_message_for_contact_permission">Για ενεργοποίηση συναγερμών γενεθλίων, το Ρολόι πρέπει να έχει πρόσβαση στις επαφές σας. Συμφωνείτε;</string>
     <string name="dialog_message_negative">Δεν αποδέχομαι</string>
     <string name="dialog_message_not_remind">Να μην εμφανιστεί ξανά</string>
-    <string name="dialog_privacy_content">Το Ρολόι χρειάζεται σύνδεση στο διαδίκτυο προκειμένου να λαμβάνει και να συγχρονίζει πληροφορίες σχετικά με τις τοπικές δημόσιες αργίες και να παρέχει εξατομικευμένες υπηρεσίες. Πριν χρησιμοποιήσετε το Ρολόι, πρέπει επίσης να διαβάσετε και να συμφωνήσετε με τη %1$s μας και την %2$s μας. Αποδοχή;</string>
+    <string name="dialog_privacy_content">Το Ρολόι χρειάζεται σύνδεση στο διαδίκτυο προκειμένου να λαμβάνει πληροφορίες σχετικά με τις τοπικές δημόσιες αργίες, να προσαρμόζει συναγερμούς και να παρέχει εξατομικευμένες υπηρεσίες. Πριν χρησιμοποιήσετε το Ρολόι, πρέπει επίσης να διαβάσετε και να συμφωνήσετε με τη %1$s μας και την %2$s μας. Αποδοχή;</string>
     <string name="dialog_privacy_content_global">Το Ρολόι χρειάζεται σύνδεση στο διαδίκτυο προκειμένου να παρέχει εξατομικευμένες υπηρεσίες. Πριν χρησιμοποιήσετε το Ρολόι, πρέπει επίσης να διαβάσετε και να συμφωνήσετε με τη %1$s μας και την %2$s μας. Αποδοχή;</string>
     <string name="dialog_privacy_content_news">Το Ρολόι χρειάζεται σύνδεση στο διαδίκτυο προκειμένου να παρέχει εξατομικευμένες υπηρεσίες και να περιέχει πρωινά νέα στους συναγερμούς σας. Πριν χρησιμοποιήσετε το Ρολόι, πρέπει επίσης να διαβάσετε και να συμφωνήσετε με τη %1$s μας και την %2$s μας. Αποδοχή;</string>
     <string name="dialog_privacy_content_timer">Το Ρολόι χρειάζεται σύνδεση στο διαδίκτυο προκειμένου να κάνει λήψη χρονοδιακοπτών θορύβου περιβάλλοντος και να παρέχει εξατομικευμένες υπηρεσίες. Πριν χρησιμοποιήσετε το Ρολόι, πρέπει επίσης να διαβάσετε και να συμφωνήσετε με τη %1$s μας και την %2$s μας. Αποδοχή;</string>
@@ -200,6 +201,7 @@
     <string name="shutdown_alarm_enable_summary">Ο συναγερμός θα σβήσει εάν είναι ρυθμισμένος για τουλάχιστον 5 λεπτά μετά την απενεργοποίηση της συσκευής σας</string>
     <string name="shutdown_alarm_title">Απενεργοποίηση ξυπνητηριού</string>
     <string name="silent_alarm_summary">Αθόρυβο</string>
+    <string name="skip_alarm_date_format">%1$s (%2$s)</string>
     <string name="skip_alarm_once_hint">Απενεργοποίηση μία φορά σε %s</string>
     <string name="slider_text">Σάρωση προς τα επάνω για απενεργοποίηση</string>
     <string name="snooze_confirm_cancel">Κατάργηση ξυπνητηριού</string>
@@ -218,6 +220,7 @@
     <string name="start_up">Εκκίνηση</string>
     <string name="stopwatch_lap_empty_text">Δεν υπάρχουν γύροι</string>
     <string name="stopwatch_title">Χρονόμετρο</string>
+    <string name="symbol_colon">:</string>
     <string name="system_time_setting">Ρυθμίσεις</string>
     <string name="system_time_settings_category_title">Ρυθμίσεις ώρας</string>
     <string name="temperature_unit">℃</string>
