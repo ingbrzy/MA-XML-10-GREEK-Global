@@ -8,10 +8,6 @@
         <item quantity="other">Ανοίξατε τα Πρόσφατα, διαθέσιμες εφαρμογές: %d. Σαρώστε προς τα επάνω για αφαίρεση, σαρώστε προς τα κάτω για κλείδωμα.</item>
         <item quantity="one">Ανοίξατε τα Πρόσφατα, διαθέσιμη εφαρμογή: %d. Σαρώστε προς τα επάνω για αφαίρεση, σαρώστε προς τα κάτω για κλείδωμα.</item>
     </plurals>
-    <plurals name="aod_dual_togother_city">
-        <item quantity="other">" %1$sώρες %2$s"</item>
-        <item quantity="one">" %1$sώρα %2$s"</item>
-    </plurals>
     <plurals name="block_record_notification_more_text">
         <item quantity="other">Γίνεται απόκρυψη ειδοποιήσεων από %1$s &amp; %2$d εφαρμογές.</item>
         <item quantity="one">Γίνεται απόκρυψη ειδοποιήσεων από %1$s &amp; %2$d εφαρμογή.</item>

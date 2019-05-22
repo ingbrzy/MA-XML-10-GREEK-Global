@@ -82,7 +82,7 @@
     <string name="HIPS_Perm_UDevice_ID">Μοιραστείτε μέρη των πληροφοριών συσκευής με τους προγραμματιστές παιχνιδιών για να τους βοηθήσετε να βελτιώσουν την εμπειρία παιχνιδιού σας. Αποδοχή;</string>
     <string name="HIPS_Perm_UDevice_ID_DESC">μοιραστεί μέρη των πληροφοριών συσκευής με τους προγραμματιστές παιχνιδιών για να τους βοηθήσετε να βελτιώσουν την εμπειρία παιχνιδιού σας. Αποδοχή;</string>
     <string name="HIPS_Perm_deamon_notification">Μόνιμη ειδοποίηση</string>
-    <string name="HIPS_Perm_deamon_notification_Desc">show permanent notifications</string>
+    <string name="HIPS_Perm_deamon_notification_Desc">εμφάνιση μόνιμων ειδοποιήσεων</string>
     <string name="permission_group_title_charges_related">Χρεώσεις</string>
     <string name="permission_group_title_privacy_related">Απόρρητο</string>
     <string name="permission_group_title_media_related">Πολυμέσα</string>

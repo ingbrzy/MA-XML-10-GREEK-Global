@@ -204,4 +204,6 @@
     <string name="popup_camera_calibrate_success">Επιτυχία βαθμονόμησης. Μπορείτε να ανοίξετε τη μπροστινή κάμερα τώρα.</string>
     <string name="popup_camera_calibrate_failed">Αδυναμία βαθμονόμησης</string>
     <string name="popup_camera_using_camera_background">%s χρησιμοποιεί τη μπροστινή κάμερα</string>
+    <string name="sim_lock_non_ais_msg">Η κάρτα SIM σας δεν είναι πλήρως λειτουργική με αυτό το τηλέφωνο γιατί δεν είναι συμβατό με τους όρους και προϋποθέσεις της συνδρομής σας. Εάν έχετε οποιεσδήποτε ερωτήσεις ή χρειάζεστε περισσότερες πληροφορίες σχετικά με αυτό το ζήτημα, επικοινωνήστε με τα κέντρα εξυπηρέτησης Xiaomi ή το κατάστημα που σας πούλησε προϊόντα.</string>
+    <string name="sim_lock_now_ais_title">SIM%1$d</string>
 </resources>

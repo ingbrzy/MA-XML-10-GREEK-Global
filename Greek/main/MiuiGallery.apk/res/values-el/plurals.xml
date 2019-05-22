@@ -80,6 +80,10 @@
         <item quantity="other">%d βίντεο</item>
         <item quantity="one">%d βίντεο</item>
     </plurals>
+    <plurals name="collage_select_image_dynamic_range">
+        <item quantity="other">Τα κολλάζ μπορούν να περιέχουν 1-%d φωτογραφίες</item>
+        <item quantity="one">Τα κολλάζ μπορούν να περιέχουν 1-%d φωτογραφία</item>
+    </plurals>
     <plurals name="creation_max_image">
         <item quantity="other">Επιλέξτε μέχρι %d φωτογραφίες</item>
         <item quantity="one">Επιλέξτε μέχρι %d φωτογραφία</item>

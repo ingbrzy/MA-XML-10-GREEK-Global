@@ -6,6 +6,9 @@
     <string name="xiaomi_update_dialog_message_diff">"Γίνεται εισαγωγή έκδοσης %1$s
 Μέγεθος ενημέρωσης Delta: %2$s"</string>
     <string name="xiaomi_external_storage_unavailable">Ο χώρος αποθήκευσης δεν είναι διαθέσιμος, ελέγξτε την κάρτα SD σας.</string>
+    <string name="xiaomi_bytes_unit">%1$sB</string>
+    <string name="xiaomi_kilobytes_unit">%1$sKB</string>
+    <string name="xiaomi_megabytes_unit">%1$sMB</string>
     <string name="xiaomi_connect_download_manager_fail">Αδυναμία εκκίνησης λήψης. Βεβαιωθείτε πως η Διαχείριση λήψεων λειτουργεί κανονικά.</string>
     <string name="app_name">Αντίγραφα ασφαλείας</string>
     <string name="local_app_name">Αντίγραφα ασφαλείας</string>
@@ -226,6 +229,7 @@
     <string name="restore_backup">Επαναφορά</string>
     <string name="enable_encrypt_description">Κρυπτογράφηση</string>
     <string name="disable_encrypt_description">Μη κρυπτογραφημένο</string>
+    <string name="digit_percent">%</string>
     <string name="state_waiting">Περιμένετε μια στιγμή…</string>
     <string name="state_mounting">Γίνεται πρόσβαση στον χώρο αποθήκευσης του router…</string>
     <string name="abort_backup_confirm">Η δημιουργία αντίγραφου ασφαλείας δεν ολοκληρώθηκε. Διακοπή οπωσδήποτε;</string>
@@ -538,7 +542,7 @@ https://appleid.apple.com/#!&amp;page=signin για κλείσιμο"</string>
     <string name="notif_icloud_import_title">Εισαγωγή δεδομένων από iCloud</string>
     <string name="notif_icloud_loaded_summary">Αναμονή…</string>
     <string name="notif_icloud_canceling_summary">Γίνεται ακύρωση…</string>
-    <string name="notif_icloud_canceled_summary">Ακυρώθηκε</string>
+    <string name="notif_icloud_canceled_summary">Έγινε ακύρωση</string>
     <string name="notif_icloud_saved_summary">Επιτυχής εισαγωγή</string>
     <string name="notif_icloud_need_wifi_summary">Αναμονή για Wi-Fi</string>
     <string name="hsa_title">Διπλή επαλήθευση</string>
@@ -565,6 +569,7 @@ https://appleid.apple.com/#!&amp;page=signin για κλείσιμο"</string>
 πρέπει πρώτα να δημιουργήστε ένα αντίγραφο ασφαλείας για το iCloud."</string>
     <string name="list_footer_tip_title">Συμβουλές:</string>
     <string name="import_tip_summary">Λόγω προβλήματα συμβατότητας, μπορείτε να μεταφέρετε μόνο ορισμένα δεδομένα από συσκευές iOS. Βεβαιωθείτε πως έχετε δημιουργήσει ένα αντίγραφο ασφαλείας για το iCloud πριν την μεταφορά.</string>
+    <string name="import_tip_message">@string/icloud_how_to_backup_tip_steps</string>
     <string name="button_import">Εισαγωγή</string>
     <string name="select_empty">Επιλογή αντικειμένων για εισαγωγή</string>
     <string name="select_item_summary_wait">Αναμονή…</string>
@@ -637,4 +642,11 @@ https://appleid.apple.com/#!&amp;page=signin για κλείσιμο"</string>
 Ελευθερώστε χώρο ή κάντε πολλαπλές μικρές μεταφορές."</string>
     <string name="usb_trans_old_phone_low_space_title">Ανεπαρκής χώρος αποθήκευσης</string>
     <string name="usb_trans_old_phone_low_space_msg">Επιπρόσθετος χώρος αποθήκευσης απαιτείται για τα αντίγραφα ασφαλείας σας. Δεν υπάρχει αρκετός χώρος αποθήκεσυης για να συνεχίσετε την μεταφορά. Μπορείτε να ελευθερώσετε χώρο και να διαγράψτε μη απαραίτητα αρχεία στην Ασφάλεια ή να μεταφέρετε μόνο σημαντικά αντικείμενα.</string>
+    <string name="dialog_app_upgrade_message">Νέα έκδοση Μετακινητή Mi διαθέσιμη. Ενημέρωση Μετακινητή Mi τώρα;</string>
+    <string name="dialog_app_upgrade_exit">Έξοδος</string>
+    <string name="dialog_app_upgrade_download">Ενημέρωση</string>
+    <string name="dialog_backup_password_change_machine_tips">"You won't be able to transfer password-protected backups. Turn off backup password before using Mi Mover."</string>
+    <string name="dialog_backup_password_backup_tips">"Can't back up items when backup password is on. Turn off backup password."</string>
+    <string name="dialog_backup_password_cancel">Cancel</string>
+    <string name="dialog_backup_password_to_settings">Settings</string>
 </resources>

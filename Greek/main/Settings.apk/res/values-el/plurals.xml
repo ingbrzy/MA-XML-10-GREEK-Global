@@ -32,10 +32,6 @@
         <item quantity="other">Πολύ μικρή καθυστέρηση (%1$d χιλιοστά δευτερολέπτου)</item>
         <item quantity="one">Πολύ μικρή καθυστέρηση (%1$d χιλιοστό δευτερολέπτου)</item>
     </plurals>
-    <plurals name="aod_dual_togother_city">
-        <item quantity="other">" %1$sώρες %2$s"</item>
-        <item quantity="one">" %1$sώρα %2$s"</item>
-    </plurals>
     <plurals name="app_notification_listing_summary_others">
         <item quantity="other">Ανενεργές για %d εφαρμογές</item>
         <item quantity="one">Ανενεργή για %d εφαρμογή</item>
@@ -349,20 +345,20 @@
         <item quantity="one">1 στοιχείο</item>
     </plurals>
     <plurals name="usage_state_device_explain_today">
-        <item quantity="other">Unlocked %d times</item>
-        <item quantity="one">Unlocked %d time</item>
+        <item quantity="other">Ξεκλειδώθηκε %d φορές</item>
+        <item quantity="one">Ξεκλειδώθηκε %d φορά</item>
     </plurals>
     <plurals name="usage_state_device_explain_week">
-        <item quantity="other">Unlocked %d times</item>
-        <item quantity="one">Unlocked %d time</item>
+        <item quantity="other">Ξεκλειδώθηκε %d φορές</item>
+        <item quantity="one">Ξεκλειδώθηκε %d φορά</item>
     </plurals>
     <plurals name="usage_state_device_noti_explain_today">
-        <item quantity="other">Received %d notifications</item>
-        <item quantity="one">Received %d notification</item>
+        <item quantity="other">Έγινε λήψη %d ειδοποιήσεων</item>
+        <item quantity="one">Έγινε λήψη %d ειδοποίησης</item>
     </plurals>
     <plurals name="usage_state_device_noti_explain_week">
-        <item quantity="other">Received %d notifications</item>
-        <item quantity="one">Received %d notification</item>
+        <item quantity="other">Έγινε λήψη %d ειδοποιήσεων</item>
+        <item quantity="one">Έγινε λήψη %d ειδοποίησης</item>
     </plurals>
     <plurals name="usage_state_hour">
         <item quantity="other">%d ώρες</item>

@@ -132,6 +132,14 @@
         <item quantity="other">Προσθήκη %d λεπτών</item>
         <item quantity="one">Προσθήκη %d λεπτού</item>
     </plurals>
+    <plurals name="notification_battery_scan_consume_abnormal_title_split">
+        <item quantity="other">%2$d apps, including %1$s, are draining battery</item>
+        <item quantity="one">%2$d app, including %1$s, is draining battery</item>
+    </plurals>
+    <plurals name="pc_abnormal_scan_result_model_result_title">
+        <item quantity="other">%d apps are draining battery</item>
+        <item quantity="one">%d app is draining battery</item>
+    </plurals>
     <plurals name="people">
         <item quantity="other">Έγινε λήψη από %1$d άτομα</item>
         <item quantity="one">Έγινε λήψη από %1$d άτομο</item>
@@ -367,6 +375,10 @@
     <plurals name="gb_signed_days_sum">
         <item quantity="other">Συνδεθήκατε%d συνεχόμενες ημέρες</item>
         <item quantity="one">Συνδεθήκατε %d φορά</item>
+    </plurals>
+    <plurals name="function_shield_num">
+        <item quantity="other">%d λειτουργίες</item>
+        <item quantity="one">%d λειτουργία</item>
     </plurals>
     <plurals name="hide_txt_hint_with_blank_2">
         <item quantity="other">    +%1$d ακόμα χαρακτήρες</item>
