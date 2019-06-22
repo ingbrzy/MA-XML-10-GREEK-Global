@@ -127,6 +127,7 @@
     <string name="note_sort_way">Επιλέξτε πως θέλετε να ταξινομήσετε τις σημειώσεις σας</string>
     <string name="notealert_enter">Άνοιγμα σημείωσης</string>
     <string name="notealert_ok">Απόρριψη</string>
+    <string name="notelist_string_info">…</string>
     <string name="notify_alarm_title">Υπενθύμιση σημείωσης</string>
     <string name="permdesc_accessNote">Κακόβουλες εφαρμογές μπορεί να έχουν πρόσβαση στα προσωπικά σας δεδομένα.</string>
     <string name="permission_intro_contact">Για σήμανση σημειώσεων κατά τη διάρκεια κλήσεων</string>
@@ -134,13 +135,13 @@
     <string name="permission_intro_phone">Για σήμανση σημειώσεων κατά τη διάρκεια κλήσεων</string>
     <string name="permission_intro_storage">Για την αποθήκευση σημειώσεων και συνημμένων</string>
     <string name="permlab_accessNote">Πρόσβαση σημειώσεων</string>
-    <string name="pref_desc_skip_confirm_for_quick_delete">Να μην γίνεται ερώτηση κατά την διαγραφή μιας σημείωσης με χειρονομία</string>
+    <string name="pref_desc_skip_confirm_for_quick_delete">Σύρετε προς τα πάνω με 2 δάκτυλα για διαγραφή σημειώσεων χωρίς επιβεβαίωση</string>
     <string name="pref_title_cloud_trash_bin">Διαγραμμένες σημειώσεις από το Mi Cloud</string>
     <string name="pref_title_common">Πρόσθετες ρυθμίσεις</string>
     <string name="pref_title_font_size">Μέγεθος γραμματοσειράς</string>
     <string name="pref_title_note_style">Στυλ</string>
     <string name="pref_title_show_root_folder_in_homepage">Προβολή μόνο γρήγορων σημειώσεων στην αρχική σελίδα</string>
-    <string name="pref_title_skip_confirm_for_quick_delete">Γρήγορη διαγραφή</string>
+    <string name="pref_title_skip_confirm_for_quick_delete">Διαγραφή με χειρονομία</string>
     <string name="recover_notes_hint">Παρουσιάστηκε σφάλμα, μεταβείτε στο i.mi.com για να επαναφέρετε τις σημειώσεις.</string>
     <string name="redo">Επανάληψη</string>
     <string name="refuse_to_open_as_pic_because_of_loading">Περιμένετε μέχρι να φορτωθεί η σημείωση και προσπαθήστε ξανά.</string>
@@ -208,6 +209,7 @@
     <string name="toast_notes_hidden_edit">Επιτυχής απόκρυψη σημειώματος. Σύρετε προς τα κάτω για να δείτε κρυμμένες σημειώσεις.</string>
     <string name="toast_notes_hidden_home">Επιτυχής απόκρυψη σημειώματος. Σύρετε προς τα κάτω για να δείτε κρυμμένες σημειώσεις.</string>
     <string name="toast_notes_unhidden">Επιτυχής επανεμφάνιση</string>
+    <string name="toast_pic_is_not_really">Αποθήκευση εικόνας…</string>
     <string name="toast_reach_text_limit_attachment">Αδυναμία προσθήκης νέων συνημμένων λόγω τεράστιου μεγέθους σημείωσης</string>
     <string name="toast_reach_text_limit_checkbox">Αδυναμία προσθήκης πλαίσιου επιλογής λόγω τεράστιου μεγέθους σημείωσης</string>
     <string name="toast_reach_text_limit_truncate">Η σημείωση είναι πολύ μεγάλη. Ορισμένο κείμενο έχει κοπεί στο τέλος.</string>

@@ -6,6 +6,9 @@
     <string name="xiaomi_update_dialog_message_diff">"Γίνεται εισαγωγή έκδοσης %1$s
 Μέγεθος ενημέρωσης Delta: %2$s"</string>
     <string name="xiaomi_external_storage_unavailable">Ο χώρος αποθήκευσης δεν είναι διαθέσιμος, ελέγξτε την κάρτα SD σας.</string>
+    <string name="xiaomi_bytes_unit">%1$sB</string>
+    <string name="xiaomi_kilobytes_unit">%1$sKB</string>
+    <string name="xiaomi_megabytes_unit">%1$sMB</string>
     <string name="xiaomi_connect_download_manager_fail">Αδυναμία εκκίνησης λήψης. Βεβαιωθείτε πως η Διαχείριση λήψεων λειτουργεί κανονικά.</string>
     <string name="app_name">Αντίγραφα ασφαλείας</string>
     <string name="local_app_name">Αντίγραφα ασφαλείας</string>
@@ -46,6 +49,7 @@
     <string name="restore_launcher_layout_hit">Επαναφορά ρυθμίσεων εκκινητή</string>
     <string name="settings_summary">Ρυθμίσεις μηνυμάτων και τηλεφώνου</string>
     <string name="camera_summary">Ρυθμίσεις Κάμερας (δεν περιλαμβάνονται φωτογραφίες)</string>
+    <string name="gallery_summary">Ρυθμίσεις Συλλογής (δεν περιλαμβάνονται φωτογραφίες)</string>
     <string name="account_summary">Δημιουργία αντίγραφων ασφαλείας για Google Account, Mi Λογαριασμό, και άλλα δεδομένα χρήστη</string>
     <string name="cloud_app_name">Αντίγραφα ασφαλείας Mi Cloud</string>
     <string name="cloud_home_title">Mi Cloud</string>
@@ -226,6 +230,7 @@
     <string name="restore_backup">Επαναφορά</string>
     <string name="enable_encrypt_description">Κρυπτογράφηση</string>
     <string name="disable_encrypt_description">Μη κρυπτογραφημένο</string>
+    <string name="digit_percent">%</string>
     <string name="state_waiting">Περιμένετε μια στιγμή…</string>
     <string name="state_mounting">Γίνεται πρόσβαση στον χώρο αποθήκευσης του router…</string>
     <string name="abort_backup_confirm">Η δημιουργία αντίγραφου ασφαλείας δεν ολοκληρώθηκε. Διακοπή οπωσδήποτε;</string>
@@ -234,6 +239,7 @@
     <string name="feature_title_contacts">Επαφές</string>
     <string name="feature_title_sms">Μηνύματα</string>
     <string name="feature_title_mms">MMS</string>
+    <string name="feature_title_mms_setting">Ρυθμίσεις μηνυμάτων</string>
     <string name="feature_title_account">Mi Λογαριασμός</string>
     <string name="feature_title_antispam">Λίστα απολεισμών</string>
     <string name="summary_err_backup_encrypting">Συνδεθείτε στο Mi Λογαριασμό σας.</string>
@@ -392,9 +398,8 @@
     <string name="button_clean_garbage">Ελευθερώστε χώρο</string>
     <string name="button_quit">Έξοδος</string>
     <string name="soft_ap_creating">Γίνεται δημιουργία σημείου πρόσβασης…</string>
-    <string name="wait_link">"Συνδέστε την παλιά σας συσκευή σε αυτό το σημείο πρόσβασης.
-Μην εγκαταλείψετε αυτή τη σελίδα μέχρι να πραγματοποιηθεί σύνδεση."</string>
-    <string name="old_way">Μπορείτε επίσης να συνδεθείτε χρησιμοποιώντας έναν κωδικό QR. Πατήστε για δημιουργία κωδικού.</string>
+    <string name="wait_link">Ανοίξτε τον Μετακινητή Mi στην παλιά συσκευή, πατήστε \"Είμαι αποστολέας\" και επιλέξτε ένα σημείο πρόσβασης να συνδεθείτε. Μην κλείσετε τη σελίδα πριν γίνει η σύνδεση.</string>
+    <string name="old_way">Μπορείτε επίσης να αναπαράγετε ένα κωδικό QR στην καινούργια συσκευή σας και να το σαρώσετε χρησιμοποιώντας τη παλιά.</string>
     <string name="soft_ap_create_failed">Αδυναμία δημιουργίας σημείου πρόσβασης</string>
     <string name="scan_soft_ap_label">Σύνδεση στην παλιά συσκευή</string>
     <string name="scan_soft_ap">Αναζήτηση για τη νέα συσκευή…</string>
@@ -565,6 +570,7 @@ https://appleid.apple.com/#!&amp;page=signin για κλείσιμο"</string>
 πρέπει πρώτα να δημιουργήστε ένα αντίγραφο ασφαλείας για το iCloud."</string>
     <string name="list_footer_tip_title">Συμβουλές:</string>
     <string name="import_tip_summary">Λόγω προβλήματα συμβατότητας, μπορείτε να μεταφέρετε μόνο ορισμένα δεδομένα από συσκευές iOS. Βεβαιωθείτε πως έχετε δημιουργήσει ένα αντίγραφο ασφαλείας για το iCloud πριν την μεταφορά.</string>
+    <string name="import_tip_message">@string/icloud_how_to_backup_tip_steps</string>
     <string name="button_import">Εισαγωγή</string>
     <string name="select_empty">Επιλογή αντικειμένων για εισαγωγή</string>
     <string name="select_item_summary_wait">Αναμονή…</string>
@@ -640,8 +646,14 @@ https://appleid.apple.com/#!&amp;page=signin για κλείσιμο"</string>
     <string name="dialog_app_upgrade_message">Νέα έκδοση Μετακινητή Mi διαθέσιμη. Ενημέρωση Μετακινητή Mi τώρα;</string>
     <string name="dialog_app_upgrade_exit">Έξοδος</string>
     <string name="dialog_app_upgrade_download">Ενημέρωση</string>
-    <string name="dialog_backup_password_change_machine_tips">"You won't be able to transfer password-protected backups. Turn off backup password before using Mi Mover."</string>
-    <string name="dialog_backup_password_backup_tips">"Can't back up items when backup password is on. Turn off backup password."</string>
-    <string name="dialog_backup_password_cancel">Cancel</string>
-    <string name="dialog_backup_password_to_settings">Settings</string>
+    <string name="dialog_backup_password_change_machine_tips">Δεν θα μπορείτε να μεταφέρετε αντίγραφα ασφαλείας που προστατεύονται με κωδικό πρόσβασης. Απενεργοποιήστε τον κωδικό ασφαλείας πριν χρησιμοποιήσετε τον Μετακινητή Mi.</string>
+    <string name="dialog_backup_password_backup_tips">Δεν είναι δυνατή η δημιουργία αντιγράφων ασφαλείας αντικειμένων όταν ο εφεδρικός κωδικός πρόσβασης είναι ενεργοποιημένος. Απενεργοποιήστε τον εφεδρικό κωδικό πρόσβασης.</string>
+    <string name="dialog_backup_password_cancel">Ακύρωση</string>
+    <string name="dialog_backup_password_to_settings">Ρυθμίσεις</string>
+    <string name="user_feedback">Σχόλια</string>
+    <string name="iCloud_ID_verification_tip">Εισαγάγετε τον Κωδικό επαλήθευσης SMS που έχει αποσταλεί στον αριθμό τηλεφώνου που είναι συνδεδεμένος με το Apple ID σας. Αγνοήστε τον αναδυόμενο κωδικό που εμφανίζεται στην οθόνη του iPhone σας.</string>
+    <string name="trans_complete_restoring">Επιτυχία μεταφοράς. Γίνεται επαναφορά δεδομένων εφαρμογής…</string>
+    <string name="dialog_backup_password_auto_backup_tips">Δεν είναι δυνατή η αυτόματη δημιουργία αντιγράφων ασφαλείας αντικειμένων όταν ο εφεδρικός κωδικός πρόσβασης είναι ενεργοποιημένος. Απενεργοποιήστε πρώτα τον εφεδρικό κωδικό πρόσβασης.</string>
+    <string name="dialog_backup_password_change_device_restore_tips">Δεν είναι δυνατή η χρήση Μετακινητή Mi όταν ο εφεδρικός κωδικός πρόσβασης είναι ενεργοποιημένος. Απενεργοποιήστε πρώτα τον εφεδρικό κωδικό πρόσβασης.</string>
+    <string name="dialog_backup_password_restore_tips">Δεν είναι δυνατή η επαναφορά αντικειμένων όταν ο εφεδρικός κωδικός πρόσβασης είναι ενεργοποιημένος. Απενεργοποιήστε πρώτα τον εφεδρικό κωδικό πρόσβασης.</string>
 </resources>

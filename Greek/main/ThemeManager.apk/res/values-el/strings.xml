@@ -1,8 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="abc_action_bar_home_description">Πλοήγηση στην αρχική σελίδα</string>
-    <string name="abc_action_bar_home_description_format">%1$s, %2$s</string>
-    <string name="abc_action_bar_home_subtitle_description_format">%1$s, %2$s, %3$s</string>
     <string name="abc_action_bar_up_description">Πλοήγηση προς τα επάνω</string>
     <string name="abc_action_menu_overflow_description">Περισσότερες επιλογές</string>
     <string name="abc_action_mode_done">Τέλος</string>
@@ -10,6 +8,16 @@
     <string name="abc_activitychooserview_choose_application">Επιλέξτε κάποια εφαρμογή</string>
     <string name="abc_capital_off">ΑΠΕΝΕΡΓΟΠΟΙΗΣΗ</string>
     <string name="abc_capital_on">ΕΝΕΡΓΟΠΟΙΗΣΗ</string>
+    <string name="abc_menu_alt_shortcut_label">Alt+</string>
+    <string name="abc_menu_ctrl_shortcut_label">Ctrl+</string>
+    <string name="abc_menu_delete_shortcut_label">delete</string>
+    <string name="abc_menu_enter_shortcut_label">enter</string>
+    <string name="abc_menu_function_shortcut_label">Function+</string>
+    <string name="abc_menu_meta_shortcut_label">Meta+</string>
+    <string name="abc_menu_shift_shortcut_label">Shift+</string>
+    <string name="abc_menu_space_shortcut_label">διάστημα</string>
+    <string name="abc_menu_sym_shortcut_label">Sym+</string>
+    <string name="abc_prepend_shortcut_label">Menu+</string>
     <string name="abc_search_hint">Αναζήτηση…</string>
     <string name="abc_searchview_description_clear">Διαγραφή ερωτήματος</string>
     <string name="abc_searchview_description_query">Ερώτημα αναζήτησης</string>
@@ -19,37 +27,8 @@
     <string name="abc_shareactionprovider_share_with">Κοινή χρήση με</string>
     <string name="abc_shareactionprovider_share_with_application">Κοινή χρήση με %s</string>
     <string name="abc_toolbar_collapse_description">Σύμπτυξη</string>
-    <string name="exo_controls_fastforward_description">Γρήγορη προώθηση</string>
-    <string name="exo_controls_fullscreen_description">Λειτουργία πλήρους οθόνης</string>
-    <string name="exo_controls_next_description">Επόμενο κομμάτι</string>
-    <string name="exo_controls_pause_description">Παύση</string>
-    <string name="exo_controls_play_description">Αναπαραγωγή</string>
-    <string name="exo_controls_previous_description">Προηγούμενο κομμάτι</string>
-    <string name="exo_controls_repeat_all_description">Επανάληψη όλων</string>
-    <string name="exo_controls_repeat_off_description">Καμία επανάληψη</string>
-    <string name="exo_controls_repeat_one_description">Επανάληψη ενός κομματιού</string>
-    <string name="exo_controls_rewind_description">Επαναφορά</string>
-    <string name="exo_controls_shuffle_description">Τυχαία αναπαραγωγή</string>
-    <string name="exo_controls_stop_description">Διακοπή</string>
-    <string name="exo_download_completed">Η λήψη ολοκληρώθηκε</string>
-    <string name="exo_download_description">Λήψη</string>
-    <string name="exo_download_downloading">Λήψη</string>
-    <string name="exo_download_failed">Η λήψη απέτυχε</string>
-    <string name="exo_download_notification_channel_name">Λήψεις</string>
-    <string name="exo_download_removing">Κατάργηση λήψεων</string>
-    <string name="exo_item_list">%1$s, %2$s</string>
-    <string name="exo_track_mono">Μονοφωνικό</string>
-    <string name="exo_track_selection_auto">Αυτόματο</string>
-    <string name="exo_track_selection_none">Κανένα</string>
-    <string name="exo_track_selection_title_audio">Ήχος</string>
-    <string name="exo_track_selection_title_text">Κείμενο</string>
-    <string name="exo_track_selection_title_video">Βίντεο</string>
-    <string name="exo_track_stereo">Στερεοφωνικό</string>
-    <string name="exo_track_surround">Περιφερειακός ήχος</string>
-    <string name="exo_track_surround_5_point_1">Περιφερειακός ήχος 5.1</string>
-    <string name="exo_track_surround_7_point_1">Περιφερειακός ήχος 7.1</string>
-    <string name="exo_track_unknown">Άγνωστο</string>
-    <string name="search_menu_title">Αναζήτηση</string>
+    <string name="about_app_name">Σχετικά με τα Θέματα</string>
+    <string name="about_version_update">Τι νέο υπάρχει</string>
     <string name="accessibility_setting_hint">"Πατήστε το κουμπί στην επάνω δεξιά γωνία για να ενεργοποιήσετε αυτή την υπηρεσία.
 Τα θέματα θα εντοπίσουν τις εφαρμογές που χρησιμοποιείτε και θα εμφανίζουν διαφανείς ταπετσαρίες στις εφαρμογές της επιλογής σας."</string>
     <string name="accessibiliy_description_content_account">Προφίλ</string>
@@ -79,6 +58,7 @@
     <string name="ad_downloading_tip">Γίνεται λήψη αυτού του στοιχείου. Μπορείτε να προβάλετε την πρόοδο στην περιοχή Ειδοποιήσεων.</string>
     <string name="add_resource_detail_fail">Αδυναμία προσθήκης πηγής</string>
     <string name="all_resources">Όλα</string>
+    <string name="already_latest_version">Έγινε ενημέρωση</string>
     <string name="app_disable_transparent_wallpaper">Χωρίς διαφανή ταπετσαρία</string>
     <string name="app_enable_transparent_wallpaper">Με διαφανή ταπετσαρία</string>
     <string name="app_name">Θέματα</string>
@@ -107,8 +87,13 @@
     <string name="card_retry">Προσπαθήστε ξανά</string>
     <string name="change_host_hint">Αλλαγή παρόχου</string>
     <string name="change_wallpaper">Ταπετσαρία</string>
+    <string name="check_has_new_version">Διαθέσιμη ενημέρωση</string>
     <string name="classification_more_understand_you">Επιλέξτε την αγαπημένη σας κατηγορία</string>
     <string name="close">Κλείσιμο</string>
+    <string name="common_applying">Γίνεται εφαρμογή…</string>
+    <string name="common_downloading">Γίνεται μεταφόρτωση…</string>
+    <string name="common_format_date_no_year">dd/MM</string>
+    <string name="common_skip">Παράλειψη</string>
     <string name="component_backup_preference_title">Δημιουργία αντίγραφου ασφαλείας για θέμα</string>
     <string name="component_category_finest_title">ΓΕΝΙΚΑ</string>
     <string name="component_category_more_title">ΣΥΝΘΕΤΑ</string>
@@ -119,6 +104,7 @@
     <string name="count_down_tip">%dδ απομένουν</string>
     <string name="current_using_desktop_wallpaper_text">Αρχική οθόνη</string>
     <string name="current_using_lockscreen_wallpaper_text">Οθόνη κλειδώματος</string>
+    <string name="current_version">Τρέχουσα έκδοση: %1$s</string>
     <string name="current_version_incompatible">Μη συμβατό</string>
     <string name="deleting">Γίνεται διαγραφή…</string>
     <string name="description_author">Συγγραφέας</string>
@@ -144,6 +130,38 @@
     <string name="exit_extreme_mode_dialog_agree">Συμφωνώ</string>
     <string name="exit_extreme_mode_dialog_cancel">Ακύρωση</string>
     <string name="exit_extreme_mode_dialog_title">Απενεργοποίηση Ακραίας Λειτουργίας</string>
+    <string name="exo_controls_fastforward_description">Γρήγορη προώθηση</string>
+    <string name="exo_controls_fullscreen_description">Λειτουργία πλήρους οθόνης</string>
+    <string name="exo_controls_next_description">Επόμενο κομμάτι</string>
+    <string name="exo_controls_pause_description">Παύση</string>
+    <string name="exo_controls_play_description">Αναπαραγωγή</string>
+    <string name="exo_controls_previous_description">Προηγούμενο κομμάτι</string>
+    <string name="exo_controls_repeat_all_description">Επανάληψη όλων</string>
+    <string name="exo_controls_repeat_off_description">Καμία επανάληψη</string>
+    <string name="exo_controls_repeat_one_description">Επανάληψη ενός κομματιού</string>
+    <string name="exo_controls_rewind_description">Επαναφορά</string>
+    <string name="exo_controls_shuffle_description">Τυχαία αναπαραγωγή</string>
+    <string name="exo_controls_stop_description">Διακοπή</string>
+    <string name="exo_download_completed">Η λήψη ολοκληρώθηκε</string>
+    <string name="exo_download_description">Λήψη</string>
+    <string name="exo_download_downloading">Λήψη</string>
+    <string name="exo_download_failed">Η λήψη απέτυχε</string>
+    <string name="exo_download_notification_channel_name">Λήψεις</string>
+    <string name="exo_download_removing">Κατάργηση λήψεων</string>
+    <string name="exo_item_list">%1$s, %2$s</string>
+    <string name="exo_track_bitrate">%1$.2f Mbps</string>
+    <string name="exo_track_mono">Μονοφωνικό</string>
+    <string name="exo_track_resolution">%1$d × %2$d</string>
+    <string name="exo_track_selection_auto">Αυτόματο</string>
+    <string name="exo_track_selection_none">Κανένα</string>
+    <string name="exo_track_selection_title_audio">Ήχος</string>
+    <string name="exo_track_selection_title_text">Κείμενο</string>
+    <string name="exo_track_selection_title_video">Βίντεο</string>
+    <string name="exo_track_stereo">Στερεοφωνικό</string>
+    <string name="exo_track_surround">Περιφερειακός ήχος</string>
+    <string name="exo_track_surround_5_point_1">Περιφερειακός ήχος 5.1</string>
+    <string name="exo_track_surround_7_point_1">Περιφερειακός ήχος 7.1</string>
+    <string name="exo_track_unknown">Άγνωστο</string>
     <string name="extreme_mode_dialog_message">Αυτή η δυνατότητα δεν είναι διαθέσιμη στην Ακραία Λειτουργία. Απενεργοποιήστε την Ακραία Λειτουργία για να είστε σε θέση να τη χρησιμοποιήσετε.</string>
     <string name="extreme_mode_dialog_ok">Κατανοητό</string>
     <string name="extreme_mode_dialog_title">Συναγερμός</string>
@@ -186,6 +204,8 @@
     <string name="gift_use_fail_dlg_title">Κάτι πήγε στραβά</string>
     <string name="gift_used">Στάλθηκε</string>
     <string name="go_accessibility_setting">Επιλογή</string>
+    <string name="goto_purchased_list">Προβολή ιστορικού αγορών</string>
+    <string name="goto_wechat">Έγινε αντιγραφή του λογαριασμού WeChat \"%1$s\" στα πρόχειρα. Άνοιγμα WeChat τώρα;</string>
     <string name="hide_free">Απόκρυψη δωρεάν %1$s</string>
     <string name="hide_incompatible">Απόκρυψη μη συμβατών %1$s</string>
     <string name="home_apply_failured">Αδυναμία ορισμού ταπετσαρίας Αρχικής οθόνης</string>
@@ -208,6 +228,7 @@
     <string name="incompatible_dialog_ok">Κατάλαβα</string>
     <string name="incompatible_dialog_title">Προβλήματα συμβατότητας</string>
     <string name="is_setting_wallpaper_message">Γίνεται ορισμός ταπετσαρίας…</string>
+    <string name="item_resource_audio_divider">│</string>
     <string name="item_resource_audio_optional_alarm_ring">Ξυπνητήρια</string>
     <string name="item_resource_audio_optional_color_ring">Τόνος επιστροφής κλήσης</string>
     <string name="item_resource_audio_optional_notification_ring">Ειδοποιήσεις</string>
@@ -220,6 +241,7 @@
     <string name="loading_resource_detail_info">Περιμένετε μία στιγμή…</string>
     <string name="local_photos">Τοπικές φωτογραφίες</string>
     <string name="local_resouce_creator_name">Προγραμματιστής: %1$s</string>
+    <string name="lock_screen_apply">Ορισμός ως Οθόνη κλειδώματος</string>
     <string name="lockscreen_apply_failured">Αδυναμία εφαρμογής ταπετσαρίας Οθόνης κλειδώματος</string>
     <string name="lockscreen_apply_failured_but_home_apply_success">Εφαρμόστηκε ταπετσαρία Αρχικής οθόνης. Αδυναμία εφαρμογής ταπετσαρίας Οθόνης κλειδώματος.</string>
     <string name="lockscreen_apply_success">Ταπετσαρία οθόνης κλειδώματος εφαρμόστηκε</string>
@@ -268,7 +290,9 @@
     <string name="my_gifts">Δώρα</string>
     <string name="my_gifts_purchased">Αγορασμένα</string>
     <string name="my_gifts_received">Ληφθέντα</string>
+    <string name="network_exception">Αδυναμία σύνδεσης στο δίκτυο. Ελέγξτε τις ρυθμίσεις δικτύου σας και προσπαθήστε ξανά.</string>
     <string name="no_data">Αδυναμία σύνδεσης στο δίκτυο</string>
+    <string name="official_accounts">WeChat</string>
     <string name="online_no_network">Αδυναμία σύνδεσης στο δίκτυο</string>
     <string name="online_precust_abstract">Περίληψη</string>
     <string name="online_precust_animal">Ζώο</string>
@@ -418,6 +442,7 @@
     <string name="resource_import_successful">Ολοκληρώθηκε</string>
     <string name="resource_importing">Γίνεται εισαγωγή…</string>
     <string name="resource_is_off_shelf">Μη διαθέσιμο</string>
+    <string name="resource_is_off_shelf_can_not_share">Αδυναμία κοινοποίησης. Αυτό το αντικείμενο δεν είναι πλέον διαθέσιμο.</string>
     <string name="resource_list_title">Πρόσφατα επιλεγμένα</string>
     <string name="resource_local_picker">Επιλογή τοπικού ήχου κλήσης</string>
     <string name="resource_menu_refresh">Ανανέωση</string>
@@ -437,6 +462,7 @@
     <string name="resource_pack_price_info">Αρχική τιμή: %1$s</string>
     <string name="resource_pack_warning">Έχετε ήδη αγοράσει %1$d από τα συστατικά αυτού του θέματος. Για αυτό η αγορά των υπόλοιπων συστατικών ξεχωριστά είναι πιο φθηνή επιλογή.</string>
     <string name="resource_present">Δώρο</string>
+    <string name="resource_price_format">(%1$s)</string>
     <string name="resource_price_free">Δωρεάν</string>
     <string name="resource_price_unit">Mi Credits</string>
     <string name="resource_purchase_common_error">Παρουσιάστηκε σφάλμα, προσπαθήστε ξανά</string>
@@ -448,6 +474,10 @@
     <string name="resource_ranking">Δημοφιλή</string>
     <string name="resource_ranking_free">Δωρεάν</string>
     <string name="resource_ranking_purchase">Επί πληρωμή</string>
+    <string name="resource_ring_ranking_list_divider">-</string>
+    <string name="resource_ring_ranking_list_rank_1">1</string>
+    <string name="resource_ring_ranking_list_rank_2">2</string>
+    <string name="resource_ring_ranking_list_rank_3">3</string>
     <string name="resource_ringtone_default">Ήχοι κλήσης</string>
     <string name="resource_ringtone_playing_error">Σφάλμα</string>
     <string name="resource_ringtone_volume_mute">Έγινε σίγαση κουδουνίσματος</string>
@@ -513,6 +543,7 @@
 "</string>
     <string name="sdcard_not_mounted_dialog_title">Δεν εντοπίστηκε κάρτα SIM</string>
     <string name="search_hint_header_text">Δημοφιλείς λέξεις</string>
+    <string name="search_menu_title">Αναζήτηση</string>
     <string name="selected_resource_file_invalid">Αδυναμία χρήσης επιλεγμένου αρχείου πηγής</string>
     <string name="set_color_ring_back_tone">Ορίστε έναν εξατομικευμένο τόνο επιστροφής κλήσης</string>
     <string name="settings">Ρυθμίσεις</string>
@@ -523,6 +554,7 @@
     <string name="shortcut_title">Σας αρέσουν οι ταπετσαρίες μας;</string>
     <string name="show_free">Show free %1$s</string>
     <string name="show_incompatible">Εμφάνιση μη συμβατών %1$s</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
     <string name="swipe_find_more">Σύρετε προς τα επάνω για προβολή περισσότερων</string>
     <string name="system_precust">Προ-εγκατεστημένα</string>
     <string name="the_picture_is_not_support">Αυτή η εικόνα δεν υποστηρίζεται</string>
@@ -585,6 +617,7 @@
     <string name="theme_is_external_priority_storage">Αποθήκευση σε κάρτα SD</string>
     <string name="theme_is_external_priority_storage_summary">Η εφαρμογή Θέματα θα κάνει αμέσως επανεκκίνηση για την εφαρμογή αυτής της ρύθμισης.</string>
     <string name="theme_multiple_button_title_customize">Προσαρμογή</string>
+    <string name="theme_name">%1$s</string>
     <string name="theme_no">Όχι</string>
     <string name="theme_purchased_list_empty">Δεν έχετε αγοράσει θέματα.</string>
     <string name="theme_purchased_non_local">Online</string>
@@ -657,6 +690,7 @@
     <string name="using_theme_next_automatic_update">Αυτόματες ενημερώσεις</string>
     <string name="using_theme_next_automatic_update_summary">Ενημέρωση ληφθέντων θεμάτων μέσω Wi-Fi αυτόματα όταν η οθόνη είναι κλειδωμένη</string>
     <string name="using_theme_show_ad">Προτάσεις</string>
+    <string name="version_update">Έλεγχος για ενημερώσεις</string>
     <string name="video_ad_click">Δοκιμάστε τώρα</string>
     <string name="video_ad_try_for_free">Δωρεάν δοκιμή</string>
     <string name="video_ad_uncomplete_tip">Τελειώστε την παρακολούθηση του βίντεο για να λάβετε το θέμα.</string>
@@ -703,6 +737,8 @@
     <string name="wallpaper_settings_no_history">Δεν υπάρχει ιστορικό</string>
     <string name="wallpaper_settings_pad_more_page_title">Περισσότερες ταπετσαρίες</string>
     <string name="wallpaper_settings_page_title">Ταπετσαρία</string>
+    <string name="wechat_not_found">Εγκαταστήστε πρώτα το WeChat</string>
+    <string name="weibo">Weibo</string>
     <string name="wifi_check_cancel">Ακύρωση</string>
     <string name="wifi_check_confirm">Επιβεβαίωση</string>
     <string name="wifi_check_message">Χρήση δεδομένων κινητής τηλεφωνίας για τη λήψη ενημερώσεων;</string>

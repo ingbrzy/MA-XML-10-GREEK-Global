@@ -52,6 +52,10 @@
         <item quantity="other">%d εισαγωγές Αποθήκης εφαρμογών</item>
         <item quantity="one">%d εισαγωγή Αποθήκης εφαρμογών</item>
     </plurals>
+    <plurals name="dirty_phrase_count">
+        <item quantity="other">%d συχνές φράσεις</item>
+        <item quantity="one">%d συχνή φράση</item>
+    </plurals>
     <plurals name="dirty_secretphoto_count">
         <item quantity="other">%d κρυφές φωτογραφίες δεν έχουν συγχρονιστεί. Αποσυνδεθείτε μόνο μετά τον συγχρονισμό όλων των αντικειμένων ώστε να τα διατηρήσετε; αλλιώς, τα αντικείμενα θα διαγραφούν.</item>
         <item quantity="one">%d κρυφή φωτογραφία δεν έχει συγχρονιστεί. Αποσυνδεθείτε μόνο μετά τον συγχρονισμό όλων των αντικειμένων ώστε να τα διατηρήσετε; αλλιώς, τα αντικείμενα θα διαγραφούν.</item>

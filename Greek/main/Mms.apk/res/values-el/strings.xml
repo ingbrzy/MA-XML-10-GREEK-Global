@@ -1,6 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="status_bar_notification_info_overflow">999+</string>
     <string name="action_firewall_setting">Λίστα αποκλεισμών</string>
     <string name="activity_not_found">Δεν βρέθηκε εφαρμογή για τη διαχείριση αυτής της ενέργειας</string>
     <string name="activity_not_found_uri">Δεν βρέθηκε εφαρμογή για τη διαχείριση αυτής της ενέργειας</string>
@@ -99,16 +98,7 @@
     <string name="cm_privacy_dialog_tips">Οι υπηρεσίες έξυπνων μηνυμάτων παρέχονται από τον μεταφορέα σας. Τα μηνύματα πρέπει να συνδεθούν στο Διαδίκτυο και να έχουν πρόσβαση στην τοποθεσία σας για να παρέχουν αυτές τις υπηρεσίες. Πρέπει να συμφωνείτε με την %1s του φορέα σας πριν αρχίσετε να χρησιμοποιείτε αυτές τις υπηρεσίες. Συμφωνείτε;</string>
     <string name="cm_privacy_dialog_title">Προσοχή</string>
     <string name="cmcc_privacy">Συμφωνία Προστασίας προσωπικών δεδομένων Παροχέα China Mobile</string>
-    <string name="complain_input_number">Εισαγάγετε τον αριθμό τηλεφώνου σας</string>
-    <string name="complain_jump">Παράλειψη</string>
     <string name="complain_message_title">Αναφορά</string>
-    <string name="complain_ok">ΟΚ</string>
-    <string name="complain_phone_number">Αριθμός τηλεφώνου (προαιρετικό)</string>
-    <string name="complain_reason">Γιατί κάνετε αναφορά αυτού του μηνύματος;</string>
-    <string name="complain_success">Ευχαριστούμε για τα σχόλιά σας. Μας βοηθούν να βελτιώσουμε τα Μηνύματα!</string>
-    <string name="complain_tips">"Το περιεχόμενο του πιο πρόσφατου μηνύματος που αναφέρετε θα μεταφορτωθεί στους διακομιστές μας μαζί με τον αριθμό τηλεφώνου που παρέχετε. Οι πάροχοι υπηρεσιών μας θα εξετάσουν το αναφερόμενο μήνυμα.
-"</string>
-    <string name="complain_upload">Το παράπονο έχει καταχωρηθεί</string>
     <string name="compressing">Πολύ μεγάλη εικόνα. Γίνεται συμπίεση…</string>
     <string name="confirm">OK</string>
     <string name="confirm_add_blacklist_dialog_dspt">Προσθήκη αυτού του αριθμού στη λίστα αποκλεισμών;</string>
@@ -173,8 +163,8 @@
     <string name="dialog_message_mx">Τα επιτρέπουν την αποστολή μηνυμάτων σε άλλους χρήστες MIUI χωρίς χρέωση. Ένα εξερχόμενο SMS μήνυμα απαιτείται για την ενεργοποίηση των Μηνυμάτων Mi. Ο πάροχός σας θα σας επιφέρει χρεώσεις για το μήνυμα αυτό. Πρέπει να αποδεχτείτε την \"%1$s\" και \"%2$s\" μας πριν χρησιμοποιήσετε τα Μηνύματα Mi.</string>
     <string name="dialog_message_networking">Τα μηνύματα πρέπει να χρησιμοποιούν Κίτρινες σελίδες για να είναι σε θέση να παρέχουν αναγνώριση ταυτότητας αποστολέα. Τα μηνύματα και οι Κίτρινες σελίδες πρέπει να συνδεθούν στο διαδίκτυο και να έχουν πρόσβαση στην τοποθεσία σας για να λειτουργούν κανονικά. Αποδοχή;</string>
     <string name="dialog_message_rcs">Τα Μηνύματα China Mobile σας επιτρέπουν να στείλετε μηνύματα σε άλλους χρήστες της China Mobile εντός Ηπειρωτικής Κίνας χωρίς χρεώσεις. Πρέπει να συμφωνήσετε στην «%1$s» πριν από τη χρήση Μηνυμάτων China Mobile.</string>
-    <string name="dialog_sim_locked_confirm">OK</string>
-    <string name="dialog_sim_locked_message">"Your SIM card isn't fully operational with this phone because it doesn't comply with the terms and conditions of your subscription. If you have any questions or need more information about this matter, please contact Xiaomi service centers or the store that sold products to you."</string>
+    <string name="dialog_sim_locked_confirm">ΟΚ</string>
+    <string name="dialog_sim_locked_message">Η κάρτα SIM δεν είναι πλήρως λειτουργική με αυτό το τηλέφωνο, επειδή δεν συμμορφώνεται με τους όρους και τις προϋποθέσεις της συνδρομής σας. Εάν έχετε οποιεσδήποτε ερωτήσεις ή χρειάζεστε περισσότερες πληροφορίες σχετικά με αυτό το θέμα, επικοινωνήστε με τα κέντρα εξυπηρέτησης Xiaomi ή το κατάστημα που σας πούλησε προϊόντα.</string>
     <string name="dialog_title_fake_cell_detect_error">Διόρθωση</string>
     <string name="dialog_title_mx_rcs">Mi Message</string>
     <string name="dialog_title_networking">Όροι και Προϋποθέσεις</string>
@@ -231,6 +221,7 @@
     <string name="file_size">Μέγεθος:</string>
     <string name="file_title">Όνομα:</string>
     <string name="file_width_height">Μέγεθος:</string>
+    <string name="flatshow_page_no">%1$d</string>
     <string name="force_touch_new_message_title">Νέο μήνυμα</string>
     <string name="forward_from">Προώθηση από:</string>
     <string name="forward_message_select_title">Προώθηση μηνύματος</string>
@@ -685,6 +676,7 @@
     <string name="send_signature_confirm_dialog_title">Αποστολή μηνύματος</string>
     <string name="send_sms">Αποστολή μηνύματος</string>
     <string name="send_to">Προς:</string>
+    <string name="send_to_index_contact">%1$s/%2$s</string>
     <string name="sent_at_time">Έγινε αποστολή στις: %1s</string>
     <string name="sent_label">"Στάλθηκε: "</string>
     <string name="service_message_not_found">Το μήνυμα έληξε ή δεν είναι διαθέσιμο</string>
@@ -733,6 +725,7 @@
     <string name="sp_mark_as_read_menu_title">Μαρκάρισμα ως αναγνωσμένο</string>
     <string name="sqlite_disk_full">Ο χώρος αποθήκευσης της συσκευής σας είναι πλήρης.</string>
     <string name="sqlite_low_memory">Ανεπαρκής χώρος αποθήκευσης</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
     <string name="status_failed">Ανεπιτυχής</string>
     <string name="status_label">"Κατάσταση: "</string>
     <string name="status_pending">Προς διεκπεραίωση</string>

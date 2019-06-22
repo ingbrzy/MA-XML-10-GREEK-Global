@@ -132,13 +132,61 @@
         <item quantity="other">Προσθήκη %d λεπτών</item>
         <item quantity="one">Προσθήκη %d λεπτού</item>
     </plurals>
+    <plurals name="pc_main_power_center_battery_day">
+        <item quantity="other">%s ημέρες</item>
+        <item quantity="one">%s ημέρα</item>
+    </plurals>
+    <plurals name="pc_main_power_center_battery_hour">
+        <item quantity="other">%s ώρες</item>
+        <item quantity="one">%s ώρα</item>
+    </plurals>
+    <plurals name="pc_main_power_center_battery_minute">
+        <item quantity="other">%s λεπτά</item>
+        <item quantity="one">%s λεπτό</item>
+    </plurals>
+    <plurals name="power_main_battery_last_day">
+        <item quantity="other">%s days remaining</item>
+        <item quantity="one">%s day remaining</item>
+    </plurals>
+    <plurals name="power_main_battery_last_hour">
+        <item quantity="other">%s hours remaining</item>
+        <item quantity="one">%s hour remaining</item>
+    </plurals>
+    <plurals name="power_main_battery_last_minute">
+        <item quantity="other">%s minutes remaining</item>
+        <item quantity="one">%s minute remaining</item>
+    </plurals>
+    <plurals name="pc_main_sub_battery_text_day">
+        <item quantity="other">%s days remaining</item>
+        <item quantity="one">%s day remaining</item>
+    </plurals>
+    <plurals name="pc_main_sub_battery_text_hour">
+        <item quantity="other">%s hours remaining</item>
+        <item quantity="one">%s hour remaining</item>
+    </plurals>
+    <plurals name="pc_main_sub_battery_text_minute">
+        <item quantity="other">%s minutes remaining</item>
+        <item quantity="one">%s minute remaining</item>
+    </plurals>
+    <plurals name="pc_main_power_manager_day">
+        <item quantity="other">%s days until fully charged</item>
+        <item quantity="one">%s day until fully charged</item>
+    </plurals>
+    <plurals name="pc_main_power_manager_hour">
+        <item quantity="other">%s hours until fully charged</item>
+        <item quantity="one">%s hour until fully charged</item>
+    </plurals>
+    <plurals name="pc_main_power_manager_minute">
+        <item quantity="other">%s minutes until fully charged</item>
+        <item quantity="one">%s minute until fully charged</item>
+    </plurals>
     <plurals name="notification_battery_scan_consume_abnormal_title_split">
-        <item quantity="other">%2$d apps, including %1$s, are draining battery</item>
-        <item quantity="one">%2$d app, including %1$s, is draining battery</item>
+        <item quantity="other">%2$d εφαρμογές, συμπεριλαμβανομένων των %1$s, εξαντλούν τη μπαταρία</item>
+        <item quantity="one">%2$d εφαρμογή, συμπεριλαμβανομένης της %1$s, εξαντλεί τη μπαταρία</item>
     </plurals>
     <plurals name="pc_abnormal_scan_result_model_result_title">
-        <item quantity="other">%d apps are draining battery</item>
-        <item quantity="one">%d app is draining battery</item>
+        <item quantity="other">%d εφαρμογές εξαντλούν υπερβολικά τη μπαταρία</item>
+        <item quantity="one">%d εφαρμογή εξαντλεί υπερβολικά τη μπαταρία</item>
     </plurals>
     <plurals name="people">
         <item quantity="other">Έγινε λήψη από %1$d άτομα</item>

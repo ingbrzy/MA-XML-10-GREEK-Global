@@ -42,7 +42,6 @@
     <string name="auto_start_warning_title">Να επιτρέπεται στο %s να ξεκινάει αυτόματα;</string>
     <string name="auto_start_warning_allow">Αποδοχή</string>
     <string name="auto_start_warning_deny">Απόρριψη</string>
-    <string name="call_record_sample_prefix_miui">Κλήση</string>
     <string name="call_record_or">" ή "</string>
     <string name="caller_info_name_delimiter">" ή "</string>
     <string name="first_back_long_press_message">Για προσαρμογή πατήστε &amp; παρατεταμένα για ενέργειες πλήκτρων πλοήγησης, μεταβείτε στις Ρυθμίσεις > Πρόσθετες Ρυθμίσεις > Κουμπιά</string>
@@ -198,6 +197,7 @@
     <string name="popup_camera_front_failed">Αδυναμία ανοίγματος μπροστινής κάμερας. Προσπαθήστε ξανά.</string>
     <string name="takeback_camera_front_failed">Δεν μπόρεσε να κλείσει η μπροστινή κάμερα. Προσπαθήστε ξανά.</string>
     <string name="stop_operate_camera_frequently">Ανοίγετε τη μπροστινή κάμερα υπερβολικά συχνά.</string>
+    <string name="popup_camera_front_when_use">Η εφαρμογή Κάμερα χρειάζεται να ανοίξει ξανά τη μπροστινή κάμερα. Άνοιγμα τώρα;</string>
     <string name="popup_camera_popup_falied_times_calibrate">Αδυναμία ανοίγματος μπροστινής κάμερας πολλαπλές φορές. Δοκιμάστε να την βαθμονομήσετε.</string>
     <string name="popup_camera_takeback_falied_times_calibrate">Δεν μπόρεσε να κλείσει η μπροστινή κάμερα πολλαπλές φορές. Δοκιμάστε να την βαθμονομήσετε.</string>
     <string name="popup_camera_calibrate_now">Βαθμονόμηση</string>

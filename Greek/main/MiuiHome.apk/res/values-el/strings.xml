@@ -2,6 +2,7 @@
 <resources>
     <string name="action_add_to_workspace">Προσθήκη στον χώρο εργασίας</string>
     <string name="activity_not_found">Η εφαρμογή δεν έχει εγκατασταθεί στην συσκευή σας</string>
+    <string name="activity_not_unlocked">Περιμένετε μέχρι η συσκευή σας να επανεκκινηθεί πλήρως πριν ανοίξετε τις εφαρμογές</string>
     <string name="add_screen">Προσθήκη οθόνης</string>
     <string name="announce_for_app_move_in_folder">Μετακινήθηκε στη θέση %1$d στο φάκελο</string>
     <string name="announce_for_checked">%1$s, ελέγχθηκε</string>
@@ -30,9 +31,11 @@
     <string name="announce_for_open_default_preview">Έγινε άνοιγμα προεπιλεγμένων ρυθμίσεων Αρχικής οθόνης</string>
     <string name="announce_for_open_folder">Ανοίξατε φάκελο %1$s</string>
     <string name="announce_for_open_launcher_menu">Έγινε άνοιγμα μενού</string>
+    <string name="announce_for_search_bar">Μπάρα αναζήτησης</string>
     <string name="announce_for_show_uninstall_dialog">Εμφανίστηκε παράθυρο απεγκατάστασης. Ακύρωση ή επιβεβαίωση.</string>
     <string name="announce_for_unchecked">%1$s, δεν ελέγχθηκε</string>
     <string name="announce_for_widget_span">Πλάτος %1$d, ύψος %2$d</string>
+    <string name="announce_for_xiaoai">Mi AI</string>
     <string name="app_already_exist">Η εφαρμογή υπάρχει ήδη</string>
     <string name="app_being_backup_message">Δημιουργείται αντίγραφο ασφαλείας για την εφαρμογή</string>
     <string name="app_being_restored_message">Γίνεται επαναφορά εφαρμογής</string>
@@ -92,6 +95,7 @@
     <string name="defalut_launcher_title">Προεπιλεγμένο launcher</string>
     <string name="default_folder_title_claro">Claro</string>
     <string name="default_folder_title_game">Παιχνίδια</string>
+    <string name="default_folder_title_meitu">Εφαρμογές Meitu</string>
     <string name="default_folder_title_microsoft">Microsoft</string>
     <string name="default_folder_title_recommend">Περισσότερες εφαρμογές</string>
     <string name="default_folder_title_security">Σύστημα</string>
@@ -131,7 +135,7 @@
     <string name="encryption">Κρυπτογράφηση</string>
     <string name="failed_to_delete_temporary">Αδυναμία αφαίρεσης</string>
     <string name="failed_to_drop">Αδυναμία μετακίνησης</string>
-    <string name="failed_to_drop_widget_invalid">This widget is invalid</string>
+    <string name="failed_to_drop_widget_invalid">Το widget δεν είναι έγκυρο</string>
     <string name="failed_to_load_image">Αδυναμία φόρτωσης εικόνας</string>
     <string name="folder_name">Φάκελος</string>
     <string name="frame_load_failed">Αδυναμία φόρτωσης πλαισίου</string>
@@ -174,7 +178,7 @@
     <string name="gadget_weather_download_message">Πρέπει να γίνει λήψη περιεχομένων εφαρμογής: %1$s (%2$s). Επανεκκινήστε την εφαρμογή αφού ολοκληρωθεί η λήψη.</string>
     <string name="gadget_weather_download_start">Λήψη</string>
     <string name="gadget_weather_download_title">Λήψη</string>
-    <string name="gadget_weather_downloading">Downloading app content. Restart the app after download completes.</string>
+    <string name="gadget_weather_downloading">Γίνεται λήψη περιεχομένων εφαρμογής. Επανεκκινήστε την εφαρμογή αφού ολοκληρωθεί η λήψη.</string>
     <string name="gadget_weather_loading">Δεν υπάρχουν δεδομένα</string>
     <string name="gadget_weather_low_temp">Χαμηλή θερμοκρασία</string>
     <string name="gadget_weather_theme_type">Είδος εξαρτήματος</string>
@@ -186,7 +190,7 @@
     <string name="group_folder">Νέος φάκελος</string>
     <string name="group_live_folders">Φάκελοι</string>
     <string name="group_shortcuts">Συντομεύσεις</string>
-    <string name="guide_install_app_msg">"This app isn't installed on your device. Find and install the app now?"</string>
+    <string name="guide_install_app_msg">Η εφαρμογή δεν έχει εγκατασταθεί στην συσκευή σας. Αναζήτηση και εγκατάσταση της εφαρμογής τώρα;</string>
     <string name="guide_install_app_title">Αναζήτηση και εγκατάσταση εφαρμογής;</string>
     <string name="guide_tips_editing_mode">Πατήστε &amp; πατήστε παρατεταμένα για να μετακινήσετε ένα widget</string>
     <string name="home_gesture_content_center">Κέντρο Περιεχομένων</string>
@@ -261,9 +265,9 @@
     <string name="out_of_space">Δεν υπάρχει πια χώρος σε αυτήν την Αρχική Οθόνη</string>
     <string name="permdesc_install_shortcut">Επιτρέπει σε μια εφαρμογή την προσθήκη συντομεύσεων χωρίς την μεσολάβηση του χρήστη.</string>
     <string name="permdesc_install_widget">Επιτρέπει σε μια εφαρμογή την προσθήκη widgets χωρίς την μεσολάβηση του χρήστη.</string>
-    <string name="permdesc_read_settings">"Allows an app to read Home screen's settings and shortcuts."</string>
+    <string name="permdesc_read_settings">Επιτρέπει σε μια εφαρμογή να διαβάσει τις ρυθμίσεις και συντομεύσεις της Αρχικής οθόνης.</string>
     <string name="permdesc_uninstall_shortcut">Επιτρέπει σε μια εφαρμογή την αφαίρεση συντομεύσεων χωρίς την μεσολάβηση του χρήστη.</string>
-    <string name="permdesc_write_settings">"Allows an app to change Home screen's settings and shortcuts."</string>
+    <string name="permdesc_write_settings">Επιτρέπει σε μια εφαρμογή να αλλάξει τις ρυθμίσεις και συντομεύσεις της Αρχικής οθόνης.</string>
     <string name="permlab_install_shortcut">Εγκατάσταση συντομεύσεων</string>
     <string name="permlab_install_widget">Εγκατάσταση widgets</string>
     <string name="permlab_read_settings">Ανάγνωση ρυθμίσεων και συντομεύσεων Αρχικής οθόνης</string>
@@ -288,6 +292,8 @@
     <string name="preferences_general_title">Πρόσθετες ρυθμίσεις</string>
     <string name="preferences_title">Ρυθμίσεις εκκινητή</string>
     <string name="preferred_app_settings_not_selected">Καμία επιλογή</string>
+    <string name="privacy_thumbnail_blur_summary">Θόλωση προεπισκόπησης εφαρμογών στα Πρόσφατα</string>
+    <string name="privacy_thumbnail_blur_title">Θόλωση προεπισκόπησης εφαρμογών</string>
     <string name="quick_app">Άμεσες εφαρμογές</string>
     <string name="recents_config_title">Πρόσφατα</string>
     <string name="recommend_apk_size_and_desc">%1$dMB | %2$s</string>
@@ -297,7 +303,7 @@
     <string name="recommend_apps_notice">Προτεινόμενες εφαρμογές</string>
     <string name="recommend_apps_notice_nodata">Προτεινόμενες εφαρμογές(Χωρίς δεδομένα)</string>
     <string name="recommend_apps_switch_title">Προτεινόμενες εφαρμογές</string>
-    <string name="recommend_apps_tips">"This feature needs to connect to the internet to work normally. To turn this feature off, tap this folder's name."</string>
+    <string name="recommend_apps_tips">Η λειτουργία αυτή απαιτεί σύνδεση στο Ίντερνετ. Για την απενεργοποίηση αυτής της λειτουργίας, πατήστε το όνομα αυτού του φακέλου.</string>
     <string name="recommend_loading">Φόρτωση</string>
     <string name="recommend_refresh">Ανανέωση</string>
     <string name="recommend_xout">Να μην εμφανίζεται</string>
@@ -315,6 +321,9 @@
     <string name="setting_wallpaper_tip">Τσιμπήστε ή σαρώστε για διόρθωση</string>
     <string name="settings">Ρυθμίσεις</string>
     <string name="settings_shortcut">Ρυθμίσεις</string>
+    <string name="shake_to_align_icons">Ανακινήστε τη συσκευή για συμπλήρωση κενών κελιών με εικονίδια</string>
+    <string name="shake_to_align_icons_summary">Ανακινήστε τη συσκευή σας κατά τη διάρκεια της λειτουργίας επεξεργασίας για αυτόματη συμπλήρωση κενών κελιών με εικονίδια</string>
+    <string name="shake_to_align_icons_title">Ανακινήστε για συμπλήρωση κενών κελιών</string>
     <string name="share">Κοινοποίηση</string>
     <string name="show_all">Προβολή όλων</string>
     <string name="show_mem_info_title">Προβολή κατάστασης μνήμης</string>
@@ -324,11 +333,13 @@
     <string name="sort_by_not_defined">Αυτόματη ταξινόμηση</string>
     <string name="start_activity_failed">Αδυναμία έναρξης εκκινητή</string>
     <string name="starting_preset_app">Γίνεται έναρξη…</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
     <string name="status_downloaded">Έγινε λήψη</string>
     <string name="status_downloading">Γίνεται λήψη</string>
     <string name="status_installing">Γίνεται εγκατάσταση</string>
     <string name="status_paused">Έγινε παύση</string>
     <string name="status_pending">Αναμονή</string>
+    <string name="system_shortcuts_more_operation">Πληροφορίες εφαρμογής</string>
     <string name="title_jeejen">Αρχική Οθόνη Jeejen</string>
     <string name="title_select_live_folder">Επιλογή φακέλου</string>
     <string name="title_select_shortcut">Επιλογή συντόμευσης</string>
@@ -367,9 +378,4 @@
     <string name="widget_global_search">Αναζήτηση</string>
     <string name="widget_quick_function">Γρήγορες λειτουργίες</string>
     <string name="widgets_preview_title">Προσθήκη widget</string>
-    <string name="activity_not_unlocked">Wait until your device is fully rebooted before opening apps</string>
-    <string name="default_folder_title_meitu">Meitu</string>
-    <string name="privacy_thumbnail_blur_summary">Θόλωση προεπισκόπησης εφαρμογών στα Πρόσφατα</string>
-    <string name="privacy_thumbnail_blur_title">Θόλωση προεπισκόπησης εφαρμογών</string>
-    <string name="system_shortcuts_more_operation">Πληροφορίες εφαρμογής</string>
 </resources>

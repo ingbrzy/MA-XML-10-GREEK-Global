@@ -36,4 +36,8 @@
         <item quantity="other">Εμφάνιση όλων των %d σχολίων</item>
         <item quantity="one">Εμφάνιση %d σχολίου</item>
     </plurals>
+    <plurals name="subscriber">
+        <item quantity="other"> συνδρομητές</item>
+        <item quantity="one"> συνδρομητής</item>
+    </plurals>
 </resources>

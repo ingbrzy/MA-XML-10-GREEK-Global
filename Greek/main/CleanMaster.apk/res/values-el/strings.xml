@@ -53,7 +53,7 @@
     <string name="button_text_uninstall">Απεγκατάσταση</string>
     <string name="pref_category_title_cleanup_white_list">Εξαιρέσεις</string>
     <string name="pref_title_cleanup_white_list">Εξαιρέσεις</string>
-    <string name="pref_summary_cleanup_white_list">Αποτρέψτε την εκκαθάριση των επιλεγμένων εφαρμογών</string>
+    <string name="pref_summary_cleanup_white_list">Αποτροπή εκκαθάρισης των επιλεγμένων στοιχείων</string>
     <string name="pref_category_title_auto_update_cleanup_db">Πρόσθετες ρυθμίσεις</string>
     <string name="pref_title_auto_update_cleanup_db">Αυτόματη ενημέρωση</string>
     <string name="pref_summary_auto_update_cleanup_db">Τελευταία ενημέρωση %s</string>
@@ -92,6 +92,7 @@
     <string name="hints_apk_header_left">Πακέτα</string>
     <string name="hints_residual_header_left">Κατάλοιπα</string>
     <string name="hints_memory_header_left">Μνήμη</string>
+    <string name="hints_header_left">%d</string>
     <string name="hints_large_file_header_left">Μεγάλα αρχεία: %d</string>
     <string name="hints_installed_apps_header_left">Εγκατεστημένες εφαρμογές: %d</string>
     <string name="toast_resolve_apk_error">Επίλυση apk σφάλματος</string>
@@ -185,8 +186,6 @@
     <string name="toast_backup_uninstall_success">Δημιουργία αντίγραφου ασφαλείας και απεγκατάσταση ολοκληρώθηκαν</string>
     <string name="activity_title_cache_data">Δεδομένα εφαρμογής</string>
     <string name="deepclean_cache_header_left">Αρχεία δεδομένων: %d</string>
-    <string name="notification_title_of_garbage_cleanup">%s σκουπίδια αρχείων</string>
-    <string name="notification_summary_of_garbage_cleanup">Αγγίξτε για να ελευθερώσετε χώρο.</string>
     <string name="notification_summary_after_auto_cleanup">Έγινε εκκθάριση %s.</string>
     <string name="toast_uninstall_success">Η απεγκατάσταση ολοκληρώθηκε</string>
     <string name="toast_app_no_residual_on_sdcard">Η εφαρμογή δεν έχει αρχεία αποθηκευμένα στην κάρτα SD σας</string>
@@ -299,6 +298,7 @@
     <string name="downloading">Γίνεται λήψη</string>
     <string name="installing">Γίνεται εγκατάσταση</string>
     <string name="start_install">Εγκατάσταση τώρα</string>
+    <string name="empty">" "</string>
     <string name="open_browser">Άνοιγμα στον φυλλομετρητή</string>
     <string name="title_share_link">Κοινοποίηση URL</string>
     <string name="connecting">Γίνεται σύνδεση…</string>
@@ -565,4 +565,10 @@
     <string name="one_tap_clean_M">%dMB</string>
     <string name="one_tap_clean_GB">%sGB</string>
     <string name="security_center_slogan">Ασφάλεια. Πάντα εν δράσει.</string>
+    <string name="notification_garbage_cleanup_title">Εκκαθάριση αρχείων σκουπιδιών</string>
+    <string name="notification_garbage_cleanup_summary">Το μέγεθος σκουπιδιών έφτασε στα %s</string>
+    <string name="notification_low_memory_cache_title">Εκκαθάριση προσωρινής μνήμης</string>
+    <string name="notification_low_memory_cache_summary">Διαθέσιμος χώρος αποθήκευσης μικρότερος από 1.5GB</string>
+    <string name="notification_low_memory_deepclean_title">Ο χώρος αποθήκευσης θα γεμίσει σύντομα</string>
+    <string name="notification_low_memory_deepclean_summary">Ο βαθύς καθαρισμός μπορεί να απελευθερώσει αποθηκευτικό χώρο στη συσκευή σας</string>
 </resources>

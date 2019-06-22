@@ -128,9 +128,14 @@
     <string name="msim_select_default_time_left">(%d δ)</string>
     <string name="select_sim_hint">Αδυναμία χρήσης SIM %2$d, ενώ η SIM %1$d είναι ακόμη σε χρήση.</string>
     <string name="select_one_sim_title">Επιτρέπεται μόνο η χρήση SIM %1$d</string>
+    <string name="select_sim_hint_for_heduohao">Αδυναμία χρήσης άλλου ενώ η SIM %1$d Sub%2$d είναι ακόμη σε χρήση.</string>
+    <string name="select_one_sim_title_for_heduohao">Αδυναμία χρήσης SIM %1$d Sub %2$d</string>
     <string name="can_not_use">Αδυναμία χρήσης</string>
     <string name="sim1_description">SIM1</string>
     <string name="sim2_description">SIM2</string>
+    <string name="sim1_heduohao_card">Sub1</string>
+    <string name="sim2_heduohao_card">Sub2</string>
+    <string name="sim3_heduohao_card">Sub3</string>
     <string name="call_description_recording">Γίνεται καταγραφή…</string>
     <string name="call_recording_error_privacy">Αδυναμία καταγραφής όσο είστε σε Λειτουργία επισκέπτη</string>
     <string name="call_recording_error_sd_access">Αδυναμία πρόσβασης στην κάρτα SD</string>

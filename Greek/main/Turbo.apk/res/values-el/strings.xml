@@ -42,6 +42,14 @@
     <string name="common_google_play_services_update_text">Η εφαρμογή %1$s θα εκτελεστεί αφού ενημερώσετε τις Υπηρεσίες Google Play.</string>
     <string name="common_google_play_services_update_title">Ενημέρωση υπηρεσιών Google Play</string>
     <string name="common_google_play_services_updating_text">Η εφαρμογή %1$s δεν θα εκτελεστεί χωρίς τις υπηρεσίες Google Play, οι οποίες ενημερώνονται αυτήν τη στιγμή.</string>
+    <string name="early_warning_android_system">Σύστημα Android</string>
+    <string name="early_warning_feedback_action">Σχόλια</string>
+    <string name="early_warning_feedback_body">Υποβάλετε τα σχόλιά σας εδώ</string>
+    <string name="early_warning_feedback_chooser_text">Επιλέξτε μια εφαρμογή ηλεκτρονικού ταχυδρομείου</string>
+    <string name="early_warning_feedback_subject">Σχόλια ειδοποίησης χαμηλής έγκαιρης προειδοποίησης</string>
+    <string name="early_warning_notification_channel_name">Προειδοποιήσεις μπαταρίας</string>
+    <string name="early_warning_notification_text">Αυτό συμβαίνει συνήθως πριν από τη φόρτιση</string>
+    <string name="early_warning_notification_title">Η μπαταρία μπορεί να εξαντληθεί το %1$s</string>
     <string name="icon_content_description">Εικονίδιο παραθύρου διαλόγου</string>
     <string name="password_toggle_content_description">Εμφάνιση κωδικού πρόσβασης</string>
     <string name="ssb_clear_data_activity_name">Επαναφ. προσαρμ. φωτεινότητας;</string>

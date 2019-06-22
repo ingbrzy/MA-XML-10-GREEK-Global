@@ -1,5 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <plurals name="guide_used_number">
+        <item quantity="other">Εφαρμόστηκε σε %1$d συσκευές</item>
+        <item quantity="one">Εφαρμόστηκε σε %1$d συσκευή</item>
+    </plurals>
     <plurals name="resource_comment_score_count">
         <item quantity="other">Σχόλια %d</item>
         <item quantity="one">Σχόλιο %d</item>

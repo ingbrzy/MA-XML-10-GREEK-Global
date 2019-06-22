@@ -31,13 +31,6 @@
         <item>Μόνο κατά την Αθόρυβη λειτουργία</item>
         <item>Ποτέ</item>
     </string-array>
-    <string-array name="reason_type">
-        <item>Απάτη</item>
-        <item>Ακατάλληλο ή παράνομο περιεχόμενο</item>
-        <item>Spam</item>
-        <item>Άλλο</item>
-        <item>Ακύρωση</item>
-    </string-array>
     <string-array name="recv_type">
         <item>接收并通知</item>
         <item>只接收</item>

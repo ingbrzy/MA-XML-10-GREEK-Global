@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="Accounts_settings_title">Λογαριασμοί</string>
+    <string name="a11y_settings_label">Ρυθμίσεις προσβασιμότητας</string>
     <string name="abc_action_bar_home_description">Πλοήγηση στην αρχική σελίδα</string>
     <string name="abc_action_bar_up_description">Πλοήγηση προς τα επάνω</string>
     <string name="abc_action_menu_overflow_description">Περισσότερες επιλογές</string>
@@ -92,7 +93,12 @@
     <string name="accessibility_long_press_timeout_preference_title">Καθυστέρηση παρατετ. αγγίγματος</string>
     <string name="accessibility_manual_zen_less_time">Λιγότερος χρόνος.</string>
     <string name="accessibility_manual_zen_more_time">Περισσότερος χρόνος.</string>
+    <string name="accessibility_menu_description">"Το μενού προσβασιμότητας παρέχει εύχρηστες συντομεύσεις που σας επιτρέπουν να ελέγχετε τη συσκευή σας.
+
+Ενεργοποιήστε αυτή τη λειτουργία και πατήστε το κουμπί Προσβασιμότητας στο κάτω μέρος της οθόνης σας για να ανοίξετε το μενού."</string>
     <string name="accessibility_menu_item_settings">Ρυθμίσεις</string>
+    <string name="accessibility_menu_service_name">Μενού προσβασιμότητας</string>
+    <string name="accessibility_menu_summary">Ελέγξτε τη συσκευή σας με τη χρήση εύχρηστων συντομεύσεων</string>
     <string name="accessibility_more_settings">Πρόσθετες ρυθμίσεις</string>
     <string name="accessibility_no_service_selected">Δεν έχει επιλεγεί κάποια υπηρεσία</string>
     <string name="accessibility_no_services_installed">Δεν έχουν εγκατασταθεί υπηρεσίες</string>
@@ -283,7 +289,7 @@
     <string name="allow_bind_app_widget_activity_allow_bind_title">Να γίνει δημιουργία γραφικού στοιχείου και να επιτρέπεται η πρόσβαση;</string>
     <string name="allow_bind_app_widget_activity_always_allow_bind">Να επιτρέπεται πάντα στον κεντρικό υπολογιστή %1$s η δημιουργία γραφικών στοιχείων και η πρόσβαση στα δεδομένα τους</string>
     <string name="allow_data_usage_title">Επιτρ. η χρήση δεδ. σε περιαγ.</string>
-    <string name="allow_device_id_access">Εφαρμογές με πρόσβαση σε ID Συσκευής</string>
+    <string name="allow_device_id_access">Επιλέξτε τις εφαρμογές που θα μπορούν να χρησιμοποιούν το αναγνωριστικό συσκευής</string>
     <string name="allow_float_summary">Επιτρέψτε τις αναδυόμενες ειδοποιήσεις</string>
     <string name="allow_float_title">Αναδυόμενες ειδοποιήσεις</string>
     <string name="allow_interruption">Να επιτρέπονται οι διακοπές</string>
@@ -293,6 +299,7 @@
     <string name="allow_lights_title">Επιτρέψτε τη χρήση φωτισμού LED</string>
     <string name="allow_mock_location">Αποδοχή προσομειώσεων τοποθεσιών</string>
     <string name="allow_mock_location_summary">Αποδοχή προσομειώσεων τοποθεσιών</string>
+    <string name="allow_oaid_used">Αποδοχή χρήσης αναγνωριστικού συσκευής</string>
     <string name="allow_overlay_description">Επιτρέψτε σε αυτήν την εφαρμογή να εμφανίζεται πάνω από άλλες εφαρμογές που χρησιμοποιείτε. Μπορεί να επηρεάσει τη χρήση αυτών των εφαρμογών ή να αλλάξει τον τρόπο εμφάνισης ή συμπεριφοράς τους.</string>
     <string name="allow_sound_title">Επιτρέψτε τον ήχο</string>
     <string name="allow_vibrate_title">Επιτρέψτε τη δόνηση</string>
@@ -590,10 +597,14 @@
     <string name="backup_set_enter_pw_title">Εισαγωγή κωδικού backup</string>
     <string name="backup_set_error_pw">Ο κωδικός που εισαγάγατε είναι εσφαλμένος</string>
     <string name="backup_set_modify_title">Αλλαγή κωδικού backup</string>
+    <string name="backup_set_new_continue">Συνέχεια</string>
+    <string name="backup_set_new_exit">Έξοδος</string>
+    <string name="backup_set_new_pw_confirm_hint">Προσοχή</string>
+    <string name="backup_set_new_pw_confirm_summary">Τα αντικείμενα σας είναι αποθηκευμένα αυτόματα τώρα. Δημιουργώντας ένα κωδικό αντιγράφου θα σταματήσει την αυτόματη αποθήκευση. Συνέχεια;</string>
     <string name="backup_set_new_pw_title">Εισαγωγή νέου κωδικού backup</string>
     <string name="backup_set_null_pw">Εισαγωγή κωδικού πρώτα</string>
     <string name="backup_set_pw_confirm_title">Επιβεβαίωση νέου κωδικού backup</string>
-    <string name="badge_title">Εμφάνιση σημάτων εικονιδίων εφαρμογών επιφάνεια εργασίας</string>
+    <string name="badge_title">Εμφάνιση σημάτων στα εικονίδια εφαρμογών</string>
     <string name="band_mode_failed">Ανεπιτυχής</string>
     <string name="band_mode_loading">Φόρτωση λίστας ζωνών…</string>
     <string name="band_mode_set">Ορισμός</string>
@@ -842,7 +853,7 @@
     <string name="bluetooth_device_context_unpair">Διακοπή σύζευξης</string>
     <string name="bluetooth_device_details">Ρυθμίσεις συσκευής</string>
     <string name="bluetooth_device_mac_address">Διεύθυνση Bluetooth συσκευής: %1$s</string>
-    <string name="bluetooth_device_misc_title">Σπάνια σε χρήση Bluetooth συσκευές</string>
+    <string name="bluetooth_device_misc_title">Σπάνια σε χρήση συσκευές</string>
     <string name="bluetooth_device_name">Όνομα:</string>
     <string name="bluetooth_device_name_summary">Ορατή ως \"^1\" σε άλλες συσκευές</string>
     <string name="bluetooth_device_searchable">Ανιχνεύσιμο</string>
@@ -1041,7 +1052,8 @@ Bits ανά δείγμα"</string>
     <string name="bluetooth_unlock_change_device_confirm_msg">Η παλιά συσκευή θα αντικατασταθεί με την τρέχουσα συσκευή.</string>
     <string name="bluetooth_unlock_change_matched_device">Επιλέξτε άλλη συσκευή</string>
     <string name="bluetooth_unlock_confirm_device_text">Αγγίξτε την συσκευή Bluetooth για επιβεβαίωση.</string>
-    <string name="bluetooth_unlock_confirm_device_text_for_huami_watch">Αγγίξτε το κουμπί στο ρολόι για ξεκλείδωμα.</string>
+    <string name="bluetooth_unlock_confirm_device_text_for_huami_band">Επιβεβαιώστε στο band.</string>
+    <string name="bluetooth_unlock_confirm_device_text_for_huami_watch">Επιβεβαιώστε στο ρολόι.</string>
     <string name="bluetooth_unlock_confirm_device_text_for_miband2">Αγγίξτε το κουμπί στην συσκευή για ξεκλείδωμα.</string>
     <string name="bluetooth_unlock_delete_device">Διαγραφή αυτής της συσκευής</string>
     <string name="bluetooth_unlock_delete_device_confirm_msg">Διαγραφή αυτής της συσκευής;</string>
@@ -1110,6 +1122,7 @@ Bits ανά δείγμα"</string>
     <string name="bootloader_summary">Κάντε flash για την συσκευή σας μέσω USB</string>
     <string name="bootloader_tips">Αφού προσθέσετε το Λογαριασμό Mi, μην αποσυνδεθείτε. Κάντε επαναφορά εργοστασιακών ρυθμίσεων ή κάντε εκκαθάριση των δεδομένων εφαρμογών συστήματος. Αν κάνετε κάποιο από τα παραπάνω, προσθέστε ξανά τον λογαριασμό σας αλλιώς δεν θα μπορείτε να ξεκλειδώσετε τη συσκευή σας.</string>
     <string name="bootloader_tips_ok">Κατανοητό</string>
+    <string name="bootloader_unlock_webhome">https://unlock.update.miui.com</string>
     <string name="breathing_light_color_menu_title">Χρώμα φλας</string>
     <string name="breathing_light_color_summary">Χρώμα φλας κατά τη λήψη νέας ειδοποίησης</string>
     <string name="breathing_light_freq_summary">Συχνότητα φλας όταν υπάρχουν νέες ειδοποιήσεις</string>
@@ -1297,6 +1310,7 @@ Bits ανά δείγμα"</string>
     <string name="close_miui_optimization_title">Απενεργοποίηση βελτιστοποίησης MIUI</string>
     <string name="close_optimization_message">Η διάταξη κειμένων, λογαριασμοί, και άλλα μέρη του MIUI ενδέχεται να επηρεαστούν αφού απενεργοποιήσετε την λειτουργία αυτή.</string>
     <string name="close_optimization_option">Απενεργοποίηση</string>
+    <string name="close_privacy_thumbnail_blur_title">Οι προβολές δεν είναι θολωμένες</string>
     <string name="cloud_backup_section_title">Αντίγραφα ασφαλείας Mi Cloud</string>
     <string name="cloud_backup_settings_section_title">Ρυθμίσεις αντίγραφων ασφαλείας</string>
     <string name="cloud_restore_section_summary">Επαναφορά ρυθμίσεων συστήματος, διάταξης Αρχικής οθόνης, και εφαρμογών</string>
@@ -1309,6 +1323,22 @@ Bits ανά δείγμα"</string>
     <string name="color_cyan">Κυανό</string>
     <string name="color_gray">Γκρι</string>
     <string name="color_green">Πράσινο</string>
+    <string name="color_led_applications_title">Επιλογή εφαρμογών</string>
+    <string name="color_led_applications_title_summary">Μπορείτε να περιορίσετε χρησιμοποιώντας φως LED για ατομικές εφαρμογές</string>
+    <string name="color_led_battery_title">Διατήρηση ενεργοποίησης κατά τη διάρκεια φόρτισης</string>
+    <string name="color_led_end_time">Ώρα λήξης</string>
+    <string name="color_led_game_mode_title">Τούρμπο παιχνιδιού</string>
+    <string name="color_led_hint">Επιλογή σεναρίων όταν χρησιμοποιείται το φως LED. Το φως LED ανάβει όταν η οθόνη είναι στραμμένη προς τα κάτω και η λειτουργία DND είναι απενεργοποιημένη.</string>
+    <string name="color_led_incall_pulse_title">Φλας για εισερχόμενες κλήσεις</string>
+    <string name="color_led_lucky_dialog_message">Αυτή η λειτουργία απαιτεί χρήση του Βοηθού κόκκινου φακέλου. Ενεργοποίηση τώρα;</string>
+    <string name="color_led_lucky_dialog_title">Ενεργοποίηση κόκκινου φακέλου</string>
+    <string name="color_led_music_mode_summary">Εμφάνιση ρυθμικών εφέ φωτός κατά τη διάρκεια αναπαραγωγής μουσικής</string>
+    <string name="color_led_music_mode_title">Μουσική</string>
+    <string name="color_led_notification_pulse_title">Παλμοί για ειδοποιήσεις</string>
+    <string name="color_led_red_more_feature">Ειδικά εφέ</string>
+    <string name="color_led_red_package_title">Κόκκινοι φάκελοι</string>
+    <string name="color_led_start_time">Ώρα έναρξης</string>
+    <string name="color_led_title">Φωτισμός LED</string>
     <string name="color_magenta">Πορφυρό</string>
     <string name="color_mode_option_automatic">Αυτόματα</string>
     <string name="color_mode_option_boosted">Ενισχυμένο</string>
@@ -1370,12 +1400,15 @@ Bits ανά δείγμα"</string>
     <string name="confirm_enable_oem_unlock_text">"ΠΡΟΣΟΧΗ: Οι λειτουργίες προστασίας συσκευής δεν θα λειτουργούν σ' αυτή την συσκευή ενώ είναι ενεργή αυτή η ρύθμιση."</string>
     <string name="confirm_enable_oem_unlock_title">Αποδοχή ξεκλειδώματος OEM;</string>
     <string name="confirm_erase">Διαγραφή</string>
+    <string name="confirm_fingerprint">Επαληθεύστε το δακτυλικό σας αποτύπωμα</string>
     <string name="confirm_fingerprint_icon_content_description">Χρησιμοποιήστε το μοναδικό χαρακτηριστικό σας για να συνεχίσετε.</string>
     <string name="confirm_fingerprint_msg">Τοποθετήστε το δάκτυλο σας στον αισθητήρα</string>
     <string name="confirm_frp_credential_message">Έγινε εργοστασιακή επαναφορά της συσκευής σας. Μπορείτε να την ξεκλειδώσετε με τον προηγούμενο κωδικό σας.</string>
     <string name="confirm_frp_credential_skip_txt">Χρήση λογαριασμού Google</string>
     <string name="confirm_frp_credential_title">Ξεκλείδωμα μετά την Επαναφορά εργοστασιακών δεδομένων</string>
     <string name="confirm_new_backup_pw_prompt">Πληκτρολογήστε ξανά τον νέο κωδικό πρόσβασής σας για πλήρες αντίγραφο ασφαλείας εδώ</string>
+    <string name="confirm_password_with_fingerprint">Χρήση δακτυλικού αποτυπώματος</string>
+    <string name="confirm_password_with_password">Εισαγωγή κωδικού</string>
     <string name="confirm_privacy_password">Εισαγάγετε τον κωδικό προστασίας απορρήτου</string>
     <string name="confirm_privacy_password_fingerprint">Σαρώστε το δακτυλικό αποτύπωμα ή εισαγάγετε τον κωδικό προστασίας απορρήτου</string>
     <string name="confirm_reset_aaid">ΝΑΙ</string>
@@ -1513,7 +1546,8 @@ Bits ανά δείγμα"</string>
     <string name="dangerous_option_hint_title">Η δυνατότητα υψηλού κινδύνου είναι ενεργοποιημένη</string>
     <string name="dangerous_option_switch_title">Ειδοποίηση σχετικά με χαρακτηριστικά υψηλού κινδύνου</string>
     <string name="dark_color_mode">Σκοτεινή λειτουργία</string>
-    <string name="dark_color_summary">Χρησιμοποιήστε τη πιο σκούρα παλέτα χρωμάτων για φόντο του συστήματος και συμβατές εφαρμογές</string>
+    <string name="dark_color_summary_lcd">Χρησιμοποιήστε πιο σκούρα παλέτα χρωμάτων για τις ταπετσαρίες συστήματος και για τις συμβατές εφαρμογές. Η σκοτεινή λειτουργία μειώνει τη χρήση ενέργειας και βοηθάει στην ανακούφιση των ματιών όταν χρησιμοποιήτε τη συσκευή σας στο σκοτάδι.</string>
+    <string name="dark_color_summary_oled">Χρησιμοποιήστε πιο σκούρα παλέτα χρωμάτων για τις ταπετσαρίες συστήματος και για τις συμβατές εφαρμογές. Η σκοτεινή λειτουργία μειώνει τη χρήση ενέργειας και βοηθάει στην ανακούφιση των ματιών.</string>
     <string name="dark_ui_mode">Νυχτερινή λειτουργία</string>
     <string name="dark_ui_mode_title">Ρύθμιση Νυχτερινής λειτουργίας</string>
     <string name="dashboard_suggestion_condition_footer_content_description">Σύμπτυξη</string>
@@ -1749,7 +1783,7 @@ Bits ανά δείγμα"</string>
     <string name="device_display_layout_title">Mi 5 Λειτουργίες</string>
     <string name="device_edit_title">Μετονομασία τηλεφώνου</string>
     <string name="device_feedback">Αποστολή σχολίων για τη συσκευή</string>
-    <string name="device_id">ID Συσκευής</string>
+    <string name="device_id">Αναγνωριστικό συσκευής για εξατομικευμένες προτάσεις</string>
     <string name="device_info_default">Άγνωστο</string>
     <string name="device_info_label">Πληροφορίες συσκευής</string>
     <string name="device_info_not_available">Δεν είναι διαθέσιμο</string>
@@ -1759,12 +1793,14 @@ Bits ανά δείγμα"</string>
     <string name="device_miui_more">Εμφάνιση περισσοτέρων</string>
     <string name="device_miui_version">MIUI έκδοση</string>
     <string name="device_miui_version_for_POCO">MIUI έκδοση (Για POCO)</string>
+    <string name="device_miui_version_parameters">Έκδοση MIUI</string>
     <string name="device_miui_version_update">Διαθέσιμη ενημέρωση MIUI</string>
     <string name="device_name">Όνομα συσκευής</string>
     <string name="device_name_input_error">Αδυναμία αποθήκευσης ονόματος συσκευής</string>
     <string name="device_name_input_hint">Εισαγωγή ονόματος</string>
     <string name="device_name_input_overlength">Υπερβήκατε το όριο χαρακτήρων</string>
     <string name="device_name_usage_point">Το όνομα αυτό είναι ορατό σε άλλες κοντινές συσκευές.</string>
+    <string name="device_oaid">Αναγνωριστικό συσκευής</string>
     <string name="device_picker">Συσκευή Bluetooth</string>
     <string name="device_rear_camera">Οπίσθια κάμερα</string>
     <string name="device_screen_consumption">Κατανάλωση οθόνης</string>
@@ -1817,8 +1853,10 @@ Bits ανά δείγμα"</string>
     <string name="dialog_title_hdmi_color_calibration">Προκαθορισμένη διόρθωση χρώματος</string>
     <string name="dialog_title_login">Συνδεθείτε στο Mi Λογαριασμό σας</string>
     <string name="dialog_yes">Ναι</string>
+    <string name="digital_clock_dot">:</string>
     <string name="direct_boot_unaware_dialog_message">Σημείωση: Θα έχετε δυνατότητα χρήσης αυτού του πληκτρολογίου μετά από επανεκκίνηση μόνο εάν ξεκλειδώσετε την συσκευή σας</string>
     <string name="directory_access">Πρόσβαση στον κατάλογο</string>
+    <string name="directory_on_volume">%1$s (%2$s)</string>
     <string name="disable_overlays">Απενεργοποίηση HW επικαλύψεων</string>
     <string name="disable_overlays_summary">Χρήση πάντα GPU για σύνθεση οθόνης</string>
     <string name="disable_power_key_long_press_under_keyguard">Απενεργοποίηση του μενού πλήκτρου Απενεργοποίησης</string>
@@ -1885,6 +1923,7 @@ Bits ανά δείγμα"</string>
     <string name="dndm_auto_button_title">Επανάληψη ώρας του Μην Ενοχλείτε</string>
     <string name="dndm_auto_setting_group">Προγραμματισμένο</string>
     <string name="dndm_auto_time_setting">Ορισμός χρόνου</string>
+    <string name="dndm_auto_time_setting_summary">%1$s-%2$s</string>
     <string name="dndm_auto_time_turn_off">Προς</string>
     <string name="dndm_auto_time_turn_off_title">Αυτόματη απενεργοποίηση Μην Ενοχλείτε</string>
     <string name="dndm_auto_time_turn_on">Από</string>
@@ -1963,9 +2002,8 @@ Bits ανά δείγμα"</string>
     <string name="draw_overlay">Εμφάνιση πάνω σε άλλες εφαρμογές</string>
     <string name="dtmf_tone_enable_title">Ήχοι πληκτρολογίου</string>
     <string name="dual_clock">Διπλότυπο ρολόι</string>
-    <string name="dual_clock_aod_hint">Το \"Διπλότυπο Ρολόι\" βασίζεται στις εξής λειτουργίες: 1. Για απενεργοποιημένη οθόνη, επιτρέψτε την προβολή αντικειμένων στις Ρυθμίσεις > Οθόνη 2. Οθόνη 2. Για κλειδωμένη οθόνη, βεβαιωθείτε ότι χρησιμοποιείτε είτε το προεπιλεγμένο είτε το κλασσικό θέμα στις Ρυθμίσεις > Θέματα 3. Για την Αρχική Οθόνη, βεβαιωθείτε ότι χρησιμοποιείτε το προεπιλεγμένο σύστημα γραφικών στοιχείων ρολογιού.</string>
     <string name="dual_clock_aod_open_message">Το Διπλότυπο Ρολόι θα προβληθεί στην Οθόνη κλειδώματος, στην Αρχική Οθόνη, και στην απενεργοποιημένη οθόνη.</string>
-    <string name="dual_clock_hint">Το \"Διπλότυπο Ρολόι\" βασίζεται στις εξής λειτουργίες: 1. Για την Οθόνη κλειδώματος, βεβαιωθείτε ότι χρησιμοποιείτε είτε το προεπιλεγμένο είτε το κλασσικό θέμα στις Ρυθμίσεις > Θέματα 2. Για την Αρχική Οθόνη, βεβαιωθείτε ότι χρησιμοποιείτε το προεπιλεγμένο σύστημα γραφικών στοιχείων ρολογιού.</string>
+    <string name="dual_clock_hint">Dual clock requires using system clock widget and default theme</string>
     <string name="dual_clock_ok">Κατανοητό</string>
     <string name="dual_clock_open_message">Το Διπλότυπο Ρολόι θα προβληθεί στην Οθόνη κλειδώματος, στην Αρχική Οθόνη.</string>
     <string name="dual_setting_simcard1">SIM 1</string>
@@ -2018,6 +2056,8 @@ Bits ανά δείγμα"</string>
     <string name="enable_service_pin_reason">Επειδή η ενεργοποίηση της υπηρεσίας %1$s επηρεάζει την κρυπτογράφηση δεδομένων, χρειάζεται να επιβεβαιώσετε τον κωδικό σας PIN.</string>
     <string name="enable_service_title">Η υπηρεσία θα εκτελέσει αυτές τις ενέργειες:</string>
     <string name="enable_snapshot_screenlock">Πατήστε παρατεταμένα Πίσω για λήψη φωτογραφίας</string>
+    <string name="enable_tcp_rtt_support">Οθόνη TCP RTT</string>
+    <string name="enable_tcp_rtt_support_summary">Αξιολόγηση απόδοσης ποιότητας δικτύου επικοινωνίας</string>
     <string name="enable_terminal_summary">Ενεργοποιεί τερματική εφαρμογή που προσφέρει τοπική πρόσβαση</string>
     <string name="enable_terminal_title">Τοπικό τερματικό</string>
     <string name="enable_text">Ενεργοποίηση</string>
@@ -2268,6 +2308,7 @@ Bits ανά δείγμα"</string>
     <string name="firewall_temp_rule_reason">%2$s περιόρισε την σύνδεση Ίντερνετ για %1$s</string>
     <string name="firewall_wifi">Wi-Fi</string>
     <string name="firewall_wifi_dialog_message">Η εγκατεστημένη εφαρμογή δεν θα έχει δυνατότητα σύνδεσης στο Ίντερνετ μέσω Wi-Fi όταν αυτή η επιλογή είναι ανενεργή.</string>
+    <string name="firmware_title">Android</string>
     <string name="firmware_version">Έκδοση Android</string>
     <string name="flash_drive_backup_restore">Δημιουργία αντιγράφου ασφαλείας ή επαναφορά μέσω USB</string>
     <string name="flash_drive_backup_restore_summary">Συνδέστε μια συσκευή USB</string>
@@ -2317,10 +2358,6 @@ Bits ανά δείγμα"</string>
     <string name="force_stop">Αναγκαστική διακοπή</string>
     <string name="force_stop_dlg_text">Αν επιβάλετε τη διακοπή μιας εφαρμογής, ενδέχεται να μην λειτουργήσει σωστά.</string>
     <string name="force_stop_dlg_title">Αναγκαστική διακοπή;</string>
-    <string name="force_touch">Άγγιγμα 3D</string>
-    <string name="force_touch_demo">Προβολή demo</string>
-    <string name="force_touch_enable">Ενεργοποίηση Αγγίγματος 3D</string>
-    <string name="force_touch_enable_tips">Πιέστε τα εικονίδια των εφαρμογών στον εκκινητή για να εμφανίσετε τα μενού συντόμευσης όταν είναι ενεργό το Άγγιγμα 3D.</string>
     <string name="foreground_traffic">Προσκήνιο %s</string>
     <string name="forget">Διαγραφή</string>
     <string name="forget_password_button_text"><u>Ξέχασα τον κωδικό</u></string>
@@ -2379,6 +2416,7 @@ Bits ανά δείγμα"</string>
     <string name="gadget_picker_title">Επιλογή gadget</string>
     <string name="gadget_state_off">απενεργοποιημένη</string>
     <string name="gadget_state_on">ενεργή</string>
+    <string name="gadget_state_template">%1$s %2$s</string>
     <string name="gadget_state_turning_off">απενεργοποίηση</string>
     <string name="gadget_state_turning_on">ενεργοποίηση</string>
     <string name="gadget_sync">Συγχρονισμός</string>
@@ -2404,6 +2442,7 @@ Bits ανά δείγμα"</string>
     <string name="global_locale_change_title">Αλλαγή γλώσσας</string>
     <string name="go_back_button_label">Επιστροφή</string>
     <string name="go_to_sleep">Απενεργοποίηση οθόνης</string>
+    <string name="google_assistant_label">Βοηθός Google</string>
     <string name="google_backup_enable">Ενεργοποίηση αντιγράφων ασφαλείας</string>
     <string name="google_backup_section_title">Αντίγραφο ασφαλείας Google &amp; επαναφορά</string>
     <string name="google_title">Google</string>
@@ -2693,7 +2732,7 @@ Bits ανά δείγμα"</string>
     <string name="keywords_write_settings">εγγραφή ρυθμίσεων τροποποίησης συστήματος</string>
     <string name="keywords_zen_mode_settings">dnd, χρονοδιάγραμμα, ειδοποιήσεις, αποκλεισμός, σίγαση, δόνηση, αδράνεια, εργασία, εστίαση, ήχος, σίγαση, ημέρα, καθημερινή, σαββατοκύριακο, νύχτα καθημερινής, συμβάν</string>
     <string name="kilobyteShort">KB</string>
-    <string name="kilobyte_per_second">K/δ</string>
+    <string name="kilobyte_per_second">KB/δ</string>
     <string name="label_mi_stats">Mi αναλύσεις</string>
     <string name="language_empty_list_user_restricted">Δεν έχετε άδεια να αλλάξετε τη γλώσσα της συσκευής.</string>
     <string name="language_input_gesture_summary_off" />
@@ -2751,6 +2790,7 @@ Bits ανά δείγμα"</string>
     <string name="lights_title">Φωτισμός LED</string>
     <string name="line_breaking_summary">Βελτιστοποίηση αλλαγής γραμμής παραγράφου</string>
     <string name="line_breaking_title">Βελτιστοποίηση κειμένου</string>
+    <string name="link_speed">%1$d Mbps</string>
     <string name="list_bg_header_text">Εάν περιορίσετε την σύνδεση παρασκηνίου, οι νέες εφαρμογές δεν θα έχουν δυνατότητα σύνδεσης στο Ίντερνετ στο παρασκήνιο μετά την εγκατάσταση τους. Ενδέχεται να μην μπορούν να λάβουν μηνύματα ή να κατεβάζουν περιεχόμενο.</string>
     <string name="list_empty_text">Κενό</string>
     <string name="loading">Περιμένετε μία στιγμή…</string>
@@ -2999,6 +3039,7 @@ Bits ανά δείγμα"</string>
     <string name="lockscreen_glogin_checking_password">Γίνεται έλεγχος…</string>
     <string name="lockscreen_glogin_password_hint">Κωδικός</string>
     <string name="lockscreen_glogin_submit_button">Σύνδεση</string>
+    <string name="lockscreen_label">Κλείδωμα οθόνης</string>
     <string name="lockscreen_magazine">Ταπετσαρία Καρουζέλ</string>
     <string name="lockscreen_magazine_summary">Ταπετσαρία καρουζέλ υψηλής ποιότητας</string>
     <string name="lockscreen_magazine_title">Ταπετσαρία Καρουζέλ</string>
@@ -3114,7 +3155,7 @@ Bits ανά δείγμα"</string>
     <string name="media_volume_summary">Ορισμός έντασης ήχου για μουσική και βίντεο</string>
     <string name="media_volume_title">Μέσα</string>
     <string name="megabyteShort">MB</string>
-    <string name="megabyte_per_second">M/δ</string>
+    <string name="megabyte_per_second">MB/δ</string>
     <string name="meid_multi_sim">Αριθμός MEID (υποδοχή sim %1$d)</string>
     <string name="mem_details_title">Λεπτομέρειες μνήμης</string>
     <string name="memory">RAM</string>
@@ -3147,6 +3188,7 @@ Bits ανά δείγμα"</string>
     <string name="memory_title">Διαθέσιμα: %1$s\u0009\u0009Σύνολο: %2$s</string>
     <string name="memory_usage">Χρήση μνήμης</string>
     <string name="memory_usage_apps">Μνήμη που χρησιμοποιείται από εφαρμογές</string>
+    <string name="memory_use_running_format">%1$s / %2$s</string>
     <string name="memory_use_summary">Χρησιμοποιήθηκε μέση μνήμη %1$s στο διάστημα των τελευταίων 3 ωρών</string>
     <string name="menu_cancel">Απόρριψη</string>
     <string name="menu_check">Εμπειρία</string>
@@ -3259,6 +3301,7 @@ Bits ανά δείγμα"</string>
     <string name="miui_sos_statusbar_summary">Πατήστε για απενεργοποίηση</string>
     <string name="miui_sos_statusbar_title">Ενεργοποίηση λειτουργίας εκτάκτου ανάγκης</string>
     <string name="miui_special_feature">Ειδικές λειτουργίες</string>
+    <string name="miui_touch_filtered_touchassistant_warning">Οι διάλογοι αδειών είναι καλυμμένοι από το Βοηθό Αφής. Μετακινήστε το Βοηθό Αφής μακριά ή απενεργοποιήστε το χαρακτηριστικό αυτό.</string>
     <string name="miui_touch_filtered_warning">Εάν μια εφαρμογή μπλοκάρει το πλαίσιο διαλόγου αδειών. σύρετε το αντικείμενο μακριά ή κλείστε την εφαρμογή.</string>
     <string name="miui_updater">Ενημέρωση συστήματος</string>
     <string name="miui_userguide">Εγχειρίδιο χρήσης</string>
@@ -3291,6 +3334,11 @@ Bits ανά δείγμα"</string>
     <string name="move_app_to_sdcard">Μετακίνηση στην κάρτα SD</string>
     <string name="move_error_device_admin">Δεν είναι δυνατή η εγκατάσταση του διαχειριστή συσκευής σε εξωτερικά μέσα</string>
     <string name="moving">Μετακίνηση</string>
+    <string name="mqs_privacy_automatically_upload">Αυτόματη μεταφόρτωση την επόμενη φορά</string>
+    <string name="mqs_privacy_dialog_cancel">Ακύρωση</string>
+    <string name="mqs_privacy_dialog_confirm">Μεταφόρτωση</string>
+    <string name="mqs_privacy_dialog_content">Μεταφόρτωση αρχείων καταγραφής για να μας βοηθήσετε στον εντοπισμό και επίλυση του προβλήματος αυτού; Τα αρχεία καταγραφής ενδέχεται να περιέχουν προσωπικές σας πληροφορίες, όπως την τοποθεσία σας.</string>
+    <string name="mqs_privacy_dialog_title">Παρουσιάστηκε σφάλμα</string>
     <string name="msd_driver_download">Λήψη οδηγού</string>
     <string name="msd_driver_download_mac">OSX: Κατεβάστε τον οδηγό και εγκαταστήστε το AndroidFileTransfer.dmg.</string>
     <string name="msd_driver_download_mac_url">Αποκτήστε τον οδηγό στο http://www.android.com/filetransfer/</string>
@@ -3461,6 +3509,7 @@ Bits ανά δείγμα"</string>
     <string name="nfc_how_it_works_got_it">Το κατάλαβα</string>
     <string name="nfc_how_it_works_title">Πληρωμή στο τερματικό</string>
     <string name="nfc_more_title">Περισσότερα…</string>
+    <string name="nfc_payment_app_and_desc">%1$s - %2$s</string>
     <string name="nfc_payment_default">Προεπιλογή πληρωμής</string>
     <string name="nfc_payment_default_not_set">Δεν ρυθμίστηκε</string>
     <string name="nfc_payment_favor_default">Χρήση προεπιλεγμένης εφαρμογής πάντα</string>
@@ -3695,13 +3744,12 @@ Bits ανά δείγμα"</string>
     <string name="onehour">30 λεπτά</string>
     <string name="onekey_migrate">Mi Mover</string>
     <string name="onscreen_keyboard_settings_summary">Ρυθμίσεις πληκτρολογίου οθόνης</string>
-    <string name="open_dark_mode_dialog_summary">Ορισμένες ρυθμίσεις οθόνης δεν είναι συμβατές με τη σκοτεινή λειτουργία. Ωστόσο, θα αποκατασταθούν μόλις επιστρέψετε στη Σκοτεινή λειτουργία. Ενεργοποίηση Σκοτεινής λειτουργίας;</string>
-    <string name="open_dark_mode_dialog_title">Συμβατότητα Σκοτεινής λειτουργίας</string>
     <string name="open_demo_mode">Ενεργοποίηση</string>
     <string name="open_demo_mode_warning_message">Όταν είναι ενεργή η λειτουργία Demo, το ρολόι στην μπάρα κατάστασης θα σταματήσει, η μπαταρία και τα εικονίδια σήματος θα προβάλλονται ως πλήρες. Μπορείτε να απενεργοποιήσετε την λειτουργία Demo ή να επανεκκινήσετε την συσκευή σας για να το αλλάξετε.</string>
     <string name="open_miui_optimization_title">Ενεργοποίηση βελτιστοποίησης MIUI</string>
     <string name="open_optimization_message">Ενεργοποιήστε την βελτιστοποίηση για να απολαύστε ομαλότερη, γρηγορότερη UI.</string>
     <string name="open_optimization_option">Ενεργοποίηση</string>
+    <string name="open_privacy_thumbnail_blur_title">Οι προβολές είναι θολωμένες</string>
     <string name="open_wifi_connect_summary">Αγγίξτε για προβολή λεπτομερειών.</string>
     <string name="open_wifi_connect_title">Έγινε σύνδεση σε %1$s</string>
     <string name="opening_paragraph_delete_profile_unknown_company">Η διαχείριση αυτού του προφίλ γίνεται από:</string>
@@ -3726,6 +3774,7 @@ Bits ανά δείγμα"</string>
     <string name="overlay_display_devices_title">Προσομείωση δευτερεύοντων προβολών</string>
     <string name="overlay_settings">Εμφάνιση πάνω σε άλλες εφαρμογές</string>
     <string name="owner_info_settings_edit_text_hint">Π.χ. Το Android του Μάκη.</string>
+    <string name="owner_info_settings_status">%1$d / %2$d</string>
     <string name="owner_info_settings_summary">Κανένα</string>
     <string name="owner_info_settings_title">Υπογραφή Οθόνης κλειδώματος</string>
     <string name="owner_space">Πρώτος χώρος</string>
@@ -3797,6 +3846,7 @@ Bits ανά δείγμα"</string>
     <string name="paper_mode_get_location_dlg_negative_btn_text">Ακύρωση</string>
     <string name="paper_mode_get_location_dlg_positive_btn_text">Μεταβείτε στις Ρυθμίσεις</string>
     <string name="paper_mode_get_location_dlg_title">Ρύθμιση τοποθεσίας</string>
+    <string name="paper_mode_side_effect_hint">Η υψηλότερη ένταση ενδέχεται να επηρεάσει το τρόπο προβολής του περιεχομένου.</string>
     <string name="paper_mode_start_time_title">Ενεργοποίηση</string>
     <string name="passpoint_content">Διαπιστευτήρια %1$s</string>
     <string name="passpoint_label">Αποθηκεύτηκε μέσω</string>
@@ -3849,6 +3899,19 @@ Bits ανά δείγμα"</string>
     <string name="pointer_location_summary">Προβολή συντεταγμένων αγγίγματος</string>
     <string name="pointer_settings_category">Ποντίκι αφής</string>
     <string name="pointer_speed">Ταχύτητα δείκτη</string>
+    <string name="popup_gesture_summary">Lift the phone and look at the screen to open the front camera automatically</string>
+    <string name="popup_gesture_title">Lift to open front camera</string>
+    <string name="popup_led_summary">Εμφάνιση κινούμενων εικόνων όταν η μπροστινή κάμερα εμφανίζεται και αποσύρεται</string>
+    <string name="popup_led_title">Οπτικά εφέ</string>
+    <string name="popup_title">Εφέ μπροστινής κάμερας</string>
+    <string name="popup_title_cangmen">Πόρτα καμπίνας</string>
+    <string name="popup_title_chilun">Gearwheel</string>
+    <string name="popup_title_jijia">Mecha</string>
+    <string name="popup_title_mofa">Μαγεία</string>
+    <string name="popup_title_muqin">Ξυλόφωνο</string>
+    <string name="popup_title_yingyan">Condor</string>
+    <string name="popup_voice_summary">Αναπαραγωγή ήχου όταν η μπροστινή κάμερα εμφανίζεται και αποσύρεται</string>
+    <string name="popup_voice_title">Εφέ ήχου</string>
     <string name="popup_window">Περιορισμός αναδυόμενων ειδοποιήσεων</string>
     <string name="power_autorun_apps_empty">Κενό</string>
     <string name="power_autorun_empty">Κενό</string>
@@ -3875,6 +3938,7 @@ Bits ανά δείγμα"</string>
     <string name="power_key_how_start_detail">Πατήστε παρατεταμένα το Κουμπί ενέργειας για 0.5δ. Απελευθερώστε για να μιλήσετε.</string>
     <string name="power_key_start_enjoy">Μάθετε περισσότερα σχετικά με τον Βοηθό Google</string>
     <string name="power_key_start_guide">Ενεργοποίηση του Βοηθού Google χρησιμοποιώντας το Κουμπί ενέργειας σε συσκευές πλήρους προβολής</string>
+    <string name="power_label">Ενέργεια</string>
     <string name="power_mgr">Βελτιστοποίηση μπαταρίας</string>
     <string name="power_mode">Ρυθμίσεις ενέργειας</string>
     <string name="power_mode_balanced_title">Ισορροπία Ενέργειας</string>
@@ -3891,6 +3955,7 @@ Bits ανά δείγμα"</string>
     <string name="power_remaining_less_than_duration_only">Απομένουν λιγότερο από %1$s</string>
     <string name="power_remaining_more_than_subtext">Περισσότερο από %1$s απομένουν (%2$s)</string>
     <string name="power_remaining_only_more_than_subtext">Απομένουν περισσότερο από %1$s</string>
+    <string name="power_remaining_settings_home_page">%1$s - %2$s</string>
     <string name="power_screen">Οθόνη</string>
     <string name="power_settings_title">Απόδοση συστήματος</string>
     <string name="power_unaccounted">Διάφορα</string>
@@ -4060,6 +4125,8 @@ Bits ανά δείγμα"</string>
     <string name="privacy_relative">Απόρρητο</string>
     <string name="privacy_settings">Αντίγραφο ασφαλείας &amp; επαναφορά</string>
     <string name="privacy_settings_title">Δημιουργία αντιγράφων ασφαλείας</string>
+    <string name="privacy_thumbnail_blur_progress_message">Μια στιγμή…</string>
+    <string name="privacy_thumbnail_blur_title">Θόλωμα προβολών εφαρμογών</string>
     <string name="private_dns_help_message"><annotation id="url">Μάθετε περισσότερα</annotation> σχετικά με τις λειτουργίες Ιδιωτικού DNS</string>
     <string name="private_dns_mode_off">Ανενεργό</string>
     <string name="private_dns_mode_opportunistic">Αυτόματα</string>
@@ -4073,6 +4140,8 @@ Bits ανά δείγμα"</string>
     <string name="private_sms_recording_intro_header">Σχεδιάστε ένα μοτίβο ξεκλειδώματος:</string>
     <string name="private_sms_reset_by_account">Για επαναφορά του κωδικού σας, συνδεθείτε στο Mi Λογαριασμό σας</string>
     <string name="process_dex2oat_label">Βελτιστοποίηση εφαρμογών</string>
+    <string name="process_format">%1$s (%2$d)</string>
+    <string name="process_kernel_label">Android OS</string>
     <string name="process_mediaserver_label">Mediaserver</string>
     <string name="process_provider_in_use_description">Ο πάροχος %1$s χρησιμοποιείται.</string>
     <string name="process_service_in_use_description">Η υπηρεσία %1$s χρησιμοποιείται.</string>
@@ -4118,7 +4187,9 @@ Bits ανά δείγμα"</string>
     <string name="proxy_warning_limited_support">Ο διακ/στής μεσ/σης ΗΤΤΡ μπορεί να χρησ/θεί απο το πρ/μα περ/σης, αλλά όχι από άλλες εφαρμογές.</string>
     <string name="qtifeedback_settings_subtitle">Αναφορά στην Qualcomm Technologies, Inc</string>
     <string name="qtifeedback_settings_title">Ανάδραση υλικού</string>
+    <string name="quick_reply_title">Γρήγορες απαντήσεις</string>
     <string name="quick_settings_developer_tiles">Πλακίδια προγραμματιστή για γρήγορες ρυθμίσεις</string>
+    <string name="quick_settings_label">Διακόπτες εναλλαγής</string>
     <string name="quiet">Μην Ενοχλείτε</string>
     <string name="quiet_group">Μην Ενοχλείτε</string>
     <string name="quiet_important_interruptions_mode">Να επιτρέπονται μόνο εξαιρέσεις</string>
@@ -4204,6 +4275,7 @@ Bits ανά δείγμα"</string>
     <string name="rebootiing_for_updates">Γίνεται επανεκκίνηση…</string>
     <string name="receiver_clean">Ελευθερώστε χώρο</string>
     <string name="recent_app_category_title">Εφαρμογές που ανοίχτηκαν πρόσφατα</string>
+    <string name="recent_apps_label">Πρόσφατα</string>
     <string name="recent_location_requests_summary">Προβολή εφαρμογών που ζητούν πρόσβαση στις πληροφορίες τοποθεσίας σας</string>
     <string name="recent_location_requests_title">Πρόσβαση τοποθεσίας</string>
     <string name="recent_notifications">Στάλθηκαν πρόσφατα</string>
@@ -4274,11 +4346,14 @@ Bits ανά δείγμα"</string>
     <string name="resolver_settings_label">Ταξινόμηση</string>
     <string name="restore_default_apn">Επαναφορά προεπιλεγμένων ρυθμίσεων APN.</string>
     <string name="restore_default_apn_completed">Η επαναφορά των προεπιλογών APN ολοκληρώθηκε.</string>
-    <string name="restore_device_id_content">Επαναφορά εξατομικευμένων συστάσεων</string>
-    <string name="restore_device_id_title">Επαναφορά ID Συσκευής</string>
-    <string name="restore_dialog_content">Η επαναφορά του ID Συσκευής θα επαναφέρει τις εξατομικευμένες προτάσεις σας.</string>
+    <string name="restore_device_id_content">Οι εξατομικευμένες προτάσεις θα επαναφερθούν</string>
+    <string name="restore_device_id_title">Επαναφορά αναγνωριστικού συσκευής</string>
+    <string name="restore_dialog_content">Επαναφέροντας το τρέχον αναγνωριστικό συσκευής θα επαναφερθούν επίσης οι εξατομικευμένες προτάσεις. Επαναφορά τώρα;</string>
     <string name="restore_dialog_positive">Επαναφορά</string>
     <string name="restore_dialog_title">Προσοχή</string>
+    <string name="restore_oaid_content">Επαναφέροντας το τρέχον αναγνωριστικό συσκευής θα δημιουργηθεί ένα νέο. Επαναφορά τώρα;</string>
+    <string name="restore_oaid_positive">Επαναφορά</string>
+    <string name="restore_oaid_title">Επαναφορά αναγνωριστικού συσκευής</string>
     <string name="restr_pin_enter_admin_pin">Εισαγωγή PIN διαχειριστή</string>
     <string name="restrict_background_blacklisted">Τα δεδομένα παρασκηνίου είναι απενεργοποιημένα</string>
     <string name="restrict_bg_app">Περιορισμός</string>
@@ -4394,12 +4469,13 @@ Bits ανά δείγμα"</string>
     <string name="screen_paper_mode_global_summary">Χρήση Λειτουργίας ανάγνωσης για όλες τις εφαρμογές</string>
     <string name="screen_paper_mode_global_title">Όλες οι εφαρμογές</string>
     <string name="screen_paper_mode_hdr_toast">Η Λειτουργία ανάγνωσης θα απενεργοποιηθεί κατά την αναπαραγωγή βίντεο HDR. Θα ενεργοποιηθεί ξανά αυτόματα μετά την αναπαραγωγή.</string>
+    <string name="screen_paper_mode_hdr_toast_new">Η λειτουργία ανάγνωσης θα απενεργοποιηθεί αυτόματα κατά την αναπαραγωγή βίντεο HDR και αναγνώρισης αποτυπώματος. Η συσκευή σας θα επανέλθει στη λειτουργία ανάγνωσης όταν ολοκληρωθούν αυτές οι ενέργειες.</string>
     <string name="screen_paper_mode_local_summary">Χρήση Λειτουργίας ανάγνωσης για εφαρμογές που επιλέγετε</string>
     <string name="screen_paper_mode_local_title">Επιλεγμένες εφαρμογές</string>
     <string name="screen_paper_mode_off_apps_title">Να μην γίνει χρήση Λειτουργίας ανάγνωσης</string>
     <string name="screen_paper_mode_range_title">Ρυθμίσεις</string>
     <string name="screen_paper_mode_set_apps_title">Εφαρμογές Λειτουργίας ανάγνωσης</string>
-    <string name="screen_paper_mode_summary">Η λειτουργία ανάγνωσης κάνει τα χρώματα της οθόνης σας πιο θερμά επιτρέποντας στα μάτια σας να χαλαρώσουν.</string>
+    <string name="screen_paper_mode_summary">Η λειτουργία ανάγνωσης κάνει τα χρώματα της οθόνης σας πιο θερμά επιτρέποντας στα μάτια σας να χαλαρώσουν</string>
     <string name="screen_paper_mode_time_summary">Προγραμματισμός ώρας ενεργοποίησης και απενεργοποίησης της Λειτουργίας ανάγνωσης</string>
     <string name="screen_paper_mode_time_title">Πρόγραμμα</string>
     <string name="screen_paper_mode_title">Λειτουργία ανάγνωσης</string>
@@ -4478,6 +4554,7 @@ Bits ανά δείγμα"</string>
     <string name="screensaver_settings_title">Προφύλαξη οθόνης</string>
     <string name="screensaver_settings_when_to_dream">Πότε να ξεκινάει</string>
     <string name="screenshot">Στιγμιότυπο οθόνης</string>
+    <string name="screenshot_label">Στιγμιότυπο οθόνης</string>
     <string name="screenshot_three_gesture">Σύρετε με τρία δάκτυλα για λήψη στιγμιότυπου</string>
     <string name="screenshot_three_gesture_summary">Άλλες χειρονομίες τριών δακτύλων θα απενεργοποιηθούν</string>
     <string name="sd_card_settings_label">Κάρτα SD</string>
@@ -4723,6 +4800,7 @@ Bits ανά δείγμα"</string>
     <string name="security_encryption_attention_3">Θα πρέπει να ορίσετε έναν νέο κωδικό οθόνης κλειδώματος.</string>
     <string name="security_encryption_attention_4">Βεβαιωθείτε πως θυμάστε τον κωδικό οθόνης κλειδώματος, αλλιώς θα πρέπει να κάνετε μια πλήρη επαναφορά και διαγραφή όλων των δεδομένων από τη συσκευή.</string>
     <string name="security_encryption_attention_info">Μπορείτε να κρυπτογραφήσετε λογαριασμούς, ρυθμίσεις, κατεβασμένες εφαμογές και τα δεδομένα τους, πολυμέσα, και άλλα αρχεία.</string>
+    <string name="security_encryption_attention_symbol">•</string>
     <string name="security_encryption_attention_title">Σημαντικό</string>
     <string name="security_encryption_close_dialog_info">Επιλέγοντας να μην κρυπτογραφήσετε τη συσκευή με κωδικό οθόνης κλειδώματος, ορισμένες υπηρεσίες Google μπορεί να μην είναι διαθέσιμες.</string>
     <string name="security_encryption_close_dialog_title">Επιστροφή στον προεπιλεγμένο κωδικό προστασίας</string>
@@ -4987,6 +5065,7 @@ Bits ανά δείγμα"</string>
     <string name="sim_select_card">Επιλογή κάρτας SIM</string>
     <string name="sim_selection_channel_title">Επιλογή SIM</string>
     <string name="sim_selection_required_pref">Απαιτείται επιλογή</string>
+    <string name="sim_settings_summary">%1$s - %2$s</string>
     <string name="sim_settings_title">Κάρτες SIM</string>
     <string name="sim_setup_wizard_title">Κάρτες SIM</string>
     <string name="sim_signal_strength">%1$d dBm %2$d asu</string>
@@ -5002,6 +5081,7 @@ Bits ανά δείγμα"</string>
     <string name="size_kilo_byte">KB</string>
     <string name="size_mega_byte">MB</string>
     <string name="size_peta_byte">PB</string>
+    <string name="size_suffix">%1$s%2$s</string>
     <string name="size_tera_byte">TB</string>
     <string name="skip_anyway_button_label">Παράλειψη</string>
     <string name="skip_label">Παράλ</string>
@@ -5122,8 +5202,10 @@ Bits ανά δείγμα"</string>
     <string name="status_bar_app_enable_keyguard">Οθόνη κλειδώματος</string>
     <string name="status_bar_app_enable_message">Σήματα</string>
     <string name="status_bar_carrier_settings_no_sim_card">Δεν υπάρχει κάρτα SIM</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
     <string name="status_bar_settings">Ειδοποιήσεις &amp; γραμμή κατάστασης</string>
     <string name="status_bar_settings_all_app_display_loading">Περιμένετε μια στιγμή…</string>
+    <string name="status_bar_settings_carrier_sim">"SIM %1$s: "</string>
     <string name="status_bar_settings_manage_notification">Ειδοποιήσεις εφαρμογών</string>
     <string name="status_bar_settings_notification_bar">Πίνακας ειδοποιήσεων</string>
     <string name="status_bar_settings_status_bar">Γραμμή κατάστασης</string>
@@ -5370,6 +5452,7 @@ Bits ανά δείγμα"</string>
     <string name="sum_carrier_select">Επιλέξτε μια εταιρεία δικτύου</string>
     <string name="summary_collapsed_preference_list">%1$s, %2$s</string>
     <string name="summary_divider_text">", "</string>
+    <string name="summary_range_symbol_combination">%1$s - %2$s</string>
     <string name="summary_range_verbal_combination">%1$s έως %2$s</string>
     <string name="supl_not_set">&lt;Δεν ορίστηκε></string>
     <string name="support_country_format">%1$s - %2$s</string>
@@ -5499,6 +5582,8 @@ Bits ανά δείγμα"</string>
     <string name="toast_lockscreen_glogin_empty_password">Εισαγωγή κωδικού</string>
     <string name="toast_need_login">Συνδεθείτε στο Mi Λογαριασμό σας</string>
     <string name="toast_sta_ap_works_wifi_display_disable">Αδυναμία διανομής όταν επιτευχθεί η σύνδεση Wi-Fi και το σημείο πρόσβασης είναι ενεργό.</string>
+    <string name="toggle_auto_speaker_preference_summary">Η συσκευή θα κάνει εναλλαγή σε ανοικτή ακρόαση όταν την απομακρύνετε από το αυτί σας κατά τη διάρκεια των κλήσεων. Αυτή η λειτουργία λειτουργεί μόνο όταν είναι ενεργοποιημένο το TalkBack.</string>
+    <string name="toggle_auto_speaker_preference_title">Αυτόματη εναλλαγή σε ανοικτή ακρόαση</string>
     <string name="toggle_collapse_after_clicked_title">Κλείσιμο μετά την αφή</string>
     <string name="total">Μην ενοχλείτε</string>
     <string name="total_info">Σίγαση ήχων και απενεργοποίηση δόνησης εκτός από ξυπνητήρια</string>
@@ -5683,7 +5768,7 @@ Bits ανά δείγμα"</string>
     <string name="unlock_set_unlock_pin_title">PIN</string>
     <string name="unlock_set_unlock_summary">Ορισμός κλειδώματος οθόνης</string>
     <string name="unlock_setup_wizard_fingerprint_details">Αφού ρυθμίσετε το κλείδωμα οθόνης, θα μπορείτε να ρυθμίσετε και τα δαχτυλικά αποτυπώματα από τις Ρυθμίσεις > Ασφάλεια.</string>
-    <string name="unlogin_account_summary">Όλες οι Υπηρεσίες Mi. Ένας Mi Λογαριασμός</string>
+    <string name="unlogin_account_summary">Όλες οι Υπηρεσίες Mi. Ένας Mi Λογαριασμός.</string>
     <string name="unlogin_account_title">Σύνδεση στον Mi Λογαριασμό</string>
     <string name="unmount_inform_text">Θα γίνει αποπροσάρτηση της κάρτας SD.</string>
     <string name="unrestrict_max_aspect_ratio_title">Αυτές οι εφαρμογές έχουν βελτιστοποιηθεί για λειτουργία πλήρης οθόνης</string>
@@ -5699,6 +5784,21 @@ Bits ανά δείγμα"</string>
     <string name="usage_access">Πρόσβαση χρήσης</string>
     <string name="usage_access_description">Η πρόσβαση χρήσης επιτρέπει σε μια εφαρμογή να παρακολουθεί τις άλλες εφαρμογές που χρησιμοποιείτε, τη συχνότητα χρήσης τους, καθώς και την εταιρεία κινητής τηλεφωνίας σας, τις ρυθμίσεις γλώσσας και άλλες λεπτομέρειες.</string>
     <string name="usage_access_title">Εφ/γές με πρόσβ. χρ.</string>
+    <string name="usage_app_get_it">Got it</string>
+    <string name="usage_app_limit_alter_summary">"Looks like this time limit is shorter than the time you've been using this app today. Set limit anyway?"</string>
+    <string name="usage_app_limit_alter_title">Check screen time limit</string>
+    <string name="usage_app_limit_prelong">Extend time</string>
+    <string name="usage_app_limit_reach_summay">%s remaining</string>
+    <string name="usage_app_limit_reach_title">%s is reaching its screen time limit</string>
+    <string name="usage_app_limit_summary">"Selected apps won't be available when the limit is reached"</string>
+    <string name="usage_app_limit_title">Limit screen time</string>
+    <string name="usage_app_other_settings">Additional settings</string>
+    <string name="usage_app_over_content">"You've already used this app for %s today."</string>
+    <string name="usage_app_over_summary">"You've reached your limit. Time's up!"</string>
+    <string name="usage_app_set_limit_time">Set limit</string>
+    <string name="usage_app_system_app_summary">"Can't limit screen time for system apps"</string>
+    <string name="usage_app_weekday_limit">Weekdays</string>
+    <string name="usage_app_weekend_limit">Weekends</string>
     <string name="usage_log">Στατιστικά χρήσης εφαρμογών</string>
     <string name="usage_state_app_timer">Χρόνος χρήσης οθόνης</string>
     <string name="usage_state_app_usage_detail_title">Λεπτομέρειες χρήσης εφαρμογών</string>
@@ -5720,7 +5820,7 @@ Bits ανά δείγμα"</string>
     <string name="usage_state_noti_mourth_day">Ειδοποιήσεις %s</string>
     <string name="usage_state_notification">Διαχείριση ειδοποιήσεων</string>
     <string name="usage_state_notification_manager">Διαχείριση ειδοποιήσεων εφαρμογών</string>
-    <string name="usage_state_remind_summary">Ενεργοποίηση για λήψη ειδοποιήσεων χρόνου χρήσης οθόνης. Μπορείτε να ορίσετε διαφορετικά όρια χρόνου για τις καθημερινές και τα σαββατοκύριακα.</string>
+    <string name="usage_state_remind_summary">Ενεργοποίηση για λήψη ειδοποιήσεων χρόνου οθόνης</string>
     <string name="usage_state_remind_title">Συναγερμός χρόνου χρήσης οθόνης</string>
     <string name="usage_state_rest_day">Σαββατοκύριακα</string>
     <string name="usage_state_saturday">Σαβ</string>
@@ -6037,6 +6137,7 @@ Bits ανά δείγμα"</string>
     <string name="volume_bluetooth_description">Bluetooth</string>
     <string name="volume_category_title">Ένταση</string>
     <string name="volume_hifi_description">Ρυθμίσεις Hi-Fi</string>
+    <string name="volume_label">Ένταση</string>
     <string name="volume_media_description">Μουσική, βίντεο, παιχνίδια, και άλλα πολυμέσα</string>
     <string name="volume_media_mute">Σίγαση μουσικής &amp; άλλων μέσων</string>
     <string name="volume_notification_description">Ειδοποιήσεις</string>
@@ -6483,12 +6584,14 @@ Bits ανά δείγμα"</string>
     <string name="wifi_security_none">Χωρίς</string>
     <string name="wifi_security_owe">OWE</string>
     <string name="wifi_security_passpoint">Passpoint</string>
+    <string name="wifi_security_psk_generic">@string/wifi_security_wpa_wpa2</string>
     <string name="wifi_security_sae">SAE</string>
     <string name="wifi_security_short_WAPI_CERT">WAPI CERT</string>
     <string name="wifi_security_short_WAPI_PSK">WAPI PSK</string>
     <string name="wifi_security_short_dpp">DPP</string>
     <string name="wifi_security_short_eap">802.1x</string>
     <string name="wifi_security_short_owe">OWE</string>
+    <string name="wifi_security_short_psk_generic">@string/wifi_security_short_wpa_wpa2</string>
     <string name="wifi_security_short_sae">SAE</string>
     <string name="wifi_security_short_wep">WEP</string>
     <string name="wifi_security_short_wpa">WPA</string>
@@ -6935,8 +7038,10 @@ Bits ανά δείγμα"</string>
     <string name="zone_auto_summaryOff">Χρησιμοποιήστε τον χρόνο που παρέχεται από τον παροχέα δικτύου</string>
     <string name="zone_auto_summaryOn">Χρησιμοποιήστε τον χρόνο που παρέχεται από τον παροχέα δικτύου</string>
     <string name="zone_change_to_from_dst">%1$s ξεκινά στις %2$s.</string>
+    <string name="zone_info_exemplar_location_and_offset">%1$s (%2$s)</string>
     <string name="zone_info_footer">Χρησιμοποιεί %1$s. Η ώρα %2$s ξεκινάει στις %3$s.</string>
     <string name="zone_info_footer_no_dst">Χρησιμοποιεί %1$s. Δεν υπάρχει θερινή ώρα.</string>
+    <string name="zone_info_offset_and_name">%2$s (%1$s)</string>
     <string name="zone_list_menu_sort_alphabetically">Ταξινόμηση αλφαβητικά</string>
     <string name="zone_list_menu_sort_by_timezone">Ταξινόμηση ανά ζώνη ώρας</string>
     <string name="zone_menu_by_offset">Επιλογή κατά μετατόπιση UTC</string>

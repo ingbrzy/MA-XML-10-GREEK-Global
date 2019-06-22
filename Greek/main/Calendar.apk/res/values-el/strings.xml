@@ -64,6 +64,7 @@
     <string name="alert_reminder_divider">|</string>
     <string name="alert_reminder_expired">Έληξε</string>
     <string name="alert_title">Ειδοποιήσεις ημερολόγιου</string>
+    <string name="all_events">Όλα τα συμβάντα</string>
     <string name="anniversary_event_title">Eπέτειος: %1$s</string>
     <string name="anniversary_secondary_tag">Επέτειος</string>
     <string name="app_label">Ημερολόγιο</string>
@@ -135,6 +136,7 @@
     <string name="date_interval_text_to">Έως %1$s</string>
     <string name="date_jump_hint">Απευθείας μετάβαση σε μια συγκεκριμένη ημέρα</string>
     <string name="date_jump_title">Μετάβαση στην ημερομηνία</string>
+    <string name="date_time_fmt" formatted="false">%s, %s</string>
     <string name="date_today">" (σήμερα)"</string>
     <string name="day_view_new_event_hint">Νέο συμβάν</string>
     <string name="default_reminder_mode">Υπενθυμίσεις</string>
@@ -344,6 +346,7 @@
     <string name="preferences_default_reminder_title">Προεπιλεγμένη ώρα υπενθύμισης</string>
     <string name="preferences_home_tz_title">Ζώνη ώρας οικίας</string>
     <string name="preferences_notification_ringtone_title">Ήχος</string>
+    <string name="preferences_show_indic_date_title">Εμφάνιση Ινδικού ημερολογίου</string>
     <string name="preferences_title">Ημερολόγιο</string>
     <string name="preferences_use_home_tz_descrip">Εμφανίζει ημερολόγια και ώρες συμβάντων στην ζώνη ώρα οικίας σας όταν ταξιδεύετε</string>
     <string name="preferences_use_home_tz_title">Χρήση ζώνης ώρας οικίας</string>
@@ -403,10 +406,12 @@
     <string name="setting_others">Επιπρόσθετα</string>
     <string name="setting_title_about">Πληροφορίες</string>
     <string name="setting_title_holiday_display">Εμφάνιση εορτών</string>
+    <string name="setting_title_policy">Πολιτική Απορρήτου</string>
     <string name="share_image">Κοινοποίηση</string>
     <string name="share_image_label">Κοινοποίηση μέσω</string>
     <string name="share_title">Κοινοποίηση</string>
     <string name="show_day_view">Εμφάνιση ημέρας</string>
+    <string name="show_indic_date_summary">Το Ινδικό ημερολόγιο είναι διαθέσιμο όταν μία από τις Ινδικές γλώσσες έχει οριστεί ως η γλώσσα συστήματός σας</string>
     <string name="start_date_calculate">Υπολογισμός</string>
     <string name="storage_permission_denied">Να επιτραπεί πρώτα η πρόσβαση στον χώρο αποθήκευσης</string>
     <string name="subscribe_card">Εγγραφή τώρα</string>

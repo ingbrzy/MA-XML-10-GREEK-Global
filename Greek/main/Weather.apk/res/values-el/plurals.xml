@@ -36,6 +36,22 @@
         <item quantity="other">"&lt;χρώμα γραμματοσειράς='#20a7ff'>%1$s&lt;/γραμματοσειρά> άτομα ψήφισαν"</item>
         <item quantity="one">"&lt;χρώμα γραμματοσειράς='#20a7ff'>%1$s&lt;/γραμματοσειρά> άτομο ψήφισε"</item>
     </plurals>
+    <plurals name="tts_report_temperature_high_centigrade">
+        <item quantity="other">Υψηλότερη θερμοκρασία: %1$s βαθμοί Κελσίου</item>
+        <item quantity="one">Υψηλότερη θερμοκρασία: %1$s βαθμός Κελσίου</item>
+    </plurals>
+    <plurals name="tts_report_temperature_high_fahrenheit">
+        <item quantity="other">Υψηλότερη θερμοκρασία: %1$s βαθμοί Φαρενάιτ</item>
+        <item quantity="one">Υψηλότερη θερμοκρασία: %1$s βαθμός Φαρενάιτ</item>
+    </plurals>
+    <plurals name="tts_report_temperature_low_centigrade">
+        <item quantity="other">Χαμηλότερη θερμοκρασία: %1$s βαθμοί Κελσίου</item>
+        <item quantity="one">Χαμηλότερη θερμοκρασία: %1$s βαθμός Κελσίου</item>
+    </plurals>
+    <plurals name="tts_report_temperature_low_fahrenheit">
+        <item quantity="other">Χαμηλότερη θερμοκρασία: %1$s βαθμοί Φαρενάιτ</item>
+        <item quantity="one">Χαμηλότερη θερμοκρασία: %1$s βαθμός Φαρενάιτ</item>
+    </plurals>
     <plurals name="view_realtime_clear">
         <item quantity="other">Αίθριος</item>
         <item quantity="one">Αίθριος</item>

@@ -11,6 +11,7 @@
     <string name="cannot_add_printer">Δεν είναι δυνατή η προσθήκη εκτυπωτών</string>
     <string name="collapse_handle">Σύμπτυξη λαβής</string>
     <string name="could_not_create_file">Δεν ήταν δυνατή η δημιουργία του αρχείου</string>
+    <string name="current_page_template">%1$d/%2$d</string>
     <string name="destination_default_text">Επιλέξτε εκτυπωτή</string>
     <string name="disabled_services_title">Υπηρεσίες για άτομα με αναπηρία</string>
     <string name="enable_print_service">Επιλέξτε για ενεργοποίηση</string>
@@ -56,6 +57,7 @@
     <string name="print_service_security_warning_title">Να χρησιμοποιηθεί η υπηρεσία %1$s;</string>
     <string name="print_services_disabled_toast">Ορισμένες υπηρ. εκτύπωσης είναι απενεργοποιημένες</string>
     <string name="print_write_error_message">Δεν ήταν δυνατή η εγγραφή στο αρχείο</string>
+    <string name="printer_extended_description_template">%1$s - %2$s</string>
     <string name="printer_info_desc">Περισσότερες πληροφορίες σχετικά με αυτόν τον εκτυπωτή</string>
     <string name="printing_app_crashed">Διακοπή λειτουργίας εφαρμογής εκτύπωσης</string>
     <string name="printing_notification_title_template">Εκτύπωση %1$s</string>
