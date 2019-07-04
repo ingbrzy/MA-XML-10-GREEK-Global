@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Ειδοποιήσεις</string>
+    <string name="default_list_type">Ταξινόμηση ανά ώρα λήψης</string>
+    <string name="disable_float_notification">Οι κυμαινόμενες ειδοποιήσεις είναι περιορισμένες</string>
+    <string name="disable_lockscreen_notification">Οι ειδοποιήσεις Οθόνης κλειδώματος είναι περιορισμένες</string>
+    <string name="disable_show_badge_notification">Οι σημάνσεις ειδοποιήσεων είναι περιορισμένες</string>
+    <string name="enable_float_notification">Οι κυμαινόμενες ειδοποιήσεις δεν είναι περιορισμένες</string>
+    <string name="enable_lockscreen_notification">Οι ειδοποιήσεις Οθόνης κλειδώματος δεν είναι περιορισμένες</string>
+    <string name="enable_show_badge_notification">Οι σημάνσεις ειδοποιήσεων δεν είναι περιορισμένες</string>
+    <string name="expandable_under_keyguard">Άνοιγμα πίνακα ειδοποιήσεων στην Οθόνη κλειδώματος</string>
+    <string name="float_notifications">Αναδυόμενες ειδοποιήσεις</string>
+    <string name="hint_search_all">Αναζήτηση εφαρμογών</string>
+    <string name="hint_search_in_disabled_apps">Αναζήτηση για εφαρμογές που δεν μπορούν να προβάλουν ειδοποιήσεις</string>
+    <string name="hint_search_in_enabled_apps">Αναζήτηση για εφαρμογές που μπορούν να προβάλουν ειδοποιήσεις</string>
+    <string name="list_title_disable_notification">Οι ειδοποιήσεις είναι περιορισμένες</string>
+    <string name="loading">Μια στιγμή…</string>
+    <string name="lock_screen_display_rules">Διαμόρφωση</string>
+    <string name="lock_screen_tip_toast">Επιτρέψτε πρώτα τις ειδοποιήσεις στο \"Ειδοποιήσεις εφαρμογών\"</string>
+    <string name="lockscreen_notifications">Ειδοποιήσεις Οθόνης κλειδώματος</string>
+    <string name="not_sent_recently">Όχι πρόσφατα</string>
+    <string name="notification_display_setting">Πίνακας ειδοποιήσεων</string>
+    <string name="notification_display_style">Στυλ ειδοποιήσεων</string>
+    <string name="notification_fold_summary">Όλες οι ασήμαντες ειδοποιήσεις θα εμφανιστούν σε διαφορετικό φάκελο</string>
+    <string name="notification_fold_title">Φάκελος ειδοποιήσεων</string>
+    <string name="notification_manager">Ειδοποιήσεις εφαρμογών</string>
+    <string name="notification_style_android">Android</string>
+    <string name="notification_style_miui">MIUI</string>
+    <string name="off">Απενεργοποίηση</string>
+    <string name="on">Ενεργοποίηση</string>
+    <string name="show_badge_notifications">Σημάνσεις ειδοποιήσεων</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
+    <string name="summary_disable_float_notification">Οι κυμαινόμενες ειδοποιήσεις είναι περιορισμένες</string>
+    <string name="summary_disable_lockscreen_notification">Οι ειδοποιήσεις Οθόνης κλειδώματος είναι περιορισμένες</string>
+    <string name="summary_disable_show_badge_notification">Οι σημάνσεις ειδοποιήσεων είναι περιορισμένες</string>
+    <string name="summary_enable_float_notification">Οι κυμαινόμενες ειδοποιήσεις δεν είναι περιορισμένες</string>
+    <string name="summary_enable_lockscreen_notification">Οι ειδοποιήσεις Οθόνης κλειδώματος δεν είναι περιορισμένες</string>
+    <string name="summary_enable_show_badge_notification">Οι σημάνσεις ειδοποιήσεων δεν είναι περιορισμένες</string>
+    <string name="summary_float_enable_notification_first">Επιτρέψτε στις ειδοποιήσεις να μπορούν να ενεργοποιούν τις αιωρούμενες ειδοποιήσεις</string>
+    <string name="summary_lock_screen_enable_notification_first">Επιτρέψτε στις ειδοποιήσεις να μπορούν να ενεργοποιούν τις ειδοποιήσεις Οθόνης Κλειδώματος</string>
+    <string name="summary_show_badge_enable_notification_first">Επιτρέψτε στις ειδοποιήσεις να μπορούν να ενεργοποιούν τις σημάνσεις ειδοποιήσεων</string>
+</resources>
