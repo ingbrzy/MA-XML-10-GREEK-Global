@@ -41,4 +41,5 @@
     <string name="prompt_connect_to_network">Σύνδεση στο δίκτυο %1$s;</string>
     <string name="beam_requires_nfc_enabled">Το Android Beam απαιτεί την ενεργοποίηση της ΕΚΠ (Επικοινωνία κοντινού πεδίου). Θέλετε να την ενεργοποιήσετε;</string>
     <string name="android_beam">Android Beam</string>
+    <string name="beam_requires_external_storage_permission">Η εφαρμογή δεν διαθέτει Άδεια εξωτερικού αποθηκευτικού χώρου. Αυτή η άδεια απαιτείται για την ζεύξη αυτού του αρχείου</string>
 </resources>

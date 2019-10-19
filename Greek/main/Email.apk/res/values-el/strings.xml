@@ -32,7 +32,7 @@
     <string name="account_settings_enforced_summary">Κανένα</string>
     <string name="account_settings_incoming_summary">Όνομα χρήστη, κωδικό πρόσβασης και άλλες ρυθμίσεις διακομιστή</string>
     <string name="account_settings_login_dialog_content_fmt">«Το όνομα χρήστη ή κωδικός πρόσβασης για %s είναι εσφαλμένα. Ενημέρωση τώρα;»</string>
-    <string name="account_settings_login_dialog_reason_fmt" formatted="false">"Αδυναμία σύνδεσης στο %s . Ο διακομιστής είπε:  %s "</string>
+    <string name="account_settings_login_dialog_reason_fmt">"Αδυναμία σύνδεσης στο %1$s . Ο διακομιστής είπε:  %2$s "</string>
     <string name="account_settings_login_dialog_title">Αδυναμίας σύνδεσης</string>
     <string name="account_settings_mail_check_frequency_dialog_title">Πρέπει να ανανεώσετε μόνοι σας το Mail για συγχρονισμό των emails σας</string>
     <string name="account_settings_mail_check_frequency_dialog_title_eas">Θα πρέπει να συγχρονίσετε την Αλληλογραφία χειροκίνητα για να μπορείτε να συγχρονίσετε μηνύματα και συμβάντα ημερολογίου.</string>
@@ -228,6 +228,7 @@
     <string name="battery_saver">Εξοικονόμηση μπαταρίας</string>
     <string name="battery_saver_keywords">εξοικονόμηση μπαταρίας, μπαταρία αλληλογραφίας</string>
     <string name="bcc">Ιδιαίτ. Κοιν.</string>
+    <string name="bcc_heading">"Ιδ.Κοιν: "</string>
     <string name="bill_center_setting">Ρυθμίσεις λογαριασμών</string>
     <string name="bill_center_setting_head">Εισαγωγή πληροφοριών από αυτούς τους λογαριασμούς</string>
     <string name="bill_cycle_text">Κύκλος λογαριασμών</string>
@@ -248,6 +249,7 @@
     <string name="cancel_pop3_attchemt_downloading">Αδυναμία ακύρωσης τρέχοντων λήψεων συννημένων στους λογαριασμούς POP3</string>
     <string name="cant_move_or_change_labels">Αδυναμία μετακίνησης αντικειμένων από πολλαπλούς λογαριασμούς.</string>
     <string name="cc">Κοιν.</string>
+    <string name="cc_attribution">"Κοιν: %1$s  &lt; br >"</string>
     <string name="cc_bcc">Κοιν/Ιδιαίτ. Κοιν.</string>
     <string name="cc_heading">"Κοιν: "</string>
     <string name="change_folders_selection_dialog_title">Αλλαγή φακέλων</string>
@@ -265,6 +267,7 @@
     <string name="click_download_all_content">[Πατήστε για να κάνετε λήψη περιεχομένου]</string>
     <string name="click_to_reload">Αγγίξτε την οθόνη για να ανανεώσετε</string>
     <string name="collapse_recipient_details">Κλείσιμο λεπτομερειών παραλήπτη</string>
+    <string name="colon">:</string>
     <string name="compose">Σύνθεση</string>
     <string name="compose_attachment_number_limit">Αδυναμία προσθήκης περισσότερων από 10 συννημένων</string>
     <string name="compose_paste_address_oob">Πάρα πολλοί χαρακτήρες</string>
@@ -482,6 +485,7 @@
     <string name="gmail_web_login_required_message">Συνδεθείτε στο Gmail</string>
     <string name="have_auth_code">Έχω έναν κωδικό</string>
     <string name="header_category_account">Λογαριασμοί</string>
+    <string name="header_category_general">@string/header_label_general_preferences</string>
     <string name="header_category_other">Σχόλια</string>
     <string name="header_label_general_preferences">Γενικά</string>
     <string name="help_and_info">Βοήθεια</string>
@@ -504,6 +508,7 @@
     <string name="invalid_recipient">"Η διεύθυνση %s  δεν είναι έγκυρη."</string>
     <string name="invalid_recipient_title">Σφάλμα παραλήπτη</string>
     <string name="kilobytes">"%s  KB"</string>
+    <string name="label_notification_ticker">%1$s: %2$s</string>
     <string name="list_empty_to_fresh">No emails yet.</string>
     <string name="load_from_remote">Αναζήτηση mailbox στον διακομιστή</string>
     <string name="load_more">Φόρτωση περισσότερων</string>
@@ -733,7 +738,7 @@
     <string name="permission_read_attachment_label">Ανάγνωση συνημμένων</string>
     <string name="phone">τηλέφωνο</string>
     <string name="photo_load_failed">Αδυναμία φόρτωσης εικόνας</string>
-    <string name="photo_view_count" formatted="false">%d από %d</string>
+    <string name="photo_view_count">%1$d από %2$d</string>
     <string name="please_fill_in_your_mailbox_information2">Εισαγάγετε τις πληροφορίες mailbox σας</string>
     <string name="pls_parse_bill_discribe">"Ανάλυση λογαριασμών και ταξιδιωτικών πληροφοριών στο email σας
 ώστε να λαμβάνετε υπενθυμίσεις σχετικά με πληρωμές και ταξίδια"</string>
@@ -872,13 +877,14 @@
     <string name="refreshing_done">Ολοκλήρωση</string>
     <string name="release_to_refresh">Αφήστε για ανανέωση</string>
     <string name="remind_attachment_size_limit">Τα emails σας πρέπει να είναι λιγότερο από %sMB</string>
+    <string name="remote_no_mail">Κανένα μύνημα στον διακομιστή.</string>
     <string name="remove_account">Κατάργηση λογαριασμού</string>
     <string name="remove_folder">"Αφαίρεση από %1$s "</string>
     <string name="remove_star">Αφαίρεση αστεριού</string>
     <string name="reply">Απάντηση</string>
     <string name="reply_add_bodycontent">Προσθήκη απάντησης στο περιεχόμενο του μηνύματος;</string>
     <string name="reply_all">Απάντηση σε όλους</string>
-    <string name="reply_attribution" formatted="false">"Στις %s ,  %s  έγραψε:"</string>
+    <string name="reply_attribution">"Στις %1$s ,  %2$s  έγραψε:"</string>
     <string name="report_phishing">Αναφορά ηλεκτρονικού \"ψαρέματος\"</string>
     <string name="report_spam">Αναφορά σπαμ</string>
     <string name="request_copy_db_to_disk">Το Mail κάνει αίτηση να αντιγράψει την βάση δεδομένων σας σε ένα αρχείο</string>
@@ -954,12 +960,14 @@
     <string name="silent_ringtone">Σε σίγαση</string>
     <string name="single_new_message_notification_big_text">"%1$s
 %2$s"</string>
+    <string name="single_new_message_notification_title">%1$s: %2$s</string>
     <string name="smtp_password_error">Ο κωδικός για το διακομιστή εξερχόμενης αλληλογραφίας είναι εσφαλμένος</string>
     <string name="sort_attachment">Ταξινόμηση κατά</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
     <string name="storage">Χώρος αποθήκευσης</string>
     <string name="str_select_all">Επιλογή όλων</string>
     <string name="str_select_none">Αποεπιλογή όλων</string>
-    <string name="subject_and_snippet" formatted="false">%s — %s</string>
+    <string name="subject_and_snippet">%1$s — %2$s</string>
     <string name="subject_hint">Θέμα</string>
     <string name="sync_contacts_fail_per_content">Πατήστε για αποδοχή πρόσβασης στις επαφές</string>
     <string name="sync_contacts_fail_per_title">Αδυναμία συγχρονισμού επαφών</string>
@@ -993,7 +1001,8 @@
     <string name="toast_bar_no_connection_network">Δεν έχετε σύνδεση δικτύου</string>
     <string name="toast_bar_open_gmail_synchronization">Αδυναμία σύνδεσης στο Gmail. Ενεργοποιήσετε το διακομιστή μεσολάβησης Gmail.</string>
     <string name="toast_bar_send_fail_remind">Αδυναμία αποστολής email. Αποθηκεύτηκε στον φάκελο \"Εξερχόμενα.</string>
-    <string name="toast_bar_sync_failed_mi_authority">"Couldn't sync. Wait a minute or two and try again. If you're signing in for the first time, authorize your device via the intranet/SMS token."</string>
+    <string name="toast_bar_sync_failed_mi_authority">"Couldn't sync. Wait a minute or two and try again. View details.
+(If you're using an unauthorized device, connect to the intranet or use a verification code.)"</string>
     <string name="toastbar_calendar_and_contacts_permission_switch_close">Για συγχρονισμό πληροφοριών ημερολογίου και επαφών, αποδεχτείτε τις απαραίτητες άδειες για το Mail στις Ρυθμίσεις</string>
     <string name="toastbar_calendar_permission_switch_close">Για λήψη υπενθυμίσεων ημερολογίου, αποδεχτείτε τις απαραίτητες άδειες για το Mail στις Ρυθμίσεις</string>
     <string name="toastbar_contacts_permission_switch_close">Για προσθήκη επαφών, αποδεχτείτε τις απαραίτητες άδειες για το Mail στις Ρυθμίσεις</string>

@@ -32,7 +32,7 @@
     <string name="bt_enable_title" />
     <string name="bt_error_btn_ok">ΟΚ</string>
     <string name="bt_share_picker_label">Bluetooth</string>
-    <string name="bt_sm_2_1">Δεν υπάρχει αρκετός χώρος στην κάρτα SD για την αποθήκευση του αρχείου από τον αποστολέα \"%1$s\"</string>
+    <string name="bt_sm_2_1">Δεν υπάρχει αρκετός χώρος στον χώρο αποθήκευσης USB για την αποθήκευση του αρχείου από τον αποστολέα \"%1$s\"</string>
     <string name="bt_sm_2_2">Απαιτούμενος χώρος: %1$s</string>
     <string name="bt_toast_1">Θα γίνει λήψη του αρχείου. Ελέγξτε την πρόοδο στο πλαίσιο \"Ειδοποιήσεις\".</string>
     <string name="bt_toast_2">Δεν είναι δυνατή η παραλαβή του αρχείου.</string>
@@ -96,7 +96,9 @@
     <string name="opp_notification_group">Μοιραστείτε μέσω Bluetooth</string>
     <string name="outbound_history_title">Εξερχόμενες μεταφορές</string>
     <string name="outbound_noti_title">Κοινή χρήση Bluetooth: Απεσταλμένα αρχεία</string>
+    <string name="pairing_ui_package">com.android.settings</string>
     <string name="pbap_acceptance_timeout_message">Υπήρχε χρονικό όριο για την αποδοχή της σύνδεσης με τη συσκευή %1$s</string>
+    <string name="pbap_account_type">com.android.bluetooth.pbapsink</string>
     <string name="pbap_authentication_timeout_message">Το χρονικό όριο του κλειδιού περιόδου σύνδεσης εισόδου με το %1$s έληξε</string>
     <string name="pbap_notification_group">Κοινοποίηση επαφών μέσω Bluetooth</string>
     <string name="pbap_session_key_dialog_header">Απαιτείται κλειδί περιόδου σύνδεσης Bluetooth</string>
@@ -111,7 +113,7 @@
     <string name="status_connection_error">Η σύνδεση δεν ήταν επιτυχής.</string>
     <string name="status_file_error">Πρόβλημα αποθηκευτικού χώρου.</string>
     <string name="status_forbidden">Δεν επιτρέπεται αυτή η μεταφορά από τη συσκευή προορισμού.</string>
-    <string name="status_no_sd_card">Δεν υπάρχει κάρτα SD card. Εισαγάγετε μια κάρτα SD για να αποθηκεύετε τα μεταφερόμενα αρχεία.</string>
+    <string name="status_no_sd_card">Δεν υπάρχει αποθηκευτικός χώρος USB.</string>
     <string name="status_not_accept">Το περιεχόμενο δεν υποστηρίζεται.</string>
     <string name="status_pending">Η μεταφορά του αρχείου δεν έχει ξεκινήσει ακόμα.</string>
     <string name="status_protocol_error">Δεν μπορεί να γίνει σωστός χειρισμός του αιτήματος.</string>

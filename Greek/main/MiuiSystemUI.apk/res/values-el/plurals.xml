@@ -8,14 +8,6 @@
         <item quantity="other">Ανοίξατε τα Πρόσφατα, διαθέσιμες εφαρμογές: %d. Σαρώστε προς τα επάνω για αφαίρεση, σαρώστε προς τα κάτω για κλείδωμα.</item>
         <item quantity="one">Ανοίξατε τα Πρόσφατα, διαθέσιμη εφαρμογή: %d. Σαρώστε προς τα επάνω για αφαίρεση, σαρώστε προς τα κάτω για κλείδωμα.</item>
     </plurals>
-    <plurals name="block_record_notification_more_text">
-        <item quantity="other">Γίνεται απόκρυψη ειδοποιήσεων από %1$s &amp; %2$d εφαρμογές.</item>
-        <item quantity="one">Γίνεται απόκρυψη ειδοποιήσεων από %1$s &amp; %2$d εφαρμογή.</item>
-    </plurals>
-    <plurals name="disable_notification_confirm_title">
-        <item quantity="other">Απόκρυψη ειδοποιήσεων %d εφαρμογών;</item>
-        <item quantity="one">Απόκρυψη ειδοποιήσεων της εφαρμογής;</item>
-    </plurals>
     <plurals name="fold_tips_title">
         <item quantity="other">%d ασήμαντες ειδοποιήσεις</item>
         <item quantity="one">%d ασήμαντη ειδοποίηση</item>

@@ -8,6 +8,14 @@
         <item quantity="other">%1$s αντικείμενα δεν συγχρονίστηκαν</item>
         <item quantity="one">%1$s αντικείμενο δεν συγχρονίστηκε</item>
     </plurals>
+    <plurals name="date_calculate_days_after">
+        <item quantity="other">%1$d ημέρες μετά</item>
+        <item quantity="one">%1$d ημέρα μετά</item>
+    </plurals>
+    <plurals name="date_calculate_days_ago">
+        <item quantity="other">%1$d ημέρες πριν</item>
+        <item quantity="one">%1$d ημέρα πριν</item>
+    </plurals>
     <plurals name="format_move_notes_out_folder">
         <item quantity="other">Έγινε αφαίρεση %1$s σημειώσεων από τον φάκελο</item>
         <item quantity="one">Έγινε αφαίρεση %1$s σημείωσης από τον φάκελο</item>
@@ -27,6 +35,26 @@
     <plurals name="toast_notes_unhidden_count">
         <item quantity="other">Επανεμφανίστηκαν επιτυχώς %1$s σημειώσεις</item>
         <item quantity="one">Επανεμφανίστηκε επιτυχώς %1$s σημείωση</item>
+    </plurals>
+    <plurals name="todo_N_days_after">
+        <item quantity="other">Σε %1$d ημέρες</item>
+        <item quantity="one">Σε %1$d ημέρα</item>
+    </plurals>
+    <plurals name="todo_N_days_ago">
+        <item quantity="other">%1$d ημέρες πριν</item>
+        <item quantity="one">%1$d ημέρα πριν</item>
+    </plurals>
+    <plurals name="todo_alert_message_delete">
+        <item quantity="other">Διαγραφή %1$s εργασιών;</item>
+        <item quantity="one">Διαγραφή %1$s εργασίας;</item>
+    </plurals>
+    <plurals name="todo_event_description_days_ago">
+        <item quantity="other">%1$d ημέρες πριν</item>
+        <item quantity="one">%1$d ημέρα πριν</item>
+    </plurals>
+    <plurals name="todo_event_description_days_later">
+        <item quantity="other">Σε %1$d ημέρες</item>
+        <item quantity="one">Σε %1$d ημέρα</item>
     </plurals>
     <plurals name="word_count">
         <item quantity="other">%d χαρακτήρες</item>

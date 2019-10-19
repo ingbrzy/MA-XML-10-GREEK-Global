@@ -2,7 +2,7 @@
 <resources>
     <string name="alert_message_clear_records">Διαγραφή επιλεγμένων ηχογραφήσεων;</string>
     <string name="alert_message_delete_local_record">Διαγραφή αυτής της εγγραφής;</string>
-    <string name="alert_message_delete_record">Με την διαγραφή της ηχογράφησης από τη συσκευή σας, η ηχογράφηση θα διαγράφεί επίσης και από το Mi Cloud. Διαγραφή τώρα;</string>
+    <string name="alert_message_delete_record">Με τη διαγραφή της ηχογράφησης από τη συσκευή σας, αυτή η ηχογράφηση θα διαγραφεί επίσης και από το Xiaomi Cloud. Διαγραφή τώρα;</string>
     <string name="alert_message_delete_record_title">Διαγραφή εγγράφης;</string>
     <string name="app_name">Ηχογράφηση</string>
     <string name="back">Πίσω</string>
@@ -14,8 +14,8 @@
     <string name="call_record_list_group_unconnected">Δεν έγινε σύνδεση</string>
     <string name="clear_records">Διαγραφή συγχρονισμένων ηχογραφήσεων</string>
     <string name="cloud_record_open">Συγχρονισμός ηχογραφήσεων</string>
-    <string name="cloud_record_tip">Συγχρονισμός ηχογραφήσεων με το Mi Cloud.</string>
-    <string name="cloud_service_state_open_reminder">Ενεργοποιήστε το συγχρονισμό με Mi Cloud για συγχρονισμό αρχείων καταγραφής.</string>
+    <string name="cloud_record_tip">Συγχρονισμός ηχογραφήσεων με το Xiaomi Cloud.</string>
+    <string name="cloud_service_state_open_reminder">Ενεργοποίηση συγχρονισμού με το cloud για συγχρονισμό ηχογραφήσεων.</string>
     <string name="cloud_status_full_dialog_cancel">Όχι τώρα</string>
     <string name="cloud_status_full_dialog_msg">Ο αποθηκευτικός χώρος του cloud σας είναι πλήρης, αδυναμία συγχρονισμού ηχογραφήσεων. Αναβαθμίστε τον λογαριασμό σας για να αποκτήσετε περισσότερο αποθηκευτικό χώρο.</string>
     <string name="cloud_status_full_dialog_ok">Αναβάθμιση</string>
@@ -28,7 +28,7 @@
     <string name="deleting_message">Γίνεται διαγραφή…</string>
     <string name="details">Λεπτομέρειες</string>
     <string name="dialog_content_storage_full">Η εγγραφή διακόπηκε επειδή δεν υπάρχει αρκετός χώρος αποθήκευσης στην συσκευή σας.</string>
-    <string name="dialog_privacy_revoke_tips">"Μετά την ανάκληση εξουσιοδότησης, η εφαρμογή θα διακόψει την συλλογή δεδομένων, και όλα τα σχετικά δεδομένα θα διαγραφούν από τους διακομιστές. Αυτό ενδέχεται να καταστήσει άχρηστη την εφαρμογή. Ανάκληση εξουσιοδότησης παρ' όλα αυτά? Για την εξασφάλιση της ασφάλειας του λογαριασμού σας, συνδεθείτε στο i.mi.com πριν την ανάκληση εξουσιοδότησης για τις υπηρεσίες Mi Cloud."</string>
+    <string name="dialog_privacy_revoke_tips">Μετά την ανάκληση εξουσιοδότησης, η εφαρμογή θα διακόψει τη συλλογή δεδομένων, και όλα τα σχετικά δεδομένα θα διαγραφούν από τους διακομιστές. Αυτό ενδέχεται να καταστήσει άχρηστη την εφαρμογή. Ανάκληση εξουσιοδότησης παρόλα αυτά; Για να εξασφαλίσετε την ασφάλεια του λογαριασμού σας, συνδεθείτε στο i.mi.com πριν ανακαλέσετε εξουσιοδότηση για τις υπηρεσίες Xiaomi Cloud.</string>
     <string name="dialog_title_storage_full">Ανεπαρκής χώρος</string>
     <string name="download">Λήψη</string>
     <string name="duration_format_hour">%sh</string>
@@ -180,7 +180,7 @@
     <string name="recognize_extra_price_desp">(Αποκλειστική προσφορά για χρήστες Mi)</string>
     <string name="record">Ηχογράφηση</string>
     <string name="record_back_pressed_hint">Για διακοπή εγγραφής, αγγίξτε Πίσω ξανά</string>
-    <string name="record_download">Λήψη από Mi Cloud</string>
+    <string name="record_download">Λήψη από Xiaomi Cloud</string>
     <string name="record_download_complete">Έγινε λήψη</string>
     <string name="record_download_msg">Οι ηχογραφήσεις μπορούν να αναπαραχθούν μόνο μετά την λήψη τους.</string>
     <string name="record_download_msg_reload">Αυτή η ηχογράφηση δεν υπάρχει.</string>
@@ -245,7 +245,9 @@
     <string name="status_bar_back">Πατήστε για επιστροφή στην Ηχογράφηση</string>
     <string name="status_bar_recording">Γίνεται εγγραφή…</string>
     <string name="status_bar_recording_pause">Ηχογράφηση διακόπηκε</string>
+    <string name="text_btn_backward_3_seconds">3 δευτερόλεπτα πίσω</string>
     <string name="text_btn_complete">Διακοπή</string>
+    <string name="text_btn_forward_3_seconds">3 δευτερόλεπτα εμπρός</string>
     <string name="text_btn_list">Ηχογραφήσεις</string>
     <string name="text_btn_mark">Μαρκάρισμα</string>
     <string name="text_btn_pause">Παύση</string>
@@ -255,11 +257,16 @@
     <string name="text_btn_recording">Εγγραφή</string>
     <string name="text_btn_wave">Κύμα</string>
     <string name="text_finish">Επιβεβαίωση</string>
+    <string name="text_play_speed_0_5">Ταχύτητα αναπαραγωγής 0.5X</string>
+    <string name="text_play_speed_1_0">Κανονική ταχύτητα αναπαραγωγής</string>
+    <string name="text_play_speed_1_5">Ταχύτητα αναπαραγωγής 1.5X</string>
+    <string name="text_play_speed_2_0">Ταχύτητα αναπαραγωγής 2X</string>
     <string name="timer_format" formatted="false">%02d:%02d</string>
     <string name="timer_format_three_sections" formatted="false">%02d:%02d:%02d</string>
     <string name="title_activity_recinbox_sdk_browser">RecinboxSdkBrowser</string>
     <string name="toast_max_record_time">%1$s έχει δυνατότητα εγγραφής για περίπου %2$s</string>
     <string name="toast_uninstall_fileexplorer">Η Διαχείριση Αρχείων δεν έχει εγκατασταθεί</string>
+    <string name="usage_description">Γίνεται μεταγραφή ήχου και συγχρονισμός αντικειμένων με το cloud</string>
     <string name="webview_check_network">Ρυθμίσεις δικτύου</string>
     <string name="webview_data_error">Παρουσιάσθηκε σφάλμα</string>
     <string name="webview_locating_fail">Αδυναμία εντοπισμού τοποθεσίας σας</string>

@@ -145,40 +145,56 @@
         <item quantity="one">%s λεπτό</item>
     </plurals>
     <plurals name="power_main_battery_last_day">
-        <item quantity="other">%s days remaining</item>
-        <item quantity="one">%s day remaining</item>
+        <item quantity="other">%s ημέρες απέμειναν</item>
+        <item quantity="one">%s ημέρα απέμεινε</item>
     </plurals>
     <plurals name="power_main_battery_last_hour">
-        <item quantity="other">%s hours remaining</item>
-        <item quantity="one">%s hour remaining</item>
+        <item quantity="other">%s ώρες απομένουν</item>
+        <item quantity="one">%s ώρα απομένει</item>
     </plurals>
     <plurals name="power_main_battery_last_minute">
-        <item quantity="other">%s minutes remaining</item>
-        <item quantity="one">%s minute remaining</item>
+        <item quantity="other">%s λεπτά απομένουν</item>
+        <item quantity="one">%s λεπτό απομένει</item>
     </plurals>
     <plurals name="pc_main_sub_battery_text_day">
-        <item quantity="other">%s days remaining</item>
-        <item quantity="one">%s day remaining</item>
+        <item quantity="other">%s ημέρες απέμειναν</item>
+        <item quantity="one">%s ημέρα απέμεινε</item>
     </plurals>
     <plurals name="pc_main_sub_battery_text_hour">
-        <item quantity="other">%s hours remaining</item>
-        <item quantity="one">%s hour remaining</item>
+        <item quantity="other">%s ώρες απομένουν</item>
+        <item quantity="one">%s ώρα απομένει</item>
     </plurals>
     <plurals name="pc_main_sub_battery_text_minute">
-        <item quantity="other">%s minutes remaining</item>
-        <item quantity="one">%s minute remaining</item>
+        <item quantity="other">%s λεπτά απομένουν</item>
+        <item quantity="one">%s λεπτό απομένει</item>
     </plurals>
     <plurals name="pc_main_power_manager_day">
-        <item quantity="other">%s days until fully charged</item>
-        <item quantity="one">%s day until fully charged</item>
+        <item quantity="other">%s ημέρες μέχρι να φορτιστεί πλήρως</item>
+        <item quantity="one">%s ημέρα μέχρι να φορτιστεί πλήρως</item>
     </plurals>
     <plurals name="pc_main_power_manager_hour">
-        <item quantity="other">%s hours until fully charged</item>
-        <item quantity="one">%s hour until fully charged</item>
+        <item quantity="other">%s ώρες απομένουν μέχρι να φορτιστεί πλήρως</item>
+        <item quantity="one">%s ώρα απομένει μέχρι να φορτιστεί πλήρως</item>
     </plurals>
     <plurals name="pc_main_power_manager_minute">
-        <item quantity="other">%s minutes until fully charged</item>
-        <item quantity="one">%s minute until fully charged</item>
+        <item quantity="other">%s λεπτά απομένουν μέχρι να φορτιστεί πλήρως</item>
+        <item quantity="one">%s λεπτό απομένει μέχρι να φορτιστεί πλήρως</item>
+    </plurals>
+    <plurals name="pc_statistics_battery_use_minute">
+        <item quantity="other">%d λεπτά από την τελευταία φόρτιση</item>
+        <item quantity="one">%d λεπτό από την τελευταία φόρτιση</item>
+    </plurals>
+    <plurals name="pc_statistics_battery_use_second">
+        <item quantity="other">%d δευτερόλεπτα από την τελευταία φόρτιση</item>
+        <item quantity="one">%d δευτερόλεπτο από την τελευταία φόρτιση</item>
+    </plurals>
+    <plurals name="pc_statistics_battery_last_minute">
+        <item quantity="other">%d λεπτά απομένουν</item>
+        <item quantity="one">%d λεπτό απομένει</item>
+    </plurals>
+    <plurals name="pc_statistics_battery_last_hour">
+        <item quantity="other">%d ώρες απομένουν</item>
+        <item quantity="one">%d ώρα απομένει</item>
     </plurals>
     <plurals name="notification_battery_scan_consume_abnormal_title_split">
         <item quantity="other">%2$d εφαρμογές, συμπεριλαμβανομένων των %1$s, εξαντλούν τη μπαταρία</item>
@@ -232,21 +248,21 @@
         <item quantity="other">%s μη προστατευμένες εφαρμογές</item>
         <item quantity="one">%s μη προστατευμένη εφαρμογή</item>
     </plurals>
-    <plurals name="menu_text_antivirus_2">
-        <item quantity="other">%d αντικείμενα</item>
-        <item quantity="one">%d αντικείμενο</item>
+    <plurals name="menu_text_antivirus_virus_ex">
+        <item quantity="other">%d εφαρμογές περιέχουν ιούς ή κακόβουλο λογισμικό</item>
+        <item quantity="one">%d εφαρμογή περιέχει ιούς ή κακόβουλο λογισμικό</item>
     </plurals>
-    <plurals name="menu_text_antivirus_3">
-        <item quantity="other">%d ημέρες</item>
-        <item quantity="one">%d ημέρα</item>
+    <plurals name="menu_text_antivirus_day_ex">
+        <item quantity="other">Δεν έχει πραγματοποιηθεί σάρωση της συσκευής %d ημέρες</item>
+        <item quantity="one">Δεν έχει πραγματοποιηθεί σάρωση της συσκευής %d ημέρα</item>
     </plurals>
-    <plurals name="menu_text_antispam_2">
-        <item quantity="other">%d αντικείμενα</item>
-        <item quantity="one">%d αντικείμενο</item>
+    <plurals name="menu_text_antispam_ex">
+        <item quantity="other">Έγινε αποκλεισμός %d μηνυμάτων ή κλήσεων</item>
+        <item quantity="one">Έγινε αποκλεισμός %d μηνύματος ή κλήσης</item>
     </plurals>
-    <plurals name="menu_text_app_manager_2">
-        <item quantity="other">%d εφαρμογές</item>
-        <item quantity="one">%d εφαρμογή</item>
+    <plurals name="menu_text_app_manager_ex">
+        <item quantity="other">%d διαθέσιμες ενημερώσεις</item>
+        <item quantity="one">%d διαθέσιμη ενημέρωση</item>
     </plurals>
     <plurals name="system_check_content">
         <item quantity="other">%1$d αντικείμενα ασφαλή</item>
@@ -433,12 +449,12 @@
         <item quantity="one">    +%1$d ακόμα χαρακτήρα</item>
     </plurals>
     <plurals name="privacy_apps_enable_header_title">
-        <item quantity="other">Μπορούν να κρυφτούν %d εφαρμογές</item>
-        <item quantity="one">Μπορεί να κρυφτεί %d εφαρμογή</item>
+        <item quantity="other">%d εικόνες εφαρμογής δεν είναι κρυμμένες</item>
+        <item quantity="one">%d εικόνα εφαρμογής δεν είναι κρυμμένη</item>
     </plurals>
     <plurals name="privacy_apps_disable_header_title">
-        <item quantity="other">%d εφαρμογές κρύφτηκαν</item>
-        <item quantity="one">%d εφαρμογή κρύφτηκε</item>
+        <item quantity="other">%d εικόνες εφαρμογής κρύφτηκαν</item>
+        <item quantity="one">%d εικόνα εφαρμογής κρύφτηκε</item>
     </plurals>
     <plurals name="first_aid_result_summary_exception">
         <item quantity="other">%1$d προβλήματα χρειάζονται βελτιστοποίηση</item>

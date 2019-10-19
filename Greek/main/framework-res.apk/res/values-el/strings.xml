@@ -23,6 +23,7 @@
     <string name="dialog_alert_title">Προσοχή</string>
     <string name="VideoView_error_text_invalid_progressive_playback">Αυτό το βίντεο δεν είναι έγκυρο για ροή σε αυτή τη συσκευή.</string>
     <string name="selectTextMode">Επιλογή κειμένου</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
     <string name="fingerprint_icon_content_description">Εικονίδιο δακτυλικών αποτυπωμάτων</string>
     <string name="paste_as_plain_text">Επικόλληση ως απλό κείμενο</string>
     <string name="autofill">Αυτόματη συμπλήρωση</string>
@@ -386,6 +387,7 @@
     <string name="fast_scroll_numeric_alphabet">" 0123456789ABCDEFGHIJKLMNOPQRSTUVWXYZ"</string>
     <string name="fcComplete">Ο κωδικός λειτουργίας ολοκληρώθηκε.</string>
     <string name="fcError">Πρόβλημα σύνδεσης ή μη έγκυρος κώδικας δυνατότητας.</string>
+    <string name="fileSizeSuffix">%1$s %2$s</string>
     <string name="find">Εύρεση</string>
     <string name="find_next">Εύρεση επόμενου</string>
     <string name="find_on_page">Εύρεση στη σελίδα</string>
@@ -591,6 +593,7 @@
     <string name="kg_reordering_delete_drop_target_text">Κατάργηση</string>
     <string name="kg_sim_pin_instructions">Εισαγωγή PIN SIM</string>
     <string name="kg_sim_unlock_progress_dialog_message">Ξεκλείδωμα κάρτας SIM...</string>
+    <string name="kg_text_message_separator">" — "</string>
     <string name="kg_too_many_failed_password_attempts_dialog_message">"Έχετε πληκτρολογήσει τον κωδικό πρόσβασης εσφαλμένα %1$d φορές. 
 
 Δοκιμάστε ξανά σε %2$d δευτερόλεπτα."</string>
@@ -883,6 +886,7 @@
     <string name="notification_channel_wfc">Κλήση Wi-Fi</string>
     <string name="notification_hidden_text">Νέα ειδοποίηση</string>
     <string name="notification_listener_binding_label">Υπηρεσία ακρόασης ειδοποίησης</string>
+    <string name="notification_messaging_title_template">%1$s: %2$s</string>
     <string name="notification_ranker_binding_label">Υπηρεσία κατάταξης ειδοποιήσεων</string>
     <string name="notification_reply_button_accessibility">Απάντηση</string>
     <string name="notification_title">Σφάλμα σύνδεσης για τον λογαριασμό %1$s</string>
@@ -995,8 +999,8 @@
     <string name="permdesc_requestInstallPackages">Επιτρέπει σε μια εφαρμογή να ζητά εγκατάσταση πακέτων.</string>
     <string name="permdesc_route_media_output">Επιτρέπει σε μια εφαρμογή τη διαγραφή διαδρομής δεδομένων εξόδου μέσων σε άλλες εξωτερικές συσκευές.</string>
     <string name="permdesc_runInBackground">Αυτή η εφαρμογή μπορεί να εκτελείται στο παρασκήνιο. Αυτό μπορεί να εξαντλήσει πιο γρήγορα την μπαταρία.</string>
-    <string name="permdesc_sdcardRead">Επιτρέπει στην εφαρμογή την ανάγνωση του περιεχομένου της κάρτας SD.</string>
-    <string name="permdesc_sdcardWrite">Επιτρέπει στην εφαρμογή την εγγραφή στην κάρτα SD.</string>
+    <string name="permdesc_sdcardRead">Επιτρέπει στην εφαρμογή την ανάγνωση του περιεχομένου του αποθηκευτικού σας χώρου USB.</string>
+    <string name="permdesc_sdcardWrite">Επιτρέπει στην εφαρμογή την εγγραφή στον αποθηκευτικό χώρο USB.</string>
     <string name="permdesc_sendSms">Επιτρέπει στην εφαρμογή των αποστολή μηνυμάτων SMS. Αυτό μπορεί να προκαλέσει μη αναμενόμενες χρεώσεις. Οι κακόβουλες εφαρμογές ενδέχεται να σας κοστίσουν χρήματα, αποστέλλοντας μηνύματα χωρίς την έγκρισή σας.</string>
     <string name="permdesc_setAlarm">Επιτρέπει στην εφαρμογή τη ρύθμιση μιας ειδοποίησης σε μια εγκατεστημένη εφαρμογή ξυπνητηριού. Ορισμένες εφαρμογές ξυπνητηριού ενδέχεται να μην μπορούν να ενσωματώσουν αυτήν τη λειτουργία.</string>
     <string name="permdesc_setInputCalibration">Επιτρέπει στην εφαρμογή να τροποποιεί τις παραμέτρους βαθμονόμησης της οθόνης αφής. Δεν απαιτείται για τις κανονικές εφαρμογές.</string>
@@ -1137,8 +1141,8 @@
     <string name="permlab_requestInstallPackages">ζητά πακέτα εγκατάστασης</string>
     <string name="permlab_route_media_output">δρομολογεί την έξοδο μέσων</string>
     <string name="permlab_runInBackground">εκτέλεση στο παρασκήνιο</string>
-    <string name="permlab_sdcardRead">διαβάζει το περιεχομένο της κάρτας SD</string>
-    <string name="permlab_sdcardWrite">τροποποιεί ή διαγράφει τα περιεχόμενα της κάρτας SD</string>
+    <string name="permlab_sdcardRead">ανάγν. περιεχ. αποθηκ. χώρ.USB</string>
+    <string name="permlab_sdcardWrite">τροποποιεί/διαγράφει το USB</string>
     <string name="permlab_sendSms">στέλνει και να διαβάζει μηνύματα SMS</string>
     <string name="permlab_setAlarm">ρυθμίζει το ξυπνητήρι</string>
     <string name="permlab_setInputCalibration">αλλαγή βαθμονόμησης της συσκευής εισόδου</string>
@@ -1229,7 +1233,7 @@
     <string name="printing_disabled_by">Η εκτύπωση απενεργοποιήθηκε από τον χρήστη %s.</string>
     <string name="profile_encrypted_detail">Το προφίλ εργασίας κλειδώθηκε</string>
     <string name="profile_encrypted_message">Πατήστε για ξεκλ. προφίλ εργ.</string>
-    <string name="progress_erasing">Διαγραφή κάρτας SD...</string>
+    <string name="progress_erasing">Διαγραφή αποθηκευτικού χώρου USB...</string>
     <string name="quick_contacts_not_available">Δεν βρέθηκε καμία εφαρμογή για την προβολή αυτής της επαφής.</string>
     <string name="reason_service_unavailable">Η υπηρεσία εκτύπωσης δεν είναι ενεργοποιημένη</string>
     <string name="reason_unknown">άγνωστο</string>
@@ -1580,6 +1584,9 @@
     <string name="wifi_p2p_show_pin_message">PIN:</string>
     <string name="wifi_p2p_to_message">Προς:</string>
     <string name="wifi_p2p_turnon_message">Ξεκινήστε τη λειτουργία Wi-Fi Direct. Θα απενεργοποιηθεί η λειτουργία πελάτη/φορητού σημείου πρόσβασης Wi-Fi.</string>
+    <string name="wifi_softap_config_change">Αλλαγές στις ρυθμίσεις σημείου πρόσβασης Wi-Fi</string>
+    <string name="wifi_softap_config_change_detailed">"Αυτή η συσκευή δεν υποστηρίζει την προτίμησή σας για τη ζώνη 5 GHz μόνο. Αντ' αυτού, αυτή η συσκευή θα χρησιμοποιεί τη ζώνη 5 GHz όταν είναι διαθέσιμη."</string>
+    <string name="wifi_softap_config_change_summary">Το εύρος σημείου πρόσβασης Wi-Fi άλλαξε.</string>
     <string name="wifi_wakeup_enabled_content">Βρίσκεστε κοντά σε αποθηκευμένο δίκτυο: %1$s</string>
     <string name="wifi_wakeup_enabled_title">Το Wi‑Fi ενεργοποιήθηκε αυτόματα</string>
     <string name="wifi_wakeup_onboarding_action_disable">Να μην ενεργοποιηθεί ξανά</string>
@@ -1608,6 +1615,7 @@
     <string name="zen_mode_feature_name">Μην ενοχλείτε</string>
     <string name="zen_mode_forever">Μέχρι την απενεργοποίηση</string>
     <string name="zen_mode_forever_dnd">Μέχρι να απενεργοποιήσετε \"Μην ενοχλείτε\"</string>
+    <string name="zen_mode_rule_name_combination">%1$s / %2$s</string>
     <string name="zen_mode_until">Έως τις %1$s</string>
     <string name="zen_upgrade_notification_content">Πατήστε για να ελέγξετε το περιεχόμενο που έχει αποκλειστεί.</string>
     <string name="zen_upgrade_notification_title">Η λειτουργία \"Μην ενοχλείτε\" άλλαξε</string>

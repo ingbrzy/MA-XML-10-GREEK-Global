@@ -55,6 +55,8 @@
     <string name="mobiledata_alert_dialog_title">Προειδοποίηση χρήσης δεδομένων</string>
     <string name="open_perm_msg">Η πυξίδα χρειάζεται πρόσβαση σε πληροφορίες τοποθεσίας και στην κάμερα. Αυτό είναι απαραίτητο για προσδιορισμό συντεταγμένων και παροχή ζωντανών προεπισκοπήσεων. Αποδοχή;</string>
     <string name="open_perm_title">Απαιτούνται άδειες</string>
+    <string name="permission_camera_desc">Χρήση ασφαδιού</string>
+    <string name="permission_location_desc">Γίνεται προβολή συντεταγμένων και ατμοσφαιρικής πίεσης</string>
     <string name="preference_other">Άλλα</string>
     <string name="preference_privacy_title">Πολιτική Απορρήτου</string>
     <string name="pressure">%.1f</string>

@@ -28,11 +28,11 @@
         <item>Αφύπνιση σε λιγότερο από 1 λεπτό.</item>
         <item>Αφύπνιση σε %1$s.</item>
         <item>Αφύπνιση σε %2$s.</item>
-        <item>Αφύπνιση σε %1$s και%2$s.</item>
+        <item>Αφύπνιση σε %1$s και %2$s.</item>
         <item>Αφύπνιση σε %3$s.</item>
-        <item>Αφύπνιση σε%1$s και%3$s.</item>
-        <item>Αφύπνιση σε %2$s και%3$s.</item>
-        <item>Αφύπνιση σε %1$s %2$s και %3$s.</item>
+        <item>Αφύπνιση σε %1$s και %3$s.</item>
+        <item>Αφύπνιση σε %2$s και %3$s.</item>
+        <item>Αφύπνιση σε %1$s%2$s και %3$s.</item>
     </string-array>
     <string-array name="aqi_value">
         <item>Καλός</item>

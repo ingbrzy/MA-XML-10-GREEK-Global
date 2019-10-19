@@ -78,7 +78,6 @@
     <string name="respond_via_sms_custom_message">Προσαρμογή SMS</string>
     <string name="manageConferenceLabel">Διαχείριση κλήσης συνδιάσκεψης</string>
     <string name="emergency_call_dialog_number_for_display">Αριθμός έκτακτης ανάγκης</string>
-    <string name="volte_call">Κλήση VoLTE</string>
     <string name="notification_dialing">Γίνεται κλήση</string>
     <string name="notification_ongoing_call">Εξερχόμενη κλήση</string>
     <string name="notification_on_hold">Σε αναμονή</string>
@@ -128,14 +127,9 @@
     <string name="msim_select_default_time_left">(%d δ)</string>
     <string name="select_sim_hint">Αδυναμία χρήσης SIM %2$d, ενώ η SIM %1$d είναι ακόμη σε χρήση.</string>
     <string name="select_one_sim_title">Επιτρέπεται μόνο η χρήση SIM %1$d</string>
-    <string name="select_sim_hint_for_heduohao">Αδυναμία χρήσης άλλου ενώ η SIM %1$d Sub%2$d είναι ακόμη σε χρήση.</string>
-    <string name="select_one_sim_title_for_heduohao">Αδυναμία χρήσης SIM %1$d Sub %2$d</string>
     <string name="can_not_use">Αδυναμία χρήσης</string>
     <string name="sim1_description">SIM1</string>
     <string name="sim2_description">SIM2</string>
-    <string name="sim1_heduohao_card">Sub1</string>
-    <string name="sim2_heduohao_card">Sub2</string>
-    <string name="sim3_heduohao_card">Sub3</string>
     <string name="call_description_recording">Γίνεται καταγραφή…</string>
     <string name="call_recording_error_privacy">Αδυναμία καταγραφής όσο είστε σε Λειτουργία επισκέπτη</string>
     <string name="call_recording_error_sd_access">Αδυναμία πρόσβασης στην κάρτα SD</string>
@@ -169,7 +163,6 @@
     <string name="onscreen_message_text">Μηνύματα</string>
     <string name="onscreen_close_preview_camera">Κλείσιμο</string>
     <string name="upgrade_vt_prompt">Εναλλαγή σε βιντεοκλήση;</string>
-    <string name="incoming_answer_voice_text">Φωνητική απάντηση</string>
     <string name="picking_participant">Γίνεται λήψη πληροφοριών επαφής…</string>
     <string name="conference_caller_info_name">Κλήση συνδιάσκεψης από %1$s</string>
     <string name="video_conference_caller_info_name">Βιντεοκλήση συνδιάσκεψης από %1$s</string>
@@ -191,8 +184,8 @@
     <string name="incoming_circle_text_reject">Αφήστε</string>
     <string name="incoming_circle_text_answer_p">Ολίσθηση προς τα επάνω</string>
     <string name="incoming_circle_text_answer">Αφήστε</string>
-    <string name="incoming_circle_text_message_p">Ολίσθηση προς τα επάνω</string>
-    <string name="incoming_circle_text_message">Αφήστε</string>
+    <string name="incoming_circle_text_video_answer_p">Σύρετε προς τα πάνω για να απαντήσετε με βίντεο</string>
+    <string name="incoming_circle_text_video_answer">Απελευθερώστε για να απαντήσετε με βίντεο</string>
     <string name="dialpad_zero">0</string>
     <string name="dialpad_one">1</string>
     <string name="dialpad_two">2</string>
@@ -206,4 +199,9 @@
     <string name="prompt_no_volte_when_failed">Αδυναμία πραγματοποίησης κλήσεων. Βεβαιωθείτε πως η συσκευή σας είναι συνδεδεμένη σε ένα 4G δίκτυο με υποστήριξη VoLTE.​</string>
     <string name="volume_boost_text">Επιτυχής ενίσχυση έντασης</string>
     <string name="supp_service_notification_call_waiting">Ο αριθμός που καλέσατε είναι απασχολημένος. Παρακαλούμε περιμένετε…</string>
+    <string name="incall_bubble_hangup_click_hint">Πατήστε ξανά για επιστροφή στην κλήση</string>
+    <string name="manager_conference_done">Τέλος</string>
+    <string name="incoming_answer_voice_text">Φωνητική απάντηση</string>
+    <string name="incoming_circle_text_message_p">Ολίσθηση προς τα επάνω</string>
+    <string name="incoming_circle_text_message">Αφήστε</string>
 </resources>

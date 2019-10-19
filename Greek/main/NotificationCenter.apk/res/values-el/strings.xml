@@ -16,9 +16,10 @@
     <string name="list_title_disable_notification">Οι ειδοποιήσεις είναι περιορισμένες</string>
     <string name="loading">Μια στιγμή…</string>
     <string name="lock_screen_display_rules">Διαμόρφωση</string>
-    <string name="lock_screen_tip_toast">Επιτρέψτε πρώτα τις ειδοποιήσεις στο \"Ειδοποιήσεις εφαρμογών\"</string>
+    <string name="lock_screen_tip_toast">Να επιτρέπονται ειδοποιήσεις Οθόνης κλειδώματος στο \"Format\"</string>
     <string name="lockscreen_notifications">Ειδοποιήσεις Οθόνης κλειδώματος</string>
     <string name="not_sent_recently">Όχι πρόσφατα</string>
+    <string name="notch_and_status_bar_setting">Notch &amp; γραμμή κατάστασης</string>
     <string name="notification_display_setting">Πίνακας ειδοποιήσεων</string>
     <string name="notification_display_style">Στυλ ειδοποιήσεων</string>
     <string name="notification_fold_summary">Όλες οι ασήμαντες ειδοποιήσεις θα εμφανιστούν σε διαφορετικό φάκελο</string>
@@ -28,7 +29,10 @@
     <string name="notification_style_miui">MIUI</string>
     <string name="off">Απενεργοποίηση</string>
     <string name="on">Ενεργοποίηση</string>
+    <string name="settings_guide_title">Χρειάζεστε άλλες ρυθμίσεις;</string>
     <string name="show_badge_notifications">Σημάνσεις ειδοποιήσεων</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
+    <string name="status_bar_setting">Γραμμή κατάστασης</string>
     <string name="summary_disable_float_notification">Οι κυμαινόμενες ειδοποιήσεις είναι περιορισμένες</string>
     <string name="summary_disable_lockscreen_notification">Οι ειδοποιήσεις Οθόνης κλειδώματος είναι περιορισμένες</string>
     <string name="summary_disable_show_badge_notification">Οι σημάνσεις ειδοποιήσεων είναι περιορισμένες</string>

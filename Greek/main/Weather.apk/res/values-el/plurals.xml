@@ -16,6 +16,10 @@
         <item quantity="other">Κατά μέσο όρο %1$s σταθμών</item>
         <item quantity="one">Κατά μέσο όρο %1$s σταθμού</item>
     </plurals>
+    <plurals name="daily_forcast_drawer_on_home">
+        <item quantity="other">%1$s-ήμερη πρόγνωση</item>
+        <item quantity="one">%1$s-ήμερη πρόγνωση</item>
+    </plurals>
     <plurals name="daily_forcast_drawer_on_top">
         <item quantity="other">%1$s-ήμερη πρόγνωση</item>
         <item quantity="one">%1$s-ήμερη πρόγνωση</item>
@@ -33,8 +37,8 @@
         <item quantity="one">%1$s άτομο | </item>
     </plurals>
     <plurals name="total_voted_num_text">
-        <item quantity="other">"&lt;χρώμα γραμματοσειράς='#20a7ff'>%1$s&lt;/γραμματοσειρά> άτομα ψήφισαν"</item>
-        <item quantity="one">"&lt;χρώμα γραμματοσειράς='#20a7ff'>%1$s&lt;/γραμματοσειρά> άτομο ψήφισε"</item>
+        <item quantity="other">"&lt;font color='#20a7ff'>%1$s&lt;/font> άτομα ψήφισαν"</item>
+        <item quantity="one">"&lt;font color='#20a7ff'>%1$s&lt;/font> άτομο ψήφισε"</item>
     </plurals>
     <plurals name="tts_report_temperature_high_centigrade">
         <item quantity="other">Υψηλότερη θερμοκρασία: %1$s βαθμοί Κελσίου</item>

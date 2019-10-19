@@ -61,8 +61,8 @@
         <item quantity="one">%d κρυφή φωτογραφία δεν έχει συγχρονιστεί. Αποσυνδεθείτε μόνο μετά τον συγχρονισμό όλων των αντικειμένων ώστε να τα διατηρήσετε; αλλιώς, τα αντικείμενα θα διαγραφούν.</item>
     </plurals>
     <plurals name="micloud_manual_pause_and_resume">
-        <item quantity="other">Ο συγχρονισμός σταμάτησε. Συνέχεια σε %d λεπτά…</item>
-        <item quantity="one">Ο συγχρονισμός σταμάτησε. Συνέχεια σε %d λεπτό…</item>
+        <item quantity="other">Συνέχεια συγχρονισμού μετά από %d λεπτά</item>
+        <item quantity="one">Συνέχεια συγχρονισμού μετά από %d λεπτό</item>
     </plurals>
     <plurals name="last_sync_time_mins_ago">
         <item quantity="other">%s λεπτό πριν</item>
@@ -73,7 +73,7 @@
         <item quantity="one">%s ώρα πριν</item>
     </plurals>
     <plurals name="provision_sync_items_status_title">
-        <item quantity="other">%s υπηρεσίες θα συγχρονιστούν με το Mi Cloud</item>
-        <item quantity="one">%s υπηρεσία θα συγχρονιστεί με το Mi Cloud</item>
+        <item quantity="other">%s υπηρεσίες θα συγχρονιστούν με το Xiaomi Cloud</item>
+        <item quantity="one">%s υπηρεσία θα συγχρονιστεί με το Xiaomi Cloud</item>
     </plurals>
 </resources>

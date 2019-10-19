@@ -49,8 +49,8 @@
         <item quantity="one">%d σχόλιο</item>
     </plurals>
     <plurals name="days_ago">
-        <item quantity="other">%d days ago</item>
-        <item quantity="one">%d day ago</item>
+        <item quantity="other">%d ημέρες πριν</item>
+        <item quantity="one">%d ημέρα πριν</item>
     </plurals>
     <plurals name="dialog_confirm_delete_downloads_message">
         <item quantity="other">Διαγραφή %d αντικειμένων;</item>

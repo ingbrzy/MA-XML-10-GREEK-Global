@@ -51,12 +51,13 @@
     <string name="accessibility_repeats">Επανάληψη</string>
     <string name="accessibility_sync_cal">Συγχρονισμός ημερολογίου</string>
     <string name="account_and_calendar">Λογαριασμοί</string>
-    <string name="action_bar_date_button_title">Υπολογισμός ημερομηνίας</string>
     <string name="action_bar_return">Πίσω</string>
     <string name="action_text_card_manager">Κανάλι</string>
     <string name="add_anniversary">Προσθήκη επέτειου</string>
     <string name="add_countdown">Προσθήκη αντίστροφης μέτρησης</string>
     <string name="add_event">Προσθήκη συμβάντος</string>
+    <string name="add_holiday_desc">Προθήκη εορτών εδώ</string>
+    <string name="add_holiday_title">Προσθήκη εορτής</string>
     <string name="agenda_month_empty_hint">Κανένα συμβάν για αυτή την ημέρα</string>
     <string name="agenda_tomorrow">ΑΥΡΙΟ, %1$s</string>
     <string name="agenda_view">Συμβάντα</string>
@@ -75,15 +76,15 @@
     <string name="birthday_event_description_a_week_later">Μια εβδομάδα μέχρι</string>
     <string name="birthday_event_description_day_after_tomorrow">Η μεθαυριανή ημέρα είναι</string>
     <string name="birthday_event_description_day_before_yesterday">Η ημέρα προχθές ήταν</string>
-    <string name="birthday_event_description_default">%2$s %3$s %4$s του/της %1$s</string>
-    <string name="birthday_event_description_special">%1$s %3$s %4$s %5$s του/της %2$s</string>
+    <string name="birthday_event_description_default">%2$s του/της %3$s %4$s του/της %1$s</string>
+    <string name="birthday_event_description_special">%1$s %2$s του/της %3$s %4$s %5$s</string>
     <string name="birthday_event_description_today">Σήμερα είναι</string>
     <string name="birthday_event_description_tomorrow">Αύριο είναι</string>
     <string name="birthday_event_description_yesterday">Χθες ήταν</string>
     <string name="birthday_notification_text_days_later">%1$s ημέρες μέχρι %4$s (%5$s)</string>
     <string name="birthday_notification_text_today">Μην ξεχάσετε να τους ευχηθείτε χρόνια πολλά.</string>
-    <string name="birthday_notification_title_days_later">"%1$s's %2$s σύντομα."</string>
-    <string name="birthday_notification_title_today">%3$s του %1$s</string>
+    <string name="birthday_notification_title_days_later">%1$s του/της %2$s σύντομα.</string>
+    <string name="birthday_notification_title_today">%3$s του/της %1$s/της</string>
     <string name="birthday_notification_type_term_lunar" />
     <string name="birthday_saved">Τα γενέθλια αποθηκεύτηκαν</string>
     <string name="birthday_term">γενέθλια</string>
@@ -104,6 +105,7 @@
     <string name="cards_language_hint">Ορισμένες κάρτες μπορεί να μην είναι διαθέσιμες στην επιλεγμένη γλώσσα.</string>
     <string name="change_response_title">Αλλαγή απάντησης</string>
     <string name="change_zodiac">Αλλαγή σήματος ζωδίου</string>
+    <string name="choose_your_holidays">Επιλογή εορτής</string>
     <string name="click_to_share">Πατήστε για Κοινοποίηση</string>
     <string name="close_alarm">Απενεργοποίηση</string>
     <string name="contacts_permission_desc">Πρόσβαση στις πληροφορίες επαφής</string>
@@ -116,6 +118,7 @@
 
 • Έχετε πρόσβαση σ' αυτό από οποιοδήποτε πρόγραμμα περιήγησης.
 • Δημιουργήστε αντίγραφα ασφαλείας των συμβάντων σας με ασφάλεια."</string>
+    <string name="create_kundli">Δημιουργία Kundli</string>
     <string name="creating_event">Δημιουργήθηκε συμβάν</string>
     <string name="creating_event_with_guest">Γίνεται αποστολή προσκλήσεων…</string>
     <string name="daily">Καθημερινά</string>
@@ -136,6 +139,7 @@
     <string name="date_interval_text_to">Έως %1$s</string>
     <string name="date_jump_hint">Απευθείας μετάβαση σε μια συγκεκριμένη ημέρα</string>
     <string name="date_jump_title">Μετάβαση στην ημερομηνία</string>
+    <string name="date_time_fmt" formatted="false">%s, %s</string>
     <string name="date_today">" (σήμερα)"</string>
     <string name="day_view_new_event_hint">Νέο συμβάν</string>
     <string name="default_reminder_mode">Υπενθυμίσεις</string>
@@ -176,6 +180,7 @@
     <string name="edit_event_tab_countdown">Αντίστροφη μέτρηση</string>
     <string name="edit_event_tab_event">Εκδήλωση</string>
     <string name="edit_event_to_label">Προς</string>
+    <string name="edit_your_long_holidays">Επεξεργασία εορτών</string>
     <string name="email_guests_label">Email στους επισκέπτες</string>
     <string name="email_install_hint">Έγινε απεγκατάσταση του Mail. Εγκαταστήστε το Mail ξανά για επαναφορά των λογαριασμών ημερολογίουή για προσθήκη ενός νέου.</string>
     <string name="email_picker_label">Email με</string>
@@ -204,6 +209,12 @@
     <string name="event_view">Προβολή συμβάντος</string>
     <string name="every_weekday">Καθημερινές (Δευ–Παρ)</string>
     <string name="fb_birthday_failure">Δεν ήταν δυνατή η εισαγωγή γενεθλίων από το Facebook. Προσπάθησε ξανά.</string>
+    <string name="fb_birthday_import_pref_desc">Εισαγωγή γενεθλίων φίλων από το Facebook</string>
+    <string name="fb_birthday_import_pref_title">Εισαγωγή τώρα</string>
+    <string name="fb_birthday_logout_failure">Δεν έχετε προσθέσει λογαριασμό Facebook ακόμα</string>
+    <string name="fb_birthday_logout_pref_desc">Αφαίρεση λογαριασμού Facebook και γενεθλίων φίλων</string>
+    <string name="fb_birthday_logout_pref_title">Αφαίρεση λογαριασμού Facebook</string>
+    <string name="fb_birthday_logout_success">Επιτυχία αφαίρεσης λογαριασμού Facebook</string>
     <string name="fb_birthday_region_warning">Αυτή η λειτουργία δεν είναι διαθέσιμη στην περιοχή σας</string>
     <string name="fb_birthday_success">Επιτυχής εισαγωγή γενεθλίων από το Facebook</string>
     <string name="fb_calendar_account_name">Mi Τοπικό Ημερολόγιο</string>
@@ -212,6 +223,7 @@
     <string name="festival_detail_title">Φεστιβάλ</string>
     <string name="file_exception">Παρουσιάσθηκε σφάλμα</string>
     <string name="fixtures">Fixtures</string>
+    <string name="fourth_saturday_holiday">Κάθε δεύτερο και τέταρτο Σάββατο είναι ημέρες ξεκούρασης</string>
     <string name="from_google_group_calendar">Google ημερολόγιο</string>
     <string name="gadget_no_events">Δεν υπάρχουν ανερχόμενα συμβάντα ημερολόγιου</string>
     <string name="gadget_title">Ημερολόγιο</string>
@@ -226,6 +238,10 @@
     <string name="greetingcard_end_of_page">Αυτά για την ώρα. Επιστρέψτε αύριο!</string>
     <string name="greetingcard_notification_desc">Ελέγξτε τις τελευταίες καταστάσεις</string>
     <string name="greetingcard_notification_title">Η καθημερινή σας ροή είναι έτοιμη</string>
+    <string name="greetingcard_reminder_dialog_message">Να επιτρέπεται στο Ημερολόγιο να σας στέλνει καθημερινές ειδοποιήσεις για χαιρετισμούς και καταστάσεις;</string>
+    <string name="greetingcard_reminder_dialog_negative">Όχι ευχαριστώ</string>
+    <string name="greetingcard_reminder_dialog_positive">Αποδοχή</string>
+    <string name="greetingcard_reminder_dialog_title">Λήψη ειδοποιήσεων</string>
     <string name="greetingcard_reminder_disabled_status">Δεν θα λαμβάνετε καθημερινά υπενθυμίσεις σχετικά με καταστάσεις WhatsApp.</string>
     <string name="greetingcard_reminder_disabled_text">Ενεργοποίηση υπενθυμίσεων</string>
     <string name="greetingcard_reminder_enabled_status">Θα λαμβάνετε καθημερινά υπενθυμίσεις σχετικά με καταστάσεις WhatsApp.</string>
@@ -246,7 +262,14 @@
     <string name="hint_what">Όνομα συμβάντος</string>
     <string name="hint_where">Τοποθεσία</string>
     <string name="holiday_card_title">Σε αυτή την ημέρα</string>
+    <string name="holiday_date">Ημερομηνία</string>
+    <string name="holiday_date_title">Ημερομηνία εορτής</string>
     <string name="holiday_detail_read_more">Περισσότερα</string>
+    <string name="holiday_name">Όνομα εορτής</string>
+    <string name="holiday_name_empty">Το όνομα εορτής δεν μπορεί να είναι κενό</string>
+    <string name="holiday_name_exists">Αυτή η εορτή υπάρχει ήδη</string>
+    <string name="holiday_saved">Επιτυχής αποθήκευση</string>
+    <string name="holidays_title">Εορτές</string>
     <string name="horoscope_select_activity_label">Επιλογή ζωδιακού σήματος</string>
     <string name="image_processing">Η εικόνα δεν είναι έτοιμη ακόμα</string>
     <string name="import_action">Εισαγωγή</string>
@@ -268,9 +291,21 @@
     <string name="loading">Περιμένετε μία στιγμή…</string>
     <string name="local_calendar_display_name">Τοπικό ημερολόγιο</string>
     <string name="local_owner_account_name">Έγινε αποθήκευση στην συσκευή</string>
+    <string name="long_holiday_date_place_holder">dd MMMM</string>
+    <string name="long_holiday_dates">Ξεκινώντας από %1$s</string>
+    <string name="long_holiday_month_off">Ημέρες ξεκούρασης μηνιαίως</string>
+    <string name="long_holiday_week_off">Ημέρες ξεκούρασης εβδομαδιαίως</string>
     <string name="lunar_date">Σεληνιακό ημερολόγιο</string>
+    <string name="manage_holidays">Διαχείριση εορτών</string>
+    <string name="manage_title">Διαχείριση</string>
     <string name="match_finished">Δεν είναι δυνατό να οριστούν υπενθυμίσεις για τρέχοντα και μη ολοκληρωμένα παιχνίδια</string>
     <string name="match_select_activity_label">Πρωταθλήματα</string>
+    <string name="match_zodiac">Αντιστοίχιση ζωδίου</string>
+    <string name="menstruation_card_default_title">Δεν υπάρχουν εγγραφές εμμηνόρροιας</string>
+    <string name="menstruation_card_error_sub_title">Κλείστε το Ημερολόγιο και επανεκκινήστε το ξανά.</string>
+    <string name="menstruation_card_error_title">Αδυναμία απόκτησης δεδομένων</string>
+    <string name="menstruation_card_private_mode_sub_title">Ιδιωτική λειτουργία</string>
+    <string name="menstruation_card_private_mode_title">Εμμηνορροϊκός κύκλος ****</string>
     <string name="menu_general_preferences">Γενικά</string>
     <string name="menu_reminder_preferences">Υπενθυμίσεις</string>
     <string name="missing_name">(Χωρίς όνομα)</string>
@@ -299,7 +334,9 @@
     <string name="news">Νέα</string>
     <string name="no_contact_birthday_hint">Δεν υπάρχουν γενέθλια για εισαγωγή</string>
     <string name="no_events_hint">Κανένα συμβάν</string>
+    <string name="no_holiday_selected">Δεν επιλέχθηκαν ημέρες ξεκούρασης</string>
     <string name="no_internet">Αδυναμία σύνδεσης στο διαδίκτυο</string>
+    <string name="no_long_holidays">Δεν υπάρχουν επερχόμενες μεγάλες εορτές</string>
     <string name="no_network">"Αδυναμία σύνδεσης στο δίκτυο.
 Ελέγξτε τις ρυθμίσεις δικτύου και δοκιμάστε ξανά."</string>
     <string name="no_network_btn">Προσπαθήστε ξανά</string>
@@ -308,6 +345,7 @@
     <string name="no_visiable_calendar_message">Πρέπει να προσθέστε ένα λογαριασμό ημερολογίου. Πατήστε \"Προσθήκη λογαριασμού\" για να συνεχίσετε.</string>
     <string name="no_visiable_calendar_select_account">Προσθήκη λογαριασμού</string>
     <string name="no_visiable_calendar_title">Προσθήκη λογαριασμού</string>
+    <string name="not_more_than_three_weekday">Μπορείτε να επιλέξετε μέχρι 3 ημέρες</string>
     <string name="notification_channel_description" />
     <string name="notification_channel_name">Υπενθυμίσεις ημερολογίου</string>
     <string name="panchang_amanta">Amanta</string>
@@ -325,12 +363,14 @@
     <string name="panchang_ritu">Ritu</string>
     <string name="panchang_shaka_samvat">Shaka Samvat</string>
     <string name="panchang_sun_sign">Ηλιακός οίκος</string>
+    <string name="panchang_till_time">Μέχρι %1$s</string>
     <string name="panchang_tithi">Tithi</string>
     <string name="panchang_to"> σε </string>
     <string name="panchang_upto"> μέχρι </string>
     <string name="panchang_vikram_samvat">Vikram Samvat</string>
     <string name="panchang_yamaghanta">Yamaghanta</string>
     <string name="panchang_yog">Yog</string>
+    <string name="partner_compatibility">Συμβατότητα συνεργάτη</string>
     <string name="path_calendar_settings">Εφαρμογές συστήματος/Ημερολόγιο/Ρυθμίσεις</string>
     <string name="prefDialogTitle_vibrateWhen">Δόνηση</string>
     <string name="pref_reminder_time">Ώρα υπενθύμισης</string>
@@ -385,11 +425,13 @@
     <string name="response_no">Όχι</string>
     <string name="response_yes">Ναι</string>
     <string name="rest_day_indication">: )</string>
+    <string name="saturday_click_disabled">Τώρα κάθε δεύτερο και τέταρτο Σάββατο είναι ημέρες ξεκούρασης</string>
     <string name="saving_event">Συμβάν αποθηκεύτηκε</string>
     <string name="saving_event_with_guest">Γίνεται αποστολή ενημερώσεων…</string>
     <string name="search_calendar">Ημερομηνία;Ηλιακοί όροι;Σεληνιακό;ημερολόγιο;Μοίρα;Ατζέντα;Συνάντηση;Υπενθύμιση;Διακοπές;Εορτή;Γενέθλια;2016;2017;Κινέζικη Πρωτοχρονιά;Πρωτοχρονιά;Παγκόσμια Ημέρα Εργασίας;Μεσο-Φθινοπωρινό Φεστιβάλ</string>
     <string name="search_calendar_edit_event">Συνάντηση;Υπενθύμιση;Ατζέντα</string>
     <string name="search_calendar_settings">Ημερολόγιο;Ατζέντα;Υπενθύμιση</string>
+    <string name="second_saturday_holiday">Κάθε δεύτερο Σάββατο είναι ημέρα ξεκούρασης</string>
     <string name="select_date">Μετάβαση στην ημερομηνία</string>
     <string name="set_reminder">Ορισμός υπενθύμισης</string>
     <string name="setting_about_calendar_version">Έκδοση ημερολογίου:</string>
@@ -398,6 +440,7 @@
     <string name="setting_about_summary">Έκδοση:</string>
     <string name="setting_accounts">Λογαριασμοί ημερολογίου</string>
     <string name="setting_change_language">Επιλέξτε γλώσσα Ημερολογίου</string>
+    <string name="setting_desc_import_todo">Εισαγάγετε προγραμματισμένες εργασίες από τις Σημειώσεις</string>
     <string name="setting_fb_birthdays_title">Εισαγωγή γενεθλίων από το Facebook</string>
     <string name="setting_features_title">Ρυθμίσεις λειτουργιών</string>
     <string name="setting_holiday_display_desc">Οι κάρτες εορτών βρίσκονται κάτω από την ατζέντα σας στην αρχική σελίδα</string>
@@ -405,12 +448,18 @@
     <string name="setting_others">Επιπρόσθετα</string>
     <string name="setting_title_about">Πληροφορίες</string>
     <string name="setting_title_holiday_display">Εμφάνιση εορτών</string>
+    <string name="setting_title_import_todo">Εισαγωγή εργασιών</string>
     <string name="setting_title_policy">Πολιτική Απορρήτου</string>
+    <string name="settings_show_long_holiday">Μεγάλες εορτές</string>
+    <string name="settings_show_long_holiday_description">Προγραμματίστε τις εορτές σας εκ των προτέρων</string>
+    <string name="settings_show_p_tracker">Προβολή πληροφοριών για την εμμηνόρροια</string>
+    <string name="settings_show_p_tracker_description">Παρακολουθήστε τις εμμηνόρροιές σας</string>
     <string name="share_image">Κοινοποίηση</string>
     <string name="share_image_label">Κοινοποίηση μέσω</string>
     <string name="share_title">Κοινοποίηση</string>
     <string name="show_day_view">Εμφάνιση ημέρας</string>
     <string name="show_indic_date_summary">Το Ινδικό ημερολόγιο είναι διαθέσιμο όταν μία από τις Ινδικές γλώσσες έχει οριστεί ως η γλώσσα συστήματός σας</string>
+    <string name="single_selected_holiday">%1$s είναι ημέρα ξεκούρασης</string>
     <string name="start_date_calculate">Υπολογισμός</string>
     <string name="storage_permission_denied">Να επιτραπεί πρώτα η πρόσβαση στον χώρο αποθήκευσης</string>
     <string name="subscribe_card">Εγγραφή τώρα</string>
@@ -432,11 +481,16 @@
     <string name="talk_back_read_date">Τρέχουσα ημερομηνία: %1$s (%2$s σύμφωνα με το σεληνιακό ημερολόγιο).</string>
     <string name="talk_back_setting">Ρυθμίσεις</string>
     <string name="template_announce_item_index">Συμβάν %1$s από %2$s.</string>
+    <string name="three_selected_holiday">%1$s, %2$s και %3$s είναι ημέρες ξεκούρασης</string>
     <string name="time_zone">Ζώνη Ώρας</string>
     <string name="timezone_label">Ζώνη ώρας</string>
+    <string name="title_p_tracker">Εμμηνόρροια</string>
     <string name="today">Σήμερα</string>
     <string name="today_at_time_fmt">Σήμερα στις %s</string>
     <string name="today_no_events">Κανένα συμβάν</string>
+    <string name="todays_panchang_title">Σημερινό Panchang</string>
+    <string name="todo_audio_event">"[Voice task] "</string>
+    <string name="todo_event">Ανερχόμενες εργασίες</string>
     <string name="tomorrow">Αύριο</string>
     <string name="tomorrow_at_time_fmt">Αύριο στις %s</string>
     <string name="too_long_content">Το περιεχόμενο είναι πολύ μεγάλο</string>
@@ -463,6 +517,7 @@
     <string name="travel_seat_number_text">Θέση</string>
     <string name="travel_train_number_text">Τραίνο</string>
     <string name="travel_train_station">Σιδηροδρομικός σταθμός</string>
+    <string name="two_selected_holiday">%1$s και %2$s είναι ημέρες ξεκούρασης</string>
     <string name="unsubscribe_card">Κατάργηση εγγραφής</string>
     <string name="unsubscribe_card_success">Έγινε επιτυχής κατάργηση συνδρομής“%1$s”</string>
     <string name="unsubscribing_card">Έγινε κατάργηση εγγραφής</string>
@@ -486,4 +541,8 @@
     <string name="xiaomi_calendar_display_name">Ημερολόγιο Mi Λογαριασμού</string>
     <string name="yearly">Ετησίως (κάθε %s)</string>
     <string name="yearly_plain">Ετησίως</string>
+    <string name="action_bar_date_button_title">Υπολογισμός ημερομηνίας</string>
+    <string name="preferences_week_settings_title">Ρυθμίσεις εβδομάδας</string>
+    <string name="preferences_weekly_holiday_summary">Επιλεγμένες μέρες θα επισημανθούν ως ημέρες ρεπό</string>
+    <string name="preferences_weekly_holiday_title">Ρεπό</string>
 </resources>

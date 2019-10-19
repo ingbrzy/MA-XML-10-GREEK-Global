@@ -18,6 +18,7 @@
     <string name="cancel">Ακύρωση</string>
     <string name="children_education">Παιδική εκπαίδευση</string>
     <string name="choose_currency">Επιλογή συναλλάγματος</string>
+    <string name="choose_radix">Επιλέξτε αριθμητικό σύστημα</string>
     <string name="choose_unit">Επιλογή μονάδας</string>
     <string name="city">Πόλη</string>
     <string name="clearDesc">εκκαθάριση</string>
@@ -28,6 +29,7 @@
     <string name="convertion_unit">Μετατροπή μονάδων</string>
     <string name="convertion_unit_area">Μετατροπή εμβαδόν</string>
     <string name="convertion_unit_length">Μετατροπή μήκους</string>
+    <string name="convertion_unit_radix">Αριθμητικό σύστημα</string>
     <string name="convertion_unit_temperature">Μετατροπή θερμοκρασίας</string>
     <string name="convertion_unit_time">Μετατροπή χρόνου</string>
     <string name="convertion_unit_velocity">Μετατροπή ταχύτητας</string>
@@ -112,6 +114,7 @@
     <string name="item_title_dress_size">Μέγεθος ρούχων</string>
     <string name="item_title_length_conversion">Απόσταση</string>
     <string name="item_title_mortgage">Στεγαστικό δάνειο</string>
+    <string name="item_title_radix">Αριθμητικό σύστημα</string>
     <string name="item_title_scientific_calculator">Επιστημονική</string>
     <string name="item_title_tax">Φόροι</string>
     <string name="item_title_temprature_conversion">Θερμοκρασία</string>
@@ -174,6 +177,7 @@
     <string name="mortgage_item_years">Θητεία δανείου</string>
     <string name="mortgage_loans_amount">Ποσό στεγαστικού δάνειου</string>
     <string name="mortgage_provident_found_interest_rate">Επιτόκιο κεφαλαίου</string>
+    <string name="mortgage_provider_east_money">Τα δεδομένα παρέχονται από το East Money</string>
     <string name="mortgage_repayment_amount">Ποσό αποπληρωμής</string>
     <string name="mortgage_result">Αποτελέσματα</string>
     <string name="mortgage_show_details">Προβολή λεπτομερειών</string>
@@ -186,6 +190,7 @@
     <string name="negDesc">Εναλλαγή μεταξύ θερμοκρασιών κάτω και επάνω του μηδενός</string>
     <string name="network_confirm_content">Ο μετατροπέας νομίσματος, και οι αριθμομηχανές υπολογισμού φόρων και υποθηκών απαιτούν σύνδεση στο Ίντερνετ και πρόσβαση στις υπηρεσίες τοποθεσίας για να λειτουργήσουν κανονικά.</string>
     <string name="network_confirm_title">Απαιτούνται άδειες</string>
+    <string name="network_purpose">Καλώς ήλθατε στην Αριθμομηχανή! Η Αριθμομηχανή σας δίνει τη δυνατότητα να μετατρέπετε νομίσματα, να υπολογίζετε τις αποπληρωμές υποθηκών και άλλα.</string>
     <string name="none">Τίποτα</string>
     <string name="not_supported_due_to_language">Αυτή η δυνατότητα είναι διαθέσιμη μόνο για την κινεζική γλώσσα</string>
     <string name="ok">ΟΚ</string>
@@ -318,11 +323,13 @@
     <string name="unit_data_display_currency_aed">Ντιρχάμ Ηνωμένων Αραβικών Εμιράτων</string>
     <string name="unit_data_display_currency_ars">Πέσο Αργεντινής</string>
     <string name="unit_data_display_currency_aud">Δολάριο Αυστραλίας</string>
+    <string name="unit_data_display_currency_bdt">Bangladeshi taka</string>
     <string name="unit_data_display_currency_bgn">Λεβ Βουλγαρίας</string>
     <string name="unit_data_display_currency_bhd">Δηνάριο Μπαχρέιν</string>
     <string name="unit_data_display_currency_bnd">Δολάριο Μπρουνέι</string>
     <string name="unit_data_display_currency_brl">Ρεάλ Βραζιλίας</string>
     <string name="unit_data_display_currency_byn">Ρούβλι Λευκορωσίας</string>
+    <string name="unit_data_display_currency_byr">@string/unit_data_display_currency_byn</string>
     <string name="unit_data_display_currency_cad">Καναδικό Δολάριο</string>
     <string name="unit_data_display_currency_chf">Ελβετικό Φράγκο</string>
     <string name="unit_data_display_currency_clp">Πέσο Χιλής</string>
@@ -408,6 +415,10 @@
     <string name="unit_data_display_length_um">Μικρόμετρα</string>
     <string name="unit_data_display_length_yd">Γιάρδες</string>
     <string name="unit_data_display_length_zhang">Zhang</string>
+    <string name="unit_data_display_radix_10">Δεκαδικό</string>
+    <string name="unit_data_display_radix_16">Δεκαεξαδικός</string>
+    <string name="unit_data_display_radix_2">Δυαδικό</string>
+    <string name="unit_data_display_radix_8">Οκταδικό</string>
     <string name="unit_data_display_temperature_c">Κελσίου</string>
     <string name="unit_data_display_temperature_f">Φαρενάιτ</string>
     <string name="unit_data_display_temperature_k">Κέλβιν</string>
@@ -601,8 +612,11 @@
     <string name="word_figure_unit_shi">拾</string>
     <string name="word_figure_yuan">元</string>
     <string name="word_figure_zheng">整</string>
+    <string name="xiaomi_bytes_unit">%1$sB</string>
     <string name="xiaomi_connect_download_manager_fail">Δεν ήταν δυνατή η σύνδεση με τις Λήψεις. Ελέγξτε αν αυτή η εφαρμογή διαθέτει όλα τα απαιτούμενα δικαιώματα στις Ρυθμίσεις > Εγκατεστημένες εφαρμογές.</string>
     <string name="xiaomi_external_storage_unavailable">Μη διαθέσιμος χώρος αποθήκευσης. Ελέγξτε την κάρτα SD σας.</string>
+    <string name="xiaomi_kilobytes_unit">%1$sKB</string>
+    <string name="xiaomi_megabytes_unit">%1$sMB</string>
     <string name="xiaomi_update_dialog_message">"Εισαγωγή έκδοσης %1$s
 Μέγεθος: %2$s"</string>
     <string name="xiaomi_update_dialog_message_diff">"Εισαγωγή έκδοσης %1$s
@@ -610,5 +624,9 @@
     <string name="xiaomi_update_dialog_title">%1$s ενημέρωση!</string>
     <string name="year" />
     <string name="preference_use_voice">Εξαγωγή φωνής</string>
+    <string name="preference_use_voice_summary">Turn on to use speech output during calculations</string>
+    <string name="preference_use_voice_title">Speech output</string>
+    <string name="preference_user_feedback_title">Feedback</string>
+    <string name="voice_guide_text">You can turn on speech output here</string>
     <string name="warn_locale_unsupport_for_voice">Οι φωνητικές εντολές για αυτή τη γλώσσα δεν υποστηρίζονται προς το παρόν.</string>
 </resources>

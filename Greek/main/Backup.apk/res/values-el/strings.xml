@@ -6,6 +6,9 @@
     <string name="xiaomi_update_dialog_message_diff">"Γίνεται εισαγωγή έκδοσης %1$s
 Μέγεθος ενημέρωσης Delta: %2$s"</string>
     <string name="xiaomi_external_storage_unavailable">Ο χώρος αποθήκευσης δεν είναι διαθέσιμος, ελέγξτε την κάρτα SD σας.</string>
+    <string name="xiaomi_bytes_unit">%1$sB</string>
+    <string name="xiaomi_kilobytes_unit">%1$sKB</string>
+    <string name="xiaomi_megabytes_unit">%1$sMB</string>
     <string name="xiaomi_connect_download_manager_fail">Αδυναμία εκκίνησης λήψης. Βεβαιωθείτε πως η Διαχείριση λήψεων λειτουργεί κανονικά.</string>
     <string name="app_name">Αντίγραφα ασφαλείας</string>
     <string name="local_app_name">Αντίγραφα ασφαλείας</string>
@@ -43,13 +46,13 @@
     <string name="restore_progress">Γίνεται επαναφορά…</string>
     <string name="restore_contacts_hit">Μπορεί να απαιτείται σύνδεση ξανά για την προβολή δεδομένων επαναφοράς.</string>
     <string name="restore_telephony_hit">Η επαναφορά θα επανεκκινήσει την εφαρμογή Τηλέφωνο.</string>
-    <string name="restore_launcher_layout_hit">Επαναφορά ρυθμίσεων εκκινητή</string>
+    <string name="restore_launcher_layout_hit">Επαναφορά ρυθμίσεων launcher</string>
     <string name="settings_summary">Ρυθμίσεις μηνυμάτων και τηλεφώνου</string>
     <string name="camera_summary">Ρυθμίσεις Κάμερας (δεν περιλαμβάνονται φωτογραφίες)</string>
     <string name="gallery_summary">Ρυθμίσεις Συλλογής (δεν περιλαμβάνονται φωτογραφίες)</string>
     <string name="account_summary">Δημιουργία αντίγραφων ασφαλείας για Google Account, Mi Λογαριασμό, και άλλα δεδομένα χρήστη</string>
-    <string name="cloud_app_name">Αντίγραφα ασφαλείας Mi Cloud</string>
-    <string name="cloud_home_title">Mi Cloud</string>
+    <string name="cloud_app_name">Αντίγραφα ασφαλείας Xiaomi Cloud</string>
+    <string name="cloud_home_title">Xiaomi Cloud</string>
     <string name="prompt_reading">Γίνεται ανάγνωση…</string>
     <string name="prompt_sending">Γίνεται μεταφόρτωση…</string>
     <string name="prompt_writing">Γίνεται αποθήκευση…</string>
@@ -57,17 +60,17 @@
     <string name="backup_update">Ενημέρωση</string>
     <string name="backup_delete">Διαγραφή:</string>
     <string name="findlost_contact">Eπαναφορά επαφών</string>
-    <string name="findlost_contact_online">Επαναφορά επαφών από Mi Cloud</string>
+    <string name="findlost_contact_online">Επαναφορά επαφών από το Cloud</string>
     <string name="cloud_backup_login">Συνδεθείτε στο Mi Λογαριασμό σας</string>
     <string name="cloud_backup_hint">Για πρόσβαση στα αντίγραφα ασφαλείας, συνδεθείτε τώρα</string>
-    <string name="cloud_backup_window_title">Αντίγραφα ασφαλείας Mi Cloud</string>
-    <string name="cloud_restore_window_title">Επαναφορά Mi Cloud</string>
+    <string name="cloud_backup_window_title">Αντίγραφα ασφαλείας Xiaomi Cloud</string>
+    <string name="cloud_restore_window_title">Επαναφορά από Xiaomi Cloud</string>
     <string name="cloud_restore_title">Επαναφορά δεδομένων αντίγραφου ασφαλείας</string>
     <string name="local_backup_window_title">Τοπικά δεδομένα αντίγραφου ασφαλείας</string>
     <string name="local_restore_window_title">Τοπική επαναφορά</string>
     <string name="account_login">Σύνδεση</string>
     <string name="miliao_account_login">Σύνδεση με Mi Talk</string>
-    <string name="miliao_account_guide">Χρήση του Mi Λογαριασμού σας για σύνδεση στο Mi Cloud, MIUI Κατάστημα Θεμάτων, και άλλες Mi υπηρεσίες, από οπουδήποτε.</string>
+    <string name="miliao_account_guide">Χρήση του Mi Λογαριασμού σας για σύνδεση στο Xiaomi Cloud, MIUI Κατάστημα Θεμάτων, και άλλες Mi υπηρεσίες, από οπουδήποτε.</string>
     <string name="auto_backup">Προγραμματισμός δημιουργίας αντίγραφου ασφαλείας</string>
     <string name="contact_title">Επαφές</string>
     <string name="call_title">Ιστορικό κλήσεων</string>
@@ -115,7 +118,7 @@
     <string name="sc_network_unavailable">Ελέγξτε την σύνδεσή σας και προσπαθήστε ξανά.</string>
     <string name="sc_bad_request">Μη έγκυρο αίτημα</string>
     <string name="sc_unaccess_password_file">Αδυναμία εύρεσης κωδικού Wi-Fi</string>
-    <string name="sc_service_unavailable">Το Mi Cloud δεν είναι διαθέσιμο</string>
+    <string name="sc_service_unavailable">Το Xiaomi Cloud δεν είναι διαθέσιμο</string>
     <string name="sc_unauthorized">Συνδεθείτε ξανά</string>
     <string name="sc_request_timeout">Το αίτημα διακόπηκε</string>
     <string name="sc_precondition_failed">Πρέπει να προσθέστε ένα email στο Mi Λογαριασμό σας πρώτα.</string>
@@ -173,7 +176,7 @@
     <string name="deselect_all">Αποεπιλογή όλων</string>
     <string name="reverse_all">Εκκαθάριση όλων</string>
     <string name="refresh">Ανανέωση</string>
-    <string name="cloud_item_info_summary">" (Τοπικά: %1$s | Mi Cloud: %2$s)"</string>
+    <string name="cloud_item_info_summary">(Τοπικά: %1$s | Xiaomi Cloud: %2$s)</string>
     <string name="cloud_restore_guide">Για επαναφορά των δεδομένων χρήστη του %s, πατήστε Επαναφορά</string>
     <string name="import_from_xiaomi_account_hint1">"1.\u0009Κατεβάστε την εφαρμογή Mi Talk και συνδεθείτε.
 \u0009http://www.miliao.com
@@ -227,6 +230,7 @@
     <string name="restore_backup">Επαναφορά</string>
     <string name="enable_encrypt_description">Κρυπτογράφηση</string>
     <string name="disable_encrypt_description">Μη κρυπτογραφημένο</string>
+    <string name="digit_percent">%</string>
     <string name="state_waiting">Περιμένετε μια στιγμή…</string>
     <string name="state_mounting">Γίνεται πρόσβαση στον χώρο αποθήκευσης του router…</string>
     <string name="abort_backup_confirm">Η δημιουργία αντίγραφου ασφαλείας δεν ολοκληρώθηκε. Διακοπή οπωσδήποτε;</string>
@@ -297,7 +301,7 @@
 Κρατήστε τις συσκευές την μία κοντά στην άλλη."</string>
     <string name="trans_receiver_time_remained">"%s απομένουν.
 Μην απενεργοποιήστε το σημείο πρόσβασης Wi-Fi.
-Κρατήστε τις συσκευές την μία κοντά στην άλλη."</string>
+Διατηρήστε τις συσκευές την μία κοντά στην άλλη."</string>
     <string name="trans_time_spent">Χρόνος που χρειάστηκε: %s</string>
     <string name="trans_restoring_no_items">Γίνεται λήψη πληροφοριών…</string>
     <string name="trans_detail_category_sysdata">Δεδομένα συστήματος (όπως μηνύματα, επαφές, και ιστορικό κλήσεων)</string>
@@ -313,9 +317,7 @@
     <string name="trans_detail_item_app_data_too_large_tip">Φαίνεται πως το αντικείμενο είναι πολύ μεγάλο για μεταφορά.</string>
     <string name="trans_detail_item_app_data_skip_data">Αδυναμία μεταφοράς δεδομένων</string>
     <string name="trans_detail_item_app_data_selected_tip">Επιλέχτηκαν αντίστοιχες εφαρμογές επίσης.</string>
-    <string name="trans_detail_list_footer">"1. Μπορείτε να επιλέξετε ατομικές εφαρμογές τις οποίες θέλετε να μεταφέρετε.
-2. Εάν επιλέξετε δεδομένα εφαρμογών, οι σχετικές εφαρμογές θα επιλεχθούν επίσης.
-3. Τα δεδομένα εφαρμογών του WeChat και του QQ ίσως δεν μεταφερθούν λόγω ζητημάτων συμβατότητας. Μπορείτε να δοκιμάσετε λειτουργίες μεταφοράς εντός της εφαρμογής."</string>
+    <string name="trans_detail_list_footer">1. Μπορείτε να επιλέξετε ατομικές εφαρμογές τις οποίες θέλετε να μεταφέρετε. 2. Εάν επιλέξετε δεδομένα εφαρμογών, οι σχετικές εφαρμογές θα επιλεχθούν επίσης. 3. Τα δεδομένα εφαρμογών του WeChat και του QQ ίσως δεν μεταφερθούν λόγω ζητημάτων συμβατότητας. Μπορείτε να δοκιμάσετε λειτουργίες μεταφοράς εντός της εφαρμογής.</string>
     <string name="trans_detail_page_tip">Όσο περισσότερα αντικείμενα επιλέξετε τόσο περισσότερο θα διαρκέσει η μεταφορά.</string>
     <string name="trans_detail_sys_data_list_title">Εφαρμογές συστήματος</string>
     <string name="trans_detail_app_data_list_title">Δεδομένα εφαρμογής</string>
@@ -375,9 +377,7 @@
     <string name="trans_wait_trans_data">"Έγινε σύνδεση στην παλιά συσκευή.
 Αναμονή για μεταφορά…"</string>
     <string name="trans_select_data">Επιλογή αντικειμένων για αποστολή</string>
-    <string name="trans_select_data_tips">"Επιλέχθηκαν αντικείμενα για μεταφορά.
-Παρόμοια αντικείμενα στην καινούρια συσκευή θα αντικατασταθούν.
-(Το μέγεθος των μεταφερθέντων αντικειμένων που βλέπετε τώρα είναι μία κατά προσέγγιση εκτίμηση.)"</string>
+    <string name="trans_select_data_tips">Επιλέχθηκαν αντικείμενα για μεταφορά. Παρόμοια αντικείμενα στην καινούρια συσκευή θα αντικατασταθούν. (Το μέγεθος των μεταφερθέντων αντικειμένων που βλέπετε τώρα είναι μία κατά προσέγγιση εκτίμηση.)</string>
     <string name="trans_select_data_no_space">"Δεν υπάρχει επαρκής χώρος αποθήκευσης στην νέα συσκευή (%s διαθέσιμα).
 Ελευθερώστε χώρο αποθήκευσης ή μεταφέρετε μόνο σημαντικά αντικείμενα."</string>
     <string name="trans_select_data_too_large">"Επιλέξατε πάρα πολλά αντικείμενα για μεταφορά.
@@ -394,7 +394,7 @@
     <string name="button_clean_garbage">Ελευθερώστε χώρο</string>
     <string name="button_quit">Έξοδος</string>
     <string name="soft_ap_creating">Γίνεται δημιουργία σημείου πρόσβασης…</string>
-    <string name="wait_link">Ανοίξτε τον Μετακινητή Mi στην παλιά συσκευή, πατήστε \"Είμαι αποστολέας\" και επιλέξτε ένα σημείο πρόσβασης να συνδεθείτε. Μην κλείσετε τη σελίδα πριν γίνει η σύνδεση.</string>
+    <string name="wait_link">Ανοίξτε τον Μετακινητή Mi στην παλιά συσκευή, πατήστε Είμαι αποστολέας και επιλέξτε ένα σημείο πρόσβασης να συνδεθείτε. Μην κλείσετε τη σελίδα πριν γίνει η σύνδεση.</string>
     <string name="old_way">Μπορείτε επίσης να αναπαράγετε ένα κωδικό QR στην καινούργια συσκευή σας και να το σαρώσετε χρησιμοποιώντας τη παλιά.</string>
     <string name="soft_ap_create_failed">Αδυναμία δημιουργίας σημείου πρόσβασης</string>
     <string name="scan_soft_ap_label">Σύνδεση στην παλιά συσκευή</string>
@@ -436,12 +436,12 @@
     <string name="trans_intro_desc_1">Σε ένα Mi τηλέφωνο, συνδεθείτε στο Wi-Fi και πατήστε \"Είμαι παραλήπτης\". Επιλέξτε την συσκευή iOS σας, συνδεθείτε στο iCloud, και μεταφορτώστε δεδομένα.</string>
     <string name="trans_intro_question_2">%d. Πως να χρησιμοποιήσω Mi Mover για την μετακίνηση δεδομένων από συσκευή Android;</string>
     <string name="trans_intro_title_new">Στο νέο τηλέφωνο:</string>
-    <string name="trans_intro_desc_new">Πατήστε \"Είμαι παραλήπτης\". Ένας QR κωδικός θα εμφανιστεί.</string>
+    <string name="trans_intro_desc_new">Πατήστε Είμαι παραλήπτης. Ένας QR κωδικός θα εμφανιστεί.</string>
     <string name="trans_intro_title_old">Στο παλιό τηλέφωνο:</string>
     <string name="trans_intro_desc_old">Πατήστε \"Είμαι αποστολέας\". Σαρώστε τον QR κωδικό στο νέο τηλέφωνο, περιμένετε μέχρι το Mi Mover δείξει ποια αρχεία θα σταλούν, και πατήστε \"Αποστολή\".</string>
     <string name="trans_intro_desc_old_market">Πατήστε \"Έναρξη\". Σαρώστε τον QR κωδικό στο νέο τηλέφωνο, περιμένετε μέχρι το Mi Mover δείξει ποια αρχεία θα σταλούν, και πατήστε \"Αποστολή\".</string>
     <string name="trans_intro_question_10">%d. Δεν μπορείτε να εντοπίσετε το σημείο πρόσβασης στην παλιά συσκευή;</string>
-    <string name="trans_intro_desc_10">Πατήστε \"Σύνδεση μέσω κωδικού QR\" στη νέα συσκευή και σαρώστε τον κωδικό QR για δημιουργία σύνδεσης.</string>
+    <string name="trans_intro_desc_10">Πατήστε Σύνδεση μέσω κωδικού QR στη νέα συσκευή και σαρώστε τον κωδικό QR για δημιουργία σύνδεσης.</string>
     <string name="trans_intro_question_3">%d. Τι πρέπει να κάνω εάν το Mi Mover κολλήσει σε κάποιο βήμα;</string>
     <string name="trans_intro_desc_3">Ακυρώστε την μεταφορά, εξέλθετε από το Mi Mover, και ξεκινήστε ξανά. Διπλότυπα αρχεία θα αντικατασταθούν κατά την νέα μεταφορά.</string>
     <string name="trans_intro_question_4">%d. Γιατί δεν μπορώ να χρησιμοποιήσω Wi-Fi κατά την διάρκεια μεταφορών;</string>
@@ -459,7 +459,7 @@
     <string name="trans_intro_title_account">Λογαριασμοί και κωδικοί:</string>
     <string name="trans_intro_desc_account">Πρέπει να συνδεθείτε ξανά στους λογαριασμούς σας (π.χ., Mi Λογαριασμός, Exchange, Google, κλπ.) σε μία νέα συσκευή για λόγους ασφαλείας.</string>
     <string name="trans_intro_title_private">Κρυφό άλμπουμ:</string>
-    <string name="trans_intro_desc_private">Αδυναμία πρόσβασης φωτογραφιών κρυφού άλμπουμ από το Mi Mover επειδή είναι κρυπτογραφημένες. Μπορείτε να επαναφέρετε τις φωτογραφίες αυτές από το Mi Cloud σε μία νέα συσκευή.</string>
+    <string name="trans_intro_desc_private">Αδυναμία πρόσβασης στις φωτογραφίες κρυφού άλμπουμ από το Mi Mover επειδή είναι κρυπτογραφημένες. Μπορείτε να επαναφέρετε τις φωτογραφίες αυτές από το Xiaomi Cloud σε μια νέα συσκευή.</string>
     <string name="trans_intro_title_multiuser">Δεδομένα Δεύτερου χώρου:</string>
     <string name="trans_intro_desc_multiuser">Το Mi Mover δεν έχει δυνατότητα πρόσβασης σε αντικείμενα Δεύτερου χώρου. Μετακινήστε αντικείμενα στον Πρώτο χώρο και ξεκινήστε το Mi Mover από εκεί.</string>
     <string name="trans_intro_title_multiapp">Δεδομένα διπλότυπων εφαρμογών:</string>
@@ -539,7 +539,7 @@ https://appleid.apple.com/#!&amp;page=signin για κλείσιμο"</string>
     <string name="notif_icloud_import_title">Εισαγωγή δεδομένων από iCloud</string>
     <string name="notif_icloud_loaded_summary">Αναμονή…</string>
     <string name="notif_icloud_canceling_summary">Γίνεται ακύρωση…</string>
-    <string name="notif_icloud_canceled_summary">Έγινε ακύρωση</string>
+    <string name="notif_icloud_canceled_summary">Ακυρώθηκε</string>
     <string name="notif_icloud_saved_summary">Επιτυχής εισαγωγή</string>
     <string name="notif_icloud_need_wifi_summary">Αναμονή για Wi-Fi</string>
     <string name="hsa_title">Διπλή επαλήθευση</string>
@@ -551,8 +551,7 @@ https://appleid.apple.com/#!&amp;page=signin για κλείσιμο"</string>
     <string name="hsa_sending">Γίνεται αποστολή…</string>
     <string name="hsa_send_failed">Αδυναμία αποστολής κωδικού επαλήθευσης. Περιμένετε ένα δύο λεπτά και προσπαθήστε ξανά.</string>
     <string name="hsa_tip_title">Συμβουλές:</string>
-    <string name="hsa_tip_message">"1. Ένα μήνυμα με τον κωδικό επαλήθευσης έχει σταλεί στην συσκευή που συσχετίζεται με το Apple ID σας.
-2. Απενεργοποιήστε την διπλή επαλήθευση εάν ο κωδικός επαλήθευσης δεν λειτουργεί."</string>
+    <string name="hsa_tip_message">1. Εάν δεν μπορείτε να λάβετε κωδικό επαλήθευσης, ελέγξτε εάν έχετε ήδη συνδεθεί στο iCloud στη συσκευή σας Apple. 2. Εάν η εισαγωγή του κωδικού επαλήθευσης δεν βοηθά, απενεργοποιήστε τη διπλή επαλήθευση.</string>
     <string name="hsa_tip_message_with_device">"1. Ένα μήνυμα με τον κωδικό επαλήθευσης έχει σταλεί σε \"%s\" που συσχετίζεται με το Apple ID σας.
 2. Απενεργοποιήστε την διπλή επαλήθευση εάν ο κωδικός επαλήθευσης δεν λειτουργεί."</string>
     <string name="hsa_tip_message_shutdown_hsa">Πως να απενεργοποιήστε την διπλή επαλήθευση</string>
@@ -566,6 +565,7 @@ https://appleid.apple.com/#!&amp;page=signin για κλείσιμο"</string>
 πρέπει πρώτα να δημιουργήστε ένα αντίγραφο ασφαλείας για το iCloud."</string>
     <string name="list_footer_tip_title">Συμβουλές:</string>
     <string name="import_tip_summary">Λόγω προβλήματα συμβατότητας, μπορείτε να μεταφέρετε μόνο ορισμένα δεδομένα από συσκευές iOS. Βεβαιωθείτε πως έχετε δημιουργήσει ένα αντίγραφο ασφαλείας για το iCloud πριν την μεταφορά.</string>
+    <string name="import_tip_message">@string/icloud_how_to_backup_tip_steps</string>
     <string name="button_import">Εισαγωγή</string>
     <string name="select_empty">Επιλογή αντικειμένων για εισαγωγή</string>
     <string name="select_item_summary_wait">Αναμονή…</string>
@@ -646,9 +646,10 @@ https://appleid.apple.com/#!&amp;page=signin για κλείσιμο"</string>
     <string name="dialog_backup_password_cancel">Ακύρωση</string>
     <string name="dialog_backup_password_to_settings">Ρυθμίσεις</string>
     <string name="user_feedback">Σχόλια</string>
-    <string name="iCloud_ID_verification_tip">Εισαγάγετε τον Κωδικό επαλήθευσης SMS που έχει αποσταλεί στον αριθμό τηλεφώνου που είναι συνδεδεμένος με το Apple ID σας. Αγνοήστε τον αναδυόμενο κωδικό που εμφανίζεται στην οθόνη του iPhone σας.</string>
+    <string name="iCloud_ID_verification_tip">Αγγίξτε Αποδοχή στη συσκευή σας Apple για να εμφανιστεί ο κωδικός επαλήθευσης. Εισαγάγετε τον κωδικό επαλήθευσης εδώ.</string>
     <string name="trans_complete_restoring">Επιτυχία μεταφοράς. Γίνεται επαναφορά δεδομένων εφαρμογής…</string>
     <string name="dialog_backup_password_auto_backup_tips">Δεν είναι δυνατή η αυτόματη δημιουργία αντιγράφων ασφαλείας αντικειμένων όταν ο εφεδρικός κωδικός πρόσβασης είναι ενεργοποιημένος. Απενεργοποιήστε πρώτα τον εφεδρικό κωδικό πρόσβασης.</string>
     <string name="dialog_backup_password_change_device_restore_tips">Δεν είναι δυνατή η χρήση Μετακινητή Mi όταν ο εφεδρικός κωδικός πρόσβασης είναι ενεργοποιημένος. Απενεργοποιήστε πρώτα τον εφεδρικό κωδικό πρόσβασης.</string>
     <string name="dialog_backup_password_restore_tips">Δεν είναι δυνατή η επαναφορά αντικειμένων όταν ο εφεδρικός κωδικός πρόσβασης είναι ενεργοποιημένος. Απενεργοποιήστε πρώτα τον εφεδρικό κωδικό πρόσβασης.</string>
+    <string name="trans_cancel_dialog_survey_title">Γιατί διακόψατε τη μεταφορά;</string>
 </resources>

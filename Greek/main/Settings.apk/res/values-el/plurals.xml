@@ -168,6 +168,14 @@
         <item quantity="other">Πρέπει να περιέχει τουλάχιστον %d κεφαλαία γράμματα</item>
         <item quantity="one">Πρέπει να περιέχει τουλάχιστον 1 κεφαλαίο γράμμα</item>
     </plurals>
+    <plurals name="lockpassword_password_too_long">
+        <item quantity="other">Μπορείτε να εισαγάγετε μέχρι %d χαρακτήρες</item>
+        <item quantity="one">Μπορείτε να εισαγάγετε μέχρι %d χαρακτήρα</item>
+    </plurals>
+    <plurals name="lockpassword_password_too_short">
+        <item quantity="other">Εισαγάγετε τουλάχιστον %d χαρακτήρες</item>
+        <item quantity="one">Εισαγάγετε τουλάχιστον %d χαρακτήρα</item>
+    </plurals>
     <plurals name="lockpassword_pin_fixed_length">
         <item quantity="other">Το PIN πρέπει να έχει %d ψηφία</item>
         <item quantity="one">Το PIN πρέπει να έχει %d ψηφίο</item>

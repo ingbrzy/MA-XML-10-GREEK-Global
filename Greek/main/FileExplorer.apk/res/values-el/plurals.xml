@@ -44,16 +44,4 @@
         <item quantity="other">" %1$d  επιλέχθηκαν"</item>
         <item quantity="one">%1$d επιλέχθηκε</item>
     </plurals>
-    <plurals name="search_head_hint_app">
-        <item quantity="other">Εφαρμογή \"%1$s\" σχετικά αρχεία (%2$d αντικείμενα)</item>
-        <item quantity="one">Εφαρμογή \"%1$s\" σχετικά αρχεία (%2$d αντικείμενο)</item>
-    </plurals>
-    <plurals name="search_head_hint_file">
-        <item quantity="other">\"%1$s\" σχετικά αρχεία (%2$d αντικείμενα)</item>
-        <item quantity="one">\"%1$s\" σχετικά αρχεία (%2$d αντικείμενο)</item>
-    </plurals>
-    <plurals name="search_head_hint_tag">
-        <item quantity="other">Εφαρμογή \"%1$s\" σχετικά αρχεία (%2$d αντικείμενα)</item>
-        <item quantity="one">Εφαρμογή \"%1$s\" σχετικά αρχεία (%2$d αντικείμενο)</item>
-    </plurals>
 </resources>

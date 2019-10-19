@@ -29,8 +29,6 @@
     <string name="abc_toolbar_collapse_description">Σύμπτυξη</string>
     <string name="about_app_name">Σχετικά με τα Θέματα</string>
     <string name="about_version_update">Τι νέο υπάρχει</string>
-    <string name="accessibility_setting_hint">"Πατήστε το κουμπί στην επάνω δεξιά γωνία για να ενεργοποιήσετε αυτή την υπηρεσία.
-Τα θέματα θα εντοπίσουν τις εφαρμογές που χρησιμοποιείτε και θα εμφανίζουν διαφανείς ταπετσαρίες στις εφαρμογές της επιλογής σας."</string>
     <string name="accessibiliy_description_content_account">Προφίλ</string>
     <string name="accessibiliy_description_content_ad">Διαφήμιση</string>
     <string name="accessibiliy_description_content_add_resource">Προσθήκη αντικειμένων</string>
@@ -70,6 +68,11 @@
     <string name="audio_duration_minutes_format">%1$d λεπτά</string>
     <string name="audio_duration_seconds_format">%1$d δευτερόλεπτα</string>
     <string name="audition_ringtone">Αναπαραγωγή</string>
+    <string name="author_attention">Follow</string>
+    <string name="author_attention_success">Followed successfully</string>
+    <string name="author_dialog_message">Unfollow this account now?</string>
+    <string name="author_dynamic">Status</string>
+    <string name="author_dynamic_no_resource">"Couldn't find results"</string>
     <string name="automatically_update_using_theme_tips">Αυτόματη ενημέρωση την επόμενη φορά</string>
     <string name="backup_theme_dialog_message">Δημιουργία αντίγραφου ασφαλείας για τρέχον θέμα;</string>
     <string name="backup_theme_dialog_ok">Δημιουργία</string>
@@ -103,6 +106,7 @@
     <string name="component_title_wallpaper">Ταπετσαρίες</string>
     <string name="count_down_tip">%dδ απομένουν</string>
     <string name="current_using_desktop_wallpaper_text">Αρχική οθόνη</string>
+    <string name="current_using_float_wallpaper_text">Διάφανο</string>
     <string name="current_using_lockscreen_wallpaper_text">Οθόνη κλειδώματος</string>
     <string name="current_version">Τρέχουσα έκδοση: %1$s</string>
     <string name="current_version_incompatible">Μη συμβατό</string>
@@ -117,6 +121,9 @@
     <string name="description_version_szie">Έκδοση: %1$s Μέγεθος: %2$s</string>
     <string name="desktop_effects">Εφέ Αρχικής οθόνης</string>
     <string name="desktop_wallpaper">Αρχική οθόνη</string>
+    <string name="detail_author_attention_head">Follow some of our most outstanding designers</string>
+    <string name="detail_author_fans">"Followers: "</string>
+    <string name="detail_author_works">"Items: "</string>
     <string name="detail_recommend_title">Μπορεί να σας αρέσουν αυτά</string>
     <string name="dev_options">Επιλογές προγραμματιστών</string>
     <string name="dev_options_summary">Δικτυακοί πηγές</string>
@@ -124,9 +131,9 @@
     <string name="download_preview_failed">Αδυναμία φόρτωσης προεπισκόπησης</string>
     <string name="download_success">Η λήψη ολοκληρώθηκε</string>
     <string name="dynamic_video_wallpaper">24ωρη ταπετσαρία</string>
-    <string name="enable_accessibility">Απαιτούνται άδειες πρόσβασης</string>
-    <string name="enable_accessibility_hint">Μπορείτε να ενεργοποιήσετε την υπηρεσία αυτή στα Θέματα. Μετά από αυτό, θα είστε σε θέση να επιλέξετε ποιες εφαρμογές μπορούν να δουλέψουν με διαφανείς ταπετσαρίες.</string>
+    <string name="enable_all_free_mode">Redeem</string>
     <string name="enable_transparent_wallpaper">Χρήση διαφανούς ταπετσαρίας</string>
+    <string name="enabling_all_free_mode">Redeeming…</string>
     <string name="exit_extreme_mode_dialog_agree">Συμφωνώ</string>
     <string name="exit_extreme_mode_dialog_cancel">Ακύρωση</string>
     <string name="exit_extreme_mode_dialog_title">Απενεργοποίηση Ακραίας Λειτουργίας</string>
@@ -149,7 +156,9 @@
     <string name="exo_download_notification_channel_name">Λήψεις</string>
     <string name="exo_download_removing">Κατάργηση λήψεων</string>
     <string name="exo_item_list">%1$s, %2$s</string>
+    <string name="exo_track_bitrate">%1$.2f Mbps</string>
     <string name="exo_track_mono">Μονοφωνικό</string>
+    <string name="exo_track_resolution">%1$d × %2$d</string>
     <string name="exo_track_selection_auto">Αυτόματο</string>
     <string name="exo_track_selection_none">Κανένα</string>
     <string name="exo_track_selection_title_audio">Ήχος</string>
@@ -201,11 +210,18 @@
     <string name="gift_use_confirmation_dlg_title">Αποστολή δώρου;</string>
     <string name="gift_use_fail_dlg_title">Κάτι πήγε στραβά</string>
     <string name="gift_used">Στάλθηκε</string>
-    <string name="go_accessibility_setting">Επιλογή</string>
     <string name="goto_purchased_list">Προβολή ιστορικού αγορών</string>
     <string name="goto_wechat">Έγινε αντιγραφή του λογαριασμού WeChat \"%1$s\" στα πρόχειρα. Άνοιγμα WeChat τώρα;</string>
-    <string name="hide_free">Απόκρυψη δωρεάν %1$s</string>
+    <string name="has_mamual_hide_font">Κρυφά</string>
+    <string name="has_mamual_hide_theme">Κρυφά</string>
+    <string name="has_mamual_hide_wallpaper">Κρυφά</string>
+    <string name="hide_free_font">Απόκρυψη δωρεάν φόντων</string>
+    <string name="hide_free_theme">Απόκρυψη δωρεάν θεμάτων</string>
+    <string name="hide_free_wallpaper">Απόκρυψη δωρεάν ταπετσαριών</string>
     <string name="hide_incompatible">Απόκρυψη μη συμβατών %1$s</string>
+    <string name="hide_mamual_hide_font">Απόκρυψη κρυφών φόντων</string>
+    <string name="hide_mamual_hide_theme">Απόκρυψη κρυφών θεμάτων</string>
+    <string name="hide_mamual_hide_wallpaper">Απόκρυψη κρυφών ταπετσαριών</string>
     <string name="home_apply_failured">Αδυναμία ορισμού ταπετσαρίας Αρχικής οθόνης</string>
     <string name="home_apply_success">Ταπετσαρία Αρχική οθόνης εφαρμόστηκε</string>
     <string name="in_the_end">Δεν υπάρχουν περισσότερα αντικείμενα για προβολή</string>
@@ -226,10 +242,13 @@
     <string name="incompatible_dialog_ok">Κατάλαβα</string>
     <string name="incompatible_dialog_title">Προβλήματα συμβατότητας</string>
     <string name="is_setting_wallpaper_message">Γίνεται ορισμός ταπετσαρίας…</string>
+    <string name="item_resource_audio_divider">│</string>
     <string name="item_resource_audio_optional_alarm_ring">Ξυπνητήρια</string>
     <string name="item_resource_audio_optional_color_ring">Τόνος επιστροφής κλήσης</string>
     <string name="item_resource_audio_optional_notification_ring">Ειδοποιήσεις</string>
     <string name="item_resource_audio_optional_phone_ring">Ήχος κλήσης</string>
+    <string name="kuyin_user_agreement_content">Προσαρμοσμένες συνδρομές ήχων κλήσεων παρέχονται από το iFLYTEK. Πρέπει να συμφωνήσετε σε %s πριν να τις χρησιμοποιήσετε. Συμφωνείτε;</string>
+    <string name="kuyin_user_agreement_content_href">Πολιτική Απορρήτου iFlytek</string>
     <string name="lab">Εργαστήριο Θεμάτων</string>
     <string name="like_list">Αντικείμενα που μου άρεσαν</string>
     <string name="live_wallpaper">Ζωντανή ταπετσαρία</string>
@@ -250,7 +269,7 @@
     <string name="lockscreen_magazine_title">Ταπετσαρία Καρουζέλ</string>
     <string name="lockscreen_wallpaper">Οθόνη κλειδώματος</string>
     <string name="lockstyle_personal_settings">Προσαρμογή</string>
-    <string name="loop_wallpaper_is_here">Η παρουσίαση διαφανειών ταπετσαριών είναι τώρα διαθέσιμη</string>
+    <string name="long_click_can_hide_resource">Πατήστε παρατεταμένα για να κάνουν απόκρυψη</string>
     <string name="mi_wallpaper">MIUI ταπετσαρία</string>
     <string name="miuishare_account_activate_confirmation">Ενεργοποίηση Mi Λογαριασμού</string>
     <string name="miuishare_account_activate_ok">Ενεργοποίηση</string>
@@ -279,6 +298,7 @@
     <string name="mix_icons_option_des">Εικονίδια αρχικής οθόνης. Καταργήστε την επιλογή αυτού του πλαισίου για να χρησιμοποιήσετε προεπιλεγμένες επιλογές.</string>
     <string name="mix_lockscreen_option_des">Ταπετσαρία και ρολόι. Καταργήστε την επιλογή αυτού του πλαισίου για να χρησιμοποιήσετε προεπιλεγμένες επιλογές.</string>
     <string name="mix_tip">Ενότητες θεμάτων</string>
+    <string name="more_sub_comment">Εμφάνιση όλων των απαντήσεων (%1$d)></string>
     <string name="multi_sim_mms_ringtone_settings_dialog_message">Αυτός ο ήχος κλήσης θα εφαρμοστεί και στις δύο κάρτες SIM.</string>
     <string name="multi_sim_ringtone_settings_dialog_message">Ο ήχος κλήσης εφαρμόστηκε και στις δύο κάρτες SIM.</string>
     <string name="multi_sim_ringtone_settings_dialog_ok">Κατάλαβα</string>
@@ -316,7 +336,6 @@
     <string name="purchased_list_current">Βελτιστοποιημένα θέματα</string>
     <string name="purchased_list_legacy">Θέματα legacy</string>
     <string name="recently_used">Πρόσφατα σε χρήση</string>
-    <string name="reenable_accessibility">Παρουσιάστηκε ένα σφάλμα. Ξαναπαραχωρήστε άδειες πρόσβασης.</string>
     <string name="refresh_footer_all_loaded">Αυτά για τώρα.</string>
     <string name="refresh_footer_failed">Αδυναμία φόρτωσης πληροφοριών</string>
     <string name="refresh_footer_finish">Επιτυχής φόρτωση</string>
@@ -334,6 +353,7 @@
     <string name="resource_alarm_default">Ξυπνητήρι</string>
     <string name="resource_app_name">Εμφάνιση πηγών</string>
     <string name="resource_apply">Εφαρμογή</string>
+    <string name="resource_apply_trial">Εφαρμογή</string>
     <string name="resource_back">Πίσω</string>
     <string name="resource_buy">Αγορά</string>
     <string name="resource_can_not_selected">Αδυναμία επιλογής %1$s</string>
@@ -404,6 +424,7 @@
     <string name="resource_download">Λήψη</string>
     <string name="resource_download_notification_title_many">Έγινε λήψη %1$s θεμάτων</string>
     <string name="resource_download_notification_title_one">Έγινε λήψη θέματος</string>
+    <string name="resource_download_trial">Προσπαθήστε</string>
     <string name="resource_downloaded_title">Κατεβασμένες πηγές</string>
     <string name="resource_downloading">Γίνεται λήψη</string>
     <string name="resource_exchange">Εξαργύρωση</string>
@@ -434,6 +455,9 @@
     <string name="resource_get_auth_not_official">Τα θέματα από τρίτους δεν είναι συμβατά</string>
     <string name="resource_get_auth_retrieving">Γίνεται λήψη πληροφοριών…</string>
     <string name="resource_has_been_downloaded">Έχετε ήδη κατεβάσει αυτό το θέμα.</string>
+    <string name="resource_hide">Απόκρυψη</string>
+    <string name="resource_hide_fail">Αδυναμία απόκρυψης</string>
+    <string name="resource_hide_succ">Επιτυχής απόκρυψη</string>
     <string name="resource_hint">Προειδοποίηση</string>
     <string name="resource_import_failed">Αδυναμία εισαγωγής</string>
     <string name="resource_import_successful">Ολοκληρώθηκε</string>
@@ -459,6 +483,7 @@
     <string name="resource_pack_price_info">Αρχική τιμή: %1$s</string>
     <string name="resource_pack_warning">Έχετε ήδη αγοράσει %1$d από τα συστατικά αυτού του θέματος. Για αυτό η αγορά των υπόλοιπων συστατικών ξεχωριστά είναι πιο φθηνή επιλογή.</string>
     <string name="resource_present">Δώρο</string>
+    <string name="resource_price_format">(%1$s)</string>
     <string name="resource_price_free">Δωρεάν</string>
     <string name="resource_price_unit">Mi Credits</string>
     <string name="resource_purchase_common_error">Παρουσιάστηκε σφάλμα, προσπαθήστε ξανά</string>
@@ -470,6 +495,13 @@
     <string name="resource_ranking">Δημοφιλή</string>
     <string name="resource_ranking_free">Δωρεάν</string>
     <string name="resource_ranking_purchase">Επί πληρωμή</string>
+    <string name="resource_restore">Επαναφορά</string>
+    <string name="resource_restore_fail">Αδυναμία επαναφοράς</string>
+    <string name="resource_restore_succ">Επιτυχής επαναφορά</string>
+    <string name="resource_ring_ranking_list_divider">-</string>
+    <string name="resource_ring_ranking_list_rank_1">1</string>
+    <string name="resource_ring_ranking_list_rank_2">2</string>
+    <string name="resource_ring_ranking_list_rank_3">3</string>
     <string name="resource_ringtone_default">Ήχοι κλήσης</string>
     <string name="resource_ringtone_playing_error">Σφάλμα</string>
     <string name="resource_ringtone_volume_mute">Έγινε σίγαση κουδουνίσματος</string>
@@ -544,8 +576,14 @@
     <string name="shortcut_message">Προσθήκη συντόμευσης Αρχικής οθόνης!</string>
     <string name="shortcut_show_tip">Να μην εμφανιστεί ξανά</string>
     <string name="shortcut_title">Σας αρέσουν οι ταπετσαρίες μας;</string>
-    <string name="show_free">Show free %1$s</string>
+    <string name="show_free_font">Εμφάνιση δωρεάν φόντων</string>
+    <string name="show_free_theme">Εμφάνιση δωρεάν θεμάτων</string>
+    <string name="show_free_wallpaper">Εμφάνιση δωρεάν ταπετσαριών</string>
     <string name="show_incompatible">Εμφάνιση μη συμβατών %1$s</string>
+    <string name="show_mamual_hide_font">Εμφάνιση κρυφών φόντων</string>
+    <string name="show_mamual_hide_theme">Εμφάνιση κρυφών θεμάτων</string>
+    <string name="show_mamual_hide_wallpaper">Εμφάνιση κρυφών ταπετσαριών</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
     <string name="swipe_find_more">Σύρετε προς τα επάνω για προβολή περισσότερων</string>
     <string name="system_precust">Προ-εγκατεστημένα</string>
     <string name="the_picture_is_not_support">Αυτή η εικόνα δεν υποστηρίζεται</string>
@@ -565,6 +603,13 @@
     <string name="theme_changed_failed_message">Αδυναμία εφαρμογής θέματος</string>
     <string name="theme_changed_message">Το θέμα έχει εφαρμοστεί</string>
     <string name="theme_changing_dialog_title">"Γίνεται εφαρμογή "</string>
+    <string name="theme_comment_detail_no_more">Αυτά προς το παρόν</string>
+    <string name="theme_comment_detail_sub_comment_title">Όλες οι απαντήσεις</string>
+    <string name="theme_comment_detail_title">Λεπτομέρειες</string>
+    <string name="theme_comment_dialog_cancel">Όχι τώρα</string>
+    <string name="theme_comment_dialog_message">Σας αρέσει το θέμα που χρησιμοποιείτε τώρα; Θα εκτιμούσαμε τα σχόλιά σας!</string>
+    <string name="theme_comment_dialog_ok">Κριτική</string>
+    <string name="theme_comment_sub_comment_bar_hint">Μοιραστείτε τις ιδέες σας με την κοινότητά μας</string>
     <string name="theme_component_title_alarm">Ξυπνητήρι</string>
     <string name="theme_component_title_alarmstyle">Στυλ ξυπνητηριού</string>
     <string name="theme_component_title_all">Θέματα</string>
@@ -608,6 +653,7 @@
     <string name="theme_is_external_priority_storage">Αποθήκευση σε κάρτα SD</string>
     <string name="theme_is_external_priority_storage_summary">Η εφαρμογή Θέματα θα κάνει αμέσως επανεκκίνηση για την εφαρμογή αυτής της ρύθμισης.</string>
     <string name="theme_multiple_button_title_customize">Προσαρμογή</string>
+    <string name="theme_name">%1$s</string>
     <string name="theme_no">Όχι</string>
     <string name="theme_purchased_list_empty">Δεν έχετε αγοράσει θέματα.</string>
     <string name="theme_purchased_non_local">Online</string>
@@ -651,6 +697,7 @@
     <string name="transparent_wallpaper_filter_setting">Εξατομικευμένες εφαρμογές</string>
     <string name="transparent_wallpaper_guide">Μετάβαση στα Θέματα</string>
     <string name="transparent_wallpaper_guide_tip">Μπορείτε να επιλέξετε μια διαφανή ταπετσαρία στα Θέματα τώρα.</string>
+    <string name="transparent_wallpaper_is_running_in_background">Η \"διαφανής ταπετσαρία\" τρέχει στο παρασκήνιο</string>
     <string name="transparent_wallpaper_pref_summary">Ταπετσαρίες με μειωμένη αδιαφάνεια παρασκηνίου</string>
     <string name="transparent_wallpaper_white_wallpaper">Κάντε το φόντο λευκό</string>
     <string name="transparent_wallpaper_white_wallpaper_failed">Αδυναμία μετατροπής φόντου σε λευκό</string>
@@ -666,6 +713,7 @@
     <string name="uid_change_dialog_message">Διαγράψατε ενημερώσεις. Επανεκκινήστε την συσκευή για δυνατότητα χρήσης θεμάτων.</string>
     <string name="uid_change_dialog_ok">Κατάλαβα</string>
     <string name="uid_change_dialog_title">Επανεκκίνηση συσκευής</string>
+    <string name="unable_connect_network">Αδυναμία σύνδεσης στο δίκτυο</string>
     <string name="up_to_the_end">Αυτά για την ώρα. Επιστρέψτε αργότερα.</string>
     <string name="update_btn">ΕΝΗΜΕΡΩΣΗ ΤΩΡΑ</string>
     <string name="update_check">Έλεγχος για ενημερώσεις</string>
@@ -694,7 +742,9 @@
     <string name="wallpaper_apply">Εφαρμογή</string>
     <string name="wallpaper_crop">Αποκοπή</string>
     <string name="wallpaper_decoded_error">Αδυναμία φόρτωσης ταπετσαρίας</string>
+    <string name="wallpaper_delete_all">Διαγραφή επιλεγμένων αντικειμένων;</string>
     <string name="wallpaper_detail_load_page_no_network">Συνδεθείτε στο δίκτυο και προσπαθήστε ξανά.</string>
+    <string name="wallpaper_dynamic">Δυναμικό</string>
     <string name="wallpaper_loop_add_success">Επιτυχία προσθήκης</string>
     <string name="wallpaper_loop_add_to_loop_desk_wallpaper">Προσθήκη στην παρουσίαση Αρχικής οθόνης</string>
     <string name="wallpaper_loop_add_to_loop_lock_wallpaper">Προσθήκη στην παρουσίαση Οθόνης κλειδώματος</string>
@@ -717,6 +767,11 @@
     <string name="wallpaper_loop_title">Παρουσίαση ταπετσαριών</string>
     <string name="wallpaper_loop_title_desk_wallpaper">Παρουσίαση ταπετσαριών στην Αρχική οθόνη</string>
     <string name="wallpaper_loop_title_lock_walpaper">Παρουσίαση ταπετσαριών στην Οθόνη κλειδώματος</string>
+    <string name="wallpaper_no_favorite">Δεν υπάρχουν αντικείμενα εδώ ακόμα.</string>
+    <string name="wallpaper_no_record">Δεν υπάρχουν αντικείμενα εδώ ακόμα.</string>
+    <string name="wallpaper_online">Ταπετσαρίες σε σύνδεση</string>
+    <string name="wallpaper_online_no_more">Αυτά προς το παρόν</string>
+    <string name="wallpaper_online_tip">Συνδεθείτε στο δίκτυο για προβολή περισσότερων αντικειμένων</string>
     <string name="wallpaper_scroll_type_tips">Επιλογές ταπετσαρίας</string>
     <string name="wallpaper_set_as_both">Ορισμός και για τα δύο</string>
     <string name="wallpaper_set_as_desktop">Ορισμός ως Αρχική οθόνη</string>
@@ -727,6 +782,7 @@
     <string name="wallpaper_settings_no_history">Δεν υπάρχει ιστορικό</string>
     <string name="wallpaper_settings_pad_more_page_title">Περισσότερες ταπετσαρίες</string>
     <string name="wallpaper_settings_page_title">Ταπετσαρία</string>
+    <string name="wallpaper_static">Στατικό</string>
     <string name="wechat_not_found">Εγκαταστήστε πρώτα το WeChat</string>
     <string name="weibo">Weibo</string>
     <string name="wifi_check_cancel">Ακύρωση</string>
