@@ -42,5 +42,4 @@
     <string name="download_queued">Προστέθηκε στην ουρά λήψης</string>
     <string name="download_running">Γίνεται λήψη</string>
     <string name="download_error">Αδυναμία λήψης</string>
-    <string name="download_running_percent">Γίνεται λήψη %s</string>
 </resources>

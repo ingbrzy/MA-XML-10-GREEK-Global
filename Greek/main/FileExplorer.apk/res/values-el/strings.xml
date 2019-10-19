@@ -161,7 +161,6 @@
     <string name="dialog_type_image">Εικόνες</string>
     <string name="dialog_type_text">Έγγραφα</string>
     <string name="dialog_type_video">Βίντεο</string>
-    <string name="directory_info_divider">"  |  "</string>
     <string name="display_name">Εμφάνιση ονόματος</string>
     <string name="domain">Τομέας</string>
     <string name="download_success">Επιτυχής λήψη</string>
@@ -208,7 +207,6 @@
     <string name="favorite_ringtone">Ήχοι κλήσης</string>
     <string name="favorite_screen_cap">Στιγμιότυπα οθόνης</string>
     <string name="feedback_send_email_body_extra_info">Μην διαγράψετε τις παρακάτω πληροφορίες. Θα μας βοηθήσει στον εντοπισμό του προβλήματος.</string>
-    <string name="fileSizeSuffix">%1$s %2$s</string>
     <string name="file_info_canread">Αναγνώσιμα:</string>
     <string name="file_info_canwrite">Εγγράψιμα: </string>
     <string name="file_info_ishidden">Κρυμμένα: </string>

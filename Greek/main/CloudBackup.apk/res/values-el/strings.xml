@@ -50,8 +50,6 @@
     <string name="self_device_second_space">Δεύτερος χώρος αυτού του τηλεφώνου</string>
     <string name="other_device_main_space">Πρώτος χώρος</string>
     <string name="other_device_second_space">Δεύτερος χώρος</string>
-    <string name="pattern_backup_name_with_home">%1$s (%2$s: %3$s)</string>
-    <string name="pattern_backup_name_without_home">%1$s (%2$s)</string>
     <string name="process_whole_recovery">Γίνεται επαναφορά \"%s\"</string>
     <string name="size_unknown">Άγνωστο μέγεθος</string>
     <string name="recovering">Γίνεται επαναφορά %s</string>
@@ -135,7 +133,6 @@
     <string name="provision_error_connect_msg">Δοκιμάστε το δίκτυο και προσπαθήστε ξανά. Τα αντίγραφα ασφαλείας δεν είναι διαθέσιμα όταν η συσκευή σας είναι εκτός σύνδεσης.</string>
     <string name="provision_error_connect_title">Αδυναμία σύνδεσης</string>
     <string name="loading_user_backup">Φόρτωση αντιγράφων ασφαλείας χρήστη…</string>
-    <string name="loading_progress_num">(%s%%)</string>
     <string name="error_num_placeholder">--</string>
     <string name="doing_calc_backup_data_size">Γίνεται υπολογισμός μεγέθους…</string>
     <string name="authentication_failed">Αδυναμία επιβεβαίωσης λογαριασμού.</string>

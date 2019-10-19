@@ -75,7 +75,6 @@
     <string name="cast_forward">Προώθηση</string>
     <string name="cast_forward_10">Προώθηση 10 δευτερόλεπτα μπροστά</string>
     <string name="cast_forward_30">Προώθηση 30 δευτερόλεπτα μπροστά</string>
-    <string name="cast_intro_overlay_button_text">\@android:string/ok</string>
     <string name="cast_mute">Σίγαση</string>
     <string name="cast_notification_connected_message">Συνδέθηκε με το %1$s</string>
     <string name="cast_notification_connecting_message">Γίνεται σύνδεση με το %1$s</string>
@@ -713,7 +712,6 @@
     <string name="slide_save_message">Δημιουργία βίντεο…</string>
     <string name="sns_sign_in">Άλλοι τρόποι σύνδεσης</string>
     <string name="source">"Πηγή: "</string>
-    <string name="status_bar_notification_info_overflow">999+</string>
     <string name="storage_external_sdcard">Κάρτα SD</string>
     <string name="storage_internal_sdcard">Εσωτερικός χώρος αποθήκευσης</string>
     <string name="submit">Υποβολή</string>
