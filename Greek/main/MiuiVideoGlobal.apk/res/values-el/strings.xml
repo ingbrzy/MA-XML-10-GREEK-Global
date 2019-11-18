@@ -439,7 +439,6 @@
     <string name="not_show">Να μην εμφανιστεί ξανά</string>
     <string name="notify_apk_installed">Επιτυχής λήψη</string>
     <string name="ok">ΟΚ</string>
-    <string name="order_alphabet">Α-Ω</string>
     <string name="order_recently_subscribe">Πρόσφατες συνδρομές</string>
     <string name="order_recently_updated">Πρόσφατες ενημερώσεις</string>
     <string name="ovp_alert_dialog_download_install_task">Γίνεται λήψη HD plug-in…</string>
