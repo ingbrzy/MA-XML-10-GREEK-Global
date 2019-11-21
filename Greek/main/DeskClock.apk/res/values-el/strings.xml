@@ -8,16 +8,7 @@
     <string name="abc_activitychooserview_choose_application">Επιλέξτε κάποια εφαρμογή</string>
     <string name="abc_capital_off">ΑΠΕΝΕΡΓΟΠΟΙΗΣΗ</string>
     <string name="abc_capital_on">ΕΝΕΡΓΟΠΟΙΗΣΗ</string>
-    <string name="abc_menu_alt_shortcut_label">Alt+</string>
-    <string name="abc_menu_ctrl_shortcut_label">Ctrl+</string>
-    <string name="abc_menu_delete_shortcut_label">delete</string>
-    <string name="abc_menu_enter_shortcut_label">enter</string>
-    <string name="abc_menu_function_shortcut_label">Function+</string>
-    <string name="abc_menu_meta_shortcut_label">Meta+</string>
-    <string name="abc_menu_shift_shortcut_label">Shift+</string>
     <string name="abc_menu_space_shortcut_label">διάστημα</string>
-    <string name="abc_menu_sym_shortcut_label">Sym+</string>
-    <string name="abc_prepend_shortcut_label">Menu+</string>
     <string name="abc_search_hint">Αναζήτηση…</string>
     <string name="abc_searchview_description_clear">Διαγραφή ερωτήματος</string>
     <string name="abc_searchview_description_query">Ερώτημα αναζήτησης</string>
@@ -56,7 +47,6 @@
     <string name="app_label">Ρολόι</string>
     <string name="auto_silence_never">Ποτέ</string>
     <string name="auto_silence_title">Αυτόματη-σίγαση</string>
-    <string name="battery_charging_level">%d%%</string>
     <string name="birthday_alarm">Ξυπνητήρι γενεθλίων</string>
     <string name="birthday_alarm_summary">Αναπαραγωγή \"Happy Birthday\" αντί του προεπιλεγμένου ήχου στα γενέθλιά σας</string>
     <string name="cancel">Ακύρωση</string>
@@ -74,7 +64,6 @@
     <string name="content_desc_keep_screen">Πλήκτρο \"Διατήρηση οθόνης ενεργής\"</string>
     <string name="control_set_alarm">Ορισμός ξυπνητηριού</string>
     <string name="control_set_alarm_with_existing">Ορίστηκε ξυπνητήρι: %s</string>
-    <string name="day_concat">", "</string>
     <string name="default_alarm_alert">Προεπιλεγμένος ήχος ξυπνητηριού</string>
     <string name="default_alarm_title">Προεπιλεγμένος ήχος κλήσης</string>
     <string name="default_label">Ξυπνητήρι</string>
@@ -151,13 +140,11 @@
     <string name="life_post_wake_up_item_acumu_day_title">Υπολογισμός ημέρας</string>
     <string name="life_post_wake_up_item_percentage_title">Mi θαυμαστές πίσω σας</string>
     <string name="life_post_wake_up_item_time_title">Ώρα αφύπνισης</string>
-    <string name="life_post_wake_up_percentage_sign">%</string>
     <string name="life_post_wake_up_percentage_title">Mi θαυμαστές πίσω σας</string>
     <string name="life_post_wake_up_time_title">Ώρα αφύπνισης</string>
     <string name="life_post_weather_invalid">Πατήστε για να λάβετε πληροφορίες σχετικά με τον καιρό</string>
     <string name="life_post_weather_no_network">Συνδεθείτε στο δίκτυο για ενημέρωση πληροφοριών καιρού</string>
-    <string name="life_post_weather_temperature_centigrade">°</string>
-    <string name="listen_news_privacy">&lt;Data>Για να σας παρέχουμε εξατομικευμένες υπηρεσίες και να συμπεριλάβουμε τις πρωινές ειδήσεις στα ξυπνητήρια σας, το Ρολόι πρέπει να συνδεθεί στο διαδίκτυο. Επίσης, πριν χρησιμοποιήσετε το Ρολόι, πρέπει να διαβάσετε και να συμφωνήσετε με τη &lt;a href= %1$s\">Συμφωνία Χρήστη&lt;/a> και την &lt;a href=\"%2$s\">Πολιτική Απορρήτου&lt;/a>. Συμφωνείτε;&lt;/Data></string>
+    <string name="listen_news_privacy">&lt;Data>Για να σας παρέχουμε εξατομικευμένες υπηρεσίες και να συμπεριλάβουμε τις πρωινές ειδήσεις στα ξυπνητήρια σας, το Ρολόι πρέπει να συνδεθεί στο διαδίκτυο. Επίσης, πριν χρησιμοποιήσετε το Ρολόι, πρέπει να διαβάσετε και να συμφωνήσετε με τη &lt;a href=\"%1$s\">Συμφωνία Χρήστη&lt;/a> και την &lt;a href=\"%2$s\">Πολιτική Απορρήτου&lt;/a>. Συμφωνείτε;&lt;/Data></string>
     <string name="loading_ringtone">Φόρτωση ήχου κλήσης…</string>
     <string name="menu_add_worldclock">Προσθήκη ρολογιού</string>
     <string name="menu_desk_clock">Ρολόι</string>
@@ -184,32 +171,33 @@
     <string name="module_download_success">Επιτυχής λήψη ήχου</string>
     <string name="module_download_title">Απαιτείται πρόσθετος ήχος</string>
     <string name="module_downloading">Γίνεται λήψη ήχου…</string>
+    <string name="module_unzipping">Αποσυμπίεση ήχου…</string>
     <string name="module_update_success">Ο ενημερωμένος ήχος για έξυπνους συναγερμούς MIUI λήφθηκε με επιτυχία. Μπορείτε να ορίσετε έξυπνους συναγερμούς MIUI στις ρυθμίσεις Ρολόι.</string>
     <string name="module_update_success_control">Κατανοητό</string>
     <string name="module_weather_ringtone_download_data">Η Ειδοποίηση καιρού επιλέγει διαφορετικούς ήχους κλήσης σύμφωνα με τις τρέχουσες καιρικές συνθήκες. Το Ρολόι χρειάζεται ≈30MB ήχου για να λειτουργεί. Λήψη τώρα;</string>
-    <string name="module_weather_ringtone_download_data_privacy">&lt;Data>Η Ειδοποίηση καιρού επιλέγει διαφορετικούς ήχους κλήσης σύμφωνα με τις τρέχουσες καιρικές συνθήκες. Το Ρολόι πρέπει να συνδεθεί στο διαδίκτυο για να πραγματοποιήσει λήψη ≈30MB ήχου. Επίσης, πριν χρησιμοποιήσετε το Ρολόι, πρέπει να διαβάσετε και να συμφωνήσετε με τη &lt;a href= %1$s\">Συμφωνία Χρήστη&lt;/a> και την &lt;a href=\"%2$s\">Πολιτική Απορρήτου&lt;/a>. Αποδοχή;&lt;/Data></string>
+    <string name="module_weather_ringtone_download_data_privacy">&lt;Data>Η Ειδοποίηση καιρού επιλέγει διαφορετικούς ήχους κλήσης σύμφωνα με τις τρέχουσες καιρικές συνθήκες. Το Ρολόι πρέπει να συνδεθεί στο διαδίκτυο για να πραγματοποιήσει λήψη ≈30MB ήχου. Επίσης, πριν χρησιμοποιήσετε το Ρολόι, πρέπει να διαβάσετε και να συμφωνήσετε με τη &lt;a href=\"%1$s\">Συμφωνία Χρήστη&lt;/a> και τη &lt;a href=\"%2$s\">Πολιτική Απορρήτου&lt;/a>. Αποδοχή;&lt;/Data></string>
     <string name="module_weather_ringtone_download_wifi">Η Ειδοποίηση καιρού επιλέγει διαφορετικούς ήχους κλήσης σύμφωνα με τις τρέχουσες καιρικές συνθήκες. Το Ρολόι πρέπει να πραγματοποιήσει λήψη ήχου για να λειτουργεί. Λήψη τώρα;</string>
-    <string name="module_weather_ringtone_download_wifi_privacy">&lt;Data>Η Ειδοποίηση καιρού επιλέγει διαφορετικούς ήχους κλήσης σύμφωνα με τις τρέχουσες καιρικές συνθήκες. Το Ρολόι πρέπει να συνδεθεί στο διαδίκτυο για να πραγματοποιήσει λήψη ήχου. Επίσης, πριν χρησιμοποιήσετε το Ρολόι, πρέπει να διαβάσετε και να συμφωνήσετε με τη &lt;a href= %1$s\">Συμφωνία Χρήστη&lt;/a> και την &lt;a href=\"%2$s\">Πολιτική Απορρήτου&lt;/a>. Αποδοχή;&lt;/Data></string>
+    <string name="module_weather_ringtone_download_wifi_privacy">&lt;Data>Η Ειδοποίηση καιρού επιλέγει διαφορετικούς ήχους κλήσης σύμφωνα με τις τρέχουσες καιρικές συνθήκες. Το Ρολόι πρέπει να συνδεθεί στο διαδίκτυο για να πραγματοποιήσει λήψη ήχου. Επίσης, πριν χρησιμοποιήσετε το Ρολόι, πρέπει να διαβάσετε και να συμφωνήσετε με τη &lt;a href=\"%1$s\">Συμφωνία Χρήστη&lt;/a> και τη &lt;a href=\"%2$s\">Πολιτική Απορρήτου&lt;/a>. Αποδοχή;&lt;/Data></string>
     <string name="module_weather_ringtone_introduce">Η Ειδοποίηση καιρού επιλέγει διαφορετικούς ήχους κλήσης σύμφωνα με τις καιρικές συνθήκες. Επίσης, σας επιτρέπει να ακούτε τις τρέχουσες πληροφορίες καιρού το πρωί.</string>
     <string name="module_weather_ringtone_introduce_global">Η Ειδοποίηση καιρού επιλέγει διαφορετικούς ήχους κλήσης σύμφωνα με τις τρέχουσες καιρικές συνθήκες.</string>
     <string name="module_weather_ringtone_update_data">Η Ειδοποίηση καιρού έρχεται με μουσική υπόκρουση και καλύτερες φωνητικές ανακοινώσεις. Το Ρολόι πρέπει να πραγματοποιήσει λήψη ≈30MB ήχου για να λειτουργήσει. Λήψη τώρα;</string>
     <string name="module_weather_ringtone_update_success">Η Ειδοποίηση καιρού τώρα έρχεται με μουσική υπόκρουση και καλύτερες φωνητικές ανακοινώσεις. Μπορείτε να δημιουργήσετε νέο ξυπνητήρι για να δοκιμάσετε αυτή τη λειτουργία.</string>
-    <string name="module_week_ringtone_download_data">Το εβδομαδιαίο ξυπνητήρι παράγει διαφορετικούς ήχους φύσης κάθε ημέρα της εβδομάδας. Το Ρολόι πρέπει να πραγματοποιήσει λήψη ≈30MB ήχου για να λειτουργεί. Λήψη τώρα;</string>
-    <string name="module_week_ringtone_download_data_privacy">&lt;Data>Το εβδομαδιαίο ξυπνητήρι παράγει διαφορετικούς ήχους φύσης κάθε ημέρα της εβδομάδας. Το Ρολόι πρέπει να συνδεθεί στο διαδίκτυο για να πραγματοποιήσει λήψη ≈30MB ήχου. Επίσης, πριν χρησιμοποιήσετε το Ρολόι, πρέπει να διαβάσετε και να συμφωνήσετε με τη &lt;a href= %1$s\">Συμφωνία Χρήστη&lt;/a> και την &lt;a href=\"%2$s\">Πολιτική Απορρήτου&lt;/a>. Αποδοχή;&lt;/Data></string>
-    <string name="module_week_ringtone_download_wifi">Το εβδομαδιαίο ξυπνητήρι παράγει διαφορετικούς ήχους φύσης κάθε ημέρα της εβδομάδας. Το Ρολόι πρέπει να πραγματοποιήσει λήψη ήχου για να λειτουργεί. Λήψη τώρα;</string>
-    <string name="module_week_ringtone_download_wifi_privacy">&lt;Data>Το εβδομαδιαίο ξυπνητήρι παράγει διαφορετικούς ήχους φύσης κάθε ημέρα της εβδομάδας. Το Ρολόι πρέπει να συνδεθεί στο διαδίκτυο για να πραγματοποιήσει λήψη ήχου. Επίσης, πριν χρησιμοποιήσετε το Ρολόι, πρέπει να διαβάσετε και να συμφωνήσετε με τη &lt;a href= %1$s\">Συμφωνία Χρήστη&lt;/a> και την &lt;a href=\"%2$s\">Πολιτική Απορρήτου&lt;/a>. Αποδοχή;&lt;/Data></string>
-    <string name="module_week_ringtone_introduce">Το εβδομαδιαίο ξυπνητήρι παράγει διαφορετικούς ήχους φύσης κάθε ημέρα της εβδομάδας.</string>
-    <string name="module_week_ringtone_update_data">Το εβδομαδιαίο ξυπνητήρι παράγει διαφορετικούς ήχους φύσης κάθε ημέρα της εβδομάδας. Το Ρολόι πρέπει να πραγματοποιήσει λήψη ≈30MB ήχου για να λειτουργεί. Λήψη τώρα;</string>
-    <string name="module_week_ringtone_update_success">Το εβδομαδιαίο ξυπνητήρι παράγει διαφορετικούς ήχους φύσης κάθε ημέρα της εβδομάδας. Μπορείτε να δημιουργήσετε νέο ξυπνητήρι για να δοκιμάσετε αυτή τη λειτουργία.</string>
+    <string name="module_week_ringtone_download_data">Η εφαρμογή Nature alarm παράγει διαφορετικούς ήχους φύσης ανάλογα με την ημερομηνία. Το Ρολόι πρέπει να πραγματοποιήσει λήψη ≈30MB ήχου για να λειτουργεί. Λήψη τώρα;</string>
+    <string name="module_week_ringtone_download_data_privacy">&lt;Data>Η εφαρμογή Nature alarm παράγει διαφορετικούς ήχους φύσης ανάλογα με την ημερομηνία. Το Ρολόι πρέπει να συνδεθεί στο Ίντερνετ για να πραγματοποιήσει λήψη ≈30MB ήχου. Πριν χρησιμοποιήσετε το Ρολόι, πρέπει επίσης να διαβάσετε και να συμφωνήσετε με τη &lt;a href=\"%1$s\">Συμφωνία Χρήστη&lt;/a> και την &lt;a href=\"%2$s\">Πολιτική απορρήτου&lt;/a>. Αποδοχή;&lt;/Data></string>
+    <string name="module_week_ringtone_download_wifi">Η εφαρμογή Nature alarm παράγει διαφορετικούς ήχους φύσης ανάλογα με την ημερομηνία. Το Ρολόι πρέπει να πραγματοποιήσει λήψη ήχου για να λειτουργεί. Λήψη τώρα;</string>
+    <string name="module_week_ringtone_download_wifi_privacy">&lt;Data>Η εφαρμογή Nature alarm παράγει διαφορετικούς ήχους φύσης ανάλογα με την ημερομηνία. Το Ρολόι πρέπει να συνδεθεί στο Ίντερνετ για να πραγματοποιήσει λήψη ήχου. Πριν χρησιμοποιήσετε το Ρολόι, πρέπει επίσης να διαβάσετε και να συμφωνήσετε με τη &lt;a href=\"%1$s\">Συμφωνία Χρήστη&lt;/a> και την &lt;a href=\"%2$s\">Πολιτική απορρήτου&lt;/a>. Αποδοχή;&lt;/Data></string>
+    <string name="module_week_ringtone_introduce">Η εφαρμογή Nature alarm παράγει διαφορετικούς ήχους φύσης ανάλογα με την ημερομηνία.</string>
+    <string name="module_week_ringtone_update_data">Η εφαρμογή Nature alarm παράγει διαφορετικούς ήχους φύσης ανάλογα με την ημερομηνία. Το Ρολόι πρέπει να πραγματοποιήσει λήψη ≈30MB ήχου για να λειτουργεί. Λήψη τώρα;</string>
+    <string name="module_week_ringtone_update_success">Η εφαρμογή Nature alarm παράγει διαφορετικούς ήχους φύσης ανάλογα με την ημερομηνία. Μπορείτε να δημιουργήσετε νέο ξυπνητήρι για να δοκιμάσετε αυτή τη λειτουργία.</string>
     <string name="module_white_noise_download_data">Το ρολόι απαιτεί τη λήψη αρχείων ήχου για τους χρονοδιακόπτες θορύβων περιβάλλοντος. Απαιτούνται ≈30MB των δεδομένων κινητής τηλεφωνίας σας για τη λήψη αυτή. Λήψη τώρα;</string>
-    <string name="module_white_noise_download_data_privacy">&lt;Data>Για να πραγματοποιήσετε λήψη αρχείων ήχου για τους χρονοδιακόπτες θορύβου περιβάλλοντος (≈30MB) και για να σας παρέχουμε εξατομικευμένες υπηρεσίες, το Ρολόι πρέπει να συνδεθεί στο διαδίκτυο. Επίσης, πριν χρησιμοποιήσετε το Ρολόι, πρέπει να διαβάσετε και να συμφωνήσετε με τη &lt;a href= %1$s\">Συμφωνία Χρήστη&lt;/a> και την &lt;a href=\"%2$s\">Πολιτική Απορρήτου&lt;/a>. Αυτή τη στιγμή χρησιμοποιείτε δεδομένα κινητής τηλεφωνίας. Αποδοχή;&lt;/Data></string>
+    <string name="module_white_noise_download_data_privacy">&lt;Data>Για να πραγματοποιήσετε λήψη αρχείων ήχου για τους χρονοδιακόπτες θορύβου περιβάλλοντος (≈30MB) και για να σας παρέχουμε εξατομικευμένες υπηρεσίες, το Ρολόι πρέπει να συνδεθεί στο διαδίκτυο. Επίσης, πριν χρησιμοποιήσετε το Ρολόι, πρέπει να διαβάσετε και να συμφωνήσετε με τη &lt;a href=\"%1$s\">Συμφωνία Χρήστη&lt;/a> και την &lt;a href=\"%2$s\">Πολιτική Απορρήτου&lt;/a>. Αυτή τη στιγμή χρησιμοποιείτε δεδομένα κινητής τηλεφωνίας. Αποδοχή;&lt;/Data></string>
     <string name="module_white_noise_download_wifi">Το ρολόι απαιτεί τη λήψη αρχείων ήχου για τους χρονοδιακόπτες θορύβων περιβάλλοντος. Λήψη τώρα;</string>
-    <string name="module_white_noise_download_wifi_privacy">&lt;Data>Για να πραγματοποιήσετε λήψη αρχείων ήχου για τους χρονοδιακόπτες θορύβου περιβάλλοντος και για να σας παρέχουμε εξατομικευμένες υπηρεσίες, το Ρολόι πρέπει να συνδεθεί στο διαδίκτυο. Επίσης, πριν χρησιμοποιήσετε το Ρολόι, πρέπει να διαβάσετε και να συμφωνήσετε με τη &lt;a href= %1$s\">Συμφωνία Χρήστη&lt;/a> και την &lt;a href=\"%2$s\">Πολιτική Απορρήτου&lt;/a> Αποδοχή;&lt;/Data></string>
+    <string name="module_white_noise_download_wifi_privacy">&lt;Data>Για να πραγματοποιήσετε λήψη αρχείων ήχου για τους χρονοδιακόπτες θορύβου περιβάλλοντος και για να σας παρέχουμε εξατομικευμένες υπηρεσίες, το Ρολόι πρέπει να συνδεθεί στο διαδίκτυο. Επίσης, πριν χρησιμοποιήσετε το Ρολόι, πρέπει να διαβάσετε και να συμφωνήσετε με τη &lt;a href=\"%1$s\">Συμφωνία Χρήστη&lt;/a> και τη &lt;a href=\"%2$s\">Πολιτική Απορρήτου&lt;/a> Αποδοχή;&lt;/Data></string>
     <string name="monday_to_friday">Δευτέρα έως Παρασκευή</string>
     <string name="more_setting">Περισσότερες ρυθμίσεις</string>
     <string name="more_settings">Ρυθμίσεις</string>
-    <string name="network_privacy">&lt;Data>Για να λαμβάνετε πληροφορίες σχετικά με τις τοπικές δημόσιες αργίες και να προσαρμόσετε τα ξυπνητήρια, το Ρολόι πρέπει να συνδεθεί στο διαδίκτυο. Επίσης, πριν χρησιμοποιήσετε το Ρολόι, πρέπει να διαβάσετε και να συμφωνήσετε με τη &lt;a href= %1$s\">Συμφωνία Χρήστη&lt;/a> και την &lt;a href=\"%2$s\">Πολιτική Απορρήτου&lt;/a>. Συμφωνείτε;&lt;/Data></string>
-    <string name="network_privacy_global">&lt;Data>Για να σας παρέχουμε εξατομικευμένες υπηρεσίες, το Ρολόι πρέπει να συνδεθεί στο διαδίκτυο. Επίσης, πριν χρησιμοποιήσετε το Ρολόι, πρέπει να διαβάσετε και να συμφωνήσετε με τη &lt;a href= %1$s\">Συμφωνία Χρήστη&lt;/a> και την &lt;a href=\"%2$s\">Πολιτική Απορρήτου&lt;/a>. Συμφωνείτε;&lt;/Data></string>
+    <string name="network_privacy">&lt;Data>Για να λαμβάνετε πληροφορίες σχετικά με τις τοπικές δημόσιες αργίες και να προσαρμόσετε τα ξυπνητήρια, το Ρολόι πρέπει να συνδεθεί στο διαδίκτυο. Επίσης, πριν χρησιμοποιήσετε το Ρολόι, πρέπει να διαβάσετε και να συμφωνήσετε με τη &lt;a href=\"%1$s\">Συμφωνία Χρήστη&lt;/a> και την &lt;a href=\"%2$s\">Πολιτική Απορρήτου&lt;/a>. Συμφωνείτε;&lt;/Data></string>
+    <string name="network_privacy_global">&lt;Data>Για να σας παρέχουμε εξατομικευμένες υπηρεσίες, το Ρολόι πρέπει να συνδεθεί στο διαδίκτυο. Επίσης, πριν χρησιμοποιήσετε το Ρολόι, πρέπει να διαβάσετε και να συμφωνήσετε με τη &lt;a href=\"%1$s\">Συμφωνία Χρήστη&lt;/a> και τη &lt;a href=\"%2$s\">Πολιτική Απορρήτου&lt;/a>. Συμφωνείτε;&lt;/Data></string>
     <string name="never">Μία φορά</string>
     <string name="no_alarm_setting">Δεν υπάρχουν συναγερμοί εδώ</string>
     <string name="no_worldclock">Δεν υπάρχουν ρολόγια εδώ</string>
@@ -217,26 +205,18 @@
     <string name="open_keep_screen">Η οθόνη θα παραμείνει ενεργή</string>
     <string name="other_category_title">Άλλα</string>
     <string name="pause">Παύση</string>
-    <string name="percentage_sign">%</string>
     <string name="personal_recommend">Εξατομικευμένες πρότασεις περιεχομένων</string>
     <string name="privacy_policy">Πολιτική Απορρήτου</string>
     <string name="privacy_policy_title">Πολιτική Απορρήτου</string>
     <string name="remind_ringtone">Ήχος κλήσης</string>
     <string name="repeat_count">Φορές</string>
-    <string name="repeat_count_value_five">5</string>
-    <string name="repeat_count_value_one">1</string>
-    <string name="repeat_count_value_ten">10</string>
-    <string name="repeat_count_value_three">3</string>
-    <string name="repeat_count_value_two">2</string>
     <string name="reset">Επαναφορά</string>
     <string name="revert">Επαναστροφή</string>
     <string name="ringtone_all">Όλοι οι ήχοι κλήσης</string>
     <string name="ringtone_dew">Πρωινή δροσιά</string>
-    <string name="ringtone_dream">Daydream</string>
     <string name="ringtone_firefly">Πυγολαμπίδες</string>
     <string name="ringtone_other">Περισσότεροι ήχοι κλήσεις</string>
     <string name="ringtone_weather">Ειδοποίηση καιρού</string>
-    <string name="ringtone_week">Εβδομαδιαίο ξυπνητήρι</string>
     <string name="search_alarm_clock_keywords">Συναγερμός;Ξυπνητήρι?</string>
     <string name="search_stopwatch_keywords">Χρονόμετρο</string>
     <string name="search_timer_keywords">Χρονοδιακόπτης</string>
@@ -263,34 +243,20 @@
     <string name="slider_text">Σάρωση προς τα επάνω για απενεργοποίηση</string>
     <string name="snooze_confirm_cancel">Κατάργηση ξυπνητηριού</string>
     <string name="snooze_duration">Αναβολή</string>
-    <string name="snooze_duration_text">%1$s | %2$s</string>
     <string name="snooze_duration_title">Αναβολή</string>
     <string name="snooze_duration_value">Χρονικό διάστημα (λεπτά)</string>
-    <string name="snooze_duration_value_fifteen">15</string>
-    <string name="snooze_duration_value_five">5</string>
-    <string name="snooze_duration_value_one">1</string>
-    <string name="snooze_duration_value_ten">10</string>
-    <string name="snooze_duration_value_thirty">30</string>
-    <string name="snooze_duration_value_twenty">20</string>
-    <string name="snooze_duration_value_twenty_five">25</string>
     <string name="star_wy_alarm_speech">Συναντήστε τον Roy Wang</string>
     <string name="start">Εκκίνηση</string>
     <string name="start_up">Εκκίνηση</string>
-    <string name="status_bar_clock_date_time_format">H:mm:ss</string>
-    <string name="status_bar_clock_date_time_format_12">h:mm:ss aa</string>
-    <string name="status_bar_clock_date_time_format_seconds_12">h:mm:ss</string>
     <string name="stopwatch_lap_empty_text">Δεν υπάρχουν γύροι</string>
     <string name="stopwatch_title">Χρονόμετρο</string>
     <string name="system_permission_purpose">Δημιουργία ξυπνητηριών εργάσιμων ημερών και ρύθμιση προσαρμοσμένων ήχων κλήσης</string>
     <string name="system_time_setting">Ρυθμίσεις</string>
     <string name="system_time_settings_category_title">Ρυθμίσεις ώρας</string>
-    <string name="temperature_unit">℃</string>
     <string name="time">Χρόνος</string>
-    <string name="time_picker_colon">:</string>
     <string name="time_picker_label_hour">Ω</string>
     <string name="time_picker_label_minute">Λ</string>
     <string name="time_picker_label_second">Δ</string>
-    <string name="timer_alarm_alert_pad">%s</string>
     <string name="timer_alarm_cancel_pad">Αγγίξτε την οθόνη για σίγαση</string>
     <string name="timer_alarm_dot_matrix_label">ΧΡΟΝΟΜΕΤΡΟ</string>
     <string name="timer_alert_alert_silenced">Ο χρονοδιακόπτης σίγασε μετά από %1$s.</string>
@@ -314,8 +280,6 @@
     <string name="timer_created">Επιτυχής προσθήκη χρονοδιακόπτη</string>
     <string name="timer_end_time">Ο χρονοδιακόπτης θα σταματήσει στο %s</string>
     <string name="timer_end_time_format">HH:mm dd MMM</string>
-    <string name="timer_end_time_format_today">HH:mm</string>
-    <string name="timer_got_it">OK</string>
     <string name="timer_is_paused">Ο χρονοδιακόπτης είναι σε παύση</string>
     <string name="timer_item_duration_display">%1$d λεπτά %2$d δευτερόλεπτα</string>
     <string name="timer_item_label_hint">Όνομα αντίστροφης μέτρησης</string>

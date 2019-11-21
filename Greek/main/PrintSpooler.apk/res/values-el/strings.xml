@@ -63,7 +63,7 @@
     <string name="print_forget_printer">Διαγραφή εκτυπωτή</string>
     <string name="print_help_label">Βοήθεια</string>
     <string name="print_help_tip">Βεβαιωθείτε ότι το τηλέφωνο και ο εκτυπωτής σας είναι συνδεδεμένοι στο ίδιο δίκτυο Wi-Fi ή ότι το Wi-Fi Direct είναι ενεργό. %1$s.</string>
-    <string name="print_help_tip_reg">Προβολή Βοήθειας</string>
+    <string name="print_help_tip_reg">Προβολή \"Βοήθειας\"</string>
     <string name="print_no_print_services">Δεν έχουν ενεργοποιηθεί υπηρεσίες εκτύπωσης</string>
     <string name="print_no_printers">Δεν βρέθηκαν εκτυπωτές</string>
     <string name="print_options_collapsed">Έγινε σύμπτυξη των επιλογών εκτύπωσης</string>
@@ -103,10 +103,8 @@
     <string name="search_brand">Αναζήτηση</string>
     <string name="select_to_add_printers">Επιλέξτε για την προσθήκη εκτυπωτή</string>
     <string name="start_print">Εκτύπωση</string>
-    <string name="status_bar_notification_info_overflow">999+</string>
     <string name="summary_template">Σύνοψη, αντίγραφα %1$s, μέγεθος χαρτιού %2$s</string>
     <string name="system_print_service_help">Σχετικά με την εκτύπωση</string>
     <string name="template_all_pages">Και οι %1$s σελίδες</string>
     <string name="template_page_range">Εύρος σελίδων από %1$s</string>
-    <string name="wifi_direct">Wi-Fi Direct</string>
 </resources>

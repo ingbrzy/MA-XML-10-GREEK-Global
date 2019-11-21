@@ -68,6 +68,10 @@
         <item quantity="other">Συνέχιση σε %d λεπτά</item>
         <item quantity="one">Συνέχιση σε %d λεπτό</item>
     </plurals>
+    <plurals name="backup_pause_dialog_message">
+        <item quantity="other">Παύση συγχρονισμού φωτογραφιών, βίντεο, επαφών, σημειώσεων και άλλων αντικειμένων με το cloud για %d λεπτά.</item>
+        <item quantity="one">Παύση συγχρονισμού φωτογραφιών, βίντεο, επαφών, σημειώσεων και άλλων αντικειμένων με το cloud για %d λεπτό.</item>
+    </plurals>
     <plurals name="backuping_desc_gprs">
         <item quantity="other">%1$d φωτογραφίες ή βίντεο | %2$s</item>
         <item quantity="one">%1$d φωτογραφία ή βίντεο | %2$s</item>
@@ -193,36 +197,36 @@
         <item quantity="one">%1$d αρχείο</item>
     </plurals>
     <plurals name="number_of_images_and_videos_to_upload">
-        <item quantity="other">Θα δημιουργηθούν αντίγραφα ασφαλείας για %1$d αντικείμενα</item>
-        <item quantity="one">Θα δημιουργηθεί αντίγραφο ασφαλείας για 1 αντικείμενο</item>
+        <item quantity="other">%1$d αντικείμενα έτοιμα για συγχρονισμό</item>
+        <item quantity="one">%1$d αντικείμενο έτοιμο για συγχρονισμό</item>
     </plurals>
     <plurals name="number_of_images_synced">
         <item quantity="other">%1$d φωτογραφίες</item>
         <item quantity="one">1 φωτογραφία</item>
     </plurals>
     <plurals name="number_of_images_to_upload">
-        <item quantity="other">Θα δημιουργηθούν αντίγραφα ασφαλείας για %1$d φωτογραφίες</item>
-        <item quantity="one">Θα δημιουργηθεί αντίγραφο ασφαλείας για 1 φωτογραφία</item>
+        <item quantity="other">%1$d φωτογραφίες έτοιμες για συγχρονισμό</item>
+        <item quantity="one">%1$d φωτογραφία έτοιμη για συγχρονισμό</item>
     </plurals>
     <plurals name="number_of_uploading_images">
-        <item quantity="other">Γίνεται δημιουργία αντιγράφων ασφαλείας για %1$d φωτογραφίες…</item>
-        <item quantity="one">Γίνεται δημιουργία αντίγραφου ασφαλείας φωτογραφίας…</item>
+        <item quantity="other">Συγχρονισμός %1$d φωτογραφιών…</item>
+        <item quantity="one">Συγχρονισμός %1$d φωτογραφίας…</item>
     </plurals>
     <plurals name="number_of_uploading_images_and_videos">
-        <item quantity="other">Γίνεται δημιουργία αντιγράφων ασφαλείας για %1$d αντικείμενα…</item>
-        <item quantity="one">Γίνεται δημιουργία αντίγραφου ασφαλείας για 1 αντικείμενο…</item>
+        <item quantity="other">Συγχρονισμός %1$d αντικειμένων…</item>
+        <item quantity="one">Συγχρονισμός %1$d αντικειμένου…</item>
     </plurals>
     <plurals name="number_of_uploading_videos">
-        <item quantity="other">Γίνεται δημιουργία αντιγράφων ασφαλείας για %1$d βίντεο…</item>
-        <item quantity="one">Γίνεται δημιουργία αντίγραφου ασφαλείας για βίντεο…</item>
+        <item quantity="other">Συγχρονισμός %1$d βίντεο…</item>
+        <item quantity="one">Συγχρονισμός %1$d βίντεο…</item>
     </plurals>
     <plurals name="number_of_videos_synced">
         <item quantity="other">%1$d βίντεο</item>
         <item quantity="one">1 βίντεο</item>
     </plurals>
     <plurals name="number_of_videos_to_upload">
-        <item quantity="other">Θα δημιουργηθούν αντίγραφα ασφαλείας για %1$d βίντεο</item>
-        <item quantity="one">Θα δημιουργηθεί αντίγραφο ασφαλείας για 1 βίντεο</item>
+        <item quantity="other">%1$d βίντεο έτοιμα για συγχρονισμό</item>
+        <item quantity="one">%1$d βίντεο έτοιμο για συγχρονισμό</item>
     </plurals>
     <plurals name="photo_count_format">
         <item quantity="other">Συνολικά %1$d αντικείμενα</item>

@@ -72,6 +72,10 @@
         <item quantity="other">σε %d ε</item>
         <item quantity="one">σε %d ε</item>
     </plurals>
+    <plurals name="file_count">
+        <item quantity="other">%1$s + %2$d αρχεία</item>
+        <item quantity="one">%1$s + %2$d αρχείο</item>
+    </plurals>
     <plurals name="kg_too_many_failed_attempts_countdown">
         <item quantity="other">Δοκιμάστε ξανά σε %d δευτερόλεπτα.</item>
         <item quantity="one">Δοκιμάστε ξανά σε 1 δευτερόλεπτο</item>

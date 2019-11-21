@@ -73,6 +73,7 @@
     <string name="bt_path_not_exit">Αυτή η διαδρομή δεν υπάρχει</string>
     <string name="bt_restart_dialog_message">Επανεκκίνηση όλων των λήψεων στον φάκελο BT;</string>
     <string name="bt_restart_dialog_title">Επανεκκίνηση όλων των λήψεων</string>
+    <string name="byteShort_per_seconds">B/δ</string>
     <string name="cancel">Ακύρωση</string>
     <string name="check_new_downloaded_action">Προβολή</string>
     <string name="check_new_downloaded_file">Εντοπίστηκε νέο αρχείο</string>
@@ -113,6 +114,7 @@
     <string name="download_pending">Λήψη σε εκκρεμότητα</string>
     <string name="download_remain_time">Απομένουν:</string>
     <string name="download_speed">Ταχύτητα λήψης:</string>
+    <string name="download_speed_suffix">%1$s %2$s</string>
     <string name="download_spend_time">Χρόνος</string>
     <string name="download_status_continue">Συνέχεια</string>
     <string name="download_status_fail">Προσπαθήστε ξανά</string>
@@ -141,6 +143,7 @@
     <string name="file_exist_hint">Αυτό το αρχείο υπάρχει ήδη</string>
     <string name="file_size">Μέγεθος:</string>
     <string name="get_data_failed">Αδυναμία απόκτησης πληροφοριών. Περιμένετε ένα δύο λεπτά και προσπαθήστε ξανά.</string>
+    <string name="gigabyteShort_per_seconds">GB/δ</string>
     <string name="guess_like">Επίσης μπορεί να σας αρέσει</string>
     <string name="hint">Προσοχή</string>
     <string name="info_download_details">Λεπτομέρειες</string>
@@ -151,9 +154,12 @@
     <string name="install">Εγκατάσταση</string>
     <string name="installing">Γίνεται εγκατάσταση…</string>
     <string name="insufficient_space">Ανεπαρκής χώρος αποθήκευσης</string>
+    <string name="kilobyteShort_per_seconds">kB/δ</string>
     <string name="korean_all_choose_item_title">Συμφωνώ με όλους τους παρακάτω όρους και προϋποθέσεις.</string>
     <string name="korean_permission_group_phone_describe">Αποκτήστε πρόσβαση στο IMEI και στην κατάσταση δικτύου της συσκευής, συλλέξτε πληροφορίες για αποτυχημένες λήψεις για βελτιστοποίηση των υπηρεσιών</string>
     <string name="korean_permission_group_phone_title">Τηλέφωνο</string>
+    <string name="korean_permission_group_storage_describe">Πρόσβαση στον αποθηκευτικό χώρο για να διαχειριστείτε τις λήψεις</string>
+    <string name="korean_permission_group_storage_title">Χώρος αποθήκευσης</string>
     <string name="korean_privacy_btn_accept">Αποδοχή</string>
     <string name="korean_privacy_btn_exit">Έξοδος</string>
     <string name="korean_privacy_item_title">Πολιτική Απορρήτου (η υποχρεωτική ενημερώθηκε)</string>
@@ -162,6 +168,7 @@
     <string name="load_finish_hint">Αυτά για τώρα.</string>
     <string name="loading">Περιμένετε μια στιγμή…</string>
     <string name="media_filter">Πολυμέσα</string>
+    <string name="megabyteShort_per_seconds">MB/δ</string>
     <string name="menu_all_task_pause">Παύση όλων</string>
     <string name="menu_all_task_start">Εκκίνηση όλων</string>
     <string name="menu_enter_edit_mode">Επεξεργασία</string>
@@ -194,6 +201,7 @@
     <string name="paused_unknown">Έγινε παύση</string>
     <string name="paused_waiting_for_network">Αναμονή για δίκτυο</string>
     <string name="paused_waiting_to_retry">Αναμονή για επανάληψη</string>
+    <string name="petabyteShort_per_seconds">PB/δ</string>
     <string name="pref_download_settings_title">Όριο μεγέθους λήψης</string>
     <string name="pref_summary_any_bytes_popup">Αναμονή πάντα για σύνδεση Wi-Fi πριν τη λήψη αρχείων</string>
     <string name="pref_summary_enable_max_bytes_popup">Προβολή αναδυόμενης ειδοποίησης κατά την λήψη αρχείων με σύνδεση δεδομένων κινητής τηλεφωνίας</string>
@@ -237,6 +245,7 @@
     <string name="task_detail">Εργασίες</string>
     <string name="task_detail_notfound_confirm">ΟΚ</string>
     <string name="task_fail">Απέτυχε</string>
+    <string name="terabyteShort_per_seconds">TB/δ</string>
     <string name="toast_only_wifi_download">Συνδεθείτε σε Wi-Fi για λήψη αυτού του αντικειμένου</string>
     <string name="total_speedup">Ενίσχυση ταχύτητας (σύνολο)</string>
     <string name="version">Έκδοση %s</string>

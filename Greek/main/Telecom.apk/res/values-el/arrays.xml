@@ -108,6 +108,11 @@
         <item>AVRCP 1.5</item>
         <item>AVRCP 1.6</item>
     </string-array>
+    <string-array name="bt_hci_snoop_log_entries">
+        <item>Απενεργοποιήθηκε</item>
+        <item>Ενεργοποιήθηκε το φιλτράρισμα</item>
+        <item>Ενεργοποιήθηκε</item>
+    </string-array>
     <string-array name="color_mode_descriptions">
         <item>Βελτιωμένα χρώματα</item>
         <item>Φυσικά χρώματα όπως είναι ορατά στο μάτι</item>

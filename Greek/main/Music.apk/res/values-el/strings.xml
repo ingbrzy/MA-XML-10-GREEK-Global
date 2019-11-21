@@ -21,16 +21,7 @@
     <string name="abc_activitychooserview_choose_application">Επιλέξτε μια εφαρμογή</string>
     <string name="abc_capital_off">ΑΠΕΝΕΡΓΟΠΟΙΗΣΗ</string>
     <string name="abc_capital_on">ΕΝΕΡΓΟΠΟΙΗΣΗ</string>
-    <string name="abc_menu_alt_shortcut_label">Alt+</string>
-    <string name="abc_menu_ctrl_shortcut_label">Ctrl+</string>
-    <string name="abc_menu_delete_shortcut_label">delete</string>
-    <string name="abc_menu_enter_shortcut_label">enter</string>
-    <string name="abc_menu_function_shortcut_label">Function+</string>
-    <string name="abc_menu_meta_shortcut_label">Meta+</string>
-    <string name="abc_menu_shift_shortcut_label">Shift+</string>
     <string name="abc_menu_space_shortcut_label">διάστημα</string>
-    <string name="abc_menu_sym_shortcut_label">Sym+</string>
-    <string name="abc_prepend_shortcut_label">Menu+</string>
     <string name="abc_search_hint">Αναζήτηση…</string>
     <string name="abc_searchview_description_clear">Διαγραφή ερωτήματος</string>
     <string name="abc_searchview_description_query">Ερώτημα αναζήτησης</string>
@@ -131,7 +122,6 @@
     <string name="choose_stream_quality">Επιλογή ποιότητας αναπαραγωγής</string>
     <string name="click_to_shuffle">Αγγίξτε για τυχαία αναπαραγωγή</string>
     <string name="close_music_time">"Χρόνος που απομένει: "</string>
-    <string name="comment_format" formatted="false">%s: %s</string>
     <string name="common_google_play_services_enable_button">Ενεργοποίηση</string>
     <string name="common_google_play_services_enable_text">Η εφαρμογή %1$s δεν θα λειτουργήσει εάν δεν έχετε ενεργοποιήσει τις υπηρεσίες Google Play.</string>
     <string name="common_google_play_services_enable_title">Ενεργοποίηση υπηρεσιών Google Play</string>
@@ -159,6 +149,7 @@
     <string name="current_album">Τρέχον εξώφυλλο άλμπουμ</string>
     <string name="current_lyric">Τρέχοντες στίχοι</string>
     <string name="current_version">Τρέχουσα έκδοση</string>
+    <string name="daily_recommendation">Μείξη ημέρας</string>
     <string name="dark_mode">Σκοτεινή λειτουργία</string>
     <string name="data_usage_warning">Χρήση δεδομένων</string>
     <string name="data_usage_warning_summary">Η χρήση σύνδεσης δεδομένων κινητής τηλεφωνίας για την αναπαραγωγή μουσικής υψηλής ποιότητας μπορεί να επιφέρει επιπλέον χρεώσεις.</string>
@@ -202,6 +193,10 @@
     <string name="dialog_renew_free_end">Η δωρεάν δοκιμή σας έχει τελειώσει. Εγγραφή στο Hungama PRO;</string>
     <string name="dialog_renew_positive_text">Ω ΝΑΙ, ΘΕΛΩ ΝΑ ΡΟΚΑΡΩ ΣΑΝ ΕΠΑΓΓΕΛΜΑΤΙΑΣ</string>
     <string name="dialog_renew_success">Ευχαριστούμε για την επιβεβαίωσή σας</string>
+    <string name="dialog_score_btn_good">Αξιολόγηση</string>
+    <string name="dialog_score_prompt_bad">Σας ευχαριστούμε για τα σχόλια! Θα κάνουμε ό, τι καλύτερο μπορούμε για να βελτιώσουμε την εφαρμογή και τις υπηρεσίες μας.</string>
+    <string name="dialog_score_prompt_good">Σας ευχαριστούμε για τη στήριξη! Θέλετε να αξιολογήσετε την εφαρμογή μας και στο Google Play;</string>
+    <string name="dialog_score_title">Αξιολογήστε την εφαρμογή μας</string>
     <string name="dialog_song_sort_type">Ταξινόμηση τραγουδιών</string>
     <string name="dialog_song_sort_type_name">Ανά όνομα</string>
     <string name="dialog_song_sort_type_playing_times">Κατά φορές αναπαραγωγής</string>
@@ -219,6 +214,7 @@
     <string name="dialog_title_remove_tracks">Αφαίρεση</string>
     <string name="disallow_add_to_fm">Αδυναμία προσθήκης τραγουδιών στο Ραδιόφωνο</string>
     <string name="do_not_remind_this_version">Να μην γίνει υπενθύμιση σχετικά με αυτήν την έκδοση</string>
+    <string name="do_not_support_google_voice_search">Η Google Voice Search δεν υποστηρίζεται στη συσκευή σας.</string>
     <string name="download">Λήψη</string>
     <string name="download_added_to_list">Προστέθηκε στην λίστα λήψης</string>
     <string name="download_apk_desktop_installing">Γίνεται εγκατάσταση</string>
@@ -333,7 +329,6 @@
     <string name="exo_download_failed">Η λήψη απέτυχε</string>
     <string name="exo_download_notification_channel_name">Λήψεις</string>
     <string name="exo_download_removing">Κατάργηση λήψεων</string>
-    <string name="exo_item_list">%1$s, %2$s</string>
     <string name="exo_track_mono">Μονοφωνικό</string>
     <string name="exo_track_selection_auto">Αυτόματο</string>
     <string name="exo_track_selection_none">Κανένα</string>
@@ -370,11 +365,8 @@
     <string name="filter_by_folder">Κατά φάκελο</string>
     <string name="filter_by_folder_summary">Επιλογή φακέλων για προβολή</string>
     <string name="filter_by_size">Κατά μέγεθος</string>
-    <string name="filter_by_size_max">%dMB</string>
-    <string name="filter_by_size_min">%dKB</string>
     <string name="filter_by_size_prefix">"Απόκρυψη αρχείων μικρότερων από "</string>
     <string name="filter_by_size_summary">Απόκρυψη μικρών αρχείων ήχου</string>
-    <string name="filter_size_unit">%dKB</string>
     <string name="floating_view_dialog_desc">"Η μουσική θα τερματίσει να αναπαράγεται εάν αποχωρήστε από τη σελίδα τώρα. Έξοδος παρ' όλα αυτά;"</string>
     <string name="floating_view_dialog_leave">Έξοδος</string>
     <string name="floating_view_dialog_stay">Παραμονή</string>
@@ -403,14 +395,15 @@
     <string name="home_tab_search">Αναζήτηση</string>
     <string name="hot_icon_in_fast_indexer">Δ</string>
     <string name="hungama_batch_download_alert_summary">Μόνο μέλη PRO μπορούν να κατεβάσουν τραγούδια απεριόριστα. Να γίνετε μέλος τώρα;</string>
+    <string name="hungama_batch_download_alert_summary_toast">Γίνετε συνδρομητής για λήψη της συνολικής λίστας αναπαραγωγής.</string>
     <string name="hungama_free_download_out_summary">Δεν μπορείτε να κατεβάσετε περισσότερα δωρεάν τραγούδια. Θέλετε να γίνετε μέλος του PRO για απεριόριστη λήψη τραγουδιών;</string>
+    <string name="hungama_free_download_out_summary_toast">Ήδη πραγματοποιήσατε λήψη %d τραγουδιών. Γίνετε συνδρομητής για λήψη περισσότερων.</string>
     <string name="hungama_privacy_desc">Πολιτική Απορρήτου Hungama (προαιρετικό)</string>
     <string name="hungama_privacy_tips_content">Για απόκτηση πρόσβασης σε απευθείας σύνδεση, πρέπει να αποδεχτείτε την <a href="/link/click">Πολιτική Απορρήτου Hungama</a>.</string>
     <string name="hungama_privacy_tips_title">Πολιτική Απορρήτου Hungama</string>
     <string name="hungama_subscribe_message">Αγοράστε συνδρομή PRO για την λήψη μουσικής υψηλής ποιότητας.</string>
     <string name="hungama_subscribe_positive_button">Αγοράστε συνδρομή PRO</string>
     <string name="hungama_subscribe_title">Συνδρομή PRO</string>
-    <string name="i_know">OK</string>
     <string name="impunity_declaration_content">Πρέπει να διαβάσετε και να αποδεχτείτε τους &lt;a href=\"http://www.miui.com/res/doc/eula.html?lang=el_GR\">Όρους Χρήσης&lt;/a> και &lt;a href=\"http://www.miui.com/res/doc/privacy.html?lang=el_GR\">Πολιτική Απορρήτου&lt;/a> μας πριν την χρήση του προϊόντος.</string>
     <string name="impunity_declaration_ignore">Να μην εμφανιστεί ξανά</string>
     <string name="impunity_declaration_negative_text">Έξοδος</string>
@@ -498,6 +491,7 @@
     <string name="more_settings">Σύνθετες ρυθμίσεις</string>
     <string name="more_settings_summary">Χρονοδιακόπτης ύπνου, φιλτράρισμα αρχείων και άλλα</string>
     <string name="more_share">Κοινοποίηση</string>
+    <string name="more_splendid_contents">Περισσότερα</string>
     <string name="mulit_choice_management">Διαχείριση πολλαπλών αντικειμένων</string>
     <string name="music_browser_label">Μουσική</string>
     <string name="music_filter">Φίλτρο αρχείων ήχων</string>
@@ -552,7 +546,6 @@
     <string name="nowplaying_circle_style_wave">Κύμα</string>
     <string name="nowplaying_dialog_title_delete_tracks">Αφαίρεση τραγουδιού από την ουρά;</string>
     <string name="nowplaying_menu_item_delete">Αφαίρεση από την ουρά</string>
-    <string name="ok">OK</string>
     <string name="online_apk_acquired">Φορτώθηκε %d%%</string>
     <string name="online_apk_acquiring">Φόρτωση… %d%%</string>
     <string name="online_apk_download_error_no_enough_space">Δεν ήταν δυνατή η λήψη λόγω ανεπαρκούς αποθηκευτικού χώρου.</string>
@@ -621,8 +614,6 @@
     <string name="playlist_title_is_invalid">Υπάρχει ήδη η λίστα αναπαραγωγής</string>
     <string name="playlist_type_album">Άλμπουμ</string>
     <string name="playlist_type_artist">Καλλιτέχνης</string>
-    <string name="playlist_type_billboard">Charts</string>
-    <string name="playlist_type_fm">FM</string>
     <string name="playlist_type_my">Οι λίστες μου</string>
     <string name="playlist_type_recommend">Προτεινόμενες λίστες αναπαραγωγής</string>
     <string name="please_download_first">Κάντε λήψη του τραγουδιού πριν τον ορισμό του ως ήχου κλήσης</string>
@@ -633,6 +624,7 @@
     <string name="priority_storage_summary">Αυτόματη λήψη στην εξωτερική κάρτα SD εφόσον είναι διαθέσιμη</string>
     <string name="privacy_desc">Πολιτική Απορρήτου (υποχρεωτικό)</string>
     <string name="privacy_policy">Πολιτική Απορρήτου</string>
+    <string name="privacy_policy_url">http://www.miui.com/res/doc/privacy.html?lang=el_GR</string>
     <string name="pro_member">Μέλος PRO</string>
     <string name="project_device">Mi Τηλέφωνο</string>
     <string name="prompt_grant_write_settings_permission">Να επιτρέπεται η αλλαγή ρυθμίσεων συστήματος</string>
@@ -683,7 +675,6 @@
     <string name="search_history_clear_all">Εκκαθάριση</string>
     <string name="search_history_delete_all_dialog_titile">Εκκαθάριση ιστορικού αναζήτησης τώρα;</string>
     <string name="search_in_youtube">Αναζήτηση στο YouTube</string>
-    <string name="search_instant_online_music">Online</string>
     <string name="search_menu_title">Αναζήτηση</string>
     <string name="search_more">Περισσότερα</string>
     <string name="search_result_local_songs">Τοπικά</string>
@@ -758,11 +749,11 @@
     <string name="storage_sd_card">Κάρτα SD</string>
     <string name="storage_usb">Χώρος αποθήκευσης USB</string>
     <string name="streamloadingtext">Γίνεται σύνδεση σε %s</string>
-    <string name="summary_collapsed_preference_list">%1$s, %2$s</string>
     <string name="tab_album">Άλμπουμ</string>
     <string name="tab_album_list">Άλμπουμ</string>
     <string name="tab_artist">Καλλιτέχνες</string>
     <string name="tab_artist_list">Καλλιτέχνες</string>
+    <string name="tab_chart">Γραφήματα</string>
     <string name="tab_folder">Φάκελοι</string>
     <string name="tab_playlist">Λίστες αναπαραγωγής</string>
     <string name="tab_top_results">Κορυφαίο αποτέλεσμα</string>
@@ -825,6 +816,7 @@
     <string name="upgrade_music_message">Οι ενημερώσεις είναι έτοιμες. Επανεκκινήστε για ενημέρωση.</string>
     <string name="upgrading_in_backstage">Γίνεται ενημέρωση στο παρασκήνιο…</string>
     <string name="user_agreement">Όροι Χρήσης</string>
+    <string name="user_agreement_url">http://www.miui.com/res/doc/eula.html?lang=el_GR</string>
     <string name="v7_preference_off">ΑΝΕΝΕΡΓΗ</string>
     <string name="v7_preference_on">ΕΝΕΡΓΗ</string>
     <string name="version_info">Έκδοση</string>
@@ -840,4 +832,5 @@
 Πατήστε %s για έναρξη της λήψης την επόμενη φορά που θα είστε συνδεδεμένοι με δίκτυο Wi-Fi."</string>
     <string name="wifi_required_title">Συνδεθείτε με Wi-Fi για την λήψη του αρχείου</string>
     <string name="you_can_switch_mode_in_settings">Μπορείτε να κάνετε εναλλαγή λειτουργιών στις Ρυθμίσεις</string>
+    <string name="you_may_like">Επίσης, μπορεί να σας αρέσει</string>
 </resources>

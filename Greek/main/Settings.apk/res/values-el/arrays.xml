@@ -230,6 +230,11 @@
         <item>3 διαδικασίες το πολύ</item>
         <item>4 διαδικασίες το πολύ</item>
     </string-array>
+    <string-array name="autofill_logging_level_entries">
+        <item>Ανενεργή</item>
+        <item>Εντοπισμός σφαλμάτων</item>
+        <item>Λεπτομερής</item>
+    </string-array>
     <string-array name="automatic_storage_management_days">
         <item>Πάνω από 30 ημερών</item>
         <item>Πάνω από 60 ημερών</item>
@@ -306,28 +311,6 @@
         <item>Βελτιστοποιήθηκε για ποιότητα σύνδεσης (330kbps/303kbps)</item>
         <item>Βέλτιστο αποτέλεσμα (Προσαρμοστικός ρυθμός bit)</item>
     </string-array>
-    <string-array name="bluetooth_a2dp_codec_lhdc_latency_summaries">
-        <item>Short latency</item>
-        <item>Middle latency</item>
-        <item>Long latency</item>
-    </string-array>
-    <string-array name="bluetooth_a2dp_codec_lhdc_latency_titles">
-        <item>Short latency (50~100ms)</item>
-        <item>Middle latency (150~200ms)</item>
-        <item>Long latency (300~500ms)</item>
-    </string-array>
-    <string-array name="bluetooth_a2dp_codec_lhdc_playback_quality_summaries">
-        <item>Optimized for connection quality</item>
-        <item>Balanced audio and connection quality</item>
-        <item>Optimized for audio quality</item>
-        <item>Best effort (Auto bit rate)</item>
-    </string-array>
-    <string-array name="bluetooth_a2dp_codec_lhdc_playback_quality_titles">
-        <item>Optimized for connection quality (400kbps)</item>
-        <item>Balanced audio and connection quality (500/560kbps)</item>
-        <item>Optimized for audio quality (900kbps)</item>
-        <item>Best effort (Auto bit rate)</item>
-    </string-array>
     <string-array name="bluetooth_a2dp_codec_sample_rate_summaries">
         <item>Χρήση Επιλογής Συστήματος (Προεπιλογή)</item>
         <item>44.1 kHz</item>
@@ -350,7 +333,6 @@
         <item>Qualcomm® aptX™ HD ήχος</item>
         <item>LDAC</item>
         <item>Qualcomm® aptX™ Adaptive ήχος</item>
-        <item>LHDC</item>
         <item>Ενεργοποίηση προαιρετικών Codecs</item>
         <item>Απενεργοποίηση προαιρετικών Codecs</item>
     </string-array>
@@ -362,7 +344,6 @@
         <item>Qualcomm® aptX™ HD ήχος</item>
         <item>LDAC</item>
         <item>Qualcomm® aptX™ Adaptive ήχος</item>
-        <item>LHDC</item>
         <item>Ενεργοποίηση προαιρετικών Codecs</item>
         <item>Απενεργοποίηση προαιρετικών Codecs</item>
     </string-array>
@@ -397,6 +378,13 @@
         <item>5 λεπτά</item>
         <item>1 ώρα</item>
         <item>Να μην λήγει ποτέ το χρονικό όριο</item>
+    </string-array>
+    <string-array name="bt_hci_snoop_log_entries">
+        <item>Απενεργοποιημένο</item>
+        <item>Ενεργοποίηση Φιλτραρίσματος</item>
+        <item>Έγινε ενεργοποίηση Φιλτραρίσματος Κεφαλίδων</item>
+        <item>Έγινε ενεργοποίηση Φιλτραρίσματος Κεφαλίδων</item>
+        <item>Ενεργοποιημένο</item>
     </string-array>
     <string-array name="button_light_timeout_entries">
         <item>1 δευτερόλεπτο</item>
@@ -445,6 +433,14 @@
         <item>Απλά</item>
         <item>Λοξά</item>
         <item>Μικρά κεφαλαία</item>
+    </string-array>
+    <string-array name="cdma_subscription_choices">
+        <item>RUIM/SIM</item>
+        <item>NV</item>
+    </string-array>
+    <string-array name="cdma_system_select_choices">
+        <item>Μόνο αρχική σελίδα</item>
+        <item>Αυτόματo</item>
     </string-array>
     <string-array name="change_security_lock_picker">
         <item>Ξεκλείδωμα με αναγνώριση προσώπου</item>
@@ -743,6 +739,31 @@
         <item>Παραμαρίμπο</item>
         <item>Κίτο</item>
     </string-array>
+    <array name="click_bottom">
+        <item>@drawable/clickbottom01</item>
+        <item>@drawable/clickbottom01</item>
+        <item>@drawable/clickbottom01</item>
+        <item>@drawable/clickbottom01</item>
+        <item>@drawable/clickbottom01</item>
+        <item>@drawable/clickbottom01</item>
+        <item>@drawable/clickbottom01</item>
+        <item>@drawable/clickbottom02</item>
+        <item>@drawable/clickbottom03</item>
+        <item>@drawable/clickbottom04</item>
+        <item>@drawable/clickbottom05</item>
+        <item>@drawable/clickbottom06</item>
+        <item>@drawable/clickbottom07</item>
+        <item>@drawable/clickbottom08</item>
+        <item>@drawable/clickbottom03</item>
+        <item>@drawable/clickbottom02</item>
+        <item>@drawable/clickbottom01</item>
+        <item>@drawable/clickbottom01</item>
+        <item>@drawable/clickbottom01</item>
+        <item>@drawable/clickbottom01</item>
+        <item>@drawable/clickbottom01</item>
+        <item>@drawable/clickbottom01</item>
+        <item>@drawable/clickbottom01</item>
+    </array>
     <string-array name="color_mode_descriptions">
         <item>Ενισχυμένα χρώματα</item>
         <item>Φυσικά χρώματα όπως φαίνονται με το μάτι</item>
@@ -778,9 +799,8 @@
         <item>1</item>
     </string-array>
     <string-array name="dark_ui_mode_entries">
-        <item>Αυτόματη (ανάλογα με την ώρα της ημέρας)</item>
-        <item>Πάντα ενεργή</item>
-        <item>Πάντα ανενεργή</item>
+        <item>Σκούρο</item>
+        <item>Ανοικτό</item>
     </string-array>
     <string-array name="data_usage_data_range">
         <item>30 τελευταίες ημέρες</item>
@@ -818,12 +838,6 @@
         <item>5 λεπτά</item>
         <item>10 λεπτά</item>
         <item>30 λεπτά</item>
-    </string-array>
-    <string-array name="eap_method_without_sim_auth">
-        <item>PEAP</item>
-        <item>TLS</item>
-        <item>TTLS</item>
-        <item>PWD</item>
     </string-array>
     <string-array name="enable_opengl_traces_entries">
         <item>Χωρίς</item>
@@ -889,6 +903,15 @@
         <item>com.android.localphone</item>
         <item>com.android.sim</item>
     </string-array>
+    <string-array name="key_and_gesture_shortcut_action">
+        <item>long_press_home_key</item>
+        <item>long_press_menu_key</item>
+        <item>long_press_back_key</item>
+        <item>key_combination_power_home</item>
+        <item>key_combination_power_menu</item>
+        <item>key_combination_power_back</item>
+        <item>key_none</item>
+    </string-array>
     <string-array name="keyguard_notification_status_entries">
         <item>Να μην ενεργοποιηθεί η οθόνη</item>
         <item>Ενεργοποίηση οθόνης</item>
@@ -932,6 +955,43 @@
         <item>Μετά από 5 λεπτά</item>
         <item>Ποτέ</item>
     </string-array>
+    <array name="long_press">
+        <item>@drawable/clickbottom01</item>
+        <item>@drawable/clickbottom01</item>
+        <item>@drawable/clickbottom01</item>
+        <item>@drawable/clickbottom01</item>
+        <item>@drawable/clickbottom01</item>
+        <item>@drawable/clickbottom01</item>
+        <item>@drawable/clickbottom01</item>
+        <item>@drawable/clickbottom01</item>
+        <item>@drawable/clickbottom01</item>
+        <item>@drawable/clickbottom02</item>
+        <item>@drawable/clickbottom03</item>
+        <item>@drawable/clickbottom04</item>
+        <item>@drawable/clickbottom05</item>
+        <item>@drawable/clickbottom06</item>
+        <item>@drawable/clickbottom07</item>
+        <item>@drawable/clickbottom07</item>
+        <item>@drawable/clickbottom07</item>
+        <item>@drawable/clickbottom07</item>
+        <item>@drawable/clickbottom07</item>
+        <item>@drawable/clickbottom07</item>
+        <item>@drawable/clickbottom07</item>
+        <item>@drawable/clickbottom07</item>
+        <item>@drawable/clickbottom07</item>
+        <item>@drawable/clickbottom03</item>
+        <item>@drawable/clickbottom02</item>
+        <item>@drawable/clickbottom01</item>
+        <item>@drawable/clickbottom01</item>
+        <item>@drawable/clickbottom01</item>
+        <item>@drawable/clickbottom01</item>
+        <item>@drawable/clickbottom01</item>
+        <item>@drawable/clickbottom01</item>
+        <item>@drawable/clickbottom01</item>
+        <item>@drawable/clickbottom01</item>
+        <item>@drawable/clickbottom01</item>
+        <item>@drawable/clickbottom01</item>
+    </array>
     <string-array name="long_press_timeout_selector_titles">
         <item>Σύντομο</item>
         <item>Μεσαίο</item>
@@ -999,6 +1059,14 @@
         <item>Πρόσβαση σε προσαρτημένη συσκευή: mtpfs /media/mtp μέσω Διαχείριση Αρχείων; παρόμοιο με τον τοπικό φάκελο.</item>
         <item>"Uninstall device: fusermount -u /media/mtp
 Note: Only for Ubuntu 8.04!"</item>
+    </string-array>
+    <string-array name="msd_pc_system_retry_mac">
+        <item>@string/msd_install_retry_reinstall_mac</item>
+        <item>@string/msd_install_retry_connect</item>
+        <item>@string/msd_install_retry_reinstall</item>
+    </string-array>
+    <string-array name="msd_pc_system_retry_vista">
+        <item>@string/msd_install_retry_connect</item>
     </string-array>
     <string-array name="msd_pc_system_retry_xp">
         <item>@string/msd_install_retry_connect</item>
@@ -1100,6 +1168,97 @@ Note: Only for Ubuntu 8.04!"</item>
         <item>Καταστολή θορύβου μονού μικροφώνου</item>
         <item>Καταστολή θορύβου διπλού μικροφώνου</item>
     </string-array>
+    <array name="power_click">
+        <item>@drawable/powerclick01</item>
+        <item>@drawable/powerclick01</item>
+        <item>@drawable/powerclick01</item>
+        <item>@drawable/powerclick01</item>
+        <item>@drawable/powerclick01</item>
+        <item>@drawable/powerclick01</item>
+        <item>@drawable/powerclick01</item>
+        <item>@drawable/powerclick01</item>
+        <item>@drawable/powerclick01</item>
+        <item>@drawable/powerclick02</item>
+        <item>@drawable/powerclick03</item>
+        <item>@drawable/powerclick04</item>
+        <item>@drawable/powerclick05</item>
+        <item>@drawable/powerclick06</item>
+        <item>@drawable/powerclick07</item>
+        <item>@drawable/powerclick01</item>
+        <item>@drawable/powerclick01</item>
+        <item>@drawable/powerclick01</item>
+        <item>@drawable/powerclick01</item>
+        <item>@drawable/powerclick01</item>
+        <item>@drawable/powerclick01</item>
+        <item>@drawable/powerclick01</item>
+        <item>@drawable/powerclick01</item>
+    </array>
+    <array name="power_double_click">
+        <item>@drawable/powerclick01</item>
+        <item>@drawable/powerclick01</item>
+        <item>@drawable/powerclick01</item>
+        <item>@drawable/powerclick01</item>
+        <item>@drawable/powerclick01</item>
+        <item>@drawable/powerclick01</item>
+        <item>@drawable/powerclick01</item>
+        <item>@drawable/powerclick01</item>
+        <item>@drawable/powerclick01</item>
+        <item>@drawable/powerclick02</item>
+        <item>@drawable/powerclick03</item>
+        <item>@drawable/powerclick04</item>
+        <item>@drawable/powerclick05</item>
+        <item>@drawable/powerclick06</item>
+        <item>@drawable/powerclick07</item>
+        <item>@drawable/powerclick02</item>
+        <item>@drawable/powerclick03</item>
+        <item>@drawable/powerclick04</item>
+        <item>@drawable/powerclick05</item>
+        <item>@drawable/powerclick06</item>
+        <item>@drawable/powerclick07</item>
+        <item>@drawable/powerclick01</item>
+        <item>@drawable/powerclick01</item>
+        <item>@drawable/powerclick01</item>
+        <item>@drawable/powerclick01</item>
+        <item>@drawable/powerclick01</item>
+        <item>@drawable/powerclick01</item>
+        <item>@drawable/powerclick01</item>
+        <item>@drawable/powerclick01</item>
+    </array>
+    <array name="power_long_press">
+        <item>@drawable/powerclick01</item>
+        <item>@drawable/powerclick01</item>
+        <item>@drawable/powerclick01</item>
+        <item>@drawable/powerclick01</item>
+        <item>@drawable/powerclick01</item>
+        <item>@drawable/powerclick01</item>
+        <item>@drawable/powerclick01</item>
+        <item>@drawable/powerclick01</item>
+        <item>@drawable/powerclick01</item>
+        <item>@drawable/powerclick02</item>
+        <item>@drawable/powerclick03</item>
+        <item>@drawable/powerclick04</item>
+        <item>@drawable/powerclick05</item>
+        <item>@drawable/powerclick06</item>
+        <item>@drawable/powerclick07</item>
+        <item>@drawable/powerclick07</item>
+        <item>@drawable/powerclick07</item>
+        <item>@drawable/powerclick07</item>
+        <item>@drawable/powerclick07</item>
+        <item>@drawable/powerclick07</item>
+        <item>@drawable/powerclick07</item>
+        <item>@drawable/powerclick07</item>
+        <item>@drawable/powerclick07</item>
+        <item>@drawable/powerclick03</item>
+        <item>@drawable/powerclick02</item>
+        <item>@drawable/powerclick01</item>
+        <item>@drawable/powerclick01</item>
+        <item>@drawable/powerclick01</item>
+        <item>@drawable/powerclick01</item>
+        <item>@drawable/powerclick01</item>
+        <item>@drawable/powerclick01</item>
+        <item>@drawable/powerclick01</item>
+        <item>@drawable/powerclick01</item>
+    </array>
     <string-array name="power_mode_entries">
         <item>Απόδοση</item>
         <item>Ισορροπημένη</item>
@@ -1114,6 +1273,36 @@ Note: Only for Ubuntu 8.04!"</item>
         <item>Μουσική</item>
         <item>Email</item>
         <item>Αναπαραγωγή βίντεο</item>
+    </string-array>
+    <string-array name="preferred_network_mode_choices">
+        <item>Προτιμώνται GSM/WCDMA</item>
+        <item>Μόνο GSM</item>
+        <item>Μόνο WCDMA</item>
+        <item>Αυτόματο GSM/WCDMA</item>
+        <item>Αυτόματο EvDo/CDMA</item>
+        <item>CDMA χωρίς EvDo</item>
+        <item>Μόνο EvDo</item>
+        <item>CDMA/EvDo/GSM/WCDMA</item>
+        <item>CDMA + LTE/EvDo</item>
+        <item>GSM/WCDMA/LTE</item>
+        <item>Παγκόσμιο</item>
+        <item>LTE</item>
+        <item>LTE/WCDMA</item>
+        <item>Μόνο TDSCDMA</item>
+        <item>TDSCDMA/WCDMA</item>
+        <item>LTE/TDSCDMA</item>
+        <item>TDSCDMA/GSM</item>
+        <item>LTE/TDSCDMA/GSM</item>
+        <item>TDSCDMA/GSM/WCDMA</item>
+        <item>LTE/TDSCDMA/WCDMA</item>
+        <item>LTE/TDSCDMA/GSM/WCDMA</item>
+        <item>TDSCDMA/CDMA/EVDO/GSM/WCDMA</item>
+        <item>LTE/TDSCDMA/CDMA/EVDO/GSM/WCDMA</item>
+    </string-array>
+    <string-array name="preferred_network_mode_choices_world_mode">
+        <item>Παγκόσμιο</item>
+        <item>LTE/CDMA</item>
+        <item>LTE/GSM/UMTS</item>
     </string-array>
     <string-array name="priority_storage_entries">
         <item>Εσωτερικός χώρος αποθήκευσης</item>
@@ -1180,12 +1369,17 @@ Note: Only for Ubuntu 8.04!"</item>
     <string-array name="screen_optimize_summary">
         <item>Προσαρμογή χρωμάτων βάσει τρέχοντος φωτισμού</item>
         <item>Πάντα ενίσχυση χρωμάτων</item>
-        <item>Η αντίθεση θα παραμείνει σταθερή</item>
+        <item>Επαναφορά τυπικού χρώματος περιεχομένου οθόνης με βαθμονόμιση χρώματος</item>
     </string-array>
     <string-array name="screen_optimize_title">
         <item>Αυτόματα (προτεινόμενο)</item>
         <item>Κορεσμός</item>
-        <item>Κανονικό</item>
+        <item>Πρωτότυπο χρώμα</item>
+    </string-array>
+    <string-array name="screen_resolution_format">
+        <item>@string/screen_resolution_ultrahigh_format</item>
+        <item>@string/screen_resolution_high_format</item>
+        <item>@string/screen_resolution_normal_format</item>
     </string-array>
     <string-array name="screen_resolution_text">
         <item>2K</item>
@@ -1254,6 +1448,10 @@ Note: Only for Ubuntu 8.04!"</item>
         <item>Σχεδίαση μη ορθογώνιας περιοχής κλιπ με μπλε</item>
         <item>Επισήμανση δοκιμασμένων εντολών σχεδίασης με πράσινο</item>
     </string-array>
+    <string-array name="silent_entries">
+        <item>@string/standard</item>
+        <item>@string/total</item>
+    </string-array>
     <string-array name="silent_mode_duration_text">
         <item>Πάντα</item>
         <item>30 λεπτά</item>
@@ -1276,6 +1474,35 @@ Note: Only for Ubuntu 8.04!"</item>
         <item>Αποδοχή</item>
         <item>Απόρριψη</item>
     </string-array>
+    <string-array name="swipe_direction_values">
+        <item>1</item>
+        <item>0</item>
+    </string-array>
+    <array name="three_drop">
+        <item>@drawable/threedrop01</item>
+        <item>@drawable/threedrop01</item>
+        <item>@drawable/threedrop01</item>
+        <item>@drawable/threedrop01</item>
+        <item>@drawable/threedrop01</item>
+        <item>@drawable/threedrop01</item>
+        <item>@drawable/threedrop01</item>
+        <item>@drawable/threedrop01</item>
+        <item>@drawable/threedrop01</item>
+        <item>@drawable/threedrop02</item>
+        <item>@drawable/threedrop03</item>
+        <item>@drawable/threedrop04</item>
+        <item>@drawable/threedrop05</item>
+        <item>@drawable/threedrop06</item>
+        <item>@drawable/threedrop07</item>
+        <item>@drawable/threedrop07</item>
+        <item>@drawable/threedrop07</item>
+        <item>@drawable/threedrop07</item>
+        <item>@drawable/threedrop07</item>
+        <item>@drawable/threedrop07</item>
+        <item>@drawable/threedrop07</item>
+        <item>@drawable/threedrop07</item>
+        <item>@drawable/threedrop07</item>
+    </array>
     <string-array name="time_format_entries">
         <item>12 ώρες 1:00 μ.μ.</item>
         <item>24 ώρες 13:00</item>
@@ -1377,6 +1604,10 @@ Note: Only for Ubuntu 8.04!"</item>
         <item>2</item>
         <item>3</item>
     </string-array>
+    <string-array name="vpn_proxy_settings">
+        <item>Κανένα</item>
+        <item>Χειροκίνητα</item>
+    </string-array>
     <string-array name="vpn_states">
         <item>Αποσυνδέθηκε</item>
         <item>Προετοιμασία...</item>
@@ -1418,14 +1649,13 @@ Note: Only for Ubuntu 8.04!"</item>
         <item>Ποσοστό (μέσα στο εικονίδιο)</item>
         <item>Ποσοστό (δίπλα στο εικονίδιο στον Πίνακα ειδοποιήσεων)</item>
     </string-array>
+    <string-array name="wifi_ap_band_config_2G_5G">
+        <item>@string/wifi_ap_choose_2G</item>
+        <item>@string/wifi_ap_choose_5G</item>
+    </string-array>
     <string-array name="wifi_ap_security">
         <item>@string/wifi_security_none</item>
         <item>@string/wifi_security_wpa2</item>
-    </string-array>
-    <string-array name="wifi_calling_mode_choices">
-        <item>Προτίμηση Wi-Fi</item>
-        <item>Προτίμηση δικτύου κινητής τηλεφωνίας</item>
-        <item>Μόνο Wi-Fi</item>
     </string-array>
     <string-array name="wifi_calling_mode_choices_v2">
         <item>Wi-Fi</item>
@@ -1435,19 +1665,6 @@ Note: Only for Ubuntu 8.04!"</item>
     <string-array name="wifi_calling_mode_choices_v2_without_wifi_only">
         <item>Wi-Fi</item>
         <item>Δίκτυο κινητής τηλεφωνίας</item>
-    </string-array>
-    <string-array name="wifi_calling_mode_choices_without_wifi_only">
-        <item>Προτίμηση Wi-Fi</item>
-        <item>Προτίμηση δικτύου κινητής τηλεφωνίας</item>
-    </string-array>
-    <string-array name="wifi_calling_mode_values">
-        <item>2</item>
-        <item>1</item>
-        <item>0</item>
-    </string-array>
-    <string-array name="wifi_calling_mode_values_without_wifi_only">
-        <item>2</item>
-        <item>1</item>
     </string-array>
     <string-array name="wifi_connect_type_entries">
         <item>Αυτόματη σύνδεση</item>
@@ -1459,15 +1676,6 @@ Note: Only for Ubuntu 8.04!"</item>
         <item>TLS</item>
         <item>TTLS</item>
         <item>PWD</item>
-    </string-array>
-    <string-array name="wifi_eap_method">
-        <item>PEAP</item>
-        <item>TLS</item>
-        <item>TTLS</item>
-        <item>PWD</item>
-        <item>SIM</item>
-        <item>AKA</item>
-        <item>"AKA'"</item>
     </string-array>
     <string-array name="wifi_hidden_entries">
         <item>Όχι</item>
@@ -1514,6 +1722,10 @@ Note: Only for Ubuntu 8.04!"</item>
         <item>MSCHAPV2</item>
         <item>GTC</item>
     </string-array>
+    <string-array name="wifi_privacy_entries">
+        <item>Χρήση τυχαίου MAC (προεπιλογή)</item>
+        <item>Χρήση MAC συσκευής</item>
+    </string-array>
     <string-array name="wifi_proxy_settings">
         <item>Κανένα</item>
         <item>Μη αυτόματες</item>
@@ -1557,10 +1769,6 @@ Note: Only for Ubuntu 8.04!"</item>
         <item>Ανεπιτυχής</item>
         <item>Έγινε αποκλεισμός</item>
         <item>Προσωρινή αποφυγή κακής σύνδεσης</item>
-    </string-array>
-    <string-array name="wifi_tether_security_values">
-        <item>4</item>
-        <item>0</item>
     </string-array>
     <string-array name="window_animation_scale_entries">
         <item>Κινούμενα σχέδια ανενεργά</item>

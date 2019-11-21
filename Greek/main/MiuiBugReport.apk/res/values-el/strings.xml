@@ -32,7 +32,6 @@
 3. Επιστρέψτε σε αυτή τη σελίδα και πατήστε \"Τελείωμα και ανέβασμα\"."</string>
     <string name="catch_full_log_item_content_title">Βήματα:</string>
     <string name="catch_full_log_item_title_audio">Ήχος, εγγραφή ήχου, και κλήσεις ήχου</string>
-    <string name="catch_full_log_item_title_bt">Bluetooth</string>
     <string name="catch_full_log_item_title_dump_heap">Καθυστερήσεις</string>
     <string name="catch_full_log_item_title_gps">Υπηρεσίες τοποθεσίας</string>
     <string name="catch_full_log_item_title_sensor">Αισθητήρες</string>
@@ -57,7 +56,6 @@
     <string name="customer_service_apply">Αίτηση για εξυπηρέτηση πελατών</string>
     <string name="customer_service_complain">Αναφορά εξυπηρέτησης πελατών</string>
     <string name="customer_service_station">Τοποθεσίες υπηρεσίας</string>
-    <string name="default_text_view">TextView</string>
     <string name="description">Περιγραφή του θέματος</string>
     <string name="dialog_ask_delete">Διαγραφή</string>
     <string name="dialog_ask_quit">Έξοδος</string>
@@ -68,7 +66,6 @@
     <string name="err_type">Τύπος bug</string>
     <string name="err_type_app">Εφαρμογές</string>
     <string name="err_type_appstore">Κατάστημα εφαρμογών</string>
-    <string name="err_type_bluetooth">Bluetooth</string>
     <string name="err_type_camera">Κάμερα</string>
     <string name="err_type_hardware">Υλισμικό</string>
     <string name="err_type_hardware_summary">Κουμπιά, φόρτιση, αισθητήρες, κλπ.</string>
@@ -82,7 +79,6 @@
     <string name="err_type_system_summary">Μνήμη, απόδοση, κλπ.</string>
     <string name="err_type_systemapp">MIUI εφαρμογές</string>
     <string name="err_type_translate">Γλώσσα</string>
-    <string name="err_type_wifi">Wi-Fi</string>
     <string name="err_type_xiaomi_family">Mi Σπίτι</string>
     <string name="err_type_xiaomi_service">Εξυπηρέτηση πελατών</string>
     <string name="error_no_connection">Αδυναμία σύνδεσης στο δίκτυο</string>
@@ -120,8 +116,6 @@
     <string name="feedback_empty_report_list">Καμία αναφορά ακόμα</string>
     <string name="feedback_guess">Η γνώμη μας:</string>
     <string name="feedback_history_remind_login_desc">Συνδεθείτε με το Mi Λογαριασμό σας για να δείτε λεπτομέρειες και την πρόοδο της αναφορά σας</string>
-    <string name="feedback_id">ID: %d</string>
-    <string name="feedback_jira_key">JIRA Key: %s</string>
     <string name="feedback_jira_key_place_holder">Γίνεται δημιουργία Jira…</string>
     <string name="feedback_package_log_failed">Αδυναμία συμπίεσης αρχείων καταγραφής</string>
     <string name="feedback_phone_model_label">Μοντέλο τηλεφώνου</string>
@@ -187,8 +181,6 @@
     <string name="feedback_tracking">Παρακολούθηση προβλημάτων</string>
     <string name="feedback_version_label">Έκδοση</string>
     <string name="feesback_list">Αναφορές</string>
-    <string name="first_position">2#</string>
-    <string name="floor">%1$s#</string>
     <string name="from">από %1$s</string>
     <string name="goon_feedback_main">Συνέχεια</string>
     <string name="hint_feedback_main">Περιγράψτε το πρόβλημα</string>
@@ -219,11 +211,9 @@
     <string name="mi_service_dialog_content">Όλα τα χαρακτηριστικά σχολίων μετακινήθηκαν στην νέα εφαρμογή \"Υπηρεσίες και σχόλια\". Η εφαρμογή Σχόλια θα αφαιρεθεί από την Αρχική σας οθόνη. Πατήστε το \"Άνοιγμα\" για να δοκιμάσετε την εφαρμογή \"Υπηρεσίες και σχόλια\".</string>
     <string name="mi_service_dialog_title">Σας παρουσιάζουμε την εφαρμογή \"Υπηρεσίες και σχόλια\"</string>
     <string name="michat_app_name">Online υποστήριξη</string>
-    <string name="michat_artificial_customer_phone">4001005678</string>
     <string name="michat_artificial_customer_phone_dial_error">Αν δεν μπορείτε να καλέσετε την γραμμή βοήθειας 400, καλέστε %1$s από ένα άλλο τηλέφωνο</string>
     <string name="michat_artificial_customer_text">Προσωπικό υποστήριξης</string>
     <string name="michat_attach_image">Εικόνα</string>
-    <string name="michat_attach_smiley">Emoticon</string>
     <string name="michat_attach_take_photo">Κάμερα</string>
     <string name="michat_back_to_detail">Επιστροφή στην συνομιλία</string>
     <string name="michat_cant_access_artificial">Αδυναμία επικοινωνίας με την υποστήριξη αυτή την στιγμή</string>
@@ -325,7 +315,6 @@
     <string name="network_unavailable_dialog_content">Η αναφορά σας θα υποβληθεί όταν έχετε σύνδεση δεδομένων κινητής.</string>
     <string name="network_unavailable_dialog_title">Αδυναμία σύνδεσης στο δίκτυο</string>
     <string name="non_system_app_select">Ληφθείσες εφαρμογές</string>
-    <string name="nothing">--</string>
     <string name="open_feedback_main">Περισσότερα</string>
     <string name="packaging_dialog_content">Γίνεται δημιουργία αναφοράς…</string>
     <string name="passport_access_denied">Απορρίφθηκε η πρόσβαση</string>
@@ -483,6 +472,7 @@
     <string name="passport_wrong_phone_number_format">Ο αριθμός τηλεφώνου που εισαγάγατε δεν είναι έγκυρος</string>
     <string name="passport_wrong_vcode">Ο κωδικός που εισαγάγατε είναι εσφαλμένος</string>
     <string name="pic_not_exist">Η εικόνα δεν υπάρχει</string>
+    <string name="pic_view_format">%1$s\"/\"%2$s</string>
     <string name="plus_one_submit_dialog_content">Τα σχόλιά σας μαζί με αρχεία καταγραφής σφαλμάτων θα σταλούν στους διακομιστές της Mi.</string>
     <string name="plus_one_submit_dialog_not_show_again">Απομνημόνευση προτίμησης</string>
     <string name="post_miui_bbs_failed">Αδυναμία δημοσίευσης στο MIUI Φόρουμ</string>
@@ -504,7 +494,6 @@
     <string name="save_pic_fail">Δεν ήταν δυνατή η αποθήκευση της εικόνας, ελέγξτε την κάρτα SD σας</string>
     <string name="save_pic_success">Η εικόνα αποθηκεύτηκε σε %s</string>
     <string name="screen_lock">Κλείδωμα οθόνης</string>
-    <string name="second_position">3#</string>
     <string name="section_description">Περιγραφή</string>
     <string name="section_err_type">Τύπος bug</string>
     <string name="section_screenshot">Στιγμιότυπο οθόνης</string>
@@ -557,7 +546,6 @@
     <string name="toast_screenshot_too_large">Δεν είναι δυνατή η μεταφόρτωση εικόνων ή βίντεο μεγαλύτερων από 100MB.</string>
     <string name="toast_third_packagename_required">Εισαγωγή ονόματος εφαρμογής</string>
     <string name="toast_title_required">Περιγράψτε το πρόβλημα σας</string>
-    <string name="topic_author">1#</string>
     <string name="try_again">Προσπαθήστε ξανά</string>
     <string name="upload_log_failed">Αδυναμία υποβολής αρχείων καταγραφής</string>
     <string name="warning_field_empty">Εισαγάγετε %1$s</string>

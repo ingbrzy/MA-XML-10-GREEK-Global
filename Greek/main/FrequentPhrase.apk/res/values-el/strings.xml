@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="edit_frequent_phrases">Επεξεργασία συχνών φράσεων</string>
-    <string name="menu_add_frequent_phrases">Προσθήκη</string>
-    <string name="menu_edit">Επεξεργασία</string>
-    <string name="menu_delete">Διαγραφή</string>
-    <string name="frequent_phrases_des">Εισαγωγή συχνών φράσεων με μόλις λίγες κινήσεις κατά την επεξεργασία κειμένου</string>
     <string name="add_frequent_phrases">Προσθήκη συχνών φράσεων</string>
     <string name="delete_frequent_phrases">Διαγραφή συχνών φράσεων</string>
     <string name="delete_frequent_phrases_confirm">Διαγραφή επιλεγμένων συχνών φράσεων;</string>
+    <string name="edit_frequent_phrases">Επεξεργασία συχνών φράσεων</string>
+    <string name="frequent_phrases_des">Εισαγωγή συχνών φράσεων με μόλις λίγες κινήσεις κατά την επεξεργασία κειμένου</string>
     <string name="frequent_phrases_size_exceeded">Δυνατότητα προσθήκης μέχρι %1$d συχνών φράσεων. Διαγράψτε όσες δεν χρειάζεστε για να προσθέστε περισσότερες.</string>
+    <string name="menu_add_frequent_phrases">Προσθήκη</string>
+    <string name="menu_delete">Διαγραφή</string>
+    <string name="menu_edit">Επεξεργασία</string>
     <string name="sync_phrase_label">Συχνές φράσεις</string>
 </resources>

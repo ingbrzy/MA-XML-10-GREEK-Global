@@ -37,6 +37,8 @@
         <item>Άλλο</item>
         <item>Προσαρμοσμένο</item>
     </string-array>
+    <array name="face_acquired_vendor" />
+    <array name="face_error_vendor" />
     <array name="fingerprint_acquired_vendor" />
     <array name="fingerprint_error_vendor" />
     <string-array name="imAddressTypes">
@@ -57,9 +59,5 @@
     </string-array>
     <string-array name="wfcOperatorErrorNotificationMessages">
         <item>Παρουσιάστηκε πρόβλημα με την εγγραφή της κλήσης Wi‑Fi με την εταιρεία κινητής τηλεφωνίας: %1$s</item>
-    </string-array>
-    <string-array name="wfcSpnFormats">
-        <item>%s</item>
-        <item>%s Κλήση Wi-Fi</item>
     </string-array>
 </resources>

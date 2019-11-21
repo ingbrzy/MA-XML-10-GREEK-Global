@@ -12,6 +12,7 @@
     <string name="call_record_list_group_all">Όλα</string>
     <string name="call_record_list_group_connected">Σε σύνδεση</string>
     <string name="call_record_list_group_unconnected">Δεν έγινε σύνδεση</string>
+    <string name="cancel_rename">Ακύρωση</string>
     <string name="clear_records">Διαγραφή συγχρονισμένων ηχογραφήσεων</string>
     <string name="cloud_record_open">Συγχρονισμός ηχογραφήσεων</string>
     <string name="cloud_record_tip">Συγχρονισμός ηχογραφήσεων με το Xiaomi Cloud.</string>
@@ -31,7 +32,6 @@
     <string name="dialog_privacy_revoke_tips">Μετά την ανάκληση εξουσιοδότησης, η εφαρμογή θα διακόψει τη συλλογή δεδομένων, και όλα τα σχετικά δεδομένα θα διαγραφούν από τους διακομιστές. Αυτό ενδέχεται να καταστήσει άχρηστη την εφαρμογή. Ανάκληση εξουσιοδότησης παρόλα αυτά; Για να εξασφαλίσετε την ασφάλεια του λογαριασμού σας, συνδεθείτε στο i.mi.com πριν ανακαλέσετε εξουσιοδότηση για τις υπηρεσίες Xiaomi Cloud.</string>
     <string name="dialog_title_storage_full">Ανεπαρκής χώρος</string>
     <string name="download">Λήψη</string>
-    <string name="duration_format_hour">%sh</string>
     <string name="duration_format_minute">%sλ</string>
     <string name="duration_format_second">%sδ</string>
     <string name="empty_recognition_tip">Κενό</string>
@@ -73,6 +73,7 @@
     <string name="korea_permission_record_resc">Για την εγγραφή ήχου</string>
     <string name="korea_permission_storage">χώρος αποθήκευσης</string>
     <string name="korea_permission_storage_desc">Για την αποθήκευση εγγραφών</string>
+    <string name="loading_more">Μια στιγμή…</string>
     <string name="loading_order_list">Μια στιγμή…</string>
     <string name="loading_order_list_empty">Δεν υπάρχουν παραγγελίες εδώ.</string>
     <string name="low_battery_error">Απομένει λιγότερο από 5% της μπαταρίας. Σταματήστε και αποθηκεύστε την ηχογράφησή σας για να βεβαιωθείτε ότι δεν θα χαθεί.</string>
@@ -105,7 +106,6 @@
     <string name="online_recognize_duration_limite">(Έναρξη από 10 λεπτά)</string>
     <string name="online_recognize_fail">Αδυναμία μεταγραφής</string>
     <string name="online_recognize_login_fail">Αδυναμία σύνδεσης</string>
-    <string name="online_recognize_order_audio_price">%s CNY</string>
     <string name="online_recognize_order_create">Σύνδεση</string>
     <string name="online_recognize_order_duration_key">Διάρκεια</string>
     <string name="online_recognize_order_pay">Πληρωμή και προβολή αποτελεσμάτων</string>
@@ -121,11 +121,11 @@
     <string name="online_recognize_order_upload">Επιβεβαίωση και μεταφόρτωση</string>
     <string name="online_recognize_order_uploading">Γίνεται μεταφόρτωση %s…</string>
     <string name="online_recognize_other_order_upload">Περιμένετε έως ότου να ολοκληρωθούν οι τρέχουσες μεταφορτώσεις και δοκιμάστε ξανά.</string>
+    <string name="online_recognize_progress">Μεταγραφή %s…</string>
     <string name="online_recognize_running">Μεταγραφή…</string>
     <string name="online_recognize_service_unavailable">Η υπηρεσία δεν είναι διαθέσιμη τώρα. Περιμένετε ένα - δύο λεπτά και δοκιμάστε ξανά.</string>
     <string name="order_item_duration">Διάρκεια: %s</string>
     <string name="order_item_number">Αριθμός παραγγελίας: %s</string>
-    <string name="order_item_price">%s CNY</string>
     <string name="path_soundrecorder_setting">Εφαρμογές συστήματος/Ηχογράφηση</string>
     <string name="pause">Παύση</string>
     <string name="pay_error_cancel">Η πληρωμή ακυρώθηκε</string>
@@ -190,15 +190,12 @@
     <string name="record_format_preference_title">Μορφή ηχογράφησης</string>
     <string name="record_list">Εγγραφές</string>
     <string name="record_list_call">Ηχογραφημένες κλήσεις</string>
-    <string name="record_list_category_title_format">MMMM yyyy</string>
     <string name="record_list_cloud">Συγχρονισμένες εγγραφές</string>
     <string name="record_list_cloud_call">Συγχρονισμένες καταγεγραμμένες κλήσεις</string>
     <string name="record_list_cloud_fm">Συγχρονισμένες FM εγγραφές</string>
     <string name="record_list_fm">Εγγραφές FM</string>
     <string name="record_list_item_recognize_text">Κείμενο</string>
     <string name="record_mark_point">Επιλογή %s</string>
-    <string name="record_name_hour">.</string>
-    <string name="record_name_minute" />
     <string name="record_quliaty_preference_title">Ποιότητα ηχογράφησης</string>
     <string name="record_resotre">Ανάκτηση αρχείων</string>
     <string name="recording">Γίνεται εγγραφή</string>
@@ -225,7 +222,9 @@
     <string name="retry">Επανάληψη</string>
     <string name="runtime_permission_ungranted">Αδυναμία χρήσης Ηχογράφησης λόγω μη εγκεκριμένων αδειών</string>
     <string name="search_app">Ηχογράφηση</string>
+    <string name="search_empty">Αδυναμία εύρεσης αποτελεσμάτων</string>
     <string name="search_enable_earpiece_title">Χρήση δέκτη για αναπαραγωγή ήχου</string>
+    <string name="search_hint">Αναζήτηση</string>
     <string name="search_led_indicator">Ειδοποιήσεις οθόνης κλειδώματος</string>
     <string name="search_led_indicator_prompt">Κατά την εγγραφή, να γίνεται προβολή συντόμευσης γραμμής προόδου και ειδοποίηση με παλλόμενο φως στο κλείδωμα Οθόνης</string>
     <string name="search_quliaty_title">Ποιότητα εγγραφής</string>
@@ -261,9 +260,6 @@
     <string name="text_play_speed_1_0">Κανονική ταχύτητα αναπαραγωγής</string>
     <string name="text_play_speed_1_5">Ταχύτητα αναπαραγωγής 1.5X</string>
     <string name="text_play_speed_2_0">Ταχύτητα αναπαραγωγής 2X</string>
-    <string name="timer_format" formatted="false">%02d:%02d</string>
-    <string name="timer_format_three_sections" formatted="false">%02d:%02d:%02d</string>
-    <string name="title_activity_recinbox_sdk_browser">RecinboxSdkBrowser</string>
     <string name="toast_max_record_time">%1$s έχει δυνατότητα εγγραφής για περίπου %2$s</string>
     <string name="toast_uninstall_fileexplorer">Η Διαχείριση Αρχείων δεν έχει εγκατασταθεί</string>
     <string name="usage_description">Γίνεται μεταγραφή ήχου και συγχρονισμός αντικειμένων με το cloud</string>

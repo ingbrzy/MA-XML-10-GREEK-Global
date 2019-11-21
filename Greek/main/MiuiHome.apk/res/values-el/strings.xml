@@ -24,7 +24,6 @@
     <string name="announce_for_close_folder">Κλείσατε φάκελο</string>
     <string name="announce_for_close_launcher_menu">Έγινε κλείσιμο μενού</string>
     <string name="announce_for_create_folder_with_app">Δημιουργήθηκε φάκελος με %1$s</string>
-    <string name="announce_for_delete_gadget_and_widget">Widget</string>
     <string name="announce_for_delete_item">%1$s διεγράφη</string>
     <string name="announce_for_drag_enter_delete_zone">Σύρατε αντικείμενα στην ζώνη απεγκατάστασης</string>
     <string name="announce_for_drag_enter_folder_grid">Μπορείτε να αφήστε αντικείμενα στον φάκελο</string>
@@ -48,7 +47,6 @@
     <string name="announce_for_show_uninstall_dialog">Εμφανίστηκε παράθυρο απεγκατάστασης. Ακύρωση ή επιβεβαίωση.</string>
     <string name="announce_for_unchecked">%1$s, δεν ελέγχθηκε</string>
     <string name="announce_for_widget_span">Πλάτος %1$d, ύψος %2$d</string>
-    <string name="announce_for_xiaoai">Mi AI</string>
     <string name="app_already_exist">Η εφαρμογή υπάρχει ήδη</string>
     <string name="app_being_backup_message">Δημιουργείται αντίγραφο ασφαλείας για την εφαρμογή</string>
     <string name="app_being_restored_message">Γίνεται επαναφορά εφαρμογής</string>
@@ -68,7 +66,6 @@
     <string name="app_category_sport">Αθλητικά</string>
     <string name="app_category_tools">Εργαλεία</string>
     <string name="app_category_travel">Ταξίδια</string>
-    <string name="app_category_vr">VR</string>
     <string name="application_name">Launcher συστήματος</string>
     <string name="apply">Ορισμός</string>
     <string name="apply_action">Ορισμός</string>
@@ -95,7 +92,6 @@
     <string name="chooser_wallpaper">Επιλογή νέας ταπετσαρίας</string>
     <string name="cloud_app_restore_title">Προς διεκπεραίωση</string>
     <string name="configure_wallpaper">Ρυθμίσεις</string>
-    <string name="confirm_btn_label">OK</string>
     <string name="confirm_uninstall_dialog_contain_xspace_app_msg">Διπλότυπες εφαρμογές θα απεγκατασταθούν ταυτόχρονα με αυτές.</string>
     <string name="confirm_uninstall_dialog_has_xspace_app_msg">Η διπλότυπη εφαρμογή θα απεγκατασταθεί ταυτόχρονα με αυτήν.</string>
     <string name="confirm_uninstall_dialog_title">Οι διπλότυπες εφαρμογές θα καταργηθούν</string>
@@ -106,25 +102,19 @@
     <string name="current_wallpaper">Τρέχουσα</string>
     <string name="custom_wallpaper_picker">Αναζήτηση</string>
     <string name="defalut_launcher_title">Προεπιλεγμένο launcher</string>
-    <string name="default_folder_title_claro">Claro</string>
     <string name="default_folder_title_game">Παιχνίδια</string>
     <string name="default_folder_title_meitu">Εφαρμογές Meitu</string>
-    <string name="default_folder_title_microsoft">Microsoft</string>
     <string name="default_folder_title_recommend">Περισσότερες εφαρμογές</string>
     <string name="default_folder_title_security">Σύστημα</string>
     <string name="default_folder_title_services">Υπηρεσίες</string>
-    <string name="default_folder_title_telcel">Telcel</string>
     <string name="default_folder_title_tools">Εργαλεία</string>
     <string name="default_screen_preview_title">Ορισμός προεπιλεγμένης οθόνης</string>
-    <string name="default_shortcut_title_10086">10086.cn</string>
     <string name="delete">Διαγραφή</string>
     <string name="delete_screen">Διαγραφή οθόνης</string>
     <string name="delete_wallpaper_message">Διαγραφή %1$d ταπετσαρίας;</string>
     <string name="deselect_all">Αποεπιλογή όλων</string>
     <string name="disable_wallpaper_scroll">Απενεργοποίηση πλάγιου ξεφυλλίσματος</string>
     <string name="download_action">Λήψη</string>
-    <string name="drag_multiple_item_name" />
-    <string name="drag_single_item_name" />
     <string name="dual_app">Διπλότυπες εφαρμογές</string>
     <string name="edit_folder_title">Επεξεργασία ονόματος φακέλου</string>
     <string name="edit_mode_dual_app">Δημιουργία διπλότυπης εφαρμογής</string>
@@ -162,7 +152,6 @@
     <string name="free_style_edit_move_tip">Πατήστε &amp; πατήστε παρατεταμένα για μετακίνηση ενός αντικειμένου</string>
     <string name="free_style_edit_tab_free_component">Αντικείμενα</string>
     <string name="free_style_edit_tab_shortcut">Συντομεύσεις</string>
-    <string name="free_style_edit_tab_widget">Widgets</string>
     <string name="free_style_enter_tip">Για προβολή του Mi Χώρου, σαρώστε από την κορυφή της οθόνης προς τα κάτω με δύο δάχτυλα</string>
     <string name="free_style_exit_tip">Για επιστροφή στην Αρχική Οθόνη, σαρώστε από κάτω προς τα πάνω στην οθόνη με δύο δάχτυλα</string>
     <string name="free_style_londing_text">Περιμένετε μία στιγμή…</string>
@@ -269,7 +258,6 @@
     <string name="notification_installed">Εγκαταστάθηκε επιτυχώς</string>
     <string name="notification_open_button">Άνοιγμα</string>
     <string name="notification_reset_title">Επιτυχής ταξινόμηση εκονιδίων</string>
-    <string name="online_wallpaper">Online</string>
     <string name="open_personal_assistant_dialog_btn_cancel">Ακύρωση</string>
     <string name="open_personal_assistant_dialog_btn_confirm">Απενεργοποίηση</string>
     <string name="open_personal_assistant_dialog_desc">Δεν θα έχετε την δυνατότητα χρήσης της Αποθήκης εφαρμογών και λήψης των ενημερώσεων της. Απενεργοποίηση τώρα;</string>
@@ -308,10 +296,9 @@
     <string name="preferred_app_settings_not_selected">Καμία επιλογή</string>
     <string name="privacy_thumbnail_blur_summary">Θόλωση προεπισκόπησης εφαρμογών στα Πρόσφατα</string>
     <string name="privacy_thumbnail_blur_title">Θόλωση προεπισκόπησης εφαρμογών</string>
-    <string name="quick_app">Άμεσες εφαρμογές</string>
+    <string name="quick_app">Γρήγορες εφαρμογές</string>
     <string name="recent_apps">Πρόσφατες</string>
     <string name="recents_config_title">Πρόσφατα</string>
-    <string name="recommend_apk_size_and_desc">%1$dMB | %2$s</string>
     <string name="recommend_apps_default_title">Κενό</string>
     <string name="recommend_apps_no_data">Χωρίς δεδομένα</string>
     <string name="recommend_apps_no_data_toast">Δεν υπάρχουν προτάσεις προς το παρόν.</string>

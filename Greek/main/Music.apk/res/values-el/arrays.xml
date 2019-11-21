@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="recommendation_desc_week">
+        <item>Προτεινόμενα της Κυριακής</item>
+        <item>Προτεινόμενα της Δευτέρας</item>
+        <item>Προτεινόμενα της Τρίτης</item>
+        <item>Προτεινόμενα της Τετάρτης</item>
+        <item>Προτεινόμενα της Πέμπτης</item>
+        <item>Προτεινόμενα της Παρασκεύης</item>
+        <item>Προτεινόμενα του Σαββάτου</item>
+    </string-array>
+</resources>

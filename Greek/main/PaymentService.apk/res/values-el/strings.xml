@@ -1,8 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="abc_action_bar_home_description">Πλοήγηση στην αρχική σελίδα</string>
-    <string name="abc_action_bar_home_description_format">%1$s, %2$s</string>
-    <string name="abc_action_bar_home_subtitle_description_format">%1$s, %2$s, %3$s</string>
     <string name="abc_action_bar_up_description">Πλοήγηση προς τα επάνω</string>
     <string name="abc_action_menu_overflow_description">Περισσότερες επιλογές</string>
     <string name="abc_action_mode_done">Τέλος</string>
@@ -48,7 +46,6 @@
  σύνδεσμο που στείλαμε στα εισερχόμενα του email σας."</string>
     <string name="passport_completed">Τέλος</string>
     <string name="passport_confirm_recycle_account">Ναι</string>
-    <string name="passport_confirm_recycle_account_msg">%s &lt;font color=Red>疑似&lt;/font>是运营商回收后再次收买的号码，该号码下已有小米帐号，这个帐号是你的吗？</string>
     <string name="passport_continue">Συνέχεια</string>
     <string name="passport_copy_message_text_success">Επιτυχής αντιγραφή</string>
     <string name="passport_copy_message_vcode">Αντιγραφή κωδικού</string>

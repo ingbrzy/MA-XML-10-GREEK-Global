@@ -1,9 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string-array name="user_detail_fixed_items">
-        <item>Εμφάνιση συγχρονισμένων αντικειμένων</item>
-        <item>Λεπτομέρειες αποθηκευτικού χώρου</item>
-    </string-array>
     <string-array name="korea_permission_groups_descriptions">
         <item>Για τον εντοπισμό συγχρονισμένων αντικειμένων</item>
         <item>Για τον συγχρονισμό μηνυμάτων</item>
@@ -18,30 +14,74 @@
         <item>Ημερολόγιο</item>
         <item>Χώρος αποθήκευσης</item>
     </string-array>
+    <string-array name="micloud_entrance_subtitleArray">
+        <item>Συγχρονίστε τις επαφές, μηνύματα, σημειώσεις, ημερολόγιο και περισσότερα</item>
+        <item>Δημιουργήστε αντίγραφα ασφαλείας για εφαρμογές, διάταξη Αρχικής οθόνης, και ταπετσαρίες</item>
+        <item>Δημιουργήστε αντίγραφα ασφαλείας για σημαντικές ρυθμίσεις, όπως Wi-Fi και προβολή</item>
+        <item>Κλειδώστε την συσκευή σας από μακριά σε περίπτωση απώλειας της</item>
+    </string-array>
+    <string-array name="micloud_entrance_titleArray">
+        <item>Συγχρονισμός δεδομένων εφαρμογής</item>
+        <item>Δημιουργία αντίγραφου ασφαλείας για διάταξη Αρχικής οθόνης</item>
+        <item>Δημιουργία αντίγραφου ασφαλείας για ρυθμίσεις συστήματος</item>
+        <item>Εύρεση συσκευής</item>
+    </string-array>
+    <string-array name="priv_dialog_finddevice_runtime_perm_desc">
+        <item>For identifying your device</item>
+        <item>For locating your device and switching to the lost mode</item>
+    </string-array>
+    <string-array name="priv_dialog_sync_runtime_perm_desc">
+        <item>For syncing events</item>
+        <item>For syncing messages</item>
+        <item>For syncing messages</item>
+        <item>For syncing contacts</item>
+        <item>For syncing contacts</item>
+        <item>For saving items on your device (e.g. images, videos, songs)</item>
+    </string-array>
+    <string-array name="settings_search_backup_manage">
+        <item>Αντίγραφα ασφαλείας</item>
+        <item>Αντίγραφα ασφαλείας που έχουν ήδη δημιουργηθεί</item>
+        <item>Cloud,Δημιουργία αντίγραφου ασφαλείας,Αντίγραφα ασφαλείας,Υπηρεσίες Cloud,Xiaomi Cloud,Αρχική Οθόνη,Διάταξη,Εφαρμογές,Διαχείριση αντιγράφων ασφαλείας,Επαναφορά</item>
+    </string-array>
+    <string-array name="settings_search_backup_setting">
+        <item>Δημιουργία αντίγραφου ασφαλείας Αρχικής οθόνης για το Xiaomi Cloud</item>
+        <item>Δημιουργία αντίγραφου ασφαλείας για διάταξη Αρχικής Οθόνης, λίστα εγκαταστημένων εφαρμογών, και ρυθμίσεις συστήματος</item>
+        <item>Cloud,Δημιουργία αντίγραφου ασφαλείας,Αντίγραφα ασφαλείας,Υπηρεσίες Cloud,Xiaomi Cloud,Αρχική Οθόνη,Διάταξη,Εφαρμογές,Ρυθμίσεις,Συχνότητα αντιγράφων ασφαλείας,Διαχείριση αντιγράφων ασφαλείας,Επαναφορά</item>
+    </string-array>
+    <string-array name="settings_search_browser">
+        <item>Συγχρονισμός Περιηγητή με το Xiaomi Cloud</item>
+        <item>Ενεργοποίηση συγχρονισμού</item>
+        <item>Περιηγητής,Cloud,Συγχρονισμός,Υπηρεσίες Cloud,Xiaomi Cloud</item>
+    </string-array>
+    <string-array name="settings_search_calendar">
+        <item>Συγχρονισμός Ημερολογίου με το Xiaomi Cloud</item>
+        <item>Ενεργοποίηση συγχρονισμού</item>
+        <item>Ημερολόγιο,Cloud,Συγχρονισμός,Υπηρεσίες Cloud,Xiaomi Cloud</item>
+    </string-array>
     <string-array name="settings_search_contacts">
         <item>Συγχρονισμός επαφών με του Xiaomi Cloud</item>
         <item>Ενεργοποίηση/Ρύθμιση συγχρονισμού</item>
         <item>Επαφές,Ιστορικό κλήσεων,Cloud,Συγχρονισμός,Υπηρεσίες Cloud,Xiaomi Cloud</item>
-    </string-array>
-    <string-array name="settings_search_sms">
-        <item>Συγχρονισμός μηνυμάτων με το Xiaomi Cloud</item>
-        <item>Ενεργοποίηση/Ρύθμιση συγχρονισμού</item>
-        <item>Μηνύματα,SMS,MMS,Cloud,Συγχρονισμός,Υπηρεσίες Cloud,Xiaomi Cloud</item>
-    </string-array>
-    <string-array name="settings_search_gallery">
-        <item>Συγχρονισμός Συλλογής με το Xiaomi Cloud</item>
-        <item>Ενεργοποίηση/Ρύθμιση συγχρονισμού</item>
-        <item>Συλλογή,Φωτογραφίες,Cloud,Συγχρονισμός,Υπηρεσίες Cloud,Xiaomi Cloud</item>
     </string-array>
     <string-array name="settings_search_dial">
         <item>Συγχρονισμός ιστορικού κλήσεων με Xiaomi Cloud</item>
         <item>Ενεργοποίηση/Ρύθμιση συγχρονισμού</item>
         <item>Ιστορικό κλήσεων,Cloud,Συγχρονισμός,Υπηρεσίες Cloud,Xiaomi Cloud</item>
     </string-array>
-    <string-array name="settings_search_recorder">
-        <item>Συγχρονισμός ηχογραφήσεων με το Xiaomi Cloud</item>
+    <string-array name="settings_search_find_pad">
+        <item>Εύρεση συσκευής</item>
+        <item>Διαγραφή δεδομένων και κλείδωμα συσκευής σε περίπτωση που χαθεί</item>
+        <item>Εύρεση συσκευής,Χαμένα,Cloud,Συγχρονισμός,Υπηρεσίες Cloud,Xiaomi Cloud</item>
+    </string-array>
+    <string-array name="settings_search_find_phone">
+        <item>Εύρεση συσκευής</item>
+        <item>Διαγραφή δεδομένων και κλείδωμα συσκευής σε περίπτωση που χαθεί</item>
+        <item>Εύρεση συσκευής,Χαμένα,Cloud,Συγχρονισμός,Υπηρεσίες Cloud,Xiaomi Cloud</item>
+    </string-array>
+    <string-array name="settings_search_gallery">
+        <item>Συγχρονισμός Συλλογής με το Xiaomi Cloud</item>
         <item>Ενεργοποίηση/Ρύθμιση συγχρονισμού</item>
-        <item>Ηχογράφηση,Cloud,Συγχρονισμός,Υπηρεσίες Cloud,Xiaomi Cloud</item>
+        <item>Συλλογή,Φωτογραφίες,Cloud,Συγχρονισμός,Υπηρεσίες Cloud,Xiaomi Cloud</item>
     </string-array>
     <string-array name="settings_search_music">
         <item>Συγχρονισμός μουσικής με το Xiaomi Cloud</item>
@@ -53,81 +93,53 @@
         <item>Ενεργοποίηση συγχρονισμού</item>
         <item>Μουσική,Cloud,Συγχρονισμός,Υπηρεσίες Cloud,Xiaomi Cloud</item>
     </string-array>
-    <string-array name="settings_search_wlan">
-        <item>Συγχρονισμός ρυθμίσεων Wi-Fi με το Xiaomi Cloud</item>
-        <item>Ενεργοποίηση συγχρονισμού</item>
-        <item>WLAN,wifi,Wi-Fi,Cloud,Συγχρονισμός,Υπηρεσίες Cloud,Xiaomi Cloud</item>
-    </string-array>
-    <string-array name="settings_search_calendar">
-        <item>Συγχρονισμός Ημερολογίου με το Xiaomi Cloud</item>
-        <item>Ενεργοποίηση συγχρονισμού</item>
-        <item>Ημερολόγιο,Cloud,Συγχρονισμός,Υπηρεσίες Cloud,Xiaomi Cloud</item>
-    </string-array>
-    <string-array name="settings_search_browser">
-        <item>Συγχρονισμός Περιηγητή με το Xiaomi Cloud</item>
-        <item>Ενεργοποίηση συγχρονισμού</item>
-        <item>Περιηγητής,Cloud,Συγχρονισμός,Υπηρεσίες Cloud,Xiaomi Cloud</item>
-    </string-array>
-    <string-array name="settings_search_security">
-        <item>Συγχρονισμός Ασφάλειας με το Xiaomi Cloud</item>
-        <item>Ενεργοποίηση συγχρονισμού</item>
-        <item>Ασφάλεια,Cloud,Συγχρονισμός,Υπηρεσίες Cloud,Xiaomi Cloud</item>
-    </string-array>
     <string-array name="settings_search_personal_assistant">
         <item>Συγχρονισμός Συρταριού εφαρμογών με το Xiaomi Cloud</item>
         <item>Ενεργοποίηση συγχρονισμού</item>
         <item>Συρτάρι εφαρμογών,Κάρτες,Cloud,Συγχρονισμός,Υπηρεσίες Cloud,Xiaomi Cloud</item>
     </string-array>
-    <string-array name="settings_search_sync_manage">
-        <item>Xiaomi Cloud. Όλες οι Mi υπηρεσίες σε έναν χώρο.</item>
-        <item>Αποκτήστε πρόσβαση στις φωτογραφίες, επαφές, μηνύματα, και συσκευές σας από οπουδήποτε</item>
-        <item>Ανεπαρκής αποθηκευτικός χώρος,Εγγραφή μελών,Αποθηκευτικός χώρος,Χώρος αποθήκευσης,Cloud,Συγχρονισμός,Υπηρεσίες Cloud,Xiaomi Cloud,Σκουπίδια,Διαγραμμένα στοιχεία,Ασφάλεια</item>
-    </string-array>
-    <string-array name="settings_search_find_phone">
-        <item>Εύρεση συσκευής</item>
-        <item>Διαγραφή δεδομένων και κλείδωμα συσκευής σε περίπτωση που χαθεί</item>
-        <item>Εύρεση συσκευής,Χαμένα,Cloud,Συγχρονισμός,Υπηρεσίες Cloud,Xiaomi Cloud</item>
-    </string-array>
-    <string-array name="settings_search_find_pad">
-        <item>Εύρεση συσκευής</item>
-        <item>Διαγραφή δεδομένων και κλείδωμα συσκευής σε περίπτωση που χαθεί</item>
-        <item>Εύρεση συσκευής,Χαμένα,Cloud,Συγχρονισμός,Υπηρεσίες Cloud,Xiaomi Cloud</item>
+    <string-array name="settings_search_recorder">
+        <item>Συγχρονισμός ηχογραφήσεων με το Xiaomi Cloud</item>
+        <item>Ενεργοποίηση/Ρύθμιση συγχρονισμού</item>
+        <item>Ηχογράφηση,Cloud,Συγχρονισμός,Υπηρεσίες Cloud,Xiaomi Cloud</item>
     </string-array>
     <string-array name="settings_search_recycle_bin">
         <item>Διαγραμμένα στοιχεία στο Xiaomi Cloud</item>
         <item>Επαναφορά επαφών, φωτογραφιών, μηνυμάτων, και περισσότερα</item>
         <item>Σκουπίδια,Διαγραμμένα στοιχεία,Κάδος σκουπιδιών,Επαναφορά,Υπηρεσίες Cloud,Xiaomi Cloud</item>
     </string-array>
-    <string-array name="settings_search_subscribe_vip">
-        <item>Συνδρομή στο Xiaomi Cloud</item>
-        <item>Αναβαθμίστε την εγγραφή μέλους σας, αποκτήστε περισσότερο αποθηκευτικό χώρο, και ασφαλίστε τα δεδομένα σας</item>
-        <item>Ανεπαρκής χώρος αποθήκευσης, Συνδρομή,Αποθηκευτικός χώρος,Χώρος αποθήκευσης,Cloud,Συγχρονισμός,Υπηρεσίες Cloud,Xiaomi Cloud,Mega,Ultra,VIP,Αντίγραφα ασφαλείας,Επαναφορά,Σκουπίδια,Διαγραμμένα στοιχεία,Κάδος σκουπιδιών</item>
-    </string-array>
-    <string-array name="settings_search_backup_setting">
-        <item>Δημιουργία αντίγραφου ασφαλείας Αρχικής οθόνης για το Xiaomi Cloud</item>
-        <item>Δημιουργία αντίγραφου ασφαλείας για διάταξη Αρχικής Οθόνης, λίστα εγκαταστημένων εφαρμογών, και ρυθμίσεις συστήματος</item>
-        <item>Cloud,Δημιουργία αντίγραφου ασφαλείας,Αντίγραφα ασφαλείας,Υπηρεσίες Cloud,Xiaomi Cloud,Αρχική Οθόνη,Διάταξη,Εφαρμογές,Ρυθμίσεις,Συχνότητα αντιγράφων ασφαλείας,Διαχείριση αντιγράφων ασφαλείας,Επαναφορά</item>
-    </string-array>
-    <string-array name="settings_search_backup_manage">
-        <item>Αντίγραφα ασφαλείας</item>
-        <item>Αντίγραφα ασφαλείας που έχουν ήδη δημιουργηθεί</item>
-        <item>Cloud,Δημιουργία αντίγραφου ασφαλείας,Αντίγραφα ασφαλείας,Υπηρεσίες Cloud,Xiaomi Cloud,Αρχική Οθόνη,Διάταξη,Εφαρμογές,Διαχείριση αντιγράφων ασφαλείας,Επαναφορά</item>
-    </string-array>
     <string-array name="settings_search_restore_device">
         <item>Επαναφορά αντικειμένων από Xiaomi Cloud</item>
         <item>Λήψη αντικειμένων που έχουν ήδη αντίγραφα ασφαλείας στη συσκευή σας</item>
         <item>Cloud,Δημιουργία αντίγραφου ασφαλείας,Αντίγραφα ασφαλείας,Επαναφορά,Υπηρεσίες Cloud,Xiaomi Cloud</item>
     </string-array>
-    <string-array name="micloud_entrance_titleArray">
-        <item>Συγχρονισμός δεδομένων εφαρμογής</item>
-        <item>Δημιουργία αντίγραφου ασφαλείας για διάταξη Αρχικής οθόνης</item>
-        <item>Δημιουργία αντίγραφου ασφαλείας για ρυθμίσεις συστήματος</item>
-        <item>Εύρεση συσκευής</item>
+    <string-array name="settings_search_security">
+        <item>Συγχρονισμός Ασφάλειας με το Xiaomi Cloud</item>
+        <item>Ενεργοποίηση συγχρονισμού</item>
+        <item>Ασφάλεια,Cloud,Συγχρονισμός,Υπηρεσίες Cloud,Xiaomi Cloud</item>
     </string-array>
-    <string-array name="micloud_entrance_subtitleArray">
-        <item>Συγχρονίστε τις επαφές, μηνύματα, σημειώσεις, ημερολόγιο και περισσότερα</item>
-        <item>Δημιουργήστε αντίγραφα ασφαλείας για εφαρμογές, διάταξη Αρχικής οθόνης, και ταπετσαρίες</item>
-        <item>Δημιουργήστε αντίγραφα ασφαλείας για σημαντικές ρυθμίσεις, όπως Wi-Fi και προβολή</item>
-        <item>Κλειδώστε την συσκευή σας από μακριά σε περίπτωση απώλειας της</item>
+    <string-array name="settings_search_sms">
+        <item>Συγχρονισμός μηνυμάτων με το Xiaomi Cloud</item>
+        <item>Ενεργοποίηση/Ρύθμιση συγχρονισμού</item>
+        <item>Μηνύματα,SMS,MMS,Cloud,Συγχρονισμός,Υπηρεσίες Cloud,Xiaomi Cloud</item>
+    </string-array>
+    <string-array name="settings_search_subscribe_vip">
+        <item>Συνδρομή στο Xiaomi Cloud</item>
+        <item>Αναβαθμίστε την εγγραφή μέλους σας, αποκτήστε περισσότερο αποθηκευτικό χώρο, και ασφαλίστε τα δεδομένα σας</item>
+        <item>Ανεπαρκής χώρος αποθήκευσης, Συνδρομή,Αποθηκευτικός χώρος,Χώρος αποθήκευσης,Cloud,Συγχρονισμός,Υπηρεσίες Cloud,Xiaomi Cloud,Mega,Ultra,VIP,Αντίγραφα ασφαλείας,Επαναφορά,Σκουπίδια,Διαγραμμένα στοιχεία,Κάδος σκουπιδιών</item>
+    </string-array>
+    <string-array name="settings_search_sync_manage">
+        <item>Xiaomi Cloud. Όλες οι Mi υπηρεσίες σε έναν χώρο.</item>
+        <item>Αποκτήστε πρόσβαση στις φωτογραφίες, επαφές, μηνύματα, και συσκευές σας από οπουδήποτε</item>
+        <item>Ανεπαρκής αποθηκευτικός χώρος,Εγγραφή μελών,Αποθηκευτικός χώρος,Χώρος αποθήκευσης,Cloud,Συγχρονισμός,Υπηρεσίες Cloud,Xiaomi Cloud,Σκουπίδια,Διαγραμμένα στοιχεία,Ασφάλεια</item>
+    </string-array>
+    <string-array name="settings_search_wlan">
+        <item>Συγχρονισμός ρυθμίσεων Wi-Fi με το Xiaomi Cloud</item>
+        <item>Ενεργοποίηση συγχρονισμού</item>
+        <item>WLAN,wifi,Wi-Fi,Cloud,Συγχρονισμός,Υπηρεσίες Cloud,Xiaomi Cloud</item>
+    </string-array>
+    <string-array name="user_detail_fixed_items">
+        <item>Εμφάνιση συγχρονισμένων αντικειμένων</item>
+        <item>Λεπτομέρειες αποθηκευτικού χώρου</item>
     </string-array>
 </resources>

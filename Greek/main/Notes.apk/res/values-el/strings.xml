@@ -23,7 +23,8 @@
     <string name="app_notification_info">Η εφαρμογή Σημειώσεις εκτελείται στο παρασκήνιο</string>
     <string name="app_widget">Σημειώσεις</string>
     <string name="application_icon">Εικονίδιο εφαρμογής</string>
-    <string name="audio_panel_time_counter_default">00:00</string>
+    <string name="audio_create_normal_state">Απελευθερώστε για δημιουργία. Σύρετε για ακύρωση.</string>
+    <string name="audio_create_will_cancel_state">Απελευθερώστε για ακύρωση</string>
     <string name="audio_toast_file_invalid">Μη έγκυρο αρχείο ήχου</string>
     <string name="audio_toast_file_undownload">Ανολοκλήρωτη λήψη αρχείου ήχου ή αρχείο ήχου λείπει</string>
     <string name="audio_toast_network_is_not_available">Αδυναμία σύνδεσης στο δίκτυο</string>
@@ -40,9 +41,6 @@
     <string name="cta_dialog_title">Απαιτούνται άδειες</string>
     <string name="cta_reminder">Οι σημειώσεις χρειάζονται άδειες για σύνδεση στο διαδίκτυο, εγγραφή ήχου, και πρόσβαση στις επαφές σας για να λειτουργήσουν κανονικά. Αποδοχή;</string>
     <string name="date_calculate_today">0 ημέρες</string>
-    <string name="date_picker_label_day" />
-    <string name="date_picker_label_month" />
-    <string name="date_picker_label_year" />
     <string name="date_time_picker_alarm_reminder">Ξυπνητήρι</string>
     <string name="date_time_picker_dialog_title">Ορισμός ημερομηνίας και ώρας</string>
     <string name="date_time_picker_has_not_set_alarm">Δεν έχει οριστεί ξυπνητήρι</string>
@@ -89,8 +87,6 @@
     <string name="error_widget_exist_for_send_to_desktop">Η σημείωση είναι ήδη στην αρχική οθόνη</string>
     <string name="exceed_todo_text_limitation">Η περιγραφή της εργασίας παραείναι μεγάλη.</string>
     <string name="first_enter_custom_folder_hint">Μπορείτε να μετονομάσετε ή να διαγράψετε αρχεία εδώ</string>
-    <string name="fmt_chinese_date">N e</string>
-    <string name="fmt_time_12hour_minute">h:mm</string>
     <string name="folder_exist">Φάκελος με το ίδιο όνομα υπάρχει ήδη</string>
     <string name="folder_operation_delete">Διαγραφή</string>
     <string name="folder_operation_rename">Μετονομασία</string>
@@ -130,6 +126,10 @@
     <string name="menu_todo_show_finished_todo">Εμφάνιση ολοκληρωμένων εργασιών</string>
     <string name="menu_unhide">Εμφάνιση</string>
     <string name="menu_unstick">Ξεκαρφίτσωμα</string>
+    <string name="new_audio_create_cancel_talkback_des">Ακυρώθηκε</string>
+    <string name="new_audio_create_done_talkback_des">Δημιουργήθηκε</string>
+    <string name="new_audio_create_guide_tip">Πιέστε και κρατήστε για να δημιουργήσετε φωνητικό σημείωμα</string>
+    <string name="new_audio_create_talkback_des">Πατήστε για να δημιουργήσετε γραπτό σημείωμα. Πιέστε και κρατήστε για να δημιουργήσετε φωνητικό σημείωμα. Απελευθερώστε το κουμπί για να διακόψετε την εγγραφή και να δημιουργήσετε το σημείωμα, ή σύρετε πάνω για ακύρωση.</string>
     <string name="not_now">Όχι τώρα</string>
     <string name="note_description_content">Η εφαρμογή Σημειώσεις είναι ένα σπουδαίο εργαλείο για να καταγράφετε τις ιδέες σας. Έχει ενσωματωμένες υπενθυμίσεις και συγχρονίζει τα αντικείμενά σας στο cloud ώστε να έχετε πρόσβαση σε αυτά από οπουδήποτε, οποτεδήποτε. Βεβαιωθείτε πως δεν χρειάζεστε πλέον αυτές τις λειτουργίες πριν διαγράψετε την εφαρμογή.</string>
     <string name="note_description_title">Σχετικά με Σημειώσεις</string>
@@ -165,6 +165,7 @@
     <string name="pref_title_skip_confirm_for_quick_delete">Διαγραφή με χειρονομία</string>
     <string name="pref_title_todo_float_mode">Χρήση εργαλειοθήκης εργασιών</string>
     <string name="pref_title_todo_shorcut">Εργαλειοθήκη</string>
+    <string name="privacy_note_content_empty">Δεν υπάρχουν αντικείμενα εδώ ακόμα.</string>
     <string name="recover_notes_hint">Παρουσιάστηκε σφάλμα, μεταβείτε στο i.mi.com για να επαναφέρετε τις σημειώσεις.</string>
     <string name="redo">Επανάληψη</string>
     <string name="refuse_to_open_as_pic_because_of_loading">Περιμένετε μέχρι να φορτωθεί η σημείωση και προσπαθήστε ξανά.</string>
@@ -174,7 +175,6 @@
     <string name="rich_text_bold_description">Έντονα</string>
     <string name="rich_text_center_description">Κέντρο</string>
     <string name="rich_text_chooser_title">Επιλέξτε ένα στυλ</string>
-    <string name="rich_text_italic_description">Italic</string>
     <string name="rich_text_right_description">Δεξιά</string>
     <string name="rich_text_size_description">Μέγεθος</string>
     <string name="rich_text_underline_description">Υπογραμμισμένα</string>
@@ -215,7 +215,6 @@
     <string name="theme_green_description">Πράσινο</string>
     <string name="theme_red_description">Κόκκινο</string>
     <string name="theme_title_antique">Φθινόπωρο</string>
-    <string name="theme_title_arty">Floral</string>
     <string name="theme_title_blue">Μπλε</string>
     <string name="theme_title_candy">Ζαχαρωτό</string>
     <string name="theme_title_dark">Σκοτεινό</string>
@@ -284,8 +283,6 @@
     <string name="todo_module_name">Εργασίες</string>
     <string name="todo_notify_alarm_title">Υπενθύμιση Εργασίας</string>
     <string name="todo_schedule_time_expired">" ('Εληξε)"</string>
-    <string name="todo_schedule_time_for_picker_hm">H mm</string>
-    <string name="todo_schedule_time_hm">HH:mm</string>
     <string name="todo_schedule_time_md">dd/MM</string>
     <string name="todo_schedule_time_mdhm">dd/ΜΜ HH:mm</string>
     <string name="todo_schedule_time_today">Σήμερα</string>

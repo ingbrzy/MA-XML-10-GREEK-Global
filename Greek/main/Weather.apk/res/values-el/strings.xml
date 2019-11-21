@@ -101,10 +101,12 @@
     <string name="daily_forecast_add_city_message">Παρακολουθήστε τον καιρό σε %1$s για μια πιο λεπτομεριακή πρόγνωση.</string>
     <string name="daily_forecast_add_city_title">Παρακολουθήστε τον καιρό σε %1$s</string>
     <string name="daily_forecast_detail_date">d/Μ</string>
+    <string name="daily_forecast_detail_date_format">%1$s - %2$s</string>
     <string name="daily_forecast_no_data">"Αδυναμία απόκτησης πληροφοριών καιρού
 Τραβήξτε προς τα κάτω για ανανέωση ή ελέγξτε τις ρυθμίσεις δικτύου"</string>
     <string name="data_provided_by">Δεδομένα που παρέχονται εν μέρει από</string>
     <string name="edit_city">Διαχείριση πόλεων</string>
+    <string name="empty">" "</string>
     <string name="empty_view_net_loading">Γίνεται ενημέρωση…</string>
     <string name="empty_view_net_unavailable">Αδυναμία σύνδεσης στο δίκτυο</string>
     <string name="empty_view_refresh">Προσπαθήστε ξανά</string>
@@ -126,6 +128,8 @@
     <string name="first_start_network_title">Σύνδεση Ίντερνετ και πρόσβαση τοποθεσίας</string>
     <string name="global_aqi">ΔΠΑ: %1$s %2$s</string>
     <string name="hourly_forcast_now">Τώρα</string>
+    <string name="hourly_forecast_bottom_aqi_chinese">%1$s%2$s</string>
+    <string name="hourly_forecast_bottom_aqi_else">%1$s</string>
     <string name="hourly_forecast_date">d/Μ</string>
     <string name="hourly_forecast_title_24_hours_desc">24-ωρη Πρόγνωση</string>
     <string name="hourly_forecast_title_hourly_desc">Ωριαία πρόγνωση</string>
@@ -141,11 +145,16 @@
     <string name="indices_title_feel">Πραγματική αίσθηση</string>
     <string name="indices_title_pressure">Πίεση</string>
     <string name="install">Εγκατάσταση</string>
+    <string name="install_progress">%1$s%%</string>
     <string name="international_details_pressure_title">ΠΙΕΣΗ</string>
     <string name="international_details_title">Λεπτομέρειες</string>
     <string name="international_details_uv_index_title">ΔΕΙΚΤΗΣ UV</string>
+    <string name="international_details_wind_connect">%1$s %2$s</string>
     <string name="international_details_wind_title">ΑΝΕΜΟΣ</string>
     <string name="it_is_going_to_rain">Θα βρέξει</string>
+    <string name="item_city_list_region_no_data">-- / --</string>
+    <string name="item_city_list_temperature_no_data">--</string>
+    <string name="life_index_title">Δείκτης καιρού</string>
     <string name="locate_fail_detail_err">"Αδυναμία εντοπισμού συσκευής
 Αγγίξτε στην οθόνη για προσθήκη ή επανατοποθέτηση της πόλης μόνοι σας"</string>
     <string name="location_provider_btn_text">Ενεργοποίηση υπηρεσιών τοποθεσίας</string>
@@ -204,6 +213,7 @@
     <string name="privacy_settings">Πολιτική Απορρήτου</string>
     <string name="pull_fresh_updated">Επιτυχής ενημέρωση</string>
     <string name="pull_fresh_updating">Γίνεται ενημέρωση…</string>
+    <string name="q_version_location_provider_btn_text">Ενεργοποιήστε την πρόσβαση στην τοποθεσία και βελτιώστε την ακρίβεια της τοποθεσίας</string>
     <string name="radar_cloud_image_title">Χάρτης ραντάρ</string>
     <string name="radar_cloud_update_time">Πριν %1$s</string>
     <string name="rainfall_settings_summary">Προειδοποιήσεις βροχοπτώσεων</string>
@@ -214,8 +224,13 @@
     <string name="realtime_humidity_title">Υγρασία</string>
     <string name="realtime_temperature_no_data">N/A</string>
     <string name="realtime_wind_default_title">Άνεμος</string>
+    <string name="refresh_empty_data">Αδυναμία φόρτωσης δεδομένων. Περιμένετε ένα δύο λεπτά και προσπαθήστε ξανά.</string>
     <string name="refresh_fail">Αδυναμία σύνδεσης σε δίκτυο</string>
     <string name="reminder_from_xiaomi_weather_app">Προειδοποίηση Mi Καιρού</string>
+    <string name="request_permission_location_dialog_content">Για προβολή πληροφοριών καιρού που σχετίζονται με την τοποθεσία σας</string>
+    <string name="request_permission_main_purpose">Προβολή πληροφοριών καιρού</string>
+    <string name="request_permission_read_phone_state_dialog_content">Για αναγνώριση της συσκευής σας</string>
+    <string name="request_permission_storage_dialog_content">Για κοινοποίηση πληροφοριών καιρού σε μορφή εικόνας</string>
     <string name="retry">Προσπαθήστε ξανά</string>
     <string name="search_weather">Καιρός</string>
     <string name="search_weather_keywords">Θερμοκρασία;Πρόβλεψη Καιρού;Καιρός;Ποιότητα αέρος;Βαθμός Μόλυνσης;Υγρασία</string>
@@ -227,6 +242,7 @@
     <string name="share_menu_title">Κοινοποίηση</string>
     <string name="share_subject">Κοινοποίηση</string>
     <string name="share_weather_desc">\#MIUI Καιρός#Σήμερα %1$s %2$s</string>
+    <string name="share_weather_desc_alert">%1$s%2$s</string>
     <string name="share_weather_desc_split">,</string>
     <string name="share_weather_save_pic_fail">Αδυναμία λήψης στιγμιότυπου οθόνης</string>
     <string name="shortcut_short_label_24_hour_forecast">24-ωρη πρόγνωση</string>
@@ -272,6 +288,7 @@
     <string name="video_dialog_subtitle" />
     <string name="video_dialog_title" />
     <string name="view_forecast_item_yesterday">Χθες</string>
+    <string name="view_indexes_item_day_after_tommorrow">Σε 2 ημέρες</string>
     <string name="view_indexes_item_today">Σήμερα</string>
     <string name="view_indexes_item_tommorrow">Αύριο</string>
     <string name="warning_weather_day_and_night_settings_summary">Λαμβάνετε ημερήσιες περιλήψεις με πληροφορίες για τον καιρό στις 7:00 και 19:00</string>

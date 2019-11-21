@@ -8,16 +8,7 @@
     <string name="abc_activitychooserview_choose_application">Επιλέξτε κάποια εφαρμογή</string>
     <string name="abc_capital_off">ΑΠΕΝΕΡΓΟΠΟΙΗΣΗ</string>
     <string name="abc_capital_on">ΕΝΕΡΓΟΠΟΙΗΣΗ</string>
-    <string name="abc_menu_alt_shortcut_label">Alt+</string>
-    <string name="abc_menu_ctrl_shortcut_label">Ctrl+</string>
-    <string name="abc_menu_delete_shortcut_label">delete</string>
-    <string name="abc_menu_enter_shortcut_label">enter</string>
-    <string name="abc_menu_function_shortcut_label">Function+</string>
-    <string name="abc_menu_meta_shortcut_label">Meta+</string>
-    <string name="abc_menu_shift_shortcut_label">Shift+</string>
     <string name="abc_menu_space_shortcut_label">διάστημα</string>
-    <string name="abc_menu_sym_shortcut_label">Sym+</string>
-    <string name="abc_prepend_shortcut_label">Menu+</string>
     <string name="abc_search_hint">Αναζήτηση…</string>
     <string name="abc_searchview_description_clear">Διαγραφή ερωτήματος</string>
     <string name="abc_searchview_description_query">Ερώτημα αναζήτησης</string>
@@ -68,11 +59,6 @@
     <string name="audio_duration_minutes_format">%1$d λεπτά</string>
     <string name="audio_duration_seconds_format">%1$d δευτερόλεπτα</string>
     <string name="audition_ringtone">Αναπαραγωγή</string>
-    <string name="author_attention">Follow</string>
-    <string name="author_attention_success">Followed successfully</string>
-    <string name="author_dialog_message">Unfollow this account now?</string>
-    <string name="author_dynamic">Status</string>
-    <string name="author_dynamic_no_resource">"Couldn't find results"</string>
     <string name="automatically_update_using_theme_tips">Αυτόματη ενημέρωση την επόμενη φορά</string>
     <string name="backup_theme_dialog_message">Δημιουργία αντίγραφου ασφαλείας για τρέχον θέμα;</string>
     <string name="backup_theme_dialog_ok">Δημιουργία</string>
@@ -121,9 +107,6 @@
     <string name="description_version_szie">Έκδοση: %1$s Μέγεθος: %2$s</string>
     <string name="desktop_effects">Εφέ Αρχικής οθόνης</string>
     <string name="desktop_wallpaper">Αρχική οθόνη</string>
-    <string name="detail_author_attention_head">Follow some of our most outstanding designers</string>
-    <string name="detail_author_fans">"Followers: "</string>
-    <string name="detail_author_works">"Items: "</string>
     <string name="detail_recommend_title">Μπορεί να σας αρέσουν αυτά</string>
     <string name="dev_options">Επιλογές προγραμματιστών</string>
     <string name="dev_options_summary">Δικτυακοί πηγές</string>
@@ -131,9 +114,7 @@
     <string name="download_preview_failed">Αδυναμία φόρτωσης προεπισκόπησης</string>
     <string name="download_success">Η λήψη ολοκληρώθηκε</string>
     <string name="dynamic_video_wallpaper">24ωρη ταπετσαρία</string>
-    <string name="enable_all_free_mode">Redeem</string>
     <string name="enable_transparent_wallpaper">Χρήση διαφανούς ταπετσαρίας</string>
-    <string name="enabling_all_free_mode">Redeeming…</string>
     <string name="exit_extreme_mode_dialog_agree">Συμφωνώ</string>
     <string name="exit_extreme_mode_dialog_cancel">Ακύρωση</string>
     <string name="exit_extreme_mode_dialog_title">Απενεργοποίηση Ακραίας Λειτουργίας</string>
@@ -155,7 +136,6 @@
     <string name="exo_download_failed">Η λήψη απέτυχε</string>
     <string name="exo_download_notification_channel_name">Λήψεις</string>
     <string name="exo_download_removing">Κατάργηση λήψεων</string>
-    <string name="exo_item_list">%1$s, %2$s</string>
     <string name="exo_track_mono">Μονοφωνικό</string>
     <string name="exo_track_selection_auto">Αυτόματο</string>
     <string name="exo_track_selection_none">Κανένα</string>
@@ -280,7 +260,6 @@
     <string name="miuishare_no_network">Αδυναμία σύνδεσης στο δίκτυο.</string>
     <string name="miuishare_please_retry">Αδυναμία λήψης πληροφοριών. Ελέγξτε τις ρυθμίσεις δικτύου σας και προσπαθήστε ξανά.</string>
     <string name="miuishare_publish">Αποστολή</string>
-    <string name="miuishare_qzone_title">Qzone</string>
     <string name="miuishare_share_done">Επιτυχής κοινοποίηση</string>
     <string name="miuishare_share_editor_title">Κοινοποίηση</string>
     <string name="miuishare_share_fail">Αδυναμία κοινοποίησης</string>
@@ -288,7 +267,6 @@
     <string name="miuishare_title_more">Περισσότερα</string>
     <string name="miuishare_title_share">Κοινοποίηση</string>
     <string name="miuishare_wechat_timeline_title">Στιγμές WeChat</string>
-    <string name="miuishare_weibo_title">Weibo</string>
     <string name="mix_global_option">Γενικά</string>
     <string name="mix_global_option_des">Περιοχή ειδοποιήσεων, Τηλέφωνο, Μηνύματα και άλλα στοιχεία του συστήματος. Καταργήστε την επιλογή αυτού του πλαισίου για να χρησιμοποιήσετε προεπιλεγμένες επιλογές.</string>
     <string name="mix_home_option_des">Ταπετσαρία και ρολόι. Καταργήστε την επιλογή αυτού του πλαισίου για να χρησιμοποιήσετε προεπιλεγμένες επιλογές.</string>
@@ -306,13 +284,11 @@
     <string name="my_gifts_received">Ληφθέντα</string>
     <string name="network_exception">Αδυναμία σύνδεσης στο δίκτυο. Ελέγξτε τις ρυθμίσεις δικτύου σας και προσπαθήστε ξανά.</string>
     <string name="no_data">Αδυναμία σύνδεσης στο δίκτυο</string>
-    <string name="official_accounts">WeChat</string>
     <string name="online_no_network">Αδυναμία σύνδεσης στο δίκτυο</string>
     <string name="online_precust_abstract">Περίληψη</string>
     <string name="online_precust_animal">Ζώο</string>
     <string name="online_precust_building">Κτίριο</string>
     <string name="online_precust_creative">Δημιουργικότητα</string>
-    <string name="online_precust_hatsune">Hatsune</string>
     <string name="online_precust_lifestyle">Τρόπος ζωής</string>
     <string name="online_precust_museum">Βρετανικό Μουσείο</string>
     <string name="online_precust_plant">Φυτό</string>
@@ -382,7 +358,6 @@
     <string name="resource_comment_limit">Όχι τόσο γρήγορα! Επανέλθετε αφότου θα έχετε χρησιμοποιήσει αυτό το θέμα για λίγο περισσότερο.</string>
     <string name="resource_comment_loading_list">Περιμένετε μία στιγμή…</string>
     <string name="resource_comment_name_default">Ψευδώνυμο</string>
-    <string name="resource_comment_no_average_score">N/A</string>
     <string name="resource_comment_no_comment">Δεν υπάρχουν ακόμα σχόλια εδώ. Μπορείτε να είστε ο πρώτος που θα αφήσει ένα σχόλιο.</string>
     <string name="resource_comment_over_limit">Πολύ μακρύ σχόλιο. Κάντε το πιο σύντομο και δοκιμάστε ξανά.</string>
     <string name="resource_comment_publish">Υποβολή</string>
@@ -412,7 +387,6 @@
     <string name="resource_detail_comment_title">Σχόλια</string>
     <string name="resource_detail_description_pic_text">%1$d εικονίδια συνολικά</string>
     <string name="resource_detail_header_theme_designer_title">Σχεδιαστής: %1$s</string>
-    <string name="resource_detail_jump_to_online_title">Online</string>
     <string name="resource_detail_jump_to_same_author_title">Ίδιος συγγραφέας</string>
     <string name="resource_detail_recommend_desiner_other_themes">Θέματα σχεδιασμένα από %1$s</string>
     <string name="resource_detail_recommend_other_themes">Αρέσουν επίσης στους χρήστες</string>
@@ -472,7 +446,6 @@
     <string name="resource_no_result">Δεν βρέθηκε τίποτα</string>
     <string name="resource_notification_default">Ειδοποιήσεις</string>
     <string name="resource_on_trial">Γίνεται προσπάθεια: %1$s</string>
-    <string name="resource_online">Online</string>
     <string name="resource_online_picker">Επιλογή online ήχου κλήσης</string>
     <string name="resource_pack_confirm">Παρότι έχετε ήδη αγοράσει %1$d από τα συστατικά αυτού του θέματος, η αγορά του πλήρους πακέτου παραμένει φθηνότερη.</string>
     <string name="resource_pack_discount_info">Κέρδος: %1$s</string>
@@ -527,7 +500,6 @@
     <string name="resource_title_category">Κατηγορίες</string>
     <string name="resource_title_hot_subject">Δημοφιλή</string>
     <string name="resource_title_local">Εκτός σύνδεσης</string>
-    <string name="resource_title_rank">Top charts</string>
     <string name="resource_title_select_ringtone">Επιλογή τόνου</string>
     <string name="resource_title_subject">Προτεινόμενα</string>
     <string name="resource_trial_days">(δοκιμαστική περίοδος: %1$dημ)</string>
@@ -646,7 +618,6 @@
     <string name="theme_multiple_button_title_customize">Προσαρμογή</string>
     <string name="theme_no">Όχι</string>
     <string name="theme_purchased_list_empty">Δεν έχετε αγοράσει θέματα.</string>
-    <string name="theme_purchased_non_local">Online</string>
     <string name="theme_select_others">Αναζήτηση</string>
     <string name="theme_setting">Ρυθμίσεις</string>
     <string name="theme_staggered_item_text">Λήψη Mi Πιστώσεων</string>
@@ -774,7 +745,6 @@
     <string name="wallpaper_settings_page_title">Ταπετσαρία</string>
     <string name="wallpaper_static">Στατικό</string>
     <string name="wechat_not_found">Εγκαταστήστε πρώτα το WeChat</string>
-    <string name="weibo">Weibo</string>
     <string name="wifi_check_cancel">Ακύρωση</string>
     <string name="wifi_check_confirm">Επιβεβαίωση</string>
     <string name="wifi_check_message">Χρήση δεδομένων κινητής τηλεφωνίας για τη λήψη ενημερώσεων;</string>
