@@ -624,7 +624,6 @@
     <string name="priority_storage_summary">Αυτόματη λήψη στην εξωτερική κάρτα SD εφόσον είναι διαθέσιμη</string>
     <string name="privacy_desc">Πολιτική Απορρήτου (υποχρεωτικό)</string>
     <string name="privacy_policy">Πολιτική Απορρήτου</string>
-    <string name="privacy_policy_url">http://www.miui.com/res/doc/privacy.html?lang=el_GR</string>
     <string name="pro_member">Μέλος PRO</string>
     <string name="project_device">Mi Τηλέφωνο</string>
     <string name="prompt_grant_write_settings_permission">Να επιτρέπεται η αλλαγή ρυθμίσεων συστήματος</string>
@@ -816,7 +815,6 @@
     <string name="upgrade_music_message">Οι ενημερώσεις είναι έτοιμες. Επανεκκινήστε για ενημέρωση.</string>
     <string name="upgrading_in_backstage">Γίνεται ενημέρωση στο παρασκήνιο…</string>
     <string name="user_agreement">Όροι Χρήσης</string>
-    <string name="user_agreement_url">http://www.miui.com/res/doc/eula.html?lang=el_GR</string>
     <string name="v7_preference_off">ΑΝΕΝΕΡΓΗ</string>
     <string name="v7_preference_on">ΕΝΕΡΓΗ</string>
     <string name="version_info">Έκδοση</string>
