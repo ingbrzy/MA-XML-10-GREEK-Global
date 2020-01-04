@@ -32,6 +32,22 @@
         <item quantity="other">%d δευτερόλεπτα</item>
         <item quantity="one">%d δευτερόλεπτο</item>
     </plurals>
+    <plurals name="sleep_duration_hour">
+        <item quantity="other">%1$s ώρες</item>
+        <item quantity="one">%1$s ώρα</item>
+    </plurals>
+    <plurals name="sleep_duration_hour_avg">
+        <item quantity="other">%1$s ώρες</item>
+        <item quantity="one">%1$s ώρα</item>
+    </plurals>
+    <plurals name="sleep_duration_min">
+        <item quantity="other">%1$s λεπτά</item>
+        <item quantity="one">%1$s λεπτό</item>
+    </plurals>
+    <plurals name="sleep_duration_min_avg">
+        <item quantity="other">%1$s λεπτά</item>
+        <item quantity="one">%1$s λεπ</item>
+    </plurals>
     <plurals name="snooze_duration_changed_info">
         <item quantity="other">Αλλαγή του διαστήματος αναβολής σε %d λεπτά</item>
         <item quantity="one">Αλλαγή του διαστήματος αναβολής σε %d λεπτό</item>

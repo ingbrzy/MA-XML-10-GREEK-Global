@@ -25,6 +25,7 @@
     <string name="data_connection_button_text">ΟΚ</string>
     <string name="data_connection_title">Προειδοποίηση χρήσης δεδομένων</string>
     <string name="delete">Διαγραφή</string>
+    <string name="delete_cloud_data_at_same_time">Διαγραφή και από το cloud</string>
     <string name="delete_dialog_message">Διαγραφή εγγραφής;</string>
     <string name="deleting_message">Γίνεται διαγραφή…</string>
     <string name="details">Λεπτομέρειες</string>
@@ -32,6 +33,7 @@
     <string name="dialog_privacy_revoke_tips">Μετά την ανάκληση εξουσιοδότησης, η εφαρμογή θα διακόψει τη συλλογή δεδομένων, και όλα τα σχετικά δεδομένα θα διαγραφούν από τους διακομιστές. Αυτό ενδέχεται να καταστήσει άχρηστη την εφαρμογή. Ανάκληση εξουσιοδότησης παρόλα αυτά; Για να εξασφαλίσετε την ασφάλεια του λογαριασμού σας, συνδεθείτε στο i.mi.com πριν ανακαλέσετε εξουσιοδότηση για τις υπηρεσίες Xiaomi Cloud.</string>
     <string name="dialog_title_storage_full">Ανεπαρκής χώρος</string>
     <string name="download">Λήψη</string>
+    <string name="duration_format_hour">%sh</string>
     <string name="duration_format_minute">%sλ</string>
     <string name="duration_format_second">%sδ</string>
     <string name="empty_recognition_tip">Κενό</string>
@@ -106,6 +108,7 @@
     <string name="online_recognize_duration_limite">(Έναρξη από 10 λεπτά)</string>
     <string name="online_recognize_fail">Αδυναμία μεταγραφής</string>
     <string name="online_recognize_login_fail">Αδυναμία σύνδεσης</string>
+    <string name="online_recognize_order_audio_price">%s CNY</string>
     <string name="online_recognize_order_create">Σύνδεση</string>
     <string name="online_recognize_order_duration_key">Διάρκεια</string>
     <string name="online_recognize_order_pay">Πληρωμή και προβολή αποτελεσμάτων</string>
@@ -126,6 +129,7 @@
     <string name="online_recognize_service_unavailable">Η υπηρεσία δεν είναι διαθέσιμη τώρα. Περιμένετε ένα - δύο λεπτά και δοκιμάστε ξανά.</string>
     <string name="order_item_duration">Διάρκεια: %s</string>
     <string name="order_item_number">Αριθμός παραγγελίας: %s</string>
+    <string name="order_item_price">%s CNY</string>
     <string name="path_soundrecorder_setting">Εφαρμογές συστήματος/Ηχογράφηση</string>
     <string name="pause">Παύση</string>
     <string name="pay_error_cancel">Η πληρωμή ακυρώθηκε</string>
@@ -140,6 +144,8 @@
     <string name="preference_online_orders">Online παραγγελίες</string>
     <string name="preference_recog_faqs">Συνήθεις ερωτήσεις σχετικά με την online μεταγραφή</string>
     <string name="preference_recog_terms">Όροι Υπηρεσίας</string>
+    <string name="preference_record_desktop_indicator_summary">Εμφάνιση μπλε δείκτη στην Αρχική οθόνη όταν η Ηχογράφηση λειτουργεί στο παρασκήνιο</string>
+    <string name="preference_record_desktop_indicator_title">Δείκτης Αρχικής οθόνης</string>
     <string name="preference_record_scenes_dialog_title">Επιλογή τύπου ηχογράφησης</string>
     <string name="preference_scenes">Τύπος ηχογράφησης</string>
     <string name="preference_silent_mode">Σίγαση κουδουνίσματος κατά την εγγραφή</string>
@@ -190,12 +196,15 @@
     <string name="record_format_preference_title">Μορφή ηχογράφησης</string>
     <string name="record_list">Εγγραφές</string>
     <string name="record_list_call">Ηχογραφημένες κλήσεις</string>
+    <string name="record_list_category_title_format">MMMM yyyy</string>
     <string name="record_list_cloud">Συγχρονισμένες εγγραφές</string>
     <string name="record_list_cloud_call">Συγχρονισμένες καταγεγραμμένες κλήσεις</string>
     <string name="record_list_cloud_fm">Συγχρονισμένες FM εγγραφές</string>
     <string name="record_list_fm">Εγγραφές FM</string>
     <string name="record_list_item_recognize_text">Κείμενο</string>
     <string name="record_mark_point">Επιλογή %s</string>
+    <string name="record_name_hour">.</string>
+    <string name="record_name_minute" />
     <string name="record_quliaty_preference_title">Ποιότητα ηχογράφησης</string>
     <string name="record_resotre">Ανάκτηση αρχείων</string>
     <string name="recording">Γίνεται εγγραφή</string>
@@ -260,6 +269,9 @@
     <string name="text_play_speed_1_0">Κανονική ταχύτητα αναπαραγωγής</string>
     <string name="text_play_speed_1_5">Ταχύτητα αναπαραγωγής 1.5X</string>
     <string name="text_play_speed_2_0">Ταχύτητα αναπαραγωγής 2X</string>
+    <string name="timer_format" formatted="false">%02d:%02d</string>
+    <string name="timer_format_three_sections" formatted="false">%02d:%02d:%02d</string>
+    <string name="title_activity_recinbox_sdk_browser">RecinboxSdkBrowser</string>
     <string name="toast_max_record_time">%1$s έχει δυνατότητα εγγραφής για περίπου %2$s</string>
     <string name="toast_uninstall_fileexplorer">Η Διαχείριση Αρχείων δεν έχει εγκατασταθεί</string>
     <string name="usage_description">Γίνεται μεταγραφή ήχου και συγχρονισμός αντικειμένων με το cloud</string>

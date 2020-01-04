@@ -111,6 +111,7 @@
     <string name="cast_forward">Προώθηση</string>
     <string name="cast_forward_10">Προώθηση 10 δευτερόλεπτα μπροστά</string>
     <string name="cast_forward_30">Προώθηση 30 δευτερόλεπτα μπροστά</string>
+    <string name="cast_intro_overlay_button_text">\@android:string/ok</string>
     <string name="cast_mute">Σίγαση</string>
     <string name="cast_notification_connected_message">Συνδέθηκε με το %1$s</string>
     <string name="cast_notification_connecting_message">Γίνεται σύνδεση με το %1$s</string>
@@ -168,6 +169,27 @@
     <string name="com_facebook_tooltip_default">Εσείς έχετε τον έλεγχο - επιλέξτε ποιες πληροφορίες θέλετε να κοινοποιείτε στις εφαρμογές.</string>
     <string name="com_permission_desc">Το Mi Βίντεο δεν έχει δυνατότητα πρόσβασης των βίντεων σας στην συσκευή σας. Επιτρέψτε την πρόσβαση στις Ρυθμίσεις.</string>
     <string name="com_permission_title">Απαιτούνται άδειες</string>
+    <string name="comment_model_add_comment">Προσθήκη σχολίου</string>
+    <string name="comment_model_bg_add_comment">Μοιραστείτε τις σκέψεις σας με την κοινότητά μας</string>
+    <string name="comment_model_bg_deleted_comment">Αυτό το σχόλιο διαγράφηκε</string>
+    <string name="comment_model_comment">Σχόλια</string>
+    <string name="comment_model_confirm_delete">Διαγραφή σχολίου τώρα;</string>
+    <string name="comment_model_copy">Αντιγραφή</string>
+    <string name="comment_model_copy_fail">Αδυναμία αντιγραφής</string>
+    <string name="comment_model_copy_success">Επιτυχής αντιγραφή</string>
+    <string name="comment_model_delete">Διαγραφή</string>
+    <string name="comment_model_delete_fail">Αδυναμία διαγραφής</string>
+    <string name="comment_model_delete_success">Επιτυχής διαγραφή</string>
+    <string name="comment_model_reply">Απαντήσεις</string>
+    <string name="comment_model_reply_comment">"Απάντηση σε %s "</string>
+    <string name="comment_model_report">Αναφορά</string>
+    <string name="comment_model_report_fail">Αδυναμία αναφοράς</string>
+    <string name="comment_model_report_success">Επιτυχής αναφορά</string>
+    <string name="comment_model_send_fail">Αδυναμία αποστολής</string>
+    <string name="comment_model_send_fail_frequently">Όχι τόσο γρήγορα! Περιμένετε ένα δύο λεπτά, και προσπαθήστε ξανά.</string>
+    <string name="comment_model_send_forbid_desc">Δημοσιεύσατε πολλαπλά σχόλια με στοιχεία που παραβιάζουν τους όρους της κοινότητάς μας. Ο λογαριασμός σας τώρα έχει τεθεί σε μόνιμη αναστολή. Μπορείτε να προσφύγετε κατά της απόφασής μας μέσω σχολίων στην εφαρμογή.</string>
+    <string name="comment_model_send_forbid_tips">Ο λογαριασμός τέθηκε σε αναστολή</string>
+    <string name="comment_model_send_success">Επιτυχής αποστολή</string>
     <string name="common_cancel">Ακύρωση</string>
     <string name="common_google_play_services_enable_button">Ενεργοποίηση</string>
     <string name="common_google_play_services_enable_text">Η εφαρμογή %1$s δεν θα λειτουργήσει εάν δεν έχετε ενεργοποιήσει τις υπηρεσίες Google Play.</string>
@@ -199,7 +221,7 @@
     <string name="diagnosis_log_sent_format">"Επιτυχής αποστολή αρχείων καταγραφής.
 ID:%s
 Αποστολή αυτού του κωδικού στον επόπτη."</string>
-    <string name="dialog_privacy_info_new2">Για να μπορέσετε να χρησιμοποιήσετε τις υπηρεσίες αυτές, πρέπει να συμφωνήσετε ότι %1$s θα συλλέγει, επεξεργάζεται και χρησιμοποιεί τις προσωπικές σας πληροφορίες. Αναμένεται ότι έχετε διαβάσει και συμφωνήσει στην &lt;a href=%2$s>Πολιτική Απορρήτου&lt;/a> όταν πατήσετε \"Συμφωνώ\" παρακάτω.</string>
+    <string name="dialog_privacy_info_new2">Για να μπορέσετε να χρησιμοποιήσετε τις υπηρεσίες αυτές, πρέπει να συμφωνήσετε ότι %1$s θα συλλέγει, επεξεργάζεται και χρησιμοποιεί τις προσωπικές σας πληροφορίες. Αναμένεται ότι έχετε διαβάσει και συμφωνήσει στην &lt;a href=\"%2$s\">Πολιτική Απορρήτου&lt;/a> όταν πατήσετε \"Συμφωνώ\" παρακάτω.</string>
     <string name="dialog_privacy_title">Εξουσιοδότηση</string>
     <string name="dialog_revoke_privacy_info_new2">"Μετά την ανάκληση εξουσιοδότησης, η εφαρμογή θα διακόψει την συλλογή δεδομένων, και όλα τα σχετικά δεδομένα θα διαγραφούν από τους διακομιστές μας. Αυτό ενδέχεται να καταστήσει εικονικά άχρηστη την εφαρμογή. Ανάκληση εξουσιοδότησης παρ' όλα αυτά;"</string>
     <string name="dialog_revoke_privacy_title">Ανάκληση εξουσιοδότησης</string>
@@ -253,6 +275,7 @@ ID:%s
     <string name="favorite_cancel_success">Επιτυχής αφαίρεση από τα αγαπημένα</string>
     <string name="favorite_fail">Αδυναμία προσθήκης στα αγαπημένα. Προσπαθήστε ξανά αργότερα.</string>
     <string name="favorite_success">Επιτυχής προσθήκη στα αγαπημένα</string>
+    <string name="fcm_fallback_notification_channel_label">Διάφορα</string>
     <string name="feedback">Σχόλια</string>
     <string name="feedback_activity_title">Σχόλια</string>
     <string name="feedback_contact_empty">Εισαγάγετε τις πληροφορίες επικοινωνίας</string>
@@ -431,7 +454,7 @@ ID:%s
     <string name="lv_subtitle_onlinesub_loading">Φόρτωση υποτίτλων…</string>
     <string name="lv_subtitle_onlinesub_loading_wait">Φόρτωση υποτίτλων…</string>
     <string name="lv_subtitle_onlinesub_right_declare">Αποποιητής ευθυνών</string>
-    <string name="lv_subtitle_onlinesub_right_declare_content">Αποκτήστε υπότιτλους &lt;br/>&lt;br/>από &lt;a href=http://www.opensubtitles.org>opensubtitles.org&lt;/a>.&lt;br/>&lt;br/>Όλοι οι online υπότιτλοι παρέχονται από &lt;a href=http://www.opensubtitles.org>opensubtitles.org&lt;/a>.</string>
+    <string name="lv_subtitle_onlinesub_right_declare_content">Αποκτήστε υπότιτλους &lt;br/>&lt;br/>από &lt;a href=\"http://www.opensubtitles.org\">opensubtitles.org&lt;/a>.&lt;br/>&lt;br/>Όλοι οι online υπότιτλοι παρέχονται από &lt;a href=\"http://www.opensubtitles.org\">opensubtitles.org&lt;/a>.</string>
     <string name="lv_subtitle_onlinesub_save_failed">Αδυναμία προσθήκης υποτίτλων</string>
     <string name="lv_subtitle_onlinesub_save_success">Επιτυχής προσθήκη υποτίτλων</string>
     <string name="lv_subtitle_onlinesub_search_keyword">Εισαγωγή λέξεων-κλειδιών για αναζήτηση</string>
@@ -501,8 +524,15 @@ ID:%s
     <string name="no_recommend_data">Δεν υπάρχουν προτεινόμενα βίντεο τώρα</string>
     <string name="no_subscriptions">Δεν υπάρχουν στοιχεία εδώ</string>
     <string name="not_show">Να μην εμφανιστεί ξανά</string>
+    <string name="notice_comment_action">Ο/Η %s σχολίασε στη δημοσίευσή σας</string>
+    <string name="notice_comment_action_deleted">Το σχόλιο διαγράφηκε</string>
+    <string name="notice_feedback_content">Υπάρχει ενημέρωση στο σχόλιό σας. Πατήστε για προβολή.</string>
+    <string name="notice_like_action">Στον/Στην %s άρεσε το σχόλιό σας</string>
+    <string name="notice_message_title">Ειδοποιήσεις</string>
+    <string name="notice_title">Μηνύματα</string>
     <string name="notify_apk_installed">Επιτυχής λήψη</string>
     <string name="ok">OK</string>
+    <string name="order_alphabet">Α-Ω</string>
     <string name="order_recently_subscribe">Πρόσφατες συνδρομές</string>
     <string name="order_recently_updated">Πρόσφατες ενημερώσεις</string>
     <string name="ovp_alert_dialog_download_install_task">Γίνεται λήψη HD plug-in…</string>
@@ -510,6 +540,7 @@ ID:%s
     <string name="ovp_category">Κατηγορίες</string>
     <string name="ovp_confirm_delete_favor">Αφαίρεση επιλεγμένων αντικειμένων από τα αγαπημένα;</string>
     <string name="ovp_default_plugin_name">HD plug-in</string>
+    <string name="ovp_detail_back_to_watch_more">Ανακαλύψτε περισσότερα στοιχεία στην αρχική σελίδα</string>
     <string name="ovp_detail_collapse_summary">Απόκρυψη</string>
     <string name="ovp_detail_collect">Προσθήκη στα αγαπημένα</string>
     <string name="ovp_detail_comment">Σχόλια</string>
@@ -552,12 +583,14 @@ ID:%s
     <string name="ovp_loading_video_netplay_label_v5">Μια στιγμή…</string>
     <string name="ovp_local_videos_title">Τοπικά βίντεο</string>
     <string name="ovp_navigation_category">Κατηγορία</string>
+    <string name="ovp_navigation_content">Συνεργασία για περιεχόμενο</string>
     <string name="ovp_navigation_favorites">Αγαπημένα</string>
     <string name="ovp_navigation_feedback">Σχόλια</string>
     <string name="ovp_navigation_history">Ιστορικό</string>
     <string name="ovp_navigation_home">Αρχική</string>
     <string name="ovp_navigation_language">Γλώσσα</string>
     <string name="ovp_navigation_localvideo">Τοπικά</string>
+    <string name="ovp_navigation_notice">Ειδοποιήσεις</string>
     <string name="ovp_navigation_setting">Ρυθμίσεις</string>
     <string name="ovp_navigation_subscribe">Συνδρομή</string>
     <string name="ovp_player_plugin_dlg_neg_btn">Κλείσιμο</string>
@@ -665,8 +698,8 @@ ID:%s
     <string name="passport_unknow_error">Παρουσιάστηκε άγνωστο σφάλμα</string>
     <string name="passport_unknow_host_network_error">Ελέγξτε τις ρυθμίσεις δικτύου σας και προσπαθήστε ξανά</string>
     <string name="passport_unknow_network_error">Παρουσιάστηκε σφάλμα δικτύου</string>
-    <string name="passport_user_agreement_link">&lt;Data>Διάβασα και αποδέχτηκα τους &lt;a href=%1$s>Όρους Χρήσης&lt;/a> και την &lt;a href=%2$s>Πολιτική Απορρήτου&lt;/a> της Xiaomi.&lt;/Data></string>
-    <string name="passport_user_agreement_link_more">&lt;Data>Διάβασα και αποδέχτηκα τα ακόλουθα έγγραφα &lt;a href=%1$s>Όροι Χρήσης&lt;/a> και &lt;a href=%4$s>Πολιτική Απορρήτου&lt;/a>, &lt;a href=%2$s>%3$s&lt;/a>.&lt;/Data></string>
+    <string name="passport_user_agreement_link">&lt;Data>Διάβασα και αποδέχτηκα τους &lt;a href=\"%1$s\">Όρους Χρήσης&lt;/a> και την &lt;a href=\"%2$s\">Πολιτική Απορρήτου&lt;/a> της Xiaomi.&lt;/Data></string>
+    <string name="passport_user_agreement_link_more">&lt;Data>Διάβασα και αποδέχτηκα τα ακόλουθα έγγραφα &lt;a href=\"%1$s\">Όροι Χρήσης&lt;/a> και &lt;a href=\"%4$s\">Πολιτική Απορρήτου&lt;/a>, &lt;a href=\"%2$s\">\"%3$s\"&lt;/a>.&lt;/Data></string>
     <string name="passport_user_id_intro">Εισαγωγή κωδικού για %1$s</string>
     <string name="passport_v_code_error">Ο κωδικός επαλήθευσης είναι εσφαλμένος</string>
     <string name="passport_vcode_notification_title">Η επαλήθευση σύνδεσης δεν έχει ολοκληρωθεί</string>
@@ -703,6 +736,7 @@ ID:%s
     <string name="playlist_title">Λίστα αναπαραγωγής</string>
     <string name="plus_add_shortcut">Δημιουργία συντόμευσης Αρχικής οθόνης</string>
     <string name="plus_change_poster">Αλλαγή εξώφυλλου άλμπουμ</string>
+    <string name="plus_continue_watching">Συνέχιση παρακολούθησης</string>
     <string name="plus_deleting_wait">Γίνεται διαγραφή</string>
     <string name="plus_fallback">Σχόλια</string>
     <string name="plus_gallery_allvideos">Όλα τα βίντεο</string>
@@ -721,6 +755,12 @@ ID:%s
     <string name="plus_gallery_video_title_mediatype">Κατηγορίες βίντεο</string>
     <string name="plus_gallery_video_title_othergallery">Άλλα βίντεο</string>
     <string name="plus_loading_text">Φόρτωση αντικειμένων…</string>
+    <string name="plus_menu_delete">Διαγραφή</string>
+    <string name="plus_menu_delete_popup_text">Διαγραφή τώρα;</string>
+    <string name="plus_menu_properties">Ιδιότητες</string>
+    <string name="plus_menu_rename">Μετονομασία</string>
+    <string name="plus_menu_rename_fail">Το όνομα αρχείου δεν μπορεί να περιέχει \"/\"</string>
+    <string name="plus_menu_share">Κοινή χρήση</string>
     <string name="plus_mine_gallery">Τα άλμπουμ μου</string>
     <string name="plus_mine_videos">Τα βίντεο μου</string>
     <string name="plus_player_8k_video_not_support">Αδυναμία αναπαραγωγής βίντεο 8Κ σε αυτή τη συσκευή</string>
@@ -759,7 +799,7 @@ ID:%s
     <string name="plus_player_subtitle_local_add_success">Επιτυχής προσθήκη υποτίτλων</string>
     <string name="plus_player_subtitle_no_file">Δεν υπάρχουν υπότιτλοι εδώ.</string>
     <string name="plus_player_subtitle_online">Online υπότιτλοι</string>
-    <string name="plus_player_subtitle_online_declare_content">Ετοιμάζεστε να πραγματοποιήσετε αναζήτηση &lt;br/>υποτίτλων στη βάση δεδομένων της &lt;a href=http://www.opensubtitles.org>opensubtitles.org&lt;/a>. &lt;br/>Όλοι οι υπότιτλοι παρέχονται από τη &lt;a href=http://www.opensubtitles.org>opensubtitles.org&lt;/a>.</string>
+    <string name="plus_player_subtitle_online_declare_content">Ετοιμάζεστε να πραγματοποιήσετε αναζήτηση &lt;br/>υποτίτλων στη βάση δεδομένων της &lt;a href=\"http://www.opensubtitles.org\">opensubtitles.org&lt;/a>. &lt;br/>Όλοι οι υπότιτλοι παρέχονται από τη &lt;a href=\"http://www.opensubtitles.org\">opensubtitles.org&lt;/a>.</string>
     <string name="plus_player_subtitle_online_declare_title">Αποποίηση ευθυνών</string>
     <string name="plus_player_subtitle_online_download_fail">Αδυναμία λήψης υποτίτλων</string>
     <string name="plus_player_subtitle_online_download_start">Γίνεται λήψη υποτίτλων…</string>
@@ -771,6 +811,31 @@ ID:%s
     <string name="plus_player_unhide">Εμφάνιση</string>
     <string name="plus_player_video_not_support">Αυτή η μορφή βίντεο δεν υποστηρίζεται.</string>
     <string name="plus_poster_reset_default">Επαναφορά προεπιλεγμένου εξώφυλλου</string>
+    <string name="plus_properties_bit_rate">Ρυθμός μετάδοσης bit</string>
+    <string name="plus_properties_codec">Κωδικοποιητής</string>
+    <string name="plus_properties_date">Ημερομηνία</string>
+    <string name="plus_properties_file">Αρχείο</string>
+    <string name="plus_properties_file_name">Όνομα αρχείου</string>
+    <string name="plus_properties_finished">Ολοκληρώθηκε</string>
+    <string name="plus_properties_format">Μορφή</string>
+    <string name="plus_properties_frame_rate">Ρυθμός καρέ</string>
+    <string name="plus_properties_last_playback_position">Τελευταία θέση</string>
+    <string name="plus_properties_last_playback_time">Τελευταία αναπαραγωγή</string>
+    <string name="plus_properties_length">Διάρκεια</string>
+    <string name="plus_properties_media">Μέσα</string>
+    <string name="plus_properties_path">Τοποθεσία</string>
+    <string name="plus_properties_playback_history">Ιστορικό αναπαραγωγής</string>
+    <string name="plus_properties_resolution">Ανάλυση</string>
+    <string name="plus_properties_sample_rate">Ρυθμός δειγμάτων</string>
+    <string name="plus_properties_size">Μέγεθος</string>
+    <string name="plus_properties_status">Κατάσταση</string>
+    <string name="plus_properties_stream">Αναπαραγωγή</string>
+    <string name="plus_properties_stream_title">Τίτλος</string>
+    <string name="plus_properties_type">Τύπος</string>
+    <string name="plus_properties_type_audio">Ήχος</string>
+    <string name="plus_properties_type_subtitle">Υπότιτλοι</string>
+    <string name="plus_properties_type_video">Βίντεο</string>
+    <string name="plus_properties_unfinish">Δεν ολοκληρώθηκε</string>
     <string name="plus_search_barhint">Αναζήτηση για τοπικά βίντεο</string>
     <string name="plus_search_guide">Αναζήτηση για βίντεο</string>
     <string name="plus_search_result_empty">Αδυναμία εύρεσης αποτελεσμάτων</string>
@@ -810,6 +875,11 @@ ID:%s
     <string name="reload_sub_title">Πατήστε για να προσπαθήσετε ξανά.</string>
     <string name="reload_title">Αδυναμία σύνδεσης στο δίκτυο.</string>
     <string name="report">Υποβολή αναφοράς</string>
+    <string name="report_content_fakement">Ανεπιθύμητο ή απάτη</string>
+    <string name="report_content_illegal">Παράνομες δηλώσεις</string>
+    <string name="report_content_other">Άλλο</string>
+    <string name="report_content_sexy">Σεξουαλικά απερίφραστο περιεχόμενο</string>
+    <string name="report_content_violence">Ρητορική μίσους</string>
     <string name="report_fail">Αδυναμία υποβολής αναφοράς. Προσπαθήστε ξανά.</string>
     <string name="report_success">Επιτυχής αναφορά</string>
     <string name="resend_active_email">Αποστολή ξανά</string>
@@ -862,6 +932,7 @@ ID:%s
     <string name="sns_bind_limit">Πάρα πολλές προσπάθειες. Δοκιμάστε άλλους τρόπους σύνδεσης.</string>
     <string name="sns_sign_in">Άλλοι τρόποι να συνδεθείτε</string>
     <string name="source">"Πηγή: "</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
     <string name="storage_external_sdcard">Κάρτα SD</string>
     <string name="storage_internal_sdcard">Εσωτερικός χώρος αποθήκευσης</string>
     <string name="submit">Υποβολή</string>

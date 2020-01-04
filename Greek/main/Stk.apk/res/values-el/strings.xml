@@ -4,6 +4,7 @@
     <string name="app_name">Εργαλειοθήκη SIM</string>
     <string name="button_cancel">Ακύρωση</string>
     <string name="button_no">Όχι</string>
+    <string name="button_ok">OK</string>
     <string name="button_yes">Ναι</string>
     <string name="default_call_setup_msg">Κλήση σε εξέλιξη…</string>
     <string name="default_close_channel_msg">Το κανάλι έκλεισε</string>
@@ -23,6 +24,7 @@
     <string name="sim_type_sim_name">Εργαλειοθήκη SIM</string>
     <string name="sim_type_uim_name">Εργαλειοθήκη UIM</string>
     <string name="sim_type_usim_name">Εργαλειοθήκη USIM</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
     <string name="stk_app_state">Κατάσταση εφαρμογής</string>
     <string name="stk_channel_name">Μηνύματα υπηρεσίας κινητής τηλεφωνίας</string>
     <string name="stk_dialog_accept">ΝΑΙ</string>
