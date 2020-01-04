@@ -100,7 +100,6 @@
     <string name="aqi_quality_index_light_pollution">Προσοχή</string>
     <string name="aqi_quality_index_moderate">Μέτρια</string>
     <string name="aqi_quality_index_unhealthy">Ανθυγιεινή</string>
-    <string name="auto_add_app_shortcut">新安装应用添加到桌面</string>
     <string name="auto_delete_category_dialog_content">Οι τρέχουσες εφαρμογές θα αφαιρεθούν από αυτή την κατηγορία και η κατηγορία θα διαγραφεί. Διαγραφή αυτής της κατηγορίας τώρα;</string>
     <string name="auto_delete_category_dialog_title">Διαγραφή κατηγορίας</string>
     <string name="backup_fail">Αδυναμία δημιουργίας αντίγραφου ασφαλείας launcher</string>
@@ -403,6 +402,7 @@
     <string name="sort_by_not_defined">Αυτόματη ταξινόμηση</string>
     <string name="start_activity_failed">Αδυναμία έναρξης εκκινητή</string>
     <string name="starting_preset_app">Γίνεται έναρξη…</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
     <string name="status_downloaded">Έγινε λήψη</string>
     <string name="status_downloading">Γίνεται λήψη</string>
     <string name="status_installing">Γίνεται εγκατάσταση</string>

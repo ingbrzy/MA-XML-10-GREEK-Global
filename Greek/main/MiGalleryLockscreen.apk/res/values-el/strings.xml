@@ -74,6 +74,7 @@
     <string name="search_menu_title">Αναζήτηση</string>
     <string name="sign_in_title">Συνδεθείτε μέσω του Mi Λογαριασμού σας</string>
     <string name="sns_sign_in">Άλλοι τρόποι σύνδεσης</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
     <string name="ticket_hint">Κωδικός επαλήθευσης</string>
     <string name="ticket_invalid">Ο κωδικός που πληκτρολογήσατε είναι λανθασμένος</string>
     <string name="ticket_sign_in">Σύνδεση μέσω SMS</string>
