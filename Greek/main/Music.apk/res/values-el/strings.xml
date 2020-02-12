@@ -54,6 +54,7 @@
     <string name="action_item_hifi">Ακουστικά &amp; εφέ ήχου</string>
     <string name="action_item_play_all">Τυχαία αναπαραγωγή όλων</string>
     <string name="action_item_play_next">Αναπαραγωγή αργότερα</string>
+    <string name="action_item_play_video">Αναπαραγωγή μουσικού βίντεο</string>
     <string name="action_item_remove">Αφαίρεση</string>
     <string name="action_item_remove_from_favorite">Άρση επισήμανσης ως αγαπημένη</string>
     <string name="action_item_share">Κοινοποίηση</string>
@@ -111,6 +112,7 @@
     <string name="artist_name">Καλλιτέχνης</string>
     <string name="audio_picker_title">Επιλογή τραγουδιού</string>
     <string name="auto_recommend">Αυτόματα (προτεινόμενο)</string>
+    <string name="auto_sound_quality">Auto</string>
     <string name="auto_update">Αυτόματη ενημέρωση</string>
     <string name="auto_update_tip">Μπορείτε να ενημερώσετε τις εφαρμογές συστήματος χρησιμοποιώντας δεδομένα κινητής τηλεφωνίας. Αυτό όμως μπορεί να υπόκειται σε επιπλέον χρεώσεις δεδομένων.</string>
     <string name="available_playlist_name_format">Νέα λίστα αναπαραγωγής %d</string>
@@ -128,11 +130,13 @@
     <string name="button_wait_for_wifi">Περιμένετε</string>
     <string name="cancel">Ακύρωση</string>
     <string name="cancel_running_download">Ακύρωση</string>
+    <string name="cannot_download_to_sdcard_hint">Αδυναμία λήψης αντικειμένων στην κάρτα SD λόγω περιορισμών πνευματικών δικαιωμάτων. Αντί αυτού, τα στοιχεία θα ληφθούν σε εσωτερικό αποθηκευτικό χώρο.</string>
     <string name="change_download_quality">Αλλαγή ποιότητας λήψης</string>
     <string name="checking_new_version">Γίνεται έλεγχος για ενημερώσεις…</string>
     <string name="choose_download_quality">Επιλογή ποιότητας λήψης</string>
     <string name="choose_music_lang_pref">Προτιμώμενες γλώσσες για τραγούδια</string>
     <string name="choose_stream_quality">Επιλογή ποιότητας αναπαραγωγής</string>
+    <string name="click_and_watch_video_tip">Πατήστε για αναπαραγωγή μουσικού βίντεο</string>
     <string name="click_to_add_album_cover_and_lyric">Πατήστε για προσθήκη εξώφυλλου άλμπουμ και στίχων</string>
     <string name="click_to_shuffle">Αγγίξτε για τυχαία αναπαραγωγή</string>
     <string name="close_music_time">"Χρόνος που απομένει: "</string>
@@ -161,6 +165,7 @@
     <string name="connecting_apk">Γίνεται σύνδεση…</string>
     <string name="create_playlist">Δημιουργία λίστας αναπαραγωγής</string>
     <string name="create_playlist_failure">Αδυναμία δημιουργίας λίστας αναπαραγωγής</string>
+    <string name="create_playlist_input_hint">Εισαγάγετε το όνομα λίστας αναπαραγωγής</string>
     <string name="current_album">Τρέχον εξώφυλλο άλμπουμ</string>
     <string name="current_lyric">Τρέχοντες στίχοι</string>
     <string name="current_version">Τρέχουσα έκδοση</string>
@@ -265,7 +270,9 @@
     <string name="download_method">Λήψη</string>
     <string name="download_no_application_title">Αδυναμία ανοίγματος αρχείου</string>
     <string name="download_paused_in_power_save_mode">Παύση λήψεων όταν η Εξοικονόμηση μπαταρίας είναι ενεργή</string>
+    <string name="download_percent">%d%%</string>
     <string name="download_processing">Γίνεται λήψη…</string>
+    <string name="download_progress">%d%%</string>
     <string name="download_quality">Ποιότητα λήψης</string>
     <string name="download_quality_summary">Πρόσθετες ρυθμίσεις για τραγούδια που κατεβάζετε</string>
     <string name="download_queued">Σε ουρά</string>
@@ -346,7 +353,9 @@
     <string name="exo_download_notification_channel_name">Λήψεις</string>
     <string name="exo_download_removing">Κατάργηση λήψεων</string>
     <string name="exo_item_list">%1$s, %2$s</string>
+    <string name="exo_track_bitrate">%1$.2f Mbps</string>
     <string name="exo_track_mono">Μονοφωνικό</string>
+    <string name="exo_track_resolution">%1$d × %2$d</string>
     <string name="exo_track_selection_auto">Αυτόματο</string>
     <string name="exo_track_selection_none">Κανένα</string>
     <string name="exo_track_selection_title_audio">Ήχος</string>
@@ -374,6 +383,7 @@
     <string name="fcm_fallback_notification_channel_label">Διάφορα</string>
     <string name="feed_back">Σχόλια</string>
     <string name="file_not_found">Το αρχείο δεν υπάρχει</string>
+    <string name="filter_by_MP4">Προβολή φακέλων με αρχεία MP4</string>
     <string name="filter_by_duration">Κατά διάρκεια</string>
     <string name="filter_by_duration_max">%d λεπτά</string>
     <string name="filter_by_duration_min">%d δευ</string>
@@ -415,6 +425,7 @@
     <string name="home_tab_local">Η μουσική μου</string>
     <string name="home_tab_more_music">Περισσότερη μουσική</string>
     <string name="home_tab_online">Online μουσική</string>
+    <string name="home_tab_recommend">Σε σύνδεση</string>
     <string name="home_tab_search">Αναζήτηση</string>
     <string name="hot_icon_in_fast_indexer">Δ</string>
     <string name="hungama_batch_download_alert_summary">Μόνο μέλη PRO μπορούν να κατεβάσουν τραγούδια απεριόριστα. Να γίνετε μέλος τώρα;</string>
@@ -599,6 +610,7 @@
     <string name="online_apk_install_in_background">Φόρτωση περιεχομένου σε σύνδεση στο παρασκήνιο…</string>
     <string name="online_apk_install_network_change_paused">Χρησιμοποιείτε δεδομένα κινητής τηλεφωνίας. Διακοπή φόρτωσης αντικειμένων προς το παρόν. Πατήστε %s για προβολή.</string>
     <string name="online_apk_install_network_error">Αδυναμία σύνδεσης στο δίκτυο. Ελέγξτε τις ρυθμίσεις δικτύου σας και προσπαθήστε ξανά.</string>
+    <string name="online_apk_install_tips">Πρέπει να πραγματοποιήσετε λήψη plug-in αυτού του πάροχου περιεχομένου μία φορά. Θα έχετε τη δυνατότητα απευθείας πρόσβασης σε τραγούδια την επόμενη φορά.</string>
     <string name="online_list_delete_message">Όλα τα τραγούδια που έχετε κατεβάσει σε αυτήν την λίστα αναπαραγωγής θα διαγραφούν από τον εσωτερικό χώρο αποθήκευσης.</string>
     <string name="online_playlist_category">Λίστες αναπαραγωγής</string>
     <string name="online_recommend">Λίστα Αναπαραγωγής</string>
@@ -661,6 +673,7 @@
     <string name="priority_storage_summary">Αυτόματη λήψη στην εξωτερική κάρτα SD εφόσον είναι διαθέσιμη</string>
     <string name="privacy_desc">Πολιτική Απορρήτου (υποχρεωτικό)</string>
     <string name="privacy_policy">Πολιτική Απορρήτου</string>
+    <string name="privacy_policy_url">http://www.miui.com/res/doc/privacy.html?lang=el_GR</string>
     <string name="pro_member">Μέλος PRO</string>
     <string name="project_device">Mi Τηλέφωνο</string>
     <string name="prompt_grant_write_settings_permission">Να επιτρέπεται η αλλαγή ρυθμίσεων συστήματος</string>
@@ -738,6 +751,8 @@
     <string name="service_and_settings">Υπηρεσίες και ρυθμίσεις</string>
     <string name="set_as_alarm_clock_ringtone">Ξυπνητήρι</string>
     <string name="set_as_ring">Ορισμός ως ήχου κλήσης</string>
+    <string name="set_online_home_subtitle">Άνοιγμα προτάσεων σε σύνδεση κατά την εκκίνηση της εφαρμογής</string>
+    <string name="set_online_home_title">Να εμφανίζονται οι προτάσεις σε σύνδεση κατά την εκκίνηση</string>
     <string name="set_ringtones_failed">Αδυναμία ορισμού ήχου κλήσης</string>
     <string name="set_ringtones_successful">%s ορίστηκε ως ήχος κλήσης</string>
     <string name="setting_feature_setting">Ρυθμίσεις λειτουργιών</string>
@@ -786,6 +801,7 @@
     <string name="start_to_check_new_version">Γίνεται έλεγχος για ενημερώσεις…</string>
     <string name="start_to_download">Γίνεται λήψη…</string>
     <string name="start_to_play">Αναπαραγωγή</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
     <string name="storage_cloned_app">Χώρος αποθήκευσης για διπλότυπες εφαρμογές</string>
     <string name="storage_internal">Εσωτερικός χώρος αποθήκευσης</string>
     <string name="storage_sd_card">Κάρτα SD</string>
@@ -862,6 +878,7 @@
     <string name="upgrade_music_message">Οι ενημερώσεις είναι έτοιμες. Επανεκκινήστε για ενημέρωση.</string>
     <string name="upgrading_in_backstage">Γίνεται ενημέρωση στο παρασκήνιο…</string>
     <string name="user_agreement">Όροι Χρήσης</string>
+    <string name="user_agreement_url">http://www.miui.com/res/doc/eula.html?lang=el_GR</string>
     <string name="v7_preference_off">ΑΝΕΝΕΡΓΗ</string>
     <string name="v7_preference_on">ΕΝΕΡΓΗ</string>
     <string name="version_info">Έκδοση</string>
@@ -878,4 +895,5 @@
     <string name="wifi_required_title">Συνδεθείτε με Wi-Fi για την λήψη του αρχείου</string>
     <string name="you_can_switch_mode_in_settings">Μπορείτε να κάνετε εναλλαγή λειτουργιών στις Ρυθμίσεις</string>
     <string name="you_may_like">Επίσης, μπορεί να σας αρέσει</string>
+    <string name="youtube_play_history">Ιστορικό αναπαραγωγής</string>
 </resources>

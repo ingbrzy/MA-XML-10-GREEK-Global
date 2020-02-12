@@ -152,6 +152,10 @@
     <string name="preference_status_bar_indicator_prompt">Εμφάνιση μπάρας κατάστασης κατά τη διάρκεια της εγγραφής</string>
     <string name="preference_tip_rename">Μη αυτόματη ονομασία ηχογραφήσεων</string>
     <string name="privacy_policy_title">Πολιτική Απορρήτου</string>
+    <string name="recognition_button_add_to_queue">Προσθήκη στην ουρά</string>
+    <string name="recognition_button_cancel">Όχι τώρα</string>
+    <string name="recognition_button_start">Μεταγραφή</string>
+    <string name="recognition_confirm_dialog_body">Η μεταγραφή ενδέχεται να διαρκέσει. Θα λάβετε ειδοποίηση όταν η εργασία αυτή ολοκληρωθεί. Μεταγραφή τώρα;</string>
     <string name="recognition_error_cancel">Ακυρώθηκε</string>
     <string name="recognition_error_code">Κωδικός σφάλματος: %d</string>
     <string name="recognition_error_download_cancel">Αργότερα</string>
@@ -167,6 +171,11 @@
     <string name="recognition_error_internal">Εσωτερικό σφάλμα</string>
     <string name="recognition_error_stopped">Σταμάτησε η μεταγραφή</string>
     <string name="recognition_error_unknown">Παρουσιάστηκε άγνωστο σφάλμα. Κάντε αναφορά και δοκιμάστε ξανά.</string>
+    <string name="recognition_interrupt_current_dialog_body">Η μεταγραφή ενδέχεται να διαρκέσει. Θα λάβετε ειδοποίηση όταν η εργασία αυτή ολοκληρωθεί. Τώρα μεταγράφεται \"%s\". Προσθήκη αυτής της εργασίας στην ουρά μεταγραφών;</string>
+    <string name="recognition_notification_channel">Γίνεται μεταγραφή</string>
+    <string name="recognition_notification_complete_success">Επιτυχής μεταγραφή \"%s\". Πατήστε για προβολή.</string>
+    <string name="recognition_notification_error">Αδυναμία μεταγραφής \"%s\"</string>
+    <string name="recognition_notification_running">Γίνεται μεταγραφή\"%s\"…</string>
     <string name="recognition_process_dialog_body">Γίνεται μεταγραφή άλλων ηχογραφήσεων (%s) αυτή τη στιγμή. Διακοπή εργασιών που εκτελούνται τώρα και εκκίνηση νέας εργασίας;</string>
     <string name="recognition_process_dialog_cancel">Ουρά</string>
     <string name="recognition_process_dialog_confirm">Αναγκαστική διακοπή</string>
@@ -174,6 +183,7 @@
     <string name="recognition_status_downloaded">Επιτυχής λήψη μηχανισμού μεταγραφής</string>
     <string name="recognition_status_downloading">"Γίνεται λήψη "</string>
     <string name="recognition_status_init">"Γίνεται προετοιμασία "</string>
+    <string name="recognition_stop_current">Διακοπή τρέχουσας εργασίας</string>
     <string name="recognize_choose_dialog_offline">Δωρεάν μεταγραφή</string>
     <string name="recognize_choose_dialog_offline_desp">Μεταγραφή εγγραφών χωρίς σύνδεση στο διαδίκτυο</string>
     <string name="recognize_choose_dialog_online">Μεταγραφή στο cloud</string>

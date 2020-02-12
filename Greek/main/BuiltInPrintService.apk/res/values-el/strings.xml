@@ -17,11 +17,6 @@
     <string name="fix">Αναθεώρηση άδειας</string>
     <string name="forget">Διαγραφή από μνήμη</string>
     <string name="hostname_or_ip">Όνομα πάροχου ή διεύθυνση IP</string>
-    <string name="media_size_4x6in">4x6 in</string>
-    <string name="media_size_54x86mm">54x86 mm</string>
-    <string name="media_size_5x7in">5x7 in</string>
-    <string name="media_size_89x119mm">89x119 mm</string>
-    <string name="media_size_8x10in">8x10 in</string>
     <string name="no_printer_found">Σε αυτή τη διεύθυνση δεν βρέθηκε εκτυπωτής</string>
     <string name="not_encrypted_request">Αυτός ο εκτυπωτής πλέον δεν αποδέχεται κρυπτογραφημένες εργασίες. Συνέχιση εκτύπωσης;</string>
     <string name="printer_bad_certificate">Ακατάλληλο πιστοποιητικό</string>
@@ -44,7 +39,6 @@
     <string name="title_activity_add_printer">Προσθήκη εκτυπωτή</string>
     <string name="unreadable_input">Αδυναμία ανάγνωσης εγγράφου</string>
     <string name="waiting_to_send">Αναμονή για αποστολή</string>
-    <string name="wifi_direct">Wi-Fi Direct</string>
     <string name="wifi_direct_permission_rationale">Η προεπιλεγμένη υπηρεσία εκτύπωσης χρειάζεται άδεια τοποθεσίας για να βρει κοντινές συσκευές.</string>
     <string name="wifi_direct_printers">Εκτυπωτές Wi-Fi Direct</string>
     <string name="wifi_direct_printing">Εκτύπωση Wi-Fi Direct</string>

@@ -1,7 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="accessibility_nfc_enabled">Ενεργοποίηση ΕΚΠ.</string>
-    <string name="android_beam">Android Beam</string>
     <string name="app_name">Υπηρεσία ΕΚΠ</string>
     <string name="ask_nfc_tap">Πατήστε μια άλλη συσκευή για ολοκλήρωση</string>
     <string name="beam_busy">Η λειτουργία ζεύξης είναι απασχολημένη αυτήν τη στιγμή. Δοκιμάστε ξανά μετά την ολοκλήρωση της προηγούμενης μεταφοράς.</string>
@@ -34,7 +33,6 @@
     <string name="pairing_peripheral_failed">Δεν ήταν δυνατή η σύζευξη %1$s</string>
     <string name="pay_with">Πληρωμή με</string>
     <string name="prompt_connect_to_network">Σύνδεση στο δίκτυο %1$s;</string>
-    <string name="status_bar_notification_info_overflow">999+</string>
     <string name="status_unable_to_connect">Δεν είναι δυνατή η σύνδεση στο δίκτυο</string>
     <string name="status_wifi_connected">Συνδέθηκε</string>
     <string name="tap_again_to_complete">Πατήστε ξανά για να ολοκληρώσετε αυτήν τη συναλλαγή με την εφαρμογή %1$s</string>

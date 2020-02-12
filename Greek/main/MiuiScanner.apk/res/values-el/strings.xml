@@ -8,16 +8,7 @@
     <string name="abc_activitychooserview_choose_application">Επιλέξτε κάποια εφαρμογή</string>
     <string name="abc_capital_off">ΑΠΕΝΕΡΓΟΠΟΙΗΣΗ</string>
     <string name="abc_capital_on">ΕΝΕΡΓΟΠΟΙΗΣΗ</string>
-    <string name="abc_menu_alt_shortcut_label">Alt+</string>
-    <string name="abc_menu_ctrl_shortcut_label">Ctrl+</string>
-    <string name="abc_menu_delete_shortcut_label">delete</string>
-    <string name="abc_menu_enter_shortcut_label">enter</string>
-    <string name="abc_menu_function_shortcut_label">Function+</string>
-    <string name="abc_menu_meta_shortcut_label">Meta+</string>
-    <string name="abc_menu_shift_shortcut_label">Shift+</string>
     <string name="abc_menu_space_shortcut_label">διάστημα</string>
-    <string name="abc_menu_sym_shortcut_label">Sym+</string>
-    <string name="abc_prepend_shortcut_label">Menu+</string>
     <string name="abc_search_hint">Αναζήτηση…</string>
     <string name="abc_searchview_description_clear">Διαγραφή ερωτήματος</string>
     <string name="abc_searchview_description_query">Ερώτημα αναζήτησης</string>
@@ -28,7 +19,6 @@
     <string name="abc_shareactionprovider_share_with_application">Κοινή χρήση με %s</string>
     <string name="abc_toolbar_collapse_description">Σύμπτυξη</string>
     <string name="search_menu_title">Αναζήτηση</string>
-    <string name="status_bar_notification_info_overflow">999+</string>
     <string name="Approval">Υποβάλλετε αίτηση</string>
     <string name="Xiaomi_account_pending_approval">Γίνεται εξέταση αίτησης</string>
     <string name="about_title">Σχετικά</string>
@@ -36,7 +26,7 @@
     <string name="accessibility_shutter_button">Κλείστρο</string>
     <string name="action_search">Αναζήτηση</string>
     <string name="address">Διεύθυνση:</string>
-    <string name="agree_app_use">Σάρωση κωδικών QR και αναγνώρισή τους σε άλλες εικόνες</string>
+    <string name="agree_app_use">Σάρωση κωδικών QR και άλλων εικόνων (ορισμένες λειτουργίες ενδέχεται να απαιτήσουν πρόσβαση στην τοποθεσία σας)</string>
     <string name="agree_btn">Συμφωνώ</string>
     <string name="agree_camera_permission">Για φωτογράφιση και εγγραφή βίντεο</string>
     <string name="agree_storage_permission">Για πρόσβαση σε φωτογραφίες και αρχεία αποθηκευμένα στη συσκευή σας</string>
@@ -49,7 +39,6 @@
     <string name="back">Πίσω</string>
     <string name="barcode_into_rectangle">Τοποθετήστε τον κωδικό μέσα στο πλαίσιο</string>
     <string name="birthday">Γενέθλια:</string>
-    <string name="blog">Weibo</string>
     <string name="business_card">Επαγγελματική κάρτα</string>
     <string name="business_card_result_title">Επαγγελματική κάρτα</string>
     <string name="business_card_title">Τοποθετήστε την επαγγελματική κάρτα μέσα στο πλαίσιο</string>
@@ -59,6 +48,8 @@
     <string name="business_no_result">Αδυναμία αναγνώρισης επαγγελματικής κάρτας. Προσπαθήστε ξανά.</string>
     <string name="calender">Ημερολόγιο</string>
     <string name="call_anyone">Κλήση</string>
+    <string name="calories_logo_text">Η Health Hope παρέχει υποστήριξη για AI</string>
+    <string name="calories_request_interface_text">Υποστήριξη για AI</string>
     <string name="camera_error_title">Σφάλμα Κάμερας</string>
     <string name="cancel">Ακύρωση</string>
     <string name="carsHome_title">Αυτοκίνητο</string>
@@ -95,7 +86,6 @@
     <string name="document_crop_title">Αποκοπή εγγράφου</string>
     <string name="document_grayscale">Γκρι απόχρωση</string>
     <string name="document_grayscale_tip_msg">Γίνεται μετατροπή σε γκρι απόχρωση…</string>
-    <string name="document_ocr">OCR</string>
     <string name="document_ocr_result_copy">Αντιγραφή κειμένου</string>
     <string name="document_ocr_result_save">Αποθήκευση στις Σημειώσεις</string>
     <string name="document_ocr_result_title">Φωτογραφία εγγράφου</string>
@@ -112,7 +102,6 @@
     <string name="download_use_stable_version">Λήψη σταθερής έκδοσης</string>
     <string name="drag_barcode_into_frame">Σύρετε το πλαίσιο για να χωρέσει ο κωδικός</string>
     <string name="drag_crop_to_business_card">Μετακίνηση για αποκοπή</string>
-    <string name="email">Email:</string>
     <string name="error_camera_disabled">Δεν επιτρέπεται η πρόσβαση στην Κάμερα για λόγους ασφαλείας</string>
     <string name="error_cannot_connect_camera">Αδυναμία σύνδεσης με την Κάμερα</string>
     <string name="error_empty_result">Αδυναμία εύρεσης αποτελεσμάτων</string>
@@ -149,7 +138,6 @@
     <string name="impunity_declaration_negative_text">Έξοδος</string>
     <string name="impunity_declaration_title">Πολιτική Απορρήτου</string>
     <string name="jd_shopping_title">Αναζήτηση σε JD</string>
-    <string name="jingdong">JD</string>
     <string name="kuaidi100_data">Παρέχεται από Kuaidi 100</string>
     <string name="label_choose_picture">Επιλογή εικόνας</string>
     <string name="label_flash_light">Φακός</string>
@@ -222,14 +210,12 @@
     <string name="see_details">Πατήστε για προβολή λεπτομερειών</string>
     <string name="select_dialog_confirm">ΟΚ</string>
     <string name="send_mail">Αποστολή email</string>
-    <string name="setting_alipay">Alipay</string>
     <string name="setting_choose_every_time">Ερώτηση πάντα</string>
     <string name="setting_default_function">Προεπιλεγμένη λειτουργία</string>
     <string name="setting_function_sort">Αναδιάταξη λειτουργιών</string>
     <string name="setting_preference_pay">Προτιμώμενη μέθοδος πληρωμής</string>
     <string name="setting_title">Ρυθμίσεις</string>
     <string name="setting_use_last_choose">Απομνημόνευση προηγούμενης επιλογής</string>
-    <string name="setting_wechat">WeChat</string>
     <string name="shopping_searching">Γίνεται αναζήτηση…</string>
     <string name="shopping_title">Τραβήξτε μια φωτογραφία για το προϊόν</string>
     <string name="shopping_vendor_info">Υποστηρίζεται από την Taobao</string>
@@ -248,7 +234,6 @@
     <string name="study_vendor_info">Υποστηρίζεται από Zuoyebang</string>
     <string name="suggested_submission_success">Επιτυχής υποβολή των σχολίων σας</string>
     <string name="switch_open">Ενεργοποίηση</string>
-    <string name="taobao">Taobao</string>
     <string name="tel">Τηλέφωνο</string>
     <string name="title">Τίτλος:</string>
     <string name="to_install_title">Αυτός ο κωδικός QR σας ανακατευθύνει σε εφαρμογή που δεν έχει εγκατασταθεί. Λήψη της εφαρμογής τώρα;</string>
@@ -294,13 +279,11 @@
     <string name="website_details">Ιστοσελίδα:</string>
     <string name="weixin_code_tip">Σάρωση του QR κωδικού με WeChat</string>
     <string name="welcome_to_thesweepversion">Καλώς ορίσατε στη Σαρωτής Beta!</string>
-    <string name="wifi_details">Wi-Fi:</string>
     <string name="wifi_exist_fail">Το φορητό σημείο πρόσβασης \"%1$s\" υπάρχει ήδη. Διαγράψτε το, μετά σαρώστε ξανά τον κωδικό για να συνδεθείτε.</string>
     <string name="wifi_open_fail">Αδυναμία ενεργοποίησης Wi-Fi</string>
     <string name="wifi_psd_toolong">Ο κωδικός είναι υπερβολικά μεγάλος. Εισαγάγετε τον κωδικό χειροκίνητα.</string>
     <string name="wifi_pwd">Κωδικός:</string>
     <string name="wifi_security">Ασφάλεια:</string>
-    <string name="wifi_ssid">SSID:</string>
     <string name="will_be_sent_tothe_background_review">" (Η αίτησή σας θα σταλεί για εξέταση σύντομα.)"</string>
     <string name="wx_not_installed_toast">Η λειτουργία αυτή πρέπει να χρησιμοποιήσει την WeChat. Πρώτα εγκαταστήστε την WeChat.</string>
     <string name="xiaoai_dialog">Προσπαθήστε να πείτε στην Mi AI τι θέλετε να σαρώσετε</string>

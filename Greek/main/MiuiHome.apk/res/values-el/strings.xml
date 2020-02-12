@@ -42,7 +42,6 @@
     <string name="announce_for_close_folder">Κλείσατε φάκελο</string>
     <string name="announce_for_close_launcher_menu">Έγινε κλείσιμο μενού</string>
     <string name="announce_for_create_folder_with_app">Δημιουργήθηκε φάκελος με %1$s</string>
-    <string name="announce_for_delete_gadget_and_widget">Widget</string>
     <string name="announce_for_delete_item">%1$s διεγράφη</string>
     <string name="announce_for_drag_enter_delete_zone">Σύρατε αντικείμενα στην ζώνη απεγκατάστασης</string>
     <string name="announce_for_drag_enter_folder_grid">Μπορείτε να αφήστε αντικείμενα στον φάκελο</string>
@@ -66,7 +65,6 @@
     <string name="announce_for_show_uninstall_dialog">Εμφανίστηκε παράθυρο απεγκατάστασης. Ακύρωση ή επιβεβαίωση.</string>
     <string name="announce_for_unchecked">%1$s, δεν ελέγχθηκε</string>
     <string name="announce_for_widget_span">Πλάτος %1$d, ύψος %2$d</string>
-    <string name="announce_for_xiaoai">Mi AI</string>
     <string name="app_already_exist">Η εφαρμογή υπάρχει ήδη</string>
     <string name="app_being_backup_message">Δημιουργείται αντίγραφο ασφαλείας για την εφαρμογή</string>
     <string name="app_being_restored_message">Γίνεται επαναφορά εφαρμογής</string>
@@ -86,7 +84,6 @@
     <string name="app_category_sport">Αθλητικά</string>
     <string name="app_category_tools">Εργαλεία</string>
     <string name="app_category_travel">Ταξίδια</string>
-    <string name="app_category_vr">VR</string>
     <string name="application_name">Launcher συστήματος</string>
     <string name="apply">Ορισμός</string>
     <string name="apply_action">Ορισμός</string>
@@ -100,6 +97,7 @@
     <string name="aqi_quality_index_light_pollution">Προσοχή</string>
     <string name="aqi_quality_index_moderate">Μέτρια</string>
     <string name="aqi_quality_index_unhealthy">Ανθυγιεινή</string>
+    <string name="auto_add_app_shortcut">Τοποθέτηση νέων εφαρμογών στην Αρχική οθόνη</string>
     <string name="auto_delete_category_dialog_content">Οι τρέχουσες εφαρμογές θα αφαιρεθούν από αυτή την κατηγορία και η κατηγορία θα διαγραφεί. Διαγραφή αυτής της κατηγορίας τώρα;</string>
     <string name="auto_delete_category_dialog_title">Διαγραφή κατηγορίας</string>
     <string name="backup_fail">Αδυναμία δημιουργίας αντίγραφου ασφαλείας launcher</string>
@@ -127,7 +125,6 @@
     <string name="chooser_wallpaper">Επιλογή νέας ταπετσαρίας</string>
     <string name="cloud_app_restore_title">Προς διεκπεραίωση</string>
     <string name="configure_wallpaper">Ρυθμίσεις</string>
-    <string name="confirm_btn_label">OK</string>
     <string name="confirm_uninstall_dialog_contain_xspace_app_msg">Διπλότυπες εφαρμογές θα απεγκατασταθούν ταυτόχρονα με αυτές.</string>
     <string name="confirm_uninstall_dialog_has_xspace_app_msg">Η διπλότυπη εφαρμογή θα απεγκατασταθεί ταυτόχρονα με αυτήν.</string>
     <string name="confirm_uninstall_dialog_title">Οι διπλότυπες εφαρμογές θα καταργηθούν</string>
@@ -138,18 +135,14 @@
     <string name="current_wallpaper">Τρέχουσα</string>
     <string name="custom_wallpaper_picker">Αναζήτηση</string>
     <string name="defalut_launcher_title">Προεπιλεγμένο launcher</string>
-    <string name="default_folder_title_claro">Claro</string>
     <string name="default_folder_title_game">Παιχνίδια</string>
     <string name="default_folder_title_meitu">Εφαρμογές Meitu</string>
-    <string name="default_folder_title_microsoft">Microsoft</string>
     <string name="default_folder_title_other_apps">Άλλες εφαρμογές</string>
     <string name="default_folder_title_recommend">Περισσότερες εφαρμογές</string>
     <string name="default_folder_title_security">Σύστημα</string>
     <string name="default_folder_title_services">Υπηρεσίες</string>
-    <string name="default_folder_title_telcel">Telcel</string>
     <string name="default_folder_title_tools">Εργαλεία</string>
     <string name="default_screen_preview_title">Ορισμός προεπιλεγμένης οθόνης</string>
-    <string name="default_shortcut_title_10086">10086.cn</string>
     <string name="delete">Διαγραφή</string>
     <string name="delete_category_dialog_content">"Δεν θα έχετε δυνατότητα επαναφοράς αυτής της κατηγορίας μετά την διαγραφή της. Διαγραφή παρ' όλα αυτά;"</string>
     <string name="delete_category_dialog_title">Διαγραφή αυτής της κατηγορίας;</string>
@@ -158,8 +151,6 @@
     <string name="deselect_all">Αποεπιλογή όλων</string>
     <string name="disable_wallpaper_scroll">Απενεργοποίηση πλάγιου ξεφυλλίσματος</string>
     <string name="download_action">Λήψη</string>
-    <string name="drag_multiple_item_name" />
-    <string name="drag_single_item_name" />
     <string name="drawer_background">Παρασκήνια</string>
     <string name="drawer_background_dark">Σκοτεινό</string>
     <string name="drawer_background_light">Φωτεινό</string>
@@ -203,7 +194,6 @@
     <string name="free_style_edit_move_tip">Πατήστε &amp; πατήστε παρατεταμένα για μετακίνηση ενός αντικειμένου</string>
     <string name="free_style_edit_tab_free_component">Αντικείμενα</string>
     <string name="free_style_edit_tab_shortcut">Συντομεύσεις</string>
-    <string name="free_style_edit_tab_widget">Widgets</string>
     <string name="free_style_enter_tip">Για προβολή του Mi Χώρου, σαρώστε από την κορυφή της οθόνης προς τα κάτω με δύο δάχτυλα</string>
     <string name="free_style_exit_tip">Για επιστροφή στην Αρχική Οθόνη, σαρώστε από κάτω προς τα πάνω στην οθόνη με δύο δάχτυλα</string>
     <string name="free_style_londing_text">Περιμένετε μία στιγμή…</string>
@@ -254,6 +244,7 @@
     <string name="home_pull_down_action">Σύρετε προς τα κάτω στην Αρχική οθόνη</string>
     <string name="home_screen">Αρχική οθόνη</string>
     <string name="home_slide_up_action">Σύρετε προς τα πάνω στην Αρχική οθόνη</string>
+    <string name="home_switch_personal_assistant">-1 οθόνη</string>
     <string name="icon_reorganize_channel">Τααξινόμηση εικονιδίων</string>
     <string name="icon_size">Μέγεθος εικονιδίου</string>
     <string name="image_too_small_message">Η αρχική εικόνα δεν είναι αρκετά μεγάλη.</string>
@@ -263,6 +254,9 @@
     <string name="is_system_wallpaper_message">Αδυναμία διαγραφής πόρων συστήματος</string>
     <string name="launcher_not_exist">Παρουσιάστηκε σφάλμα. Μεταβείτε στην Αρχική οθόνη και προσπαθήστε ξανά.</string>
     <string name="launcher_pull_down_title">Σύρετε προς τα κάτω στην Αρχική οθόνη</string>
+    <string name="launcher_search_bar_title">Γραμμή αναζήτησης Αρχικής οθόνης</string>
+    <string name="launcher_search_bar_value_disable">Ανενεργή</string>
+    <string name="launcher_search_bar_value_enable">Ενεργή</string>
     <string name="launcher_slide_up_title">Σύρετε προς τα πάνω στην Αρχική οθόνη</string>
     <string name="launcher_sliding_up_gesture">Σαρώστε προς τα επάνω στην Αρχική οθόνη για άνοιγμα αναζήτησης</string>
     <string name="launcher_title">Αρχική οθόνη &amp; Πρόσφατα</string>
@@ -313,7 +307,7 @@
     <string name="notification_installed">Εγκαταστάθηκε επιτυχώς</string>
     <string name="notification_open_button">Άνοιγμα</string>
     <string name="notification_reset_title">Επιτυχής ταξινόμηση εκονιδίων</string>
-    <string name="online_wallpaper">Online</string>
+    <string name="one_key_call_title">Πατήστε για κλήση</string>
     <string name="open_personal_assistant_dialog_btn_cancel">Ακύρωση</string>
     <string name="open_personal_assistant_dialog_btn_confirm">Απενεργοποίηση</string>
     <string name="open_personal_assistant_dialog_desc">Δεν θα έχετε την δυνατότητα χρήσης της Αποθήκης εφαρμογών και λήψης των ενημερώσεων της. Απενεργοποίηση τώρα;</string>
@@ -355,7 +349,6 @@
     <string name="quick_app">Γρήγορες εφαρμογές</string>
     <string name="recent_apps">Πρόσφατες</string>
     <string name="recents_config_title">Πρόσφατα</string>
-    <string name="recommend_apk_size_and_desc">%1$dMB | %2$s</string>
     <string name="recommend_app">Προτάσεις εφαρμογών</string>
     <string name="recommend_apps_default_title">Κενό</string>
     <string name="recommend_apps_no_data">Χωρίς δεδομένα</string>
@@ -407,7 +400,10 @@
     <string name="status_installing">Γίνεται εγκατάσταση</string>
     <string name="status_paused">Έγινε παύση</string>
     <string name="status_pending">Αναμονή</string>
+    <string name="switch_personal_assistant_app_vault">Αποθήκη εφαρμογής</string>
+    <string name="switch_personal_assistant_none">Καμία</string>
     <string name="system_shortcuts_more_operation">Πληροφορίες εφαρμογής</string>
+    <string name="system_shortcuts_remove">Αφαίρεση</string>
     <string name="system_text">Σύστημα</string>
     <string name="title_jeejen">Αρχική Οθόνη Jeejen</string>
     <string name="title_select_live_folder">Επιλογή φακέλου</string>

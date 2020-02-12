@@ -92,7 +92,6 @@
     <string name="scenario_policies_summary">Εφαρμογή διαφορετικών τρόπων εξοικονόμησης ενέργειας για διαφορετικά σενάρια.</string>
     <string name="scenario_policies_title">Έξυπνα σενάρια</string>
     <string name="scenario_policies_warmcontrol">Έλεγχος θερμοκρασίας</string>
-    <string name="search_input_txt_na">"&lt;font color='#ff0000'>%s&lt;/font>"</string>
     <string name="search_result_text">Αδυναμία εύρεσης εφαρμογών</string>
     <string name="show_system_app">Εμφάνιση εφαρμογών συστήματος</string>
     <string name="sleep_config_enhance_description">Όποτε το MIUI εντοπίζει πως κοιμάστε, θα κλείσει όλες τις εφαμοργές παρασκηνίου, περιορίσει το NFC, Bluetooth, GPS, δεδομένα κινητής και κατανάλωση Wi-Fi, και δεν θα ενεργοποιεί την οθόνη κατά τις ειδοποιήσεις.</string>
