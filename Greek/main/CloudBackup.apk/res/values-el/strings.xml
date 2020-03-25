@@ -10,7 +10,6 @@
     <string name="retry">Επανάληψη</string>
     <string name="cloud_app_current_device">Τρέχουσα συσκευή</string>
     <string name="cloud_app_other_devices">Άλλες συσκευές</string>
-    <string name="cloud_app_restore_app_and_data">Ρύθμιση της συσκευής σας</string>
     <string name="cloud_app_restore_data">Προσωπικά δεδομένα και ήδη εγκατεστημένες εφαρμογές θα εμφανιστούν αυτόματα στην συσκευή σας</string>
     <string name="cloud_app_dont_restore">Ρύθμιση ως νέα συσκευή</string>
     <string name="cloud_app_restore_wifi_prompt">Επαναφορά από αντίγραφο ασφαλείας στο Cloud.</string>
@@ -50,6 +49,8 @@
     <string name="self_device_second_space">Δεύτερος χώρος αυτού του τηλεφώνου</string>
     <string name="other_device_main_space">Πρώτος χώρος</string>
     <string name="other_device_second_space">Δεύτερος χώρος</string>
+    <string name="pattern_backup_name_with_home">%1$s (%2$s: %3$s)</string>
+    <string name="pattern_backup_name_without_home">%1$s (%2$s)</string>
     <string name="process_whole_recovery">Γίνεται επαναφορά \"%s\"</string>
     <string name="size_unknown">Άγνωστο μέγεθος</string>
     <string name="recovering">Γίνεται επαναφορά %s</string>
@@ -222,4 +223,5 @@
     <string name="restore_task_unfinished">Αδυναμία επαναφοράς</string>
     <string name="restore_failed_reason_network_error">Πρόβλημα δικτύου. Περιμένετε ένα με δύο λεπτά και προσπαθήστε ξανά.</string>
     <string name="restore_failed_reason_disk_space_not_enough">Ανεπαρκής χώρος αποθήκευσης. Ελευθερώστε πρώτα χώρο.</string>
+    <string name="cloud_app_restore_app_and_data">Ρύθμιση της συσκευής σας</string>
 </resources>

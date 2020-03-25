@@ -13,6 +13,7 @@
     <string name="hint_search_all">Αναζήτηση εφαρμογών</string>
     <string name="hint_search_in_disabled_apps">Αναζήτηση για εφαρμογές που δεν μπορούν να προβάλουν ειδοποιήσεις</string>
     <string name="hint_search_in_enabled_apps">Αναζήτηση για εφαρμογές που μπορούν να προβάλουν ειδοποιήσεις</string>
+    <string name="last_sent_time_second">Μόλις τώρα</string>
     <string name="list_title_disable_notification">Οι ειδοποιήσεις είναι περιορισμένες</string>
     <string name="loading">Μια στιγμή…</string>
     <string name="lock_screen_display_rules">Διαμόρφωση</string>
@@ -25,10 +26,13 @@
     <string name="notification_fold_summary">Όλες οι ασήμαντες ειδοποιήσεις θα εμφανιστούν σε διαφορετικό φάκελο</string>
     <string name="notification_fold_title">Φάκελος ειδοποιήσεων</string>
     <string name="notification_manager">Ειδοποιήσεις εφαρμογών</string>
+    <string name="notification_style_android">Android</string>
+    <string name="notification_style_miui">MIUI</string>
     <string name="off">Απενεργοποίηση</string>
     <string name="on">Ενεργοποίηση</string>
     <string name="settings_guide_title">Χρειάζεστε άλλες ρυθμίσεις;</string>
     <string name="show_badge_notifications">Σημάνσεις ειδοποιήσεων</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
     <string name="status_bar_setting">Γραμμή κατάστασης</string>
     <string name="summary_disable_float_notification">Οι κυμαινόμενες ειδοποιήσεις είναι περιορισμένες</string>
     <string name="summary_disable_lockscreen_notification">Οι ειδοποιήσεις Οθόνης κλειδώματος είναι περιορισμένες</string>

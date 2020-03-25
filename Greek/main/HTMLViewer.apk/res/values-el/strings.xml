@@ -14,6 +14,8 @@
     <string name="open_wifi_connect_summary">Πατήστε για προβολή λεπτομερειών.</string>
     <string name="open_wifi_connect_title">Έγινε σύνδεση σε %1$s</string>
     <string name="permdesc_accessDrm">Να επιτρέπεται στην εφαρμογή η πρόσβαση σε περιεχόμενο προστατευμένο με DRM.</string>
+    <string name="poco_launcher_privacy_policy">Πολιτική Απορρήτου Εκκινητή POCO</string>
+    <string name="poco_launcher_user_agreement">Συμφωνία Χρήστη Εκκινητή POCO</string>
     <string name="poco_privacy_policy">Πολιτική Απορρήτου Εκκινητή POCO &amp; Συμφωνία Χρήστη Εκκινητή POCO</string>
     <string name="policy_name">Πρωτόκκολο: %s</string>
     <string name="pre_installed_apps">Προ-εγκατεστημένες εφαρμογές</string>

@@ -48,6 +48,11 @@
     <string name="back_description">Πίσω</string>
     <string name="back_view_description">Πίσω</string>
     <string name="batch_delete">Διαγραφή δέσμης</string>
+    <string name="bind_simcard_default">Προεπιλεγμένη SIM για κλήσεις</string>
+    <string name="bind_simcard_menu">Ορισμός προεπιλεγμένης SIM για κλήσεις</string>
+    <string name="bind_simcard_no_dual">Αδυναμία εύρεσης διπλής SIM</string>
+    <string name="bind_simcard_not_set">Δεν έχει οριστεί</string>
+    <string name="bind_simcard_title">Προεπιλεγμένη SIM για κλήσεις</string>
     <string name="blacklist">Αποκλεισμός</string>
     <string name="bluetooth_connection_failed_toast">Διακόπηκε η σύνδεση Bluetooth</string>
     <string name="blurbJoinContactDataWith">Επιλέξτε μια επαφή για συγχώνευση %s:</string>
@@ -61,7 +66,7 @@
     <string name="callAgain">Επανάκληση</string>
     <string name="callBack">Καλέστε πίσω</string>
     <string name="callDetailTitle">Λεπτομέρειες κλήσης</string>
-    <string name="callDetailsDurationFormat" formatted="false">%s λεπτά %s δευ</string>
+    <string name="callDetailsDurationFormat">%1$s λεπτά %2$s δευ</string>
     <string name="callShortcutActivityTitle">Επιλογή αριθμού για κλήση</string>
     <string name="call_assistant">Κλήση%s</string>
     <string name="call_callback">Κλήση επιστροφής κλήσης</string>
@@ -100,6 +105,7 @@
     <string name="call_sim_menu_title_suffix">(Βασικό)</string>
     <string name="call_telex">Κλήση telex</string>
     <string name="call_tty_tdd">Κλήση TTY/TDD</string>
+    <string name="call_type_and_date">%1$s %2$s</string>
     <string name="call_unit">CNY</string>
     <string name="call_work">Κλήση εργασίας</string>
     <string name="call_work_mobile">Κλήση κινητού εργασίας</string>
@@ -187,6 +193,7 @@
     <string name="cloud_state_loading">Περιμένετε μια στιγμή…</string>
     <string name="cloud_state_sync_finished">Έγινε συγχρονισμός με cloud</string>
     <string name="cloud_state_syncing">Γίνεται συγχρονισμός με το cloud</string>
+    <string name="cloud_upgrade_recommend">Αδυναμία συγχρονισμού επαφών λόγω ανεπαρκούς χώρου αποθήκευσης στο cloud. Αναβαθμίστε το πρόγραμμα αποθήκευσης στο storage plan.</string>
     <string name="combined_title_and_miprofile_swaped">%1$s, %2$s</string>
     <string name="combined_title_and_miprofile_swaped_huge_mode">"%1$s
 %2$s"</string>
@@ -194,6 +201,7 @@
     <string name="composer_has_no_exportable_contact">Δεν υπάρχουν επαφές με δυνατότητα εξαγωγής. Αν έχετε επαφές στην συσκευή σας, ορισμένοι πάροχοι δεδομένων ενδέχεται να μην επιτρέπουν τις επαφές αυτές να εξαχθούν από την συσκευή.</string>
     <string name="composer_not_initialized">Δεν έγινε σωστή εκκίνηση του συθέτη vCard.</string>
     <string name="conference_call_disable_tip">Αδυναμία πραγματοποίησης κλήσεων. Βεβαιωθείτε ότι η συσκευή σας είναι συνδεδεμένη σε δίκτυο 4G με υποστήριξη VoLTE.</string>
+    <string name="confirm_delete_cloud_all_call_logs">Διαγραφή όλων των εγγραφών ιστορικού κλήσεων που σχετίζονται με %s από το cloud και από τη συσκευή;</string>
     <string name="confirm_delete_contact_all_call_logs">Εκκαθάριση όλου του ιστορικού %s;</string>
     <string name="confirm_delete_selected_all_call_logs">Εκκαθάριση ιστορικού κλήσεων?</string>
     <string name="confirm_delete_sim_entry_miui_title">Διαγραφή</string>
@@ -296,12 +304,15 @@
     <string name="date_time_set">Ορισμός</string>
     <string name="date_year_toggle">Καθορισμός έτους</string>
     <string name="default_ringtone">Προεπιλεγμένος ήχος κλήσης</string>
+    <string name="deleteCloudConfirmationDetail">Διαγραφή των πληροφοριών επαφής %s από το cloud και από τη συσκευή;</string>
     <string name="deleteConfirmation">Αυτή η επαφή θα διαγραφεί.</string>
     <string name="deleteConfirmationDetail">Διαγραφή\"%s\"?</string>
     <string name="deleteConfirmation_title">Διαγραφή επαφής?</string>
     <string name="delete_call_log_message">Εκκαθάριση ιστορικού κλήσεων?</string>
     <string name="delete_call_log_selected_title">Εκκαθάριση επιλεγμένου ιστορικού κλήσεων;</string>
     <string name="delete_call_log_title">Εκκαθάριση ιστορικού κλήσεων</string>
+    <string name="delete_conference_call_log_message">Διαγραφή τώρα όλων των εγγραφών κλήσης συνδιάσκεψης που σχετίζονται με αυτή την επαφή;</string>
+    <string name="delete_conference_call_log_title">Διαγραφή όλων εγγραφών κλήσης συνδιάσκεψης</string>
     <string name="delete_contact_calllog_title">Εκκαθάριση ιστορικού κλήσεων;</string>
     <string name="delete_dial_input">Διαγραφή</string>
     <string name="delete_duplicate">Συγχώνευση</string>
@@ -378,17 +389,17 @@
     <string name="device_paired_dialog_title">Γίνεται ανάκτηση επαφών…</string>
     <string name="device_pairing_dialog_message">Γίνεται σύζευξη…</string>
     <string name="device_pairing_dialog_title">Σύζευξη συσκευών</string>
-    <string name="device_transfer_by_bluetooth_message">"1. Ενεργοποιήστε το Bluetooth στην άλλη συσκευή. 
+    <string name="device_transfer_by_bluetooth_message">"%1$d. Ενεργοποιήστε το Bluetooth στην άλλη συσκευή.
 
-- Το Bluetooth βρίσκεται στις ρυθμίσεις δικτύου στις συσκευές Android. 
-- Στις συσκευές iOS, το Bluetooth βρίσκεται στις Ρυθμίσεις. 
+- Στις συσκευές με Android το Bluetooth βρίσκεται στις ρυθμίσεις δικτύου.
+- Στις συσκευές με iOS, το Bluetooth βρίσκεται στις Ρυθμίσεις.
 
-2. Η λειτουργία Ανιχνεύσιμο πρέπει να ενεργοποιηθεί στις συσκευές Android. 
+%2$d. Επίσης, στις συσκευές με Android πρέπει να ενεργοποιηθεί η Ανιχνεύσιμη λειτουργία.
 
-3. Πατήστε \"Επόμενο\", και αποδεχτείτε τις απαιτούμενες άδειες για τις Επαφές."</string>
-    <string name="device_transfer_by_sim_message">"\"1. Αποθηκεύστε τις επαφές της άλλης συσκευής στην κάρτα SIM; 
+%3$d. Πατήστε \"Επόμενο\" και χορηγήστε τις απαιτούμενες άδειες στην εφαρμογή Επαφές."</string>
+    <string name="device_transfer_by_sim_message">"%1$d. Αποθηκεύστε τις επαφές της άλλης συσκευής στην κάρτα SIM,
 
-2. Ανοίξτε τις ρυθμίσεις της εφαρμογής Επαφές, και στην συνέχεια μεταβείτε σε \"Εισαγωγή/Εξαγωγή επαφών\" -- \"Εισαγωγή από κάρτα SIM\", πατήστε παρατεταμένα οποιαδήποτε επαφή SIM για να την επιλέξτε, επιλέξτε όλες τις απαιτούμενες επαφές, και πατήστε \"Εισαγωγή\".\""</string>
+%2$d. Ανοίξτε τις ρυθμίσεις της εφαρμογής Επαφές και μεταβείτε σε \"Εισαγωγή/Εξαγωγή επαφών\" -- \"Εισαγωγή από κάρτα SIM\", πατήστε παρατεταμένα οποιαδήποτε επαφή στη SIM για να την επιλέξτε, επιλέξτε όλες τις απαιτούμενες επαφές, και πατήστε \"Εισαγωγή\"."</string>
     <string name="device_version_header_bluetooth">Εισαγωγή μέσω Bluetooth</string>
     <string name="device_version_header_no_bluetooth">Εισαγωγή μέσω κάρτας SIM</string>
     <string name="dial">Κλήση</string>
@@ -440,7 +451,6 @@
     <string name="edit_contact">Επεξεργασία επαφής</string>
     <string name="edit_contact_card_title">Επιλογή αντικειμένων για κοινοποίηση</string>
     <string name="edit_contact_photo">Επεξεργασία φωτογραφίας επαφής</string>
-    <string name="eight">8</string>
     <string name="eight_letter">ΘΤ</string>
     <string name="email">Email</string>
     <string name="emailLabelsGroup">Email</string>
@@ -471,13 +481,13 @@
 Αιτία: \"%s\""</string>
     <string name="exporting_contact_failed_title">Αδυναμία εξαγωγής</string>
     <string name="exporting_contact_list_message">Γίνεται εξαγωγή σε %s.</string>
-    <string name="exporting_contact_list_progress" formatted="false">%s από %s επαφές</string>
+    <string name="exporting_contact_list_progress">%1$s από %2$s επαφές</string>
     <string name="exporting_contact_list_title">Γίνεται εξαγωγή δεδομένων επαφών</string>
     <string name="exporting_vcard_canceled_title">Η εξαγωγή %s ακυρώθηκε.</string>
     <string name="exporting_vcard_finished_title">Η εξαγωγή %s ολοκληρώθηκε.</string>
     <string name="external_profile_title">Το %1$s προφίλ μου</string>
     <string name="fail_reason_could_not_initialize_exporter">Αδυναμία εκκίνησης του εξαγωγέα: \"%s\".</string>
-    <string name="fail_reason_could_not_open_file" formatted="false">Αδυναμία ανοίγματος \"%s: %s.</string>
+    <string name="fail_reason_could_not_open_file">Αδυναμία ανοίγματος \"%1$s\": %2$s.</string>
     <string name="fail_reason_error_occurred_during_export">Ένα σφάλμα παρουσιάστηκε κατά την διάρκεια της εξαγωγής: \"%s\".</string>
     <string name="fail_reason_failed_to_collect_vcard_meta_info">Αδυναμία συλλογής πληροφοριών δεδομένων των αρχείων vCard.</string>
     <string name="fail_reason_failed_to_read_files">Αδυναμία εισαγωγής ενός ή περισσότερων αρχείων (%s).</string>
@@ -493,13 +503,12 @@
     <string name="favoritesFrequentContacted">Συχνή επικοινωνία</string>
     <string name="favorites_list_empty">Δεν υπάρχουν αγαπημένα</string>
     <string name="firewall_setting">Λίστα αποκλεισμών</string>
-    <string name="five">5</string>
     <string name="five_letter">ΚΛ</string>
     <string name="force_touch_miprofile">Kαρτέλα επαφής</string>
     <string name="force_touch_new_contact">Νέα επαφή</string>
-    <string name="four">4</string>
     <string name="four_letter">ΓΗΙ</string>
     <string name="frequentList">Συχνές</string>
+    <string name="from_account_format">%1$s</string>
     <string name="full_name">Όνομα</string>
     <string name="gallery">Συλλογή</string>
     <string name="generic_no_account_prompt">Διατηρήστε τις επαφές σας ασφαλείς ακόμα και αν χάσετε το τηλέφωνό σας: κάντε συγχρονισμό με μια on-line υπηρεσία.</string>
@@ -554,8 +563,8 @@
     <string name="import_from_sim2">Εισαγωγή από κάρτα SIM 2</string>
     <string name="import_multiple_vcard_string">Εισαγωγή πολλαπλών αρχείων vCard</string>
     <string name="import_name">Όνομα</string>
-    <string name="import_one_vcard_string">Εισαγωγή 1 αρχείου vCard</string>
-    <string name="import_percent">0%</string>
+    <string name="import_one_vcard_string">Εισαγωγή %d αρχείου vCard</string>
+    <string name="import_percent">%1$d%2$s</string>
     <string name="import_selected_sim_entries_miui">Εισαγωγή επιλεγμένων επαφών</string>
     <string name="import_sim_contacts_hint_title">Εισαγωγή επαφών κάρτας SIM</string>
     <string name="import_sim_entries_finish">Επαφές εισήχθησαν από κάρτα SIM</string>
@@ -683,6 +692,7 @@
     <string name="miprofile_contact_header">Επαφές με καρτέλες επαφών</string>
     <string name="miprofile_contact_meaasge">Τοπικές επαφές</string>
     <string name="miprofile_contact_verifying">Γίνεται επικύρωση</string>
+    <string name="miprofile_delete_alertdialog_message">@string/miprofile_switch_off_alertdialog_message</string>
     <string name="miprofile_edit_title">Επεξεργασία προφίλ</string>
     <string name="miprofile_error_accept_self">Δεν μπορείτε να ανταλλάξετε την δικιά σας καρτέλα επαφής</string>
     <string name="miprofile_error_no_miaccount">Συνδεθείτε στο Mi Λογαριασμό σας</string>
@@ -736,6 +746,7 @@
     <string name="multi_number_menu_group">Νέα ομάδα</string>
     <string name="multi_number_menu_message">Μήνυμα</string>
     <string name="multi_number_title">Κλήση συνδιάσκεψης</string>
+    <string name="multi_select">Επιλογή</string>
     <string name="multipleContactDeleteConfirmation">Η διαγραφή αυτής της επαφής, θα διαγράψει πληροφορίες από πολλαπλούς λογαριασμούς.</string>
     <string name="my_phone_not_provider_bluetooth">Όχι</string>
     <string name="my_phone_provider_bluetooth">Ναι</string>
@@ -756,7 +767,6 @@
     <string name="nickname_editor_title">Επεξεργασία ψευδωνύμου</string>
     <string name="nickname_picker_name_column">Όνομα επαφής</string>
     <string name="nickname_picker_nickname_column">Τίτλος</string>
-    <string name="nine">9</string>
     <string name="nine_letter">ΖΞΥΧ</string>
     <string name="noAccounts">Για τη δημιουργία ομάδας απαιτείται λογαριασμός.</string>
     <string name="noContactHelpTextAccountsInfo" />
@@ -775,6 +785,7 @@
     <string name="no_contacts_dialog_message">Επαφές μπορούν να αποθηκευτούν στην κάρτα SIM. Δοκιμάστε την εισαγωγή τους από την κάρτα SIM σας στην εσωτερική μνήμη της συσκευής σας και στη συνέχεια προσπαθήστε ξανά.</string>
     <string name="no_contacts_dialog_title">Αδυναμία εύρεσης επαφών</string>
     <string name="no_contacts_selected">Δεν επιλέχθηκαν επαφές.</string>
+    <string name="no_phone_no_shortcut">Αδυναμία δημιουργίας συντομεύσεων για επαφές χωρίς τηλεφωνικούς αριθμούς</string>
     <string name="no_sdcard_message">Δε βρέθηκε κάρτα SD.</string>
     <string name="no_setting_menu">Μη διαθέσιμες επιλογές μενού</string>
     <string name="non_phone_add_to_contacts">Προσθήκη σε υπάρχουσα επαφή</string>
@@ -785,7 +796,6 @@
     <string name="notification_action_voicemail_play">Αναπαραγωγή</string>
     <string name="notification_new_voicemail_ticker">Νέο μήνυμα τηλεφωνητή από %1$s</string>
     <string name="notification_voicemail_callers_list">%1$s, %2$s</string>
-    <string name="one">1</string>
     <string name="openDialKeyboard">Πληκτρολόγιο</string>
     <string name="open_contact">Προβολή επαφής</string>
     <string name="open_dial_pad_description">Άνοιγμα πληκτρολογίου</string>
@@ -800,7 +810,7 @@
     <string name="option_send_to_others">Προώθηση</string>
     <string name="option_view_contact">Προβολή</string>
     <string name="option_view_group">Προβολή</string>
-    <string name="organizationLabelsGroup">Οργάνωση</string>
+    <string name="organizationLabelsGroup">Θέση εργασίας</string>
     <string name="organization_company_and_title">%1$s, %2$s</string>
     <string name="other_contacts">Άλλες επαφές</string>
     <string name="other_phone">Άλλες συσκευές</string>
@@ -830,7 +840,10 @@
     <string name="path_wipe_data">Εφαρμογές συστήματος/Επαφές/Οργάνωση επαφών/Εκκαθάριση δεδομένων</string>
     <string name="payphone">Συνδρομητικό τηλέφωνο</string>
     <string name="people">Επαφές</string>
+    <string name="percent_sign">%1$s</string>
+    <string name="percentage">%1$s%2$s</string>
     <string name="phoneLabelsGroup">Τηλέφωνο</string>
+    <string name="phone_info_divider">" ｜ "</string>
     <string name="phone_number_too_long_toast">Ο αριθμός είναι πολύ μακρύς</string>
     <string name="phone_primary">Κύριο</string>
     <string name="photoPickerNotFoundText">Δεν υπάρχουν διαθέσιμες φωτογραφίες στην συσκευή.</string>
@@ -982,6 +995,10 @@
     <string name="ret_sign">"
 "</string>
     <string name="returnCall">Καλέστε πίσω</string>
+    <string name="return_call">Πατήστε για επιστροφή στην κλήση</string>
+    <string name="return_call_calling">Κλήση σε εξέλιξη</string>
+    <string name="return_call_dialing">Γίνεται κλήση</string>
+    <string name="return_call_incoming">Εισερχόμενη κλήση</string>
     <string name="ringLabelsGroup">Ήχος κλήσης</string>
     <string name="save_photo_progress">Γϊνεται αποθήκευση φωτογραφίας…</string>
     <string name="savingContact">Γίνεται αποθήκευση επαφής…</string>
@@ -1032,6 +1049,9 @@
     <string name="select_none">Δεν επιλέχθηκαν αντικείμενα</string>
     <string name="select_show_contacts">Λίστα επαφών</string>
     <string name="select_vcard_title">Επιλογή αρχείου vCard</string>
+    <string name="send_contact_shortcut_todesktop_duplicate">Αυτή η συντόμευση υπάρχει ήδη</string>
+    <string name="send_contact_shortcut_todesktop_failed">Αδυναμία τοποθέτησης της συντόμευσης στην Αρχική οθόνη</string>
+    <string name="send_contact_shortcut_todesktop_overflow">Αδυναμία τοποθέτησης περισσότερων συντομεύσεων στην Αρχική οθόνη</string>
     <string name="send_contact_shortcut_todesktop_success">Προστέθηκε στην Αρχική Οθόνη</string>
     <string name="send_to_voicemail_checkbox">Αποστολή κλήσεων απευθείας στον τηλεφωνητή</string>
     <string name="separatorJoinAggregateAll">Όλες οι επαφές</string>
@@ -1042,11 +1062,10 @@
     <string name="set_data_package">Καθορισμός πλάνου δεδομένων πρώτα</string>
     <string name="set_default">Ορισμός προεπιλογής</string>
     <string name="set_photo_failed_msg">Αδυναμία εκχώρησης φωτογραφίας</string>
-    <string name="seven">7</string>
     <string name="seven_letter">ΠΡΣΨ</string>
     <string name="share_contact_as">Κοινοποίηση επαφών ως</string>
     <string name="share_error">Αδυναμία κοινοποίησης της επαφής</string>
-    <string name="share_over_limit">Αδυναμία κοινής χρήσης παραπάνω από 1000 επαφές</string>
+    <string name="share_over_limit">Αδυναμία κοινής χρήσης με πάνω από %d επαφές</string>
     <string name="share_qrcode">Κοινοποίηση κωδικού QR</string>
     <string name="share_via">Αποστολή με</string>
     <string name="share_visible_contacts">Κοινοποίηση επαφών</string>
@@ -1063,7 +1082,7 @@
     <string name="simContacts_title">Επαφές κάρτας SIM</string>
     <string name="sim_account_name">SIM</string>
     <string name="sim_capacity">Προβολή χωρητικότητας κάρτας SIM</string>
-    <string name="sim_capacity_content" formatted="false">%d σύνολο | %d σε χρήση</string>
+    <string name="sim_capacity_content">%1$d σύνολο | %2$d σε χρήση</string>
     <string name="sim_card_no_free_space_message">Δεν υπάρχει αρκετός χώρος</string>
     <string name="sim_card_no_free_space_title">Η κάρτα SIM είναι γεμάτη</string>
     <string name="sim_contact_existing">Η επαφή υπάρχει ήδη</string>
@@ -1086,14 +1105,14 @@
     <string name="sim_unloaded">Η κάρτα SIM δεν εγκαταστάθηκε</string>
     <string name="sina_weibo">Sina Weibo</string>
     <string name="single_group_list_empty">Δεν υπάρχουν μέλη ομάδας</string>
-    <string name="six">6</string>
     <string name="six_letter">ΜΝΟ</string>
+    <string name="smart_group_action_bar_title">%1$s: %2$s (%3$s)</string>
     <string name="smart_group_company_label">Εταιρίες</string>
     <string name="smart_group_company_unavailable">Δεν υπάρχουν πληροφορίες εταιρίας</string>
     <string name="smart_group_frequency_1">Εντός του περασμένου μήνα</string>
-    <string name="smart_group_frequency_2">1 έως 3 μήνες</string>
-    <string name="smart_group_frequency_3">3 έως 6 μήνες</string>
-    <string name="smart_group_frequency_4">Πριν από 6 μήνες</string>
+    <string name="smart_group_frequency_2">%1$d έως %2$d μήνες</string>
+    <string name="smart_group_frequency_3">%1$d έως %2$d μήνες</string>
+    <string name="smart_group_frequency_4">Πριν πάνω από %d μήνες</string>
     <string name="smart_group_frequency_label">Πρόσφατα</string>
     <string name="smart_group_label">Έξυπνες ομάδες</string>
     <string name="smart_group_loading">Περιμένετε μια στιγμή…</string>
@@ -1133,6 +1152,7 @@
     <string name="starred_contacts">Αγαπημένα</string>
     <string name="status_available">Διαθέσιμη</string>
     <string name="status_away">Μη διαθέσιμη</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
     <string name="status_busy">Απασχολημένη</string>
     <string name="strequentList">Αγαπημένες</string>
     <string name="success_message_import_from_account">Επαφή εισήχθη</string>
@@ -1143,12 +1163,11 @@
     <string name="t9_search_empty_send_sms">Αποστολή μηνύματος</string>
     <string name="t9_search_empty_video_call">Βιντεοκλήση</string>
     <string name="t9_search_guide_pinyin_title1">Εισάγετε αριθμό για την αναζήτηση επαφών</string>
-    <string name="t9_search_guide_pinyin_title2">Εισαγάγετε \"9\" και \"4\" για αναζήτηση του \"<font fgcolor="">X</font>avier <font fgcolor="">H</font>enry\"</string>
+    <string name="t9_search_guide_pinyin_title2" formatted="false">Εισαγάγετε \"%d\" και \"%d\" για αναζήτηση \"<font fgcolor="">Ξ</font>ενία <font fgcolor="">Γ</font>εώργιος\"</string>
     <string name="t9_search_guide_zhuyin_title1">Εισάγετε αριθμό για την αναζήτηση επαφών</string>
-    <string name="t9_search_guide_zhuyin_title2">Εισαγάγετε \"5\" και \"6\" για αναζήτηση του \"<font fgcolor="">J</font>eff <font fgcolor="">M</font>ax\"</string>
+    <string name="t9_search_guide_zhuyin_title2" formatted="false">Εισαγάγετε \"%d\" και \"%d\" για αναζήτηση \"<font fgcolor="">Κ</font>ώστας <font fgcolor="">Ν</font>ίκος\"</string>
     <string name="take_new_photo">Λήψη νέας φωτογραφίας</string>
     <string name="take_photo">Λήψη φωτογραφίας</string>
-    <string name="three">3</string>
     <string name="three_letter">ΔΕΦ</string>
     <string name="titleJoinContactDataWith">Συγχώνευση επαφών</string>
     <string name="title_other_devices">Άλλες διαθέσιμες συσκευές</string>
@@ -1169,7 +1188,6 @@
     <string name="toast_text_copied">Έγινε αντιγραφή κειμένου</string>
     <string name="today">Σήμερα</string>
     <string name="transfer_accounts">Μεταφορά λογαριασμών</string>
-    <string name="two">2</string>
     <string name="two_letter">ΑΒ</string>
     <string name="type_incoming">Εισερχόμενη κλήση</string>
     <string name="type_missed">Αναπάντηση κλήση</string>
@@ -1228,6 +1246,7 @@
     <string name="voip_audio_description">Κλήση VoIP</string>
     <string name="voip_video_description">Βιντεοκλήση VoIP</string>
     <string name="websiteLabelsGroup">Ιστοσελίδα</string>
+    <string name="widget_name_and_phonetic">%1$s (%2$s)</string>
     <string name="wipe_data">Εκκαθάριση δεδομένων</string>
     <string name="yellowPageNavigationIconLabel">Κίτρινες σελίδες</string>
     <string name="yellowPageNavigationLabel">Κίτρινες σελίδες</string>
@@ -1255,7 +1274,6 @@
     <string name="yellowpage_provider_label">Τα δεδομένα παρέχονται από</string>
     <string name="yellowpage_search_the_yellowpage">Αναζήτηση στις Κίτρινες σελίδες</string>
     <string name="yellowpage_user_profile">Προφίλ</string>
-    <string name="zero">0</string>
     <string name="zero_items_selected">Επιλογή αντικειμένων</string>
     <string name="zero_letter">+</string>
 </resources>

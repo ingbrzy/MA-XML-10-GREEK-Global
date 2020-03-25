@@ -28,6 +28,8 @@
     <string name="abc_shareactionprovider_share_with_application">Κοινή χρήση με %s</string>
     <string name="abc_toolbar_collapse_description">Σύμπτυξη</string>
     <string name="search_menu_title">Αναζήτηση</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
+    <string name="above_image">Επάνω</string>
     <string name="accessibility_battery_level">Μπαταρία %d τοις εκατό.</string>
     <string name="accessibility_battery_level_charging">Φόρτιση μπαταρίας, %d τοις εκατό.</string>
     <string name="align_type">Ευθυγραμμίστε</string>
@@ -42,19 +44,22 @@
     <string name="aod_mode_summary">Εμφάνιση ρολογιού, ημερομηνίας, ειδοποιήσεων και εικόνων παρασκηνίου όταν η οθόνη είναι ανενεργή</string>
     <string name="aod_mode_time_summary">Προγραμματισμός ώρας ενεργοποίησης και απενεργοποίησης της λειτουργίας Πάντα Ενεργό</string>
     <string name="aod_mode_time_title">Πρόγραμμα</string>
-    <string name="aod_mode_title">Λειτουργία Πάντα ενεργό</string>
+    <string name="aod_mode_title">Always-on display</string>
+    <string name="aod_show_date_and_time">Προβολή ημερομηνίας και ώρας</string>
     <string name="aod_show_style_title">Εμφάνιση αντικειμένων</string>
     <string name="aod_style">Θέμα</string>
     <string name="aod_to_close">Απενεργοποίηση</string>
     <string name="apply">Εφαρμογή</string>
     <string name="apply_succeed">Επιτυχής εφαρμογή</string>
     <string name="background_icon">Παρασκήνιο</string>
+    <string name="below_image">Κάτω</string>
     <string name="cancel">Ακύρωση</string>
     <string name="choose_aod_style">Επιλέξτε θέμα</string>
     <string name="chosen_picture">Επιλογή φόντου</string>
     <string name="clock_panel_icon">Κατράν ρολογιού</string>
     <string name="color_change_with_time_description">Αυτόματη αλλαγή χρώματος κειμένου ανά διαστήματα</string>
     <string name="color_change_with_time_title">Αυτόματη αλλαγή χρώματος</string>
+    <string name="custom_image">Προσαρμοσμένη εικόνα</string>
     <string name="deep_space_planet">Απώτερο διάστημα</string>
     <string name="deep_space_planet_des">Αυτό το θέμα αντικατοπτρίζει τις αλλαγές του φωτός που συμβαίνουν γύρω σας κατά τη διάρκεια της ημέρας. Οι ανατολές και ηλιοβασιλέματα συγχρονίζονται επίσης με την τοποθεσία σας.</string>
     <string name="digital_clock">Ψηφιακό</string>
@@ -84,18 +89,20 @@
     <string name="show_battery_status">Προβολή κατάστασης μπαταρίας</string>
     <string name="show_notification">Εμφάνιση ειδοποιήσεων</string>
     <string name="show_notificaton">Εμφάνιση ειδοποιήσεων</string>
+    <string name="shownone_arround_image">Τίποτα</string>
     <string name="signature">Υπογραφή</string>
     <string name="signature_default_content">"Πάντα να πιστεύετε πως κάτι
 συναρπαστικό θα συμβεί"</string>
     <string name="standard_clock_panel">Κανονικό</string>
     <string name="standard_style">Κανονικό</string>
-    <string name="summary">"Για μείωση της κατανάλωσης ενέργειας, αντικείμενα δεν θα εμφανίζονται στις παρακάτω περιπτώσεις:
-1. Όταν η συσκευή βρίσκεται στο σκοτάδι για μια μεγάλο διάστημα.
-2. Όταν είναι ενεργοποιημένη η λειτουργία DND."</string>
+    <string name="summary">Για να μειώσετε την κατανάλωση ενέργειας, τα στοιχεία δεν θα εμφανίζονται όταν η συσκευή σας βρίσκεται σε σκοτεινό περιβάλλον για πολλή ώρα.</string>
     <string name="temporary_style">Για 10 δευτερόλεπτα μετά το πάτημα</string>
     <string name="text_color">Χρώμα κειμένου</string>
     <string name="text_length_exceed_limit_alert">*Το κείμενο που εισαγάγατε είναι πολύ μακρύ</string>
     <string name="text_size">Μέγεθος κειμένου</string>
+    <string name="time_location">Θέση ρολογιού</string>
     <string name="time_style">Στυλ</string>
     <string name="time_style_layout">Διάταξη</string>
+    <string name="disable_aod_in_power_save_mode">Απενεργοποίηση όταν η Εξοικονόμηση μπαταρίας είναι ενεργή</string>
+    <string name="disable_aod_in_power_save_mode_summary">Να μην εμφανίζονται στοιχεία για εξοικονόμηση μπαταρίας</string>
 </resources>

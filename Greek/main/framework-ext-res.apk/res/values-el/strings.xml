@@ -83,6 +83,7 @@
     <string name="handy_mode_summary">Για κλείσιμο, πατήστε την μαυρισμένη περιοχή</string>
     <string name="handy_mode_title">Λειτουργία ενός χεριού</string>
     <string name="ignore_home_when_fingerprint_enrolling_msg">Τοποθετήστε το δάχτυλό σας στο κουμπί Αρχικής</string>
+    <string name="input_method_clipboard_tips">Τα αντιγραμμένα αντικείμενα θα διαγραφούν από του πρόχειρο μετά από 48 ώρες</string>
     <string name="input_method_edit_phrase_text">Επεξεργασία συχνών φράσεων</string>
     <string name="input_method_no_content_text">Δεν υπάρχουν στοιχεία εδώ ακόμη</string>
     <string name="input_method_switch_settings_text">Ρυθμίσεις πληκτρολογίου</string>

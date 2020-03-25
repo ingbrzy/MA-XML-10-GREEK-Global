@@ -35,6 +35,7 @@
     <string name="content_description_start">Έναρξη</string>
     <string name="content_introduction">Το Κέντρο περιεχομένου συγκεντρώνει περιεχόμενο και υπηρεσίες από πολλαπλά κανάλια. Εδώ μπορείτε να διαβάζετε άρθρα, να βλέπετε βίντεο, να προβάλλετε αναδεικνυόμενα αντικείμενα και να λαμβάνετε προτεινόμενο περιεχόμενο.</string>
     <string name="continue_to_enable_accessibility">Πατήστε παρατεταμένα με δυο δάκτυλα για να ενεργοποιήστε την πρόσβαση.</string>
+    <string name="data_traffic_enable_dialog_title">Εάν δεν είστε συνδεδεμένη με Wi-Fi τώρα, η συσκευή σας θα χρησιμοποιεί δεδομένα κινητής. Η χρήση δεδομένων κινητής ενδέχεται να επιφέρει επιπλέον χρεώσεις.</string>
     <string name="desc_extra_fingerprint" />
     <string name="desc_extra_international_fingerprint" />
     <string name="desc_fingerprint">Χρήση του δακτυλικού αποτυπώματός σας για ξεκλείδωμα της συσκευής σας, για επαλήθευση αγορών με Mi Πληρωμή, ή για σύνδεση σε εφαρμογές και υπηρεσίες.</string>
@@ -59,7 +60,7 @@
     <string name="font_hint_large">Προεπιλεγμένο μέγεθος κειμένου</string>
     <string name="font_hint_normal">Αύξηση μεγέθους κειμένου</string>
     <string name="framework_introduction">Το Πλαίσιο Υπηρεσιών Mi σας επιτρέπει να χρησιμοποιείτε τον Mi λογαριασμό, Mi Push και MIUI BI.</string>
-    <string name="framwork_base_service">Για να σας παρέχουμε αυτές τις υπηρεσίες, το Πλαίσιο Υπηρεσιών Mi (Mi Λογαριασμός, Mi Push, Mi Stats, MIUI BI) χρειάζεται να συνδεθεί στο Ίντερνετ, πρόσβαση στον τηλεφωνικό σας αριθμό, IMEI και IMSI και να επιτρέψει στη συσκευή σας να λαμβάνει ειδοποιήσεις push</string>
+    <string name="framwork_base_service">Για να σας παρέχουμε αυτές τις υπηρεσίες, το Πλαίσιο Υπηρεσιών Mi (Mi Λογαριασμός, Mi Push, Mi Stats, MIUI BI) χρειάζεται σύνδεση στο Ίντερνετ, πρόσβαση στην τοποθεσία σας, τον τηλεφωνικό σας αριθμό, τους αριθμούς IMEI και IMSI και να επιτρέψετε η συσκευή σας να λαμβάνει ειδοποιήσεις push</string>
     <string name="game_introduction">Το plug-in παιχνιδιών σας επιτρέπει να συνδέεστε, να δημιουργείτε παραγγελίες, να ολοκληρώνετε πληρωμές, να χρησιμοποιείτε κουπόνια και να συμμετέχετε σε προωθητικές ενέργειες.</string>
     <string name="google_service_introduction">Για να μπορεί να λειτουργεί κανονικά, η Google Play πρέπει να συνδεθεί στο Ίντερνετ, να αποκτήσει πρόσβαση στην τοποθεσία σας, να μπορεί να ηχογραφεί ήχο, να πραγματοποιεί κλήσεις, να έχει πρόσβαση στα συμβάντα ημερολογίου, ιστορικό κλήσεων, αισθητήρες, κάμερα, πληροφορίες συσκευής και λογαριασμούς.</string>
     <string name="ime_privacy_policy">Πολιτική Απορρήτου για επιλεγμένο πληκτρολόγιο</string>
@@ -146,6 +147,8 @@
     <string name="permission_virusscan_introduction">Για εκτέλεση σάρωσης για ιούς και βελτιστοποίηση της συσκευής σας</string>
     <string name="permission_xunlei_introduction">Για σύνδεση και διαχείριση λογαριασμών συστήματος με σκοπό την παροχή υπηρεσιών Xunlei</string>
     <string name="poco_agree_terms_other">(Περιλαμβανομένης και της Πολιτικής Απορρήτου και της Συμφωνίας Χρήστη του Προγράμματος Εκκίνησης POCO)</string>
+    <string name="poco_launcher_privacy_policy">Πολιτική Απορρήτου Εκκινητή POCO</string>
+    <string name="poco_launcher_user_agreement">Συμφωνία Χρήστη Εκκινητή POCO</string>
     <string name="pref_title_data_slot">Προτιμώμενη κάρτα SIM δεδομένων</string>
     <string name="pref_title_voice_slot">Προτιμώμενη φωνητική κάρτα SIM</string>
     <string name="privacy_policy">Πολιτική Απορρήτου</string>
@@ -213,11 +216,11 @@
     <string name="terms_of_use_label_systemhelper">, Υπηρεσία αυτοεξυπηρέτησης</string>
     <string name="terms_of_use_label_updater">, Ενημερώσεις</string>
     <string name="terms_of_use_lable_apps">Υπηρεσίες Mi, υπηρεσίες ενεργοποίησης κάρτας SIM Mi, Xiaomi Cloud, Εύρεση συσκευής, Αρχική Οθόνη, Παιχνίδια, MIUI Daemon, στοιχεία λειτουργικού συστήματος MSA, υπηρεσίες μετάφρασης, Άμεσες εφαρμογές, Αποθήκη εφαρμογών, στατιστικά στοιχεία, Mi Link</string>
-    <string name="terms_of_use_lable_default_input_method_facemoji">"r
-r
+    <string name="terms_of_use_lable_default_input_method_facemoji">"
+
 Πρέπει να αποδεχτείτε την Πολιτική Απορρήτου του Facemoji πριν χρησιμοποιήσετε αυτή τη λειτουργία."</string>
-    <string name="terms_of_use_lable_default_input_method_kika">"r
-r
+    <string name="terms_of_use_lable_default_input_method_kika">"
+
 Πρέπει να αποδεχτείτε την Πολιτική Απορρήτου του Kika πριν χρησιμοποιήσετε αυτή τη λειτουργία."</string>
     <string name="terms_of_use_lable_gms">, Υπηρεσίες Google Play</string>
     <string name="terms_of_use_lable_smart_cards">, Έξυπνες κάρτες</string>
@@ -226,7 +229,7 @@ r
     <string name="terms_privacy_policy_input_method_kika">Πολιτική Απορρήτου Kika</string>
     <string name="title_fingerprint">Ορισμός κωδικού</string>
     <string name="user_agreement">Όροι Χρήσης</string>
-    <string name="user_agreement_declare">Πριν χρησιμοποιήσετε το MIUI, πρέπει να διαβάσετε και να συμφωνήσετε με τη Συμφωνία Χρήστη και την Πολιτική Απορρήτου. Όσο ενεργοποιείται η συσκευή σας, η Υπηρεσία Ενεργοποίησης Mi SIM, Αρχική Οθόνη, Συχνές φράσεις, Υπηρεσία μετάφρασης, MIUI Daemon και Ενημερώσεις θα συνδεθούν στο δίκτυο. Ο MSA θα συνδεθεί στο δίκτυο και θα πραγματοποιήσει πρόσβαση στην τοποθεσία σας.</string>
+    <string name="user_agreement_declare">Πριν χρησιμοποιήσετε το MIUI, πρέπει να διαβάσετε και να συμφωνήσετε με τη Συμφωνία Χρήστη και την Πολιτική Απορρήτου. Όσο ενεργοποιείται η συσκευή σας, η Υπηρεσία Ενεργοποίησης Mi SIM, Xiaomi Cloud, Εύρεση συσκευής, Αρχική Οθόνη, Συχνές φράσεις, Υπηρεσία μετάφρασης, MIUI Daemon, Πρόγραμμα προβολής HTML, Βοηθός AI, Μπαταρία και Απόδοση, Ανιχνευτής Ισχύος, Joyose, Ρύθμιση του OS AI και Ενημερώσεις θα συνδεθούν στο δίκτυο. Οι Έξυπνες υπηρεσίες θα συνδεθούν στο δίκτυο και θα πραγματοποιήσουν πρόσβαση στην τοποθεσία σας.</string>
     <string name="voice_assist_advice">Το Mi AI σάς επιτρέπει να χρησιμοποιείτε έλεγχο φωνής, αλλά καταναλώνει περισσότερη ισχύ (+1% κάθε ώρα).</string>
     <string name="voice_assist_condition">"Θα είστε σε θέση να χρησιμοποιήσετε το Mi AI στις εξής περιπτώσεις: r
 1. Όταν η οθόνη είναι ενεργοποιημένη. r

@@ -88,29 +88,17 @@
         <item quantity="other">(%1$d)</item>
         <item quantity="one">(%1$d)</item>
     </plurals>
-    <plurals name="listFoundAllContacts">
-        <item quantity="other">%d βρέθηκαν</item>
-        <item quantity="one">1 βρέθηκε</item>
-    </plurals>
     <plurals name="listTotalAllContacts">
         <item quantity="other">%d επαφές</item>
-        <item quantity="one">1 επαφή</item>
-    </plurals>
-    <plurals name="listTotalPhoneContacts">
-        <item quantity="other">%d επαφές με αριθμούς</item>
-        <item quantity="one">1 επαφή με αριθμό</item>
+        <item quantity="one">%d επαφή</item>
     </plurals>
     <plurals name="merge_contact_message_plurals">
         <item quantity="other">%1$d επαφές με μερικώς πανομοιότυπες πληροφορίες</item>
         <item quantity="one">%1$d επαφές με μερικώς πανομοιότυπες πληροφορίες</item>
     </plurals>
     <plurals name="merge_info">
-        <item quantity="other">συγχωνεύθηκν από %1$d πηγές</item>
+        <item quantity="other">συγχωνεύθηκν από %0$d πηγές</item>
         <item quantity="one">δεν συγχωνεύθηκε</item>
-    </plurals>
-    <plurals name="notification_voicemail_title">
-        <item quantity="other">%1$d μηνύματα τηλεφωνητή</item>
-        <item quantity="one">Mήνυμα τηλεφωνητή</item>
     </plurals>
     <plurals name="numSelectedSimContacts">
         <item quantity="other">%1$d επιλέχθηκαν</item>
@@ -121,8 +109,8 @@
         <item quantity="one">%1$d άτομο από %2$s</item>
     </plurals>
     <plurals name="num_groups_in_account">
-        <item quantity="other">%1$d ομάδες</item>
-        <item quantity="one">1 ομάδα</item>
+        <item quantity="other">%d ομάδες</item>
+        <item quantity="one">%d ομάδα</item>
     </plurals>
     <plurals name="number_of_items_available">
         <item quantity="other">%1$d αντικείμενα απομένουν</item>
@@ -149,8 +137,8 @@
         <item quantity="one">%1$d πρόσφατη επαφή</item>
     </plurals>
     <plurals name="searchFoundContacts">
-        <item quantity="other">%d βρέθηκαν</item>
-        <item quantity="one">1 βρέθηκε</item>
+        <item quantity="other">Βρέθηκαν %d</item>
+        <item quantity="one">Βρέθηκε %d</item>
     </plurals>
     <plurals name="select_all_exceed_plurals">
         <item quantity="other">Επιλέξτε λιγότερο από %1$d, αδυναμία επιλογής όλων</item>

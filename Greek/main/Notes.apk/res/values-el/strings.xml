@@ -1,5 +1,32 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <string name="abc_action_bar_home_description">Πλοήγηση στην αρχική σελίδα</string>
+    <string name="abc_action_bar_up_description">Πλοήγηση προς τα επάνω</string>
+    <string name="abc_action_menu_overflow_description">Περισσότερες επιλογές</string>
+    <string name="abc_action_mode_done">Τέλος</string>
+    <string name="abc_activity_chooser_view_see_all">Εμφάνιση όλων</string>
+    <string name="abc_activitychooserview_choose_application">Επιλέξτε μια εφαρμογή</string>
+    <string name="abc_capital_off">ΑΠΕΝΕΡΓΟΠΟΙΗΣΗ</string>
+    <string name="abc_capital_on">ΕΝΕΡΓΟΠΟΙΗΣΗ</string>
+    <string name="abc_menu_alt_shortcut_label">Alt+</string>
+    <string name="abc_menu_ctrl_shortcut_label">Ctrl+</string>
+    <string name="abc_menu_delete_shortcut_label">delete</string>
+    <string name="abc_menu_enter_shortcut_label">enter</string>
+    <string name="abc_menu_function_shortcut_label">Function+</string>
+    <string name="abc_menu_meta_shortcut_label">Meta+</string>
+    <string name="abc_menu_shift_shortcut_label">Shift+</string>
+    <string name="abc_menu_space_shortcut_label">διάστημα</string>
+    <string name="abc_menu_sym_shortcut_label">Sym+</string>
+    <string name="abc_prepend_shortcut_label">Menu+</string>
+    <string name="abc_search_hint">Αναζήτηση…</string>
+    <string name="abc_searchview_description_clear">Διαγραφή ερωτήματος</string>
+    <string name="abc_searchview_description_query">Ερώτημα αναζήτησης</string>
+    <string name="abc_searchview_description_search">Αναζήτηση</string>
+    <string name="abc_searchview_description_submit">Υποβολή ερωτήματος</string>
+    <string name="abc_searchview_description_voice">Φωνητική αναζήτηση</string>
+    <string name="abc_shareactionprovider_share_with">Κοινοποίηση σε</string>
+    <string name="abc_shareactionprovider_share_with_application">Κοινοποίηση στην εφαρμογή %s</string>
+    <string name="abc_toolbar_collapse_description">Σύμπτυξη</string>
     <string name="action_folder_description">Προβολή φακέλων</string>
     <string name="action_mode_switcher_grid_description">Προβολή πλέγματος</string>
     <string name="action_mode_switcher_list_description">Προβολή λίστας</string>
@@ -36,11 +63,14 @@
     <string name="cloud_trash_bin_title">Διαγραμμένες σημειώσεις στο cloud</string>
     <string name="confirm_cancel">Δεν αποδέχομαι</string>
     <string name="confirm_ok">Αποδοχή</string>
+    <string name="copy">Αντιγραφή</string>
     <string name="cta_confirm_cancel">Απόρριψη</string>
     <string name="cta_confirm_ok">Αποδοχή</string>
     <string name="cta_dialog_message">Οι σημειώσεις χρειάζονται άδειες για σύνδεση στο διαδίκτυο, εγγραφή ήχου, και πρόσβαση στις επαφές σας για να λειτουργήσουν κανονικά. Αποδοχή;</string>
     <string name="cta_dialog_title">Απαιτούνται άδειες</string>
     <string name="cta_reminder">Οι σημειώσεις χρειάζονται άδειες για σύνδεση στο διαδίκτυο, εγγραφή ήχου, και πρόσβαση στις επαφές σας για να λειτουργήσουν κανονικά. Αποδοχή;</string>
+    <string name="data_empty_note">Ακόμη δεν υπάρχουν σημειώσεις εδώ</string>
+    <string name="data_empty_todo">Ακόμη δεν υπάρχουν εργασίες εδώ</string>
     <string name="date_calculate_today">0 ημέρες</string>
     <string name="date_picker_label_day" />
     <string name="date_picker_label_month" />
@@ -90,6 +120,7 @@
     <string name="error_unsupport_content">Η σημείωση περιέχει μη υποστηριζόμενο περιεχόμενο, πατήστε εδώ για ενημέρωση</string>
     <string name="error_widget_exist_for_send_to_desktop">Η σημείωση είναι ήδη στην αρχική οθόνη</string>
     <string name="exceed_todo_text_limitation">Η περιγραφή της εργασίας παραείναι μεγάλη.</string>
+    <string name="expand_button_title">Σύνθετες</string>
     <string name="first_enter_custom_folder_hint">Μπορείτε να μετονομάσετε ή να διαγράψετε αρχεία εδώ</string>
     <string name="fmt_chinese_date">N e</string>
     <string name="fmt_time_12hour_minute">h:mm</string>
@@ -137,6 +168,7 @@
     <string name="new_audio_create_guide_tip">Πιέστε και κρατήστε για να δημιουργήσετε φωνητικό σημείωμα</string>
     <string name="new_audio_create_talkback_des">Πατήστε για να δημιουργήσετε γραπτό σημείωμα. Πιέστε και κρατήστε για να δημιουργήσετε φωνητικό σημείωμα. Απελευθερώστε το κουμπί για να διακόψετε την εγγραφή και να δημιουργήσετε το σημείωμα, ή σύρετε πάνω για ακύρωση.</string>
     <string name="not_now">Όχι τώρα</string>
+    <string name="not_set">Δεν έχει οριστεί</string>
     <string name="note_description_content">Η εφαρμογή Σημειώσεις είναι ένα σπουδαίο εργαλείο για να καταγράφετε τις ιδέες σας. Έχει ενσωματωμένες υπενθυμίσεις και συγχρονίζει τα αντικείμενά σας στο cloud ώστε να έχετε πρόσβαση σε αυτά από οπουδήποτε, οποτεδήποτε. Βεβαιωθείτε πως δεν χρειάζεστε πλέον αυτές τις λειτουργίες πριν διαγράψετε την εφαρμογή.</string>
     <string name="note_description_title">Σχετικά με Σημειώσεις</string>
     <string name="note_link_email">Σύνθεση email</string>
@@ -147,6 +179,8 @@
     <string name="note_sort_way">Επιλέξτε πως θέλετε να ταξινομήσετε τις σημειώσεις σας</string>
     <string name="notealert_enter">Άνοιγμα σημείωσης</string>
     <string name="notealert_ok">Απόρριψη</string>
+    <string name="notelist_string_info">…</string>
+    <string name="notification_content_add_todo_from_other_app">Προσθέσατε νέα εργασία. Πατήστε για προβολή.</string>
     <string name="notify_alarm_title">Υπενθύμιση σημείωσης</string>
     <string name="permdesc_accessNote">Κακόβουλες εφαρμογές μπορεί να έχουν πρόσβαση στα προσωπικά σας δεδομένα.</string>
     <string name="permission_get_account_desc">Συγχρονισμός σημειώσεων με το cloud</string>
@@ -171,6 +205,7 @@
     <string name="pref_title_skip_confirm_for_quick_delete">Διαγραφή με χειρονομία</string>
     <string name="pref_title_todo_float_mode">Χρήση εργαλειοθήκης εργασιών</string>
     <string name="pref_title_todo_shorcut">Εργαλειοθήκη</string>
+    <string name="preference_copied">Το \"%1$s\" αντιγράφηκε στο πρόχειρο.</string>
     <string name="privacy_note_content_empty">Δεν υπάρχουν αντικείμενα εδώ ακόμα.</string>
     <string name="recover_notes_hint">Παρουσιάστηκε σφάλμα, μεταβείτε στο i.mi.com για να επαναφέρετε τις σημειώσεις.</string>
     <string name="redo">Επανάληψη</string>
@@ -211,6 +246,7 @@
     <string name="search_hint">Αναζήτηση σημειώσεων</string>
     <string name="search_keyword_notes">Σημειώσεις</string>
     <string name="search_label">Γίνεται αναζήτηση…</string>
+    <string name="search_menu_title">Αναζήτηση</string>
     <string name="search_path_notes">Εφαρμογές συστήματος/Σημειώσεις</string>
     <string name="search_setting_description">Αναζήτηση κειμένου στις σημειώσεις σας</string>
     <string name="select_account_prompt">Συγχρονισμός σημειώσεων</string>
@@ -235,6 +271,8 @@
     <string name="sns_title_send">Αποστολή μηνύματος</string>
     <string name="sns_toast_empty">Αδυναμία αποστολής κενού μηνύματος</string>
     <string name="sns_toast_over_limit">Στάλθηκε ως εικόνα</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
+    <string name="summary_collapsed_preference_list">%1$s, %2$s</string>
     <string name="sync_tips">Αγγίξτε για συγχρονισμό σημειώσεων με το cloud.</string>
     <string name="theme_blue_description">Μπλε</string>
     <string name="theme_green_description">Πράσινο</string>
@@ -345,6 +383,8 @@
     <string name="unclassfied_folder_name">Αταξινόμητος</string>
     <string name="undo">Αναίρεση</string>
     <string name="unknown_source">Άγνωστη πηγή</string>
+    <string name="v7_preference_off">ΑΝΕΝΕΡΓΗ</string>
+    <string name="v7_preference_on">ΕΝΕΡΓΗ</string>
     <string name="widget_content_loading">Περιμένετε μια στιγμή…</string>
     <string name="widget_havenot_content">Πατήστε για δημιουργία σημείωσης. Πατήστε παρατεταμένα το widget για διόρθωση μεγέθους.</string>
 </resources>

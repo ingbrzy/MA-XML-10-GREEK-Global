@@ -103,6 +103,7 @@
     <string name="digit8">8</string>
     <string name="digit9">9</string>
     <string name="divDesc">διαίρεση</string>
+    <string name="dob_selection_error">Η ημερομηνία γέννησης πρέπει να είναι προγενέστερη της σημερινής ημερομηνίας</string>
     <string name="dotDesc">κόμμα</string>
     <string name="e">e</string>
     <string name="eDesc">αριθμός Euler</string>
@@ -139,6 +140,7 @@
     <string name="hint_annual_rate">Εισάγετε ετήσιο επιτόκιο</string>
     <string name="hint_enter_amount">Εισαγάγετε ποσό</string>
     <string name="hint_floatwindow_alpha_guide_text">Αγγίξτε για διόρθωση αδιαφάνειας</string>
+    <string name="history_delete_confirmation">Εκκαθάριση ιστορικού τώρα;</string>
     <string name="home_loan">Στεγαστικό ενδιαφέρον</string>
     <string name="home_title_calculator">Aριθμομηχανή</string>
     <string name="house_rent">Ενοικίαση</string>
@@ -170,14 +172,19 @@
     <string name="item_title_vel_conversion">Ταχύτητα</string>
     <string name="item_title_volume_conversion">Όγκος</string>
     <string name="item_title_weight_conversion">Μάζα</string>
+    <string name="label_about">Σχετικά με</string>
+    <string name="label_clear_history">Εκκαθάριση όλων</string>
     <string name="label_date_difference">Διαφορά</string>
     <string name="label_days">Ημέρες</string>
+    <string name="label_delete">Εκκαθάριση</string>
     <string name="label_emi">EMI</string>
     <string name="label_first_repayment">Πρώτη πληρωμή</string>
     <string name="label_from_date">Από</string>
+    <string name="label_history">Ιστορικό</string>
     <string name="label_interest">Τόκος</string>
     <string name="label_loan_tenure">Διάρκεια δανείου</string>
     <string name="label_months">Μήνες</string>
+    <string name="label_no_history">Δεν υπάρχουν στοιχεία εδώ ακόμη</string>
     <string name="label_principal">Κεφάλαιο</string>
     <string name="label_share">Κοινοποίηση</string>
     <string name="label_start_date">Ημερομηνία έναρξης</string>
@@ -427,6 +434,7 @@
     <string name="unit_data_display_currency_bnd">Δολάριο Μπρουνέι</string>
     <string name="unit_data_display_currency_brl">Ρεάλ Βραζιλίας</string>
     <string name="unit_data_display_currency_byn">Ρούβλι Λευκορωσίας</string>
+    <string name="unit_data_display_currency_byr">@string/unit_data_display_currency_byn</string>
     <string name="unit_data_display_currency_cad">Καναδικό Δολάριο</string>
     <string name="unit_data_display_currency_chf">Ελβετικό Φράγκο</string>
     <string name="unit_data_display_currency_clp">Πέσο Χιλής</string>
@@ -717,8 +725,11 @@
     <string name="word_figure_unit_shi">拾</string>
     <string name="word_figure_yuan">元</string>
     <string name="word_figure_zheng">整</string>
+    <string name="xiaomi_bytes_unit">%1$sB</string>
     <string name="xiaomi_connect_download_manager_fail">Δεν ήταν δυνατή η σύνδεση με τις Λήψεις. Ελέγξτε αν αυτή η εφαρμογή διαθέτει όλα τα απαιτούμενα δικαιώματα στις Ρυθμίσεις > Εγκατεστημένες εφαρμογές.</string>
     <string name="xiaomi_external_storage_unavailable">Μη διαθέσιμος χώρος αποθήκευσης. Ελέγξτε την κάρτα SD σας.</string>
+    <string name="xiaomi_kilobytes_unit">%1$sKB</string>
+    <string name="xiaomi_megabytes_unit">%1$sMB</string>
     <string name="xiaomi_update_dialog_message">"Εισαγωγή έκδοσης %1$s
 Μέγεθος: %2$s"</string>
     <string name="xiaomi_update_dialog_message_diff">"Εισαγωγή έκδοσης %1$s

@@ -104,7 +104,7 @@
     <string name="music_headset_mode_settings">Aπομακρυσμένα κουμπιά ακουστικών</string>
     <string name="music_headset_mode_volume">Έλεγχος επιπέδου έντασης</string>
     <string name="music_headset_no_contected">Δεν εντοπίστηκαν ακουστικά</string>
-    <string name="music_headset_settings">Ακουστικά</string>
+    <string name="music_headset_settings">Εφέ ήχου</string>
     <string name="music_hifi_summary">Μείωση θορύβου και αλλοίωσης και αύξηση ποιότητας ήχου</string>
     <string name="music_hifi_title">Hi-Fi ήχος</string>
     <string name="music_mi_effect_summary">Χρήση Ενισχυτή Mi Ήχου κατά την χρήση ηχείων</string>
@@ -121,6 +121,7 @@
     <string name="music_sound_sample">Προεπιλογές συστήματος</string>
     <string name="music_sure_to_delete_sound_msg">Διαγραφή επιλεγμένων προεπιλογών τώρα;</string>
     <string name="music_thirty_to_sixty_years">Ηλικίας 30-60 έτων</string>
+    <string name="music_title_dolby_control">Dolby Digital Plus</string>
     <string name="music_unsupport_effect_summary">Δεν υποστηρίζονται ακουστικά USB</string>
     <string name="music_upper_sixty_years">Άνω των 60 ετών</string>
     <string name="name">Όνομα</string>
@@ -132,6 +133,7 @@
     <string name="second_note">Τοποθετήστε τα ακουστικά σας.</string>
     <string name="sound_test_title">Δοκιμή ακουστικής αντίληψης</string>
     <string name="start_test_sound">Έναρξη δοκιμής</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
     <string name="sure_give_up_test">"Εάν τερματίσετε τη δοκιμή τώρα, την επόμενη φορά θα πρέπει να ξεκινήσετε από την αρχή. Τερματισμός παρ' όλα αυτά;"</string>
     <string name="sure_to_back">Απόρριψη αλλαγών τώρα;</string>
     <string name="third_note">Βρείτε ένα ήσυχο σημείο.</string>

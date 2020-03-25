@@ -112,7 +112,7 @@
     <string name="artist_name">Καλλιτέχνης</string>
     <string name="audio_picker_title">Επιλογή τραγουδιού</string>
     <string name="auto_recommend">Αυτόματα (προτεινόμενο)</string>
-    <string name="auto_sound_quality">Auto</string>
+    <string name="auto_sound_quality">Αυτόματο</string>
     <string name="auto_update">Αυτόματη ενημέρωση</string>
     <string name="auto_update_tip">Μπορείτε να ενημερώσετε τις εφαρμογές συστήματος χρησιμοποιώντας δεδομένα κινητής τηλεφωνίας. Αυτό όμως μπορεί να υπόκειται σε επιπλέον χρεώσεις δεδομένων.</string>
     <string name="available_playlist_name_format">Νέα λίστα αναπαραγωγής %d</string>
@@ -270,7 +270,9 @@
     <string name="download_method">Λήψη</string>
     <string name="download_no_application_title">Αδυναμία ανοίγματος αρχείου</string>
     <string name="download_paused_in_power_save_mode">Παύση λήψεων όταν η Εξοικονόμηση μπαταρίας είναι ενεργή</string>
+    <string name="download_percent">%d%%</string>
     <string name="download_processing">Γίνεται λήψη…</string>
+    <string name="download_progress">%d%%</string>
     <string name="download_quality">Ποιότητα λήψης</string>
     <string name="download_quality_summary">Πρόσθετες ρυθμίσεις για τραγούδια που κατεβάζετε</string>
     <string name="download_queued">Σε ουρά</string>
@@ -351,7 +353,9 @@
     <string name="exo_download_notification_channel_name">Λήψεις</string>
     <string name="exo_download_removing">Κατάργηση λήψεων</string>
     <string name="exo_item_list">%1$s, %2$s</string>
+    <string name="exo_track_bitrate">%1$.2f Mbps</string>
     <string name="exo_track_mono">Μονοφωνικό</string>
+    <string name="exo_track_resolution">%1$d × %2$d</string>
     <string name="exo_track_selection_auto">Αυτόματο</string>
     <string name="exo_track_selection_none">Κανένα</string>
     <string name="exo_track_selection_title_audio">Ήχος</string>
@@ -649,6 +653,7 @@
     <string name="play_mode_play_all">Αναπαραγωγή όλων</string>
     <string name="play_mode_shuffle_all">Τυχαία</string>
     <string name="play_next">Αναπαραγωγή επόμενου</string>
+    <string name="play_setting">Αναπαραγωγή</string>
     <string name="play_video_with_traffic">ΣΥΝΕΧΕΙΑ</string>
     <string name="play_video_with_traffic_toast">Χρησιμοποιείτε δεδομένα κινητής τηλεφωνίας τώρα.</string>
     <string name="playlist_empty">Δεν βρέθηκαν λίστες αναπαραγωγής.</string>
@@ -669,6 +674,7 @@
     <string name="priority_storage_summary">Αυτόματη λήψη στην εξωτερική κάρτα SD εφόσον είναι διαθέσιμη</string>
     <string name="privacy_desc">Πολιτική Απορρήτου (υποχρεωτικό)</string>
     <string name="privacy_policy">Πολιτική Απορρήτου</string>
+    <string name="privacy_policy_url">http://www.miui.com/res/doc/privacy.html?lang=el_GR</string>
     <string name="pro_member">Μέλος PRO</string>
     <string name="project_device">Mi Τηλέφωνο</string>
     <string name="prompt_grant_write_settings_permission">Να επιτρέπεται η αλλαγή ρυθμίσεων συστήματος</string>
@@ -793,9 +799,11 @@
     <string name="songgroup_pick_playlist">Λίστες αναπαραγωγής</string>
     <string name="sort_by_name">Όνομα</string>
     <string name="sort_by_time">Ημερομηνία</string>
+    <string name="sound_fade_in_and_out_when_change_song_automatically">Δοκιμάστε το σταδιακό σβήσιμο μεταξύ τραγουδιών κατά τη διάρκεια αναπαραγωγής</string>
     <string name="start_to_check_new_version">Γίνεται έλεγχος για ενημερώσεις…</string>
     <string name="start_to_download">Γίνεται λήψη…</string>
     <string name="start_to_play">Αναπαραγωγή</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
     <string name="storage_cloned_app">Χώρος αποθήκευσης για διπλότυπες εφαρμογές</string>
     <string name="storage_internal">Εσωτερικός χώρος αποθήκευσης</string>
     <string name="storage_sd_card">Κάρτα SD</string>
@@ -872,6 +880,7 @@
     <string name="upgrade_music_message">Οι ενημερώσεις είναι έτοιμες. Επανεκκινήστε για ενημέρωση.</string>
     <string name="upgrading_in_backstage">Γίνεται ενημέρωση στο παρασκήνιο…</string>
     <string name="user_agreement">Όροι Χρήσης</string>
+    <string name="user_agreement_url">http://www.miui.com/res/doc/eula.html?lang=el_GR</string>
     <string name="v7_preference_off">ΑΝΕΝΕΡΓΗ</string>
     <string name="v7_preference_on">ΕΝΕΡΓΗ</string>
     <string name="version_info">Έκδοση</string>

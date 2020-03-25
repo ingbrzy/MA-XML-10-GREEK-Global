@@ -1,5 +1,29 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <plurals name="last_several_days">
+        <item quantity="other">%d ημέρες</item>
+        <item quantity="one">%d ημέρα</item>
+    </plurals>
+    <plurals name="trend_from_last_several_day_equal">
+        <item quantity="other">Ο χρόνος χρήσης οθόνης σήμερα ισούται με τον ημερήσιο μέσο όρο %d</item>
+        <item quantity="one">Ο χρόνος χρήσης οθόνης σήμερα ισούται με τον ημερήσιο μέσο όρο %d</item>
+    </plurals>
+    <plurals name="trend_from_last_several_day_less">
+        <item quantity="other">%2$s λιγότερο χρόνο χρήσης οθόνης από τον ημερήσιο μέσο όρο %1$d</item>
+        <item quantity="one">%2$s λιγότερο χρόνο χρήσης οθόνης από τον ημερήσιο μέσο όρο %1$d</item>
+    </plurals>
+    <plurals name="trend_from_last_several_day_more">
+        <item quantity="other">%2$s περισσότερο χρόνο χρήσης οθόνης από τον ημερήσιο μέσο όρο %1$d</item>
+        <item quantity="one">%2$s περισσότερο χρόνο χρήσης οθόνης από τον ημερήσιο μέσο όρο %1$d</item>
+    </plurals>
+    <plurals name="unlock_times">
+        <item quantity="other">%.2f φορές</item>
+        <item quantity="one">%.2f φορά</item>
+    </plurals>
+    <plurals name="usage_days">
+        <item quantity="other">%d ημέρες</item>
+        <item quantity="one">%d ημέρα</item>
+    </plurals>
     <plurals name="usage_state_device_explain_today">
         <item quantity="other">Ξεκλειδώθηκε %d φορές</item>
         <item quantity="one">Ξεκλειδώθηκε %d φορά</item>
@@ -15,6 +39,10 @@
     <plurals name="usage_state_device_noti_explain_week">
         <item quantity="other">Έγινε λήψη %d ειδοποιήσεων</item>
         <item quantity="one">Έγινε λήψη %d ειδοποίησης</item>
+    </plurals>
+    <plurals name="usage_state_focus_usage_summary">
+        <item quantity="other">%d λεπτά λεπτό είναι ένα μεγάλο βήμα προς την επίγνωση και τη συγκέντρωση.</item>
+        <item quantity="one">%d λεπτό είναι ένα μεγάλο βήμα προς την επίγνωση και την επικέντρωση.</item>
     </plurals>
     <plurals name="usage_state_hour">
         <item quantity="other">%d ώρες</item>

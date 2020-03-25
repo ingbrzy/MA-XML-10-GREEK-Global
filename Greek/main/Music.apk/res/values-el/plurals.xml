@@ -118,6 +118,10 @@
         <item quantity="other">%d τραγούδια</item>
         <item quantity="one">%d τραγούδι</item>
     </plurals>
+    <plurals name="sound_fade_duration_in_seconds">
+        <item quantity="other">Σταδιακό σβήσιμο μεταξύ τραγουδιών: %d δευτερόλεπτα</item>
+        <item quantity="one">Σταδιακό σβήσιμο μεταξύ τραγουδιών: %d δευτερόλεπτο</item>
+    </plurals>
     <plurals name="video_count">
         <item quantity="other">Βίντεο</item>
         <item quantity="one">Βίντεο</item>

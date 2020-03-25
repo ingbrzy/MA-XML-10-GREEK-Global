@@ -54,6 +54,8 @@ Realm: %4$s
     <string name="wifi_installer_fail_title">Δεν είναι δυνατή η εγκατάσταση</string>
     <string name="wifi_installing_label">Εγκατάσταση</string>
     <string name="wifi_no_config">Κανένα</string>
+    <string name="wifi_sim_config_text">"SIM: %s
+"</string>
     <string name="wifi_title">Προφίλ Wi-Fi</string>
     <string name="wifi_tls_config_text">"Πιστοποιητικό πελάτη:
 %1$s
