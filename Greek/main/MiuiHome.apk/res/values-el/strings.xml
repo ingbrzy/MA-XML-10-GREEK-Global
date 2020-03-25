@@ -401,7 +401,6 @@
     <string name="sort_by_not_defined">Αυτόματη ταξινόμηση</string>
     <string name="start_activity_failed">Αδυναμία έναρξης εκκινητή</string>
     <string name="starting_preset_app">Γίνεται έναρξη…</string>
-    <string name="status_bar_notification_info_overflow">999+</string>
     <string name="status_downloaded">Έγινε λήψη</string>
     <string name="status_downloading">Γίνεται λήψη</string>
     <string name="status_installing">Γίνεται εγκατάσταση</string>
