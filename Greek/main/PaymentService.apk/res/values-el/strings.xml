@@ -214,5 +214,4 @@
     <string name="passport_wrong_phone_number_format">Ο αριθμός τηλεφώνου που εισαγάγατε δεν είναι έγκυρος</string>
     <string name="passport_wrong_vcode">Ο κωδικός που εισαγάγατε είναι εσφαλμένος</string>
     <string name="passport_yes">Ναι</string>
-    <string name="status_bar_notification_info_overflow">999+</string>
 </resources>
