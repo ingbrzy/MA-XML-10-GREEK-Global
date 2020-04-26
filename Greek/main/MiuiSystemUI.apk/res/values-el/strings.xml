@@ -63,6 +63,7 @@
     <string name="accessibility_camera_button">Κάμερα</string>
     <string name="accessibility_carrier_network_change_mode">Γίνεται αλλαγή παρόχου δικτύου.</string>
     <string name="accessibility_cast_name">Έγινε σύνδεση σε %s.</string>
+    <string name="accessibility_casting">@string/quick_settings_casting</string>
     <string name="accessibility_casting_turned_off">Διακόπηκε η μετάδοση οθόνης.</string>
     <string name="accessibility_cell_data">Δεδομένα κινητής τηλεφωνίας</string>
     <string name="accessibility_cell_data_off">Δεδομένα κινητής τηλεφωνίας ανενεργά</string>
@@ -90,7 +91,7 @@
     <string name="accessibility_data_three_bars">Δεδομένα τρεις μπάρες.</string>
     <string name="accessibility_data_two_bars">Δεδομένα δύο μπάρες.</string>
     <string name="accessibility_desc_close">Κλείσιμο</string>
-    <string name="accessibility_desc_connected">Έγινε σύνδεση.</string>
+    <string name="accessibility_desc_connected">Έχει συνδεθεί.</string>
     <string name="accessibility_desc_connecting">Γίνεται σύνδεση.</string>
     <string name="accessibility_desc_lock_screen">Οθόνη κλειδώματος.</string>
     <string name="accessibility_desc_notification_icon">%1$s ειδοποίηση: %2$s</string>
@@ -312,6 +313,8 @@
     <string name="available_via_carrier">Διαθέσιμο μέσω %1$s</string>
     <string name="available_via_passpoint">Διαθέσιμο μέσω %1$s</string>
     <string name="back">Πίσω</string>
+    <string name="band_24G">" (ζώνη 2,4 GHz)"</string>
+    <string name="band_5G">" (ζώνη 5 GHz)"</string>
     <string name="battery">Μπαταρία</string>
     <string name="battery_can_use_time">Περίπου %s απομένει</string>
     <string name="battery_detail_charging_summary">Η Εξοικονόμηση μπαταρίας δεν είναι διαθέσιμη κατά την φόρτιση</string>
@@ -352,7 +355,7 @@
     <string name="bluetooth_active_no_battery_level">Ενεργό</string>
     <string name="bluetooth_battery_level">%1$s μπαταρία</string>
     <string name="bluetooth_battery_level_untethered">L: %1$s battery, R: %2$s battery</string>
-    <string name="bluetooth_connected">Έγινε σύνδεση %1$s</string>
+    <string name="bluetooth_connected">Έχει συνδεθεί %1$s</string>
     <string name="bluetooth_connected_battery_level">Έγινε σύνδεση | Μπαταρία %1$s%2$s</string>
     <string name="bluetooth_connected_no_a2dp">Έγινε σύνδεση (χωρίς πολυμέσα) %1$s</string>
     <string name="bluetooth_connected_no_a2dp_battery_level">Έγινε σύνδεση (χωρίς μέσα) | Μπαταρία %1$s%2$s</string>
@@ -443,7 +446,7 @@ Bits ανά δείγμα"</string>
     <string name="branded_vpn_footer">Το δίκτυο ενδέχεται να παρακολουθείται</string>
     <string name="broadcast_tile">Τίτλος μετάδοσης</string>
     <string name="bt_hci_snoop_log">Ενεργοποίηση καταγραφής ανίχνευσης HCI Bluetooth</string>
-    <string name="bt_hci_snoop_log_summary">Σύλληψη όλων των πακέτων Bluetooth HCI σε ένα αρχείο</string>
+    <string name="bt_hci_snoop_log_summary">Καταγραφή πακέτων Bluetooth. (Εναλλαγή του Bluetooth μετά από αλλαγή της ρύθμισης)</string>
     <string name="bt_is_off">Bluetooth ανενεργό</string>
     <string name="btn_camera">Εισάγετε το πρόσωπο σας</string>
     <string name="bugreport_in_power">Συντόμευση αναφοράς bug</string>
@@ -774,26 +777,6 @@ Bits ανά δείγμα"</string>
     <string name="gxzw_area">Σαρωτής δακτυλικού αποτυπώματος</string>
     <string name="gxzw_long_press_tip" />
     <string name="gxzw_press_harder">Πατήστε πιο δυνατά</string>
-    <string name="gxzw_quick_open_add_event">Προσθήκη συμβάντος</string>
-    <string name="gxzw_quick_open_add_event_sub">Ημερολόγιο</string>
-    <string name="gxzw_quick_open_alipay_pay">Κωδικός πληρωμής</string>
-    <string name="gxzw_quick_open_alipay_pay_sub">Alipay</string>
-    <string name="gxzw_quick_open_alipay_scan">Σαρωτής</string>
-    <string name="gxzw_quick_open_alipay_scan_sub">Alipay</string>
-    <string name="gxzw_quick_open_qr_code">Κωδικός QR</string>
-    <string name="gxzw_quick_open_qr_code_sub">Σαρωτής</string>
-    <string name="gxzw_quick_open_search">Αναζήτηση</string>
-    <string name="gxzw_quick_open_search_sub">Πρόγραμμα περιήγησης</string>
-    <string name="gxzw_quick_open_skip_teach">Παράλειψη οδηγού</string>
-    <string name="gxzw_quick_open_wechat_pay">Κωδικός πληρωμής</string>
-    <string name="gxzw_quick_open_wechat_pay_sub">WeChat</string>
-    <string name="gxzw_quick_open_wechat_scan">Σαρωτής</string>
-    <string name="gxzw_quick_open_wechat_scan_sub">WeChat</string>
-    <string name="gxzw_quick_open_xiaoai_sub">Mi AI</string>
-    <string name="gxzw_quick_open_xiaoai_title1">Πείτε το όνομα της εφαρμογής που θέλετε να ανοίξετε</string>
-    <string name="gxzw_quick_open_xiaoai_title2">Πείτε το όνομα της λειτουργίας που θέλετε να χρησιμοποιήσετε</string>
-    <string name="gxzw_quick_tip_press">Συνεχίστε το πάτημα…</string>
-    <string name="gxzw_quick_tip_slide">Μην σηκώνετε το δάκτυλό σας. Σύρετε για να επιλέξετε.</string>
     <string name="gxzw_try_again">Προσπαθήστε ξανά</string>
     <string name="gxzw_try_more_again">Προσπαθήστε ξανά</string>
     <string name="gxzw_use_password">Χρησιμοποιήστε τον κωδικό πρόσβασης σας για ξεκλείδωμα</string>
@@ -916,6 +899,10 @@ Bits ανά δείγμα"</string>
     <string name="keyguard_charging_back_to_lockscreen">Επιστροφή στην Αρχική Οθόνη</string>
     <string name="keyguard_charging_battery_level">%s%%</string>
     <string name="keyguard_charging_info_battery_used_time_text">Ενεργή μπαταρία</string>
+    <string name="keyguard_charging_info_data_c">%s℃</string>
+    <string name="keyguard_charging_info_data_ma">%smA</string>
+    <string name="keyguard_charging_info_data_percent">%s%%</string>
+    <string name="keyguard_charging_info_data_v">%sV</string>
     <string name="keyguard_charging_info_drained_power_percent_text">Έχει καταναλωθεί</string>
     <string name="keyguard_charging_info_last_charge_time">d/M H:mm</string>
     <string name="keyguard_charging_info_last_charge_today_time">Σήμερα %s</string>
@@ -943,6 +930,7 @@ Bits ανά δείγμα"</string>
     <string name="keyguard_missing_sim_instructions_long">Η κάρτα SIM λείπει ή δεν αναγνωρίζεται. Εισάγετε μία κάρτα SIM.</string>
     <string name="keyguard_missing_sim_message">Δεν υπάρχει κάρτα SIM στο τηλέφωνο.</string>
     <string name="keyguard_missing_sim_message_short">Δεν υπάρχει κάρτα SIM</string>
+    <string name="keyguard_more_overflow_text">+%d</string>
     <string name="keyguard_network_locked_message">Κλειδωμένο δίκτυο</string>
     <string name="keyguard_password_enter_password_code">Πληκτρολογήστε κωδικό για ξεκλείδωμα</string>
     <string name="keyguard_password_enter_pin_code">Εισαγάγετε τον PIN κωδικό</string>
@@ -1028,6 +1016,7 @@ Bits ανά δείγμα"</string>
     <string name="left_keycode">Αριστερό πλήκτρο</string>
     <string name="left_nav_bar_button_type">Επιπλέων αριστερό πλήκτρο</string>
     <string name="legacy_vpn_name">VPN</string>
+    <string name="list_delimeter">", "</string>
     <string name="loading_injected_setting_summary">Φόρτωση…</string>
     <string name="local_backup_password_summary_change">Πατήστε για αλλαγή ή αφαίρεση κωδικού για αντίγραφα ασφαλείας Αρχικής οθόνης</string>
     <string name="local_backup_password_summary_none">Τα αντίγραφα ασφαλείας Αρχικής οθόνης δεν προστατεύονται αυτή την στιγμή</string>
@@ -1103,6 +1092,7 @@ d MMMM"</string>
     <string name="miui_guide_dialog_message">Ήχοι πολυμέσων (μουσική, βίντεο, κλπ.) θα συνεχίσουν να αναπαράγονται στην Αθόρυβη λειτουργία. Μπορείτε να το αλλάξετε αυτό στις Ρυθμίσεις.</string>
     <string name="miui_keyguard_ble_unlock_succeed_msg">Ξεκλειδώθηκε από τη συσκευή Bluetooth</string>
     <string name="miui_ringer_count_down">Αντίστροφη μέτρηση</string>
+    <string name="miui_ringer_count_down_time">%s</string>
     <string name="miui_ringer_standard">Αθόρυβο</string>
     <string name="miui_ringer_standard_description">Σίγαση κουδουνίσματος για εισερχόμενες κλήσεις και ειδοποιήσεις</string>
     <string name="miui_ringer_total">Μην ενοχλείτε</string>
@@ -1130,12 +1120,14 @@ d MMMM"</string>
 
 Για περισσότερες πληροφορίες, επικοινωνήστε με τον διαχειριστή σας."</string>
     <string name="monitoring_description_ca_cert_settings">Άνοιγμα αξιόπιστων διαπιστευτηρίων</string>
+    <string name="monitoring_description_ca_cert_settings_separator">" "</string>
     <string name="monitoring_description_ca_certificate">Ένα πιστοποιητικό εξουσιοδότησης είναι εγκατεστημένο στην συσκευή αυτή. Η ασφαλή κυκλοφορία δικτύου σας ενδέχεται να παρακολουθείται ή να τροποποιηθεί.</string>
     <string name="monitoring_description_do_body">Ο διαχειριστής σας μπορεί να παρακολουθεί και να διαχειρίζεται ρυθμίσεις, εταιρική πρόσβαση, εφαρμογές, δεδομένα σχετικά με την εφαρμογή σας, και τις πληροφορίες τοποθεσίας της συσκευής σας.</string>
     <string name="monitoring_description_do_body_vpn">Είστε συνδεδεμένοι σε %1$s, το οποίο μπορεί να παρακολουθεί την δραστηριότητα δικτύου σας, όπως emails, εφαρμογές, και ιστοσελίδες.</string>
     <string name="monitoring_description_do_header_generic">Η συσκευή σας διαχειρίζεται από %1$s.</string>
     <string name="monitoring_description_do_header_with_name">%1$s χρησιμοποιεί %2$s για την διαχείριση της συσκευής σας.</string>
     <string name="monitoring_description_do_learn_more">Μάθετε περισσότερα</string>
+    <string name="monitoring_description_do_learn_more_separator">" "</string>
     <string name="monitoring_description_managed_profile_ca_certificate">Η οργάνωση σας έχει εγκαταστήσει ένα πιστοποιητικό εξουσιοδότησης στο προφίλ εργασίας σας. Η ασφαλή κυκλοφορία δικτύου σας ενδέχεται να παρακολουθείται ή να τροποποιηθεί.</string>
     <string name="monitoring_description_managed_profile_named_vpn">Το προφίλ εργασίας σας είναι συνδεδεμένο σε %1$s, το οποίο μπορεί να παρακολουθεί την δραστηριότητα δικτύου σας, όπως emails, εφαρμογές, και ιστοσελίδες.</string>
     <string name="monitoring_description_management">"Η συσκευή σας διαχειρίζεται από την οργάνωση σας.
@@ -1167,6 +1159,7 @@ d MMMM"</string>
 
 Είστε επίσης συνδεδεμένοι σε ένα VPN, το οποίο μπορεί να ελέγχει την δραστηριότητα δικτύου σας."</string>
     <string name="monitoring_description_vpn_settings">Άνοιγμα Ρυθμίσεων VPN</string>
+    <string name="monitoring_description_vpn_settings_separator">" "</string>
     <string name="monitoring_subtitle_ca_certificate">Πιστοποιητικά CA</string>
     <string name="monitoring_subtitle_network_logging">Αρχείο καταγραφής δικτύου</string>
     <string name="monitoring_subtitle_vpn">VPN</string>
@@ -1205,6 +1198,7 @@ d MMMM"</string>
     <string name="nav_guide_message">Χρήση χειρονομιών για απόκρυψη/εμφάνιση απαλών κουμπιών.</string>
     <string name="nav_guide_ok">Ρύθμιση</string>
     <string name="nav_guide_title">Απόκρυψη απαλών κουμπιών</string>
+    <string name="network_speed_suffix">%1$s%2$s</string>
     <string name="no_application">Καμία</string>
     <string name="no_multi_window_app">Καμία εφαρμογή δεν υποστηρίζει το Διαχωρισμό οθόνης</string>
     <string name="no_notification_tips">Δεν υπάρχουν ειδοποιήσεις</string>
@@ -1272,7 +1266,7 @@ d MMMM"</string>
     <string name="notification_otg_unknow_out">Η συσκευή OTG αποσυνδέθηκε</string>
     <string name="notification_tap_again">Αγγίξτε ξανά για άνοιγμα</string>
     <string name="notification_template_text">" έχει μια ειδοποίηση. Αγγίξτε για προβολή."</string>
-    <string name="oem_unlock_enable">Γίνεται ξεκλείδωμα OEM</string>
+    <string name="oem_unlock_enable">Ξεκλείδωμα OEM</string>
     <string name="oem_unlock_enable_summary">Αποδοχή ξεκλειδώματος bootloader</string>
     <string name="okay">OK</string>
     <string name="oldman_airplane_mode_text">Λειτουργία πτήσης</string>
@@ -1357,7 +1351,7 @@ d MMMM"</string>
     <string name="power_remaining_charging_duration_only">%1$s απομένουν μέχρι πλήρης φόρτιση</string>
     <string name="power_remaining_duration_only">Απομένει περίπου %1$s</string>
     <string name="power_remaining_duration_only_enhanced">Περίπου %1$s απομένει βάσει της κατανάλωσης που κάνατε</string>
-    <string name="power_remaining_duration_only_short">Απέμεινε %1$s</string>
+    <string name="power_remaining_duration_only_short">%1$s</string>
     <string name="power_remaining_duration_only_shutdown_imminent">Το τηλέφωνο μπορεί να απενεργοποιηθεί σύντομα</string>
     <string name="power_remaining_duration_shutdown_imminent">Το τηλέφωνο μπορεί να απενεργοποιηθεί σύντομα (%1$s)</string>
     <string name="power_remaining_less_than_duration">Λιγότερο από %1$s απομένουν (%2$s)</string>
@@ -1377,6 +1371,7 @@ d MMMM"</string>
     <string name="private_dns_mode_provider">Προσωπικό όνομα παροχέα DNS</string>
     <string name="private_dns_mode_provider_failure">Αδυναμία σύνδεσης</string>
     <string name="private_dns_mode_provider_hostname_hint">Εισαγωγή ονόματος του παροχέα DNS</string>
+    <string name="process_kernel_label">Android OS</string>
     <string name="profile_owned_footer">Το προφίλ ενδέχεται να παρακολουθείται</string>
     <string name="prompt_danger">Κίνδυνος</string>
     <string name="prompt_detecting">Γίνεται εντοπισμός</string>
@@ -1414,8 +1409,8 @@ d MMMM"</string>
     <string name="quick_settings_cellular_detail_remaining_data">Δεδομένα που απομένουν</string>
     <string name="quick_settings_cellular_detail_title">Δεδομένα κινητής τηλεφωνίας</string>
     <string name="quick_settings_color_space_label">Λειτουργία διόρθωσης χρώματος</string>
-    <string name="quick_settings_connect_success">Έγινε σύνδεση</string>
-    <string name="quick_settings_connected">Έγινε σύνδεση</string>
+    <string name="quick_settings_connect_success">Έχει συνδεθεί</string>
+    <string name="quick_settings_connected">Έχει συνδεθεί</string>
     <string name="quick_settings_connecting">Γίνεται σύνδεση</string>
     <string name="quick_settings_disclosure_managed_profile_monitoring">Η οργάνωση σας ενδέχεται να διαχειρίζεται την κυκλοφορία δικτύου στο προφίλ εργασίας σας</string>
     <string name="quick_settings_disclosure_managed_profile_named_vpn">Το προφίλ εργασίας είναι συνδεδεμένο σε %1$s</string>
@@ -1493,6 +1488,7 @@ d MMMM"</string>
     <string name="quick_settings_wifi_not_connected">Δεν έγινε σύνδεση</string>
     <string name="quick_settings_wifi_off_label">Το Wi-Fi είναι απενεργοποιημένο</string>
     <string name="quick_settings_wifi_on_label">Το Wi-Fi είναι ενεργοποιημένο</string>
+    <string name="quick_settings_wireless_label">Αντίστροφη ασύρματη φόρτιση</string>
     <string name="quick_settings_work_mode_label">Λειτουργία εργασίας</string>
     <string name="rapid_charge_mode_tip">Γρήγορη φόρτιση</string>
     <string name="recent_cannot_dock">Αδυναμία χρήσης Διαχωρισμού οθόνης στον Δεύτερο χώρο</string>
@@ -1511,7 +1507,7 @@ d MMMM"</string>
     <string name="recents_app_info_button_label">Πληροφορίες εφαρμογής</string>
     <string name="recents_caption_resize">Επιλογή νέας διάταξης εργασίας</string>
     <string name="recents_dimiss_task">Εκκαθάριση</string>
-    <string name="recents_drag_hint_message">Πατήστε και παρατεταμένα μια εφαρμογή και, στη συνέχεια, σύρετέ την εδώ.</string>
+    <string name="recents_drag_hint_message">Πατήστε παρατεταμένα μια εφαρμογή και, στη συνέχεια, σύρετέ την εδώ.</string>
     <string name="recents_empty_message">Δεν υπάρχουν πρόσφατα στοιχεία</string>
     <string name="recents_empty_message_dismissed_all">Έχετε καθαρίσει τα πάντα</string>
     <string name="recents_empty_message_multi_window">Άνοιγμα εφαρμογών από την Αρχική οθόνη</string>
@@ -1578,7 +1574,9 @@ d MMMM"</string>
     <string name="screenshot_edit">Επεξεργασία</string>
     <string name="screenshot_failed_title">Αδυναμία λήψης στιγμιότυπου οθόνης.</string>
     <string name="screenshot_failed_to_capture_text">Δεν επιτρέπεται η λήψη στιγμιότυπων οθόνης από την εφαρμογή ή τον οργανισμό σας</string>
+    <string name="screenshot_failed_to_capture_title">Η εφαρμογή αυτή δεν επιτρέπει τη λήψη στιγμιοτύπων οθόνης</string>
     <string name="screenshot_failed_to_save_text">Αδυναμία αποθήκευσης στιγμιότυπου οθόνης λόγω περιορισμένου χώρου αποθήκευσης.</string>
+    <string name="screenshot_failed_to_save_title">Ανεπαρκής χώρος αποθήκευσης νέων στιγμιοτύπων οθόνης</string>
     <string name="screenshot_failed_to_save_unknown_text">Παρουσιάστηκε σφάλμα κατά την αποθήκευση στιγμιότυπου οθόνης.</string>
     <string name="screenshot_feedback_txt">Σχόλια</string>
     <string name="screenshot_insert_failed">Αδυναμία φόρτωσης στιγμ. οθόνης. Τραβήξτε καινούργιο ή δείτε την εικόνα στη Συλλογή.</string>
@@ -1655,7 +1653,7 @@ d MMMM"</string>
     <string name="status_bar_clock_date_format">E, d MMM</string>
     <string name="status_bar_clock_date_format_12">E, d MMM</string>
     <string name="status_bar_clock_date_time_format">H:mm E, d MMM</string>
-    <string name="status_bar_clock_date_time_format_12">h:mm aa, E, MMM d</string>
+    <string name="status_bar_clock_date_time_format_12">h:mm aa, E, d MMM</string>
     <string name="status_bar_date_format">"E
 d MMM"</string>
     <string name="status_bar_date_format_12">"E
@@ -1964,6 +1962,7 @@ d MMM"</string>
     <string name="wapi_psk_type_ascii">ASCII</string>
     <string name="wapi_psk_type_hex">Εξαδεκαδικό</string>
     <string name="wapi_yes">Ναι</string>
+    <string name="weather_description_no_aqi">%1$s</string>
     <string name="weather_publish_time">Έγινε ενημέρωση %1$s</string>
     <string name="wifi_ap_unable_to_handle_new_sta">Το σημείο πρόσβασης είναι προσωρινά γεμάτο</string>
     <string name="wifi_auto_sel_wapi_cert">Αυτόματη επιλογή</string>
@@ -1987,7 +1986,7 @@ d MMM"</string>
     <string name="wifi_is_off">Το Wi-Fi είναι απενεργοποιημένο</string>
     <string name="wifi_limited_connection">Περιορισμένη σύνδεση</string>
     <string name="wifi_metered_label">Μετρημένο</string>
-    <string name="wifi_no_internet">Καμία πρόσβαση στο διαδίκτυο</string>
+    <string name="wifi_no_internet">Αδυναμία σύνδεσης στο Ίντερνετ</string>
     <string name="wifi_no_internet_no_reconnect">Αδυναμία σύνδεσης στο ίντερνετ</string>
     <string name="wifi_not_in_range">Δεν βρίσκεται μέσα στην εμβέλεια</string>
     <string name="wifi_remembered">Έγινε αποθήκευση</string>
@@ -2027,6 +2026,15 @@ d MMM"</string>
     <string name="wireless_charge_reset_device">Αργή φόρτιση. Προσαρμόστε τη συσκευή σας.</string>
     <string name="wireless_charge_reset_device_detail">Βεβαιωθείτε πως η θέση της συσκευής σας στη βάση φόρτισης είναι σωστή</string>
     <string name="wireless_charge_stop">Η ασύρματη φόρτιση διακόπηκε</string>
+    <string name="wireless_charging_connected_message">Αδυναμία χρήσης αντίστροφης φόρτισης όταν η συσκευή σας φορτίζεται ασύρματα.</string>
+    <string name="wireless_charging_low_battery_level_message">Αδυναμία χρήσης ασύρματης φόρτισης όταν η μπαταρία είναι φορτισμένη λιγότερο από 30%.</string>
+    <string name="wireless_charging_ok">Κατάλαβα</string>
+    <string name="wireless_charging_saver_cancel">Απενεργοποίηση</string>
+    <string name="wireless_charging_saver_message">Η Εξοικονόμηση μπαταρίας τώρα είναι ενεργοποιημένη. Να παραμείνει διαθέσιμη η αντίστροφη ασύρματη φόρτιση;</string>
+    <string name="wireless_charging_saver_ok">Διατήρηση</string>
+    <string name="wireless_charging_tips_disable">Να μην εμφανιστεί ξανά</string>
+    <string name="wireless_charging_tips_message">Τοποθετήστε συσκευές που υποστηρίζουν ασύρματη φόρτιση Qi (τηλέφωνα, αξεσουάρ κλπ.) στο πίσω μέρος αυτής της συσκευής.</string>
+    <string name="wireless_charging_tips_title">Αντίστροφη ασύρματη φόρτιση</string>
     <string name="wrong_password">Εσφαλμένος κωδικός</string>
     <string name="zen_alarm_warning">Δεν θα ακούσετε το επόμενο σας ξυπνητήρι %1$s</string>
     <string name="zen_alarm_warning_indef">Δεν θα ακούσετε το επόμενο σας ξυπνητήρι %1$s εκτός και αν απενεργοποιήσετε αυτό πριν φτάσει η ώρα</string>

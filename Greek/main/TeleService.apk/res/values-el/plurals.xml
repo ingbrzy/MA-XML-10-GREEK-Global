@@ -9,8 +9,8 @@
         <item quantity="one">Η επιλεγμένη ενέργεια δεν είναι διαθέσιμη κατά τη διάρκεια της λειτουργίας Έκτακτης Επανάκλησης. Το τηλέφωνο θα παραμείνει σε αυτήν τη λειτουργία για %s λεπτό. Έξοδος τώρα;</item>
     </plurals>
     <plurals name="auto_answer_summary_delay">
-        <item quantity="other">καθυστέρηση: %s δευτερόλεπτα</item>
-        <item quantity="one">καθυστέρηση: %s δευτερόλεπτο</item>
+        <item quantity="other">καθυστέρηση: %d δευτερόλεπτα</item>
+        <item quantity="one">καθυστέρηση: %d δευτερόλεπτο</item>
     </plurals>
     <plurals name="call_record_add_white_list_over_reminder">
         <item quantity="other">Μπορείτε να προσθέστε μέχρι και %s άτομα, επιλέξτε ξανά.</item>

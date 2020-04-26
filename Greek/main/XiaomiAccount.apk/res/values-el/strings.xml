@@ -120,6 +120,7 @@
     <string name="passport_change_phone_number">Εναλλαγή αριθμών</string>
     <string name="passport_forget_password"><u>Ξέχασα τον κωδικό</u></string>
     <string name="passport_forget_password_no_underline">Ξέχασα τον κωδικό</string>
+    <string name="passport_can_not_receive_verification_code">Αδυναμία λήψης κωδικού επαλήθευσης;</string>
     <string name="passport_reg_type_email">Διεύθυνση email</string>
     <string name="passport_register_by_email"><u>Δημιουργία λογαριασμού με διεύθυνση email</u></string>
     <string name="passport_international_register_by_email">Δημιουργία λογαριασμού με διεύθυνση email</string>
@@ -321,7 +322,7 @@
     <string name="google">Google</string>
     <string name="bind_facebook">Σύνδεση στο Facebook Λογαριασμό σας</string>
     <string name="bind_google">Συνδέστε το Λογαριασμό Google σας</string>
-    <string name="binded">Έγινε σύνδεση</string>
+    <string name="binded">Έχει συνδεθεί</string>
     <string name="nobind">Δεν έγινε σύνδεση</string>
     <string name="button_unbind">Αποσύνδεση</string>
     <string name="unbind_sns_description">Μετά την αποσύνδεση αυτού του λογαριασμού, δεν θα έχετε δυνατότητα χρήσης πληροφοριών του %s Λογαριασμού για σύνδεση στο Mi Λογαριασμό σας.</string>
@@ -506,7 +507,9 @@
     <string name="input_new_pwd">Εισαγωγή νέου κωδικού</string>
     <string name="confirm_new_pwd">Επιβεβαίωση νέου κωδικού</string>
     <string name="inconsistent_pwd">Οι κωδικοί δεν ταιριάζουν</string>
-    <string name="same_new_and_old_pwd">Δεν μπορεί να είναι ο ίδιος με τον τρέχοντα κωδικό πρόσβασης</string>
+    <string name="same_new_and_old_pwd">Ο νέος κωδικός πρέπει να είναι διαφορετικός από τον παλαιό</string>
+    <string name="pwd_width_phone_number_or_mail_num">Ο κωδικός δεν μπορεί να περιέχει τον αριθμό του τηλεφώνου σας, το Email ή το ID του Λογαρισμού Mi</string>
+    <string name="risky_pwd_not_allow">Ο νέος κωδικός δεν είναι ασφαλής. Ορίστε έναν διαφορετικό.</string>
     <string name="account_security_info_pref_title">Πληροφορίες ασφάλειας</string>
     <string name="account_bind_settings">Λογαριασμοί</string>
     <string name="account_bind_devices">Συσκευές</string>

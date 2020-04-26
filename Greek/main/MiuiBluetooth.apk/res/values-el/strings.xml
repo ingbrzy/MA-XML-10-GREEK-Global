@@ -46,6 +46,7 @@
     <string name="device_picker">Ρυθμίσεις Bluetooth συσκευής</string>
     <string name="disconnect">Άρση σύζευξης</string>
     <string name="expand_button_title">Σύνθετες</string>
+    <string name="fast_connect_device_battery">Μπαταρία</string>
     <string name="fast_connect_device_box">Κουτί</string>
     <string name="fast_connect_device_box_name">%1$s Κουτί</string>
     <string name="fast_connect_device_connect_cancel">Ακύρωση</string>

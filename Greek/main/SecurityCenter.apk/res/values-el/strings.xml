@@ -1,5 +1,17 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <string name="HIPS_Perm_CallLog_Desc">Εγγραφή και διαγραφή ιστορικού κλήσεων</string>
+    <string name="HIPS_Perm_Call_Desc">Απευθείας κλήση τηλεφωνικών αριθμών</string>
+    <string name="HIPS_Perm_Contact_Desc">Τροποποίηση και διαγραφή επαφών</string>
+    <string name="HIPS_Perm_PhoneID_Desc">Πρόσβαση σε τηλεφωνικό αριθμό, IMEI και IMSI</string>
+    <string name="HIPS_Perm_PhoneID_Desc_Q">Αποκτήστε πρόσβαση στον τηλεφωνικό αριθμό και την κατάσταση της συσκευής</string>
+    <string name="HIPS_Perm_Read_Call_Log_Desc">Aνάγνωση ιστορικού κλήσεων</string>
+    <string name="HIPS_Perm_Read_Contact_Desc">Aνάγνωση των επαφών σας</string>
+    <string name="HIPS_Perm_Read_SMS_Desc">Ανάγνωση των SMS μηνυμάτων σας</string>
+    <string name="HIPS_Perm_SendSMS_Desc">Απευθείας αποστολή μηνυμάτων SMS</string>
+    <string name="HIPS_Perm_add_voicemail_Desc">Προσθήκη φωνητικών μηνυμάτων συστήματος</string>
+    <string name="HIPS_Perm_get_accounts_Desc">Πρόσβαση σε όλους τους λογαριασμούς που είναι αποθηκευμένοι στη συσκευή</string>
+    <string name="HIPS_Perm_use_sip_Desc">Χρήση Πρωτοκόλλου Έναρξης Συνεδρίας για αναπαραγωγή βίντεο</string>
     <string name="Phonepass">Να επιτρέπονται κλήσεις</string>
     <string name="SMS_and_MMS">SMS και MMS</string>
     <string name="SMSpass">Να επιτρέπονται SMS</string>
@@ -13,16 +25,20 @@
     <string name="ac_enter_applock">Είσοδος σε Κλείδωμα εφαρμογής</string>
     <string name="ac_firstUseApplock_subTitle">Χρήση καλύτερων εργαλείων ασφαλείας συστήματος</string>
     <string name="ac_firstUseApplock_title">Εισάγετε ένα κωδικό για να προστατεύσετε τις εφαρμογές σας</string>
-    <string name="ac_mask_all_apps">Απόκρυψη για όλες τις εφαρμογές</string>
+    <string name="ac_mask_all_apps">Απόκρυψη για όλες</string>
     <string name="ac_notification_contentText">Πατήστε για ενεργοποίηση</string>
     <string name="ac_notification_contentTitle">Προστατέψτε εφαρμογές με το Κλείδωμα εφαρμογής</string>
     <string name="ac_post_notification_contentText">Αποκτήστε προστασία επιπέδου-συστήματος</string>
     <string name="ac_post_notification_contentTitle">Ενεργοποίηση Κλειδώματος Εφαρμογής</string>
     <string name="ac_pre_notification_contentText">Προστατέψτε τις προσωπικές σας πληροφορίες</string>
     <string name="ac_pre_notification_contentTitle">Δοκιμάστε Κλείδωμα Εφαρμογής</string>
+    <string name="ac_recommend_guide_dialog_app_content">Use App lock with this app in order to protect your personal info and avoid data leaks.</string>
+    <string name="ac_recommend_guide_dialog_content">You can protect your personal info and avoid data leaks using App lock.</string>
+    <string name="ac_recommend_guide_dialog_ignore">"Don't show again"</string>
+    <string name="ac_recommend_guide_dialog_open">Turn on</string>
     <string name="ac_summaryOff">Απενεργοποιήθηκε, δεν απαιτείται κωδικός για άνοιγμα εφαρμογών</string>
     <string name="ac_summaryOn">Εισαγάγετε κωδικό για άνοιγμα προστατευμένων εφαρμογών</string>
-    <string name="ac_unmask_all_apps">Κατάργηση απόκρυψης για όλες τις εφαρμογές</string>
+    <string name="ac_unmask_all_apps">Εμφάνιση για όλες</string>
     <string name="access_control_app_is_launching">Γίνεται έναρξη εφαρμογής</string>
     <string name="access_control_failed_need_to_unlock_nofingerprint">Εισαγάγετε κωδικό πριν ξεκλειδώσετε με νέο δακτυλικό αποτύπωμα</string>
     <string name="access_control_fingerprint_not_identified_msg">Αδυναμία ανάγνωσης δακτυλικού αποτυπώματος.</string>
@@ -126,8 +142,10 @@
     <string name="antivirus_update_btn_contiue">Συνέχεια</string>
     <string name="antivirus_update_btn_open">Αποδοχή</string>
     <string name="antivirus_update_btn_update">Ενημέρωση</string>
+    <string name="apn_exception_modify_summary">Το προεπιλεγμένο σημείο πρόσβασης παρόχου δεν χρησιμοποιήθηκε ή τροποποιήθηκε</string>
     <string name="apn_exception_summary">Δοκιμή διαμορφώσεων Ονομάτων Σημείων Πρόσβασης παρόχου</string>
     <string name="apn_exception_title">Έλεγχος διαμορφώσεων APN</string>
+    <string name="apn_exception_wap_summary">Η WAP τώρα είναι ασταθής. Πραγματοποιήστε εναλλαγή σε NET.</string>
     <string name="app_bg_restrict_dialog_message">Ο περιορισμός σύνδεσης δικτύου παρασκηνίου ενδέχεται να αποτρέψει την κανονική λειτουργία της εφαρμογής. Για παράδειγμα, ενδέχεται να μην μπορεί πλέον να λαμβάνει μηνύματα ή να ενημερώνει περιεχόμενο.</string>
     <string name="app_check_no_issue">Φαίνεται ότι δεν έχετε προβλήματα μπαταρίας. Τέλεια!</string>
     <string name="app_detail">Λεπτομέρειες</string>
@@ -288,6 +306,7 @@
     <string name="applock_add_account">Προσθήκη</string>
     <string name="applock_add_account_info">Προσθέστε τον Mi Λογαριασμό σας για δυνατότητα επαναφοράς του κωδικού σας σε περίπτωση που τον ξεχάσετε.</string>
     <string name="applock_add_account_setting">Λογαριασμός &amp; απόρρητο</string>
+    <string name="applock_app_recommend_lock_title">Μπορείτε να κλειδώσετε τις ακόλουθες εφαρμογές</string>
     <string name="applock_bind_account_title">Ξέχασα τον κωδικό</string>
     <string name="applock_close_dialog_summary">Όλες οι κρυφές εφαρμογές θα φανερωθούν, οι συντομεύσεις Αρχικής οθόνης θα επαναφερθούν, και ο κωδικός κλειδώματος εφαρμογών θα διαγραφεί. Απενεργοποίηση κλειδώματος εφαρμογών;</string>
     <string name="applock_close_dialog_title">Απενεργοποίηση Κλειδώματος εφαρμογής;</string>
@@ -296,11 +315,29 @@
     <string name="applock_face_unlock_title">Ξεκλείδωμα με αναγνώριση προσώπου</string>
     <string name="applock_function_base_settings">Κλείδωμα εφαρμογής</string>
     <string name="applock_function_pwd_settings">Κωδικός</string>
+    <string name="applock_go_to">Ρυθμίσεις</string>
+    <string name="applock_guide_open_applock">Ενεργοποίηση</string>
+    <string name="applock_guide_tip1">Διατίθενται επιλογές για πολλαπλά είδη κωδικών. Ξεκλειδώστε εφαρμογές με δακτυλικό αποτύπωμα, πρόσωπο ή εισαγάγετε κωδικό.</string>
+    <string name="applock_guide_tip1_global">Ξεκλειδώστε εφαρμογές με δακτυλικό αποτύπωμα, πρόσωπο ή εισαγάγετε κωδικό.</string>
+    <string name="applock_guide_tip1_global_without_face">Ξεκλειδώστε εφαρμογές με δακτυλικό αποτύπωμα ή εισαγάγετε κωδικό.</string>
+    <string name="applock_guide_tip1_global_without_finger">Ξεκλειδώστε εφαρμογές με το πρόσωπο ή εισαγάγετε κωδικό.</string>
+    <string name="applock_guide_tip1_global_without_finger_face">Διατίθενται επιλογές για πολλαπλά είδη κωδικών.</string>
+    <string name="applock_guide_tip1_without_face">Διατίθενται επιλογές για πολλαπλά είδη κωδικών. Ξεκλειδώστε εφαρμογές με το δακτυλικό αποτύπωμα ή εισαγάγετε κωδικό.</string>
+    <string name="applock_guide_tip1_without_finger">Διατίθενται επιλογές για πολλαπλά είδη κωδικών. Ξεκλειδώστε εφαρμογές με το πρόσωπο ή εισαγάγετε κωδικό.</string>
+    <string name="applock_guide_tip1_without_finger_face">Διατίθενται επιλογές για πολλαπλά είδη κωδικών.</string>
+    <string name="applock_guide_tip2">Προσθέστε τον Λογαριασμό Mi για να μπορείτε να επαναφέρετε τον κωδικό σας.</string>
+    <string name="applock_guide_tip3">Απόκρυψη περιεχομένου ειδοποίησης.</string>
+    <string name="applock_guide_tip3_global">Απόκρυψη περιεχομένου ειδοποίησης.</string>
+    <string name="applock_guide_title">Προστατέψτε το απόρρητο με Κλείδωμα εφαρμογής</string>
     <string name="applock_header_text_less_than_half">Πολύ μικρό. Σύρετε λίγο περισσότερο.</string>
+    <string name="applock_lock_all">Κλείδωμα όλων</string>
     <string name="applock_login_and_add_account">Σύνδεση &amp; προσθήκη</string>
     <string name="applock_not_add_account"><u>Όχι τώρα</u></string>
     <string name="applock_not_login_account">Δεν έχετε συνδεθεί</string>
+    <string name="applock_set_password_title">Αλλαγή τύπου κωδικού</string>
+    <string name="applock_settings_unlock_all_toast">Ξεκλείδωμα όλων των εφαρμογών</string>
     <string name="applock_toast_tip">Επιτυχής επαλήθευση Κλειδώματος εφαρμογών</string>
+    <string name="applock_unlock_all">Ξεκλείδωμα όλων</string>
     <string name="apps_item_sign_dialog_content">Η υπογραφή του %s είναι διαφορετική από αυτήν της έκδοσης του Καταστήματος Εφαρμογών. Διαγραφή της εφαρμογής και εγκατάσταση της επίσημης έκδοσης; Σημείωση: η εγκατάσταση εφαρμογής με εσφαλμένη υπογραφή μπορεί να επιφέρει απώλεια δεδομένων εφαρμογής.</string>
     <string name="apps_item_sign_dialog_title">Εγκατάσταση επίσημης εφαρμογής</string>
     <string name="apps_item_sign_install_button_text">Αντικατάσταση</string>
@@ -557,6 +594,7 @@
     <string name="card_main_private_space_summary">Η χρήση Δεύτερου χώρου είναι σαν να έχετε δύο συσκευές</string>
     <string name="card_main_private_space_title">Δεύτερος χώρος</string>
     <string name="card_main_sectool_title">Εργαλεία</string>
+    <string name="card_main_speeddetail_action">@string/card_main_monthreport_action</string>
     <string name="card_main_xspace_action">Δημιουργία</string>
     <string name="card_main_xspace_summary">Δημιουργία διπλότυπων λογαριασμών για οποιαδήποτε εφαρμογή</string>
     <string name="card_main_xspace_title">Διπλότυπες εφαρμογές</string>
@@ -751,6 +789,7 @@
     <string name="doze_optimization_title">Βελτιστοποίηση ελέγχων αφής</string>
     <string name="dual_setting_simcard1">SIM 1</string>
     <string name="dual_setting_simcard2">SIM 2</string>
+    <string name="ellipsis">…</string>
     <string name="email">Email</string>
     <string name="empty_app">Δεν υπάρχουν εφαρμογές</string>
     <string name="empty_title_auto_start_list">Καμία εφαρμογή δεν μπορεί να ξεκινήσει αυτόματα.</string>
@@ -800,7 +839,9 @@
     <string name="exo_download_notification_channel_name">Λήψεις</string>
     <string name="exo_download_removing">Κατάργηση λήψεων</string>
     <string name="exo_item_list">%1$s, %2$s</string>
+    <string name="exo_track_bitrate">%1$.2f Mbps</string>
     <string name="exo_track_mono">Μονοφωνικό</string>
+    <string name="exo_track_resolution">%1$d × %2$d</string>
     <string name="exo_track_selection_auto">Αυτόματο</string>
     <string name="exo_track_selection_none">Κανένα</string>
     <string name="exo_track_selection_title_audio">Ήχος</string>
@@ -1251,6 +1292,7 @@
     <string name="load_only_under_wlan">Φόρτωση μόνο μέσω Wi-Fi</string>
     <string name="loading">Περιμένετε μία στιγμή…</string>
     <string name="local_ip_exception_summary">Αδυναμία απόκτησης τοπικής διεύθυνσης IP. Για να αναφέρετε το πρόβλημα αυτό στο MIUI, μεταβείτε στην εφαρμογή Σχόλια και στείλτε ένα αρχείο καταγραφής από την συσκευή σας.</string>
+    <string name="lock_all_title">Κλείδωμα όλων των εφαρμογών</string>
     <string name="lock_mode_title">Ρυθμίσεις κλειδώματος</string>
     <string name="lock_screen_traffic_guide_notification_summary">%s χρησιμοποιήθηκαν στην οθόνη κλειδώματος</string>
     <string name="lock_screen_traffic_guide_notification_title">Πατήστε για διαχείριση χρήσης δεδομένων.</string>
@@ -1427,9 +1469,11 @@
     <string name="menu_text_antispam">Λίστα αποκλεισμών</string>
     <string name="menu_text_antivirus">Σάρωση ασφαλείας</string>
     <string name="menu_text_garbage_cleanup">Εκκαθάριση</string>
+    <string name="menu_text_garbage_cleanup_danger">%s</string>
     <string name="menu_text_license_manager">Άδειες</string>
     <string name="menu_text_networkassistants">Χρήση δεδομένων</string>
     <string name="menu_text_networkassistants_danger">%s παραπάνω</string>
+    <string name="menu_text_networkassistants_data">%1$s%2$s</string>
     <string name="menu_text_networkassistants_remain">%s απέμειναν</string>
     <string name="menu_text_networkassistants_unit_b">B</string>
     <string name="menu_text_networkassistants_unit_gb">GB</string>
@@ -1437,6 +1481,7 @@
     <string name="menu_text_networkassistants_unit_mb">MB</string>
     <string name="menu_text_optimize_manage">Ενίσχυση ταχύτητας</string>
     <string name="menu_text_power_manager">Μπαταρία και απόδοση</string>
+    <string name="menu_text_power_percent_title">%s</string>
     <string name="menu_wh_remove">Αφαίρεση από εξαιρέσεις</string>
     <string name="menu_white">Προσθήκη στις εξαιρέσεις</string>
     <string name="mi_service_app_detail">Λεπτομέρειες χρήσης δεδομένων</string>
@@ -1459,6 +1504,11 @@
     <string name="more_lock">Περισσότερα</string>
     <string name="more_settings">Περισσότερα</string>
     <string name="name">Όνομα</string>
+    <string name="nd_result_button_optimize">Βελτιστοποίηση</string>
+    <string name="nd_result_summary_optimize">Προσπαθήστε να βελτιστοποιήσετε τη σύνδεση δικτύου όταν είναι ασταθές</string>
+    <string name="nd_result_title_auxiliary">Διαμόρφωση δικτύου</string>
+    <string name="nd_result_title_network">Συνδεσιμότητα δικτύου</string>
+    <string name="nd_result_title_optimize">Βελτιστοποίηση δικτύου</string>
     <string name="net_booster">Ενίσχυση ταχύτητας δικτύου</string>
     <string name="net_booster_expire_notification">Η ενίσχυση ταχύτητας δικτύου λήγει σύντομα</string>
     <string name="net_booster_overdue_notification">Η ενίσχυση ταχύτητας δικτύου λήγει σύντομα</string>
@@ -1539,8 +1589,8 @@
     <string name="notification_garbage_cleanup_title">Εκκαθάριση αρχείων σκουπιδιών</string>
     <string name="notification_mask_summary">Να μην εμφανίζεται το περιεχόμενο ειδοποίησης για προστατευμένες εφαρμογές</string>
     <string name="notification_mask_title">Απόκρυψη περιεχομένου ειδοποίησης</string>
-    <string name="notification_masked_item">Απόκρυψη ειδοποιήσεων</string>
-    <string name="notification_masked_subtitle">Απόκρυψη ειδοποιήσεων εφαρμογών που προστατεύονται από Κλείδωμα εφαρμογής</string>
+    <string name="notification_masked_item">Πώς να κρύψετε το περιεχόμενο ειδοποίησης;</string>
+    <string name="notification_masked_subtitle">Χρησιμοποιήστε το Κλείδωμα εφαρμογής για να κρύψετε το περιεχόμενο ειδοποίησης για επιλεγμένες εφαρμογές</string>
     <string name="notification_summary_cmcc_app_check">Αγγίξτε για προβολή λεπτομερειών.</string>
     <string name="notify_channel_mipush">Μηνύματα push ασφαλείας</string>
     <string name="notify_channel_name_security">Ασφάλεια συστήματος</string>
@@ -1602,7 +1652,7 @@
     <string name="operator_number_unicom">10010</string>
     <string name="optimize_manage_title">Ενίσχυση ταχύτητας</string>
     <string name="optimize_result_available_memory_info">Διαθέσιμη μνήμη</string>
-    <string name="optimize_result_button_cloudspace">Προσθήκη χώρου αποθήκευσης cloud</string>
+    <string name="optimize_result_button_cloudspace">Αποκτήστε περισσότερο χώρο αποθήκευσης στο cloud</string>
     <string name="optimize_result_button_consume_power_analysis">Σάρωση μπαταρίας</string>
     <string name="optimize_result_button_cooldown_now">Μείωση θερμοκρασίας</string>
     <string name="optimize_result_button_correct_now">Προσαρμογή</string>
@@ -1697,6 +1747,8 @@
     <string name="percentage">%d%%</string>
     <string name="perfermance_optimization_summary">Αποφυγή υπερθέρμανσης και ζητημάτων σχετικών με το υλισμικό</string>
     <string name="perfermance_optimization_title">Βελτιστοποίηση απόδοσης</string>
+    <string name="permdesc_in_calls">Monitor incoming calls</string>
+    <string name="permdesc_out_calls">Monitor outgoing calls</string>
     <string name="permgroupdesc_calendar">Πρόσβαση στα συμβάντα ημερολογίου</string>
     <string name="permgroupdesc_calllog">Πρόσβαση και αποθήκευση αντικειμένων στο ιστορικό κλήσεων</string>
     <string name="permgroupdesc_camera">Φωτογραφήστε και γράψτε βίντεο</string>
@@ -1763,6 +1815,11 @@
     <string name="power_center_dialog_msg_top">Όταν η Εξοικονόμηση μπαταρίας είναι ενεργή, το MIUI θα εκτελέσει τις εξής βελτιστοποιήσεις:</string>
     <string name="power_center_hints_scan_danger_result">Μπορείτε να διορθώσετε τα προβλήματα μπαταρίας τώρα</string>
     <string name="power_center_list_item_auto_brightness">Αυτόματη προσαρμογή φωτεινότητας οθόνης</string>
+    <string name="power_center_list_item_battery_health_model_temperature">%d ℃</string>
+    <string name="power_center_list_item_battery_health_model_voltage">%s V</string>
+    <string name="power_center_list_item_battery_health_model_volume">%s mAh</string>
+    <string name="power_center_list_item_battery_status_capacity">mAh</string>
+    <string name="power_center_list_item_battery_status_temperature">℃</string>
     <string name="power_center_list_item_battery_status_time">h</string>
     <string name="power_center_list_item_close_bluetooth">Απενεργοποίηση Bluetooth</string>
     <string name="power_center_list_item_deep_save_title">Σύνθετες ρυθμίσεις</string>
@@ -1775,6 +1832,7 @@
     <string name="power_center_power_save_summary_text">Αύξηση υπόλοιπου χρόνου μέχρι και %1$dω %2$dλ</string>
     <string name="power_center_power_save_title_text">Εξοικονόμηση Μπαταρίας</string>
     <string name="power_center_repeat">Επανάληψη</string>
+    <string name="power_center_scan_item_title_5g">Συνδεσιμότητα 5G</string>
     <string name="power_center_scan_item_title_GPS">Προσαρμογή ακρίβειας GPS</string>
     <string name="power_center_scan_item_title_abnormal">Προβλήματα μπαταρίας</string>
     <string name="power_center_scan_item_title_abnormal_apps">Εφαρμογές που εξαντλούν μπαταρία</string>
@@ -1805,6 +1863,7 @@
     <string name="power_dialog_cancel">Ακύρωση</string>
     <string name="power_dialog_ok">OK</string>
     <string name="power_dialog_super_save_msg">Η Εξαιρετική εξοικονόμηση μπαταρίας περιορίζει τις λειτουργίες που καταναλώνουν περισσότερη ενέργεια και μειώνει την απόδοση της συσκευής σας, ώστε να παραμείνουν διαθέσιμες όσο το δυνατόν περισσότερο οι βασικές λειτουργίες (π.χ. κλήσεις, SMS και σύνδεση στο δίκτυο). Ενεργοποίηση Εξαιρετικής εξοικονόμησης μπαταρίας;</string>
+    <string name="power_dialog_super_save_msg_5g">Η Εξαιρετική εξοικονόμηση μπαταρίας περιορίζει τις περισσότερες λειτουργίες που καταναλώνουν ενέργεια (π.χ., συνδεσιμότητα 5G) με μείωση των αποδόσεων της συσκευής σας. Δεν θα επηρεαστούν μόνο οι κλήσεις, τα μηνύματα και η συνδεσιμότητα δικτύου. Ενεργοποίηση της Εξαιρετική εξοικονόμηση μπαταρίας;</string>
     <string name="power_dialog_super_save_title">Εξαιρετική εξοικονόμηση μπαταρίας</string>
     <string name="power_idle">Τηλέφωνο αδρανές</string>
     <string name="power_main_battery_last_day_hour">%1$sμ %2$sω απομένουν</string>
@@ -1816,6 +1875,7 @@
     <string name="power_optimize_btn_text_fixed">Έγινε βελτιστοποίηση</string>
     <string name="power_optimize_catagory_fixed_title">Έγινε βελτιστοποίηση</string>
     <string name="power_optimize_close_app">Κλείσιμο εφαρμογών που καταναλώνουν υπερβολική ενέργεια</string>
+    <string name="power_optimize_disable_5g">Περιορισμός συνδεσιμότητας 5G</string>
     <string name="power_optimize_disable_app_autostart">Να μην επιτρέπεται σε εφαρμογές η αυτόματη εκκίνηση</string>
     <string name="power_optimize_disable_gps">Απενεργοποίηση GPS</string>
     <string name="power_optimize_disable_start_other_app">Να μην επιτρέπεται η εκκίνηση εφαρμογών από άλλες εφαρμογές</string>
@@ -1837,7 +1897,8 @@
     <string name="power_save_on_time_end_time_summary_na">Προς</string>
     <string name="power_save_on_time_start_time_summary_na">Από</string>
     <string name="power_save_ps_clean">Εκκαθάριση cache κάθε φορά που η συσκευή είναι κλειδωμένη</string>
-    <string name="power_save_ps_close_setting">Απενεργοποίηση υπηρεσιών παρασκηνίου (συγχρονισμός, GPS) για εξοικονόμηση μπαταρίας</string>
+    <string name="power_save_ps_close_setting">Απενεργοποίηση υπηρεσιών και λειτουργιών με υψηλή κατανάλωση ενέργειας (συγχρονισμός, GPS, απτική ανάδραση, \"Ανασηκώστε για ενεργοποίηση\", \"Διπλό άγγιγμα για ξύπνημα ή απενεργοποίηση οθόνης\", \"Εμφάνιση εικονιδίου δακτυλικού αποτυπώματος όταν η οθόνη είναι ανενεργή\") για εξοικονόμηση μπαταρίας</string>
+    <string name="power_save_ps_close_setting_5g">Απενεργοποίηση υπηρεσιών και λειτουργιών με υψηλή κατανάλωση ενέργειας (συγχρονισμός, συνδεσιμότητα σε δίκτυο 5G, GPS, απτική ανάδραση, \"Ανασηκώστε για ενεργοποίηση\", \"Διπλό άγγιγμα για ξύπνημα ή απενεργοποίηση οθόνης\", \"Εμφάνιση εικονιδίου δακτυλικού αποτυπώματος όταν η οθόνη είναι ανενεργή\") για εξοικονόμηση μπαταρίας</string>
     <string name="power_save_ps_freeze">Πάγωμα εφαρμογών παρασκηνίου</string>
     <string name="power_save_ps_limit">Περιορισμός λειτουργιών εφαρμογών συστήματος</string>
     <string name="power_save_settings">Ρυθμίσεις μπαταρίας</string>
@@ -1909,6 +1970,7 @@
     <string name="pref_normal_traffic_limit">Όταν το πλάνο δεδομένων εξαντληθεί</string>
     <string name="pref_open_adjust_traffic">Ενημέρωση χρήσης δεδομένων κάθε ημέρα με την χρήση στατιστικών από τον πάροχό σας</string>
     <string name="pref_operator_not_set">Ο πάροχος δεν ορίστηκε</string>
+    <string name="pref_operator_setting">%1$s%2$s</string>
     <string name="pref_over_traffic_limit">Όταν υπερβείτε το πλάνο δεδομένων σας</string>
     <string name="pref_package_traffic_settings">Πλάνο δεδομένων</string>
     <string name="pref_pkg_begin_date">Ημερομηνία επαναφοράς χρήσης</string>
@@ -1977,6 +2039,9 @@
 
 Κατά την διάρκεια βαθμονόμησης, το MIUI θα στείλει ένα μήνυμα στον πάροχο σας για λήψη του πρότυπου βαθμονόμησης."</string>
     <string name="privacy_prompt_upload">Μεταφόρτωση</string>
+    <string name="privacyapp_number_masked_text">Το περιεχόμενο ειδοποίησης είναι κρυφό</string>
+    <string name="privacyapp_number_unmasked_text">Δεν είναι δυνατή η απόκρυψη περεχομένου</string>
+    <string name="process_kernel_label">Android</string>
     <string name="process_mediaserver_label">Διακομιστής πολυμέσων</string>
     <string name="promotion">Διαφήμηση</string>
     <string name="prompt_all">Ερώτηση για όλες</string>
@@ -2110,6 +2175,8 @@
     <string name="shield_keyboard_detail">Διπλό άγγιγμα στα κουμπιά για ενεργοποίηση ξανά</string>
     <string name="shield_keyboard_summary">Περιορισμός κουμπιών και χειρονομιών πλήρους οθόνης κατά τη διάρκεια παιχνιδιών</string>
     <string name="shield_keyboard_title">Περιορισμός κουμπιών και χειρονομιών</string>
+    <string name="shortcut_title_scan">Σάρωση</string>
+    <string name="shortcut_title_whatsapp_clean">Καθαρισμός WhatsApp</string>
     <string name="show_system_app">Εμφάνιση εφαρμογών συστήματος</string>
     <string name="show_traffic_dialog_message">Οι πληροφορίες κατανάλωσης δεδομένων σας θα εμφανίζονται στον Πίνακα ειδοποιήσεων. Μπορείτε να ενεργοποιήσετε ή απενεργοποιήσετε την λειτουργία αυτή στη Χρήση δεδομένων > Ρυθμίσεις.</string>
     <string name="show_traffic_dialog_title">Εμφάνιση κατανάλωσης στον Πίνακα ειδοποιήσεων</string>
@@ -2117,6 +2184,8 @@
     <string name="shutdown_cancel_reminder">Δεν έγινε απενεργοποίηση</string>
     <string name="shutdown_cancel_reminder_detail">Δεν έγινε απενεργοποίηση επειδή βρισκόσασταν σε κλήση</string>
     <string name="shutdown_cancel_reminder_detail2">Φαίνεται ότι παίζετε ένα παιχνίδι. Η προγραμματισμένη απενεργοποίηση ακυρώθηκε.</string>
+    <string name="signal_exception_4g_bad_rsrq">Η τρέχουσα λήψη σήματος είναι κακή. Η ταχύτητα σύνδεσης ενδέχεται να είναι χαμηλή.</string>
+    <string name="signal_exception_none_4g_5g_network">Χρησιμοποιείτε δίκτυα κινητής τηλεφωνίας 2G/3G. Η ταχύτητα σύνδεσης ενδέχεται να είναι χαμηλή.</string>
     <string name="signal_exception_summary">Αδυναμία σύνδεσης σε δίκτυο σε αυτή την περιοχή.</string>
     <string name="signal_exception_title">Δοκιμή ισχύος σήματος</string>
     <string name="signed_rule">Κανόνες</string>
@@ -2307,7 +2376,7 @@
     <string name="still_retain_btn">Διατήρηση</string>
     <string name="stop_milink_connect">Διακοπή μετάδοσης</string>
     <string name="suggest_app_tolock">Προτάσεις</string>
-    <string name="suggest_app_tolock_masked">Κρυφά</string>
+    <string name="suggest_app_tolock_masked">Κρυφό περιεχόμενο</string>
     <string name="suggest_app_tolock_unmasked">Ορατές ειδοποιήσεις</string>
     <string name="suggest_scan_again">Ολοκληρώστε την σάρωση για αποφυγή κινδύνων ασφαλείας.</string>
     <string name="summary_app_lock_disable">Προστασία των δεδομένων σας με Κλείδωμα εφαρμογής</string>
@@ -2399,8 +2468,8 @@
     <string name="system_permission_declare_no_say_no">Εάν επιλέξετε να μην δώσετε την απαιτούμενη άδεια ή δεν μας επιτρέψετε να συλλέξουμε και χρησιμοποιήσουμε τα δεδομένα σας, αυτή η εφαρμογή δεν θα λειτουργεί κανονικά.</string>
     <string name="system_permission_declare_no_say_no_analytics">Εάν δεν θέλετε να χορηγήσετε αυτές τις άδειες, μπορείτε να καταργήσετε την εγγραφή σας στις Ρυθμίσεις > Πρόσθετες ρυθμίσεις > Απόρρητο > Πρόγραμμα Εμπειρίας Χρήστη.</string>
     <string name="system_permission_declare_no_say_no_non_mandatory">Εάν επιλέξετε να μην δώσετε την απαιτούμενη άδεια ή δεν μας επιτρέψετε να συλλέξουμε και χρησιμοποιήσουμε τα δεδομένα σας, αυτή η εφαρμογή δεν θα λειτουργεί εν μέρει.</string>
-    <string name="system_permission_declare_privacy_declare">Θα προστατεύουμε τις προσωπικές σας πληροφορίες σύμφωνα με του σχετικούς νόμους, κανονισμούς και πολιτικές απορρήτου. Έχετε υπόψη ότι η εφαρμογή Ασφάλεια πρέπει να συνδεθεί στο ίντερνετ και απαιτεί τις ακόλουθες άδειες για να συλλέξει τις προσωπικές σας πληροφορίες:</string>
-    <string name="system_permission_declare_privacy_no_permission">Έχετε υπόψη ότι η εφαρμογή Ασφάλεια πρέπει να συνδεθεί στο ίντερνετ και να συλλέξει τις απαιτούμενες προσωπικές σας πληροφορίες για να σας παρέχουμε υπηρεσίες. Θα προστατεύουμε τις προσωπικές σας πληροφορίες σύμφωνα με του σχετικούς νόμους, κανονισμούς και πολιτικές απορρήτου.</string>
+    <string name="system_permission_declare_privacy_declare">Θα προστατεύουμε τις προσωπικές σας πληροφορίες σύμφωνα με του σχετικούς νόμους, κανονισμούς και πολιτικές απορρήτου. Έχετε υπόψη ότι η εφαρμογή αυτή πρέπει να συνδεθεί στο ίντερνετ και απαιτεί τις ακόλουθες άδειες για να συλλέξει τις προσωπικές σας πληροφορίες:</string>
+    <string name="system_permission_declare_privacy_no_permission">Έχετε υπόψη ότι η εφαρμογή αυτή πρέπει να συνδεθεί στο ίντερνετ και να συλλέξει τις απαιτούμενες προσωπικές πληροφορίες για να σας παρέχουμε υπηρεσίες. Θα προστατεύουμε τις προσωπικές σας πληροφορίες σύμφωνα με του σχετικούς νόμους, κανονισμούς και πολιτικές απορρήτου.</string>
     <string name="system_permission_declare_privacy_policy">&lt;Data>Διαβάστε και συμφωνήστε με την &lt;a href=\"%1$s\">Πολιτική Απορρήτου&lt;/a> πριν χρησιμοποιήσετε αυτή τη λειτουργία.&lt;/Data></string>
     <string name="system_permission_declare_revoke_system">Μπορείτε να εξέλθετε από αυτή την εφαρμογή.</string>
     <string name="system_permission_declare_revoke_uninstallable">Μπορείτε να αποσυνδεθείτε, να απεγκαταστήσετε αυτή την εφαρμογή ή να ανακαλέσετε την εξουσιοδότησή σας στην Ασφάλεια > Διαχείριση εφαρμογών > Άδειες > Άδειες.</string>
@@ -2408,6 +2477,7 @@
     <string name="system_permission_declare_use_network_no_permission">Σύνδεση στο δίκτυο</string>
     <string name="system_permission_declare_user_agreement">&lt;Data>Διαβάστε και συμφωνήστε με το &lt;a href=\"%1$s\">Συμφωνητικό Χρήστη&lt;/a> πριν χρησιμοποιήσετε αυτή τη λειτουργία.&lt;/Data></string>
     <string name="system_permission_perm_answer_call">Πραγματοποίηση κλήσεων</string>
+    <string name="system_permission_perm_optional">" (προαιρετικά)"</string>
     <string name="system_permission_perm_read_mms">Ανάγνωση ΜMS</string>
     <string name="system_permission_perm_read_numbers">Ανάγνωση τηλεφωνικών αριθμών</string>
     <string name="system_permission_perm_send_mms">Αποστολή MMS</string>

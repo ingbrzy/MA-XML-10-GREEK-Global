@@ -95,6 +95,7 @@
     <string name="other_settings_auto_update">Αυτόματες ενημερώσεις συστήματος</string>
     <string name="other_settings_auto_update_summary">Το MIUI θα επιλέξει τον καλύτερο χρόνο για λήψη και εγκατάσταση ενημερώσεων. Η συσκευή σας θα επανεκκινηθεί αυτόματα για εφαρμογή των αλλαγών.</string>
     <string name="other_settings_enhanced_lockscreen">Ταπετσαρία Carousel</string>
+    <string name="other_settings_enhanced_lockscreen_for_india">Glance για Mi</string>
     <string name="other_settings_enhanced_lockscreen_privacy_index">Πολιτική Απορρήτου</string>
     <string name="other_settings_enhanced_lockscreen_summary">Λαμβάνετε καθημερινά επιλεγμένες εικόνες και ιστορίες στην Οθόνη κλειδώματος. %1$s και %2$s</string>
     <string name="other_settings_enhanced_lockscreen_summary_index">Άδεια Χρήσης Τελικού Χρήστη</string>
@@ -160,7 +161,7 @@
     <string name="require_authority_statement">Για να μας επιτρέψετε να σας παρέχουμε βασικές υπηρεσίες, πρέπει να μας χορηγήσετε τις ακόλουθες άδειες για να συλλέξουμε τις προσωπικές σας πληροφορίες:</string>
     <string name="require_network_authority_statement">Για να μας επιτρέψετε να σας παρέχουμε βασικές υπηρεσίες, πρέπει να συνδεθείτε στο Ίντερνετ και να μας χορηγήσετε τις ακόλουθες άδειες για να συλλέξουμε τις προσωπικές σας πληροφορίες:</string>
     <string name="screen_recording_introduction">Η εφαρμογή αυτή σας επιτρέπει να γράφετε όσα συμβαίνουν στην οθόνη σας.</string>
-    <string name="security_introduction">Μπορείτε να χρησιμοποιείτε αυτή την εφαρμογή για εκκαθάριση σκουπιδιών στη συσκευή σας, εύρεση και εξουδετέρωση ιών, βελτιστοποίηση απόδοσης παιχνιδιών, εξοικονόμηση μπαταρίας, διαχείριση εφαρμογών και άλλα.</string>
+    <string name="security_introduction">Μπορείτε να χρησιμοποιείτε αυτή την εφαρμογή για εκκαθάριση σκουπιδιών στη συσκευή σας, εύρεση και εξουδετέρωση ιών, βελτιστοποίηση απόδοσης παιχνιδιών, εξοικονόμηση μπαταρίας, διαχείριση εφαρμογών, αδειών και άλλα.</string>
     <string name="security_mobile_account_introduction">Για σύνδεση και διαχείριση των λογαριασμών συστήματος</string>
     <string name="service_agreement">Διάβασα και συμφώνησα με τους όρους και προϋποθέσεις.</string>
     <string name="service_name_album">Συλλογή</string>
@@ -206,7 +207,7 @@
     <string name="summary_not_set">Δεν έχει οριστεί</string>
     <string name="system_navigation_mode">Λειτουργία πλοήγησης συστήματος</string>
     <string name="terms_of_use">Όροι και προϋποθέσεις</string>
-    <string name="terms_of_use_ble_htmlViewer">, Πάροχος Υπηρεσιών Συγχωνευμένης Τοποθεσίας, HTMLViewer</string>
+    <string name="terms_of_use_ble_htmlViewer">, Πάροχος Υπηρεσιών Συγχωνευμένης Τοποθεσίας, Πρόγραμμα προβολής HTML</string>
     <string name="terms_of_use_label">"Διαβάστε τους Όρους Χρήσης και την Πολιτική Απορρήτου μας για να καταλάβετε ποιες πληροφορίες συλλέγουμε, πώς τις χρησιμοποιούμε, και ποιες επιλογές είναι διαθέσιμες για εσάς.
 Πρέπει να αποδεχτείτε τους Όρους Χρήσης και την Πολιτική Απορρήτου πριν χρησιμοποιήσετε το MIUI. %s και τα στοιχεία του Λογαριασμού Mi θα συνδεθούν στο διαδίκτυο και θα ανακτήσουν την τοποθεσία σας."</string>
     <string name="terms_of_use_label_Mistore">, plug-in συστήματος Mi Κατάστημα</string>

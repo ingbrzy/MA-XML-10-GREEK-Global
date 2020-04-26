@@ -30,8 +30,12 @@
     <string name="mi_service_app_name">Υπηρεσίες και σχόλια</string>
     <string name="miservice_channel_update_notification_info">\"Υπηρεσίες και σχόλια\" ζητούν δεδομένα online…</string>
     <string name="miservice_notification_boot_content">Μάθετε περισσότερα για το τι μπορεί να κάνει το MIUI</string>
+    <string name="miservice_notification_huanji_content">Πραγματοποιήστε τη μεταφορά τους με τη βοήθεια της Mi Mover</string>
+    <string name="miservice_notification_huanji_title">Έχετε σημαντικά στοιχεία στο παλαιό σας τηλέφωνο;</string>
     <string name="miservice_notification_open_feedback_content">Όλα τα χαρακτηριστικά των σχολίων μεταφέρθηκαν στην νέα εφαρμογή</string>
     <string name="miservice_notification_open_feedback_title">Σας παρουσιάζουμε την εφαρμογή \"Υπηρεσία και σχόλια\"</string>
+    <string name="miservice_notification_scan_content">Χρησιμοποιήστε την εφαρμογή Σαρωτής για μετάφραση λέξεων και φράσεων</string>
+    <string name="miservice_notification_scan_title">Μετάφραση στη στιγμή</string>
     <string name="miui_feedback_answer_detail_community">Μπορείτε να βρείτε απαντήσεις στις ερωτήσεις σας στη Mi Κοινότητα</string>
     <string name="miui_feedback_answer_detail_feedback_resolved">Ναι</string>
     <string name="miui_feedback_answer_detail_feedback_result">Ευχαριστούμε για τα σχόλιά σας!</string>
@@ -46,6 +50,7 @@
     <string name="miui_feedback_edit_add_original_images_dialog_content">Εάν το ζήτημα που θέλετε να αναφέρετε σχετίζεται με την ποιότητα εικόνας της κάμερας, προσθέστε ένα πρωτότυπο δείγμα φωτογραφίας (όχι κομμένη) για να μας βοηθήσει να εντοπίσουμε το ζήτημα. Προσθήκη φωτογραφίας τώρα;</string>
     <string name="miui_feedback_edit_choose_module">Επιλογή αντικειμένου</string>
     <string name="miui_feedback_edit_choose_module_hint">Απαιτείται</string>
+    <string name="miui_feedback_edit_choose_occurrence_time">Ώρα</string>
     <string name="miui_feedback_edit_choose_reproductivity">Αναπαραγωγικότητα</string>
     <string name="miui_feedback_edit_choose_third_app_name">Επιλογή ονόματος εφαρμογής</string>
     <string name="miui_feedback_edit_contact_info_hint">Αριθμός τηλεφώνου/Email</string>
@@ -58,6 +63,7 @@
     <string name="miui_feedback_edit_discard_draft_dialog_title">Απόρριψη προχείρου;</string>
     <string name="miui_feedback_edit_hint">Η αναφορά bugs κάθε φορά που αντιμετωπίζετε προβλήματα βοηθάει στη γρηγορότερη επίλυσή τους από εμάς</string>
     <string name="miui_feedback_edit_hint_gone">Κλειστό μήνυμα</string>
+    <string name="miui_feedback_edit_hint_optional">Επιλογή</string>
     <string name="miui_feedback_edit_mobile_data_note_dialog_cancel">Αναμονή για Wi-Fi</string>
     <string name="miui_feedback_edit_mobile_data_note_dialog_confirm">Μεταφόρτωση</string>
     <string name="miui_feedback_edit_mobile_data_note_dialog_content">Φαίνεται ότι έχετε συνδεθεί σε συνδρομητικό δίκτυο. Η αποστολή αρχείων καταγραφής είναι πιθανό να υπόκειται σε πρόσθετες χρεώσεις.</string>
@@ -92,6 +98,7 @@
     <string name="miui_feedback_edit_submit_dialog_not_show_again">Να μην εμφανιστεί ξανά</string>
     <string name="miui_feedback_edit_submit_dialog_title">Υποβολή αναφοράς</string>
     <string name="miui_feedback_edit_submit_directly">Υποβολή</string>
+    <string name="miui_feedback_edit_title_occurrence_time">Επιλογή ώρας</string>
     <string name="miui_feedback_edit_title_reproductivity">Επιλογή αναπαραγωγικότητας</string>
     <string name="miui_feedback_edit_toast_description_required">Πρέπει να γράψετε μια περιγραφή</string>
     <string name="miui_feedback_edit_toast_module_required">Επιλογή αντικειμένου</string>

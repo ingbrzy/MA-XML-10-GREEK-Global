@@ -41,7 +41,6 @@
     <string name="agree_camera_permission">Για φωτογράφιση και εγγραφή βίντεο</string>
     <string name="agree_storage_permission">Για πρόσβαση σε φωτογραφίες και αρχεία αποθηκευμένα στη συσκευή σας</string>
     <string name="always">Πάντα</string>
-    <string name="amazon_assistant_shopping_title">Αναζήτηση στο Amazon</string>
     <string name="app_description_content">Ο Σαρωτής επιτρέπει την σάρωση QR κωδικών, εγγράφων, επαγγελματικών καρτών, και άλλα. Βεβαιωθείτε πως δεν χρειάζεστε πλέον αυτές τις λειτουργίες πριν την απεγκατάσταση της εφαρμογής.</string>
     <string name="app_description_title">Σχετικά με Σαρωτή</string>
     <string name="app_details">Εφαρμογή:</string>
@@ -74,6 +73,7 @@
     <string name="choose_open_code_app">Επιλέξτε μία εφαρμογή</string>
     <string name="choose_pay_title">Επιλογή μεθόδου πληρωμής</string>
     <string name="choose_picture">Επιλογή εικόνας QR κωδικού</string>
+    <string name="choosed_title">Επιλέχθηκε</string>
     <string name="classesNameNull_toast">Το όνομα μαθήματος δεν πρέπει να είναι κενό</string>
     <string name="classes_canfirmTitle">Επιβεβαίωση αποτελεσμάτων και έναρξη εισαγωγής</string>
     <string name="classes_company">Εισαγωγή</string>
@@ -100,10 +100,16 @@
     <string name="copy_text">Αντιγραφή κειμένου</string>
     <string name="copy_text_success">Έγινε αντιγραφή κειμένου</string>
     <string name="copy_tracknum">Αντιγράψτε τον κωδικό παρακολούθησης</string>
+    <string name="create">Δημιουργία κωδικού QR</string>
+    <string name="createFail">Αδυναμία δημιουργίας κωδικού QR. Το μήνυμά σας είναι υπερβολικά μεγάλο.</string>
+    <string name="createQRCode_hint">Εισαγωγή κειμένου</string>
+    <string name="createQRCode_save">Αποθήκευση</string>
+    <string name="create_again">Ανανέωση</string>
     <string name="crop_cancel_description">Ακύρωση</string>
     <string name="crop_done_description">Ολοκληρώθηκε</string>
     <string name="crop_title_study">Περικοπή φωτογραφίας</string>
     <string name="crop_title_translation">Επιλογή κειμένου για μετάφραση</string>
+    <string name="delete">Διαγραφή</string>
     <string name="document_color_picture">Χρώμα</string>
     <string name="document_color_picture_tip">Μετατροπή σε έγχρωμο…</string>
     <string name="document_crop_title">Αποκοπή εγγράφου</string>
@@ -158,6 +164,8 @@
     <string name="food_module_title_food">Θερμίδες</string>
     <string name="got_it">Κατάλαβα</string>
     <string name="gps">Πλοήγηση</string>
+    <string name="history">Ιστορικό</string>
+    <string name="importFailed">Αδυναμία εισαγωγής</string>
     <string name="import_contact">Εισαγωγή επαφής</string>
     <string name="impunity_declaration_content">Ο σαρωτής πρέπει να χρησιμοποιήσει την κάμερά σας και να επεξεργαστεί τις εικόνες που έχετε τραβήξει ενώ χρησιμοποιείτε την εφαρμογή. Μην χρησιμοποιείτε την εφαρμογή Σαρωτής για να τραβάτε φωτογραφίες αντικειμένων που περιέχουν τα προσωπικά σας στοιχεία. Αν πατήσετε στο \"Συμφωνώ\", συμφωνείτε με την &lt;font color=\"#ff32b4ff\">&lt;a href=\"%1$s\" style=\"color:#ff32b4ff;\">Πολιτική απορρήτου&lt;/a>&lt;/font> και επιτρέπετε στην εφαρμογή Σαρωτής να συνδεθεί στο διαδίκτυο.</string>
     <string name="impunity_declaration_negative_text">Έξοδος</string>
@@ -228,6 +236,11 @@
     <string name="recognize">Σάρωση</string>
     <string name="recognize_fail">Αδυναμία ανάγνωσης κώδικα</string>
     <string name="request_server_failed">Αδυναμία σύνδεσης στο διακομιστή</string>
+    <string name="saveDone">Επιτυχής αποθήκευση</string>
+    <string name="scanHistory">Ιστορικό σαρωτή</string>
+    <string name="scanHistory_close">Απενεργοποίηση</string>
+    <string name="scanHistory_isOpen">Έναρξη παρακολούθησης του ιστορικού σαρωμένων στοιχείων τώρα;</string>
+    <string name="scanHistory_open">Ενεργοποίηση</string>
     <string name="scan_result">Αποτέλεσμα</string>
     <string name="scan_support_type">WeChat, Alipay, κωδικοί QR, γραμμικοί κώδικες</string>
     <string name="sdk_not_ready">Γίνεται προετοιμασία του SDK. Προσπαθήστε ξανά αργότερα.</string>

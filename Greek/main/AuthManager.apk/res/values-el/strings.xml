@@ -97,7 +97,7 @@
     <string name="grant_dialog_button_deny_background_and_dont_ask_again">Απόρριψη και να μην γίνει ερώτηση ξανά</string>
     <string name="location_settings">Ρυθμίσεις τοποθεσίας</string>
     <string name="location_warning">%1$s είναι ένας παροχέας υπηρεσιών τοποθεσίας για αυτήν την συσκευή. Η πρόσβαση τοποθεσίας μπορεί να τροποποιηθεί από τις ρυθμίσεις τοποθεσίας.</string>
-    <string name="never_ask_again">Να μην γίνει ερώτηση ξανά</string>
+    <string name="never_ask_again">Να μην γίνει ξανά ερώτηση μετά από τον περιορισμό</string>
     <string name="ok">OK</string>
     <string name="permdesc_camera">Φωτογραφήστε και γράψτε βίντεο</string>
     <string name="permdesc_in_calls">Παρακολούθηση εισερχόμενων κλήσεων</string>

@@ -23,7 +23,7 @@
     <string name="passport_account_hint_text">Διεύθυνση email, αριθμός τηλεφώνου ή ID Mi λογαριασμού</string>
     <string name="passport_account_identity_title">Επαληθεύστε την ταυτότητα σας</string>
     <string name="passport_account_label">Mi Λογαριασμός</string>
-    <string name="passport_account_name">Λογαριασμός: %1$s</string>
+    <string name="passport_account_name">"Λογαριασμός: %1$s "</string>
     <string name="passport_account_not_activated">Ο λογαριασμός δεν ενεργοποιήθηκε</string>
     <string name="passport_account_not_actived">Ο λογαριασμός σας δεν ενεργοποιήθηκε</string>
     <string name="passport_account_set_password">Ορισμός κωδικού</string>
@@ -214,4 +214,5 @@
     <string name="passport_wrong_phone_number_format">Ο αριθμός τηλεφώνου που εισαγάγατε δεν είναι έγκυρος</string>
     <string name="passport_wrong_vcode">Ο κωδικός που εισαγάγατε είναι εσφαλμένος</string>
     <string name="passport_yes">Ναι</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
 </resources>

@@ -49,6 +49,8 @@
     <string name="self_device_second_space">Δεύτερος χώρος αυτού του τηλεφώνου</string>
     <string name="other_device_main_space">Πρώτος χώρος</string>
     <string name="other_device_second_space">Δεύτερος χώρος</string>
+    <string name="pattern_backup_name_with_home">%1$s (%2$s: %3$s)</string>
+    <string name="pattern_backup_name_without_home">%1$s (%2$s)</string>
     <string name="process_whole_recovery">Γίνεται επαναφορά \"%s\"</string>
     <string name="size_unknown">Άγνωστο μέγεθος</string>
     <string name="recovering">Γίνεται επαναφορά %s</string>
@@ -57,6 +59,7 @@
     <string name="start_backup_to_micloud">Δημιουργία αντιγράφων ασφαλείας για εφαρμογές στο Xiaomi Cloud</string>
     <string name="backing_up_to_micloud">Γίνεται δημιουργία αντίγραφου ασφαλείας…</string>
     <string name="restore_from_cloud">Επαναφορά από αντίγραφο ασφαλείας στο νέφος</string>
+    <string name="restore_from_mimover">Μεταφορά από την παλαιά σας συσκευή με χρήση Mi Mover</string>
     <string name="backup_to_cloud">Δημιουργία αντίγραφου ασφαλείας για την εφαρμογή</string>
     <string name="restoring_file_title_no_progress">Γίνεται επαναφορά αρχείων…</string>
     <string name="menu_item_sort">Ταξινόμηση κατά</string>
@@ -80,7 +83,7 @@
     <string name="download_settings">Γίνεται λήψη ρυθμίσεων Αρχικής οθόνης %s%%</string>
     <string name="cloud_back_up_date_format">HH:mm dd/ΜΜ/yyyy</string>
     <string name="recover_home_settings">Επαναφορά ρυθμίσεων Αρχικής οθόνης</string>
-    <string name="cancel_recover_settings"><u>Ακύρωση</u></string>
+    <string name="cancel_recover_settings">Ακύρωση</string>
     <string name="recover_settings_description">Διατηρήστε την συσκευή σας ενεργή</string>
     <string name="recover_miui_settings">Επαναφορά ρυθμίσεων συστήματος</string>
     <string name="wait_icon_download">Γίνεται λήψη εικονιδίων εφαρμογών</string>
@@ -106,6 +109,7 @@
     <string name="restore_data_summary">Αυτή η λειτουργία απαιτεί σύνδεση Ίντερνετ.</string>
     <string name="query_restore_summary">Βρέθηκε ένα αντίγραφο ασφαλείας Xiaomi Cloud για αυτήν την συσκευή. Επαναφορά εφαρμογών Αρχικής οθόνης και ρυθμίσεων ή χρήση ως νέα συσκευή και διαγραφή προηγούμενων αντιγράφων ασφαλείας Xiaomi Cloud;</string>
     <string name="restore_home_screen_apps">Επαναφορά από το αντίγραφο ασφαλείας στο νέφος</string>
+    <string name="restoring_home_screen_apps">Γίνεται επαναφορά από Xiaomi Cloud…</string>
     <string name="query_restore_description">Επαναφορά εφαρμογών και ρυθμίσεων Αρχική οθόνης με αυτό το αντίγραφο ασφαλείας. Αυτό θα αντικαταστήσει δεδομένα εφαρμογών για διπλότυπες εφαρμογές που έχουν εγκατατασταθεί ήδη στην συσκευή. Εφαρμογές που δεν περιλήφθηκαν στο αντίγραφο ασφαλείας θα μετακινηθούν στην τελευταία Αρχική οθόνη.</string>
     <string name="restore_from_this_device">Επαναφορά με την χρήση αυτού του αντίγραφου ασφαλείας</string>
     <string name="confirm_cancel_restore_title">Ακύρωση επαναφοράς;</string>
@@ -132,7 +136,7 @@
     <string name="provision_error_connect_msg">Δοκιμάστε το δίκτυο και προσπαθήστε ξανά. Τα αντίγραφα ασφαλείας δεν είναι διαθέσιμα όταν η συσκευή σας είναι εκτός σύνδεσης.</string>
     <string name="provision_error_connect_title">Αδυναμία σύνδεσης</string>
     <string name="loading_user_backup">Φόρτωση αντιγράφων ασφαλείας χρήστη…</string>
-    <string name="loading_progress_num">(%s%%)</string>
+    <string name="loading_progress_num">Φορτώθηκαν %s%%</string>
     <string name="error_num_placeholder">--</string>
     <string name="doing_calc_backup_data_size">Γίνεται υπολογισμός μεγέθους…</string>
     <string name="authentication_failed">Αδυναμία επιβεβαίωσης λογαριασμού.</string>
@@ -165,7 +169,7 @@
     <string name="cloud_backup">Αντίγραφα ασφαλείας στο Cloud</string>
     <string name="open_backup_switch">Εναλλαγή διακόπτη για αντίγραφα ασφαλείας</string>
     <string name="restore_cloud_backup_to_phone">Επαναφορά αντικειμένων από το Cloud</string>
-    <string name="cloud_backup_in_process">Γίνεται δημιουργία αντίγραφου ασφαλείας…</string>
+    <string name="cloud_backup_in_process">Γίνεται δημιουργία αντίγραφου ασφαλείας</string>
     <string name="cloud_backup_in_cancel">Ακύρωση</string>
     <string name="dialog_cancel_backup_title">Ακύρωση τρέχουσας δημιουργίας αντίγραφου ασφαλείας;</string>
     <string name="dialog_cancel_backup_msg">Η εναλλαγή του διακόπτη θα τερματίσει τα τρέχοντα αντίγραφα ασφαλείας.</string>
@@ -221,5 +225,6 @@
     <string name="restore_task_unfinished">Αδυναμία επαναφοράς</string>
     <string name="restore_failed_reason_network_error">Πρόβλημα δικτύου. Περιμένετε ένα με δύο λεπτά και προσπαθήστε ξανά.</string>
     <string name="restore_failed_reason_disk_space_not_enough">Ανεπαρκής χώρος αποθήκευσης. Ελευθερώστε πρώτα χώρο.</string>
-    <string name="cloud_app_restore_app_and_data">Ρύθμιση της συσκευής σας</string>
+    <string name="storage_unit_mb">%s MB</string>
+    <string name="storage_unit_gb">%s GB</string>
 </resources>

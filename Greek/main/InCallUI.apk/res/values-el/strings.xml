@@ -91,7 +91,6 @@
     <string name="description_image_button_four">τέσσερα</string>
     <string name="description_image_button_hangup">Τέλος</string>
     <string name="description_image_button_message_enter">Απάντηση με μήνυμα</string>
-    <string name="description_image_button_message_exit">Απόκρυψη μηνυμάτων</string>
     <string name="description_image_button_nine">εννέα</string>
     <string name="description_image_button_one">ένα</string>
     <string name="description_image_button_pound">δίεση</string>
@@ -207,4 +206,5 @@
     <string name="wait_prompt_str">"Αποστολή των παρακάτω τόνων?
 "</string>
     <string name="waiting_close_airplane_mode">Περιμένετε μια στιγμή…</string>
+    <string name="wifi_call">Κλήση VoWifi</string>
 </resources>

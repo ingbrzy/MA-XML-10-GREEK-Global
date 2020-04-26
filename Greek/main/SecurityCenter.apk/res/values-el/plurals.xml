@@ -28,6 +28,10 @@
         <item quantity="other">Σε χρήση %d έτη πριν</item>
         <item quantity="one">Σε χρήση %d έτος πριν</item>
     </plurals>
+    <plurals name="applock_guide_app_count_tips">
+        <item quantity="other">Μπορείτε να προστατέψετε τουλάχιστον %s εφαρμογές</item>
+        <item quantity="one">Μπορείτε να προστατέψετε τουλάχιστον %s εφαρμογή</item>
+    </plurals>
     <plurals name="bg_network_allow_count">
         <item quantity="other">Δυνατότητα σύνδεσης %d εφαρμογών στο δίκτυο στο παρασκήνιο</item>
         <item quantity="one">Δυνατότητα σύνδεσης %d εφαρμογής στο δίκτυο στο παρασκήνιο</item>
@@ -99,6 +103,10 @@
     <plurals name="gb_ad_ten_thousand_people_play">
         <item quantity="other">%1$d άτομα παίζουν</item>
         <item quantity="one">%1$d άτομο παίζει</item>
+    </plurals>
+    <plurals name="gb_record_time_title">
+        <item quantity="other">%d δευ</item>
+        <item quantity="one">%d δευ</item>
     </plurals>
     <plurals name="gb_signed_days_sum">
         <item quantity="other">Συνδεθήκατε%d συνεχόμενες ημέρες</item>
@@ -455,6 +463,10 @@
     <plurals name="uninstall_game_count_title">
         <item quantity="other">Δεν έγινε προσθήκη %d παιχνιδιών</item>
         <item quantity="one">Δεν έγινε προσθήκη %d παιχνιδιού</item>
+    </plurals>
+    <plurals name="videobox_settings_manager_apps_count">
+        <item quantity="other">%d εφαρμογές</item>
+        <item quantity="one">%d εφαρμογή</item>
     </plurals>
     <plurals name="view_num">
         <item quantity="other">%1$d προβολές</item>

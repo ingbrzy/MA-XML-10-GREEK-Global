@@ -26,6 +26,24 @@
         <item>%1$s</item>
         <item>%1$s</item>
     </string-array>
+    <string-array name="aqi_title_append">
+        <item>%1$s</item>
+        <item>%1$s</item>
+        <item>%1$s</item>
+        <item>%1$s</item>
+        <item>%1$s</item>
+        <item>%1$s</item>
+        <item>%1$s</item>
+    </string-array>
+    <string-array name="aqi_title_prefix">
+        <item>ΠΑ %1$s</item>
+        <item>ΠΑ %1$s</item>
+        <item>ΠΑ %1$s</item>
+        <item>ΠΑ %1$s</item>
+        <item>ΠΑ %1$s</item>
+        <item>ΠΑ %1$s</item>
+        <item>ΠΑ %1$s</item>
+    </string-array>
     <string-array name="battery_labels">
         <item>0%</item>
         <item>50%</item>
@@ -93,8 +111,11 @@
         <item>LDAC</item>
         <item>Qualcomm® aptX™ Adaptive ήχος</item>
         <item>Qualcomm® aptX™ TWS ήχος</item>
-        <item>Ενεργοποίηση Προαιρετικών Codecs</item>
-        <item>Απενεργοποίηση Προαιρετικών Codecs</item>
+        <item>LHDC V3</item>
+        <item>LHDC V2</item>
+        <item>LHDC V1</item>
+        <item>Ενεργοποίηση προαιρετικών codecs</item>
+        <item>Απενεργοποίηση προαιρετικών codecs</item>
     </string-array>
     <string-array name="bluetooth_a2dp_codec_titles">
         <item>Χρήση Επιλογής Συστήματος (Προεπιλογή)</item>
@@ -105,8 +126,11 @@
         <item>LDAC</item>
         <item>Qualcomm® aptX™ Adaptive ήχος</item>
         <item>Qualcomm® aptX™ TWS ήχος</item>
-        <item>Ενεργοποίηση Προαιρετικών Codecs</item>
-        <item>Απενεργοποίηση Προαιρετικών Codecs</item>
+        <item>LHDC V3</item>
+        <item>LHDC V2</item>
+        <item>LHDC V1</item>
+        <item>Ενεργοποίηση προαιρετικών codecs</item>
+        <item>Απενεργοποίηση προαιρετικών codecs</item>
     </string-array>
     <string-array name="bluetooth_audio_active_device_summaries">
         <item></item>
@@ -130,8 +154,8 @@
         <item>Απενεργοποιημένο</item>
         <item>Ενεργοποίηση Φιλτραρίσματος</item>
         <item>Ενεργοποιήθηκε</item>
-        <item>Έγινε ενεργοποίηση Φιλτραρίσματος Κεφαλίδων</item>
-        <item>Έγινε ενεργοποίηση Φιλτραρίσματος πακέτων πολυμέσων</item>
+        <item>Έγινε ενεργοποίηση \"Φιλτραρίσματος Κεφαλίδων\"</item>
+        <item>Έγινε ενεργοποίηση \"Φιλτραρίσματος πακέτων πολυμέσων\"</item>
     </string-array>
     <string-array name="clock_options">
         <item>Εμφάνιση ωρών, λεπτών, και δευτερολέπτων</item>
@@ -323,7 +347,7 @@
         <item>Γίνεται σύνδεση…</item>
         <item>Γίνεται επαλήθευση…</item>
         <item>Γίνεται απόκτηση IP διεύθυνσης…</item>
-        <item>Έγινε σύνδεση</item>
+        <item>Έχει συνδεθεί</item>
         <item>Έγινε αναστολή</item>
         <item>Γίνεται αποσύνδεση…</item>
         <item>Έγινε αποσύνδεση</item>

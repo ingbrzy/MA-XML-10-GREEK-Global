@@ -22,12 +22,13 @@
     <string name="find_device_error_access_denied">Απορρίφθηκε η πρόσβαση.</string>
     <string name="find_device_error_account_sys_timeout">"Αδυναμία σύνδεσης στο Mi Λογαριασμό. "</string>
     <string name="find_device_error_account_unknown_error">Σφάλμα Mi Λογαριασμού (%s).</string>
+    <string name="find_device_error_custom">%s</string>
     <string name="find_device_error_network">Σφάλμα δικτύου.</string>
     <string name="find_device_error_password_changed">Ο κωδικός του λογαριασμού έχει αλλάξει πρόσφατα.</string>
     <string name="find_device_error_server">Σφάλμα διακομιστή (%s).</string>
     <string name="find_device_error_unknown">Άγνωστο σφάλμα (%s).</string>
     <string name="find_device_noise_title">Ειδοποίηση για Εύρεση συσκευής</string>
-    <string name="find_device_notice">Μεταβείτε στο&lt;br />&lt;b>&lt;font color=#e84700>i.mi.com&lt;/font>&lt;/b>&lt;br />για να εντοπίσετε, κλειδώσετε, ή να επαναφέρετε την συσκευή σας.</string>
+    <string name="find_device_notice">Μεταβείτε στο &lt;b>&lt;font color=#0099FF>i.mi.com&lt;/font>&lt;/b> για να εντοπίσετε, κλειδώσετε, ή να επαναφέρετε τη συσκευή σας.</string>
     <string name="find_device_notice_sms_alert">Εάν αλλάξετε κάρτες SIM, ένα SMS μπορεί να σταλεί αυτόματα για την επανενεργοποίηση αυτής της λειτουργίας.</string>
     <string name="find_device_stop_noise">Πατήστε OK για σίγαση</string>
     <string name="find_device_storage_corrupted">Ο χώρος αποθήκευσης της Εύρεσης συσκευής έχει καταστραφεί. Η συσκευή σας βρίσκεται σε κίνδυνο.</string>

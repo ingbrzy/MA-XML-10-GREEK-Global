@@ -47,6 +47,7 @@
     <string name="content_description_web_url">Αναζήτηση</string>
     <string name="copy">Αντιγραφή</string>
     <string name="cut">Αποκοπή</string>
+    <string name="data_usage_context">If Wi-Fi is not turned on, your device will connect to a mobile network, which may result in additional charges depending on your payment plan.Thank you!</string>
     <string name="default_device_name">Άγνωστη συσκευή</string>
     <string name="default_name">Προεπιλογή</string>
     <string name="description_title">Αθόρυβη λειτουργία</string>
@@ -71,7 +72,7 @@
     <string name="fp_nav_center_action_choose_dlg_negative_btn_text">Όχι τώρα</string>
     <string name="fp_nav_center_action_choose_dlg_positive_btn_text">Ενεργοποίηση</string>
     <string name="fp_nav_center_action_choose_dlg_title">Ενεργοποίηση Γρήγορης αφής</string>
-    <string name="frequent_email">Συχνά Email</string>
+    <string name="frequent_email">Συχνά χρησιμοποιημένο Email</string>
     <string name="frequent_phrases">Συχνές φράσεις</string>
     <string name="functions_are_being_developed">Η λειτουργία αυτή θα είναι διαθέσιμη σύντομα. Μείνετε συντονισμένοι!</string>
     <string name="global_actions_airplane_mode">Λειτουργία πτήσης</string>
@@ -202,6 +203,7 @@
     <string name="sim_added_reboot_title">Η κάρτα SIM θα ενεργοποιηθεί αφού επανεκκινήσετε την συσκευή σας.</string>
     <string name="sim_lock_non_ais_msg">Η κάρτα SIM σας δεν είναι πλήρως λειτουργική με αυτό το τηλέφωνο γιατί δεν είναι συμβατό με τους όρους και προϋποθέσεις της συνδρομής σας. Εάν έχετε οποιεσδήποτε ερωτήσεις ή χρειάζεστε περισσότερες πληροφορίες σχετικά με αυτό το ζήτημα, επικοινωνήστε με τα κέντρα εξυπηρέτησης Xiaomi ή το κατάστημα που σας πούλησε προϊόντα.</string>
     <string name="sim_lock_now_ais_title">SIM%1$d</string>
+    <string name="slatoast">Η χρήση δεδομένων κινητής τηλεφωνίας για ενίσχυση ταχύτητας ενδέχεται να καταναλώσει τα δεδομένα αυτά</string>
     <string name="slavewifi">Wi-Fi διπλής ζώνης</string>
     <string name="slavewifi_disconnect">Αποσύνδεση</string>
     <string name="slavewifi_notification_title">Χρήση Wi-Fi διπλής ζώνης</string>

@@ -178,7 +178,6 @@
     <string name="add_pre_message_attachments_no">Να μην γίνει προσθήκη</string>
     <string name="add_pre_message_attachments_yes">Προσθήκη</string>
     <string name="add_star">Αστέρι</string>
-    <string name="all_purpose">Καλώς ορίσατε στην εφαρμογή Mail! Αυτό το πρόγραμμα-πελάτης ηλεκτρονικού ταχυδρομείου δημιουργήθηκε από την Kingsoft για την Xiaomi. Μπορείτε να χρησιμοποιήσετε την εφαρμογή για αποστολή και λήψη emails.</string>
     <string name="allread">Ανάγνωση όλων</string>
     <string name="always_bcc_myself">Πάντα Ιδ. κοι. τον εαυτό μου</string>
     <string name="always_show_images">Να εμφανίζονται πάντα οι εικόνες από αυτόν τον αποστολέα</string>
@@ -239,6 +238,7 @@
     <string name="battery_saver">Εξοικονόμηση μπαταρίας</string>
     <string name="battery_saver_keywords">εξοικονόμηση μπαταρίας, μπαταρία αλληλογραφίας</string>
     <string name="bcc">Ιδιαίτ. Κοιν.</string>
+    <string name="bcc_heading">"Ιδ.Κοιν: "</string>
     <string name="bill_center_setting">Ρυθμίσεις λογαριασμών</string>
     <string name="bill_center_setting_head">Εισαγωγή πληροφοριών από αυτούς τους λογαριασμούς</string>
     <string name="bill_cycle_text">Κύκλος λογαριασμών</string>
@@ -259,6 +259,7 @@
     <string name="cancel_pop3_attchemt_downloading">Αδυναμία ακύρωσης τρέχοντων λήψεων συννημένων στους λογαριασμούς POP3</string>
     <string name="cant_move_or_change_labels">Αδυναμία μετακίνησης αντικειμένων από πολλαπλούς λογαριασμούς.</string>
     <string name="cc">Κοιν.</string>
+    <string name="cc_attribution">"Κοιν: %1$s  &lt; br >"</string>
     <string name="cc_bcc">Κοιν/Ιδιαίτ. Κοιν.</string>
     <string name="cc_heading">"Κοιν: "</string>
     <string name="certificate_add_failed">Αδυναμία προσθήκης πιστοποιητικού \"%s\" certificate</string>
@@ -285,6 +286,7 @@
     <string name="click_download_all_content">[Πατήστε για να κάνετε λήψη περιεχομένου]</string>
     <string name="click_to_reload">Αγγίξτε την οθόνη για να ανανεώσετε</string>
     <string name="collapse_recipient_details">Κλείσιμο λεπτομερειών παραλήπτη</string>
+    <string name="colon">:</string>
     <string name="compose">Σύνθεση</string>
     <string name="compose_attachment_number_limit">Αδυναμία προσθήκης περισσότερων από 10 συννημένων</string>
     <string name="compose_paste_address_oob">Πάρα πολλοί χαρακτήρες</string>
@@ -514,6 +516,7 @@
     <string name="gmail_web_login_required_message">Συνδεθείτε στο Gmail</string>
     <string name="have_auth_code">Έχω έναν κωδικό</string>
     <string name="header_category_account">Λογαριασμοί</string>
+    <string name="header_category_general">@string/header_label_general_preferences</string>
     <string name="header_category_other">Σχόλια</string>
     <string name="header_label_general_preferences">Γενικά</string>
     <string name="help_and_info">Βοήθεια</string>
@@ -537,6 +540,7 @@
     <string name="invalid_recipient">"Η διεύθυνση %s  δεν είναι έγκυρη."</string>
     <string name="invalid_recipient_title">Σφάλμα παραλήπτη</string>
     <string name="kilobytes">"%s  KB"</string>
+    <string name="label_notification_ticker">%1$s: %2$s</string>
     <string name="list_empty_to_fresh">Δεν υπάρχουν ακόμη emails.</string>
     <string name="load_from_remote">Αναζήτηση mailbox στον διακομιστή</string>
     <string name="load_more">Φόρτωση περισσότερων</string>
@@ -784,10 +788,7 @@
     <string name="permission_access_provider_label">Πρόσβαση δεδομένων χρήστη</string>
     <string name="permission_des_calendar">Για τον συγχρονισμό συμβάντων ημερολογίου</string>
     <string name="permission_des_contact">Για πρόσβασης σε emails των επαφών σας με σκοπό την αυτόματη συμπλήρωση παραληπτών</string>
-    <string name="permission_des_detail">Εάν δεν συμφωνείτε να χορηγήσετε τέτοιες άδειες ή να κοινοποιήσετε και να μεταφορτώσετε τις προσωπικές σας πληροφορίες, δεν θα είστε σε θέση να χρησιμοποιείτε αυτή την εφαρμογή. Σε τέτοιες περιπτώσεις, μπορείτε να επιλέξετε να απεγκαταστήσετε την εφαρμογή, να αποσυνδεθείτε ή να περιορίσετε τις άδειες στις Ρυθμίσεις.</string>
     <string name="permission_des_external_storage">Για τη δημιουργία νέων Email, καθώς και για αποθήκευση και προσθήκη συνημμένων</string>
-    <string name="permission_des_phone_status">Για πρόσβαση στον IMEI για να γίνει ταυτοποίηση της συσκευής σας</string>
-    <string name="permission_des_storage">Για τη δημιουργία νέων Email, καθώς και για αποθήκευση και προσθήκη συνημμένων</string>
     <string name="permission_read_attachment_desc">Επιτρέπει στην εφαρμογή την ανάγνωση των συνημμένων των email σας</string>
     <string name="permission_read_attachment_label">Ανάγνωση συνημμένων</string>
     <string name="personal_data_collection_summary">Όταν ο διακόπτης είναι ενεργοποιημένος, συμφωνείτε ότι μπορούμε να συλλέξουμε τα προσωπικά σας δεδομένα. Μπορείτε να ενεργοποιήσετε τον διακόπτη, να ανακαλέσετε την εξουσιοδότησή σας και να διαγράψετε τα δεδομένα σας από τους διακομιστές μας ανά πάσα στιγμή.</string>
@@ -1033,8 +1034,10 @@
     <string name="silent_ringtone">Σε σίγαση</string>
     <string name="single_new_message_notification_big_text">"%1$s
 %2$s"</string>
+    <string name="single_new_message_notification_title">%1$s: %2$s</string>
     <string name="smtp_password_error">Ο κωδικός για το διακομιστή εξερχόμενης αλληλογραφίας είναι εσφαλμένος</string>
     <string name="sort_attachment">Ταξινόμηση κατά</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
     <string name="storage">Χώρος αποθήκευσης</string>
     <string name="str_select_all">Επιλογή όλων</string>
     <string name="str_select_none">Αποεπιλογή όλων</string>
