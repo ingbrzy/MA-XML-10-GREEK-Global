@@ -23,7 +23,6 @@
     <string name="dialog_alert_title">Προσοχή</string>
     <string name="VideoView_error_text_invalid_progressive_playback">Αυτό το βίντεο δεν είναι έγκυρο για ροή σε αυτή τη συσκευή.</string>
     <string name="selectTextMode">Επιλογή κειμένου</string>
-    <string name="status_bar_notification_info_overflow">999+</string>
     <string name="fingerprint_icon_content_description">Εικονίδιο δακτυλικών αποτυπωμάτων</string>
     <string name="paste_as_plain_text">Επικόλληση ως απλό κείμενο</string>
     <string name="autofill">Αυτόματη συμπλήρωση</string>
@@ -462,7 +461,6 @@
     <string name="fast_scroll_numeric_alphabet">" 0123456789ABCDEFGHIJKLMNOPQRSTUVWXYZ"</string>
     <string name="fcComplete">Ο κωδικός λειτουργίας ολοκληρώθηκε.</string>
     <string name="fcError">Πρόβλημα σύνδεσης ή μη έγκυρος κώδικας δυνατότητας.</string>
-    <string name="fileSizeSuffix">%1$s %2$s</string>
     <string name="find">Εύρεση</string>
     <string name="find_next">Εύρεση επόμενου</string>
     <string name="find_on_page">Εύρεση στη σελίδα</string>
@@ -664,7 +662,6 @@
     <string name="kg_reordering_delete_drop_target_text">Κατάργηση</string>
     <string name="kg_sim_pin_instructions">Εισαγωγή PIN SIM</string>
     <string name="kg_sim_unlock_progress_dialog_message">Ξεκλείδωμα κάρτας SIM...</string>
-    <string name="kg_text_message_separator">" — "</string>
     <string name="kg_too_many_failed_password_attempts_dialog_message">"Έχετε πληκτρολογήσει τον κωδικό πρόσβασης εσφαλμένα %1$d φορές. 
 
 Δοκιμάστε ξανά σε %2$d δευτερόλεπτα."</string>
@@ -978,7 +975,6 @@
     <string name="notification_channel_wfc">Κλήση Wi-Fi</string>
     <string name="notification_hidden_text">Νέα ειδοποίηση</string>
     <string name="notification_listener_binding_label">Υπηρεσία ακρόασης ειδοποίησης</string>
-    <string name="notification_messaging_title_template">%1$s: %2$s</string>
     <string name="notification_ranker_binding_label">Υπηρεσία κατάταξης ειδοποιήσεων</string>
     <string name="notification_reply_button_accessibility">Απάντηση</string>
     <string name="notification_title">Σφάλμα σύνδεσης για τον λογαριασμό %1$s</string>
@@ -1759,7 +1755,6 @@
     <string name="zen_mode_feature_name">Μην ενοχλείτε</string>
     <string name="zen_mode_forever">Μέχρι την απενεργοποίηση</string>
     <string name="zen_mode_forever_dnd">Μέχρι να απενεργοποιήσετε \"Μην ενοχλείτε\"</string>
-    <string name="zen_mode_rule_name_combination">%1$s / %2$s</string>
     <string name="zen_mode_until">Έως τις %1$s</string>
     <string name="zen_upgrade_notification_content">Πατήστε για να ελέγξετε το περιεχόμενο που έχει αποκλειστεί.</string>
     <string name="zen_upgrade_notification_title">Η λειτουργία \"Μην ενοχλείτε\" άλλαξε</string>
