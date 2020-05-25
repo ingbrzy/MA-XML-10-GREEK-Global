@@ -181,9 +181,6 @@
     <string name="bugreport_in_power">Συντόμευση αναφοράς σφαλμάτων</string>
     <string name="bugreport_in_power_summary">Εμφάνιση κουμπιού στο μενού ενεργοποίησης για τη λήψη αναφοράς σφαλμάτων</string>
     <string name="button_convert_fbe">Διαγραφή και μετατροπή…</string>
-    <string name="callFailed_simError">Σφάλμα κάρτας SIM</string>
-    <string name="can_not_dial_vt_while_voice_prompt">Δεν είναι δυνατή η πραγματοποίηση βιντεοκλήσης κατά τη διάρκεια φωνητικής κλήσης</string>
-    <string name="can_not_dial_while_vt_prompt">Δεν είναι δυνατή η κλήση κατά την διάρκεια βιντεοκλήσης</string>
     <string name="cancel">Ακύρωση</string>
     <string name="cant_call_due_to_no_supported_service">Δεν είναι δυνατή η πραγματοποίηση της κλήσης, επειδή δεν υπάρχουν λογαριασμοί κλήσεων που υποστηρίζουν κλήσεις αυτού του τύπου.</string>
     <string name="cant_call_due_to_ongoing_call">Αδυναμία πραγματοποίησης κλήσης. %1$s άλλη κλήση σε εξέλιξη.</string>
@@ -203,7 +200,6 @@
     <string name="charge_length_format">Πριν από %1$s</string>
     <string name="choose_profile">Επιλογή προφίλ</string>
     <string name="clear_adb_keys">Ανάκληση εξ/σεων εντ/σμού σφ/των USB</string>
-    <string name="close">Απενεργοποίηση</string>
     <string name="confirm_enable_oem_unlock_text">ΠΡΟΕΙΔΟΠΟΙΗΣΗ: Οι λειτουργίες προστασίας συσκευής δεν θα λειτουργούν σε αυτήν τη συσκευή, όταν είναι ενεργοποιημένη αυτή η ρύθμιση.</string>
     <string name="confirm_enable_oem_unlock_title">Να επιτρέπεται το ξεκλείδωμα OEM;</string>
     <string name="connected_via_app">Συνδέθηκε μέσω %1$s</string>
@@ -254,8 +250,6 @@
     <string name="development_settings_not_available">Οι επιλογές για προγραμματιστές δεν είναι διαθέσιμες για αυτόν το χρήστη</string>
     <string name="development_settings_summary">Ορισμός επιλογών για ανάπτυξη εφαρμογής</string>
     <string name="development_settings_title">Επιλογές για προγραμματιστές</string>
-    <string name="dial_conference_fail_prompt">Δεν μπορεί να γίνει άμεση κλήση συνδιάσκεψης επειδή το τρέχον δίκτυο δεν υποστηρίζει VoLTE.</string>
-    <string name="dial_vt_fail_prompt">Το τρέχον δίκτυο δεν υποστηρίζει VoLTE. Αλλαγή σε απλή κλήση;</string>
     <string name="direct_boot_unaware_dialog_message">Σημείωση: Μετά από μια επανεκκίνηση, δεν είναι δυνατή η έναρξη αυτής της συσκευής προτού ξεκλειδώσετε το τηλέφωνό σας</string>
     <string name="disable_overlays">Απενεργ. επικαλύψεων HW</string>
     <string name="disable_overlays_summary">Να γίνεται πάντα χρήση του GPU για σύνθεση οθόνης</string>
@@ -300,9 +294,6 @@
     <string name="inactive_app_active_summary">Ενεργό. Πατήστε για εναλλαγή.</string>
     <string name="inactive_app_inactive_summary">Ανενεργό. Πατήστε για εναλλαγή.</string>
     <string name="inactive_apps_title">Εφαρμογές σε κατάσταση αναμονής</string>
-    <string name="incall_error_call_failed">Η κλήση δεν πραγματοποιήθηκε.</string>
-    <string name="incall_error_power_off">Απενεργοποίηση Λειτουργίας πτήσης για την πραγματοποίηση κλήσης.</string>
-    <string name="incall_error_supp_service_unknown">Αυτή η υπηρεσία δεν υποστηρίζεται.</string>
     <string name="install_other_apps">Εγκατ. άγνωστων εφ.</string>
     <string name="keep_screen_on">Παραμονή σε λειτουργία</string>
     <string name="keep_screen_on_summary">Η οθόνη δεν θα μεταβαίνει ποτέ σε κατάσταση αδράνειας κατά τη φόρτιση</string>
@@ -318,7 +309,6 @@
     <string name="managed_user_title">Όλες οι εφαρμ. εργασίας</string>
     <string name="media_category">Μέσα</string>
     <string name="media_transfer_this_device_name">Αυτή η συσκευή</string>
-    <string name="missedcall_notification_public_version_title">Τηλέφωνο</string>
     <string name="mobile_data_always_on">Πάντα ενεργά δεδομένα κινητής τηλεφωνίας</string>
     <string name="mobile_data_always_on_summary">Τα δεδομένα κινητής τηλεφωνίας να διατηρούνται πάντα ενεργά, ακόμα και όταν είναι ενεργό το Wi-Fi (για γρήγορη εναλλαγή δικτύου).</string>
     <string name="mock_location_app">Επιλογή εφ/γής τεχνητής τοπ/σίας</string>
@@ -353,7 +343,6 @@
     <string name="no_vm_number_msg">Δεν έχει αποθηκευτεί αριθμός τηλεφωνητή στην κάρτα SIM.</string>
     <string name="non_primary_user">Μόνο ο κάτοχος συσκευής μπορεί να δει και να διαχειριστεί αποκλεισμένους αριθμούς.</string>
     <string name="not_set">Δεν έχει οριστεί</string>
-    <string name="notification_AllMissedCallTitle">Όλες οι αναπάντητες κλήσεις</string>
     <string name="notification_channel_call_blocking">Φραγή κλήσεων</string>
     <string name="notification_channel_incoming_call">Εισερχόμενες κλήσεις</string>
     <string name="notification_channel_missed_call">Αναπάντητες κλήσεις</string>
@@ -362,7 +351,6 @@
     <string name="notification_missedCallTicker">Αναπάντητη κλήση από %s</string>
     <string name="notification_missedCallTitle">Αναπάντητη κλήση</string>
     <string name="notification_missedCall_call_back">Επιστροφή κλήσης</string>
-    <string name="notification_missedCall_call_back_miui">Κλήση</string>
     <string name="notification_missedCall_message">Μήνυμα</string>
     <string name="notification_missedCallsMsg">%s αναπάντητες κλήσεις</string>
     <string name="notification_missedCallsTitle">Αναπάντητες κλήσεις</string>
@@ -419,6 +407,7 @@
     <string name="private_dns_mode_provider">Όνομα κεντρικού υπολογιστή παρόχου DNS</string>
     <string name="private_dns_mode_provider_failure">Δεν ήταν δυνατή η σύνδεση</string>
     <string name="private_dns_mode_provider_hostname_hint">Όνομα κεντρικού υπολογιστή του παρόχου DNS</string>
+    <string name="process_kernel_label">Λειτουργικό σύστημα Android</string>
     <string name="remaining_length_format">Απομένουν %1$s</string>
     <string name="respond_via_sms_canned_response_1">Δεν μπορώ να μιλήσω τώρα. Τι έγινε;</string>
     <string name="respond_via_sms_canned_response_2">Θα σας καλέσω σε λίγο.</string>
@@ -546,9 +535,6 @@
     <string name="v7_preference_on">ΕΝΕΡΓΗ</string>
     <string name="verify_apps_over_usb_summary">Έλεγχος εφαρμογών που έχουν εγκατασταθεί μέσω ADB/ADT για επιβλαβή συμπεριφορά.</string>
     <string name="verify_apps_over_usb_title">Επαλήθευση εφαρμογών μέσω USB</string>
-    <string name="voice_dial_out">Φωνητική κλήση</string>
-    <string name="voice_report_incoming_call">Εισερχόμενη κλήση</string>
-    <string name="voice_report_unknown_num">Άγνωστος αριθμός</string>
     <string name="vpn_settings_not_available">"Οι ρυθμίσεις VPN δεν είναι διαθέσιμες γι' αυτόν το χρήστη"</string>
     <string name="wait_for_debugger">Περιμένετε το εργαλείο εντοπισμού σφαλμάτων</string>
     <string name="wait_for_debugger_summary">Αναμονή εφαρμογής για να συνδεθεί ο εντοπισμός σφαλμάτων</string>

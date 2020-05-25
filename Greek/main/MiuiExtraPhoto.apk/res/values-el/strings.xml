@@ -1,8 +1,18 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <string name="extra_photo_common_save_fail">Αδυναμία αποθήκευσης</string>
     <string name="extra_photo_common_saving">Γίνεται αποθήκευση…</string>
-    <string name="motion_photo_re_pick_title">Επιλογή καλύτερης φωτογραφίας</string>
+    <string name="motion_photo_cancel">Ακύρωση</string>
+    <string name="motion_photo_re_pick_title">Ζωντανή φωτογραφία</string>
+    <string name="motion_photo_save_fail">Αδυναμία αποθήκευσης</string>
+    <string name="motion_photo_save_gif">Αποθήκευση ως GIF</string>
+    <string name="motion_photo_save_gif_ing">Γίνεται αποθήκευση GIF…</string>
+    <string name="motion_photo_save_image">Αποθήκευση της καλύτερης εικόνας</string>
+    <string name="motion_photo_save_image_ing">Γίνεται αποθήκευση της καλύτερης εικόνας…</string>
+    <string name="motion_photo_save_video">Αποθήκευση ως βίντεο</string>
+    <string name="motion_photo_save_video_ing">Γίνεται αποθήκευση βίντεο…</string>
     <string name="motion_photo_toast_default">Προεπιλογή</string>
+    <string name="motion_photo_toast_long_press_play">Πατήστε και κρατήστε τη φωτογραφία για αναπαραγωγή</string>
     <string name="motion_photo_toast_suggest">Προτεινόμενα</string>
     <string name="refocus_discard_confirm_message">Αποθήκευση αλλαγών;</string>
     <string name="refocus_discard_negative_btn">Διαγραφή</string>

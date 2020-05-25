@@ -4,6 +4,14 @@
         <item quantity="other">%d ημέρες</item>
         <item quantity="one">%d ημέρα</item>
     </plurals>
+    <plurals name="steady_on_screen_notification_summary">
+        <item quantity="other">Χρησιμοποιείτε τη συσκευή σας %d λεπτά χωρίς σιακοπές</item>
+        <item quantity="one">Χρησιμοποιείτε τη συσκευή σας %d λεπτό χωρίς διακοπές</item>
+    </plurals>
+    <plurals name="steady_on_screen_time_pick">
+        <item quantity="other">%d λεπτά</item>
+        <item quantity="one">%d λεπτό</item>
+    </plurals>
     <plurals name="trend_from_last_several_day_equal">
         <item quantity="other">Ο χρόνος χρήσης οθόνης σήμερα ισούται με τον ημερήσιο μέσο όρο %d</item>
         <item quantity="one">Ο χρόνος χρήσης οθόνης σήμερα ισούται με τον ημερήσιο μέσο όρο %d</item>
@@ -23,6 +31,26 @@
     <plurals name="usage_days">
         <item quantity="other">%d ημέρες</item>
         <item quantity="one">%d ημέρα</item>
+    </plurals>
+    <plurals name="usage_new_home_avg_unlockc">
+        <item quantity="other">%.2f φορές την ημέρα κατά μέσο όρο</item>
+        <item quantity="one">%.2f φορά την ημέρα κατά μέσο όρο</item>
+    </plurals>
+    <plurals name="usage_new_home_total_unlocks">
+        <item quantity="other">Ξεκλειδώθηκε %d φορές</item>
+        <item quantity="one">Ξεκλειδώθηκε %d φορά</item>
+    </plurals>
+    <plurals name="usage_new_home_total_week_unlocks">
+        <item quantity="other">Ξεκλειδώθηκε %d φορές</item>
+        <item quantity="one">Ξεκλειδώθηκε %d φορά</item>
+    </plurals>
+    <plurals name="usage_remain_about_hour">
+        <item quantity="other">≈%s ώρες</item>
+        <item quantity="one">≈%s ώρα</item>
+    </plurals>
+    <plurals name="usage_remain_about_miunte">
+        <item quantity="other">≈%s λεπτά</item>
+        <item quantity="one">≈%s λεπτό</item>
     </plurals>
     <plurals name="usage_state_device_explain_today">
         <item quantity="other">Ξεκλειδώθηκε %d φορές</item>
@@ -87,6 +115,14 @@
     <plurals name="usage_state_work_day_minute">
         <item quantity="other">Καθημερινές: %d λεπτά</item>
         <item quantity="one">Καθημερινές: %d λεπτό</item>
+    </plurals>
+    <plurals name="usage_stats_remain_hour">
+        <item quantity="other">%s ώρες</item>
+        <item quantity="one">%s ώρα</item>
+    </plurals>
+    <plurals name="usage_stats_remain_miunte">
+        <item quantity="other">%s λεπτά</item>
+        <item quantity="one">%s λεπτό</item>
     </plurals>
     <plurals name="usagestats_device_notification_des_hour">
         <item quantity="other">" ώρες"</item>

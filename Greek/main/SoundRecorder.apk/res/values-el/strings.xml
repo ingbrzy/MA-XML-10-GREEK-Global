@@ -27,6 +27,7 @@
     <string name="abc_shareactionprovider_share_with">Κοινοποίηση σε</string>
     <string name="abc_shareactionprovider_share_with_application">Κοινοποίηση στην εφαρμογή %s</string>
     <string name="abc_toolbar_collapse_description">Σύμπτυξη</string>
+    <string name="agree_description">Να επιτρέπεται αυτή η εφαρμογή να συνδεθεί στο ίντερνετ για έχετε τη δυνατότητα να χρησιμοποιείτε όλες τις λειτουργίες της.</string>
     <string name="alert_message_clear_records">Διαγραφή επιλεγμένων ηχογραφήσεων;</string>
     <string name="alert_message_delete_local_record">Διαγραφή αυτής της εγγραφής;</string>
     <string name="alert_message_delete_record">Με τη διαγραφή της ηχογράφησης από τη συσκευή σας, αυτή η ηχογράφηση θα διαγραφεί επίσης και από το Xiaomi Cloud. Διαγραφή τώρα;</string>
@@ -48,6 +49,7 @@
     <string name="cloud_status_full_dialog_msg">Ο αποθηκευτικός χώρος του cloud σας είναι πλήρης, αδυναμία συγχρονισμού ηχογραφήσεων. Αναβαθμίστε τον λογαριασμό σας για να αποκτήσετε περισσότερο αποθηκευτικό χώρο.</string>
     <string name="cloud_status_full_dialog_ok">Αναβάθμιση</string>
     <string name="cloud_status_full_dialog_title">Ο αποθηκευτικός χώρος του Mi Cloud είναι πλήρης</string>
+    <string name="copy">Αντιγραφή</string>
     <string name="data_connection_body">Εάν χρησιμοποιήσετε δεδομένα κινητής τηλεφωνίας για την λήψη του αρχείου θα αυξηθεί η χρήση δεδομένων σας. Εάν ξεπεράσετε το όριο του πλάνου χρήσης δεδομένων σας ο πάροχός σας θα σας επιφέρει πρόσθετες χρεώσεις.</string>
     <string name="data_connection_button_text">ΟΚ</string>
     <string name="data_connection_title">Προειδοποίηση χρήσης δεδομένων</string>
@@ -88,6 +90,7 @@
     <string name="error_filename_too_long">Το όνομα αρχείου είναι πολύ μεγάλο.</string>
     <string name="error_sdcard_access">Αδυναμία πρόσβασης στην κάρτα SD</string>
     <string name="error_sdcard_unmounted">Εισαγωγή κάρτας SD τώρα</string>
+    <string name="expand_button_title">Σύνθετες</string>
     <string name="export_to_note">Εξαγωγή</string>
     <string name="head_set_tip_dialog_msg">Αποσυνδέστε τα ακουστικά σας για δυνατότητα ηχογράφησης μουσικής με συγκεκριμένες προεπιλογές (π.χ., Μουσική, Φωνή).</string>
     <string name="head_set_tip_dialog_ok">Κατάλαβα</string>
@@ -122,6 +125,7 @@
     <string name="network_unavailable_tip">Συνδεθείτε στο δίκτυο και προσπαθήστε ξανά.</string>
     <string name="new_record_name">Νέα ηχογράφηση</string>
     <string name="no_file">Κενό</string>
+    <string name="not_set">Δεν έχει οριστεί</string>
     <string name="notification_message_all_paused">Αναμονή για Wi-Fi σύνδεση.</string>
     <string name="notification_playback">Γίνεται αναπαραγωγή…</string>
     <string name="notification_recording">Γίνεται καταγραφή…</string>
@@ -164,6 +168,7 @@
     <string name="pay_error_unknown">Άγνωστο σφάλμα</string>
     <string name="playback_delete_records">Διαγραφή ηχογράφησης</string>
     <string name="playback_share_records">Κοινοποίηση ηχογράφησης</string>
+    <string name="preference_copied">Το \"%1$s\" αντιγράφηκε στο πρόχειρο.</string>
     <string name="preference_enable_earpiece_summary">Χρήση δέκτη ηχείου για εξωτερική αναπαραγωγή</string>
     <string name="preference_enable_earpiece_title">Χρήση δέκτη για αναπαραγωγή ήχου</string>
     <string name="preference_led_indicator">Ειδοποιήσεις οθόνης κλειδώματος</string>
@@ -292,6 +297,7 @@
     <string name="status_bar_notification_info_overflow">999+</string>
     <string name="status_bar_recording">Γίνεται εγγραφή…</string>
     <string name="status_bar_recording_pause">Ηχογράφηση διακόπηκε</string>
+    <string name="summary_collapsed_preference_list">%1$s, %2$s</string>
     <string name="text_btn_backward_3_seconds">3 δευτερόλεπτα πίσω</string>
     <string name="text_btn_complete">Διακοπή</string>
     <string name="text_btn_forward_3_seconds">3 δευτερόλεπτα εμπρός</string>
@@ -314,6 +320,8 @@
     <string name="toast_max_record_time">%1$s έχει δυνατότητα εγγραφής για περίπου %2$s</string>
     <string name="toast_uninstall_fileexplorer">Η Διαχείριση Αρχείων δεν έχει εγκατασταθεί</string>
     <string name="usage_description">Γίνεται μεταγραφή ήχου και συγχρονισμός αντικειμένων με το cloud</string>
+    <string name="v7_preference_off">ΑΝΕΝΕΡΓΗ</string>
+    <string name="v7_preference_on">ΕΝΕΡΓΗ</string>
     <string name="webview_check_network">Ρυθμίσεις δικτύου</string>
     <string name="webview_data_error">Παρουσιάσθηκε σφάλμα</string>
     <string name="webview_locating_fail">Αδυναμία εντοπισμού τοποθεσίας σας</string>

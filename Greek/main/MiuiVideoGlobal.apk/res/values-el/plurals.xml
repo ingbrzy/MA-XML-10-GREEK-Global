@@ -28,6 +28,10 @@
         <item quantity="other">Στο περιεχόμενό σας υπάρχουν αντικείμενα (%1$s) που παραβιάζουν τους όρους της κοινότητάς μας. Ο λογαριασμός σας τέθηκε σε αναστολή για %2$d ημέρες έως %3$s.</item>
         <item quantity="one">Στο περιεχόμενό σας υπάρχουν αντικείμενα (%1$s) που παραβιάζουν τους όρους της κοινότητάς μας. Ο λογαριασμός σας τέθηκε σε αναστολή για %2$d ημέρα έως %3$s.</item>
     </plurals>
+    <plurals name="notification_close_tip">
+        <item quantity="other">Αυτό το στοιχείο θα απενεργοποιηθεί για %s ημέρες</item>
+        <item quantity="one">Αυτό το στοιχείο θα απενεργοποιηθεί για %s ημέρα</item>
+    </plurals>
     <plurals name="ovp_detail_v_video_count">
         <item quantity="other">%d βίντεο</item>
         <item quantity="one">%d βίντεο</item>

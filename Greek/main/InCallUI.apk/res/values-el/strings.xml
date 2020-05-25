@@ -1,5 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <string name="ai_assistant">Έξυπνες κλήσεις</string>
+    <string name="ai_assistant_not_installed">Πρώτα εγκαταστήστε τον Βοηθό AI Call</string>
     <string name="antispam_local_marked">Έγινε μαρκάρισμα τοπικά</string>
     <string name="antispam_notification_title">Άγνωστος αριθμός</string>
     <string name="antispam_provider">Αναγνωρίστηκε από %s</string>
@@ -50,14 +52,10 @@
     <string name="can_not_use">Αδυναμία χρήσης</string>
     <string name="cancel">Ακύρωση</string>
     <string name="card_title_answering">Απάντηση κλήσης</string>
-    <string name="card_title_answering_time_out">Αδυναμία απάντησης κλήσης, προσπαθήστε ξανά.</string>
     <string name="card_title_call_ended">"Η κλήση τερματίστηκε "</string>
     <string name="card_title_conf_call">Κλήση συνδιάσκεψης</string>
     <string name="card_title_dialing">Γίνεται κλήση</string>
     <string name="card_title_hanging_up">"Γίνεται τερματισμός "</string>
-    <string name="card_title_hanging_up_fail">Αδυναμία τερματισμού κλήσης, προσπαθήστε ξανά.</string>
-    <string name="card_title_hanging_up_restart">Αδυναμία τερματισμού κλήσης. Επανεκκινήστε την συσκευή σας.</string>
-    <string name="card_title_hanging_up_weak_signal">Ασθενές σήμα κινητού δικτύου. Η κλήση θα τερματιστεί…</string>
     <string name="card_title_in_call">Σε κλήση</string>
     <string name="card_title_in_call_short">Σε κλήση</string>
     <string name="card_title_in_video">Βίντεο</string>
@@ -117,6 +115,8 @@
     <string name="dialpad_zero">0</string>
     <string name="do_not_support_video_calls_by_remote">Δεν υποστηρίζονται βιντεοκλήσεις στην άλλη συσκευή</string>
     <string name="emergency_call_dialog_number_for_display">Αριθμός έκτακτης ανάγκης</string>
+    <string name="enter_ai_assistant">Χρήση</string>
+    <string name="enter_ai_assistant_tip">Εάν δεν σας βολεύει να μιλάτε, μπορείτε να χρησιμοποιήσετε τον Βοηθό AI Call για μετατροπή των μηνυμάτων σας σε ομιλία κατά τη διάρκεια αυτής της κλήσης. Χρήση του Βοηθού AI Call;</string>
     <string name="inCallLabel">Τηλέφωνο</string>
     <string name="incall_bubble_hangup_click_hint">Πατήστε ξανά για επιστροφή στην κλήση</string>
     <string name="incall_call_type_label_sip">Κλήση διαδικτύου</string>

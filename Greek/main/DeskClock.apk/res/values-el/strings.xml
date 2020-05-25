@@ -4,8 +4,8 @@
     <string name="abc_action_bar_up_description">Πλοήγηση προς τα επάνω</string>
     <string name="abc_action_menu_overflow_description">Περισσότερες επιλογές</string>
     <string name="abc_action_mode_done">Τέλος</string>
-    <string name="abc_activity_chooser_view_see_all">Προβολή όλων</string>
-    <string name="abc_activitychooserview_choose_application">Επιλέξτε κάποια εφαρμογή</string>
+    <string name="abc_activity_chooser_view_see_all">Εμφάνιση όλων</string>
+    <string name="abc_activitychooserview_choose_application">Επιλέξτε μια εφαρμογή</string>
     <string name="abc_capital_off">ΑΠΕΝΕΡΓΟΠΟΙΗΣΗ</string>
     <string name="abc_capital_on">ΕΝΕΡΓΟΠΟΙΗΣΗ</string>
     <string name="abc_menu_alt_shortcut_label">Alt+</string>
@@ -24,12 +24,13 @@
     <string name="abc_searchview_description_search">Αναζήτηση</string>
     <string name="abc_searchview_description_submit">Υποβολή ερωτήματος</string>
     <string name="abc_searchview_description_voice">Φωνητική αναζήτηση</string>
-    <string name="abc_shareactionprovider_share_with">Κοινή χρήση με</string>
-    <string name="abc_shareactionprovider_share_with_application">Κοινή χρήση με %s</string>
+    <string name="abc_shareactionprovider_share_with">Κοινοποίηση σε</string>
+    <string name="abc_shareactionprovider_share_with_application">Κοινοποίηση στην εφαρμογή %s</string>
     <string name="abc_toolbar_collapse_description">Σύμπτυξη</string>
-    <string name="search_menu_title">Αναζήτηση</string>
     <string name="add_alarm">Προσθήκη ξυπνητηριού</string>
     <string name="add_clock">Προσθήκη ρολογιού</string>
+    <string name="add_common_timer">Προσθήκη χρονοδιακόπτη</string>
+    <string name="add_timer">Συχνό χρονόμετρο</string>
     <string name="add_timezone_title">Προσθήκη ζώνης ώρας</string>
     <string name="agree">Συμφωνώ</string>
     <string name="alarm_alert_alert_silenced">Ο συναγερμός σίγασε μετά από %1$s.</string>
@@ -58,6 +59,7 @@
     <string name="alert_ringtone">Ήχος κλήσης αφύπνισης</string>
     <string name="alert_volume">Ένταση ήχου κλήσης</string>
     <string name="alert_volume_summary">Ορίστε την ένταση του ήχου κλήσης για αφυπνίσεις και χρονόμετρα</string>
+    <string name="already_exist">Αυτός ο χρονοδιακόπτης υπάρχει ήδη</string>
     <string name="analog_gadget">Αναλογικό ρολόι</string>
     <string name="app_label">Ρολόι</string>
     <string name="auto_silence_never">Ποτέ</string>
@@ -98,12 +100,14 @@
     <string name="channel_name_timer">Αντίστροφη μέτρηση</string>
     <string name="check_theme_app_install">Βεβαιωθείτε ότι η εφαρμογή Θέματα είναι εγκατεστημένο στη συσκευή σας.</string>
     <string name="check_voice_assist_app_version">Ενημερώστε το Mi AI στην τελευταία του έκδοση.</string>
+    <string name="city_time_contrast_desc">Πατήστε για σύγκριση ώρας σε διαφορετικές πόλεις</string>
     <string name="clock_bg_button_setting_summary_common">Επιλέξτε χρώμα παρασκηνίου για την εφαρμογή Ρολόι</string>
     <string name="clock_bg_button_setting_summary_follow_sys">Θα χρησιμοποιείται το μαύρο ως χρώμα παρασκηνίου κάθε φορά που κάνετε εναλλαγή σε Σκοτεινή λειτουργία</string>
     <string name="clock_bg_button_setting_title">Χρώμα παρασκηνίου</string>
     <string name="close">Κλείσιμο</string>
     <string name="close_alarm">Απενεργοποίηση</string>
     <string name="common_settings">Ρυθμίσεις</string>
+    <string name="common_timer_selector">Επιλογή χρονοδιακόπτη</string>
     <string name="confirm">Επιβεβαίωση</string>
     <string name="confirm_abort">Απόρριψη</string>
     <string name="content_desc_keep_screen">Πλήκτρο \"Διατήρηση οθόνης ενεργής\"</string>
@@ -111,6 +115,8 @@
     <string name="continue_step">Επόμενο</string>
     <string name="control_set_alarm">Ορισμός ξυπνητηριού</string>
     <string name="control_set_alarm_with_existing">Ορίστηκε ξυπνητήρι: %s</string>
+    <string name="copy">Αντιγραφή</string>
+    <string name="current_stopwatch_time">Τρέχων χρονισμός</string>
     <string name="day_concat">", "</string>
     <string name="default_alarm_alert">Προεπιλεγμένος ήχος ξυπνητηριού</string>
     <string name="default_alarm_title">Προεπιλεγμένος ήχος κλήσης</string>
@@ -146,6 +152,7 @@
     <string name="edit_systemtime">Επεξεργασία ώρας συστήματος</string>
     <string name="edit_systemtime_setting_summary">Ημερομηνία, ώρα, και Διπλότυπο ρολόι</string>
     <string name="every_day">Κάθε ημέρα</string>
+    <string name="expand_button_title">Σύνθετες</string>
     <string name="expired_timers_dismissed">Επιτυχής απόρριψη χρονοδιακόπτη</string>
     <string name="force_touch_add_alarm">Προσθήκη ξυπνητηριού</string>
     <string name="force_touch_enter_stopwatch">Χρονόμετρο</string>
@@ -239,13 +246,13 @@
     <string name="module_weather_ringtone_introduce_global">Η Ειδοποίηση καιρού επιλέγει διαφορετικούς ήχους κλήσης σύμφωνα με τις τρέχουσες καιρικές συνθήκες.</string>
     <string name="module_weather_ringtone_update_data">Η Ειδοποίηση καιρού έρχεται με μουσική υπόκρουση και καλύτερες φωνητικές ανακοινώσεις. Το Ρολόι πρέπει να πραγματοποιήσει λήψη ≈30MB ήχου για να λειτουργήσει. Λήψη τώρα;</string>
     <string name="module_weather_ringtone_update_success">Η Ειδοποίηση καιρού τώρα έρχεται με μουσική υπόκρουση και καλύτερες φωνητικές ανακοινώσεις. Μπορείτε να δημιουργήσετε νέο ξυπνητήρι για να δοκιμάσετε αυτή τη λειτουργία.</string>
-    <string name="module_week_ringtone_download_data">Η εφαρμογή Nature alarm παράγει διαφορετικούς ήχους φύσης ανάλογα με την ημερομηνία. Το Ρολόι πρέπει να πραγματοποιήσει λήψη ≈30MB ήχου για να λειτουργεί. Λήψη τώρα;</string>
-    <string name="module_week_ringtone_download_data_privacy">&lt;Data>Η εφαρμογή Nature alarm παράγει διαφορετικούς ήχους φύσης ανάλογα με την ημερομηνία. Το Ρολόι πρέπει να συνδεθεί στο Ίντερνετ για να πραγματοποιήσει λήψη ≈30MB ήχου. Πριν χρησιμοποιήσετε το Ρολόι, πρέπει επίσης να διαβάσετε και να συμφωνήσετε με τη &lt;a href=\"%1$s\">Συμφωνία Χρήστη&lt;/a> και την &lt;a href=\"%2$s\">Πολιτική απορρήτου&lt;/a>. Αποδοχή;&lt;/Data></string>
-    <string name="module_week_ringtone_download_wifi">Η εφαρμογή Nature alarm παράγει διαφορετικούς ήχους φύσης ανάλογα με την ημερομηνία. Το Ρολόι πρέπει να πραγματοποιήσει λήψη ήχου για να λειτουργεί. Λήψη τώρα;</string>
-    <string name="module_week_ringtone_download_wifi_privacy">&lt;Data>Η εφαρμογή Nature alarm παράγει διαφορετικούς ήχους φύσης ανάλογα με την ημερομηνία. Το Ρολόι πρέπει να συνδεθεί στο Ίντερνετ για να πραγματοποιήσει λήψη ήχου. Πριν χρησιμοποιήσετε το Ρολόι, πρέπει επίσης να διαβάσετε και να συμφωνήσετε με τη &lt;a href=\"%1$s\">Συμφωνία Χρήστη&lt;/a> και την &lt;a href=\"%2$s\">Πολιτική απορρήτου&lt;/a>. Αποδοχή;&lt;/Data></string>
-    <string name="module_week_ringtone_introduce">Η εφαρμογή Nature alarm παράγει διαφορετικούς ήχους φύσης ανάλογα με την ημερομηνία.</string>
-    <string name="module_week_ringtone_update_data">Η εφαρμογή Nature alarm παράγει διαφορετικούς ήχους φύσης ανάλογα με την ημερομηνία. Το Ρολόι πρέπει να πραγματοποιήσει λήψη ≈30MB ήχου για να λειτουργεί. Λήψη τώρα;</string>
-    <string name="module_week_ringtone_update_success">Η εφαρμογή Nature alarm παράγει διαφορετικούς ήχους φύσης ανάλογα με την ημερομηνία. Μπορείτε να δημιουργήσετε νέο ξυπνητήρι για να δοκιμάσετε αυτή τη λειτουργία.</string>
+    <string name="module_week_ringtone_download_data">Το Ξυπνητήρι με ήχους φύσης παίζει διαφορετικούς ήχους ανάλογα με την ημερομηνία. Το Ρολόι πρέπει να πραγματοποιήσει λήψη ≈30MB ήχου για να λειτουργήσει. Λήψη τώρα;</string>
+    <string name="module_week_ringtone_download_data_privacy">&lt;Data>Το Ξυπνητήρι με ήχους φύσης παίζει διαφορετικούς ήχους ανάλογα με την ημερομηνία. Το Ρολόι πρέπει να πραγματοποιήσει λήψη ≈30MB ήχου για να λειτουργήσει. Πριν χρησιμοποιήσετε το Ρολόι, πρέπει επίσης να διαβάσετε και να συμφωνήσετε με τη &lt;a href=\"%1$s\">Συμφωνία Χρήστη&lt;/a> και την &lt;a href=\"%2$s\">Πολιτική Απορρήτου&lt;/a>. Αποδοχή;&lt;/Data></string>
+    <string name="module_week_ringtone_download_wifi">Το Ξυπνητήρι με ήχους φύσης παίζει διαφορετικούς ήχους ανάλογα με την ημερομηνία. Το Ρολόι πρέπει να πραγματοποιήσει λήψη ήχου για να λειτουργήσει. Λήψη τώρα;</string>
+    <string name="module_week_ringtone_download_wifi_privacy">&lt;Data>Το Ξυπνητήρι με ήχους φύσης παίζει διάφορους ήχους ανάλογα με την ημερομηνία. Το Ρολόι πρέπει να συνδεθεί στο ίντερνετ και να πραγματοποιήσει λήψη ήχου. Πριν χρησιμοποιήσετε το Ρολόι, πρέπει επίσης να διαβάσετε και να συμφωνήσετε με τη &lt;a href=\"%1$s\">Συμφωνία Χρήστη&lt;/a> και την &lt;a href=\"%2$s\">Πολιτική Απορρήτου&lt;/a>. Αποδοχή;&lt;/Data></string>
+    <string name="module_week_ringtone_introduce">Το Ξυπνητήρι με ήχους φύσης παίζει διαφορετικούς ήχους ανάλογα με την ημερομηνία.</string>
+    <string name="module_week_ringtone_update_data">Το Ξυπνητήρι με ήχους φύσης παίζει διαφορετικούς ήχους ανάλογα με την ημερομηνία. Το Ρολόι πρέπει να πραγματοποιήσει λήψη ≈30MB ήχου για να λειτουργήσει. Λήψη τώρα;</string>
+    <string name="module_week_ringtone_update_success">Το Ξυπνητήρι με ήχους φύσης παίζει διαφορετικούς ήχους ανάλογα με την ημερομηνία. Μπορείτε να δημιουργήσετε νέο ξυπνητήρι για να δοκιμάσετε αυτή τη λειτουργία.</string>
     <string name="module_white_noise_download_data">Το ρολόι απαιτεί τη λήψη αρχείων ήχου για τους χρονοδιακόπτες θορύβων περιβάλλοντος. Απαιτούνται ≈30MB των δεδομένων κινητής τηλεφωνίας σας για τη λήψη αυτή. Λήψη τώρα;</string>
     <string name="module_white_noise_download_data_privacy">&lt;Data>Για να πραγματοποιήσετε λήψη αρχείων ήχου για τους χρονοδιακόπτες θορύβου περιβάλλοντος (≈30MB) και για να σας παρέχουμε εξατομικευμένες υπηρεσίες, το Ρολόι πρέπει να συνδεθεί στο διαδίκτυο. Επίσης, πριν χρησιμοποιήσετε το Ρολόι, πρέπει να διαβάσετε και να συμφωνήσετε με τη &lt;a href=\"%1$s\">Συμφωνία Χρήστη&lt;/a> και την &lt;a href=\"%2$s\">Πολιτική Απορρήτου&lt;/a>. Αυτή τη στιγμή χρησιμοποιείτε δεδομένα κινητής τηλεφωνίας. Αποδοχή;&lt;/Data></string>
     <string name="module_white_noise_download_wifi">Το ρολόι απαιτεί τη λήψη αρχείων ήχου για τους χρονοδιακόπτες θορύβων περιβάλλοντος. Λήψη τώρα;</string>
@@ -263,6 +270,7 @@
     <string name="no_alarm_setting">Δεν υπάρχουν συναγερμοί εδώ</string>
     <string name="no_worldclock">Δεν υπάρχουν ρολόγια εδώ</string>
     <string name="normal_settings">Γενικές ρυθμίσεις</string>
+    <string name="not_set">Δεν έχει οριστεί</string>
     <string name="not_update">Όχι τώρα</string>
     <string name="oneshot_alarm">Διαγραφή μετά την ενεργοποίηση</string>
     <string name="open_keep_screen">Η οθόνη θα παραμείνει ενεργή</string>
@@ -272,8 +280,10 @@
     <string name="pause">Παύση</string>
     <string name="percentage_sign">%</string>
     <string name="personal_recommend">Εξατομικευμένες πρότασεις περιεχομένων</string>
+    <string name="preference_copied">Το \"%1$s\" αντιγράφηκε στο πρόχειρο.</string>
     <string name="privacy_policy">Πολιτική Απορρήτου</string>
     <string name="privacy_policy_title">Πολιτική Απορρήτου</string>
+    <string name="reach_upper_limit">Αδυναμία προσθήκης περισσότερων χρονοδιακοπτών</string>
     <string name="remind_ringtone">Ήχος κλήσης</string>
     <string name="repeat_count">Φορές</string>
     <string name="repeat_count_value_five">5</string>
@@ -286,12 +296,13 @@
     <string name="ringtone_all">Όλοι οι ήχοι κλήσης</string>
     <string name="ringtone_dew">Πρωινή δροσιά</string>
     <string name="ringtone_digital_timer">Χρονόμετρο</string>
-    <string name="ringtone_dream">Daydream</string>
+    <string name="ringtone_dream">Ονειροπόληση</string>
     <string name="ringtone_firefly">Πυγολαμπίδες</string>
     <string name="ringtone_other">Περισσότεροι ήχοι κλήσεις</string>
     <string name="ringtone_weather">Ειδοποίηση καιρού</string>
-    <string name="ringtone_week">Nature alarm</string>
+    <string name="ringtone_week">Ξυπνητήρι με ήχους φύσης</string>
     <string name="search_alarm_clock_keywords">Συναγερμός;Ξυπνητήρι?</string>
+    <string name="search_menu_title">Αναζήτηση</string>
     <string name="search_stopwatch_keywords">Χρονόμετρο</string>
     <string name="search_timer_keywords">Χρονοδιακόπτης</string>
     <string name="search_worldclock_keywords">Ώρα;Παγκόσμια ώρα;Ρολόι</string>
@@ -314,9 +325,11 @@
     <string name="shutdown_alarm_enable_summary">Ο συναγερμός θα ηχήσει εάν είναι ρυθμισμένος για τουλάχιστον 10 λεπτά μετά την απενεργοποίηση της συσκευής σας</string>
     <string name="shutdown_alarm_title">Απενεργοποίηση ξυπνητηριού</string>
     <string name="silent_alarm_summary">Αθόρυβο</string>
+    <string name="skip_alarm_date_format">%1$s (%2$s)</string>
     <string name="skip_alarm_once_hint">Απενεργοποίηση μία φορά σε %s</string>
     <string name="sleep_analysis">Στατιστικά</string>
-    <string name="sleep_date_provider_text">Τα δεδομένα ύπνου παρέχονται από τη Mi Health</string>
+    <string name="sleep_analysis_chart_date_format">dd/MM</string>
+    <string name="sleep_date_provider_text">Τα δεδομένα ύπνου παρέχονται από τη Xiaomi Health</string>
     <string name="sleep_duration">"Διάρκεια ύπνου: "</string>
     <string name="sleep_duration_avg_text_diff">Μέση διάρκεια ύπνου (%1$s-%2$s)</string>
     <string name="sleep_duration_desc">Κοιμήθηκε %1$s %2$s</string>
@@ -331,8 +344,8 @@
     <string name="sleep_notification_title">Ώρα να πάτε για ύπνο</string>
     <string name="sleep_record">Παρακολούθηση ύπνου</string>
     <string name="sleep_record_desc">Ενεργοποίηση για έναρξη εγγραφής δεδομένων ύπνου</string>
-    <string name="sleep_record_desc_detailed">Η λειτουργία παρακολούθησης ύπνου παρέχεται από τη Mi Health. Όταν ενεργοποιηθεί, η Mi Health θα καταγράφει αυτόματα τον ύπνο σας βάσει της χρήσης του τηλεφώνου, των στατιστικών στοιχείων δραστηριότητας, καθώς και βάσει της ώρας που θα ορίσετε ως ώρα για ύπνο και ξύπνημα, και θα σας δείξει τα στοιχεία σε μορφή γραφημάτων. Για πιο ακριβή παρακολούθηση του ύπνου σας, επιτρέψτε στη Mi Health να εκκινείται αυτόματα. Όλα τα σχετικά δεδομένα θα αποθηκεύονται τοπικά στη συσκευή σας, που σας επιτρέπει να τα διαχειρίζεστε εύκολα.</string>
-    <string name="sleep_record_no_data">Τα στατιστικά σας στοιχεία θα εμφανιστούν εδώ αφού η Mi Health αναλύσει αρκετά δεδομένα</string>
+    <string name="sleep_record_desc_detailed">Η λειτουργία παρακολούθησης ύπνου παρέχεται από τη Xiaomi Health. Όταν ενεργοποιηθεί, η Xiaomi Health θα καταγράφει αυτόματα τον ύπνο σας βάσει της χρήσης του τηλεφώνου, των στατιστικών στοιχείων δραστηριότητας, καθώς και βάσει της ώρας που θα ορίσετε ως ώρα για ύπνο και ξύπνημα, και θα σας δείξει τα στοιχεία σε μορφή γραφημάτων. Για πιο ακριβή παρακολούθηση του ύπνου σας, επιτρέψτε στη Xiaomi Health να εκκινείται αυτόματα. Όλα τα σχετικά δεδομένα θα αποθηκεύονται τοπικά στη συσκευή σας, που σας επιτρέπει να τα διαχειρίζεστε εύκολα.</string>
+    <string name="sleep_record_no_data">Τα στατιστικά σας στοιχεία θα εμφανιστούν εδώ αφού η Xiaomi Health αναλύσει αρκετά δεδομένα</string>
     <string name="sleep_remind">Υπενθύμιση της ώρας του ύπνου</string>
     <string name="sleep_time">Αποκοιμηθείτε</string>
     <string name="sleep_wake_time">%1$s-%2$s</string>
@@ -355,8 +368,15 @@
     <string name="status_bar_clock_date_time_format">H:mm:ss</string>
     <string name="status_bar_clock_date_time_format_12">h:mm:ss aa</string>
     <string name="status_bar_clock_date_time_format_seconds_12">h:mm:ss</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
     <string name="stopwatch_lap_empty_text">Δεν υπάρχουν γύροι</string>
+    <string name="stopwatch_reset_notification">Έγινε επαναφορά του χρονοδιακόπτη</string>
+    <string name="stopwatch_running_notification">Χρονόμετρο</string>
     <string name="stopwatch_title">Χρονόμετρο</string>
+    <string name="summary_collapsed_preference_list">%1$s, %2$s</string>
+    <string name="symbol_colon">:</string>
+    <string name="system_permission_agree_desc">Να επιτρέπεται αυτή η εφαρμογή να συνδεθεί στο ίντερνετ για πρόσβαση σε όλες τις λειτουργίες της.</string>
+    <string name="system_permission_main_purpose">Προβολή χρόνου, ρύθμιση ξυπνητηριών και χρονοδιακοπτών, χρήση χρονομέτρου</string>
     <string name="system_permission_purpose">Δημιουργία ξυπνητηριών εργάσιμων ημερών και ρύθμιση προσαρμοσμένων ήχων κλήσης</string>
     <string name="system_time_setting">Ρυθμίσεις</string>
     <string name="system_time_settings_category_title">Ρυθμίσεις ώρας</string>
@@ -394,6 +414,7 @@
     <string name="timer_end_time_format_today">HH:mm</string>
     <string name="timer_got_it">OK</string>
     <string name="timer_is_paused">Ο χρονοδιακόπτης είναι σε παύση</string>
+    <string name="timer_item_delete">Διαγραφή</string>
     <string name="timer_item_duration_display">%1$d λεπτά %2$d δευτερόλεπτα</string>
     <string name="timer_item_label_hint">Όνομα αντίστροφης μέτρησης</string>
     <string name="timer_item_picker_hour">Ω</string>
@@ -414,12 +435,14 @@
     <string name="turn_off_this_repeat_alarm">Απενεργοποίηση του επαναλαμβανόμενου ξυπνητηριού</string>
     <string name="upcoming_alarm">Επόμενο ξυπνητήρι: %s</string>
     <string name="upcoming_alarm_hint">Μπορείτε να απενεργοποιήσετε αυτό το ξυπνητήρι τώρα</string>
-    <string name="update_health_app">Ενημερώστε τη Mi Health</string>
-    <string name="update_health_app_desc">Η λειτουργία παρακολούθησης ύπνου παρέχεται από τη Mi Health. Ενημερώστε τη Mi Health στην τελευταία έκδοση για πρόσβαση στις σχετικές λειτουργίες.</string>
+    <string name="update_health_app">Ενημερώστε τη Xiaomi Health</string>
+    <string name="update_health_app_desc">Η λειτουργία παρακολούθησης ύπνου παρέχεται από τη Xiaomi Health. Ενημερώστε τη Xiaomi Health στην τελευταία έκδοση για πρόσβαση στις σχετικές λειτουργίες.</string>
     <string name="update_it">Ενημέρωση</string>
     <string name="update_notification_info">Γίνεται ενημέρωση δεδομένων στο παρασκήνιο…</string>
     <string name="usage_start">Έναρξη</string>
     <string name="user_agreement">Συμφωνία Χρήστη</string>
+    <string name="v7_preference_off">ΑΝΕΝΕΡΓΗ</string>
+    <string name="v7_preference_on">ΕΝΕΡΓΗ</string>
     <string name="vibrate_pref_summary">Δόνηση κατά την αφύπνιση</string>
     <string name="vibrate_when_ringing">Δόνηση κατά το κουδούνισμα</string>
     <string name="volume_button_setting_desc">Ανάθεση λειτουργιών για τα κουμπιά Ενεργοποίησης και +/- Έντασης</string>
@@ -429,15 +452,19 @@
     <string name="wake_up_alert_desc">Αναπαραγωγή του ήχου ξυπνητηριού την ώρα ενεργοποίησης</string>
     <string name="wake_up_ringtone">Ήχος κλήσης ξυπνητηριού</string>
     <string name="wake_up_time">Ξυπνήστε</string>
+    <string name="white_noise_selector">Επιλογή ήχου</string>
     <string name="workday_alarm_clock">Ξυπνητήρι καθημερινής</string>
     <string name="worldclock_empty_text">Δεν υπάρχουν ρολόγια</string>
     <string name="worldclock_input_hint_text">Αναζήτηση για χώρα ή πόλη</string>
+    <string name="worldclock_local_time">Τοπική ώρα</string>
     <string name="worldclock_resident_city_text">Δεύτερο ρολόι: %s</string>
     <string name="worldclock_resident_city_text_detail">Το διπλότυπο ρολόι είναι ενεργό</string>
     <string name="worldclock_search_city">Επιλογή πόλης</string>
+    <string name="worldclock_second_time">Ώρα στο/στη %s</string>
     <string name="worldclock_title">Ρολόι</string>
     <string name="worldclock_world_time">Ζώνες ώρας</string>
     <string name="worldcolock_date_display_prefix">Τρέχουσα: </string>
+    <string name="worldcolock_time_date">dd/MM/yyyy</string>
     <string name="worldcolock_timezone_current">Τρέχουσα: %1$s</string>
     <string name="worldcolock_timezone_current_date">dd/ΜΜ/yyyy</string>
     <string name="worldcolock_timezone_date">dd MMM</string>

@@ -249,5 +249,5 @@
     <string name="toast_only_wifi_download">Συνδεθείτε σε Wi-Fi για λήψη αυτού του αντικειμένου</string>
     <string name="total_speedup">Ενίσχυση ταχύτητας (σύνολο)</string>
     <string name="version">Έκδοση %s</string>
-    <string name="security_ui_title">Security ads</string>
+    <string name="security_ui_title">Διαφημίσεις ασφαλείας</string>
 </resources>

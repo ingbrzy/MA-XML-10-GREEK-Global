@@ -83,6 +83,7 @@
 Άλλες αιτίες
 Συνδεθείτε στο i.mi.com και προσπαθήστε να ξεκλειδώσετε την συσκευή σας από εκεί."</string>
     <string name="unlock_help_title">Boήθεια ξεκλειδώματος:</string>
+    <string name="unlock_number">Κωδικός ξεκλειδώματος: %s</string>
     <string name="unlock_wrong_captcha">Ο κωδικός που εισαγάγατε είναι εσφαλμένος</string>
     <string name="unlocking">Γίνεται ενεργοποίηση…</string>
     <string name="verifing_account">Γίνεται επαλήθευση κωδικού…</string>

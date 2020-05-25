@@ -88,6 +88,10 @@
         <item quantity="other">%d ημέρες ακόμα</item>
         <item quantity="one">%d ημέρα ακόμα</item>
     </plurals>
+    <plurals name="bt_usable_device_title">
+        <item quantity="other">%d διαθέσιμες συσκευές</item>
+        <item quantity="one">%d διαθέσιμη συσκευή</item>
+    </plurals>
     <plurals name="connected_devices_number">
         <item quantity="other">%d συσκευές</item>
         <item quantity="one">%d συσκευή</item>
@@ -189,8 +193,8 @@
         <item quantity="one">Εισαγάγετε τουλάχιστον %d χαρακτήρα</item>
     </plurals>
     <plurals name="lockpassword_pin_fixed_length">
-        <item quantity="other">Το PIN πρέπει να έχει %d ψηφία</item>
-        <item quantity="one">Το PIN πρέπει να έχει %d ψηφίο</item>
+        <item quantity="other">Το PIN πρέπει να είναι %d ψηφία</item>
+        <item quantity="one">Το PIN πρέπει να είναι %d ψηφίο</item>
     </plurals>
     <plurals name="lockpassword_pin_too_long">
         <item quantity="other">Μπορείτε να εισαγάγετε μέχρι %d ψηφία</item>
@@ -303,6 +307,10 @@
     <plurals name="runtime_permissions_summary">
         <item quantity="other">Χορηγήθηκαν %1$d από %2$d άδειες</item>
         <item quantity="one">Χορηγήθηκε %1$d από %2$d άδεια</item>
+    </plurals>
+    <plurals name="saved_network_checked_num">
+        <item quantity="other">Επιλέχθηκαν %d στοιχεία</item>
+        <item quantity="one">Επιλέχθηκε %d στοιχείο</item>
     </plurals>
     <plurals name="seconds">
         <item quantity="other">%s δευτερόλεπτα</item>

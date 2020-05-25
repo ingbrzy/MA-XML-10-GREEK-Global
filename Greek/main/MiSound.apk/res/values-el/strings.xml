@@ -1,5 +1,32 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <string name="abc_action_bar_home_description">Πλοήγηση στην αρχική σελίδα</string>
+    <string name="abc_action_bar_up_description">Πλοήγηση προς τα επάνω</string>
+    <string name="abc_action_menu_overflow_description">Περισσότερες επιλογές</string>
+    <string name="abc_action_mode_done">Τέλος</string>
+    <string name="abc_activity_chooser_view_see_all">Εμφάνιση όλων</string>
+    <string name="abc_activitychooserview_choose_application">Επιλέξτε μια εφαρμογή</string>
+    <string name="abc_capital_off">ΑΠΕΝΕΡΓΟΠΟΙΗΣΗ</string>
+    <string name="abc_capital_on">ΕΝΕΡΓΟΠΟΙΗΣΗ</string>
+    <string name="abc_menu_alt_shortcut_label">Alt+</string>
+    <string name="abc_menu_ctrl_shortcut_label">Ctrl+</string>
+    <string name="abc_menu_delete_shortcut_label">delete</string>
+    <string name="abc_menu_enter_shortcut_label">enter</string>
+    <string name="abc_menu_function_shortcut_label">Function+</string>
+    <string name="abc_menu_meta_shortcut_label">Meta+</string>
+    <string name="abc_menu_shift_shortcut_label">Shift+</string>
+    <string name="abc_menu_space_shortcut_label">διάστημα</string>
+    <string name="abc_menu_sym_shortcut_label">Sym+</string>
+    <string name="abc_prepend_shortcut_label">Menu+</string>
+    <string name="abc_search_hint">Αναζήτηση…</string>
+    <string name="abc_searchview_description_clear">Διαγραφή ερωτήματος</string>
+    <string name="abc_searchview_description_query">Ερώτημα αναζήτησης</string>
+    <string name="abc_searchview_description_search">Αναζήτηση</string>
+    <string name="abc_searchview_description_submit">Υποβολή ερωτήματος</string>
+    <string name="abc_searchview_description_voice">Φωνητική αναζήτηση</string>
+    <string name="abc_shareactionprovider_share_with">Κοινοποίηση σε</string>
+    <string name="abc_shareactionprovider_share_with_application">Κοινοποίηση στην εφαρμογή %s</string>
+    <string name="abc_toolbar_collapse_description">Σύμπτυξη</string>
     <string name="add_sound">Προσθήκη προσαρμοσμένης προεπιλογής</string>
     <string name="app_name">Ακουστικά</string>
     <string name="apply_sound">Εφαρμογή</string>
@@ -7,6 +34,7 @@
     <string name="complete_dialog_button">Κατάλαβα</string>
     <string name="complete_dialog_message">Ολοκληρώσατε επιτυχώς αυτή τη δοκιμή.</string>
     <string name="complete_dialog_title">Αποτελέσματα δοκιμής</string>
+    <string name="copy">Αντιγραφή</string>
     <string name="customization_complete">Τέλος</string>
     <string name="customization_continue">Συνέχεια</string>
     <string name="customization_pause_tip">Τερματισμός δοκιμής τώρα; Συνδέστε τα ακουστικά για να συνεχίσετε.</string>
@@ -34,6 +62,7 @@
     <string name="eq_return">Επιστροφή</string>
     <string name="eq_rock">Ροκ</string>
     <string name="equalizer">Ισοσταθμιστής</string>
+    <string name="expand_button_title">Σύνθετες</string>
     <string name="first_note">Πραγματοποιήστε δοκιμή της ακουστικής σας αντίληψης για να προσαρμόσετε την ένταση αντίστοιχα.</string>
     <string name="four_note">Η δοκιμή θα διαρκέσει περίπου 3 λεπτά μέχρι να ολοκληρωθεί.</string>
     <string name="heard_no">Όχι</string>
@@ -125,16 +154,22 @@
     <string name="music_unsupport_effect_summary">Δεν υποστηρίζονται ακουστικά USB</string>
     <string name="music_upper_sixty_years">Άνω των 60 ετών</string>
     <string name="name">Όνομα</string>
+    <string name="not_set">Δεν έχει οριστεί</string>
     <string name="now_here">Και τώρα;</string>
     <string name="original_sound">Αναπαραγωγή πρωτότυπου ήχου</string>
     <string name="personal_sound">Αναπαραγωγή με την εφαρμοσμένη προεπιλογή</string>
+    <string name="preference_copied">Το \"%1$s\" αντιγράφηκε στο πρόχειρο.</string>
     <string name="retry_test">Έναρξη από την αρχή</string>
     <string name="save_and_apply">Αποθήκευση και εφαρμογή</string>
+    <string name="search_menu_title">Αναζήτηση</string>
     <string name="second_note">Τοποθετήστε τα ακουστικά σας.</string>
     <string name="sound_test_title">Δοκιμή ακουστικής αντίληψης</string>
     <string name="start_test_sound">Έναρξη δοκιμής</string>
     <string name="status_bar_notification_info_overflow">999+</string>
+    <string name="summary_collapsed_preference_list">%1$s, %2$s</string>
     <string name="sure_give_up_test">"Εάν τερματίσετε τη δοκιμή τώρα, την επόμενη φορά θα πρέπει να ξεκινήσετε από την αρχή. Τερματισμός παρ' όλα αυτά;"</string>
     <string name="sure_to_back">Απόρριψη αλλαγών τώρα;</string>
     <string name="third_note">Βρείτε ένα ήσυχο σημείο.</string>
+    <string name="v7_preference_off">ΑΝΕΝΕΡΓΗ</string>
+    <string name="v7_preference_on">ΕΝΕΡΓΗ</string>
 </resources>

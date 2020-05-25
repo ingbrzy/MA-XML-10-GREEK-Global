@@ -28,6 +28,14 @@
         <item quantity="other">Έγινε λήψη %d ηχογραφήσεων</item>
         <item quantity="one">Έγινε λήψη %d ηχογράφησης</item>
     </plurals>
+    <plurals name="search_alll_records_hint">
+        <item quantity="other">Αναζήτηση ανάμεσα σε %d ηχογραφήσεις</item>
+        <item quantity="one">Αναζήτηση ανάμεσα σε %d ηχογράφηση</item>
+    </plurals>
+    <plurals name="search_call_records_hint">
+        <item quantity="other">Αναζήτηση ανάμεσα σε %d ηχογραφημένες κλήσεις</item>
+        <item quantity="one">Αναζήτηση ανάμεσα σε %d ηχογραφημένη κλήση</item>
+    </plurals>
     <plurals name="search_result">
         <item quantity="other">Βρέθηκαν %d ηχογραφήσεις</item>
         <item quantity="one">Βρέθηκε %d ηχογράφηση</item>

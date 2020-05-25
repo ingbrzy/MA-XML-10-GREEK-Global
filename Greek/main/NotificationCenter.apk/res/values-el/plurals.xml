@@ -1,24 +1,24 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <plurals name="last_sent_time_day">
-        <item quantity="other">%d ημέρες πριν</item>
-        <item quantity="one">%d ημέρα πριν</item>
+        <item quantity="other">Πριν από %d ημέρες</item>
+        <item quantity="one">Πριν από %d ημέρα</item>
     </plurals>
     <plurals name="last_sent_time_hour">
-        <item quantity="other">%d ώρες πριν</item>
-        <item quantity="one">%d ώρα πριν</item>
+        <item quantity="other">Πριν από %d ώρες</item>
+        <item quantity="one">Πριν από %d ώρα</item>
     </plurals>
     <plurals name="last_sent_time_minute">
-        <item quantity="other">%d λεπτά πριν</item>
-        <item quantity="one">%d λεπτό πριν</item>
+        <item quantity="other">Πριν από %d λεπτά</item>
+        <item quantity="one">Πριν από %d λεπτό</item>
     </plurals>
     <plurals name="last_sent_time_month">
-        <item quantity="other">%d μήνες πριν</item>
-        <item quantity="one">%d μήνα πριν</item>
+        <item quantity="other">Πριν από %d μήνες</item>
+        <item quantity="one">Πριν από %d μήνα</item>
     </plurals>
     <plurals name="last_sent_time_week">
-        <item quantity="other">%d εβδομάδες πριν</item>
-        <item quantity="one">%d εβδομάδα πριν</item>
+        <item quantity="other">Πριν από %d εβδομάδες</item>
+        <item quantity="one">Πριν από %d εβδομάδα</item>
     </plurals>
     <plurals name="sent_frequency_per_day">
         <item quantity="other">%d ειδοποιήσεις την ημέρα</item>

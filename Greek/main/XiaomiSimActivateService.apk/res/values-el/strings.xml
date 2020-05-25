@@ -18,8 +18,8 @@
     <string name="activate_feature_verify_mx_token">Επαλήθευση Mi λογαριασμού</string>
     <string name="activate_feature_voip">Mi Message VoIP</string>
     <string name="activate_history_canceled_overview">Ακυρώθηκε η ενεργοποίηση κάρτας SIM. Η ενεργοποίηση έγινε από \"%1$s\".</string>
-    <string name="activate_history_multisim_canceled_overview">Η ενεργοποίηση της κάρτας SIM %2$d ακυρώθηκε. Η ενεργοποίηση έγινε από %1$s\".</string>
-    <string name="activate_history_multisim_success_overview">Ενεργοποιήθηκε η κάρτα SIM %2$d επιτυχώς. Η ενεργοποίηση έγινε από %1$s\".</string>
+    <string name="activate_history_multisim_canceled_overview">Η ενεργοποίηση της κάρτας SIM %2$d ακυρώθηκε. Η ενεργοποίηση έγινε από \"%1$s\".</string>
+    <string name="activate_history_multisim_success_overview">Ενεργοποιήθηκε η κάρτα SIM %2$d επιτυχώς. Η ενεργοποίηση έγινε από \"%1$s\".</string>
     <string name="activate_history_sms">Στάλθηκε SMS κατά τη διάρκεια της ενεργοποίησης.</string>
     <string name="activate_history_success_overview">Επιτυχής ενεργοποίηση κάρτας SIM. Η ενεργοποίηση έγινε από \"%1$s\".</string>
     <string name="activate_history_title">Ενεργοποίηση κάρτας SIM</string>

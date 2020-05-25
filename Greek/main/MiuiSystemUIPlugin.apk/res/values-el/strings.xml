@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="already_in_small_freeform">Ορισμένες εφαρμογές είναι ανοιχτές σε αναδυόμενα παράθυρα</string>
+    <string name="no_avaliable_application">Δεν υπάρχουν διαθέσιμες εφαρμογές</string>
+    <string name="quick_settings_hang_label">Αναδυόμενα παράθυρα</string>
+    <string name="quick_settings_hang_on">Τώρα μπορείτε να χρησιμοποιήσετε αναδυόμενα παράθυρα</string>
+    <string name="quick_settings_scanner_label">Σαρωτής</string>
+</resources>

@@ -51,8 +51,10 @@
     <string name="cannot_get_location">--</string>
     <string name="compass_settings">Ρυθμίσεις</string>
     <string name="copy">Αντιγραφή</string>
+    <string name="cta_agree_desc">Επιτρέψτε σε αυτή την εφαρμογή να συνδέεται στο ίντερνετ και παραχωρήστε προαιρετικές άδειες για να μπορείτε να χρησιμοποιείτε όλες τις λειτουργίες της.</string>
     <string name="cta_v2_app_purpose">δείχνει κατευθύνσεις, συντεταγμένες, ατμοσφαιρική πίεση και τρέχον υψόμετρο</string>
     <string name="dialog_body_no_network">Συνδεθείτε με Wi-Fi ή κάντε ενεργοποίηση δεδομένων κινητής τηλεφωνίας.</string>
+    <string name="dialog_body_no_network_china">Connect to WLAN or turn on mobile data.</string>
     <string name="dialog_calibrat_altitude">Βαθμονόμηση…</string>
     <string name="dialog_title_no_network">Αδυναμία σύνδεσης στο δίκτυο</string>
     <string name="direction_east">Α</string>
@@ -86,8 +88,8 @@
     <string name="not_set">Δεν έχει οριστεί</string>
     <string name="open_perm_msg">Η πυξίδα χρειάζεται πρόσβαση σε πληροφορίες τοποθεσίας και στην κάμερα. Αυτό είναι απαραίτητο για προσδιορισμό συντεταγμένων και παροχή ζωντανών προεπισκοπήσεων. Αποδοχή;</string>
     <string name="open_perm_title">Απαιτούνται άδειες</string>
-    <string name="permission_camera_desc">Χρήση ασφαδιού</string>
-    <string name="permission_location_desc">Γίνεται προβολή συντεταγμένων και ατμοσφαιρικής πίεσης</string>
+    <string name="permission_camera_desc">Για προβολή αζιμούθιο στη ζωντανή προεπισκόπηση</string>
+    <string name="permission_location_desc">Για προβολή συντεταγμένων</string>
     <string name="preference_copied">Το \"%1$s\" αντιγράφηκε στο πρόχειρο.</string>
     <string name="preference_other">Άλλα</string>
     <string name="preference_privacy_title">Πολιτική Απορρήτου</string>

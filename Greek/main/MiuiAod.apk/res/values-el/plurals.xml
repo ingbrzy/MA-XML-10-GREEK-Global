@@ -4,4 +4,8 @@
         <item quantity="other">" %1$sώρες %2$s"</item>
         <item quantity="one">" %1$sώρα %2$s"</item>
     </plurals>
+    <plurals name="count_selected">
+        <item quantity="other">Επιλέχθηκαν %d στοιχεία</item>
+        <item quantity="one">Επιλέχθηκε %d στοιχείο</item>
+    </plurals>
 </resources>

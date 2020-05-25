@@ -19,11 +19,12 @@
     <string name="abc_shareactionprovider_share_with">Κοινή χρήση με</string>
     <string name="abc_shareactionprovider_share_with_application">Κοινή χρήση με %s</string>
     <string name="abc_toolbar_collapse_description">Σύμπτυξη</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
     <string name="passport_access_denied">Απορρίφθηκε η πρόσβαση</string>
     <string name="passport_account_hint_text">Διεύθυνση email, αριθμός τηλεφώνου ή ID Mi λογαριασμού</string>
     <string name="passport_account_identity_title">Επαληθεύστε την ταυτότητα σας</string>
     <string name="passport_account_label">Mi Λογαριασμός</string>
-    <string name="passport_account_name">"Λογαριασμός: %1$s "</string>
+    <string name="passport_account_name">Λογαριασμός: %1$s</string>
     <string name="passport_account_not_activated">Ο λογαριασμός δεν ενεργοποιήθηκε</string>
     <string name="passport_account_not_actived">Ο λογαριασμός σας δεν ενεργοποιήθηκε</string>
     <string name="passport_account_set_password">Ορισμός κωδικού</string>
