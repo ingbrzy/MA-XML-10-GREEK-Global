@@ -1,5 +1,41 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <plurals name="a_hour_ago">
+        <item quantity="other">1 ώρα πριν</item>
+        <item quantity="one">1 ώρα πριν</item>
+    </plurals>
+    <plurals name="abbrev_a_hour_ago">
+        <item quantity="other">1 ώρα πριν</item>
+        <item quantity="one">1 ώρα πριν</item>
+    </plurals>
+    <plurals name="abbrev_half_hour_ago">
+        <item quantity="other">Μισή ώρα πριν</item>
+        <item quantity="one">Μισή ώρα πριν</item>
+    </plurals>
+    <plurals name="abbrev_in_a_hour">
+        <item quantity="other">Σε 1 ώρα</item>
+        <item quantity="one">Σε 1 ώρα</item>
+    </plurals>
+    <plurals name="abbrev_in_half_hour">
+        <item quantity="other">Σε μισή ώρα</item>
+        <item quantity="one">Σε μισή ώρα</item>
+    </plurals>
+    <plurals name="abbrev_in_less_than_one_minute">
+        <item quantity="other">Αμέσως</item>
+        <item quantity="one">Αμέσως</item>
+    </plurals>
+    <plurals name="abbrev_in_num_minutes">
+        <item quantity="other">σε %d λεπτά</item>
+        <item quantity="one">σε 1 λεπτό</item>
+    </plurals>
+    <plurals name="abbrev_less_than_one_minute_ago">
+        <item quantity="other">Μόλις τώρα</item>
+        <item quantity="one">Μόλις τώρα</item>
+    </plurals>
+    <plurals name="abbrev_num_minutes_ago">
+        <item quantity="other">%d λεπτά πριν</item>
+        <item quantity="one">1 λεπτό πριν</item>
+    </plurals>
     <plurals name="count_duration_standard">
         <item quantity="other">%1$d-%2$d times</item>
         <item quantity="one">%1$d-%2$d time</item>
@@ -60,13 +96,37 @@
         <item quantity="other">%1$d steps</item>
         <item quantity="one">%1$d step</item>
     </plurals>
+    <plurals name="half_hour_ago">
+        <item quantity="other">Μισή ώρα πριν</item>
+        <item quantity="one">Μισή ώρα πριν</item>
+    </plurals>
     <plurals name="hours">
         <item quantity="other">%1$d hrs</item>
         <item quantity="one">%1$d hr</item>
     </plurals>
+    <plurals name="in_a_hour">
+        <item quantity="other">Σε 1 ώρα</item>
+        <item quantity="one">Σε 1 ώρα</item>
+    </plurals>
+    <plurals name="in_half_hour">
+        <item quantity="other">Σε μισή ώρα</item>
+        <item quantity="one">Σε μισή ώρα</item>
+    </plurals>
+    <plurals name="in_less_than_one_minute">
+        <item quantity="other">Αμέσως</item>
+        <item quantity="one">Αμέσως</item>
+    </plurals>
+    <plurals name="in_num_minutes">
+        <item quantity="other">σε %d λεπτά</item>
+        <item quantity="one">σε 1 λεπτό</item>
+    </plurals>
     <plurals name="length_unit_meter_format">
         <item quantity="other">%1$d μέτρα</item>
         <item quantity="one">%1$d μέτρο</item>
+    </plurals>
+    <plurals name="less_than_one_minute_ago">
+        <item quantity="other">Μόλις τώρα</item>
+        <item quantity="one">Μόλις τώρα</item>
     </plurals>
     <plurals name="menstruation_sum_days">
         <item quantity="other">Εμμηνόρροια %1$d ημερών</item>
@@ -91,6 +151,10 @@
     <plurals name="minutes_ago">
         <item quantity="other">%1$d mins ago</item>
         <item quantity="one">%1$d min ago</item>
+    </plurals>
+    <plurals name="num_minutes_ago">
+        <item quantity="other">%d λεπτά πριν</item>
+        <item quantity="one">1 λεπτό πριν</item>
     </plurals>
     <plurals name="sleep_goal_by_hour">
         <item quantity="other">Goal: %1$d hours</item>

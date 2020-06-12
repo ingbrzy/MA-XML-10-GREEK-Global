@@ -140,8 +140,11 @@
     <string name="first_enter_custom_folder_hint">Μπορείτε να μετονομάσετε ή να διαγράψετε αρχεία εδώ</string>
     <string name="float_todo_guide_cancel">Ακύρωση</string>
     <string name="float_todo_guide_message">Η συντόμευση Αρχικής οθόνης σας επιτρέπει τη σάρωση από την άκρη της οθόνης για εμφάνιση και δημιουργία εργασιών. Δημιουργία της συντόμευσης τώρα;</string>
+    <string name="float_todo_guide_message_v2">Η συντόμευση χειρονομίας σας επιτρέπει να προβάλετε και να δημιουργείτε εργασίες με σάρωση από την άκρη της οθόνης. Μπορείτε να ενεργοποιήσετε ή απενεργοποιήσετε αυτή τη λειτουργία στις Ρυθμίσεις.</string>
     <string name="float_todo_guide_ok">Δημιουργία</string>
+    <string name="float_todo_guide_ok_v2">Ενεργοποίηση</string>
     <string name="float_todo_guide_title">Συντόμευση Αρχικής οθόνης</string>
+    <string name="float_todo_guide_title_v2">Συντόμευση χειρονομίας</string>
     <string name="fmt_chinese_date">N e</string>
     <string name="fmt_date_day">dd</string>
     <string name="fmt_date_long_month">MMMM</string>
@@ -294,6 +297,7 @@
     <string name="note_sort_way">Επιλέξτε πως θέλετε να ταξινομήσετε τις σημειώσεις σας</string>
     <string name="notealert_enter">Άνοιγμα σημείωσης</string>
     <string name="notealert_ok">Απόρριψη</string>
+    <string name="notelist_string_info">…</string>
     <string name="notification_content_add_todo_from_other_app">Προσθέσατε νέα εργασία. Πατήστε για προβολή.</string>
     <string name="notify_alarm_title">Υπενθύμιση σημείωσης</string>
     <string name="permdesc_accessNote">Κακόβουλες εφαρμογές μπορεί να έχουν πρόσβαση στα προσωπικά σας δεδομένα.</string>
@@ -313,7 +317,9 @@
     <string name="pref_desc_skip_confirm_for_quick_delete">Σύρετε προς τα πάνω με 2 δάκτυλα για διαγραφή σημειώσεων χωρίς επιβεβαίωση</string>
     <string name="pref_desc_todo_float_mode">Σύρετε από την άκρη της οθόνης για άνοιγμα της εργαλειοθήκης εργασιών</string>
     <string name="pref_remind_type_summary">Αναπαραγωγή ήχου υπενθύμισης σε Αθόρυβη λειτουργία</string>
+    <string name="pref_remind_type_summary_new">Αγνοήστε την Αθόρυβη λειτουργία και συνεχίστε την αναπαραγωγή ήχου μέχρι να απενεργοποιηθεί το ξυπνητήρι</string>
     <string name="pref_remind_type_title">Παράβλεψη Αθόρυβης λειτουργίας</string>
+    <string name="pref_remind_type_title_new">Υπενθυμίσεις υψηλής προτεραιότητας</string>
     <string name="pref_title_cloud_trash_bin">Διαγραμμένες σημειώσεις στο cloud</string>
     <string name="pref_title_common">Πρόσθετες ρυθμίσεις</string>
     <string name="pref_title_font_size">Μέγεθος γραμματοσειράς</string>
@@ -473,6 +479,7 @@
     <string name="toast_reach_text_limit_truncate">Η σημείωση είναι πολύ μεγάλη. Ορισμένο κείμενο έχει κοπεί στο τέλος.</string>
     <string name="toast_refuse_to_record_when_in_call">Δεν μπορεί να χρησιμοποιηθεί αυτή η δυνατότητα κατά τη διάρκεια κλήσεων</string>
     <string name="toast_refuse_to_record_when_in_multi_window">Δεν μπορεί να χρησιμοποιηθεί αυτή η δυνατότητα με το Split screen</string>
+    <string name="toast_refuse_to_record_when_in_multi_window_new">Αδυναμία χρήσης αυτής της λειτουργίας σε Διαχωρισμό οθόνης ή αναδυόμενα παράθυρα</string>
     <string name="toast_refuse_to_use_contact">"Οι άδειες επαφών είναι περιορισμένες.
 Επιτρέψτε στις Σημειώσεις να διαβάζουν τις επαφές σας και να εντοπίζουν λογαριασμούς στη συσκευή σας."</string>
     <string name="toast_refuse_to_use_external_storage">"Οι άδειες αποθηκευτικού χώρου είναι περιορισμένες.
@@ -556,6 +563,7 @@
     <string name="toolbar_voice_description">Φωνή</string>
     <string name="trash_folder_name">Σκουπίδια</string>
     <string name="trash_folder_reminder">Οι σημειώσεις που διαγράφετε θα διαγραφούν μόνιμα σε 30 ημέρες.</string>
+    <string name="trash_folder_reminder_new">Notes are kept in the trash for 30 days before being permanently deleted</string>
     <string name="tuesday">Τρίτη</string>
     <string name="tuesday_short">Τρι</string>
     <string name="tuesday_shortest">Τρι</string>

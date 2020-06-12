@@ -27,6 +27,13 @@
     <string name="abc_shareactionprovider_share_with">Κοινοποίηση σε</string>
     <string name="abc_shareactionprovider_share_with_application">Κοινοποίηση στην εφαρμογή %s</string>
     <string name="abc_toolbar_collapse_description">Σύμπτυξη</string>
+    <string name="accessibility_all_app_custom_category_finish">Done</string>
+    <string name="accessibility_all_app_custom_category_item_remove">Remove \"%1$s\" from categories</string>
+    <string name="accessibility_clear_search_bar_text">Clear search bar</string>
+    <string name="accessibility_enter_all_app_mode">Open App drawer</string>
+    <string name="accessibility_enter_all_app_settings">Open App drawer settings</string>
+    <string name="accessibility_menu_item_smallwindow_disable">Η εφαρμογή αυτή δεν υποστηρίζει αναδυόμενα παράθυρα</string>
+    <string name="accessibility_menu_item_smallwindow_enable">Η εφαρμογή αυτή υποστηρίζει αναδυόμενα παράθυρα</string>
     <string name="accessibility_menu_item_split_disable">Η εφαρμογή δεν υποστηρίζει Διαχωρισμό οθόνης.</string>
     <string name="accessibility_menu_item_split_enable">Η εφαρμογή υποστηρίζει Διαχωρισμό οθόνης</string>
     <string name="accessibility_recent_task_enter">Άνοιξε τα Πρόσφατα</string>
@@ -60,6 +67,7 @@
     <string name="all_apps_no_search_results">Αδυναμία εύρεσης αποτελεσμάτων</string>
     <string name="all_apps_search_app">Αναζήτηση εφαρμογών</string>
     <string name="all_apps_search_market_message">Ον-λάιν αναζήτηση</string>
+    <string name="all_apps_setting_classic_title">Κλασσικό</string>
     <string name="all_apps_setting_desktop_desc">Προβολή όλων των εγκατεστημένων εφαρμογών στην Αρχική οθόνη. Πατήστε παρατεταμένα το εικονίδιο μιας εφαρμογής για να δείτε τις διαθέσιμες συντομεύσεις, να διαχειριστείτε ή να απεγκαταστήσετε την εφαρμογή.</string>
     <string name="all_apps_setting_desktop_title">Κανονική</string>
     <string name="all_apps_setting_drawer_desc">Τοποθετήστε όλες τις εγκατεστημένες εφαρμογές στο Συρτάρι εφαρμογών που μπορεί να ανοίξει εάν σύρετε προς τα επάνω στην Αρχική οθόνη. Θα εξακολουθήσετε να βρίσκετε τις εφαρμογές που μετακινήσατε στην Αρχική οθόνη στο Συρτάρι εφαρμογών.</string>
@@ -141,6 +149,7 @@
     <string name="auto_add_app_shortcut">Τοποθέτηση νέων εφαρμογών στην Αρχική οθόνη</string>
     <string name="auto_delete_category_dialog_content">Οι τρέχουσες εφαρμογές θα αφαιρεθούν από αυτή την κατηγορία και η κατηγορία θα διαγραφεί. Διαγραφή αυτής της κατηγορίας τώρα;</string>
     <string name="auto_delete_category_dialog_title">Διαγραφή κατηγορίας</string>
+    <string name="back">Back</string>
     <string name="backup_fail">Αδυναμία δημιουργίας αντίγραφου ασφαλείας launcher</string>
     <string name="bad_wallpaper_source_prompt">Αδυναμία φόρτωσης ταπετσαρίας</string>
     <string name="buffering">Φόρτωση…</string>
@@ -165,6 +174,10 @@
     <string name="choose_wallpaper">Επιλογή ταπετσαρίας</string>
     <string name="chooser_wallpaper">Επιλογή νέας ταπετσαρίας</string>
     <string name="cloud_app_restore_title">Προς διεκπεραίωση</string>
+    <string name="common_home_search_delete">Γίνεται διαγραφή της γραμμής αναζήτησης της Αρχικής οθόνης</string>
+    <string name="common_home_search_delete_cancle">Ακύρωση</string>
+    <string name="common_home_search_delete_confirm">Διαγραφή</string>
+    <string name="common_home_search_delete_content">"Δεν θα έχετε τη δυνατότητα αναζήτησης στοιχείων χρησιμοποιώντας τη γραμμή αναζήτησης της Αρχικής οθόνης αφού τη διαγράψετε. Διαγραφή παρ' όλα αυτά;"</string>
     <string name="configure_wallpaper">Ρυθμίσεις</string>
     <string name="confirm_btn_label">OK</string>
     <string name="confirm_uninstall_dialog_contain_xspace_app_msg">Διπλότυπες εφαρμογές θα απεγκατασταθούν ταυτόχρονα με αυτές.</string>
@@ -490,8 +503,11 @@
     <string name="sort_by_not_defined">Αυτόματη ταξινόμηση</string>
     <string name="start_activity_failed">Αδυναμία έναρξης εκκινητή</string>
     <string name="starting_preset_app">Γίνεται έναρξη…</string>
-    <string name="status_bar_recent_memory_info1">%1$sB από %2$sB διαθέσιμα</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
+    <string name="status_bar_recent_memory_giga">%1$s GB</string>
+    <string name="status_bar_recent_memory_info1">%1$s από %2$s διαθέσιμα</string>
     <string name="status_bar_recent_memory_info2" />
+    <string name="status_bar_recent_memory_mega">%1$s MB</string>
     <string name="status_downloaded">Έγινε λήψη</string>
     <string name="status_downloading">Γίνεται λήψη</string>
     <string name="status_installing">Γίνεται εγκατάσταση</string>

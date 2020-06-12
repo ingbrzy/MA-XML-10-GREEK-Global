@@ -97,6 +97,7 @@
     <string name="cancel">Ακύρωση</string>
     <string name="channel_name_alarm">Ξυπνητήρι</string>
     <string name="channel_name_sleep">Ύπνος</string>
+    <string name="channel_name_stopwatch">Χρονόμετρο</string>
     <string name="channel_name_timer">Αντίστροφη μέτρηση</string>
     <string name="check_theme_app_install">Βεβαιωθείτε ότι η εφαρμογή Θέματα είναι εγκατεστημένο στη συσκευή σας.</string>
     <string name="check_voice_assist_app_version">Ενημερώστε το Mi AI στην τελευταία του έκδοση.</string>
@@ -151,7 +152,7 @@
     <string name="edit_label">Επεξεργασία ετικέτας αφύπνισης</string>
     <string name="edit_systemtime">Επεξεργασία ώρας συστήματος</string>
     <string name="edit_systemtime_setting_summary">Ημερομηνία, ώρα, και Διπλότυπο ρολόι</string>
-    <string name="every_day">Κάθε ημέρα</string>
+    <string name="every_day">Καθημερινά</string>
     <string name="expand_button_title">Σύνθετες</string>
     <string name="expired_timers_dismissed">Επιτυχής απόρριψη χρονοδιακόπτη</string>
     <string name="force_touch_add_alarm">Προσθήκη ξυπνητηριού</string>
@@ -325,6 +326,7 @@
     <string name="shutdown_alarm_enable_summary">Ο συναγερμός θα ηχήσει εάν είναι ρυθμισμένος για τουλάχιστον 10 λεπτά μετά την απενεργοποίηση της συσκευής σας</string>
     <string name="shutdown_alarm_title">Απενεργοποίηση ξυπνητηριού</string>
     <string name="silent_alarm_summary">Αθόρυβο</string>
+    <string name="skip_alarm_date_format">%1$s (%2$s)</string>
     <string name="skip_alarm_once_hint">Απενεργοποίηση μία φορά σε %s</string>
     <string name="sleep_analysis">Στατιστικά</string>
     <string name="sleep_analysis_chart_date_format">dd/MM</string>
@@ -367,11 +369,13 @@
     <string name="status_bar_clock_date_time_format">H:mm:ss</string>
     <string name="status_bar_clock_date_time_format_12">h:mm:ss aa</string>
     <string name="status_bar_clock_date_time_format_seconds_12">h:mm:ss</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
     <string name="stopwatch_lap_empty_text">Δεν υπάρχουν γύροι</string>
     <string name="stopwatch_reset_notification">Έγινε επαναφορά του χρονοδιακόπτη</string>
     <string name="stopwatch_running_notification">Χρονόμετρο</string>
     <string name="stopwatch_title">Χρονόμετρο</string>
     <string name="summary_collapsed_preference_list">%1$s, %2$s</string>
+    <string name="symbol_colon">:</string>
     <string name="system_permission_agree_desc">Να επιτρέπεται αυτή η εφαρμογή να συνδεθεί στο ίντερνετ για πρόσβαση σε όλες τις λειτουργίες της.</string>
     <string name="system_permission_main_purpose">Προβολή χρόνου, ρύθμιση ξυπνητηριών και χρονοδιακοπτών, χρήση χρονομέτρου</string>
     <string name="system_permission_purpose">Δημιουργία ξυπνητηριών εργάσιμων ημερών και ρύθμιση προσαρμοσμένων ήχων κλήσης</string>

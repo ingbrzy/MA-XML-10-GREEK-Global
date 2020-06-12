@@ -33,6 +33,8 @@
     <string name="alert_message_delete_record">Με τη διαγραφή της ηχογράφησης από τη συσκευή σας, αυτή η ηχογράφηση θα διαγραφεί επίσης και από το Xiaomi Cloud. Διαγραφή τώρα;</string>
     <string name="alert_message_delete_record_title">Διαγραφή εγγράφης;</string>
     <string name="app_name">Ηχογράφηση</string>
+    <string name="app_record">App recordings</string>
+    <string name="app_record_preference_title">App recordings</string>
     <string name="back">Πίσω</string>
     <string name="button_queue_for_wifi">Αναμονή</string>
     <string name="button_start_now">Λήψη</string>
@@ -237,6 +239,7 @@
     <string name="record_downloading_notification_count">Γίνεται λήψη %d</string>
     <string name="record_format_preference_title">Μορφή ηχογράφησης</string>
     <string name="record_list">Εγγραφές</string>
+    <string name="record_list_app">App recordings</string>
     <string name="record_list_call">Ηχογραφημένες κλήσεις</string>
     <string name="record_list_category_title_format">MMMM yyyy</string>
     <string name="record_list_cloud">Συγχρονισμένες εγγραφές</string>

@@ -118,6 +118,7 @@ dd MM"</string>
 συναρπαστικό θα συμβεί"</string>
     <string name="standard_clock_panel">Κανονικό</string>
     <string name="standard_style">Κανονικό</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
     <string name="summary">Για να μειώσετε την κατανάλωση ενέργειας, τα στοιχεία δεν θα εμφανίζονται όταν η συσκευή σας βρίσκεται σε σκοτεινό περιβάλλον για πολλή ώρα.</string>
     <string name="summary_collapsed_preference_list">%1$s, %2$s</string>
     <string name="temporary_style">Για 10 δευτερόλεπτα μετά το πάτημα</string>

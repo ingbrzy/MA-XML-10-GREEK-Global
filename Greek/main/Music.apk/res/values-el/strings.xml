@@ -128,6 +128,7 @@
     <string name="button_sort_by_date">Ταξινόμηση κατά ημερομηνία</string>
     <string name="button_sort_by_size">Ταξινόμηση κατά μέγεθος</string>
     <string name="button_wait_for_wifi">Περιμένετε</string>
+    <string name="buy_vip_skip_ad">Κατάργηση διαφημίσεων</string>
     <string name="cancel">Ακύρωση</string>
     <string name="cancel_running_download">Ακύρωση</string>
     <string name="cannot_download_to_sdcard_hint">Αδυναμία λήψης αντικειμένων στην κάρτα SD λόγω περιορισμών πνευματικών δικαιωμάτων. Αντί αυτού, τα στοιχεία θα ληφθούν σε εσωτερικό αποθηκευτικό χώρο.</string>
@@ -271,7 +272,9 @@
     <string name="download_method">Λήψη</string>
     <string name="download_no_application_title">Αδυναμία ανοίγματος αρχείου</string>
     <string name="download_paused_in_power_save_mode">Παύση λήψεων όταν η Εξοικονόμηση μπαταρίας είναι ενεργή</string>
+    <string name="download_percent">%d%%</string>
     <string name="download_processing">Γίνεται λήψη…</string>
+    <string name="download_progress">%d%%</string>
     <string name="download_quality">Ποιότητα λήψης</string>
     <string name="download_quality_summary">Πρόσθετες ρυθμίσεις για τραγούδια που κατεβάζετε</string>
     <string name="download_queued">Σε ουρά</string>
@@ -352,7 +355,9 @@
     <string name="exo_download_notification_channel_name">Λήψεις</string>
     <string name="exo_download_removing">Κατάργηση λήψεων</string>
     <string name="exo_item_list">%1$s, %2$s</string>
+    <string name="exo_track_bitrate">%1$.2f Mbps</string>
     <string name="exo_track_mono">Μονοφωνικό</string>
+    <string name="exo_track_resolution">%1$d × %2$d</string>
     <string name="exo_track_selection_auto">Αυτόματο</string>
     <string name="exo_track_selection_none">Κανένα</string>
     <string name="exo_track_selection_title_audio">Ήχος</string>
@@ -457,6 +462,46 @@
     <string name="is_scanning">Γίνεται έλεγχος χώρου αποθήκευσης…</string>
     <string name="is_scanning_support_online">"Γίνεται έλεγχος χώρου αποθήκευσης…
 (Ταυτόχρονα, έχετε δυνατότητα αναπαραγωγής online μουσικής)"</string>
+    <string name="joox_account_bind_mi_account">Προσθήκη Mi Λογαριασμού</string>
+    <string name="joox_account_cancel_login">Ακύρωση</string>
+    <string name="joox_account_continue_login">Σύνδεση</string>
+    <string name="joox_account_fans_center">Κέντρο οπαδών</string>
+    <string name="joox_account_login_conflict_message">Φαίνεται πως έχετε συνδεθεί σε άλλη συσκευή. Σύνδεση εδώ;</string>
+    <string name="joox_account_login_exception">Συνδεθείτε ξανά</string>
+    <string name="joox_account_multi_device_login">Πολλαπλές συσκευές</string>
+    <string name="joox_area_check_failed">Φαίνεται πως βρίσκεστε σε περιοχή στην οποία οι υπηρεσίες μας δεν είναι διαθέσιμες. Συνδεθείτε σε άλλο δίκτυο και εκκινήστε ξανά την εφαρμογή.</string>
+    <string name="joox_auth_button_acquire_vip_instantly">Αποκτήστε συνδρομή VIP</string>
+    <string name="joox_auth_button_login_to_acquire_vip">Συνδεθείτε για να αποκτήσετε συνδρομή VIP</string>
+    <string name="joox_auth_dialog_message">Σας προτείναμε κάποια τραγούδια. Αποκτήστε συνδρομή VIP για άρση περιορισμών.</string>
+    <string name="joox_auth_message_connect_network">Δεν έχετε συνδεθεί στον διακομιστή αρκετό καιρό. Συνδεθείτε στο δίκτυο για να έχετε τη δυνατότητα να αναπαράγετε τα τραγούδια που κατεβάσατε.</string>
+    <string name="joox_auth_message_content_for_vip_only">Αυτό το στοιχείο είναι διαθέσιμο μόνο για μέλη VIP</string>
+    <string name="joox_auth_message_content_offline">Οι υπηρεσίες οnline δεν διατίθενται αυτή τη στιγμή. Θα βελτιώσουμε μερικά πράγματα και θα αποκαταστήσουμε την πρόσβαση σύντομα. Παραμείνετε συντονισμένοι!</string>
+    <string name="joox_auth_message_login_status_expired">Η συνεδρία σύνδεσης έληξε. Συνδεθείτε ξανά.</string>
+    <string name="joox_auth_message_one_hour_limit_for_one_company">Μπορείτε να αναπαράγετε έως έξι τραγούδια της ίδιας δισκογραφικής εταιρείας κάθε ώρα. Προς το παρόν, ακούστε ορισμένα προτεινόμενα τραγούδια.</string>
+    <string name="joox_auth_message_recommend_for_you">Προτεινόμενα</string>
+    <string name="joox_auth_message_update_vip_to_change_playlist">Αποκτήστε συνδρομή VIP για επεξεργασία λιστών αναπαραγωγής.</string>
+    <string name="joox_auth_message_update_vip_to_download">Αποκτήστε συνδρομή VIP για να πραγματοποιήσετε λήψη</string>
+    <string name="joox_auth_message_update_vip_to_listen_offline">Η συνδρομή σας VIP έληξε. Τώρα μπορείτε να ακούτε τραγούδια online. Αποκτήστε συνδρομή VIP για να μπορείτε να κατεβάζετε τραγούδια</string>
+    <string name="joox_auth_message_update_vip_to_play_on_demand">Αδυναμία αναπαραγωγής αυτού του τραγουδιού λόγω περιορισμών πνευματικής ιδιοκτησίας. Δοκιμάστε την τυχαία αναπαραγωγή για να ακούσετε άλλα τραγούδια ή αποκτήστε συνδρομή VIP για να αναπαράγετε αυτό του τραγούδι.</string>
+    <string name="joox_auth_message_update_vip_to_seek_progress">Αδυναμία προσαρμογής προόδου αναπαραγωγής λόγω περιορισμών πνευματικής ιδιοκτησίας. Αποκτήστε συνδρομή VIP για άρση περιορισμών.</string>
+    <string name="joox_auth_message_update_vip_to_switch_songs">Αποκτήστε συνδρομή VIP για εναλλαγή μεταξύ τραγουδιών</string>
+    <string name="joox_auth_message_update_vip_to_use_function">Αποκτήστε συνδρομή VIP για να χρησιμοποιείτε αυτή τη λειτουργία</string>
+    <string name="joox_auth_title_download_song">Λήψη τραγουδιών</string>
+    <string name="joox_auth_title_login_again">Σύνδεση</string>
+    <string name="joox_auth_title_long_time_no_network">Φαίνεται πως δεν έχετε συνδεθεί στο διαδίκτυο για αρκετό διάστημα</string>
+    <string name="joox_auth_title_shuffle_play">Τυχαία</string>
+    <string name="joox_auth_title_vip_content">Περιεχόμενο VIP</string>
+    <string name="joox_auth_title_vip_expired">Η συνδρομή σας έληξε</string>
+    <string name="joox_auth_title_vip_function">Λειτουργίες VIP</string>
+    <string name="joox_download_title">Λήψεις JOOX</string>
+    <string name="joox_privacy_desc">Πολιτική Απορρήτου της JOOX (προαιρετικά)</string>
+    <string name="joox_privacy_tips_content">Διαβάστε και συμφωνήστε με την <a href="/link/click">Πολιτική Απορρήτου της JOOX</a> πριν χρησιμοποιήσετε τις υπηρεσίες online.</string>
+    <string name="joox_privacy_tips_title">Πολιτική Απορρήτου της JOOX</string>
+    <string name="joox_recommend_artist_title">Προτεινόμενοι καλλιτέχνες</string>
+    <string name="joox_recommend_playlist_title">Προτεινόμενες λίστες αναπαραγωγής</string>
+    <string name="joox_search_result_more">Περισσότερα</string>
+    <string name="joox_vip_check_to_pay">Αγορά</string>
+    <string name="joox_vip_expired_hint">Η συνδρομή σας VIP έληξε. Τα τραγούδια που κατεβάσατε από το JOOX θα εμφανίζονται μόνο στις λήψεις σας.</string>
     <string name="keep_queued_download">Διατήρηση</string>
     <string name="ktv_playlist">Λίστα αναπαραγωγής KTV</string>
     <string name="language_page_confirm">Επιβεβαίωση</string>
@@ -673,6 +718,7 @@
     <string name="priority_storage_summary">Αυτόματη λήψη στην εξωτερική κάρτα SD εφόσον είναι διαθέσιμη</string>
     <string name="privacy_desc">Πολιτική Απορρήτου (υποχρεωτικό)</string>
     <string name="privacy_policy">Πολιτική Απορρήτου</string>
+    <string name="privacy_policy_url">http://www.miui.com/res/doc/privacy.html?lang=el_GR</string>
     <string name="pro_member">Μέλος PRO</string>
     <string name="project_device">Mi Τηλέφωνο</string>
     <string name="prompt_grant_write_settings_permission">Να επιτρέπεται η αλλαγή ρυθμίσεων συστήματος</string>
@@ -801,12 +847,14 @@
     <string name="start_to_check_new_version">Γίνεται έλεγχος για ενημερώσεις…</string>
     <string name="start_to_download">Γίνεται λήψη…</string>
     <string name="start_to_play">Αναπαραγωγή</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
     <string name="storage_cloned_app">Χώρος αποθήκευσης για διπλότυπες εφαρμογές</string>
     <string name="storage_internal">Εσωτερικός χώρος αποθήκευσης</string>
     <string name="storage_sd_card">Κάρτα SD</string>
     <string name="storage_usb">Χώρος αποθήκευσης USB</string>
     <string name="streamloadingtext">Γίνεται σύνδεση σε %s</string>
     <string name="summary_collapsed_preference_list">%1$s, %2$s</string>
+    <string name="supplementary_songs">Πρόσθετα τραγούδια</string>
     <string name="switch_success">Επιτυχής εναλλαγή</string>
     <string name="tab_album">Άλμπουμ</string>
     <string name="tab_album_list">Άλμπουμ</string>
@@ -877,6 +925,7 @@
     <string name="upgrade_music_message">Οι ενημερώσεις είναι έτοιμες. Επανεκκινήστε για ενημέρωση.</string>
     <string name="upgrading_in_backstage">Γίνεται ενημέρωση στο παρασκήνιο…</string>
     <string name="user_agreement">Όροι Χρήσης</string>
+    <string name="user_agreement_url">http://www.miui.com/res/doc/eula.html?lang=el_GR</string>
     <string name="v7_preference_off">ΑΝΕΝΕΡΓΗ</string>
     <string name="v7_preference_on">ΕΝΕΡΓΗ</string>
     <string name="version_info">Έκδοση</string>
