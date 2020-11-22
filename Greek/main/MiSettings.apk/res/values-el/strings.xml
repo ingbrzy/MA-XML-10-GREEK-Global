@@ -30,7 +30,7 @@
     <string name="advanced_mode">Σύνθετες ρυθμίσεις</string>
     <string name="anti_flicker_mode">Anti-flicker</string>
     <string name="anti_flicker_mode_categroy">Λειτουργίες</string>
-    <string name="anti_flicker_mode_summary">Μείωση τρεμοπαίγματος σε συνθήκες χαμηλού φωτισμού για να μειώσετε την καταπόνηση των ματιών. Ορισμένα στοιχεία μπορεί να εμφανίζονται σωστά.</string>
+    <string name="anti_flicker_mode_summary">Αποτρέψτε το εκτεταμένο τρεμόπαιγμα των ματιών και μειώστε την καταπόνησή τους σε συνθήκες χαμηλού φωτισμού</string>
     <string name="anti_flicker_title">Λειτουργία anti-flicker</string>
     <string name="app_name">Ρυθμίσεις</string>
     <string name="application_sound">Ειδοποιήσεις εφαρμογών</string>
@@ -51,6 +51,10 @@
     <string name="created">Δημιουργήθηκε</string>
     <string name="created_successfully">Επιτυχής δημιουργία</string>
     <string name="cu_confirm">Ρύθμιση</string>
+    <string name="dc_light_hint_enable_title">Προσοχή</string>
+    <string name="dc_light_hint_normal">Η μείωση του DC ενδέχεται να επηρεάσει τον τρόπο εμφάνισης ορισμένων στοιχείων.</string>
+    <string name="dc_light_hint_other">Η μείωση του DC ενδέχεται να επηρεάσει το ρυθμό ανανέωσης και τον τρόπο εμφάνισης ορισμένων στοιχείων.</string>
+    <string name="dc_lignt_enable_hint">Η λειτουργία ενάντια στο τρεμόπαιγμα θα ρυθμίσει το ρυθμό ανανέωσης της οθόνης στα 60 Hz. Μετάβαση σε λειτουργία Anti-τρεμούλιασμα;</string>
     <string name="display_description">Μεγαλύτερα εικονίδια, μεγάλο κείμενο, λιγότερη οπτική αταξία</string>
     <string name="display_title">Μεγαλύτερα στοιχεία</string>
     <string name="exit_easymode">Απενεργοποίηση Απλής λειτουργίας</string>
@@ -66,6 +70,7 @@
     <string name="follow_sim1">Εφαρμογή ρυθμίσεων SIM 1</string>
     <string name="gamma">Gamma</string>
     <string name="healthy_use_phone">Διαχείριση χρόνου χρήσης οθόνης</string>
+    <string name="high_fps_description">Υψηλός ρυθμός ανανέωσης οθόνης. Μεγαλύτερη κατανάλωση ενέργειας.</string>
     <string name="hsv_space_color">Χρωματικός χώρος HSV</string>
     <string name="hsv_space_color_hue">Απόχρωση</string>
     <string name="hsv_space_color_saturation">Κορεσμός</string>
@@ -74,6 +79,7 @@
     <string name="intelligent_recognition_item_title">Αναγνώριση υπηρεσιών</string>
     <string name="less_than_one">&lt; %d</string>
     <string name="lock_summary">Προστατέψτε τις προσωπικές σας πληροφορίες</string>
+    <string name="low_fps_description">Χαμηλός ρυθμός ανανέωσης οθόνης. Μικρότερη κατανάλωση ενέργειας.</string>
     <string name="low_light_preview">Προεπισκόπιση χαμηλού φωτισμού</string>
     <string name="mms">Μηνύματα</string>
     <string name="more_ringtone">Όλοι οι ήχοι κλήσης</string>
@@ -119,6 +125,7 @@
     <string name="search_menu_title">Αναζήτηση</string>
     <string name="several_days_use_time">Χρόνος χρήσης οθόνης: %2$s</string>
     <string name="shortcut_created">Αυτή η συντόμευση υπάρχει ήδη</string>
+    <string name="silent_ringtone_hint">Ο ήχος τώρα είναι σε σίγαση. Αυξήστε την ένταση και προσπαθήστε ξανά.</string>
     <string name="sim_slot_1">" (SIM 1)"</string>
     <string name="sim_slot_2">" (SIM 2)"</string>
     <string name="sms_delivered_sound_title">Το μήνυμα παραδόθηκε</string>
@@ -158,7 +165,9 @@
     <string name="usage_app_limit_alter_title">Έλεγχος ορίου χρήσης οθόνης</string>
     <string name="usage_app_limit_prelong">Επέκταση χρόνου</string>
     <string name="usage_app_limit_reach_summay">%s απομένει</string>
+    <string name="usage_app_limit_reach_summay_new">Πατήστε για προσθήκη %d λεπτών</string>
     <string name="usage_app_limit_reach_title">%s φτάνει το όριο χρόνου χρήσης οθόνης</string>
+    <string name="usage_app_limit_reach_title_new" formatted="false">Υπολειπόμενος χρόνος χρήσης οθόνης για %1s: %2s</string>
     <string name="usage_app_limit_summary">Οι επιλεγμένες εφαρμογές δεν θα είναι διαθέσιμες όταν φτάσετε το όριο</string>
     <string name="usage_app_limit_title">Περιορισμός χρήσης οθόνης</string>
     <string name="usage_app_other_settings">Πρόσθετες ρυθμίσεις</string>
@@ -210,8 +219,12 @@
     <string name="usage_home_premission_second_summary_double_link_prefix">Θα προστατεύουμε τις προσωπικές σας πληροφορίες σύμφωνα με τους σχετικούς νόμους, κανονισμούς και πολιτικές απορρήτου. Εάν δεν συμφωνείτε να παραχωρήσετε αυτές τις άδειες ή να κοινοποιήσετε και να μεταφορτώσετε τις προσωπικές σας πληροφορίες, δεν θα έχετε τη δυνατότητα να χρησιμοποιείτε αυτή την εφαρμογή. Μπορείτε να ανακαλέσετε την εξουσιοδότησή σας από Χρόνος χρήσης οθόνης > Ρυθμίσεις > Απενεργοποίηση Χρόνου χρήσης οθόνης.</string>
     <string name="usage_home_premission_second_summary_double_link_suffix" formatted="false">"&lt;Data>Πριν χρησιμοποιήσετε αυτή την εφαρμογή, διαβάστε και να συμφωνήστε με το &lt;a href='%1s'>Συμφωνητικό Χρήστη&lt;/a> και την &lt;a href='%2s'>Πολιτική Απορρήτου&lt;/a>.&lt;/Data>"</string>
     <string name="usage_home_premission_second_summary_new">Θα προστατεύουμε τις προσωπικές σας πληροφορίες σύμφωνα με τους σχετικούς νόμους, κανονισμούς και πολιτικές απορρήτου. Εάν δεν συμφωνείτε να παραχωρήσετε αυτές τις άδειες ή να κοινοποιήσετε και να μεταφορτώσετε τις προσωπικές σας πληροφορίες, δεν θα έχετε τη δυνατότητα να χρησιμοποιείτε αυτή την εφαρμογή. Μπορείτε να ανακαλέσετε την εξουσιοδότησή σας από Χρόνος χρήσης οθόνης > Ρυθμίσεις > Απενεργοποίηση Χρόνου χρήσης οθόνης. Εάν έχετε άλλες ερωτήσεις σχετικά με το απόρρητο, μπορείτε να επικοινωνήσετε μαζί μας στη διεύθυνση privacy@xiaomi.com.</string>
+    <string name="usage_new_home_app_limit_summary">Ορίστε ημερήσιο όριο χρήσης οθόνης για αυτή την εφαρμογή</string>
+    <string name="usage_new_home_app_limit_title">Περιορισμός χρήσης οθόνης</string>
     <string name="usage_new_home_average">"Μ.Ο. "</string>
+    <string name="usage_new_home_avg_usage_day">Μ.Ο. %s ημερησίως</string>
     <string name="usage_new_home_category">Κατηγορία</string>
+    <string name="usage_new_home_classify_manage">Διαχείριση κατηγοριών εφαρμογών</string>
     <string name="usage_new_home_compare_text1">%.2f περισσότερο από την προηγούμενη ημέρα</string>
     <string name="usage_new_home_compare_text2">%.2f λιγότερο από την προηγούμενη ημέρα</string>
     <string name="usage_new_home_compare_text3">Ίδιο με την προηγούμενη ημέρα</string>
@@ -219,15 +232,19 @@
     <string name="usage_new_home_dashboard">Πίνακας εργαλείων</string>
     <string name="usage_new_home_date_day_title">%s | Διάρκεια χρήσης</string>
     <string name="usage_new_home_day_category_title">Κατηγορίες εφαρμογής</string>
+    <string name="usage_new_home_day_category_title_new">Χρήση οθόνης για κατηγορίες εφαρμογής στις %s</string>
     <string name="usage_new_home_day_title">Ημέρα</string>
     <string name="usage_new_home_day_usage_title">Μεμονωμένες εφαρμογές</string>
+    <string name="usage_new_home_day_usage_title_new">Χρήση οθόνης στις %s</string>
     <string name="usage_new_home_first_unlock">Πρώτο ξεκλείδωμα: %s</string>
     <string name="usage_new_home_name">Όνομα</string>
     <string name="usage_new_home_show_more_data_summary">Επίσης, μπορείτε να περιορίσετε τον χρόνο χρήσης οθόνης για μεμονωμένες εφαρμογές</string>
     <string name="usage_new_home_show_more_data_title">Προβολή περισσότερων στατιστικών στοιχείων</string>
+    <string name="usage_new_home_sys_no_limit_summary">Αδυναμία περιορισμού χρόνου χρήσης οθόνης για εφαρμογές συστήματος</string>
     <string name="usage_new_home_unlock_equals_text">Ίδιο με την προηγούμενη ημέρα</string>
     <string name="usage_new_home_unused">Δεν χρησιμοποίησε</string>
     <string name="usage_new_home_update">Αλλαγή</string>
+    <string name="usage_new_home_usage_detail">Λεπτομέρειες χρήσης</string>
     <string name="usage_new_home_week_category_title">Κατηγορίες εφαρμογής</string>
     <string name="usage_new_home_week_compare_text1">%.2f περισσότερο από την προηγούμενη εβδομάδα</string>
     <string name="usage_new_home_week_compare_text2">%.2f λιγότερο από την προηγούμενη εβδομάδα</string>
@@ -249,7 +266,7 @@
     <string name="usage_reach_device_limit_warning_text">Συμπληρώσατε το όριο του χρόνου οθόνης για σήμερα</string>
     <string name="usage_refresh">Προσπαθήστε ξανά</string>
     <string name="usage_remain_about_hour_miunte">≈%1$s %2$s</string>
-    <string name="usage_remain_hour_miunte">%1$s%2$s</string>
+    <string name="usage_remain_hour_miunte">%1$s %2$s</string>
     <string name="usage_request_error_summary">Παρουσιάστηκε ένα άγνωστο σφάλμα</string>
     <string name="usage_request_timeout_summary">Το αίτημα έληξε</string>
     <string name="usage_runtime_per_des_summary">Για αποθήκευση των στατιστικών στοιχείων του Χρόνου χρήσης οθόνης</string>
@@ -363,6 +380,8 @@
     <string name="usage_stats_week_day">Σαββατοκύριακα</string>
     <string name="usage_total_days">Σύνολο ημερών</string>
     <string name="usage_total_times">Σύνολο συνεδριών</string>
+    <string name="usage_week_avg_usage_title">Μέσος όρος αυτή την εβδομάδα</string>
+    <string name="usage_week_avg_usage_title2">Μέσος χρόνος</string>
     <string name="usage_weekly_report_summary">Μάθετε πως να περνάτε χρόνο με τη συσκευή σας</string>
     <string name="usage_weekly_report_title">Εβδομαδιαία αναφορά</string>
     <string name="usagestats_app_category_miui_education">Εκπαίδευση</string>

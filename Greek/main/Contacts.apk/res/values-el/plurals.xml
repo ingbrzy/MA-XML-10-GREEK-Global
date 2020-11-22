@@ -48,6 +48,14 @@
         <item quantity="other">Κουδούνισε %1$d φορές</item>
         <item quantity="one">Κουδούνισε %1$d φορά</item>
     </plurals>
+    <plurals name="call_record_auto_whitelist_summary">
+        <item quantity="other">%d αριθμοί τηλεφώνου</item>
+        <item quantity="one">%d αριθμός τηλεφώνου</item>
+    </plurals>
+    <plurals name="call_remove_exception_numbers_confirm">
+        <item quantity="other">Διαγραφή %d αριθμών τηλεφώνου;</item>
+        <item quantity="one">Διαγραφή %d αριθμού τηλεφώνου;</item>
+    </plurals>
     <plurals name="cloud_state_unsynced_count">
         <item quantity="other">%1$d επαφές ή φωτογραφίες δεν έχουν συγχρονιστεί</item>
         <item quantity="one">%1$d επαφή ή φωτογραφία δεν έχει συγχρονιστεί</item>
@@ -100,10 +108,6 @@
         <item quantity="other">Μισή ώρα πριν</item>
         <item quantity="one">Μισή ώρα πριν</item>
     </plurals>
-    <plurals name="hint_account_contacts">
-        <item quantity="other">Βρέθηκαν %1$d αντικείμενα</item>
-        <item quantity="one">Βρέθηκε %1$d αντικείμενο</item>
-    </plurals>
     <plurals name="hint_search_contacts">
         <item quantity="other">%1$d επαφές</item>
         <item quantity="one">%1$d επαφή</item>
@@ -148,10 +152,6 @@
         <item quantity="other">%1$d επαφές με μερικώς πανομοιότυπες πληροφορίες</item>
         <item quantity="one">%1$d επαφές με μερικώς πανομοιότυπες πληροφορίες</item>
     </plurals>
-    <plurals name="merge_info">
-        <item quantity="other">συγχωνεύθηκν από %0$d πηγές</item>
-        <item quantity="one">δεν συγχωνεύθηκε</item>
-    </plurals>
     <plurals name="numSelectedSimContacts">
         <item quantity="other">%1$d επιλέχθηκαν</item>
         <item quantity="one">%1$d επιλέχθηκε</item>
@@ -160,17 +160,9 @@
         <item quantity="other">%1$d άτομα από %2$s</item>
         <item quantity="one">%1$d άτομο από %2$s</item>
     </plurals>
-    <plurals name="num_groups_in_account">
-        <item quantity="other">%d ομάδες</item>
-        <item quantity="one">%d ομάδα</item>
-    </plurals>
     <plurals name="num_minutes_ago">
         <item quantity="other">%d λεπτά πριν</item>
         <item quantity="one">1 λεπτό πριν</item>
-    </plurals>
-    <plurals name="number_of_items_available">
-        <item quantity="other">%1$d αντικείμενα απομένουν</item>
-        <item quantity="one">%1$d αντικείμενο απομένει</item>
     </plurals>
     <plurals name="number_of_items_selected">
         <item quantity="other">%1$d επιλέχθηκαν</item>
@@ -195,6 +187,10 @@
     <plurals name="searchFoundContacts">
         <item quantity="other">Βρέθηκαν %d</item>
         <item quantity="one">Βρέθηκε %d</item>
+    </plurals>
+    <plurals name="search_group_contacts_result">
+        <item quantity="other">%s αποτελέσματα</item>
+        <item quantity="one">%s αποτέλεσμα</item>
     </plurals>
     <plurals name="select_all_exceed_plurals">
         <item quantity="other">Επιλέξτε λιγότερο από %1$d, αδυναμία επιλογής όλων</item>

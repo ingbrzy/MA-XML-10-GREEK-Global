@@ -10,6 +10,7 @@
     <string name="download_queued">Προστέθηκε στην ουρά λήψης</string>
     <string name="download_remaining">%s απομένουν</string>
     <string name="download_running">Γίνεται λήψη</string>
+    <string name="download_running_percent">Γίνεται λήψη %s</string>
     <string name="download_unknown_title">&lt;Χωρίς τίτλο></string>
     <string name="notif_title_file_size">%1$d συνολικά</string>
     <string name="notif_title_single_downloading">Γίνεται λήψη %1$s</string>
@@ -34,12 +35,12 @@
     <string name="permlab_downloadWithoutNotification">Λήψη αρχείων χωρίς ειδοποίηση</string>
     <string name="permlab_seeAllExternal">Δείτε όλες τις λήψεις στον χώρο αποθήκευσης USB</string>
     <string name="root_downloads">Λήψεις</string>
-    <string name="wifi_recommended_body" formatted="false">"Η έναρξη αυτής %s τώρα ενδέχεται να μειώσει την ζωή της μπαταρίας σας και/ή να προκαλέσει υπερβολική κατανάλωση σύνδεσης δεδομένων κινητής, με αποτέλεσμα να χρεωθείται από τον πάροχο σας ανάλογα με το πλάνο δεδομένων σας.
-Πατήστε %s για έναρξη της λήψης
+    <string name="wifi_recommended_body">"Η έναρξη αυτής %1$s τώρα ενδέχεται να μειώσει την ζωή της μπαταρίας σας και/ή να προκαλέσει υπερβολική κατανάλωση σύνδεσης δεδομένων κινητής, με αποτέλεσμα να χρεωθείται από τον πάροχο σας ανάλογα με το πλάνο δεδομένων σας.
+Πατήστε %2$s για έναρξη της λήψης
  την επόμενη φορά που θα συνδεθείτε σε δίκτυο Wi-Fi."</string>
     <string name="wifi_recommended_title">Προσθήκη σε ουρά για λήψη αργότερα;</string>
-    <string name="wifi_required_body" formatted="false">"Συνδεθείτε σε Wi-Fi για ολοκλήρωση αυτής της %s λήψης. 
+    <string name="wifi_required_body">"Συνδεθείτε σε Wi-Fi για ολοκλήρωση αυτής της %1$s λήψης. 
 
-Πατήστε %s για έναρξη της λήψης την επόμενη φορά που θα είστε συνδεδεμένοι με δίκτυο Wi-Fi."</string>
+Πατήστε %2$s για έναρξη της λήψης την επόμενη φορά που θα είστε συνδεδεμένοι με δίκτυο Wi-Fi."</string>
     <string name="wifi_required_title">Πολύ μεγάλο αρχείο για λήψη με την χρήση δεδομένων κινητής</string>
 </resources>

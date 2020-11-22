@@ -20,6 +20,12 @@
         <item>Δημιουργήστε αντίγραφα ασφαλείας για σημαντικές ρυθμίσεις, όπως Wi-Fi και προβολή</item>
         <item>Κλειδώστε την συσκευή σας από μακριά σε περίπτωση απώλειας της</item>
     </string-array>
+    <string-array name="micloud_entrance_subtitleArray_china">
+        <item>Sync your contacts, messages, notes, calendar, and more</item>
+        <item>Back up apps, Home screen layout, and wallpaper</item>
+        <item>Back up important settings, including WLAN and display</item>
+        <item>"Lock your device remotely if it's lost"</item>
+    </string-array>
     <string-array name="micloud_entrance_titleArray">
         <item>Συγχρονισμός δεδομένων εφαρμογής</item>
         <item>Δημιουργία αντίγραφου ασφαλείας για διάταξη Αρχικής οθόνης</item>
@@ -98,6 +104,11 @@
         <item>Ενεργοποίηση συγχρονισμού</item>
         <item>Συρτάρι εφαρμογών,Κάρτες,Cloud,Συγχρονισμός,Υπηρεσίες Cloud,Xiaomi Cloud</item>
     </string-array>
+    <string-array name="settings_search_phrase">
+        <item>Συγχρονισμός γρήγορων απαντήσεων</item>
+        <item>Ενεργοποίηση συγχρονισμού</item>
+        <item>Γρήγορες απαντήσεις;Πρόχειρο;Επεξεργαστής;Cloud;Συγχρονισμός;Υπηρεσίες Cloud</item>
+    </string-array>
     <string-array name="settings_search_recorder">
         <item>Συγχρονισμός ηχογραφήσεων με το Xiaomi Cloud</item>
         <item>Ενεργοποίηση/Ρύθμιση συγχρονισμού</item>
@@ -114,9 +125,9 @@
         <item>Cloud,Δημιουργία αντίγραφου ασφαλείας,Αντίγραφα ασφαλείας,Επαναφορά,Υπηρεσίες Cloud,Xiaomi Cloud</item>
     </string-array>
     <string-array name="settings_search_security">
-        <item>Συγχρονισμός Ασφάλειας με το Xiaomi Cloud</item>
+        <item>Συγχρονισμός ασφαλείας στο cloud</item>
         <item>Ενεργοποίηση συγχρονισμού</item>
-        <item>Ασφάλεια,Cloud,Συγχρονισμός,Υπηρεσίες Cloud,Xiaomi Cloud</item>
+        <item>Ασφάλεια;Cloud;Xiaomi Cloud;Συγχρονισμός;Υπηρεσίες Cloud</item>
     </string-array>
     <string-array name="settings_search_sms">
         <item>Συγχρονισμός μηνυμάτων με το Xiaomi Cloud</item>
@@ -137,6 +148,11 @@
         <item>Συγχρονισμός ρυθμίσεων Wi-Fi με το Xiaomi Cloud</item>
         <item>Ενεργοποίηση συγχρονισμού</item>
         <item>WLAN,wifi,Wi-Fi,Cloud,Συγχρονισμός,Υπηρεσίες Cloud,Xiaomi Cloud</item>
+    </string-array>
+    <string-array name="settings_search_wlan_china">
+        <item>Sync WLAN settings with Xiaomi Cloud</item>
+        <item>Turn on sync</item>
+        <item>WLAN;wifi;Wi-Fi;Cloud;Sync;Cloud services;Xiaomi Cloud</item>
     </string-array>
     <string-array name="user_detail_fixed_items">
         <item>Εμφάνιση συγχρονισμένων αντικειμένων</item>

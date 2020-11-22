@@ -126,13 +126,6 @@
     <string name="dual_animation">Εκκίνηση εφέ κίνησης</string>
     <string name="dual_animation_description">Εμφάνιση εφέ κίνησης όταν γίνεται εκκίνηση διπλότυπων εφαρμογών</string>
     <string name="enable">Ενεργοποίηση</string>
-    <string name="encrypt_space_delete_dialog_click_message">*Εάν δεν χρειάζεστε να μεταφέρετε δεδομένα, %s</string>
-    <string name="encrypt_space_delete_dialog_click_message_action">διαγραφή και δημιουργία Δεύτερου χώρου τώρα.</string>
-    <string name="encrypt_space_delete_dialog_message">Είστε έτοιμοι να εκτελέστε μια ενημέρωση συστήματος. Μετά την ενημέρωση, τα δεδομένα Δεύτερου χώρου δεν θα είναι πλέον συμβατά. Για να το αποφύγετε αυτό, μεταφέρετε τα δεδομένα στον Πρώτο χώρο, διαγράψτε τον Δεύτερο χώρο, και δημιουργήστε τον ξανά.</string>
-    <string name="encrypt_space_delete_dialog_positive_text">Μεταφορά δεδομένων</string>
-    <string name="encrypt_space_delete_dialog_title">Προσοχή</string>
-    <string name="encrypt_space_delete_notification_message">Διαγράψτε τον Δεύτερο χώρο σας και δημιουργήστε έναν νέο για να ενημερώσετε την συσκευή σας επιτυχώς.</string>
-    <string name="encrypt_space_delete_notification_title">Δεύτερος χώρος</string>
     <string name="ent_activating">Γίνεται ενεργοποίηση…</string>
     <string name="ent_activation">Ενεργοποίηση</string>
     <string name="ent_activation_hint">Εισαγωγή εταιρικού κωδικού μαζί με τον κωδικό άδειας για την ενεργοποίηση Λειτουργίας επιχείρησης. Στη συνέχεια θα ενεργοποιηθούν οι προσαρμοσμένες υπηρεσίες επιχείρησης.</string>
@@ -217,7 +210,6 @@
     <string name="guide_pwd_detail_title">"Προστατέψτε τα δεδομένα σας
 Εισαγωγή στον Δεύτερο χώρο από Οθόνη κλειδώματος"</string>
     <string name="guide_setting_guide_title">Διαχείριση Δεύτερου χώρου</string>
-    <string name="guide_start_ads_text">Ένα τελείως νέο επίπεδο ασφάλειας</string>
     <string name="guide_start_text">Δύο χώροι. Μια συσκευή.</string>
     <string name="has_created_second_space">"Μπορείτε να ανοίξετε τον Δεύτερο Χώρο τώρα.
 Δύο χώροι. Μια συσκευή."</string>
@@ -255,6 +247,14 @@
     <string name="master_clear_not_available_ep">Δεν σας επιτρέπεται να εκτελέσετε επαναφορά εργοστασιακών ρυθμίσεων ή να ανακαλέσετε την εξουσιοδότησή σας τώρα. Επικοινωνήστε με τον επιτηρητή σας.</string>
     <string name="menu_item_about_privacy_title">Πολιτική Απορρήτου</string>
     <string name="messageData">Μηνύματα</string>
+    <string name="miuix_sbl_tracking_progress_labe_pull_to_refresh">Τραβήξτε προς τα κάτω για ανανέωση</string>
+    <string name="miuix_sbl_tracking_progress_labe_refreshed">Επιτυχής ανανέωση</string>
+    <string name="miuix_sbl_tracking_progress_labe_refreshing">Γίνεται ανανέωση…</string>
+    <string name="miuix_sbl_tracking_progress_labe_release_to_refresh">Αφήστε για ανανέωση</string>
+    <string name="miuix_sbl_tracking_progress_labe_up_nodata">Αυτά προς το παρόν</string>
+    <string name="miuix_sbl_tracking_progress_labe_up_none">Αυτά προς το παρόν</string>
+    <string name="miuix_sbl_tracking_progress_labe_up_refresh">Μια στιγμή…</string>
+    <string name="miuix_sbl_tracking_progress_labe_up_refresh_fail">Αδυναμία λήψης αντικειμένων</string>
     <string name="more_settings">Περισσότερα</string>
     <string name="msg_switch_file">Διαγραφή αυτών των αρχείων από τον Πρώτο χώρο μετά την μετακίνησή τους;</string>
     <string name="msg_switch_file_second">Διαγραφή αυτών των αρχείων από τον Δεύτερο χώρο μετά την μετακίνησή τους;</string>
@@ -286,7 +286,6 @@
     <string name="openPasswordGuard">Ορισμός κωδικού Δεύτερου χώρου</string>
     <string name="openSuccess">Ενεργοποιήθηκε</string>
     <string name="opened">Ενεργό</string>
-    <string name="optimize_now">Βελτιστοποίηση</string>
     <string name="other">Άλλα</string>
     <string name="otherSettings">Άλλες ρυθμίσεις</string>
     <string name="passWordGuardSummary">Εισαγωγή στον Δεύτερο χώρο από την Οθόνη κλειδώματος με χρήση κωδικού</string>
@@ -310,8 +309,6 @@
     <string name="remove_button">Διαγραφή</string>
     <string name="remove_button_time">Διαγραφή (%dδ)</string>
     <string name="remove_second_space_msg">Όλα τα δεδομένα εφαρμογών Δεύτερου χώρου θα χαθούν μετά την διαγραφή του Δεύτερου χώρου. Διαγραφή Δεύτερου χώρου τώρα;</string>
-    <string name="remove_user_click_message">*Εάν δεν έχετε σημαντικά αντικείμενα στον Δεύτερο χώρο, %s</string>
-    <string name="remove_user_click_message_action">μπορείτε να διαγράψετε τον Δεύτερο χώρο και να επανεκκινήσετε την συσκευή σας τώρα.</string>
     <string name="removingSpace">Γίνεται διαγραφή…</string>
     <string name="repeat_scanner_fingerprint">Προσθήκη ξανά</string>
     <string name="reset_passwd_success">Επιτυχής επαναφορά κωδικού</string>
@@ -335,14 +332,6 @@
     <string name="scanner_fingerprint_tips_desc">Επιλογή υπάρχοντος δακτυλικού αποτυπώματος για εισαγωγή στον Δεύτερο χώρο. Δεν μπορείτε να το χρησιμοποιήσετε για εισαγωγή στον Πρώτο χώρο.</string>
     <string name="scanner_fingerprint_tips_title">Εισαγωγή στον Δεύτερο χώρο με το υπάρχον δακτυλικό αποτύπωμα</string>
     <string name="scanner_second_space_fingerprint">Σάρωση δακτυλικού αποτυπώματος Δεύτερου χώρου</string>
-    <string name="sdcardfs_dialog_message">Ένα νέο σύστημα αρχείων εισήχθη σε αυτή την ενημέρωση. Τα παλιά δεδομένα ενδέχεται να μην είναι συμβατά πλέον. Για να επιλύσετε το πρόβλημα αυτό, ακολουθήστε τα βήματα για να εγκαταστήστε μια ενημέρωση. Η συσκευή σας θα επανεκκινηθεί δύο φορές κατά την διάρκεια της ενημέρωσης αυτής.</string>
-    <string name="sdcardfs_dialog_title">Σημαντική ενημέρωση</string>
-    <string name="sdcradfs_dialog_in_owner_message">"Ένα νέο σύστημα αρχείων εισάγεται σε αυτήν την ενημερωμένη έκδοση. Τα παλιά δεδομένα ενδέχεται να μην είναι συμβατά πλέον. Για να ενημερώσετε, μετακινήστε αντικείμενα από τον Δεύτερο χώρο, επανεκκινήστε την συσκευή σας, και δημιουργήσετε τον Δεύτερο χώρο ξανά
-. Εάν δεν κάνετε ενημέρωση, οι διπλότυπες εφαρμογές ενδέχεται να μην λειτουργήσουν σωστά."</string>
-    <string name="sdcradfs_dialog_in_owner_title">Δεύτερος χώρος</string>
-    <string name="sdcradfs_dialog_in_sec_message">"Για να ενημερώσετε, πρέπει να διαγράψτε το Δεύτερο χώρο σας, και μετά να τον δημιουργήσετε ξανά. Μετακινήστε τα δεδομένα από το Δεύτερο χώρο στον Πρώτο χώρο, και επανεκκινήστε την συσκευή σας για να ολοκληρώστε την ενημέρωση.
-Εάν δεν κάνετε ενημέρωση, οι διπλότυπες εφαρμογές ενδέχεται να μην λειτουργήσουν σωστά."</string>
-    <string name="sdcradfs_dialog_in_sec_title">Σημαντική ενημέρωση</string>
     <string name="search_input_txt_na">"&lt;font color='#ff0000'>%s&lt;/font>"</string>
     <string name="search_menu_title">Αναζήτηση</string>
     <string name="search_result_text">Αδυναμία εύρεσης εφαρμογών</string>
@@ -353,6 +342,8 @@
     <string name="second_space_desktop_tips_dialog_title">Σημαντική ενημέρωση</string>
     <string name="second_space_finger_printf_desc">Προσθήκη δακτυλικού αποτυπώματος ειδικά για την εισαγωγή στον Δεύτερο χώρο</string>
     <string name="second_space_finger_printf_title">Δακτυλικό αποτύπωμα Δεύτερου χώρου</string>
+    <string name="secondspace_homepage">"Ορίστε ένα καθορισμένο κλείδωμα οθόνης για τον Δεύτερο χώρο.
+Διαχωρίστε και ασφαλίστε τα δεδομένα σας."</string>
     <string name="select_existed_fingerprint">Επιλογή δακτυλικού αποτυπώματος</string>
     <string name="serNameSummary">Δεύτερος χώρος</string>
     <string name="setSecondSpacePassword">Ορισμός κωδικού Δεύτερου χώρου</string>
@@ -410,7 +401,6 @@
     <string name="space_create_guide_title_1">Προστατέψτε το απόρρητο σας</string>
     <string name="space_create_guide_title_2">Δημιουργήστε όποτε θέλετε</string>
     <string name="space_create_guide_title_3">Απολύτως ασφαλής</string>
-    <string name="space_created_success">Επιτυχής δημιουργία Δεύτερου χώρου</string>
     <string name="space_deleted">Αυτός ο χώρος διαγράφηκε</string>
     <string name="space_des_default">Απομονωμένος χώρος με κρυπτογραφημένα δεδομένα</string>
     <string name="space_finger_sub_text">Ρύθμιση δακτυλικού αποτυπώματος Δεύτερου χώρου για γρηγορότερη εναλλαγή</string>
@@ -427,7 +417,6 @@
     <string name="stop_xspace_alert_title">Γίνεται διαγραφή διπλότυπων λογαριασμών εφαρμογών</string>
     <string name="summary_collapsed_preference_list">%1$s, %2$s</string>
     <string name="summary_switch_apps_settings">Επιλογή εφαρμογών που χρησιμοποιούνται στον τρέχων χώρο</string>
-    <string name="support_desc">Οι υπηρεσίες ασφαλείας παρέχονται από Spaces Mobile</string>
     <string name="sure_to_use">Επιβεβαίωση</string>
     <string name="switchDataSummary">Μετακίνηση αντικειμένων μεταξύ χώρων</string>
     <string name="switch_apps_settings">Ρυθμίσεις εφαρμογών</string>

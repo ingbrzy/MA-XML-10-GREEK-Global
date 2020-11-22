@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="settings_search_earth">
+        <item>Σπίτι</item>
+        <item>Ταπετσαρίες/Σούπερ ταπετσαρίες/Σπίτι</item>
+        <item>Γη;Σούπερ ταπεταρίες;Έκδοση Γη;Ταπετσαρία</item>
+    </string-array>
+    <string-array name="settings_search_mars">
+        <item>Ο κόκκινος πλανήτης</item>
+        <item>Ταπετσαρία/Σούπερ ταπετσαρία/Ο κόκκινος πλανήτης</item>
+        <item>Άρης;Έκδοση Άρης;Σούπερ ταπετσαρίες;Ταπετσαρία</item>
+    </string-array>
+    <string-array name="settings_search_superwp">
+        <item>Σούπερ ταπετσαρίες</item>
+        <item>Ταπετσαρίες/Σούπερ ταπετσαρίες</item>
+        <item>Σούπερ ταπετσαρίες;Ταπετσαρία;Δυναμική ταπετσαρία;3D ταπετσαρία</item>
+    </string-array>
+</resources>

@@ -34,6 +34,61 @@
         <item>Αφύπνιση σε %2$s και %3$s.</item>
         <item>Αφύπνιση σε %1$s%2$s και %3$s.</item>
     </string-array>
+    <string-array name="alphabet_table">
+        <item>Α</item>
+        <item>Β</item>
+        <item>Γ</item>
+        <item>Δ</item>
+        <item>Ε</item>
+        <item>Ζ</item>
+        <item>Η</item>
+        <item>Θ</item>
+        <item>Ι</item>
+        <item>Κ</item>
+        <item>Λ</item>
+        <item>Μ</item>
+        <item>Ν</item>
+        <item>Ξ</item>
+        <item>Ο</item>
+        <item>Π</item>
+        <item>Ρ</item>
+        <item>Σ</item>
+        <item>Τ</item>
+        <item>Υ</item>
+        <item>Φ</item>
+        <item>Χ</item>
+        <item>Ψ</item>
+        <item>Ω</item>
+        <item>\#</item>
+    </string-array>
+    <string-array name="alphabet_table_with_starred">
+        <item>!</item>
+        <item>Α</item>
+        <item>Β</item>
+        <item>Γ</item>
+        <item>Δ</item>
+        <item>Ε</item>
+        <item>Ζ</item>
+        <item>Η</item>
+        <item>Θ</item>
+        <item>Ι</item>
+        <item>Κ</item>
+        <item>Λ</item>
+        <item>Μ</item>
+        <item>Ν</item>
+        <item>Ξ</item>
+        <item>Ο</item>
+        <item>Π</item>
+        <item>Ρ</item>
+        <item>Σ</item>
+        <item>Τ</item>
+        <item>Υ</item>
+        <item>Φ</item>
+        <item>Χ</item>
+        <item>Ψ</item>
+        <item>Ω</item>
+        <item>\#</item>
+    </string-array>
     <string-array name="aqi_value">
         <item>Καλός</item>
         <item>Ικανοποιητικός</item>
@@ -92,10 +147,10 @@
         <item>Τρίπολη</item>
         <item>Τύνιδα</item>
         <item>Άνκορατζ</item>
-        <item>Μεντόζα</item>
+        <item>Μεντόσα</item>
         <item>Ασουνσιόν</item>
         <item>Μπριτζτάουν</item>
-        <item>Μπελίσε</item>
+        <item>Μπελίζ</item>
         <item>Μπογκοτά</item>
         <item>Μπουένος Άιρες</item>
         <item>Κανκούν</item>
@@ -144,7 +199,7 @@
         <item>Παναμάς</item>
         <item>Φοίνιξ</item>
         <item>Port of Spain</item>
-        <item>"Πορτ ο ' Πρινς"</item>
+        <item>Πορτ-ο-Πρενς</item>
         <item>Σάο Πάολο</item>
         <item>St. Johns</item>
         <item>St. Kitts</item>
@@ -182,7 +237,7 @@
         <item>Μακάου</item>
         <item>Μανίλα</item>
         <item>Μουσκάτ</item>
-        <item>Πνομ Πενχ</item>
+        <item>Πνομ Πεν</item>
         <item>Πιονγιάνγκ</item>
         <item>Ντόχα</item>
         <item>Ρανγκούν</item>
@@ -212,7 +267,7 @@
         <item>Βικτώρια</item>
         <item>Νέα Γη</item>
         <item>Σασκάτσουαν</item>
-        <item>Νήσος του Πάσχα</item>
+        <item>Νησί του Πάσχα</item>
         <item>Άμστερνταμ</item>
         <item>Ανδόρρα Λα Βέγια</item>
         <item>Αθήνα</item>
@@ -256,7 +311,7 @@
         <item>Βαρσοβία</item>
         <item>Ζάγκρεμπ</item>
         <item>Ζυρίχη</item>
-        <item>Ανταναρίβο</item>
+        <item>Ανταναναρίβο</item>
         <item>Μαλέ</item>
         <item>Port Louis</item>
         <item>Όκλαντ</item>
@@ -388,7 +443,7 @@
         <item>Αργεντινή</item>
         <item>Παραγουάη</item>
         <item>Μπαρμπάντος</item>
-        <item>Μπελίσε</item>
+        <item>Μπελίζ</item>
         <item>Κολομβία</item>
         <item>Αργεντινή</item>
         <item>Μεξικό</item>
@@ -488,7 +543,7 @@
         <item>Ισραήλ</item>
         <item>Ιαπωνία</item>
         <item>Μογγολία</item>
-        <item>Βερμούδα</item>
+        <item>Βερμούδες</item>
         <item>Ισπανία</item>
         <item>Πράσινο Ακρωτήριο</item>
         <item>Ισλανδία</item>

@@ -83,6 +83,8 @@
     <string name="HIPS_Perm_get_tasks_Desc">απόκτηση εργασιών</string>
     <string name="HIPS_Perm_install_shortcut">Συντομεύσεις Αρχικής οθόνης</string>
     <string name="HIPS_Perm_install_shortcut_Desc">προσθήκη συντομεύσεων στην Αρχική οθόνη</string>
+    <string name="HIPS_Perm_mediaVolume">Προσαρμογή της έντασης μέσων</string>
+    <string name="HIPS_Perm_mediaVolume_Desc">Να επιτρέπεται η εφαρμογή να προσαρμόσει την ένταση μέσων</string>
     <string name="HIPS_Perm_process_nfc">NFC</string>
     <string name="HIPS_Perm_process_nfc_Desc">πρόσβαση σε υλικό κοντινού πεδίου επικοινωνίας (NFC)</string>
     <string name="HIPS_Perm_process_outgoing_calls">Πρόσβαση εφαρμογής Τηλέφωνο</string>
@@ -117,6 +119,10 @@
     <string name="location_warning">%1$s είναι ένας παροχέας υπηρεσιών τοποθεσίας για αυτήν την συσκευή. Η πρόσβαση τοποθεσίας μπορεί να τροποποιηθεί από τις ρυθμίσεις τοποθεσίας.</string>
     <string name="never_ask_again">Να μην γίνει ξανά ερώτηση μετά από τον περιορισμό</string>
     <string name="ok">OK</string>
+    <string name="perm_action_allow">Αποδοχή</string>
+    <string name="perm_action_deny">Να μην γίνει ποτέ αποδοχή</string>
+    <string name="perm_modem_location">Πρόσβαση στην τοποθεσία σας</string>
+    <string name="perm_modem_location_desc">Ο κομιστής σας προσπαθεί να αποκτήσει πρόσβαση στις πληροφορίες της τοποθεσίας σας. Κοινοποίηση πληροφοριών τοποθεσίας με τον κομιστή;</string>
     <string name="permdesc_camera">Φωτογραφήστε και γράψτε βίντεο</string>
     <string name="permdesc_in_calls">Παρακολούθηση εισερχόμενων κλήσεων</string>
     <string name="permdesc_location">Πρόσβαση στις πληροφορίες τοποθεσίας</string>

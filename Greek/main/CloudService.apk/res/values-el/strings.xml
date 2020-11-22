@@ -40,6 +40,8 @@
     <string name="btn_return">Πίσω</string>
     <string name="button_cancel">Ακύρωση</string>
     <string name="calendar_sync">Ημερολόγιο</string>
+    <string name="check_contact">Προσθήκη</string>
+    <string name="choose_contact_title">Επαφές</string>
     <string name="click_to_enabled">Αγγίξτε για συγχρονισμό.</string>
     <string name="close_shortcut">Κλείσιμο</string>
     <string name="cloud_find_device">Εύρεση Συσκευής</string>
@@ -61,7 +63,9 @@
     <string name="confirm_delete">Διαγραφή</string>
     <string name="confirm_save">Διατήρηση</string>
     <string name="connect_network">Σύνδεση σε Wi-Fi ή εισαγωγή κάρτας SIM</string>
+    <string name="connect_network_china">Connect to WLAN or insert a SIM card</string>
     <string name="connect_wlan">Σύνδεση σε Wi-Fi</string>
+    <string name="connect_wlan_china">Connect to WLAN</string>
     <string name="copy">Αντιγραφή</string>
     <string name="data_merge_dialog_alert_active_on_phone_msg_more_than_two">Αυτός ο λογαριασμός χρησιμοποιείται και σε άλλη συσκευή. Να γίνει συγχώνευση στοιχείων από πολλαπλές εφαρμογές (περιλαμβανομένων των %1$s και %2$s) με τα στοιχεία σε αυτή τη συσκευή;</string>
     <string name="data_merge_dialog_alert_active_on_phone_msg_one">Αυτός ο λογαριασμός χρησιμοποιείται και σε άλλη συσκευή. Να γίνει συγχώνευση στοιχείων από %s με τα στοιχεία σε αυτή τη συσκευή;</string>
@@ -91,6 +95,8 @@
     <string name="feedback_custom_hint">Περιγράψτε τα προβλήματα που συναντήσατε εδώ. Εάν θέλετε να δώσετε προστάσεις, θα εκτιμούσαμε να μας πείτε περισσότερες πληροφορίες!</string>
     <string name="find_device">Εύρεση συσκευής</string>
     <string name="find_device_dspt_provision">Εάν χάσετε την συσκευή σας, μεταβείτε στο &lt;font color=#0097FF>%s&lt;/font> για να την εντοπίσετε, κλειδώσετε ή να την επαναφέρετε. Μπορείτε να ενεργοποιήστε ή να απενεργοποιήστε τη λειτουργία αυτή στις Ρυθμίσεις.</string>
+    <string name="find_device_dspt_provision_2">i.mi.com</string>
+    <string name="find_device_dspt_provision_2_int">www.mi.com/micloud</string>
     <string name="find_device_error_network">Ελέγξτε την σύνδεση δεδομένων σας και προσπαθήστε ξανά.</string>
     <string name="find_device_error_server">Σφάλμα διακομιστή</string>
     <string name="find_device_gdpr_prompt">Ενεργοποιώντας τη Εύρεση συσκευής, συμφωνείτε με την <a href="app://com.miui.cloudservice.gdpr.license"><u>Πολιτική Απορρήτου</u></a> μας. Εάν θέλετε να ανακαλέσετε την εξουσιοδότηση, απενεργοποιήστε αυτή τη λειτουργία.</string>
@@ -100,6 +106,7 @@
     <string name="finddevice_miservice_notification_content">Κλειδώστε την συσκευή σας από μακριά σε περίπτωση απώλειας της</string>
     <string name="finddevice_miservice_notification_title">Ενεργοποίηση Εύρεση συσκευής</string>
     <string name="forget_password"><u>Ξέχασα τον κωδικό</u></string>
+    <string name="help_and_feedback">Βοήθεια και σχόλια</string>
     <string name="i_know">OK</string>
     <string name="input_password_hint">Εισαγωγή κωδικού</string>
     <string name="internet_access_dspt">Αυτή η εφαρμογή απαιτεί σύνδεση στο Ίντερνετ ώστε να λειτουργεί κανονικά.</string>
@@ -200,7 +207,9 @@
     <string name="micloud_dspt">"Συγχρονίστε τις επαφές, μηνύματα, ιστορικό κλήσεων και άλλα αντικείμενα σε όλες τις συσκευές σας.
 Εντοπίστε και κλειδώστε τη συσκευή σας σε περίπτωση απώλειας."</string>
     <string name="micloud_dspt_provision">Χρήση του Xiaomi Cloud για συγχρονισμό δεδομένων, εντοπισμό της συσκευής σας, και για κοινοποίηση μεταξύ φίλων.</string>
+    <string name="micloud_dspt_provision_china">Use Xiaomi Cloud to sync data, locate your device, and share things with friends.</string>
     <string name="micloud_dspt_provision_xms">Χρήση του Xiaomi Cloud για συγχρονισμό δεδομένων.</string>
+    <string name="micloud_dspt_provision_xms_china">Use Xiaomi Cloud to sync data.</string>
     <string name="micloud_find_device_close_alert_content">Εάν απενεργοποιήσετε τη λειτουργία Εύρεση συσκευής, δεν θα μπορείτε να εντοπίσετε το τηλέφωνό σας χρησιμοποιώντας αυτή τη λειτουργία. Εάν το τηλέφωνό σας υποστηρίζει λειτουργικότητα NFC, όλες οι τραπεζικές σας κάρτες και οι κάρτες-κλειδιά θα διαγραφούν από το Mi Pay.</string>
     <string name="micloud_find_device_close_alert_negtive">Απενεργοποίηση οπωσδήποτε</string>
     <string name="micloud_find_device_close_alert_positive">Διατήρηση ενεργοποίησης</string>
@@ -214,6 +223,8 @@
     <string name="micloud_find_device_guide_alert_positive">ΟΚ</string>
     <string name="micloud_find_device_guide_alert_title">Απομνημόνευση του κωδικού σας</string>
     <string name="micloud_find_device_guide_button">Ενεργοποίηση Εύρεση συσκευής</string>
+    <string name="micloud_find_device_guide_desc_pad">Εάν έχετε χάσει τη συσκευή σας, συνδεθείτε στο &lt;font color=#0097FF>&lt;b>i.mi.com&lt;/b>&lt;/font> σε οποιαδήποτε άλλη συσκευή για να εντοπίσετε, να κλειδώσετε απομακρυσμένα ή να διαγράψετε δεδομένα στην απολεσθείσα συσκευή. &lt;a href=micloud://com.miui.cloudservice/helpcenter?type=finddevice>Δείτε λεπτομέρειες&lt;/a>.</string>
+    <string name="micloud_find_device_guide_desc_phone">Εάν έχετε χάσει τη συσκευή σας, συνδεθείτε στο &lt;font color=#0097FF>&lt;b>i.mi.com&lt;/b>&lt;/font> σε οποιαδήποτε άλλη συσκευή για να εντοπίσετε, να κλειδώσετε απομακρυσμένα ή να διαγράψετε δεδομένα στην απολεσθείσα συσκευή. &lt;a href=micloud://com.miui.cloudservice/helpcenter?type=finddevice>Δείτε λεπτομέρειες&lt;/a>.</string>
     <string name="micloud_find_device_guide_fail_reopen">Μπορείτε να ενεργοποιήστε την Εύρεση συσκευής στον Mi Λογαριασμό - Xiaomi Cloud</string>
     <string name="micloud_find_device_guide_fail_sub_net">Ελέγξτε την σύνδεση δικτύου σας και προσπαθήστε ξανά.</string>
     <string name="micloud_find_device_guide_micloud_sub_content">Συγχρονίστε επαφές, φωτογραφίες, σημειώσεις, και περισσότερα με το Xiaomi Cloud</string>
@@ -226,15 +237,17 @@
     <string name="micloud_find_device_guide_noti_title_by_app_change_wx">Το WeChat προτείνει την ενεργοποίηση Εύρεση συσκευής</string>
     <string name="micloud_find_device_guide_noti_title_by_app_change_zfb">Το Alipay προτείνει την ενεργοποίηση Εύρεση συσκευής</string>
     <string name="micloud_find_device_guide_progress">Γίνεται ενεργοποίηση Εύρεσης συσκευής…</string>
-    <string name="micloud_find_device_guide_title">Συνδεθείτε στο &lt;font color=#0097FF>&lt;b>i.mi.com&lt;/b>&lt;/font> για εντοπισμό, κλείδωμα ή διαγραφή της συσκευής σας. Αυτό μπορεί να σας βοηθήσει να βρείτε τη συσκευή σας σε περίπτωση που τη χάσετε.</string>
     <string name="micloud_find_device_open_fail">Αδυναμία ενεργοποίησης Εύρεση συσκευής</string>
     <string name="micloud_find_device_opened">Εύρεση συσκευής ενεργή</string>
     <string name="micloud_find_device_opened_content">Βρείτε την συσκευή σας στο %s</string>
+    <string name="micloud_find_device_opened_content_url">i.mi.com</string>
     <string name="micloud_find_device_sms_alert">Ένα εξερχόμενο μήνυμα SMS μπορεί να απαιτείται για την ενεργοποίηση της υπηρεσίας. Ο πάροχος σας θα σας χρεώσει για αυτό το μήνυμα. Κατά την εναλλαγή της κάρτας SIM σας, ένα μήνυμα ενδέχεται να σταλεί αυτόματα για την επανενεργοποίηση της λειτουργίας αυτής.</string>
     <string name="micloud_find_device_verify_button">Επανενεργοποίηση Εύρεση συσκευής</string>
     <string name="micloud_find_device_verify_close">Απενεργοποίηση Εύρεση συσκευής</string>
     <string name="micloud_find_device_verify_fail">Αδυναμία επανενεργοποίησης Εύρεση συσκευής</string>
     <string name="micloud_find_device_verify_progress">Γίνεται επανενεργοποίηση Εύρεση συσκευής…</string>
+    <string name="micloud_footer_international_url">mi.com/micloud</string>
+    <string name="micloud_footer_normal_url">i.mi.com</string>
     <string name="micloud_last_sync_canceled">Ακυρώθηκε ο συγχρονισμός. Προσπαθήστε ξανά.</string>
     <string name="micloud_main_head_menu_cloud_backup">Αντίγραφο ασφαλείας αρχικής οθόνης</string>
     <string name="micloud_main_head_menu_cloud_backup_summary">Ρυθμίσεις συστήματος και διάταξης Αρχικής οθόνης</string>
@@ -252,9 +265,6 @@
     <string name="micloud_main_sync_mode_title">Γρήγορος συγχρονισμός</string>
     <string name="micloud_main_wait_charge">Φορτίστε πλήρως την συσκευή σας για να συνεχίσετε τον συγχρονισμό.</string>
     <string name="micloud_main_wait_charge_sleep">Απενεργοποιήστε την οθόνη και φορτίστε πλήρως την συσκευή σας για να συνεχίσετε τον συγχρονισμό.</string>
-    <string name="micloud_main_wait_wlan">Αναμονή για Wi-Fi</string>
-    <string name="micloud_main_wait_wlan_charge">Συνδεθείτε στο Wi-Fi και φορτίστε πλήρως την συσκευή σας για να συνεχίσετε τον συγχρονισμό.</string>
-    <string name="micloud_main_wait_wlan_charge_sleep">Συνδεθείτε στο Wi-Fi, απενεργοποιήστε την οθόνη, και φορτίστε πλήρως την συσκευή σας για να συνεχίσετε τον συγχρονισμό.</string>
     <string name="micloud_manage_space_data">Διαχείριση δεδομένων στο cloud</string>
     <string name="micloud_manaul_sync_success_button_text">Προβολή λεπτομερειών</string>
     <string name="micloud_manaul_sync_success_time_prefix">Τελευταίος συγχρονισμός: %s</string>
@@ -293,8 +303,10 @@
     <string name="micloud_member_pay_order_error_toast">Σφάλμα δεδομένων</string>
     <string name="micloud_notif_content_battery_low">Πολύ χαμηλή μπαταρία.</string>
     <string name="micloud_notif_content_depend_wifi">Σύνδεση σε Wi-Fi για συγχρονισμό.</string>
+    <string name="micloud_notif_content_depend_wifi_china">Connect to WLAN to sync.</string>
     <string name="micloud_notif_content_dirty_data">Λεπτομέρειες</string>
     <string name="micloud_notif_content_master_depend_wifi">Συνδεθείτε σε Wi-Fi ή αλλάξτε τις ρυθμίσεις συγχρονισμού. Πατήστε για αλλαγή.</string>
+    <string name="micloud_notif_content_master_depend_wifi_china">Connect to WLAN or change sync settings. Tap to change.</string>
     <string name="micloud_notif_content_memory_low">Δεν υπάρχει αρκετός χώρος αποθήκευσης.</string>
     <string name="micloud_notif_content_multi_user_error">Συνδεθήκατε με τον ίδιο λογαριασμό που έχετε στον Πρώτο χώρο.</string>
     <string name="micloud_notif_content_privacy_reopen_failed">Προβολή λεπτομερειών</string>
@@ -336,6 +348,7 @@
     <string name="micloud_setting_sms_summary">SMS και MMS μηνύματα</string>
     <string name="micloud_setting_sms_summary_for_google_csp">Γραπτά μηνύματα</string>
     <string name="micloud_setting_wifi_summary">Ρυθμίσεις Wi-Fi</string>
+    <string name="micloud_setting_wifi_summary_china">WLAN settings</string>
     <string name="micloud_space_applist_detail">Διαχείρηση εφαρμογών στην Αρχική οθόνη σας</string>
     <string name="micloud_space_applist_title">Διαχείρηση εφαρμογών</string>
     <string name="micloud_space_duokan_detail">Λήψη και διαχείρηση ebooks με την εφαρμογή Duokan.</string>
@@ -369,6 +382,7 @@
     <string name="micloud_sync_result_secure_space_limit">Να μην γίνεται συγχρονισμός αντικειμένων από τον Δεύτερο χώρο</string>
     <string name="micloud_sync_result_sim_activated_error">Αδυναμία ενεργοποίησης κάρτας SIM</string>
     <string name="micloud_sync_result_wifi_only">Αυτό το αντικείμενο είναι πολύ μεγάλο. Συγχρονισμός όταν έχετε συνδεθεί με Wi-Fi.</string>
+    <string name="micloud_sync_result_wifi_only_china">This item is too big. Sync it when connected to WLAN.</string>
     <string name="micloud_upgrade_member">Αποκτήστε χώρο αποθήκευσης</string>
     <string name="micloud_user_space_title">Χώρος αποθήκευσης</string>
     <string name="micloud_warn_full_sum">Νέα αντικείμενα δεν θα συγχρονιστούν με το Xiaomi Cloud.</string>
@@ -376,8 +390,8 @@
     <string name="micloud_warn_low_sum">Το Xiaomi Cloud σας είναι 90% πλήρες.</string>
     <string name="micloud_warn_low_title">Σχεδόν γεμάτος χώρος</string>
     <string name="micloud_web_discription_place_holder">Επισκεφτείτε το %1$s στον υπολογιστή σας για διαχείριση των δεδομένων σας.</string>
-    <string name="micloud_wipe_data_confirm_label">Αφαίρεση δεδομένων από το cloud</string>
-    <string name="micloud_wipe_data_confirm_title">Διαγραφή από το τηλέφωνο αντικειμένων συγχρονισμένων με το Xiaomi Cloud μετά την αποσύνδεσή σας;</string>
+    <string name="micloud_wipe_data_confirm_label">Διαγραφή συγχρονισμένων στοιχείων από αυτή τη συσκευή;</string>
+    <string name="micloud_wipe_data_confirm_title">Ορισμένα στοιχεία από τις ακόλουθες εφαρμογές έχουν συγχρονιστεί με το Xiaomi Cloud. Μπορείτε να τα διαγράψετε από αυτή τη συσκευή ή να τα διατηρήσετε στο cloud.</string>
     <string name="micloud_wipe_data_remove">Διαγραφή</string>
     <string name="micloud_wipe_data_retain">Διατήρηση</string>
     <string name="mx_dspt">Mi Μηνύματα</string>
@@ -404,17 +418,23 @@
     <string name="pay_info_dialog_mibi_balance_prefix">Χρήση των υπόλοιπων Mi Μονάδων: %s</string>
     <string name="pay_info_dialog_title">Επιλογή μεθόδου πληρωμής</string>
     <string name="phone_number_required_dspt_provision">"Αυτή η υπηρεσία απαιτεί τον αριθμό τηλεφώνου σας. "</string>
+    <string name="picker_list_empty">Δεν υπάρχουν επαφές εδώ</string>
+    <string name="picker_search_empty">Αδυναμία εύρεσης επαφών</string>
+    <string name="picker_search_hint">Αναζήτηση</string>
     <string name="pre_privacy_policy">Πολιτική Απορρήτου</string>
     <string name="pre_user_agreement">Όροι Χρήσης</string>
     <string name="pref_summary_sync_display_photo_on_wifi_only">Συγχρονισμός φωτογραφιών προφίλ επαφών όταν είστε συνδεδεμένοι σε ένα δίκτυο Wi-Fi</string>
     <string name="pref_title_sync_contacts_title">Συγχρονισμός επαφών</string>
     <string name="pref_title_sync_display_photo_on_wifi_only">Χρήση Wi-Fi μόνο για συγχρονισμό φωτογραφιών</string>
+    <string name="pref_title_sync_display_photo_on_wifi_only_china">Only use WLAN to sync photos</string>
     <string name="preference_copied">Το \"%1$s\" αντιγράφηκε στο πρόχειρο.</string>
     <string name="privacy_and_agreement">Όροι και προϋποθέσεις</string>
     <string name="privacy_dialog_finddevice_all_purpose_pad">Καλώς ήλθατε στην εφαρμογή Εύρεση συσκευής! Μπορείτε να χρησιμοποιήσετε αυτή την υπηρεσία για να εντοπίσετε, κλειδώσετε ή διαγράψετε δεδομένα στη συσκευή σας σε περίπτωση που τη χάσετε.</string>
     <string name="privacy_dialog_finddevice_all_purpose_phone">Καλώς ήλθατε στην εφαρμογή Εύρεση συσκευής! Μπορείτε να χρησιμοποιήσετε αυτή την υπηρεσία για να εντοπίσετε, κλειδώσετε ή διαγράψετε δεδομένα στη συσκευή σας σε περίπτωση που τη χάσετε.</string>
     <string name="privacy_dialog_sync_all_purpose">Καλώς ήλθατε στις υπηρεσίες Xiaomi Cloud! Μπορείτε να χρησιμοποιήσετε την Xiaomi Cloud για συγχρονισμό μηνυμάτων, ιστορικού κλήσεων, επαφών, ρυθμίσεων περιηγητή, τραγουδιών, φωτογραφιών και βίντεο, ρυθμίσεων Wi-Fi, εγγραφών, διάταξης Αρχικής οθόνης, εφαρμογών, συμβάντων ημερολογίου, στοιχείων λίστας αποκλεισμού και Αποθήκης εφαρμογών σε όλες τις συνδεδεμένες συσκευές.</string>
+    <string name="privacy_dialog_sync_all_purpose_china">Welcome to Xiaomi Cloud services! You can use Xiaomi Cloud to sync your messages, call history, contacts, notes, Browser settings, songs, photos and videos, WLAN settings, recordings, Home screen layout, apps, calendar events, Blocklist items, and App vault across all connected devices.</string>
     <string name="privacy_doc_cloudservice">Καλώς ορίσατε στις υπηρεσίες Xiaomi Cloud! Μπορείτε να χρησιμοποιήσετε την Xiaomi Cloud για συγχρονισμό μηνυμάτων, ιστορικού κλήσεων, επαφών, ρυθμίσεων περιηγητή, τραγουδιών, φωτογραφιών και βίντεο, ρυθμίσεων Wi-Fi, εγγραφών, διάταξης Αρχικής οθόνης, εφαρμογών, συμβάντων ημερολογίου, στοιχείων λίστας αποκλεισμού και Αποθήκης εφαρμογών σε όλες τις συνδεδεμένες συσκευές. Αποκτήστε πρόσβαση στα στοιχεία που συγχρονίζετε από οποιονδήποτε περιηγητή στη διεύθυνση &lt;font color=#0097FF>&lt;b>i.mi.com&lt;/b>&lt;/font>.&lt;br />&lt;br />Ενδέχεται να απαιτείται εξερχόμενο μήνυμα SMS να ενεργοποίηση των υπηρεσιών. Ο πάροχος θα σας χρεώσει για το μήνυμα αυτό. Σε περίπτωση που αλλάξετε την κάρτα SIM, ενδέχεται να σταλεί αυτόματο μήνυμα να επανενεργοποίηση των υπηρεσιών.&lt;br />&lt;br />Θα προστατεύουμε τις προσωπικές πληροφορίες σύμφωνα με τους σχετικούς νόμους, κανονισμούς και πολιτικές απορρήτου.&lt;br />Για να λειτουργούν κανονικά, οι υπηρεσίες αυτές πρέπει να συνδεθούν στο ίντερνετ και απαιτούν τις ακόλουθες άδειες για να συλλέξουν τις απαιτούμενες προσωπικές σας πληροφορίες:&lt;br />• Ημερολόγιο:&lt;br />Για συγχρονισμό συμβάντων&lt;br />• Πρόσβαση σε SMS:&lt;br />Για συγχρονισμό μηνυμάτων&lt;br />• Πρόσβαση σε MMS:&lt;br />Για συγχρονισμό μηνυμάτων&lt;br />• Πρόσβαση στις επαφές:&lt;br />Για συγχρονισμό επαφών&lt;br />• Επεξεργασία επαφών:&lt;br />Για συγχρονισμό επαφών&lt;br />• Αποθήκευση:&lt;br />Για αποθήκευση στοιχείων στη συσκευή σας (π.χ. εικόνες, βίντεο, τραγούδια)&lt;br />Εάν δεν συμφωνείτε να παραχωρήσετε αυτές τις άδειες ή να κοινοποιήσετε και να μεταφορτώσετε τις προσωπικές σας πληροφορίες, δεν θα έχετε δυνατότητα να χρησιμοποιείτε τις υπηρεσίες. Σε τέτοια περίπτωση, μπορείτε να επιλέξετε να απεγκαταστήσετε την εφαρμογή, να αποσυνδεθείτε ή να περιορίσετε τις άδειες στις Ρυθμίσεις.&lt;br />Διαβάστε και συμφωνήστε με το &lt;a href=%1$s>&lt;u>Συμφωνητικό Χρήστη&lt;/u>&lt;/a> και την &lt;a href=%2$s>&lt;u>Πολιτική Απορρήτου&lt;/u>&lt;/a> πριν χρησιμοποιήσετε την Xiaomi Cloud.&lt;br /></string>
+    <string name="privacy_doc_cloudservice_china">"Welcome to Xiaomi Cloud services! You can use Xiaomi Cloud to sync your messages, call history, contacts, notes, Browser settings, songs, photos and videos, WLAN settings, recordings, Home screen layout, apps, calendar events, Blocklist items, and App vault across all connected devices. Access the things you sync from any browser at &lt;font color=#0097FF>&lt;b>i.mi.com&lt;/b>&lt;/font>.&lt;br />&lt;br />An outgoing SMS message may be required to activate these services. Your carrier will charge you for this message. When you switch your SIM card, a message may be sent automatically to reactivate these services.&lt;br />&lt;br />We shall protect your personal information in accordance with the relevant laws, regulations, and privacy policies.&lt;br />To be able to work normally, these services need to connect to the internet and require the following permissions in order to collect your personal information:&lt;br />• Calendar:&lt;br />For syncing events&lt;br />• Accessing SMS:&lt;br />For syncing messages&lt;br />• Accessing MMS:&lt;br />For syncing messages&lt;br />• Accessing contacts:&lt;br />For syncing contacts&lt;br />• Editing contacts:&lt;br />For syncing contacts&lt;br />• Storage:&lt;br />For saving items on your device (e.g. images, videos, songs)&lt;br />If you don't agree to grant such permissions or share and upload your personal information, you won't be able to use these services. You can choose to uninstall this app, sign out, or restrict permissions in the Settings in such cases.&lt;br />Read and agree to our &lt;a href=%1$s>&lt;u>User Agreement&lt;/u>&lt;/a> and &lt;a href=%2$s>&lt;u>Privacy Policy&lt;/u>&lt;/a> before using Xiaomi Cloud.&lt;br />"</string>
     <string name="privacy_doc_finddevice_pad">Καλώς ορίσατε στην Εύρεση συσκευής! Μπορείτε να χρησιμοποιήσετε αυτή την υπηρεσία για να εντοπίσετε, κλειδώσετε ή διαγράψετε δεδομένα στη συσκευή σας εάν τη χάσετε. Μπορείτε να μεταβείτε στη διεύθυνση &lt;font color=#0097FF>&lt;b>i.mi.com&lt;/b>&lt;/font> για εντοπισμό, κλείδωμα ή επαναφορά της.&lt;br />&lt;br />nΘα προστατεύουμε τις προσωπικές σας πληροφορίες σύμφωνα με τους σχετικούς νόμους, κανονισμούς και πολιτικές απορρήτου.&lt;br />nΓια να μπορεί να λειτουργεί κανονικά, η Εύρεση συσκευής πρέπει να συνδεθεί στο ίντερνετ και απαιτεί τις ακόλουθες άδειες για να συλλέξει τις προσωπικές σας πληροφορίες:&lt;br />• Πρόσβαση στις πληροφορίες συσκευής:&lt;br />nΓια ταυτοποίηση της συσκευής σας&lt;br />• Τοποθεσία:&lt;br />Για εντοπισμό της συσκευής σας και εναλλαγή σε λειτουργία χαμένης συσκευής&lt;br />Εάν δεν συμφωνείτε να παραχωρήσετε τέτοιες άδειες ή να κοινοποιήσετε και να μεταφορτώσετε τις προσωπικές σας πληροφορίες, δεν θα έχετε τη δυνατότητα να χρησιμοποιείτε αυτές τις υπηρεσίες. Σε τέτοια περίπτωση, μπορείτε να επιλέξετε να απεγκαταστήσετε αυτή την εφαρμογή, να αποσυνδεθείτε ή να περιορίσετε τις άδειες στις Ρυθμίσεις.&lt;br />nΠριν χρησιμοποιήσετε την Εύρεση συσκευής, διαβάστε και συμφωνήστε με τη &lt;a href=%1$s>&lt;u>Συμφωνία Χρήστη&lt;/u>&lt;/a> και την &lt;a href=%2$s>&lt;u>Πολιτική Απορρήτου&lt;/u>&lt;/a>.&lt;br /></string>
     <string name="privacy_doc_finddevice_phone">Καλώς ορίσατε στην Εύρεση συσκευής! Μπορείτε να χρησιμοποιήσετε αυτή την υπηρεσία για να εντοπίσετε, κλειδώσετε ή διαγράψετε δεδομένα στη συσκευή σας εάν τη χάσετε. Μπορείτε να μεταβείτε στη διεύθυνση &lt;font color=#0097FF>&lt;b>i.mi.com&lt;/b>&lt;/font> για εντοπισμό, κλείδωμα ή επαναφορά της.&lt;br />&lt;br />nΘα προστατεύουμε τις προσωπικές σας πληροφορίες σύμφωνα με τους σχετικούς νόμους, κανονισμούς και πολιτικές απορρήτου.&lt;br />nΓια να μπορεί να λειτουργεί κανονικά, η Εύρεση συσκευής πρέπει να συνδεθεί στο ίντερνετ και απαιτεί τις ακόλουθες άδειες για να συλλέξει τις προσωπικές σας πληροφορίες:&lt;br />• Πρόσβαση στις πληροφορίες συσκευής:&lt;br />nΓια ταυτοποίηση της συσκευής σας&lt;br />• Τοποθεσία:&lt;br />Για εντοπισμό της συσκευής σας και εναλλαγή σε λειτουργία χαμένης συσκευής&lt;br />Εάν δεν συμφωνείτε να χορηγήσετε τέτοιες άδειες ή να κοινοποιήσετε και να μεταφορτώσετε τις προσωπικές σας πληροφορίες, δεν θα έχετε τη δυνατότητα να χρησιμοποιείτε αυτές τις υπηρεσίες. Σε τέτοια περίπτωση, μπορείτε να επιλέξετε να απεγκαταστήσετε αυτή την εφαρμογή, να αποσυνδεθείτε ή να περιορίσετε τις άδειες στις Ρυθμίσεις.&lt;br />nΠριν χρησιμοποιήσετε την Εύρεση συσκευής, διαβάστε και συμφωνήστε με τη &lt;a href=%1$s>&lt;u>Συμφωνία Χρήστη&lt;/u>&lt;/a> και την &lt;a href=%2$s>&lt;u>Πολιτική Απορρήτου&lt;/u>&lt;/a>.&lt;br /></string>
     <string name="privacy_doc_finddevice_with_telephony_feature_pad">Καλώς ορίσατε στην Εύρεση συσκευής! Μπορείτε να χρησιμοποιήσετε αυτή την υπηρεσία για να εντοπίσετε, κλειδώσετε ή διαγράψετε δεδομένα στη συσκευή σας εάν τη χάσετε. Μπορείτε να μεταβείτε στη διεύθυνση &lt;font color=#0097FF>&lt;b>i.mi.com&lt;/b>&lt;/font> για εντοπισμό, κλείδωμα ή επαναφορά της.&lt;br />&lt;br />nΕνδέχεται να απαιτείται εξερχόμενο μήνυμα SMS να ενεργοποίηση των υπηρεσιών. Ο πάροχος θα σας χρεώσει για το μήνυμα αυτό. Σε περίπτωση που αλλάξετε την κάρτα SIM, ενδέχεται να σταλεί αυτόματο μήνυμα να επανενεργοποίηση των υπηρεσιών.&lt;br />&lt;br />Θα προστατεύουμε τις προσωπικές σας πληροφορίες σύμφωνα με τους σχετικούς νόμους, κανονισμούς και πολιτικές απορρήτου.&lt;br />nΓια να μπορεί να λειτουργεί κανονικά, η υπηρεσία αυτή πρέπει να συνδεθεί στο ίντερνετ και απαιτεί τις ακόλουθες άδειες για να συλλέξει τις προσωπικές σας πληροφορίες:&lt;br />• Πρόσβαση στις πληροφορίες συσκευής:&lt;br />nΓια ταυτοποίηση της συσκευής σας&lt;br />• Τοποθεσία:&lt;br />Για εντοπισμό της συσκευής σας και εναλλαγή σε λειτουργία χαμένης συσκευής&lt;br />Εάν δεν συμφωνείτε να παραχωρήσετε τέτοιες άδειες ή να κοινοποιήσετε και να μεταφορτώσετε τις προσωπικές σας πληροφορίες, δεν θα έχετε τη δυνατότητα να χρησιμοποιείτε αυτές τις υπηρεσίες. Σε τέτοια περίπτωση, μπορείτε να επιλέξετε να απεγκαταστήσετε αυτή την εφαρμογή, να αποσυνδεθείτε ή να περιορίσετε τις άδειες στις Ρυθμίσεις.&lt;br />nΠριν χρησιμοποιήσετε την Εύρεση συσκευής, διαβάστε και συμφωνήστε με τη &lt;a href=%1$s>&lt;u>Συμφωνία Χρήστη&lt;/u>&lt;/a> και την &lt;a href=%2$s>&lt;u>Πολιτική Απορρήτου&lt;/u>&lt;/a>.&lt;br /></string>
@@ -423,14 +443,6 @@
     <string name="provision_sync_items_loading">Προετοιμασία για συγχρονισμό αντικειμένων</string>
     <string name="reading_status">Κατάσταση φόρτωσης…</string>
     <string name="reading_status_failure">Αδυναμία φόρτωσης κατάστασης.</string>
-    <string name="search_cloudbackup_pref">Cloud Backup</string>
-    <string name="search_cloudbackup_pref_desc">Ενεργοποίηση/απενεργοποίηση Cloud Backup</string>
-    <string name="search_cloudbackup_pref_key_words">cloudbackup, cloud backup</string>
-    <string name="search_cloudbackup_pref_path">Mi Λογαριασμός/Xiaomi Cloud/Δημιουργία αντιγράφων ασφαλείας συσκευής</string>
-    <string name="search_finddevice_pref">Εύρεση Συσκευής</string>
-    <string name="search_finddevice_pref_desc">Ενεργοποίηση/απενεργοποίηση Εύρεσης Συσκευής</string>
-    <string name="search_finddevice_pref_key_words">εύρεσησυσκευής, εύρεση συσκευής</string>
-    <string name="search_finddevice_pref_path">Mi Λογαριασμός/Xiaomi Cloud/Εύρεση συσκευής</string>
     <string name="search_menu_title">Αναζήτηση</string>
     <string name="share_cancel">Η κοινοποίηση ακυρώθηκε</string>
     <string name="share_failed">Αδυναμία κοινοποίησης</string>
@@ -440,9 +452,12 @@
     <string name="share_weixin_not_installed">Το WeChat δεν έχει εγκατασταθεί.</string>
     <string name="short_cut_desc">Προσθήκη εικονιδίου του Xiaomi Cloud στην Αρχική οθόνη;</string>
     <string name="soundrecorder_sync_only_in_wifi">Χρήση Wi-Fi μόνο για συγχρονισμό</string>
+    <string name="soundrecorder_sync_only_in_wifi_china">Only use WLAN to sync</string>
     <string name="soundrecorder_sync_only_in_wifi_summary">Η Ηχογράφηση δεν θα χρησιμοποιήσει δεδομένα κινητής τηλεφωνίας για λήψη ή μεταφόρτωση εγγραφών</string>
+    <string name="soundrecorder_sync_only_in_wifi_summary_china">Recorder will not use mobile data to download or upload recordings</string>
     <string name="soundrecorder_sync_records">Συγχρονισμός με το Xiaomi Cloud</string>
     <string name="special_func_title">Ειδικές λειτουργίες</string>
+    <string name="starred_contact">Αγαπημένα</string>
     <string name="status_bar_notification_info_overflow">999+</string>
     <string name="storage_manage_expansion">Αποκτήστε περισσότερο</string>
     <string name="storage_manage_list_title">Δεδομένα στο Cloud</string>
@@ -456,6 +471,7 @@
     <string name="sub_alert_notif_title">Συγχρονισμός με το Xiaomi Cloud</string>
     <string name="sub_sync_item_sms_summary">Συγχρονισμός μόνο μηνυμάτων που περιέχουν φωτογραφίες, ήχους, ή άλλα πολυμέσα όταν είστε συνδεδεμένοι σε ένα δίκτυο Wi-Fi</string>
     <string name="sub_sync_item_sms_title_wifi_only">Χρήση Wi-Fi μόνο για συγχρονισμό MMS</string>
+    <string name="sub_sync_item_sms_title_wifi_only_china">Only use WLAN to sync MMS</string>
     <string name="summary_collapsed_preference_list">%1$s, %2$s</string>
     <string name="sync_detail_summary_master_sync_off">Ο συγχρονισμός είναι ανενεργός</string>
     <string name="sync_detail_summary_off">Ο συγχρονισμός είναι ανενεργός</string>
@@ -467,8 +483,11 @@
     <string name="sync_dspt_entrance_provision_confirm_open">Χρήση του Xiaomi Cloud</string>
     <string name="sync_dspt_entrance_provision_confirm_title">Να μην γίνει χρήση του Xiaomi Cloud;</string>
     <string name="sync_dspt_entrance_provision_network">Αυτή η εφαρμογή απαιτεί σύνδεση στο διαδίκτυο για να λειτουργήσει κανονικά. Ο συγχρονισμός δεδομένων μπορεί να απαιτεί σύνδεση δεδομένων κινητής και ενεργοποίηση του WiFi.</string>
+    <string name="sync_dspt_entrance_provision_network_china">This app needs to connect to the internet to work normally. Syncing data may require mobile data connection and turning on WLAN.</string>
     <string name="sync_dspt_entrance_provision_skip">Παράλειψη αυτού του βήματος</string>
     <string name="sync_dspt_provision">"Συγχρονίστε τις φωτογραφίες, επαφές, σημειώσεις και άλλα σε όλες τις συσκευές σας ή αποκτήστε πρόσβαση σε αυτές στο "</string>
+    <string name="sync_dspt_provision2">i.mi.com</string>
+    <string name="sync_dspt_provision2_int">www.mi.com/micloud</string>
     <string name="sync_dspt_provision3">". Μπορείτε να ενεργοποιήστε ή απενεργοποιήστε την λειτουργία αυτή στις Ρυθμίσεις.
 "</string>
     <string name="sync_item_calllog_summary">Συγχρονισμός εξερχόμενων και εισερχόμενων κλήσεων σε αυτό το τηλέφωνο</string>

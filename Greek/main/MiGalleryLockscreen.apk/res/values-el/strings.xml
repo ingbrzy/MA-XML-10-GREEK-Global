@@ -97,6 +97,14 @@ ID:%s
     <string name="just_a_second">Μια στιγμή…</string>
     <string name="loading">Μια στιγμή…</string>
     <string name="logout_account">Αποσύνδεση</string>
+    <string name="miuix_sbl_tracking_progress_labe_pull_to_refresh">Τραβήξτε προς τα κάτω για ανανέωση</string>
+    <string name="miuix_sbl_tracking_progress_labe_refreshed">Επιτυχής ανανέωση</string>
+    <string name="miuix_sbl_tracking_progress_labe_refreshing">Γίνεται ανανέωση…</string>
+    <string name="miuix_sbl_tracking_progress_labe_release_to_refresh">Αφήστε για ανανέωση</string>
+    <string name="miuix_sbl_tracking_progress_labe_up_nodata">Αυτά προς το παρόν</string>
+    <string name="miuix_sbl_tracking_progress_labe_up_none">Αυτά προς το παρόν</string>
+    <string name="miuix_sbl_tracking_progress_labe_up_refresh">Μια στιγμή…</string>
+    <string name="miuix_sbl_tracking_progress_labe_up_refresh_fail">Αδυναμία λήψης αντικειμένων</string>
     <string name="nick_name">Ψευδώνυμο</string>
     <string name="no_account">Δεν έχετε συνδεθεί</string>
     <string name="no_phone">Χωρίς αριθμό τηλεφώνου</string>
@@ -218,6 +226,7 @@ ID:%s
     <string name="sns_access_token_expired_warning">Η συνεδρία έληξε. Συνδεθείτε ξανά για επανασύνδεση αυτού του λογαριασμού.</string>
     <string name="sns_bind_limit">Πάρα πολλές προσπάθειες. Δοκιμάστε άλλους τρόπους σύνδεσης.</string>
     <string name="sns_sign_in">Άλλοι τρόποι να συνδεθείτε</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
     <string name="temporary_not_available">Αυτή η λειτουργία δεν είναι διαθέσιμη ακόμη</string>
     <string name="ticket_hint">Κωδικός επαλήθευσης</string>
     <string name="ticket_invalid">Ο κωδικός που πληκτρολογήσατε είναι λανθασμένος</string>

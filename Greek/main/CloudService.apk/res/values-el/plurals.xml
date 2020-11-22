@@ -56,6 +56,10 @@
         <item quantity="other">%d δίκτυα Wi-Fi</item>
         <item quantity="one">%d δίκτυο Wi-Fi</item>
     </plurals>
+    <plurals name="dirty_wlan_count_china">
+        <item quantity="other">%d WLAN networks</item>
+        <item quantity="one">%d WLAN network</item>
+    </plurals>
     <plurals name="items_unsynced">
         <item quantity="other">Στοιχεία σε αναμονή για συγχρονισμό: %d</item>
         <item quantity="one">Στοιχείο σε αναμονή για συγχρονισμό: %d</item>
@@ -75,5 +79,9 @@
     <plurals name="provision_sync_items_status_title">
         <item quantity="other">%s υπηρεσίες θα συγχρονιστούν με το Xiaomi Cloud</item>
         <item quantity="one">%s υπηρεσία θα συγχρονιστεί με το Xiaomi Cloud</item>
+    </plurals>
+    <plurals name="select_no_more_than">
+        <item quantity="other">Αδυναμία επιλογής πάνω από %d στοιχείων</item>
+        <item quantity="one">Αδυναμία επιλογής πάνω από %d στοιχείου</item>
     </plurals>
 </resources>

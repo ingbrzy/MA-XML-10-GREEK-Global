@@ -19,6 +19,7 @@
     <string name="application_package_introduction">Η εφαρμογή αυτή σας επιτρέπει να εγκαθιστάτε εφαρμογές τρίτων, να τις σαρώνετε πριν από την εγκατάσταση, και κατόπιν, να δίνετε συστάσεις.</string>
     <string name="application_permissions">Άδειες εφαρμογής</string>
     <string name="back">Πίσω</string>
+    <string name="backup_introduction">Μπορείτε να χρησιμοποιήσετε αυτή την εφαρμογή για τη δημιουργία αντιγράφων ασφαλείας και για επαναφορά στοιχειών στη συσκευή σας.</string>
     <string name="calculator_introduction">Μπορείτε να χρησιμοποιείτε αυτή την εφαρμογή για υπολογισμούς, μετατροπή μονάδων και νομισμάτων, και για να υπολογίζετε τις αποπληρωμές υποθήκης.</string>
     <string name="camera_introduction">Μπορείτε να χρησιμοποιείτε την Κάμερα για να βγάζετε φωτογραφίες και να γράφετε βίντεο.</string>
     <string name="carrier_introduction">Για να σας παρέχουμε καλύτερες υπηρεσίες, η συσκευή σας μπορεί κατά καιρούς να στέλνει πληροφορίες για την έκδοση της συσκευής, δεδομένα αναγνώρισης συσκευής (συμπεριλαμβανομένων των αριθμών IMEI/IMSI/MSISDN/διεύθυνσης MAC, MEID/ICCID) και προσεγγιστικές πληροφορίες τοποθεσίας (περιλαμβανομένου του ID βάσης σταθμού) στον πάροχό μέσω Wi-Fi, δικτύου δεδομένων κινητής τηλεφωνίας ή δωρεάν SMS. Ο πάροχος βεβαιώνει ότι θα αναλύσει τις σχετικές πληροφορίες μόνο για να βελτιώσει την ποιότητα των υπηρεσιών ή για να παρέχει εξατομικευμένες υπηρεσίες ή τεχνολογίες, και ότι δεν θα γνωστοποιήσει τις σχετικές πληροφορίες σε τρίτους σε οποιαδήποτε μορφή που σας αναγνωρίζει προσωπικά. Η δήλωση του συγκεκριμένου πάροχου θα υπερισχύει. Συμβουλευτείτε τον πάροχό σας σχετικά με το κόστος για τη χρήση αυτής της υπηρεσίας.</string>
@@ -44,6 +45,7 @@
     <string name="disageement_abnormal_download">Εάν δεν συμφωνείτε να χορηγήσετε τέτοιες άδειες ή να κοινοποιήσετε και να μεταφορτώσετε τις προσωπικές σας πληροφορίες, δεν θα είστε σε θέση να χρησιμοποιείτε αυτή την υπηρεσία.</string>
     <string name="disagree">Ακύρωση</string>
     <string name="disagreement_abnormal_running">Εάν δεν συμφωνείτε να χορηγήσετε τέτοιες άδειες ή να κοινοποιήσετε και να μεταφορτώσετε τις προσωπικές σας πληροφορίες, δεν θα είστε σε θέση να χρησιμοποιείτε αυτή την εφαρμογή. Σε τέτοιες περιπτώσεις, μπορείτε να επιλέξετε να μην χρησιμοποιείτε αυτή την εφαρμογή ή να περιορίσετε τις άδειες στις Ρυθμίσεις.</string>
+    <string name="disagreement_abnormal_running_fast_pairing">Εάν δεν συμφωνείτε να χορηγήσετε τέτοιες άδειες, δεν θα έχετε δυνατότητα να χρησιμοποιείτε αυτή την εφαρμογή. Σε τέτοιες περιπτώσεις, μπορείτε να επιλέξετε να περιορίσετε τις άδειες και να απενεργοποιήσετε αυτή τη λειτουργία στις Ρυθμίσεις.</string>
     <string name="disagreement_donnot_use_application">Εάν δεν συμφωνείτε να χορηγήσετε τέτοιες άδειες ή να κοινοποιήσετε και να μεταφορτώσετε τις προσωπικές σας πληροφορίες, δεν θα είστε σε θέση να χρησιμοποιείτε αυτή την εφαρμογή. Σε τέτοιες περιπτώσεις, μπορείτε να επιλέξετε να μην χρησιμοποιείτε αυτή την εφαρμογή.</string>
     <string name="disagreement_donnot_use_product">Εάν δεν συμφωνείτε να χορηγήσετε τέτοιες άδειες ή να κοινοποιήσετε και να μεταφορτώσετε τις προσωπικές σας πληροφορίες, δεν θα είστε σε θέση να χρησιμοποιείτε αυτό το προϊόν. Σε τέτοιες περιπτώσεις, μπορείτε να επιλέξετε να μην χρησιμοποιείτε αυτό το προϊόν.</string>
     <string name="disagreement_donnot_use_service">Εάν δεν συμφωνείτε να χορηγήσετε τέτοιες άδειες ή να κοινοποιήσετε και να μεταφορτώσετε τις προσωπικές σας πληροφορίες, δεν θα είστε σε θέση να χρησιμοποιείτε αυτή την υπηρεσία. Σε τέτοιες περιπτώσεις, μπορείτε να επιλέξετε να μην χρησιμοποιείτε αυτή την υπηρεσία.</string>
@@ -51,18 +53,22 @@
     <string name="disagreement_function">Εάν δεν συμφωνείτε να χορηγήσετε τέτοιες άδειες ή να κοινοποιήσετε και να μεταφορτώσετε τις προσωπικές σας πληροφορίες, δεν θα είστε σε θέση να χρησιμοποιείτε αυτή τη λειτουργία. Σε τέτοιες περιπτώσεις, μπορείτε να επιλέξετε να μην χρησιμοποιείτε αυτή τη λειτουργία.</string>
     <string name="disagreement_location_service">Εάν δεν συμφωνείτε να χορηγήσετε τέτοιες άδειες ή να κοινοποιήσετε και να μεταφορτώσετε τις προσωπικές σας πληροφορίες, δεν θα είστε σε θέση να χρησιμοποιείτε αυτή την υπηρεσία.</string>
     <string name="disagreement_terminate_service">Εάν δεν συμφωνείτε να χορηγήσετε τέτοιες άδειες ή να κοινοποιήσετε και να μεταφορτώσετε τις προσωπικές σας πληροφορίες, δεν θα είστε σε θέση να χρησιμοποιείτε αυτή την εφαρμογή. Σε τέτοιες περιπτώσεις, μπορείτε να επιλέξετε να την απεγκαταστήσετε, να αποσυνδεθείτε ή να περιορίσετε τις άδειες στις Ρυθμίσεις.</string>
-    <string name="download_introduction">Η εφαρμογή αυτή διαχειρίζεται όλες τις λήψεις σας, συμπεριλαμβανομένων εκείνων που πραγματοποιήθηκαν στην GetApps, Mi Βίντεο, Ενημερώσεις, Θέματα και στο Πρόγραμμα περιήγησης.</string>
+    <string name="download_introduction">Το εργαλείο \"Λήψεις\" χρησιμοποιεί το Xunlei για λήψη στοιχείων στη συσκευή σας. Το εργαλείο αυτό λειτουργεί για GetApps, ενημερώσεις συστήματος, θέματα, βίντεο και λήψεις περιηγητή.</string>
     <string name="enable_accessibility_canceled">Πρόσβαση απορρίφθηκε.</string>
     <string name="enable_accessibility_dialog_message">Ενεργοποιήσατε το TalkBack έχοντας πατήσει στην οθόνη με 2 δάκτυλα για παραπάνω από 10 δευτερόλεπτα. Το TalkBack παρέχει φωνητική βοήθεια για άτομα με προβλήματα όρασης. Εάν το ενεργοποιήσατε κατά λάθος, πατήστε το κουμπί Ακύρωση, και στην συνέχεια διπλό άγγιγμα στην οθόνη.</string>
     <string name="enable_accessibility_dialog_negative_btn">Ακύρωση</string>
     <string name="enable_accessibility_dialog_positive_btn">ΟΚ</string>
     <string name="fast_application_introduction">Το πλαίσιο Άμεσων εφαρμογών σας επιτρέπει να δημιουργείτε και να παρέχετε υπηρεσίες στις άμεσες εφαρμογές.</string>
+    <string name="fast_pairing_introduction">Το Mi Link επιτρέπει στη συσκευή σας να συνδεθεί σε κοντινές συσκευές Bluetooth με χρήση της υπηρεσίας MIUI Bluetooth. Για να έχετε δυνατότητα εύρεσης κοντινών συσκευών, επιτρέψτε στην υπηρεσία MIUI Bluetooth να συνδεθεί στο ίντερνετ.</string>
     <string name="font_hint_large">Προεπιλεγμένο μέγεθος κειμένου</string>
     <string name="font_hint_normal">Αύξηση μεγέθους κειμένου</string>
     <string name="framework_introduction">Το Πλαίσιο Υπηρεσιών Mi σας επιτρέπει να χρησιμοποιείτε τον Mi λογαριασμό, Mi Push και MIUI BI.</string>
     <string name="framwork_base_service">Για να σας παρέχουμε αυτές τις υπηρεσίες, το Πλαίσιο Υπηρεσιών Mi (Mi Λογαριασμός, Mi Push, Mi Stats, MIUI BI) χρειάζεται σύνδεση στο Ίντερνετ, πρόσβαση στην τοποθεσία σας, τον τηλεφωνικό σας αριθμό, τους αριθμούς IMEI και IMSI και να επιτρέψετε η συσκευή σας να λαμβάνει ειδοποιήσεις push</string>
     <string name="game_introduction">Το plug-in παιχνιδιών σας επιτρέπει να συνδέεστε, να δημιουργείτε παραγγελίες, να ολοκληρώνετε πληρωμές, να χρησιμοποιείτε κουπόνια και να συμμετέχετε σε προωθητικές ενέργειες.</string>
     <string name="google_service_introduction">Για να μπορεί να λειτουργεί κανονικά, η Google Play πρέπει να συνδεθεί στο Ίντερνετ, να αποκτήσει πρόσβαση στην τοποθεσία σας, να μπορεί να ηχογραφεί ήχο, να πραγματοποιεί κλήσεις, να έχει πρόσβαση στα συμβάντα ημερολογίου, ιστορικό κλήσεων, αισθητήρες, κάμερα, πληροφορίες συσκευής και λογαριασμούς.</string>
+    <string name="home_settings_miui_home">Κλασσική</string>
+    <string name="home_settings_poco_launcher">Συρτάρι εφαρμογών</string>
+    <string name="home_settings_title">Επιλογή προεπιλεγμένου προγράμματος εκκίνησης</string>
     <string name="ime_privacy_policy">Πολιτική Απορρήτου για επιλεγμένο πληκτρολόγιο</string>
     <string name="ime_privacy_policy_no_network">Δεν υπάχει σύνδεση δικτύου. Δείτε την Πολιτική Απορρήτου για αυτό το πληκτρολόγιο στο %s.</string>
     <string name="input_method_category">Επιλογή προεπιλεγμένου πληκτρολογίου που θα χρησιμοποιείτε για τα μηνύματα, σημειώσεις, και σχεδόν για όλα. Μπορείτε αργότερα να εγκαταστήσετε πληκτρολόγια ανεξάρτητων κατασκευαστών.</string>
@@ -70,16 +76,27 @@
     <string name="install_preinstall_app">Φόρτωση εφαρμογών…</string>
     <string name="item_fingerprint">Δακτυλικό αποτύπωμα</string>
     <string name="item_lock_screen_password">Μόνο κλείδωμα οθόνης</string>
+    <string name="ktlocation_U">(KT Service Agent)</string>
+    <string name="ktposition_header">Κοινοποίηση πληροφοριών τοποθεσίας με υπηρεσίες επείγουσας διάσωσης</string>
     <string name="language_picker_other_languages_title">Περισσότερες γλώσσες</string>
     <string name="language_settings">Επιλογή γλώσσας</string>
     <string name="locale_picker_other_locale_title">Περισσότερες περιοχές</string>
     <string name="locale_picker_title">Επιλέξτε την περιοχή σας</string>
+    <string name="location_U">U+ GPSnWPS</string>
+    <string name="location_content">Σύμφωνα με τον νόμο, οι πάροχοι κινητής τηλεφωνίας μπορούν να αποκτήσουν τις πληροφορίες τοποθεσίας κινητών συσκευών, ώστε να είναι σε συμμόρφωση με τις υπηρεσίες έκτακτης ανάγκης (πυροσβεστική υπηρεσία και αστυνομία), οι οποίες επιδιώκουν τους σκοπούς ασφάλειας και έκτακτης διάσωσης.</string>
     <string name="location_introduction">Οι υπηρεσίες βάσει τοποθεσίας βρίσκουν προϊόντα και υπηρεσίες κοντά σας.</string>
+    <string name="location_location">Οι υπηρεσίες έκτακτης ανάγκης μπορούν να αποκτήσουν την τρέχουσα τοποθεσία σας κατόπιν αιτήματος</string>
     <string name="lockscreen_introduction">Η Wallpaper Carousel σας επιτρέπει να λαμβάνετε καθημερινά νέες φωτογραφίες στην Οθόνη κλειδώματος.</string>
     <string name="mint_keyboard_oobe_checkbox">Έχω διαβάσει και αποδέχομαι την Πολιτική Απορρήτου της Πληκτρολόγιο Mint</string>
     <string name="mint_keyboard_oobe_terms">Πολιτική απορρήτου της Πληκτρολόγιο Mint</string>
     <string name="miui_privacy_policy_no_network">Δεν έχετε σύνδεση Ίντερνετ. Δείτε την Πολιτική Απορρήτου στο %s.</string>
     <string name="miui_terms_no_network">Δεν έχετε σύνδεση στο Ίντερνετ. Δείτε τους Όρους Χρήσης στο %s.</string>
+    <string name="mobile_network">Με χρήση δεδομένων κινητής τηλεφωνίας</string>
+    <string name="move_data_dialog_box_le">Αυτό επιτρέπει τη χρήση δεδομένων κινητής τηλεφωνίας και σύνδεσης GPS βάσει του αιτήματος του χρήστη. Ο συγχρονισμός λογαριασμών και άλλων στοιχείων ενδέχεται να απαιτεί τη χρήση δεδομένων κινητής τηλεφωνίας ανάλογα με τις προδιαγραφές της έξυπνης συσκευής.</string>
+    <string name="move_data_dialog_box_title">"Εκτός και εάν έχετε πρόγραμμα με απεριόριστα δεδομένα κινητής τηλεφωνίας, η χρήση δεδομένων κινητής τηλεφωνίας μπορεί να επιφέρει πρόσθετες χρεώσεις παρόχου. Χρήση δεδομένων κινητής τηλεφωνίας παρ' όλα αυτά;"</string>
+    <string name="move_data_dialog_cancel">Ακύρωση</string>
+    <string name="move_data_dialog_title">Μπορείτε να περιορίσετε τη σύνδεση δεδομένων κινητής τηλεφωνίας αργότερα στις Ρυθμίσεις</string>
+    <string name="move_data_dialog_use">Χρήση</string>
     <string name="multisim_settings_category">Ρυθμίσεις κάρτας SIM</string>
     <string name="multisim_settings_title">Εντοπίστηκαν 2 κάρτες SIM</string>
     <string name="navigation_picker_gesture_guide">Οδηγός χειρονομιών</string>
@@ -111,6 +128,8 @@
     <string name="permission_account">Πρόσβαση στους λογαριασμούς στη συσκευή σας:</string>
     <string name="permission_account_introduction">Για σύνδεση με Mi Λογαριασμό</string>
     <string name="permission_application_package_introduction">Για πρόσβαση στον χώρο αποθήκευσης για ανάλυση και σάρωση πακέτων εγκατάστασης</string>
+    <string name="permission_backup">Γίνεται πρόσβαση στον αποθηκευτικό χώρο</string>
+    <string name="permission_backup_introduction">Για πρόσβαση και αποθήκευση αντιγράφων ασφαλείας στη συσκευή σας</string>
     <string name="permission_call_records">Πρόσβαση στο ιστορικό κλήσεων:</string>
     <string name="permission_call_records_introduction">Για πρόσβαση στο ιστορικό κλήσεων με σκοπό την προβολή αποκλεισμένων αντικειμένων</string>
     <string name="permission_call_state_introduction">Για πρόσβαση στην κατάσταση τηλεφώνου, εγγραφή κλήσεων και παύση εγγραφής κατά τη διάρκεια εισερχόμενων κλήσεων</string>
@@ -152,6 +171,8 @@
     <string name="poco_agree_terms_other">(Περιλαμβανομένης και της Πολιτικής Απορρήτου και της Συμφωνίας Χρήστη του Προγράμματος Εκκίνησης POCO)</string>
     <string name="poco_launcher_privacy_policy">Πολιτική Απορρήτου Εκκινητή POCO</string>
     <string name="poco_launcher_user_agreement">Συμφωνία Χρήστη Εκκινητή POCO</string>
+    <string name="position_header">Κοινοποίηση πληροφοριών τοποθεσίας</string>
+    <string name="position_subheading">Πληροφορίες τοποθεσίας</string>
     <string name="pref_title_data_slot">Προτιμώμενη κάρτα SIM δεδομένων</string>
     <string name="pref_title_voice_slot">Προτιμώμενη φωνητική κάρτα SIM</string>
     <string name="privacy_policy">Πολιτική Απορρήτου</string>
@@ -168,6 +189,7 @@
     <string name="service_agreement">Διάβασα και συμφώνησα με τους όρους και προϋποθέσεις.</string>
     <string name="service_name_album">Συλλογή</string>
     <string name="service_name_application_package">Εγκατάσταση πακέτων</string>
+    <string name="service_name_backup">Αντίγραφα ασφαλείας</string>
     <string name="service_name_calculator">Aριθμομηχανή</string>
     <string name="service_name_camera">Κάμερα</string>
     <string name="service_name_carrier">Δήλωση για τις υπηρεσίες πάροχου</string>
@@ -176,6 +198,7 @@
     <string name="service_name_content_center">Κέντρο Περιεχομένου</string>
     <string name="service_name_download">Λήψεις</string>
     <string name="service_name_fast_application">Πλαίσιο Άμεσων εφαρμογών</string>
+    <string name="service_name_fast_pairing">Mi Link</string>
     <string name="service_name_game">Plug-in για παιχνίδια</string>
     <string name="service_name_google_service">Δήλωση για τις υπηρεσίες Google</string>
     <string name="service_name_location">Υπηρεσίες βάσει τοποθεσίας</string>
@@ -186,6 +209,7 @@
     <string name="service_name_security">Ασφάλεια</string>
     <string name="service_name_service_framework">Πλαίσιο Υπηρεσιών Mi</string>
     <string name="service_policy">&lt;Data>Διαβάστε και συμφωνήστε με την &lt;a href=%1$s>Πολιτική Απορρήτου&lt;/a >.&lt;/Data></string>
+    <string name="service_policy_download">&lt;Data>Πριν χρησιμοποιήσετε τις υπηρεσίες μας, διαβάστε και συμφωνήστε με την &lt;a href=%1$s>Πολιτική Απορρήτου της Xunlei&lt;/a >.&lt;/Data></string>
     <string name="service_privacy_index">Πολιτική Απορρήτου</string>
     <string name="servicestate_title">Δήλωση για τις βασικές υπηρεσίες</string>
     <string name="setting_locale">Γίνεται ρύθμιση περιοχής…</string>
@@ -218,7 +242,7 @@
     <string name="terms_of_use_label_phrase">, Συχνές φράσεις</string>
     <string name="terms_of_use_label_systemhelper">, Υπηρεσία αυτοεξυπηρέτησης</string>
     <string name="terms_of_use_label_updater">, Ενημερώσεις</string>
-    <string name="terms_of_use_lable_apps">Υπηρεσίες Mi, υπηρεσίες ενεργοποίησης κάρτας SIM Mi, Xiaomi Cloud, Εύρεση συσκευής, Αρχική Οθόνη, Παιχνίδια, MIUI Daemon, στοιχεία λειτουργικού συστήματος MSA, υπηρεσίες μετάφρασης, Άμεσες εφαρμογές, Αποθήκη εφαρμογών, στατιστικά στοιχεία, Mi Link</string>
+    <string name="terms_of_use_lable_apps">Υπηρεσίες Mi, υπηρεσίες ενεργοποίησης κάρτας SIM Mi, Xiaomi Cloud, Εύρεση συσκευής, Αρχική Οθόνη, Παιχνίδια, MIUI Daemon, στοιχεία λειτουργικού συστήματος MSA, υπηρεσίες μετάφρασης, MIUI SDK, Άμεσες εφαρμογές, Αποθήκη εφαρμογών, στατιστικά στοιχεία, Mi Link</string>
     <string name="terms_of_use_lable_default_input_method_facemoji">"
 
 Πρέπει να αποδεχτείτε την Πολιτική Απορρήτου του Facemoji πριν χρησιμοποιήσετε αυτή τη λειτουργία."</string>
@@ -235,7 +259,7 @@
     <string name="terms_privacy_policy_input_method_kika">Πολιτική Απορρήτου Kika</string>
     <string name="title_fingerprint">Ορισμός κωδικού</string>
     <string name="user_agreement">Όροι Χρήσης</string>
-    <string name="user_agreement_declare">Πριν χρησιμοποιήσετε το MIUI, πρέπει να διαβάσετε και να συμφωνήσετε με τη Συμφωνία Χρήστη και την Πολιτική Απορρήτου. Όσο ενεργοποιείται η συσκευή σας, η Υπηρεσία Ενεργοποίησης Mi SIM, Xiaomi Cloud, Εύρεση συσκευής, Αρχική Οθόνη, Συχνές φράσεις, Υπηρεσία μετάφρασης, MIUI Daemon, Πρόγραμμα προβολής HTML, Βοηθός AI, Μπαταρία και Απόδοση, Ανιχνευτής Ισχύος, Joyose, Ρύθμιση του OS AI, Διαχειριστής αδειών και Ενημερώσεις θα συνδεθούν στο δίκτυο. Οι Έξυπνες υπηρεσίες θα συνδεθούν στο δίκτυο και θα πραγματοποιήσουν πρόσβαση στην τοποθεσία σας.</string>
+    <string name="user_agreement_declare">Πριν χρησιμοποιήσετε το MIUI, πρέπει να διαβάσετε και να συμφωνήσετε με τη Συμφωνία Χρήστη και την Πολιτική Απορρήτου. Όσο ενεργοποιείται η συσκευή σας, η Υπηρεσία Ενεργοποίησης Mi SIM, Xiaomi Cloud, Εύρεση συσκευής, Αρχική Οθόνη, Συχνές φράσεις, Υπηρεσία μετάφρασης, MIUI Daemon, Πρόγραμμα προβολής HTML, MIUI SDK, Βοηθός AI, Μπαταρία και Απόδοση, Ανιχνευτής Ισχύος, Joyose, Ρύθμιση του OS AI, Διαχειριστής αδειών και Ενημερώσεις θα συνδεθούν στο δίκτυο. Οι Έξυπνες υπηρεσίες θα συνδεθούν στο δίκτυο και θα πραγματοποιήσουν πρόσβαση στην τοποθεσία σας.</string>
     <string name="voice_assist_advice">Το Mi AI σάς επιτρέπει να χρησιμοποιείτε έλεγχο φωνής, αλλά καταναλώνει περισσότερη ισχύ (+1% κάθε ώρα).</string>
     <string name="voice_assist_condition">"Θα είστε σε θέση να χρησιμοποιήσετε το Mi AI στις εξής περιπτώσεις: r
 1. Όταν η οθόνη είναι ενεργοποιημένη. r

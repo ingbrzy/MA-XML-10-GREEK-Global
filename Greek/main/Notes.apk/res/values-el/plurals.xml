@@ -120,6 +120,10 @@
         <item quantity="other">Σε %1$d ημέρες</item>
         <item quantity="one">Σε %1$d ημέρα</item>
     </plurals>
+    <plurals name="todo_terms">
+        <item quantity="other">%1$s εργασίες</item>
+        <item quantity="one">%1$s εργασία</item>
+    </plurals>
     <plurals name="word_count">
         <item quantity="other">%d χαρακτήρες</item>
         <item quantity="one">%d χαρακτήρας</item>

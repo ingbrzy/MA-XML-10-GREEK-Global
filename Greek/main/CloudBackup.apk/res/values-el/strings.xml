@@ -37,7 +37,6 @@
     <string name="back_up_task_in_process">Γίνεται δημιουργία αντίγραφου ασφαλείας…</string>
     <string name="back_up_task_unfinished">Αδυναμία δημιουργίας αντίγραφου ασφαλείας</string>
     <string name="backing_up_to_micloud">Γίνεται δημιουργία αντίγραφου ασφαλείας…</string>
-    <string name="backup_fail_wifi_needed">Αδυναμία δημιουργίας αντίγραφων ασφαλείας, απαιτείται Wi-Fi.</string>
     <string name="backup_failed_reason_cloud_space_not_enough">Ανεπαρκής χώρος αποθήκευσης στο Xiaomi Cloud. Αναβαθμίστε το πλάνο σας ή ελευθερώστε χώρο.</string>
     <string name="backup_failed_reason_disk_space_not_enough">Ανεπαρκής χώρος αποθήκευσης. Ελευθερώστε πρώτα χώρο.</string>
     <string name="backup_failed_reason_network_error">Πρόβλημα δικτύου. Περιμένετε ένα με δύο λεπτά και προσπαθήστε ξανά.</string>
@@ -58,6 +57,7 @@
     <string name="btn_restore_resume">Συνέχεια</string>
     <string name="btn_restore_retry">Προσπαθήστε ξανά</string>
     <string name="btn_restore_wait">Αναμονή για Wi-Fi</string>
+    <string name="btn_restore_wait_china">Wait for WLAN</string>
     <string name="btn_retry">Έλεγχος ξανά</string>
     <string name="btn_skip">Παράλειψη αυτού του βήματος</string>
     <string name="button_cancel">Ακύρωση</string>
@@ -87,10 +87,15 @@
 *  Ρυθμίσεις ειδοποιήσεων 
 *  MIUI και ρυθμίσεις συστήματος 
 Σημείωμα: Από τα δεδομένα εφαρμογών που έχετε εγκαταστήσει δεν θα δημιουργηθεί αντίγραφο ασφαλείας στο Xiaomi Cloud."</string>
+    <string name="cloud_back_up_detail_discription_china">"These items will be backed up to Xiaomi Cloud when your device is connected to WLAN: 
+*  Apps, Home screen layout, and wallpapers 
+*  Alarm, clock, and time settings 
+*  Notification settings 
+*  MIUI and system settings 
+Note: Data for apps you've installed won't be backed up to Xiaomi Cloud."</string>
     <string name="cloud_back_up_frequence_choice_title">Προγραμματισμός για δημιουργία αντίγραφου ασφαλείας</string>
     <string name="cloud_back_up_frequence_long">Κάθε 7 μέρες</string>
     <string name="cloud_back_up_frequence_short">Κάθε ημέρα</string>
-    <string name="cloud_back_up_no_network_warn">Αδυναμία σύνδεσης με Wi-Fi</string>
     <string name="cloud_back_up_ok_btn">OK</string>
     <string name="cloud_back_up_opening">Περιμένετε μια στιγμή…</string>
     <string name="cloud_back_up_subscribe_vip_confirm">Αναβάθμιση</string>
@@ -103,6 +108,7 @@
     <string name="cloud_backup_detail_manage">Διαχείριση αντίγραφων ασφαλείας</string>
     <string name="cloud_backup_detail_state">Αυτόματη δημιουργία αντίγραφου ασφαλείας</string>
     <string name="cloud_backup_detail_state_summary">Αυτόματη δημιουργία αντιγράφων ασφαλείας Xiaomi Cloud όταν είστε συνδεδεμένοι σε Wi-Fi.</string>
+    <string name="cloud_backup_detail_state_summary_china">Create Xiaomi Cloud backups automatically when connected to WLAN.</string>
     <string name="cloud_backup_detail_time">Τελευταία δημιουργία: %1$s</string>
     <string name="cloud_backup_detail_title">Αρχική οθόνη, εφαρμογές και ρυθμίσεις.</string>
     <string name="cloud_backup_have_data">Βρέθηκε αντίγραφο ασφαλείας στο Xiaomi Cloud</string>
@@ -138,7 +144,9 @@
     <string name="dialog_cancel_backup_title">Ακύρωση τρέχουσας δημιουργίας αντίγραφου ασφαλείας;</string>
     <string name="dialog_msg_overwrite_backup">Το τοπικό αντίγραφο ασφαλείας είναι διαφορετικό από αυτό στο Xiaomi Cloud. Αν συνεχίσετε, το τρέχον αντίγραφο ασφαλείας θα αντικαταστήσει το προηγούμενο αντίγραφο ασφαλείας.</string>
     <string name="dialog_msg_restore_require_wlan">Η επαναφορά αντίγραφων ασφαλείας απαιτεί σύνδεση στο Wi-Fi.</string>
+    <string name="dialog_msg_restore_require_wlan_china">Restoring backups requires connecting to WLAN.</string>
     <string name="dialog_title_require_wlan">Σύνδεση σε Wi-Fi</string>
+    <string name="dialog_title_require_wlan_china">Connect to WLAN</string>
     <string name="dir_date_format">HHmmss_ddMMyyyy</string>
     <string name="doing_calc_backup_data_size">Γίνεται υπολογισμός μεγέθους…</string>
     <string name="doing_restore_home">Γίνεται επαναφορά Αρχικής οθόνης και ρυθμίσεων…</string>
@@ -153,6 +161,7 @@
     <string name="error_unknown">Κάτι πήγε στραβά</string>
     <string name="expand_button_title">Σύνθετες</string>
     <string name="get_device_id_error">Αδυναμία απόκτησης ID συσκευής</string>
+    <string name="help_and_feedback">Βοήθεια και σχόλια</string>
     <string name="hint_restore_cross_space">Η διάταξη Αρχικής Οθόνης μπορεί να εμφανιστεί λανθασμένα εάν μεταφέρετε αντικείμενα μεταξύ χώρων.</string>
     <string name="home_hint_global_launcher">Εκκινητής POCO</string>
     <string name="home_hint_other_launcher">Άλλος εκκινητής</string>
@@ -179,11 +188,10 @@
     <string name="notification_channel_remind">Υπενθύμιση</string>
     <string name="notification_channel_service">Υπηρεσία</string>
     <string name="open_backup_switch">Εναλλαγή διακόπτη για αντίγραφα ασφαλείας</string>
-    <string name="open_wifi">Ενεργοποίηση Wi-Fi τώρα</string>
-    <string name="open_wifi_description">Συνδεθείτε σε ένα Wi-Fi δίκτυο για επαναφορά της εφαρμογής</string>
-    <string name="open_wifi_setting">Ρυθμίσεις Wi-Fi</string>
     <string name="other_device_main_space">Πρώτος χώρος</string>
     <string name="other_device_second_space">Δεύτερος χώρος</string>
+    <string name="pattern_backup_name_with_home">%1$s (%2$s: %3$s)</string>
+    <string name="pattern_backup_name_without_home">%1$s (%2$s)</string>
     <string name="preference_copied">Το \"%1$s\" αντιγράφηκε στο πρόχειρο.</string>
     <string name="process_whole_recovery">Γίνεται επαναφορά \"%s\"</string>
     <string name="provision_background_restore_more_data">Επαναφορά περισσότερων αντικειμένων στο παρασκήνιο</string>
@@ -211,7 +219,6 @@
     <string name="restore_app_order_search_prior">Εφαρμογές υψηλής προτεραιότητας</string>
     <string name="restore_app_order_title">Προτεραιότητα σε αντικείμενα που έχουν επανέλθει</string>
     <string name="restore_cloud_backup_to_phone">Επαναφορά αντικειμένων από το Cloud</string>
-    <string name="restore_data_summary">Αυτή η λειτουργία απαιτεί σύνδεση Ίντερνετ.</string>
     <string name="restore_data_title">Επαναφορά δεδομένων</string>
     <string name="restore_detail_category_apps">Διάταξη Αρχικής Οθόνης &amp; εφαρμογών</string>
     <string name="restore_detail_category_settings">Ρυθμίσεις</string>

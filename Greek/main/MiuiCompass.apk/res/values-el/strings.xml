@@ -79,6 +79,7 @@
     <string name="location_enabled">Μπορείτε να κλείσετε τις υπηρεσίες τοποθεσίας ανά πάσα στιγμή από τις Ρυθμίσεις.</string>
     <string name="location_north">Β</string>
     <string name="location_not_enabled_summary">Η πυξίδα απαιτεί πρόσβαση στην τοποθεσία σας για προβολή συντεταγμένων και υψόμετρου.</string>
+    <string name="location_not_enabled_summary_no_pressure_sensor">Η πυξίδα πρέπει να αποκτήσει πρόσβαση στην τοποθεσία σας για να εμφανίσει τις τρέχουσες συντεταγμένες σας.</string>
     <string name="location_not_enabled_title">Υπηρεσίες τοποθεσίας</string>
     <string name="location_south">Ν</string>
     <string name="location_west">Δ</string>

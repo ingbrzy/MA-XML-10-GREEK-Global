@@ -10,6 +10,14 @@
 μεταβείτε στο %s σε μια άλλη συνδεδεμένη συσκευή."</string>
     <string name="loading">Περιμένετε μία στιγμή…</string>
     <string name="mibi_license">Όροι Χρήσης Mi Μονάδων</string>
+    <string name="miuix_sbl_tracking_progress_labe_pull_to_refresh">Τραβήξτε προς τα κάτω για ανανέωση</string>
+    <string name="miuix_sbl_tracking_progress_labe_refreshed">Επιτυχής ανανέωση</string>
+    <string name="miuix_sbl_tracking_progress_labe_refreshing">Γίνεται ανανέωση…</string>
+    <string name="miuix_sbl_tracking_progress_labe_release_to_refresh">Αφήστε για ανανέωση</string>
+    <string name="miuix_sbl_tracking_progress_labe_up_nodata">Αυτά προς το παρόν</string>
+    <string name="miuix_sbl_tracking_progress_labe_up_none">Αυτά προς το παρόν</string>
+    <string name="miuix_sbl_tracking_progress_labe_up_refresh">Μια στιγμή…</string>
+    <string name="miuix_sbl_tracking_progress_labe_up_refresh_fail">Αδυναμία λήψης αντικειμένων</string>
     <string name="open_wifi_connect_and_use_data_summary">Γίνεται χρήση δεδομένων κινητής τηλεφωνίας. Πατήστε για εναλλαγή σε Wi-Fi.</string>
     <string name="open_wifi_connect_summary">Πατήστε για προβολή λεπτομερειών.</string>
     <string name="open_wifi_connect_title">Έγινε σύνδεση σε %1$s</string>

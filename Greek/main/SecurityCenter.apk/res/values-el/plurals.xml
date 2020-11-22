@@ -320,6 +320,10 @@
         <item quantity="other">%d κλειδωμένες εφαρμογές</item>
         <item quantity="one">%d κλειδωμένη εφαρμογή</item>
     </plurals>
+    <plurals name="om_running_apps_num">
+        <item quantity="other">%d εφαρμογές</item>
+        <item quantity="one">%d εφαρμογή</item>
+    </plurals>
     <plurals name="optimize_result_button_add_score">
         <item quantity="other">+%d</item>
         <item quantity="one">+%d</item>

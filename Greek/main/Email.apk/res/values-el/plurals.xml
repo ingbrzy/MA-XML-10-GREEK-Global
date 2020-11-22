@@ -25,8 +25,8 @@
         <item quantity="one">Διαγραφή %1$d πρόχειρου;</item>
     </plurals>
     <plurals name="contact_num_selected">
-        <item quantity="other">%d επιλέχθηκαν</item>
-        <item quantity="one">%d επιλέχθηκε</item>
+        <item quantity="other">Έγινε προσθήκη %d επαφών</item>
+        <item quantity="one">Έγινε προσθήκη %d επαφής</item>
     </plurals>
     <plurals name="conversation_archived">
         <item quantity="other">&lt;b>%1$d&lt;/b> αρχειοθετήθηκαν.</item>
@@ -115,6 +115,46 @@
     <plurals name="num_selected">
         <item quantity="other">%d επιλέχθηκαν</item>
         <item quantity="one">%d επιλέχθηκε</item>
+    </plurals>
+    <plurals name="number_of_day_after">
+        <item quantity="other">%1$d ημέρες μετά</item>
+        <item quantity="one">%1$d ημέρα μετά</item>
+    </plurals>
+    <plurals name="number_of_day_before">
+        <item quantity="other">%1$d ημέρες πριν</item>
+        <item quantity="one">%1$d ημέρα πριν</item>
+    </plurals>
+    <plurals name="number_of_hour_after">
+        <item quantity="other">%1$d ώρες μετά</item>
+        <item quantity="one">%1$d ώρα μετά</item>
+    </plurals>
+    <plurals name="number_of_hour_before">
+        <item quantity="other">%1$d ώρες πριν</item>
+        <item quantity="one">%1$d ώρα πριν</item>
+    </plurals>
+    <plurals name="number_of_minute_after">
+        <item quantity="other">%1$d λεπτά μετά</item>
+        <item quantity="one">%1$d λεπτό μετά</item>
+    </plurals>
+    <plurals name="number_of_minute_before">
+        <item quantity="other">%1$d λεπτά πριν</item>
+        <item quantity="one">%1$d λεπτό πριν</item>
+    </plurals>
+    <plurals name="number_of_second_after">
+        <item quantity="other">%1$d δευτερόλεπτο μετά</item>
+        <item quantity="one">%1$d δευτερόλεπτο μετά</item>
+    </plurals>
+    <plurals name="number_of_second_before">
+        <item quantity="other">%1$d δευτερόλεπτα πριν</item>
+        <item quantity="one">%1$d δευτερόλεπτο πριν</item>
+    </plurals>
+    <plurals name="number_of_week_after">
+        <item quantity="other">%1$d εβδομάδες μετά</item>
+        <item quantity="one">%1$d εβδομάδα μετά</item>
+    </plurals>
+    <plurals name="number_of_week_before">
+        <item quantity="other">%1$d εβδομάδες πριν</item>
+        <item quantity="one">%1$d εβδομάδα πριν</item>
     </plurals>
     <plurals name="quick_reply_hint">
         <item quantity="other">Απάντηση σε %1$d άτομα</item>

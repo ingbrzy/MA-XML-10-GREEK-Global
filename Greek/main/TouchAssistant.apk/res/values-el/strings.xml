@@ -35,6 +35,11 @@
     <string name="close_panel">Απενεργοποίηση Βοηθού αφής</string>
     <string name="copy">Αντιγραφή</string>
     <string name="customize_entries">Επιλογή συντομεύσεων</string>
+    <string name="edge_distance_pref_summary">Πατήστε τις περιοχές αφύπνισης κοντά στις άκρες της οθόνης για να εμφανιστεί η Γρήγορη μπάλα</string>
+    <string name="edge_distance_pref_title">Περιοχές αφύπνισης</string>
+    <string name="edge_mode_custom_summary">Προσαρμόστε το μέγεθος των περιοχών αφύπνισης κοντά στις άκρες της οθόνης</string>
+    <string name="edge_mode_custom_title">Προσαρμογή</string>
+    <string name="edge_mode_default_title">Προεπιλογή</string>
     <string name="enable_touch_assistant">Ενεργοποίηση Βοηθού αφής</string>
     <string name="expand_button_title">Σύνθετες</string>
     <string name="function_settings">Ρυθμίσεις συντομεύσεων</string>
@@ -67,6 +72,7 @@
     <string name="name_trans_cards">Κάρτα συγκοινωνιών</string>
     <string name="name_wechat_payment_code">Πληρωμή μέσω WeChat</string>
     <string name="name_wechat_scan">Σαρωτής WeChat</string>
+    <string name="name_xiao_ai">Mi AI</string>
     <string name="nfc_all_mipay_card_not_in_use">Η Mi Πληρωμή δεν είναι ενεργή</string>
     <string name="nfc_trans_card_not_in_use">Η κάρτα συγκοινωνιών δεν είναι ενεργή</string>
     <string name="not_set">Δεν έχει οριστεί</string>

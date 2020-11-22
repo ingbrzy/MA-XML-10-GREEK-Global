@@ -1,5 +1,18 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <string name="doc_photo_adjust_section_title">Σύρετε για προσαρμογή</string>
+    <string name="doc_photo_cancel">Ακύρωση</string>
+    <string name="doc_photo_confirm">Έξοδος</string>
+    <string name="doc_photo_doc_photo_title">Επεξεργασία εγγράφου</string>
+    <string name="doc_photo_enhance_bin">Μ&amp;Α</string>
+    <string name="doc_photo_enhance_color">Ενισχυμένο</string>
+    <string name="doc_photo_enhance_none">Πρωτότυπο</string>
+    <string name="doc_photo_idcard_alert_msg">Απόρριψη όλων των αλλαγών και έξοδος από το πρόγραμμα επεξεργασίας τώρα;</string>
+    <string name="doc_photo_idcard_emblem">Πίσω</string>
+    <string name="doc_photo_idcard_mode_title">ID-κάρτα</string>
+    <string name="doc_photo_idcard_portrait">Εμπρόσθια</string>
+    <string name="doc_photo_not_support">Αδυναμία επεξεργασίας αυτής της εικόνας ως έγγραφο</string>
+    <string name="doc_photo_view_effect">Προεπισκόπιση</string>
     <string name="extra_photo_common_save_fail">Αδυναμία αποθήκευσης</string>
     <string name="extra_photo_common_saving">Γίνεται αποθήκευση…</string>
     <string name="motion_photo_cancel">Ακύρωση</string>
@@ -25,6 +38,7 @@
     <string name="refocus_save_to_video">Αποθήκευση ως βίντεο</string>
     <string name="refocus_saving">Γίνεται αποθήκευση…</string>
     <string name="refocus_title">Θολό</string>
+    <string name="refocus_type_movie_relighting">Κινηματογραφικό</string>
     <string name="refocus_type_relighting">Φωτισμός στούντιο</string>
     <string name="refocus_type_relighting_no_face">Αδυναμία εύρεσης προσώπου</string>
     <string name="refocus_type_relighting_small_face">Ο φωτισμός στούντιο λειτουργεί σε φωτογραφίες στις οποίες τα πρόσωπα καλύπτουν περισσότερο χώρο από ότι εδώ.</string>

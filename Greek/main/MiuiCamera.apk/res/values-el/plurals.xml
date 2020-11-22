@@ -4,6 +4,30 @@
         <item quantity="other">Έγινε εστίαση. %d πρόσωπα εντοπίστηκαν</item>
         <item quantity="one">Έγινε εστίαση. %d πρόσωπο εντοπίστηκε</item>
     </plurals>
+    <plurals name="accessibility_timer_burst_count">
+        <item quantity="other">%d φωτογραφίες σε λήψη ριπής</item>
+        <item quantity="one">%d φωτογραφία σε λήψη ριπής</item>
+    </plurals>
+    <plurals name="accessibility_timer_burst_interval">
+        <item quantity="other">Διάστημα: %d δευτερόλεπτα</item>
+        <item quantity="one">Διάστημα: %d δευτερόλεπτο</item>
+    </plurals>
+    <plurals name="accessibility_vv_duartion">
+        <item quantity="other">Duration: %d seconds</item>
+        <item quantity="one">Duration: %d second</item>
+    </plurals>
+    <plurals name="clone_guide_tip2">
+        <item quantity="other">Μπορείτε να δημιουργήστε έως %d κλώνους τη φορά.</item>
+        <item quantity="one">Μπορείτε να δημιουργήστε έως %d κλώνο τη φορά.</item>
+    </plurals>
+    <plurals name="pref_camera_fastmotion_duration_unit">
+        <item quantity="other">%1$s λεπτά</item>
+        <item quantity="one">%1$s λεπτό</item>
+    </plurals>
+    <plurals name="timer_burst_setting_total_count">
+        <item quantity="other">%1$s φωτογραφίες</item>
+        <item quantity="one">%1$s φωτογραφία</item>
+    </plurals>
     <plurals name="toast_burst_snap_finished_summary">
         <item quantity="other">Λήψη ριπής ολοκληρώθηκε, έγινε λήψη %1$s φωτογραφιών</item>
         <item quantity="one">Λήψη ριπής ολοκληρώθηκε, έγινε λήψη %1$s φωτογραφίας</item>

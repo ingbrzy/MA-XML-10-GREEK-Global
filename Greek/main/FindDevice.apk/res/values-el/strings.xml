@@ -46,8 +46,8 @@
     <string name="passport_trust_device">Εμπιστοσύνη στην συσκευή</string>
     <string name="passport_vcode_prompt_long">Εισαγωγή κωδικού επαλήθευσης</string>
     <string name="passport_verify">Επαλήθευση</string>
-    <string name="password">Κωδικός</string>
-    <string name="phone_locked">Αυτή η συσκευή μπορεί να σχετίζεται με υπάρχοντα Mi Λογαριασμό (%s). Συνδεθείτε για ενεργοποίηση αυτής της συσκευής.</string>
+    <string name="password">Εισαγωγή κωδικού</string>
+    <string name="phone_locked">Αυτή η συσκευή είναι συνδεδεμένη με MI λογαριασμό (%s). Εισαγάγετε τον κωδικό για να ενεργοποιήσετε τη συσκευή.</string>
     <string name="phone_locked_account_email">, σχετικό email: %s</string>
     <string name="phone_locked_account_phone">, σχετικός αριθμός τηλεφώνου: %s</string>
     <string name="return_to_call">Επιστροφή σε κλήση</string>
@@ -74,14 +74,14 @@
     <string name="unlock_error_unknown">Αδυναμία σύνδεσης</string>
     <string name="unlock_error_user_name">Μη έγκυρο όνομα χρήστη</string>
     <string name="unlock_error_wrong_vcode">Ο κωδικός που εισαγάγατε είναι εσφαλμένος</string>
-    <string name="unlock_help">"Παραμείνετε συνδεδεμένοι στο δίκτυο.
-Βεβαιωθείτε πως έχετε εγκαταστήσει μια κάρτα SIM που λειτουργεί(εάν υποστηρίζεται από την συσκευή σας), και πως η συσκευή σας είναι συνδεδεμένη σε ένα έγκυρο δίκτυο Wi-Fi.
+    <string name="unlock_help">"Συνδεθείτε στο δίκτυο.
+Εισαγάγετε μια λειτουργική κάρτα SIM και μην συνδέεστε σε μη έγκυρα δίκτυα Wi-Fi.
 
-Ξεχάσατε τον κωδικό?
-Μεταβείτε στο id.mi.com για επαναφορά του κωδικού σας.
+Ξεχάσατε τον κωδικό;
+Μεταβείτε στην id.mi.com, επιλέξτε \"Ξεχάσατε τον κωδικό;\" και ακολουθήστε τις οδηγίες.
 
-Άλλες αιτίες
-Συνδεθείτε στο i.mi.com και προσπαθήστε να ξεκλειδώσετε την συσκευή σας από εκεί."</string>
+Αδυναμία ενεργοποίησης της συσκευής;
+Μεταβείτε στην i.mi.com/ss και υποβάλετε την αίτησή σας για ξεκλείδωμα της συσκευής."</string>
     <string name="unlock_help_title">Boήθεια ξεκλειδώματος:</string>
     <string name="unlock_number">Κωδικός ξεκλειδώματος: %s</string>
     <string name="unlock_wrong_captcha">Ο κωδικός που εισαγάγατε είναι εσφαλμένος</string>

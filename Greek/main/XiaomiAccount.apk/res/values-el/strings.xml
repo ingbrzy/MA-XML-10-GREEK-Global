@@ -158,6 +158,7 @@
     <string name="confirm_unbundled_phone_dialog_message">Ο αριθμός τηλεφώνου %1$s έχει συσχετισθεί με Mi Λογαριασμό %2$s. Δεν θα είναι πλέον συσχετισμένος με τον Mi Λογαριασμό %3$s εάν συνεχίσετε. Συνέχεια;</string>
     <string name="continue_action">Συνέχεια</string>
     <string name="copy">Αντιγραφή</string>
+    <string name="copy_to_clipboard_successful">Επιτυχής αντιγραφή</string>
     <string name="delete_action">Διαγραφή</string>
     <string name="delete_bank_card_message">Οι τραπεζικές κάρτες Mi Πληρωμής και οι κάρτες NFC θα διαγραφούν μετά την αποσύνδεση σας.</string>
     <string name="delete_bank_card_title">Προσοχή</string>
@@ -358,6 +359,10 @@ ID:%s
     <string name="passport_get_verify_code">Απόκτηση κωδικού</string>
     <string name="passport_getting_activator_phone">Γίνεται απόκτηση πληροφοριών SIM…</string>
     <string name="passport_getting_verify_code">Γίνεται λήψη</string>
+    <string name="passport_google_login">Σύνδεση με τον λογαριασμό Google που χρησιμοποιήσατε προηγουμένως;</string>
+    <string name="passport_google_login_agree">Λογαριασμός Google</string>
+    <string name="passport_google_login_disagree">Mi Λογαριασμός</string>
+    <string name="passport_google_login_failed">Αδυναμία σύνδεσης με Google. Συνδεθείτε απευθείας με τον Mi Λογαριασμό σας.</string>
     <string name="passport_i_know">Κατάλαβα</string>
     <string name="passport_identification_expired">Ο κωδικός επαλήθευσης ελήξε, ξεκινήστε από την αρχή</string>
     <string name="passport_imei_permission_denied_message">Ζητούμε άδεια απόκτησης του ΙΜΕΙ της συσκευής σας. Ο Mi λογαριασμός χρησιμοποιεί το IMEI για να εντοπίσει τη συσκευή στην οποία συνδέεστε / εγγράφεστε, για να βοηθήσει στη διατήρηση της ασφάλειας του Mi λογαριασμού σας.</string>

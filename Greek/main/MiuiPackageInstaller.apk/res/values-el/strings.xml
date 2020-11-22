@@ -29,6 +29,14 @@
     <string name="abc_toolbar_collapse_description">Σύμπτυξη</string>
     <string name="copy">Αντιγραφή</string>
     <string name="expand_button_title">Σύνθετες</string>
+    <string name="miuix_sbl_tracking_progress_labe_pull_to_refresh">Τραβήξτε προς τα κάτω για ανανέωση</string>
+    <string name="miuix_sbl_tracking_progress_labe_refreshed">Επιτυχής ανανέωση</string>
+    <string name="miuix_sbl_tracking_progress_labe_refreshing">Γίνεται ανανέωση…</string>
+    <string name="miuix_sbl_tracking_progress_labe_release_to_refresh">Αφήστε για ανανέωση</string>
+    <string name="miuix_sbl_tracking_progress_labe_up_nodata">Αυτά προς το παρόν</string>
+    <string name="miuix_sbl_tracking_progress_labe_up_none">Αυτά προς το παρόν</string>
+    <string name="miuix_sbl_tracking_progress_labe_up_refresh">Μια στιγμή…</string>
+    <string name="miuix_sbl_tracking_progress_labe_up_refresh_fail">Αδυναμία λήψης αντικειμένων</string>
     <string name="not_set">Δεν έχει οριστεί</string>
     <string name="preference_copied">Το \"%1$s\" αντιγράφηκε στο πρόχειρο.</string>
     <string name="search_menu_title">Αναζήτηση</string>
