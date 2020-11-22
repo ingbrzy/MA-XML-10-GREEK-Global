@@ -893,7 +893,6 @@
     <string name="pref_camera_auxiliary_close">Απενεργοποίηση</string>
     <string name="pref_camera_auxiliary_exposure_feedback">Επαλήθευση έκθεσης</string>
     <string name="pref_camera_auxiliary_focus_peak">Κορύφωση εστίασης</string>
-    <string name="pref_camera_beautify_entry_close">@string/face_beauty_close</string>
     <string name="pref_camera_beautify_entry_high">Υψηλή</string>
     <string name="pref_camera_beautify_entry_low">Χαμηλή</string>
     <string name="pref_camera_beautify_entry_normal">Μεσσαία</string>
