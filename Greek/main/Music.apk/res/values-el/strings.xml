@@ -280,9 +280,7 @@
     <string name="download_method">Λήψη</string>
     <string name="download_no_application_title">Αδυναμία ανοίγματος αρχείου</string>
     <string name="download_paused_in_power_save_mode">Παύση λήψεων όταν η Εξοικονόμηση μπαταρίας είναι ενεργή</string>
-    <string name="download_percent">%d%%</string>
     <string name="download_processing">Γίνεται λήψη…</string>
-    <string name="download_progress">%d%%</string>
     <string name="download_quality">Ποιότητα λήψης</string>
     <string name="download_quality_summary">Πρόσθετες ρυθμίσεις για τραγούδια που κατεβάζετε</string>
     <string name="download_queued">Σε ουρά</string>
@@ -370,9 +368,7 @@
     <string name="exo_media_action_repeat_all_description">Επανάληψη όλων</string>
     <string name="exo_media_action_repeat_off_description">Καμία επανάληψη</string>
     <string name="exo_media_action_repeat_one_description">Επανάληψη ενός κομματιού</string>
-    <string name="exo_track_bitrate">%1$.2f Mbps</string>
     <string name="exo_track_mono">Μονοφωνικό</string>
-    <string name="exo_track_resolution">%1$d × %2$d</string>
     <string name="exo_track_role_alternate">Εναλλακτικό</string>
     <string name="exo_track_role_closed_captions">Υπότιτλοι</string>
     <string name="exo_track_role_commentary">Σχολιασμός</string>
@@ -744,7 +740,6 @@
     <string name="privacy_authorize_revoking">Γίνεται ανάκληση εξουσιοδότησης…</string>
     <string name="privacy_desc">Πολιτική Απορρήτου (υποχρεωτικό)</string>
     <string name="privacy_policy">Πολιτική Απορρήτου</string>
-    <string name="privacy_policy_url">http://www.miui.com/res/doc/privacy.html?lang=el_GR</string>
     <string name="privacy_request_desc">"&lt;Data>Η Mi Μουσική πρέπει να συλλέξει απαραίτητα προσωπικά δεδομένα για να σας παρέχει υπηρεσίες online streaming. Μπορείτε να μάθετε πως διαχειριζόμαστε τα δεδομένα που συλλέγουμε στην &lt;a href=\"%1$s\">Πολιτική Απορρήτου&lt;/a>. Μπορείτε να ανακαλέσετε τη συναίνεσή σας στην Πολιτική Απορρήτου του Mi Μουσική στις Ρυθμίσεις οποιαδήποτε στιγμή. 
 Διαβάστε και συμφωνήστε με το &lt;a href=\"%2$s\">Συμφωνητικό Χρήστη&lt;/a> και την &lt;a href=\"%1$s\">Πολιτική Απορρήτου&lt;/a> πριν χρησιμοποιήσετε το Mi Μουσική.
 Εάν δεν συμφωνήσετε με τις πιο πάνω υπηρεσίες, δεν θα μπορείτε να χρησιμοποιείτε ορισμένες λειτουργίες αυτής της εφαρμογής. Ωστόσο, οι βασικές της λειτουργίες θα εξακολουθήσουν να είναι διαθέσιμες.&lt;/Data>"</string>
@@ -890,7 +885,6 @@
     <string name="start_to_download">Γίνεται λήψη…</string>
     <string name="start_to_play">Αναπαραγωγή</string>
     <string name="start_update">Γίνεται εγκατάσταση νέας έκδοσης…</string>
-    <string name="status_bar_notification_info_overflow">999+</string>
     <string name="storage_cloned_app">Χώρος αποθήκευσης για διπλότυπες εφαρμογές</string>
     <string name="storage_internal">Εσωτερικός χώρος αποθήκευσης</string>
     <string name="storage_sd_card">Κάρτα SD</string>
@@ -981,7 +975,6 @@
     <string name="upload_playlist_to_hungama_title">Συγχρονίστε διαδικτυακά τραγούδια στο Hungama για να έχετε πρόσβαση σε αυτά σε άλλες συσκευές όπου χρησιμοποιείτε τον λογαριασμό σας Mi.</string>
     <string name="upload_playlist_to_hungama_toast">Τα διαδικτυακά τραγούδια θα συγχρονιστούν με το Hungama</string>
     <string name="user_agreement">Όροι Χρήσης</string>
-    <string name="user_agreement_url">http://www.miui.com/res/doc/eula.html?lang=el_GR</string>
     <string name="user_privacy_dialog_negative_text">Ακύρωση</string>
     <string name="user_privacy_dialog_positive_count_down_text">Ανάκληση (%sδ)</string>
     <string name="user_privacy_dialog_positive_text">Ανάκληση</string>
