@@ -13,12 +13,24 @@
         <item quantity="one">Διάστημα: %d δευτερόλεπτο</item>
     </plurals>
     <plurals name="accessibility_vv_duartion">
-        <item quantity="other">Duration: %d seconds</item>
-        <item quantity="one">Duration: %d second</item>
+        <item quantity="other">Διάρκεια: %d δευτερόλεπτα</item>
+        <item quantity="one">Διάρκεια: %d δευτερόλεπτο</item>
     </plurals>
     <plurals name="clone_guide_tip2">
         <item quantity="other">Μπορείτε να δημιουργήστε έως %d κλώνους τη φορά.</item>
         <item quantity="one">Μπορείτε να δημιουργήστε έως %d κλώνο τη φορά.</item>
+    </plurals>
+    <plurals name="fastmotion_pro_min_unit">
+        <item quantity="other">%1$d λεπ</item>
+        <item quantity="one">%1$d λεπ</item>
+    </plurals>
+    <plurals name="fastmotion_pro_sec_unit">
+        <item quantity="other">%1$d δευ</item>
+        <item quantity="one">%1$d δευ</item>
+    </plurals>
+    <plurals name="live_workspace_delete_dialog_title">
+        <item quantity="other">Διαγραφή %1$d προχείρων;</item>
+        <item quantity="one">Διαγραφή %1$d προχείρου;</item>
     </plurals>
     <plurals name="pref_camera_fastmotion_duration_unit">
         <item quantity="other">%1$s λεπτά</item>

@@ -22,11 +22,6 @@
         <item>Επόμενος μήνας</item>
         <item>Επιλέξτε ημερομηνία</item>
     </string-array>
-    <string-array name="compose_modes">
-        <item>Απάντηση</item>
-        <item>Απάντηση σε όλους</item>
-        <item>Προώθηση</item>
-    </string-array>
     <string-array name="general_preference_text_zoom_summary_array">
         <item>Μικροσκοπικό</item>
         <item>Μικρό</item>

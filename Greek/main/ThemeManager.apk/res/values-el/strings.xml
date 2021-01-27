@@ -41,6 +41,7 @@
     <string name="account_unactivated">Ο λογαριασμός δεν έχει ενεργοποιηθεί</string>
     <string name="ad_app_download_start">Γίνεται έναρξη λήψης…</string>
     <string name="ad_app_is_downloading">Γίνεται λήψη…</string>
+    <string name="ad_service">Εμφάνιση διαφημίσεων</string>
     <string name="add_resource_detail_fail">Αδυναμία προσθήκης πηγής</string>
     <string name="agreement_desc">Συμφωνία Χρήστη (υποχρεωτικό)</string>
     <string name="alarm_sound">Ξυπνητήρι</string>
@@ -163,7 +164,9 @@
     <string name="exo_download_notification_channel_name">Λήψεις</string>
     <string name="exo_download_removing">Κατάργηση λήψεων</string>
     <string name="exo_item_list">%1$s, %2$s</string>
+    <string name="exo_track_bitrate">%1$.2f Mbps</string>
     <string name="exo_track_mono">Μονοφωνικό</string>
+    <string name="exo_track_resolution">%1$d × %2$d</string>
     <string name="exo_track_selection_auto">Αυτόματο</string>
     <string name="exo_track_selection_none">Κανένα</string>
     <string name="exo_track_selection_title_audio">Ήχος</string>
@@ -181,6 +184,7 @@
     <string name="fail_to_add_account">Αδυναμία προσθήκης λογαριασμού</string>
     <string name="favorite_list">Αγαπημένα</string>
     <string name="favorite_list_format">Αγαπημένα %1$s</string>
+    <string name="fcm_fallback_notification_channel_label">Διάφορα</string>
     <string name="find_more">Βρείτε περισσότερα</string>
     <string name="find_more_theme">Βρείτε περισσότερα</string>
     <string name="find_more_wallpapers">Βρείτε περισσότερα</string>
@@ -230,6 +234,7 @@
     <string name="incompatible_dialog_ok">Κατάλαβα</string>
     <string name="incompatible_dialog_title">Προβλήματα συμβατότητας</string>
     <string name="is_setting_wallpaper_message">Γίνεται ορισμός ταπετσαρίας…</string>
+    <string name="item_resource_audio_divider">│</string>
     <string name="item_resource_audio_optional_alarm_ring">Ξυπνητήρια</string>
     <string name="item_resource_audio_optional_color_ring">Τόνος επιστροφής κλήσης</string>
     <string name="item_resource_audio_optional_notification_ring">Ειδοποιήσεις</string>
@@ -252,7 +257,8 @@
     <string name="lockscreen_magazine_title">Ταπετσαρία Καρουζέλ</string>
     <string name="lockscreen_wallpaper">Οθόνη κλειδώματος</string>
     <string name="lockstyle_personal_settings">Προσαρμογή</string>
-    <string name="login_invalid">Η συνεδρία έληξε</string>
+    <string name="login_invalid">Η συνεδρία έληξε. Συνδεθείτε ξανά.</string>
+    <string name="match_theme">Αντίστοιχα θέματα</string>
     <string name="max_usable_themes">99+</string>
     <string name="message">Μήνυμα κειμένου</string>
     <string name="message_sim_one">Μήνυμα στη SIM 1</string>
@@ -274,6 +280,7 @@
     <string name="my_gifts">Δώρα</string>
     <string name="my_gifts_purchased">Αγορασμένα</string>
     <string name="my_gifts_received">Ληφθέντα</string>
+    <string name="need_permission">Υποχρεωτικές άδειες (χρησιμοποιούνται για βασικές λειτουργίες και υπηρεσίες αυτής της εφαρμογής)</string>
     <string name="no_data">Αδυναμία σύνδεσης στο δίκτυο</string>
     <string name="no_related_font">Αδυναμία εύρεσης αποτελεσμάτων</string>
     <string name="no_related_ringtone">Αδυναμία εύρεσης αποτελεσμάτων</string>
@@ -296,6 +303,12 @@
     <string name="online_search_hint">Αναζήτηση πηγών στο διαδίκτυο</string>
     <string name="online_themes">Θέματα σε σύνδεση</string>
     <string name="online_wallpapers">Ταπετσαρίες σε σύνδεση</string>
+    <string name="ota_theme_default_push_content">Δοκιμάστε κάτι νέο</string>
+    <string name="ota_theme_default_push_title">Σας κούρασε το προεπιλεγμένο θέμα;</string>
+    <string name="ota_theme_new_push_content">Δώστε νέα εμφάνιση στη συσκευή σας</string>
+    <string name="ota_theme_new_push_title">Δοκιμάστε τα ολοκαίνουργια θέματα του MIUI 12</string>
+    <string name="personal_recommend_desc">Λάβετε προτάσεις περιεχομένου βάσει των προτιμήσεών σας</string>
+    <string name="personal_recommend_title">Εξατομικευμένες προτάσεις</string>
     <string name="phone_ringtone">Ήχος κλήσης</string>
     <string name="popular_themes">Δημοφιλή θέματα</string>
     <string name="popular_wallpapers">Δημοφιλείς ταπετσαρίες</string>
@@ -322,6 +335,7 @@
     <string name="rank_one">1.%s</string>
     <string name="rank_three">3.%s</string>
     <string name="rank_two">2.%s</string>
+    <string name="read_write_file">Πρόσβαση και αποθήκευση αρχείων σε αυτή τη συσκευή</string>
     <string name="recently_used">Πρόσφατα σε χρήση</string>
     <string name="refresh_footer_all_loaded">Αυτά για τώρα.</string>
     <string name="refresh_footer_failed">Αδυναμία φόρτωσης πληροφοριών</string>
@@ -473,6 +487,7 @@
     <string name="resource_pack_price_info">Αρχική τιμή: %1$s</string>
     <string name="resource_pack_warning">Έχετε ήδη αγοράσει %1$d από τα συστατικά αυτού του θέματος. Για αυτό η αγορά των υπόλοιπων συστατικών ξεχωριστά είναι πιο φθηνή επιλογή.</string>
     <string name="resource_present">Δώρο</string>
+    <string name="resource_price_format">(%1$s)</string>
     <string name="resource_price_free">Δωρεάν</string>
     <string name="resource_price_unit">Mi Credits</string>
     <string name="resource_purchase_common_error">Παρουσιάστηκε σφάλμα, προσπαθήστε ξανά</string>
@@ -573,6 +588,7 @@
     <string name="s5">Δημιουργία συμβάντος ημερολογίου</string>
     <string name="s6">Να επιτραπεί στη διαφήμιση να δημιουργήσει ένα συμβάν ημερολογίου;</string>
     <string name="s7">Δοκιμαστική διαφήμιση</string>
+    <string name="scroll_switch">Σύρετε για εναλλαγή μεταξύ στοιχείων</string>
     <string name="sdcard_not_mounted_dialog_message">"Εισαγωγή κάρτας SD τώρα.
 "</string>
     <string name="sdcard_not_mounted_dialog_title">Δεν εντοπίστηκε κάρτα SIM</string>
@@ -594,6 +610,8 @@
     <string name="sim_one">SIM 1</string>
     <string name="sim_two">SIM 2</string>
     <string name="similar_theme">Παρόμοια θέματα</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
+    <string name="storage_file">Για αποθήκευση ληφθέντων στοιχείων</string>
     <string name="swipe_find_more">Σύρετε προς τα επάνω για προβολή περισσότερων</string>
     <string name="system_phone">Κλήσεις</string>
     <string name="system_precust">Προ-εγκατεστημένα</string>
@@ -604,6 +622,7 @@
     <string name="theme_apply_audio_dialog_item_notification">Ειδοποίηση</string>
     <string name="theme_apply_audio_dialog_item_ringtone">Ήχος κλήσης</string>
     <string name="theme_apply_failured">Αδυναμία εφαρμογής</string>
+    <string name="theme_apply_fully">Επιτυχής εφαρμογή θέματος. Η Ταπετσαρία Καρουζέλ είναι ανενεργή.</string>
     <string name="theme_apply_success">Επιτυχής εφαρμογή</string>
     <string name="theme_applying">Γίνεται εφαρμογή…</string>
     <string name="theme_batch_update_all">Ενημέρωση όλων</string>
@@ -657,6 +676,7 @@
     <string name="theme_is_external_priority_storage">Αποθήκευση σε κάρτα SD</string>
     <string name="theme_is_external_priority_storage_summary">Η εφαρμογή Θέματα θα κάνει αμέσως επανεκκίνηση για την εφαρμογή αυτής της ρύθμισης.</string>
     <string name="theme_multiple_button_title_customize">Προσαρμογή</string>
+    <string name="theme_name">%1$s</string>
     <string name="theme_no">Όχι</string>
     <string name="theme_select_others">Αναζήτηση</string>
     <string name="theme_setting">Ρυθμίσεις</string>
@@ -694,7 +714,7 @@
     <string name="uid_change_dialog_ok">Κατάλαβα</string>
     <string name="uid_change_dialog_title">Επανεκκίνηση συσκευής</string>
     <string name="unsupport_tip">Αυτή η μορφή αρχείου δεν υποστηρίζεται. Επιλέξτε διαφορετικό αρχείο.</string>
-    <string name="up_to_the_end">Αυτά για την ώρα. Επιστρέψτε αργότερα.</string>
+    <string name="up_to_the_end">Δεν υπάρχουν περισσότερα αντικείμενα για προβολή</string>
     <string name="update_btn">ΕΝΗΜΕΡΩΣΗ ΤΩΡΑ</string>
     <string name="update_check">Έλεγχος για ενημερώσεις</string>
     <string name="update_checking">Γίνεται έλεγχος για ενημερώσεις…</string>
@@ -709,7 +729,7 @@
     <string name="user_agree">Αποδοχή</string>
     <string name="user_authorization_dialog_agree">Συμφωνώ</string>
     <string name="user_authorization_dialog_disagree">Έξοδος</string>
-    <string name="user_authorization_dialog_message">Πριν χρησιμοποιήσετε την εφαρμογή Θέματα, διαβάστε και συμφωνήστε με τη &lt;a href=\"%1$s\">Συμφωνία Χρήστη&lt;/a> και την &lt;a href=\"%2$s\">Πολιτική Απορρήτου&lt;/a>.</string>
+    <string name="user_authorization_dialog_message">Διαβάστε και συμφωνήστε με το &lt;a href=\"%1$s\">Συμφωνητικό Χρήστη&lt;/a> και την &lt;a href=\"%2$s\">Πολιτική Απορρήτου&lt;/a> πριν συνεχίσετε.</string>
     <string name="user_authorization_dialog_title">Γίνεται παραχώρηση εξουσιοδότησης</string>
     <string name="user_know">Κατανοητό</string>
     <string name="using_theme_has_update_tips">Μια ενημέρωση για αυτό το θέμα είναι διαθέσιμη.</string>

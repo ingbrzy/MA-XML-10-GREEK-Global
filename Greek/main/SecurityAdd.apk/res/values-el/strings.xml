@@ -54,6 +54,7 @@
     <string name="dual_app_title">Διπλότυπες εφαρμογές</string>
     <string name="dual_app_words">Κάθε λογαριασμός αξίζει τη δική του εφαρμογή</string>
     <string name="early_morning">Πρωί</string>
+    <string name="empty">" "</string>
     <string name="eras_ad">μ.Χ.</string>
     <string name="eras_bc">π.Χ.</string>
     <string name="evening">Απόγευμα</string>
@@ -161,8 +162,14 @@
     <string name="gb_advance_settings_vibration_4d_summary">Δόνηση κατά τους πυροβολισμούς στο παιχνίδι</string>
     <string name="gb_advance_settings_vibration_4d_summary2">Δόνηση κατά τις εκτελέσεις στο παιχνίδι</string>
     <string name="gb_alipays_can_not_complete">Αδυναμία ολοκλήρωσης πληρωμής. Εγκαταστήστε για να συνεχίσετε.</string>
+    <string name="gb_dialog_game_speed_close">Γίνεται απενεργοποίηση της λειτουργίας Ταχύτητας φωτός…</string>
+    <string name="gb_dialog_game_speed_exist">Μπορείτε να χρησιμοποιήσετε μόνο ένα παιχνίδι στη λειτουργίας ταχύτητας φωτός. Αντικατάσταση του \"%s\" τώρα;</string>
     <string name="gb_game_control">Ρυθμίσεις GPU</string>
     <string name="gb_game_settings">Επιπρόσθετες ρυθμίσεις</string>
+    <string name="gb_game_speed_closed">Η λειτουργία Ταχύτητας φωτός είναι ανενεργή</string>
+    <string name="gb_game_speed_closed_fail">Αδυναμία απενεργοποίησης της λειτουργίας Ταχύτητας φωτός</string>
+    <string name="gb_game_speed_open">Η λειτουργία Ταχύτητας φωτός είναι ενεργή</string>
+    <string name="gb_game_speed_open_fail">Αδυναμία ενεργοποίησης της λειτουργίας Ταχύτητας φωτός</string>
     <string name="gb_gpu_control_anisotropic_filtering">Ανισοτροπικό φιλτράρισμα</string>
     <string name="gb_gpu_control_anti_aliasing">Εξομάλυνση</string>
     <string name="gb_gpu_control_fps">Ρυθμός καρέ</string>
@@ -191,6 +198,7 @@
     <string name="gb_pannel_control_mode_power_saving">Αποθήκευση ενέργειας</string>
     <string name="gb_weixinpay_can_not_complete">Αδυναμία ολοκλήρωσης πληρωμής. Εγκαταστήστε για να συνεχίσετε.</string>
     <string name="gdpr_msg">&lt;Data>Για να χρησιμοποιήσετε τις βασικές λειτουργίες της Ασφάλειας, πρέπει να αποδεχτείτε ότι η Xiaomi θα συλλέγει, θα επεξεργάζεται, και θα χρησιμοποιεί τα προσωπικά σας δεδομένα, όπως πληροφορίες σχετικές με τον τρόπο που χρησιμοποιείτε τις λειτουργίες Ασφαλείας (π.χ., στατιστικά κατανάλωσης δεδομένων κινητής, πληροφορίες για κακόβουλα λογισμικά, καθώς και βασικές πληροφορίες για τη συσκευή σας) και άλλα είδη πληροφοριών που ορίζονται στην &lt;a href=\"https://privacy.mi.com/all/%1$s_%2$s\">Πολιτική Απορρήτου&lt;/a>.&lt;/Data></string>
+    <string name="install_success">%s Install Success</string>
     <string name="lucky_result_title">Κόκκινοι φακέλοι</string>
     <string name="main_toolbar_purchase">Ανανέωση χρόνου ομιλίας</string>
     <string name="midnight">Νύχτα</string>
@@ -263,6 +271,7 @@
     <string name="saturday_shortest">Σαβ</string>
     <string name="search_menu_title">Αναζήτηση</string>
     <string name="share">Κοινοποίηση</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
     <string name="sunday">Κυριακή</string>
     <string name="sunday_short">Κυρ</string>
     <string name="sunday_shortest">Κυρ</string>
@@ -341,6 +350,9 @@
     <string name="title_share_link">Κοινοποίηση URL</string>
     <string name="today">Σήμερα</string>
     <string name="tomorrow">Αύριο</string>
+    <string name="tool_box_active_loading">Περιμένετε μια στιγμή…</string>
+    <string name="tool_box_active_no_networ">Αδυναμία σύνδεσης στο δίκτυο</string>
+    <string name="tool_box_active_reload">Ανανέωση</string>
     <string name="tuesday">Τρίτη</string>
     <string name="tuesday_short">Τρι</string>
     <string name="tuesday_shortest">Τρι</string>

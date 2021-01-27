@@ -92,17 +92,9 @@
         <item quantity="other">"%s  αποτελέσματα στα συγχρονισμένα μηνύματα"</item>
         <item quantity="one">"%s  αποτέλεσμα στα συγχρονισμένα μηνύματα"</item>
     </plurals>
-    <plurals name="month">
-        <item quantity="other">%d μήνες</item>
-        <item quantity="one">%d μήνα</item>
-    </plurals>
     <plurals name="more_atts_remaining">
         <item quantity="other">%1$d συνημμένα απομένουν</item>
         <item quantity="one">%1$d συνημμένο απομένει</item>
-    </plurals>
-    <plurals name="move_conversation">
-        <item quantity="other">"Μετακίνηση %1$d  συνομιλιών"</item>
-        <item quantity="one">Μετακίνηση συνομιλίας</item>
     </plurals>
     <plurals name="new_incoming_messages_many">
         <item quantity="other">Προβολή %1$d νέων μηνυμάτων.</item>
@@ -155,10 +147,6 @@
     <plurals name="number_of_week_before">
         <item quantity="other">%1$d εβδομάδες πριν</item>
         <item quantity="one">%1$d εβδομάδα πριν</item>
-    </plurals>
-    <plurals name="quick_reply_hint">
-        <item quantity="other">Απάντηση σε %1$d άτομα</item>
-        <item quantity="one">Απάντηση σε %1$d άτομο</item>
     </plurals>
     <plurals name="remote_search_result">
         <item quantity="other">%s αποτελέσματα σε όλους τους λογαριασμούς</item>

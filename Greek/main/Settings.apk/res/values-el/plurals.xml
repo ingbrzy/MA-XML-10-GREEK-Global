@@ -42,11 +42,11 @@
     </plurals>
     <plurals name="auto_disable_screenbuttons_disabled_header_title">
         <item quantity="other">Ποτέ απενεργοποίηση για %d εφαρμογές</item>
-        <item quantity="one">Never disable for %d app</item>
+        <item quantity="one">Ποτέ απενεργοποίηση για %d εφαρμογή</item>
     </plurals>
     <plurals name="auto_disable_screenbuttons_enabled_header_title">
         <item quantity="other">Πάντα απενεργοποίηση για %d εφαρμογές</item>
-        <item quantity="one">Always disable for %d app</item>
+        <item quantity="one">Πάντα απενεργοποίηση για %d εφαρμογή</item>
     </plurals>
     <plurals name="auto_startup_count">
         <item quantity="other">%d εφαρμογές επιτρέπεται να ξεκινούν αυτόματα</item>
@@ -353,8 +353,8 @@
         <item quantity="one">%1$d αποθηκευμένο ακουστικό βοήθημα</item>
     </plurals>
     <plurals name="show_pho_countdown">
-        <item quantity="other">"You're %1$d step away from opening device info."</item>
-        <item quantity="one">"You're %1$d step away from opening device info."</item>
+        <item quantity="other">Είστε %1$d βήματα μακριά από το άνοιγμα των πληροφοριών συσκευής.</item>
+        <item quantity="one">Είστε %1$d βήμα μακριά από το άνοιγμα των πληροφοριών συσκευής.</item>
     </plurals>
     <plurals name="show_rep_countdown">
         <item quantity="other">Είστε %1$d βήματα μακριά από την υποβολή αναφοράς bug.</item>

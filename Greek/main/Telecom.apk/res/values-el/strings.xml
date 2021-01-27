@@ -489,6 +489,7 @@
     <string name="private_dns_mode_provider">Όνομα κεντρικού υπολογιστή παρόχου DNS</string>
     <string name="private_dns_mode_provider_failure">Δεν ήταν δυνατή η σύνδεση</string>
     <string name="private_dns_mode_provider_hostname_hint">Όνομα κεντρικού υπολογιστή του παρόχου DNS</string>
+    <string name="process_kernel_label">Λειτουργικό σύστημα Android</string>
     <string name="profile_connect_timeout_subtext">Πρόβλημα κατά τη σύνδεση. Απενεργοποιήστε τη συσκευή και ενεργοποιήστε την ξανά</string>
     <string name="profile_info_settings_title">Πληροφορίες προφίλ</string>
     <string name="remaining_length_format">Απομένουν %1$s</string>

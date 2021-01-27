@@ -68,6 +68,13 @@
     <string name="focus_mode_timer_pick_dialog_title">Εισαγωγή διάρκειας</string>
     <string name="focus_time_exception_tip">Φαίνεται πως η ώρα τους συστήματος άλλαξε. Η Λειτουργία εστίασης απενεργοποιήθηκε.</string>
     <string name="follow_sim1">Εφαρμογή ρυθμίσεων SIM 1</string>
+    <string name="fps_nature_summary">Ο υψηλός ρυθμός ανανέωσης διατηρεί τα πάντα σε καλή κατάσταση</string>
+    <string name="fps_nature_title">Υψηλή</string>
+    <string name="fps_smooth_summary">Ο μέτριος ρυθμός ανανέωσης προσθέτει περισσότερη σαφήνεια στις λεπτομέρειες</string>
+    <string name="fps_smooth_title">Μέτρια</string>
+    <string name="fps_standard_summary">Ο κανονικός ρυθμός ανανέωσης εξοικονομεί μπαταρία</string>
+    <string name="fps_standard_title">Κανονική</string>
+    <string name="fps_user_tip">Αυτά τα κινούμενα σχέδια επίδειξης αναπαράγονται με χαμηλή ταχύτητα για ενημέρωσή σας. Η πραγματική απόδοση μπορεί να φαίνεται διαφορετική βάσει διαφόρων παραγόντων.</string>
     <string name="gamma">Gamma</string>
     <string name="healthy_use_phone">Διαχείριση χρόνου χρήσης οθόνης</string>
     <string name="high_fps_description">Υψηλός ρυθμός ανανέωσης οθόνης. Μεγαλύτερη κατανάλωση ενέργειας.</string>
@@ -114,6 +121,7 @@
     <string name="screen_fps_summary_power_save">Η χρήση σταθερού ρυθμού καταναλώνει λιγότερη ενέργεια</string>
     <string name="screen_fps_summary_smooth">Ορισμένες εφαρμογές θα αυξήσουν αυτόματα τον ρυθμό ανανέωσης για βελτίωση της ποιότητας εικόνας</string>
     <string name="screen_fps_title">Ρυθμός ανανέωσης</string>
+    <string name="screen_fps_unit">%d Hz</string>
     <string name="screen_fps_unit_power_save">%dHz (εξοικονόμηση μπαταρίας)</string>
     <string name="screen_fps_unit_smooth">%dHz (καλύτερη ποιότητα)</string>
     <string name="screen_original_gamut">Ενισχυμένη</string>
@@ -186,6 +194,7 @@
     <string name="usage_device_limit_app_prolong_time2">Προσθήκη 40 λεπτών</string>
     <string name="usage_device_limit_app_prolong_time3">Προσθήκη 60 λεπτών</string>
     <string name="usage_device_limit_app_prolong_time4">Να μην περιορίζεται σήμερα</string>
+    <string name="usage_device_limit_app_prolong_time5">Προσθήκη ώρας μία φορά</string>
     <string name="usage_device_limit_notifation_summary_start">Θα συμπληρώσετε το όριό σας σε %1$s</string>
     <string name="usage_device_limit_notifation_title">Χρόνος που απομένει σήμερα</string>
     <string name="usage_device_limit_time_over">Συμπληρώσατε το σημερινό σας όριο (%1$s)</string>

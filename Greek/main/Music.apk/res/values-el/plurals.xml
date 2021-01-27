@@ -86,6 +86,14 @@
         <item quantity="other">Απέμειναν %d δωρεάν λήψεις</item>
         <item quantity="one">Απέμεινε %d δωρεάν λήψη</item>
     </plurals>
+    <plurals name="list_header_fans_count">
+        <item quantity="other">%d ακόλουθοι</item>
+        <item quantity="one">%d ακόλουθος</item>
+    </plurals>
+    <plurals name="list_header_follow_count">
+        <item quantity="other">Ακολουθείτε %d άτομα</item>
+        <item quantity="one">Ακολουθείτε %d άτομο</item>
+    </plurals>
     <plurals name="multichoice_title">
         <item quantity="other">%d αντικείμενα επιλέχθηκαν</item>
         <item quantity="one">%d αντικείμενο επιλέχθηκε</item>

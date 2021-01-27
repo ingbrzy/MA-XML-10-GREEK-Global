@@ -107,6 +107,7 @@
     <string name="currency_update_updating">Γίνεται ενημέρωση ισοτιμιών…</string>
     <string name="current_rate_remind_commercial" />
     <string name="current_rate_remind_fund" />
+    <string name="date_format">dd MMM yyyy</string>
     <string name="dateformat">dd/MM/yyyy</string>
     <string name="day">ημέρα</string>
     <string name="degDesc">Γωνία</string>
@@ -115,6 +116,9 @@
     <string name="description_title">Σχετικά με Αριθμομηχανή</string>
     <string name="devided_by_zero_reminder_message">Αδυναμία διαίρεσης με μηδέν</string>
     <string name="dialog_privacy_content">&lt;Data>Εκτός της βασικής της λειτουργίας ως αριθμομηχανή, η εφαρμογή μας περιέχει επίσης και επιστημονική αριθμομηχανή και μετατροπέα πολλαπλών χρήσεων. Ορισμένες λειτουργίες χρειάζεται να συνδεθούν στο ίντερνετ για να λειτουργούν κανονικά. Πρέπει να διαβάσετε και να συμφωνήσετε με το &lt;a href=\"%1$s\">Συμφωνητικό Χρήστη&lt;/a> και την &lt;a href=\"%2$s\">Πολιτική Απορρήτου&lt;/a> πριν χρησιμοποιήσετε την Αριθμομηχανή.&lt;/Data></string>
+    <string name="dialog_privacy_disagree_msg">Με εναλλαγή του διακόπτη σε ανενεργό, ανακαλείτε τη συγκατάθεσή σας στην Πολιτική Απορρήτου της εφαρμογής Αριθμομηχανή. Θα σταματήσουμε να συλλέγουμε τις προσωπικές σας πληροφορίες. Οι προσωπικές πληροφορίες που έχουν συλλεχθεί και διατηρηθεί μέχρι στιγμής θα διαγραφούν μέσα στη συγκεκριμένη περίοδο, όπως απαιτείται από τους ισχύοντες νόμους. Η εφαρμογή Αριθμομηχανή πρέπει να συλλέξει απαραίτητες προσωπικές πληροφορίες για να σας παρέχει τις βασικές υπηρεσίες. Η ανάκληση της συναίνεσής σας στην Πολιτική Απορρήτου της θα θεωρείται άρνηση της αποδοχής των υπηρεσιών της βάσει των συλλεγμένων προσωπικών δεδομένων.</string>
+    <string name="dialog_privacy_revoke_btn_ok">Ανάκληση</string>
+    <string name="dialog_privacy_revoke_title">Ανάκληση συγκατάθεσης</string>
     <string name="dialog_privacy_title">Όροι και Προϋποθέσεις</string>
     <string name="dialog_rating_desc_ask">Ποια είναι η γνώμη σας για την Αριθμομηχανή;</string>
     <string name="dialog_rating_desc_less">Μπορείτε να αφήσετε επίσης τα σχόλιά σας;</string>
@@ -164,6 +168,7 @@
     <string name="global_search_key_word_figure">Οικονομικοί χαρακτήρες</string>
     <string name="golbal_search_calculator_setting">Αριθμομηχανή, Ρυθμίσεις Αριθμομηχανής, Ρυθμίσεις</string>
     <string name="golbal_search_path_calculator_setting">Εφαρμογές συστήματος/Αριθμομηχανή/Ρυθμίσεις</string>
+    <string name="gst_percentage">%s</string>
     <string name="height_prompt">Ύψος</string>
     <string name="help_content_desc">Βοήθεια</string>
     <string name="hint_annual_rate">Εισάγετε ετήσιο επιτόκιο</string>
@@ -208,6 +213,17 @@
     <string name="item_title_vel_conversion">Ταχύτητα</string>
     <string name="item_title_volume_conversion">Όγκος</string>
     <string name="item_title_weight_conversion">Μάζα</string>
+    <string name="l_digit0">%d</string>
+    <string name="l_digit1">%d</string>
+    <string name="l_digit2">%d</string>
+    <string name="l_digit3">%d</string>
+    <string name="l_digit4">%d</string>
+    <string name="l_digit5">%d</string>
+    <string name="l_digit6">%d</string>
+    <string name="l_digit7">%d</string>
+    <string name="l_digit8">%d</string>
+    <string name="l_digit9">%d</string>
+    <string name="l_name_discount">Έκπτωση (%s)</string>
     <string name="label_about">Σχετικά με</string>
     <string name="label_clear_history">Εκκαθάριση όλων</string>
     <string name="label_date_difference">Διαφορά</string>
@@ -266,6 +282,7 @@
     <string name="loan_type_summary_lpr">ΒΕΔ</string>
     <string name="loan_type_title">Τυπικό βασικό επιτόκιο</string>
     <string name="loan_unit">(×10K)</string>
+    <string name="localised_number">%d</string>
     <string name="lpr_ok">Κατάλαβα</string>
     <string name="lpr_tips_msg">"Από 8 Οκτωβρίου 2019, το επιτόκιο για προσωπικά εμπορικά στεγαστικά δάνεια θα υπολογίζεται σύμφωνα με το βασικό επιτόκιο δανεισμού (ΒΕΔ), αντί του προηγούμενου εφαρμοστέου επιτοκίου αναφοράς 4,9%. Τώρα, το τελικό επιτόκιο θα επιβεβαιωθεί με προσθήκη βασικού σημείου ΒΕΔ.
 
@@ -327,6 +344,7 @@
     <string name="network_confirm_content">Ο μετατροπέας νομίσματος, και οι αριθμομηχανές υπολογισμού φόρων και υποθηκών απαιτούν σύνδεση στο Ίντερνετ και πρόσβαση στις υπηρεσίες τοποθεσίας για να λειτουργήσουν κανονικά.</string>
     <string name="network_confirm_title">Απαιτούνται άδειες</string>
     <string name="network_purpose">Καλώς ήλθατε στην Αριθμομηχανή! Η Αριθμομηχανή σας δίνει τη δυνατότητα να μετατρέπετε νομίσματα, να υπολογίζετε τις αποπληρωμές υποθηκών και άλλα.</string>
+    <string name="new_privacy_string">&lt;Data>Καλώς ορίσατε στην Αριθμομηχανή!&lt;br/>Η εφαρμογή αυτή περιέχει τις ακόλουθες λειτουργίες:&lt;br/>• Βασική αριθμομηχανή&lt;br/>• Επιστημονική αριθμομηχανή&lt;br/>• Γενικός μετατροπέας (π.χ. νομίσματα, μονάδες μέτρησης κ.λπ.)&lt;br/>• Πρότυπα υπολογισμού για δάνεια, επενδύσεις, μηνιαίες δόσεις και άλλα&lt;br/>Η εφαρμογή Αριθμομηχανή πρέπει να συλλέξει απαραίτητα προσωπικά δεδομένα για να σας παρέχει βασικές υπηρεσίες. Μπορείτε να μάθετε πως διαχειριζόμαστε τα δεδομένα που συλλέγουμε στην &lt;a href= \"%1$s\">Πολιτική Απορρήτου&lt;/a>. Διαβάστε και συμφωνήστε με το &lt;a href=\"%2$s\">Συμφωνητικό Χρήστη&lt;/a> και την &lt;a href=\"%3$s\">Πολιτική Απορρήτου&lt;/a> πριν χρησιμοποιήσετε την Αριθμομηχανή. Μπορείτε να ανακαλέσετε τη συναίνεσή σας στην Πολιτική Απορρήτου στις Ρυθμίσεις της Αριθμομηχανής οποιαδήποτε στιγμή. Εάν δεν συμφωνείτε με την Πολιτική Απορρήτου, δεν θα μπορείτε να χρησιμοποιείτε ορισμένες λειτουργίες αυτής της εφαρμογής. Ωστόσο, οι βασικές της λειτουργίες θα εξακολουθήσουν να είναι διαθέσιμες.&lt;/Data></string>
     <string name="none">Τίποτα</string>
     <string name="not_supported_due_to_language">Αυτή η δυνατότητα είναι διαθέσιμη μόνο για την κινεζική γλώσσα</string>
     <string name="ok">ΟΚ</string>
@@ -359,7 +377,11 @@
     <string name="preference_use_voice_summary">Ενεργοποιήστε για χρήση εξόδου ομιλίας κατά τη διάρκεια υπολογισμών</string>
     <string name="preference_use_voice_title">Έξοδος ομιλίας</string>
     <string name="preference_user_feedback_title">Σχόλια</string>
+    <string name="privacy_dialog_title">Απόρρητο</string>
     <string name="privacy_policy">Πολιτική Απορρήτου</string>
+    <string name="privacy_revoke_error">Αδυναμία ανάκλησης. Προσπαθήστε ξανά.</string>
+    <string name="privacy_revoke_progress">Γίνεται ανάκληση…</string>
+    <string name="privacy_switch">Ανάκληση συγκατάθεσης</string>
     <string name="radDesc">Ακτίνα</string>
     <string name="rate_data_provider">Τα επιτόκια παρέχονται από το hexun.com</string>
     <string name="reciprocalDesc">Πολλαπλασιαστικό αντίστροφο</string>
@@ -489,6 +511,7 @@
     <string name="unit_data_display_currency_btn">Νγκούλτρουμ του Μπουτάν</string>
     <string name="unit_data_display_currency_bwp">Πούλα της Μποτσουάνα</string>
     <string name="unit_data_display_currency_byn">Ρούβλι Λευκορωσίας</string>
+    <string name="unit_data_display_currency_byr">@string/unit_data_display_currency_byn</string>
     <string name="unit_data_display_currency_cad">Καναδικό Δολάριο</string>
     <string name="unit_data_display_currency_cdf">Φράγκο του Κονγκό</string>
     <string name="unit_data_display_currency_chf">Ελβετικό Φράγκο</string>
@@ -797,12 +820,14 @@
     <string name="unit_yuan">CNY</string>
     <string name="updating">Ενημέρωση υπολογιστικής…</string>
     <string name="user_agreement">Όροι Χρήσης</string>
+    <string name="user_experience_program_title">Πρόγραμμα Εμπειρίας Χρήστη</string>
     <string name="view_float_window_move">Μετακίνηση ελαχιστοποιημένης Αριθμομηχανής</string>
     <string name="voiceDesc">Φωνητικές εντολές</string>
     <string name="voice_guide_text">Μπορείτε να ενεργοποιήσετε την έξοδο ομιλίας εδώ</string>
     <string name="warn_locale_unsupport_for_voice">Οι φωνητικές εντολές για αυτή τη γλώσσα δεν υποστηρίζονται προς το παρόν.</string>
     <string name="weight_prompt">Βάρος</string>
     <string name="wf_word_figure">Οικονομικοί χαρακτήρες</string>
+    <string name="withdraw_network_error">Η συσκευή πρέπει να συνδεθεί στο δίκτυο για να μπορείτε να ανακαλέσετε τη συγκατάθεσή σας. Ελέγξτε τις ρυθμίσεις του δικτύου σας και προσπαθήστε ξανά.</string>
     <string name="word_figure_big_unit_fen">分</string>
     <string name="word_figure_big_unit_jiao">角</string>
     <string name="word_figure_big_unit_wan">"万 "</string>
@@ -824,8 +849,11 @@
     <string name="word_figure_unit_shi">拾</string>
     <string name="word_figure_yuan">元</string>
     <string name="word_figure_zheng">整</string>
+    <string name="xiaomi_bytes_unit">%1$sB</string>
     <string name="xiaomi_connect_download_manager_fail">Δεν ήταν δυνατή η σύνδεση με τις Λήψεις. Ελέγξτε αν αυτή η εφαρμογή διαθέτει όλα τα απαιτούμενα δικαιώματα στις Ρυθμίσεις > Εγκατεστημένες εφαρμογές.</string>
     <string name="xiaomi_external_storage_unavailable">Μη διαθέσιμος χώρος αποθήκευσης. Ελέγξτε την κάρτα SD σας.</string>
+    <string name="xiaomi_kilobytes_unit">%1$sKB</string>
+    <string name="xiaomi_megabytes_unit">%1$sMB</string>
     <string name="xiaomi_update_dialog_message">"Εισαγωγή έκδοσης %1$s
 Μέγεθος: %2$s"</string>
     <string name="xiaomi_update_dialog_message_diff">"Εισαγωγή έκδοσης %1$s

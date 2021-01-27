@@ -604,7 +604,7 @@
     <string name="banner_optimizemanage_summary">Ελευθερώστε μνήμη</string>
     <string name="banner_red_money_assist_button">Ενεργοποίηση</string>
     <string name="banner_red_money_assist_summary">Γρηγορότερο άνοιγμα κόκκινων φακέλων</string>
-    <string name="battery_and_property">Μπαταρία &amp; απόδοση</string>
+    <string name="battery_and_property">Μπαταρία</string>
     <string name="battery_can_use_time">Απομένει %s</string>
     <string name="battery_capacity_title">Χωρητικότητα μπαταρίας</string>
     <string name="battery_charge_estimating">Γίνεται υπολογισμός</string>
@@ -766,6 +766,7 @@
     <string name="card_main_private_space_summary">Η χρήση Δεύτερου χώρου είναι σαν να έχετε δύο συσκευές</string>
     <string name="card_main_private_space_title">Δεύτερος χώρος</string>
     <string name="card_main_sectool_title">Εργαλεία</string>
+    <string name="card_main_speeddetail_action">@string/card_main_monthreport_action</string>
     <string name="card_main_xspace_action">Δημιουργία</string>
     <string name="card_main_xspace_summary">Δημιουργία διπλότυπων λογαριασμών για οποιαδήποτε εφαρμογή</string>
     <string name="card_main_xspace_title">Διπλότυπες εφαρμογές</string>
@@ -777,6 +778,15 @@
     <string name="choose">Επιλογή</string>
     <string name="choose_gs_show_way">Επιλογή προσανατολισμού αρχικής σελίδας</string>
     <string name="clean_immediately">Εκκαθάριση</string>
+    <string name="clean_master_icon_recall_button_text">Προσθήκη</string>
+    <string name="clean_master_icon_recall_dialog_button_negative">Όχι ευχαριστώ</string>
+    <string name="clean_master_icon_recall_dialog_button_positive">Προσθήκη</string>
+    <string name="clean_master_icon_recall_dialog_summary">Προσθήκη συντόμευσης στην Αρχική οθόνη για εκκαθάριση κάδου ανακύκλωσης οποιαδήποτε στιγμή χρειάζεστε.</string>
+    <string name="clean_master_icon_recall_dialog_title">Ταχύτερη εκκαθάριση κάδου ανακύκλωσης</string>
+    <string name="clean_master_icon_recall_hint">Προσθήκη συντόμευσης στην Αρχική οθόνη</string>
+    <string name="clean_master_icon_recall_summary">Προσθήκη συντόμευσης Αρχικής οθόνης για εκκαθάριση σκουπιδιών οποιαδήποτε στιγμή χρειάζεστε.</string>
+    <string name="clean_master_icon_recall_title">Ταχύτερη εκκαθάριση σκουπιδιών</string>
+    <string name="clean_master_icon_recall_toast_text">Προστέθηκε συντόμευση Αρχικής οθόνης για επιτυχή Εκκαθάριση</string>
     <string name="cleaned">Έγινε εκκαθάριση</string>
     <string name="clear_garbage">Εκκαθάριση σκουπιδιών για απελευθέρωση χώρου</string>
     <string name="clear_immediately">Εκκαθάριση τώρα</string>
@@ -970,6 +980,7 @@
     <string name="doze_optimization_title">Βελτιστοποίηση ελέγχων αφής</string>
     <string name="dual_setting_simcard1">SIM 1</string>
     <string name="dual_setting_simcard2">SIM 2</string>
+    <string name="ellipsis">…</string>
     <string name="email">Email</string>
     <string name="empty_app">Δεν υπάρχουν εφαρμογές</string>
     <string name="empty_title_auto_start_list">Καμία εφαρμογή δεν μπορεί να ξεκινήσει αυτόματα.</string>
@@ -1021,7 +1032,9 @@
     <string name="exo_download_notification_channel_name">Λήψεις</string>
     <string name="exo_download_removing">Κατάργηση λήψεων</string>
     <string name="exo_item_list">%1$s, %2$s</string>
+    <string name="exo_track_bitrate">%1$.2f Mbps</string>
     <string name="exo_track_mono">Μονοφωνικό</string>
+    <string name="exo_track_resolution">%1$d × %2$d</string>
     <string name="exo_track_selection_auto">Αυτόματο</string>
     <string name="exo_track_selection_none">Κανένα</string>
     <string name="exo_track_selection_title_audio">Ήχος</string>
@@ -1158,6 +1171,11 @@
     <string name="free_time_traffic_settings">Όριο δεδομένων εκτός-αιχμής</string>
     <string name="free_time_traffic_title">Εισαγωγή ορίου δεδομένων εκτός-αιχμής</string>
     <string name="free_traffic_settings">Ρυθμίσεις χρήσης δεδομένων εκτός αιχμής</string>
+    <string name="function_auto_reject_detail">"Σχετικά με αυτή τη λειτουργία:
+1. Όσο παίζετε παιχνίδια, όλες οι εισερχόμενες κλήσεις στην κάρτα SIM χωρίς υπηρεσία δεδομένων θα απορρίπτεται αυτόματα.
+2. Θα δείτε ειδοποιήσεις για αναπάντητες κλήσεις και το άλλο άτομο θα ακούσει ένα ηχητικό μήνυμα που λέει ότι αυτή τη στιγμή είστε απασχολημένοι.
+3. Η λειτουργία αυτή υποστηρίζεται μόνο από παρόχους υπηρεσιών κινητής τηλεφωνίας στην Κίνα."</string>
+    <string name="function_auto_reject_title">Απόρριψη κλήσεων VoLTE σε κάρτες SIM χωρίς υπηρεσία δεδομένων</string>
     <string name="function_close">Ανενεργή</string>
     <string name="function_gwsd_detail">"Σχετικά με αυτή τη λειτουργία:
  1. Όταν χρησιμοποιείτε δεδομένα κινητής τηλεφωνίας σε SIM δεδομένων κινητής τηλεφωνίας ή σε κανονική κάρτα SIM συνδεδεμένη σε δίκτυο VoLTE, η σύνδεση δεν θα διακόπτεται από εισερχόμενες κλήσεις μέχρι να απαντήσετε.
@@ -1271,6 +1289,11 @@
     <string name="gb_description_image_button_answer">Απάντηση</string>
     <string name="gb_description_image_button_reject">Απόρριψη</string>
     <string name="gb_description_image_button_video_answer">Βιντεοκλήση</string>
+    <string name="gb_dialog_game_uninstall_deleting">Γίνεται απεγκατάσταση…</string>
+    <string name="gb_dialog_game_uninstall_loading">Γίνεται φόρτωση παιχνιδιών…</string>
+    <string name="gb_dialog_game_uninstall_tips_message">Όλες οι εφαρμογές θα διαγραφούν.</string>
+    <string name="gb_dialog_game_uninstall_tips_message_xspace">Όλα τα δεδομένα εφαρμογής και συσχετισμένες διπλές εφαρμογές θα διαγραφούν.</string>
+    <string name="gb_dialog_game_uninstall_tips_title">Απεγκατάσταση %s</string>
     <string name="gb_dialog_record_way_ai">Οι εγγραφές AI αποθηκεύονται στο gamebox και παραμένουν εκεί για 7 ημέρες.</string>
     <string name="gb_dialog_record_way_finish">Τέλος</string>
     <string name="gb_dialog_record_way_manual">Χειροκίνητη εγγραφή βίντεο διαρκείας έως 30 δευτερολέπτων</string>
@@ -1302,6 +1325,10 @@
     <string name="gb_game_video_type_manual">Χειροκίνητα</string>
     <string name="gb_get_gift_right_now">Σύνδεση τώρα</string>
     <string name="gb_global_settings">Γενικές ρυθμίσεις</string>
+    <string name="gb_gpu_driver_btn_update">Έλεγχος για ενημερώσεις</string>
+    <string name="gb_gpu_driver_update">Ενημερωτής προγράμματος οδήγησης GPU</string>
+    <string name="gb_gpu_driver_update_app">Ενημέρωση</string>
+    <string name="gb_gpu_driver_update_app_tips">Η τρέχουσα έκδοση είναι ενημερωμένη</string>
     <string name="gb_have_signed">Συνδέσεις σήμερα</string>
     <string name="gb_manual_record_dialog_del_video_message">Οριστική διαγραφή επιλεγμένων βίντεο;</string>
     <string name="gb_msg_completely_shielded">Απόκρυψη μηνυμάτων</string>
@@ -1323,6 +1350,9 @@
     <string name="gb_signed_gift_loading_summary">Περιμένετε μία στιγμή…</string>
     <string name="gb_signed_title">Συνδέσεις αυτό τον μήνα</string>
     <string name="gb_sound_audition">Δοκιμή</string>
+    <string name="gb_storage_game_uninstall">Απεγκατάσταση παιχνιδιών</string>
+    <string name="gb_storage_summary">Να μην εμφανίζονται παιχνίδια που προστέθηκαν στο gamebox στην Αρχική οθόνη</string>
+    <string name="gb_storage_title">Κατάργηση των προστιθέμενων παιχνιδιών από την Αρχική οθόνη</string>
     <string name="gb_voice_change_settinged">Η Μεταβολή φωνής είναι ενεργοποιημένη</string>
     <string name="gb_voice_changer_cartoon">Κινούμενο σχέδιο</string>
     <string name="gb_voice_changer_dlg_button_agree">Αποδοχή</string>
@@ -1628,7 +1658,7 @@
     <string name="megabyteShort">MB</string>
     <string name="megabyte_per_second">MB/δ</string>
     <string name="memory_check_content">Ελευθερώθηκαν %s</string>
-    <string name="memory_clean_memory_size_tip">Cache</string>
+    <string name="memory_clean_memory_size_tip">Προσωρινή μνήμη</string>
     <string name="memory_clean_no_need_clean">Όλα φαίνονται να λειτουργούν σωστά</string>
     <string name="memory_clean_no_need_clean_1" formatted="false">Απελευθερώθηκαν %s. Τώρα η συσκευή σας είναι %d%% γρηγορότερη.</string>
     <string name="memory_clear_unused">Εκκαθάριση προσωρινής μνήμης (%s)</string>
@@ -1687,9 +1717,11 @@
     <string name="menu_text_antispam">Λίστα αποκλεισμών</string>
     <string name="menu_text_antivirus">Σάρωση ασφαλείας</string>
     <string name="menu_text_garbage_cleanup">Εκκαθάριση</string>
+    <string name="menu_text_garbage_cleanup_danger">%s</string>
     <string name="menu_text_license_manager">Άδειες</string>
     <string name="menu_text_networkassistants">Χρήση δεδομένων</string>
     <string name="menu_text_networkassistants_danger">%s παραπάνω</string>
+    <string name="menu_text_networkassistants_data">%1$s%2$s</string>
     <string name="menu_text_networkassistants_remain">%s απέμειναν</string>
     <string name="menu_text_networkassistants_unit_b">B</string>
     <string name="menu_text_networkassistants_unit_gb">GB</string>
@@ -1697,7 +1729,8 @@
     <string name="menu_text_networkassistants_unit_mb">MB</string>
     <string name="menu_text_optimize_manage">Ενίσχυση ταχύτητας</string>
     <string name="menu_text_optimize_manage_1">Ενίσχυση ταχύτητας</string>
-    <string name="menu_text_power_manager">Μπαταρία και απόδοση</string>
+    <string name="menu_text_power_manager">Μπαταρία</string>
+    <string name="menu_text_power_percent_title">%s</string>
     <string name="menu_wh_remove">Αφαίρεση από εξαιρέσεις</string>
     <string name="menu_white">Προσθήκη στις εξαιρέσεις</string>
     <string name="mi_service_app_detail">Λεπτομέρειες χρήσης δεδομένων</string>
@@ -1710,7 +1743,7 @@
     <string name="mixed_password_confirmed_header_confirm">Επιτυχής ορισμός. Πατήστε για επιβεβαίωση.</string>
     <string name="mixed_password_confirmed_header_continue">Επιτυχής ορισμός. Πατήστε \"Επόμενο\".</string>
     <string name="mixed_pattern_entered_header">Επιτυχής ορισμός κωδικού</string>
-    <string name="mixed_recording_intro_header">Εισαγάγετε %1$s%2$s χαρακτήρες</string>
+    <string name="mixed_recording_intro_header">Εισαγάγετε %1$s-%2$s χαρακτήρες</string>
     <string name="mixed_retry_button_text">Ακύρωση</string>
     <string name="mixed_settings_help_how_to_record">Πως να ορίσετε κωδικό</string>
     <string name="modify_password_mode"><u>Αλλαγή τύπου κωδικού</u></string>
@@ -1812,6 +1845,9 @@
     <string name="notification_channel_battery">Μπαταρία</string>
     <string name="notification_exit_power_save_mode">Απενεργοποιήθηκε η Εξοικονόμηση Μπαταρίας</string>
     <string name="notification_exit_power_save_mode_subtitle">Μπαταρία %s φορτίστηκε.</string>
+    <string name="notification_garbage_clean_botton_text">Εκκαθάριση</string>
+    <string name="notification_garbage_clean_hint">Εκκαθάριση αποθηκευτικού χώρου</string>
+    <string name="notification_garbage_clean_size">Ελευθέρωση %s</string>
     <string name="notification_garbage_cleanup_summary">Εκκαθάριση των σκουπιδιών (%s) για ενίσχυση ταχύτητας της συσκευής σας</string>
     <string name="notification_garbage_cleanup_title">Εκκαθάριση αρχείων σκουπιδιών</string>
     <string name="notification_low_battery_action_btn">Ενεργοποίηση</string>
@@ -1823,6 +1859,8 @@
     <string name="notification_masked_item">Πώς να κρύψετε το περιεχόμενο ειδοποίησης;</string>
     <string name="notification_masked_subtitle">Χρησιμοποιήστε το Κλείδωμα εφαρμογής για να κρύψετε το περιεχόμενο ειδοποίησης για επιλεγμένες εφαρμογές</string>
     <string name="notification_summary_cmcc_app_check">Αγγίξτε για προβολή λεπτομερειών.</string>
+    <string name="notification_whatsapp_clean_button_text">Εκκαθάριση</string>
+    <string name="notification_whatsapp_clean_size">Η προσωρινή μνήμη του WhatsApp έφτασε τα %s</string>
     <string name="notify_channel_mipush">Μηνύματα push ασφαλείας</string>
     <string name="notify_channel_name_behavior">Ιστορικό συμπεριφοράς</string>
     <string name="notify_channel_name_security">Ασφάλεια συστήματος</string>
@@ -1987,7 +2025,7 @@
     <string name="pc_search_keywords_battery_use">Χρήση μπαταρίας</string>
     <string name="pc_search_keywords_capacity">Χωρητικότητα μπαταρίας</string>
     <string name="pc_search_keywords_property">Απόδοση</string>
-    <string name="pc_settings_title">Μπαταρία &amp; ρυθμίσεις απόδοσης</string>
+    <string name="pc_settings_title">Μπαταρία</string>
     <string name="pc_statistics_battery_last_hour_minute">%1$dω %2$dλ απομένουν</string>
     <string name="pc_statistics_battery_use_hour_minute">%1$dω %2$dλ από την τελευταία φόρτιση</string>
     <string name="pc_statistics_battery_use_summary">%s από την τελευταία φόρτιση</string>
@@ -2086,6 +2124,11 @@
     <string name="power_center_dialog_msg_top">Όταν η Εξοικονόμηση μπαταρίας είναι ενεργή, το MIUI θα εκτελέσει τις εξής βελτιστοποιήσεις:</string>
     <string name="power_center_hints_scan_danger_result">Μπορείτε να διορθώσετε τα προβλήματα μπαταρίας τώρα</string>
     <string name="power_center_list_item_auto_brightness">Αυτόματη προσαρμογή φωτεινότητας οθόνης</string>
+    <string name="power_center_list_item_battery_health_model_temperature">%d ℃</string>
+    <string name="power_center_list_item_battery_health_model_voltage">%s V</string>
+    <string name="power_center_list_item_battery_health_model_volume">%s mAh</string>
+    <string name="power_center_list_item_battery_status_capacity">mAh</string>
+    <string name="power_center_list_item_battery_status_temperature">℃</string>
     <string name="power_center_list_item_battery_status_time">h</string>
     <string name="power_center_list_item_close_bluetooth">Απενεργοποίηση Bluetooth</string>
     <string name="power_center_list_item_deep_save_title">Σύνθετες ρυθμίσεις</string>
@@ -2120,7 +2163,7 @@
     <string name="power_center_super_save_title_text">Εξαιρετική εξοικονόμηση μπαταρίας</string>
     <string name="power_center_time_to_boot">Χρόνος ενεργοποίησης</string>
     <string name="power_center_time_to_shutdown">Χρόνος απενεργοποίησης</string>
-    <string name="power_center_title">Μπαταρία &amp; απόδοση</string>
+    <string name="power_center_title">Μπαταρία</string>
     <string name="power_consume_hardware_total_format">Υλικό: %s</string>
     <string name="power_consume_other">Άλλα</string>
     <string name="power_consume_rank_hardware">Υλικό</string>
@@ -2214,7 +2257,7 @@
     <string name="power_settings_number">Ποσοστό</string>
     <string name="power_settings_saver_title">Εξοικονόμηση ενέργειας</string>
     <string name="power_settings_shape">Γραφικός</string>
-    <string name="power_settings_title">Ρύθμιση</string>
+    <string name="power_settings_title">Ρυθμίσεις</string>
     <string name="power_settings_top">Μπάρα κορυφής</string>
     <string name="power_superpower_title_systemui_highpower">Χρόνος που απομένει</string>
     <string name="power_superpower_title_systemui_lowpower">Συνδέστε φορτιστή</string>
@@ -2262,6 +2305,7 @@
     <string name="pref_normal_traffic_limit">Όταν το πλάνο δεδομένων εξαντληθεί</string>
     <string name="pref_open_adjust_traffic">Ενημέρωση χρήσης δεδομένων κάθε ημέρα με την χρήση στατιστικών από τον πάροχό σας</string>
     <string name="pref_operator_not_set">Ο πάροχος δεν ορίστηκε</string>
+    <string name="pref_operator_setting">%1$s%2$s</string>
     <string name="pref_over_traffic_limit">Όταν υπερβείτε το πλάνο δεδομένων σας</string>
     <string name="pref_package_traffic_settings">Πλάνο δεδομένων</string>
     <string name="pref_pkg_begin_date">Ημερομηνία επαναφοράς χρήσης</string>
@@ -2425,6 +2469,7 @@
     <string name="privacy_using_record">Γίνεται εγγραφή ήχου</string>
     <string name="privacyapp_number_masked_text">Το περιεχόμενο ειδοποίησης είναι κρυφό</string>
     <string name="privacyapp_number_unmasked_text">Δεν είναι δυνατή η απόκρυψη περεχομένου</string>
+    <string name="process_kernel_label">Android</string>
     <string name="process_mediaserver_label">Διακομιστής πολυμέσων</string>
     <string name="process_vpnsdkmanager_label">Τούρμπο παιχνιδιού</string>
     <string name="promotion">Διαφήμηση</string>
@@ -3262,6 +3307,9 @@
     <string name="vb_advanced_settings_after_open">Μετά</string>
     <string name="vb_advanced_settings_before_open">Πριν</string>
     <string name="vb_advanced_settings_pic_stronger_desc">Κάντε τα κινούμενα αντικείμενα καθαρότερα με ενίσχυση κινουμένων σχεδίων. Η λειτουργία αυτή απαιτεί μεγαλύτερη κατανάλωση ενέργειας.</string>
+    <string name="vb_fps_settings">Αυτόματος ρυθμός ανανέωσης</string>
+    <string name="vb_fps_settings_tips">Η λειτουργία αυτή προσαρμόζει τον ρυθμό ανανέωσης οθόνης σε ρυθμό καρέ βίντεο, ο οποίος εξοικονομεί μπαταρία και κάνει την αναπαραγωγή ομαλή. Η ενεργοποίηση αναδυόμενων σχολίων θα απενεργοποιήσει τον αυτόματο ρυθμό ανανέωσης.</string>
+    <string name="vb_quick_func_auto_bgm">Αναγνώριση μουσικής υπόκρουσης</string>
     <string name="vb_quick_func_hangup_listening">Αναπαραγωγή ήχου βίντεο με ανενεργή οθόνη</string>
     <string name="vb_quick_func_screen_capture">Στιγμιότυπο οθόνης</string>
     <string name="vb_quick_func_screen_record">Εγγραφή</string>
@@ -3273,9 +3321,19 @@
     <string name="vb_video_effects_display_style">Στυλ</string>
     <string name="vb_video_effects_setting_black_white">Μ&amp;Α</string>
     <string name="vb_video_effects_setting_cinema">Σινεμά</string>
+    <string name="vb_video_effects_setting_girl">Κοκκίνισμα</string>
+    <string name="vb_video_effects_setting_gorgeous">Έντονο</string>
+    <string name="vb_video_effects_setting_green_orange">Πορτοκαλί</string>
+    <string name="vb_video_effects_setting_grim">Ψυχρό</string>
+    <string name="vb_video_effects_setting_hdr">HDR</string>
+    <string name="vb_video_effects_setting_knight">Μεταλικό</string>
+    <string name="vb_video_effects_setting_mecha">Ρομπότ</string>
+    <string name="vb_video_effects_setting_nostalgia">Νοσταλγικό</string>
     <string name="vb_video_effects_setting_old_movie">Ρετρό</string>
     <string name="vb_video_effects_setting_outside">Εξωτερικός χώρος</string>
     <string name="vb_video_effects_setting_raw">Πρωτότυπο</string>
+    <string name="vb_video_effects_setting_solar">Ξεθώριασμα</string>
+    <string name="vb_video_effects_setting_warmth">Θερμό</string>
     <string name="vb_video_effects_settings_liquid">Καθαρότητα</string>
     <string name="vb_video_effects_settings_stereo">Ένταση</string>
     <string name="vb_video_effects_srs_premium_sound">Ήχος</string>

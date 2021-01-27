@@ -106,8 +106,9 @@
     <string name="next_fingerprint">Επόμενο</string>
     <string name="note_introduction">Η εφαρμογή αυτή σας επιτρέπει να δημιουργείτε, να προβάλλετε και να επεξεργάζεστε σημειώσεις.</string>
     <string name="other_settings">Πρόσθετες ρυθμίσεις</string>
-    <string name="other_settings_ad_dialog_content">"Αφού απενεργοποιήσετε αυτή τη λειτουργία, πλέον δεν θα λαμβάνετε εξατομικευμένες διαφημίσεις. Ωστόσο, θα συνεχίσετε να λαμβάνετε διαφημίσεις που δεν σχετίζονται με τα ενδιαφέροντά σας. Μπορείτε να μάθετε περισσότερα για τις εξατομικευμένες διαφημίσεις στην Πολιτική Απορρήτου της Xiaomi.
-Απενεργοποίηση εξατομικευμένων διαφημίσεων παρόλα αυτά;"</string>
+    <string name="other_settings_ad_dialog_agree">Ενεργοποίηση</string>
+    <string name="other_settings_ad_dialog_content">Όταν οι εξατομικευμένες προτάσεις διαφημίσεων είναι απενεργοποιημένες, θα συνεχίσετε να βλέπετε την ίδια ποσότητα διαφημίσεων όπως όταν η λειτουργία αυτή είναι ενεργή. Ωστόσο, οι διαφημίσεις δεν θα είναι τόσο σχετικές, επειδή δεν θα βασίζονται στις προσωπικές σας προτιμήσεις.</string>
+    <string name="other_settings_ad_dialog_disagree">Απενεργοποίηση</string>
     <string name="other_settings_ad_disable_summary">Ενεργοποιήστε για εξατομίκευση διαφημίσεων</string>
     <string name="other_settings_ad_enable">Εξατομικευμένες διαφημίσεις</string>
     <string name="other_settings_ad_enable_summary">Εξατομικεύστε τις διαφημίσεις βάσει των ενδιαφερόντων σας</string>

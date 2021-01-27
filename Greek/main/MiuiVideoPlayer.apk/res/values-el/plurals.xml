@@ -72,6 +72,18 @@
         <item quantity="other">%d βίντεο</item>
         <item quantity="one">%d βίντεο</item>
     </plurals>
+    <plurals name="s_double_tap_backward">
+        <item quantity="other">Διπλό πάτημα για επαναφορά %d δευτερόλεπτα</item>
+        <item quantity="one">Διπλό πάτημα για επαναφορά %d δευτερόλεπτο</item>
+    </plurals>
+    <plurals name="s_double_tap_forward">
+        <item quantity="other">Διπλό πάτημα για γρήγορη προώθηση %d δευτερόλεπτα</item>
+        <item quantity="one">Διπλό πάτημα για γρήγορη προώθηση %d δευτερόλεπτο</item>
+    </plurals>
+    <plurals name="s_forward_tip">
+        <item quantity="other">%1$s δευ</item>
+        <item quantity="one">%1$s δευ</item>
+    </plurals>
     <plurals name="subscriber">
         <item quantity="other">%s συνδρομητές</item>
         <item quantity="one">%s συνδρομητής</item>

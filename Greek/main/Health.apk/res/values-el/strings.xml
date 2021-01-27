@@ -1,5 +1,14 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <string name="MediaControlView_audio_track_none_text">Κανένα</string>
+    <string name="MediaControlView_audio_track_number_text">Κομμάτι %1$d</string>
+    <string name="MediaControlView_audio_track_text">Κομμάτι ήχου</string>
+    <string name="MediaControlView_playback_speed_normal">Κανονική</string>
+    <string name="MediaControlView_playback_speed_text">Ταχύτητα αναπαραγωγής</string>
+    <string name="MediaControlView_subtitle_off_text">Ανενεργό</string>
+    <string name="MediaControlView_subtitle_track_number_and_lang_text">Κομμάτι %1$d - %2$s</string>
+    <string name="MediaControlView_subtitle_track_number_text">Κομμάτι %1$d</string>
+    <string name="MediaControlView_time_placeholder">00:00:00</string>
     <string name="abc_action_bar_home_description">Πλοήγηση στην αρχική σελίδα</string>
     <string name="abc_action_bar_up_description">Πλοήγηση προς τα επάνω</string>
     <string name="abc_action_menu_overflow_description">Περισσότερες επιλογές</string>
@@ -47,6 +56,7 @@ to add cards"</string>
     <string name="afternoon">Απόγευμα</string>
     <string name="all_records">Όλες οι εγγραφές</string>
     <string name="altitude">Altitude</string>
+    <string name="altitude_pressure_hint">*Το ύψος που υπολογίζεται με βάση την ατμοσφαιρική πίεση είναι κατά προσέγγιση</string>
     <string name="altitude_range">Υψόμετρο</string>
     <string name="am">ΠΜ</string>
     <string name="audio_permission_dialog_desc">Για να αναλύσει τον κύκλο του ύπνου σας και να εγγράψει ομιλία και ροχαλητό, η Xiaomi Health χρειάζεται άδεια εγγραφής ήχου.</string>
@@ -153,6 +163,7 @@ to add cards"</string>
     <string name="deep_sleep_duration_description">"When people sleep, periodic rapid eye movements occur. Sleep can be divided into rapid eye movement (REM) sleep and non-rapid eye movement (NREM) sleep. Deep sleep occurs during periods of NREM sleep, accounting for about 20 to 25%% of the overall sleep duration. Your brain rests during deep sleep, showing low levels of conscious activity, so waking up isn't easy."</string>
     <string name="deep_sleep_duration_increase_description">Your deep sleep is too long</string>
     <string name="deep_sleep_duration_normal_description">You have a sufficient amount of deep sleep</string>
+    <string name="default_notification_channel_name">Ακούγεται τώρα</string>
     <string name="delete">Delete</string>
     <string name="delete_menstruation_record_confirm">Διαγραφή αυτής της εγγραφής;</string>
     <string name="description">Details</string>
@@ -195,6 +206,7 @@ to add cards"</string>
     <string name="dialog_keep">Keep</string>
     <string name="dialog_known">Κατάλαβα</string>
     <string name="dialog_menstruation_purpose">Καλωσορίσατε στη Xiaomi Health! Η \"Εμμηνόρροια\" σας επιτρέπει να καταγράφετε τις εμμηνόρροιές μας, να καθορίζετε τις εκτιμώμενες ημερομηνίες των ανερχόμενων εμμηνορροιών και να λαμβάνετε υπενθυμίσεις. Όλα τα σχετικά δεδομένα θα αποθηκευτούν τοπικά στη συσκευή σας, που σας επιτρέπει να τα διαχειρίζεστε εύκολα.</string>
+    <string name="dialog_new_version_title">Μία ενημέρωση είναι διαθέσιμη</string>
     <string name="dialog_no_more_prompt">Να μην εμφανιστεί ξανά</string>
     <string name="dialog_ok">OK</string>
     <string name="dialog_open">Αποδοχή</string>
@@ -213,6 +225,7 @@ to add cards"</string>
     <string name="dialog_user_agreement_purpose">Καλώς ορίσατε στη Xiaomi Health! Μπορείτε να χρησιμοποιείτε αυτή την εφαρμογή για να μετράτε βήματα, να παρακολουθείτε τον ύπνο, τις εμμηνόρροιες και το βάρος, καθώς και για να συγχρονίζετε τα στατιστικά σας στοιχεία με το cloud.</string>
     <string name="dialog_user_agreement_purpose2">Καλώς ορίσατε στην Xiaomi Health! Μπορείτε να χρησιμοποιείτε αυτή την εφαρμογή για να μετράτε τα βήματά, να αναλύετε τον ύπνο, να παρακολουθείτε τις εμμηνόρροιες, να καταγράφετε το βάρος σας και άλλα.</string>
     <string name="disable">Off</string>
+    <string name="discard_update">Όχι ευχαριστώ</string>
     <string name="dream_talk">Talking %1$s</string>
     <string name="dream_talk_record">You were recorded when you talked during in your sleep</string>
     <string name="dream_talk_title">Talking</string>
@@ -229,6 +242,12 @@ to add cards"</string>
     <string name="enable_right_now">Turn on</string>
     <string name="engrgy_format">%1$d W</string>
     <string name="enough">Enough</string>
+    <string name="environment_detection_again">Προσπαθήστε ξανά</string>
+    <string name="environment_detection_fail">Φαίνεται ότι υπάρχει πολύς θόρυβος</string>
+    <string name="environment_detection_fail_hint">Μεταβείτε σε ένα ήσυχο μέρος και δοκιμάστε ξανά.</string>
+    <string name="environment_detection_hint_one">Αποφύγετε θορυβώδη μέρη για να κάνετε τα στατιστικά στοιχεία πιο ακριβή.</string>
+    <string name="environment_detection_hint_two">Η προπόνησή σας θα σταματήσει και θα συνεχιστεί αυτόματα με βάση τους ήχους που παράγετε.</string>
+    <string name="environment_detection_ing">Γίνεται έλεγχος περιβάλλοντος εργασίας…</string>
     <string name="eras_ad">μ.Χ.</string>
     <string name="eras_bc">π.Χ.</string>
     <string name="evening">Απόγευμα</string>
@@ -306,6 +325,7 @@ If it's still difficult for you to fall asleep after 30 minutes in bed, reduce t
     <string name="feedback_need_permission_msg">Επιτρέψτε η Xiaomi Health να γράφει σε εξωτερικό χώρο αποθήκευσης για να δημιουργεί εγγραφές που χρησιμοποιούνται για σχόλια.</string>
     <string name="feedback_permission_denied_msg">Η Xiaomi Health δεν μπορεί να αποθηκεύει εγγραφές σε εξωτερικό αποθηκευτικό χώρο. Χορηγήστε στη Xiaomi health τις απαιτούμενες άδειες στις ρυθμίσεις.</string>
     <string name="fewer">Little</string>
+    <string name="find_new_verision">Έκδοση %s τώρα διαθέσιμη</string>
     <string name="finish">Ολοκλήρωση</string>
     <string name="finished_rate">Completed %1$d%%</string>
     <string name="fmt_date_day">dd</string>
@@ -372,6 +392,8 @@ If it's still difficult for you to fall asleep after 30 minutes in bed, reduce t
     <string name="health_app_name_dev">Ανάπτυξη Υγείας</string>
     <string name="health_score">Βαθμός υγείας</string>
     <string name="health_score_tips">Ο βαθμός υγείας υπολογίζεται με βάση το ΔΜΣ σας (δείκτης μάζας σώματος), καθώς και τον ύπνο σας και τα βήματα δραστηριότητας. Όσο πιο κοντά βρίσκεστε στους στόχους σας, τόσο υψηλότερος είναι ο βαθμός υγείας.</string>
+    <string name="health_uninstall_dialog_content">"Xiaomi Health is a system app. You can use this app to count steps, track sleep, periods, and weight, as well as sync your stats to the cloud. You won't be able to use this app after you uninstall it."</string>
+    <string name="health_uninstall_dialog_title">Uninstall Xiaomi Health?</string>
     <string name="height">Hight</string>
     <string name="high">Υψηλό</string>
     <string name="high2">Υψηλή</string>
@@ -384,6 +406,7 @@ If it's still difficult for you to fall asleep after 30 minutes in bed, reduce t
     <string name="hour">H</string>
     <string name="hour_in_day_format">%1$d</string>
     <string name="hour_in_day_format_short">%1$d</string>
+    <string name="immediately_experience">Ενημέρωση</string>
     <string name="improve_step_target">Επιτυγχάνετε το στόχο σας πολύ συχνά. Προσπαθήστε να ορίσετε άλλο στόχο.</string>
     <string name="improve_your_health_default_tips">Εξασκηθείτε και κοιμηθείτε αρκετά για να παραμείνετε υγιή.</string>
     <string name="inactivated">Not activated</string>
@@ -432,6 +455,7 @@ If it's still difficult for you to fall asleep after 30 minutes in bed, reduce t
     <string name="low">Χαμηλό</string>
     <string name="low_intensity">Low</string>
     <string name="low_intensity_description">Κανονικός αναπνευστικός ρυθμός που σας επιτρέπει να διατηρήσετε τη συζήτηση</string>
+    <string name="lowest_freq">Χαμηλότερη συχνότητα</string>
     <string name="lowest_jump">Lowest jump</string>
     <string name="manage_home">Manage start page</string>
     <string name="manual_add">Add manually</string>
@@ -441,6 +465,26 @@ If it's still difficult for you to fall asleep after 30 minutes in bed, reduce t
     <string name="max_altitude">Highest altitude</string>
     <string name="max_heart_rate">Highest heart rate</string>
     <string name="maximum_pace">Highest pace</string>
+    <string name="mcv2_back_button_desc">Πίσω</string>
+    <string name="mcv2_cc_is_off">Ο υπότιτλος είναι ανενεργός. Κάντε κλικ για να τον εμφανίσετε.</string>
+    <string name="mcv2_cc_is_on">Ο υπότιτλος είναι ενεργός. Κάντε κλικ για να τον αποκρύψετε.</string>
+    <string name="mcv2_error_dialog_button">OK</string>
+    <string name="mcv2_ffwd_button_desc">Μετάβαση προς τα εμπρός κατά 30 δευτερόλεπτα</string>
+    <string name="mcv2_full_screen_button_desc">Πλήρης οθόνη</string>
+    <string name="mcv2_music_artist_unknown_text">Άγνωστος καλλιτέχνης</string>
+    <string name="mcv2_music_title_unknown_text">Άγνωστος τίτλος τραγουδιού</string>
+    <string name="mcv2_next_button_desc">Επόμενο μέσο</string>
+    <string name="mcv2_non_music_title_unknown_text">Άγνωστος τίτλος βίντεο</string>
+    <string name="mcv2_overflow_left_button_desc">Επιστροφή στην προηγούμενη λίστα κουμπιών</string>
+    <string name="mcv2_overflow_right_button_desc">Εμφάνιση περισσότερων κουμπιών</string>
+    <string name="mcv2_pause_button_desc">Παύση</string>
+    <string name="mcv2_play_button_desc">Αναπαραγωγή</string>
+    <string name="mcv2_playback_error_text">Δεν ήταν δυνατή η αναπαραγωγή του στοιχείου που ζητήσατε</string>
+    <string name="mcv2_previous_button_desc">Προηγούμενο μέσο</string>
+    <string name="mcv2_replay_button_desc">Επανάληψη</string>
+    <string name="mcv2_rewind_button_desc">Μετάβαση προς τα πίσω κατά 10 δευτερόλεπτα</string>
+    <string name="mcv2_seek_bar_desc">Πρόοδος αναπαραγωγής</string>
+    <string name="mcv2_settings_button_desc">Ρυθμίσεις</string>
     <string name="medium_intensity">Moderate</string>
     <string name="medley">Mixed</string>
     <string name="meet_days">Reached goal</string>
@@ -513,6 +557,11 @@ If it's still difficult for you to fall asleep after 30 minutes in bed, reduce t
     <string name="miuix_sbl_tracking_progress_labe_up_none">Αυτά προς το παρόν</string>
     <string name="miuix_sbl_tracking_progress_labe_up_refresh">Μια στιγμή…</string>
     <string name="miuix_sbl_tracking_progress_labe_up_refresh_fail">Αδυναμία λήψης αντικειμένων</string>
+    <string name="miuix_search_action_mode_cancel">Ακύρωση</string>
+    <string name="miuix_search_history_clear">Εκκαθάριση ιστορικού αναζήτησης</string>
+    <string name="miuix_search_history_default_title">Ιστορικό αναζήτησης</string>
+    <string name="miuix_search_recommendation_default_title">Μπορεί να σας ενδιαφέρουν</string>
+    <string name="miuix_search_recommendation_item_del_des">Διαγραφή</string>
     <string name="model_card_setting">Card settings</string>
     <string name="modify">Edit</string>
     <string name="modify_end_date">Αλλάξτε την ημερομηνία τέλους</string>
@@ -562,6 +611,7 @@ If it's still difficult for you to fall asleep after 30 minutes in bed, reduce t
     <string name="name_title_menstruation_today_end">Η εμμηνόρροια αναμένεται να τελειώσει σήμερα</string>
     <string name="need_auto_start_permission">Για να λαμβάνετε πιο ακριβή στατιστικά στοιχεία, επιτρέψτε η Xiaomi Health να εκκινείται αυτόματα.</string>
     <string name="need_unrestricted_permission">Για να λαμβάνετε πιο ακριβή στατιστικά στοιχεία, επιτρέψτε η Xiaomi Health να εκτελείται συνέχεια στο παρασκήνιο.</string>
+    <string name="network_name_china">WLAN</string>
     <string name="network_not_available">"Couldn't connect to the network. Check your network settings and try again."</string>
     <string name="network_not_available2">Αδυναμία σύνδεσης στο δίκτυο</string>
     <string name="next_step">Επόμενο</string>
@@ -590,6 +640,7 @@ If it's still difficult for you to fall asleep after 30 minutes in bed, reduce t
     <string name="passable">OK</string>
     <string name="passport_oauth_actionbar_title">Mi Λογαριασμός</string>
     <string name="passport_oauth_sucess_tip">Authorized success</string>
+    <string name="pause_button_content_description">Παύση</string>
     <string name="per_count_minutes1">%d SPM</string>
     <string name="per_time_minutes">%d per minute</string>
     <string name="per_time_minutes1">" per minute"</string>
@@ -607,6 +658,7 @@ If it's still difficult for you to fall asleep after 30 minutes in bed, reduce t
     <string name="placement_tips_title">Πού πρέπει να βάλετε το τηλέφωνό σας;</string>
     <string name="placement_tips_warn">Δεν προτείνεται</string>
     <string name="placement_tips_warn_1">Διάδρομος</string>
+    <string name="play_button_content_description">Αναπαραγωγή</string>
     <string name="pm">ΜΜ</string>
     <string name="pool_swimming">Pool swim</string>
     <string name="predict_menstruation">Αναμενόμενη εμμηνόρροια</string>
@@ -684,6 +736,26 @@ If it's still difficult for you to fall asleep after 30 minutes in bed, reduce t
     <string name="setting_sedentary_title">Υπενθύμιση για κίνηση</string>
     <string name="share">Share</string>
     <string name="skip">Παράλειψη</string>
+    <string name="skip_to_next_item_button_content_description">Μετάβαση στο επόμενο στοιχείο</string>
+    <string name="skip_to_previous_item_button_content_description">Μετάβαση στο προηγούμενο στοιχείο</string>
+    <string name="skipping_count">Πηδήματα</string>
+    <string name="skipping_detection_no">Δεν ήταν δυνατή η ανίχνευση της προπόνησής σας.</string>
+    <string name="skipping_detection_no_hint">Αποφύγετε θορυβώδη μέρη και κρατήστε αυτήν τη συσκευή κοντά.</string>
+    <string name="skipping_kcal">Θερμίδες</string>
+    <string name="skipping_pause">Παύση προπόνησης</string>
+    <string name="skipping_pause_tips">Σε παύση | Συνεχίστε την προπόνησή σας για συνέχεια της αυτόματης ανίχνευσης</string>
+    <string name="skipping_ready">Μπορείτε να ξεκινήσετε την προπόνησή σας τώρα</string>
+    <string name="skipping_ready_hint_one">Κρατήστε αυτήν τη συσκευή όχι περισσότερο από 1 μέτρο μακριά σας.</string>
+    <string name="skipping_ready_hint_two">Η προπόνησή σας θα σταματήσει και θα συνεχιστεί αυτόματα με βάση τους ήχους που παράγετε.</string>
+    <string name="skipping_ready_toast">Αυξήσαμε την ένταση, ώστε να ακούτε καλύτερα τις οδηγίες.</string>
+    <string name="skipping_reset_time">Ξεκούραση</string>
+    <string name="skipping_start_counting">Έναρξη</string>
+    <string name="skipping_time">Διάρκεια</string>
+    <string name="skipping_upload_dialog_agree_and_upload">Μεταφόρτωση</string>
+    <string name="skipping_upload_dialog_msg">Όταν η συσκευή σας είναι συνδεδεμένη στο %s, μπορείτε να επιλέξετε να ανεβάσετε τον ήχο που εγγράφηκε κατά τη διάρκεια των προπονήσεων, προκειμένου να βελτιωθεί η ακρίβεια των στατιστικών προπόνησης. Για την προστασία του απορρήτου σας, τα αρχεία ήχου θα κρυπτογραφούνται.</string>
+    <string name="skipping_upload_dialog_reject_not_remind">Όχι ευχαριστώ</string>
+    <string name="skipping_upload_dialog_title">Μεταφόρτωση ήχου</string>
+    <string name="skipping_upload_tips">Ανεβάστε ήχο για να κάνετε τα στατιστικά πιο ακριβή</string>
     <string name="sleep">Ύπνος</string>
     <string name="sleep_and_get_up_time">Bedtime schedule</string>
     <string name="sleep_auto_start_perm_grant">Χορηγήθηκαν άδειες</string>
@@ -696,7 +768,7 @@ If it's still difficult for you to fall asleep after 30 minutes in bed, reduce t
     <string name="sleep_deep">Deep sleep</string>
     <string name="sleep_deep_light_analysis">Light sleep and deep sleep</string>
     <string name="sleep_deep_light_close_tip">Deep sleep analysis is off</string>
-    <string name="sleep_deep_light_no_data">Η τοποθέτηση της κινητής σας συσκευής δίπλα στο μαξιλάρι θα κάνει τα δεδομένα ύπνου πιο ακριβή</string>
+    <string name="sleep_deep_light_no_data">Δεν ήταν δυνατή η παρακολούθηση του ύπνου. Η τοποθέτηση της κινητής σας συσκευής δίπλα στο μαξιλάρι θα κάνει τα δεδομένα ύπνου πιο ακριβή.</string>
     <string name="sleep_detection_enable">Analyze sleep cycle</string>
     <string name="sleep_detection_feedback">Feedback</string>
     <string name="sleep_detection_guide_four_description">Sleep tracking consumes only about 1% of your battery per night</string>
@@ -861,6 +933,8 @@ If this problem occurs frequently, check your device for scheduled shutdown task
     <string name="sustain_title">"Δεν έχετε κινηθεί "</string>
     <string name="swim">Swimming</string>
     <string name="swim_type">Style</string>
+    <string name="swipe_right_to_end">Σύρετε δεξιά για τερματισμό</string>
+    <string name="swipe_up_to_end">Σύρετε προς τα επάνω για τερματισμό</string>
     <string name="tb_mens_mark_success">Marked successfully</string>
     <string name="tb_mens_select_column">Cycle starts on%1$s.%2$s.%3$s.</string>
     <string name="tb_mens_unmark_success">Canceled successfully</string>
@@ -945,7 +1019,8 @@ If this problem occurs frequently, check your device for scheduled shutdown task
     <string name="total_distance_label">Συνολική απόσταση</string>
     <string name="total_slip">Number of strokes</string>
     <string name="total_time_label">Συνολικός χρόνος</string>
-    <string name="treadmill">跑步机</string>
+    <string name="treadmill">Treadmill</string>
+    <string name="try_again">Προσπαθήστε ξανά</string>
     <string name="tuesday">Τρίτη</string>
     <string name="tuesday_short">Τρι</string>
     <string name="tuesday_shortest">Τρι</string>
@@ -979,6 +1054,7 @@ If this problem occurs frequently, check your device for scheduled shutdown task
     <string name="v7_preference_off">ΑΝΕΝΕΡΓΗ</string>
     <string name="v7_preference_on">ΕΝΕΡΓΗ</string>
     <string name="value_error_correct">Επεξεργασία εγγραφής</string>
+    <string name="voice_remind">Αυξήσαμε την ένταση, ώστε να ακούτε καλύτερα τις οδηγίες.</string>
     <string name="walk">Walking</string>
     <string name="wednesday">Τετάρτη</string>
     <string name="wednesday_short">Τετ</string>

@@ -91,6 +91,8 @@
     <string name="HIPS_Perm_process_outgoing_calls_Desc">παρακολούθηση εισερχόμενων κλήσεων</string>
     <string name="HIPS_Perm_read_notification_sms">Υπηρεσία SMS</string>
     <string name="HIPS_Perm_read_notification_sms_Desc">ανάγνωση υπηρεσιών SMS</string>
+    <string name="HIPS_Perm_recognition">Πρόσβαση στις πληροφορίες δραστηριότητας</string>
+    <string name="HIPS_Perm_recognition_Desc">Να επιτρέπεται η εφαρμογή να έχει πρόσβαση στις πληροφορίες της δραστηριότητάς σας</string>
     <string name="HIPS_Perm_service_foreground">Υπηρεσίες προσκηνίου</string>
     <string name="HIPS_Perm_service_foreground_Desc">υπηρεσίες προσκηνίου</string>
     <string name="HIPS_Perm_show_when_locked">Εμφάνιση στην Οθόνη κλειδώματος</string>

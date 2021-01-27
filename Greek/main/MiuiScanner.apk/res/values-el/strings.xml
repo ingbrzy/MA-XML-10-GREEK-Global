@@ -27,6 +27,7 @@
     <string name="abc_shareactionprovider_share_with">Κοινοποίηση σε</string>
     <string name="abc_shareactionprovider_share_with_application">Κοινοποίηση στην εφαρμογή %s</string>
     <string name="abc_toolbar_collapse_description">Σύμπτυξη</string>
+    <string name="clearable_edittext_clear_description">Εκκαθάριση</string>
     <string name="copy">Αντιγραφή</string>
     <string name="expand_button_title">Σύνθετες</string>
     <string name="miuix_sbl_tracking_progress_labe_pull_to_refresh">Τραβήξτε προς τα κάτω για ανανέωση</string>

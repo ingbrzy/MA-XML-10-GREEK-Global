@@ -88,6 +88,14 @@
         <item quantity="other">%d λεπτά πριν</item>
         <item quantity="one">1 λεπτό πριν</item>
     </plurals>
+    <plurals name="pc_notes_search_result">
+        <item quantity="other">Βρέθηκαν %1$s σημειώσεις</item>
+        <item quantity="one">Βρέθηκε %1$s σημείωση</item>
+    </plurals>
+    <plurals name="pc_todo_search_result">
+        <item quantity="other">Βρέθηκαν %1$s εργασίες</item>
+        <item quantity="one">Βρέθηκε %1$s εργασία</item>
+    </plurals>
     <plurals name="record_last_ten_seconds_reminder">
         <item quantity="other">Απομένουν %d δευτερόλεπτα</item>
         <item quantity="one">Απομένει %d δευτερόλεπτο</item>

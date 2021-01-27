@@ -16,6 +16,10 @@
         <item quantity="other">Επιλέχθηκαν %1$d αντικείμενα</item>
         <item quantity="one">Επιλέχθηκε %1$d αντικείμενο</item>
     </plurals>
+    <plurals name="remove_dialog_title_multi_format">
+        <item quantity="other">Αφαίρεση %1$d εφαρμογών από την Αρχική οθόνη;</item>
+        <item quantity="one">Αφαίρεση %1$d εφαρμογής από την Αρχική οθόνη;</item>
+    </plurals>
     <plurals name="scroll_tip_format_when_announce_accessibility">
         <item quantity="other">Σελίδα %1$d, %2$d εφαρμογές.</item>
         <item quantity="one">Σελίδα %1$d, %2$d εφαρμογή.</item>

@@ -43,6 +43,8 @@
     <string name="call_record_list_group_connected">Σε σύνδεση</string>
     <string name="call_record_list_group_unconnected">Δεν έγινε σύνδεση</string>
     <string name="cancel_rename">Ακύρωση</string>
+    <string name="clear_data_dialog_content">Τα στοιχεία προσωρινής μνήμης, τα δεδομένα εφαρμογών και οι προσαρμοσμένες ρυθμίσεις θα διαγραφούν, αλλά οι εγγραφές σας θα παραμείνουν στη θέση τους.</string>
+    <string name="clear_data_dialog_title">Εκκαθάριση δεδομένων τώρα;</string>
     <string name="clear_records">Διαγραφή συγχρονισμένων ηχογραφήσεων</string>
     <string name="cloud_record_open">Συγχρονισμός ηχογραφήσεων</string>
     <string name="cloud_record_tip">Συγχρονισμός ηχογραφήσεων με το Xiaomi Cloud.</string>
@@ -127,7 +129,7 @@
     <string name="network_unavailable_tip">Συνδεθείτε στο δίκτυο και προσπαθήστε ξανά.</string>
     <string name="new_record_name">Νέα ηχογράφηση</string>
     <string name="no_file">Κενό</string>
-    <string name="no_network">"Couldn't connect to the network"</string>
+    <string name="no_network">Αδυναμία σύνδεσης στο δίκτυο</string>
     <string name="not_set">Δεν έχει οριστεί</string>
     <string name="notification_message_all_paused">Αναμονή για Wi-Fi σύνδεση.</string>
     <string name="notification_playback">Γίνεται αναπαραγωγή…</string>
@@ -171,6 +173,7 @@
     <string name="pay_error_unknown">Άγνωστο σφάλμα</string>
     <string name="playback_delete_records">Διαγραφή ηχογράφησης</string>
     <string name="playback_share_records">Κοινοποίηση ηχογράφησης</string>
+    <string name="preference_clear_data">Εκκαθάριση δεδομένων</string>
     <string name="preference_copied">Το \"%1$s\" αντιγράφηκε στο πρόχειρο.</string>
     <string name="preference_enable_earpiece_summary">Χρήση δέκτη ηχείου για εξωτερική αναπαραγωγή</string>
     <string name="preference_enable_earpiece_title">Χρήση δέκτη για αναπαραγωγή ήχου</string>
@@ -329,6 +332,8 @@
     <string name="trash_box">Πρόσφατα στοιχεία που διαγράφηκαν</string>
     <string name="trash_box_close_tip">Κλείσιμο γρήγορα</string>
     <string name="trash_box_delete_all">Μόνιμα διαγραφή όλων των στοιχείων από τον κάδο απορριμμάτων;</string>
+    <string name="uninstall_warning_content">Η Ηχογράφηση είναι μια εφαρμογή συστήματος. Δεν θα μπορείτε να κάνετε εγγραφή και μεταγραφή κλήσεων ήχου και φωνής μετά την απεγκατάσταση.</string>
+    <string name="uninstall_warning_title">Απεγκατάσταση Ηχογράφησης;</string>
     <string name="usage_description">Γίνεται μεταγραφή ήχου και συγχρονισμός αντικειμένων με το cloud</string>
     <string name="user_feedback">Ανατροφοδότηση</string>
     <string name="v7_preference_off">ΑΝΕΝΕΡΓΗ</string>

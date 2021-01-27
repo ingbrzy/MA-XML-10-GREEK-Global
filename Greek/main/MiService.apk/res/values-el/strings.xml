@@ -153,7 +153,7 @@
     <string name="miui_feedback_edit_submit_directly">Υποβολή</string>
     <string name="miui_feedback_edit_title_occurrence_time">Επιλογή ώρας</string>
     <string name="miui_feedback_edit_title_reproductivity">Επιλογή αναπαραγωγικότητας</string>
-    <string name="miui_feedback_edit_toast_description_required">Πρέπει να γράψετε μια περιγραφή</string>
+    <string name="miui_feedback_edit_toast_description_required">Πρώτα περιγραφή του ζητήματος</string>
     <string name="miui_feedback_edit_toast_module_required">Επιλογή αντικειμένου</string>
     <string name="miui_feedback_edit_toast_more_desc_required">Η περιγραφή σας πρέπει να είναι μεγαλύτερη</string>
     <string name="miui_feedback_edit_toast_problem_class_required">Επιλογή κατηγορίας</string>
@@ -186,6 +186,7 @@
     <string name="miui_main_next_page">Επόμενο</string>
     <string name="miui_main_pre_page">Πίσω</string>
     <string name="miui_main_shortcut_label_submit_feedback">Υποβολή σχολίων</string>
+    <string name="miui_main_update_back_to_home">Γίνεται προετοιμασία Αρχικής οθόνης…</string>
     <string name="miui_main_update_continue">Επόμενο</string>
     <string name="miui_main_update_learn_more">Μάθετε περισσότερα</string>
     <string name="miui_main_update_start">Ενημέρωση τώρα</string>

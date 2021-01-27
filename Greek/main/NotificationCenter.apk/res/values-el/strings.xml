@@ -31,6 +31,9 @@
     <string name="back">Πίσω</string>
     <string name="cancel">Ακύρωση</string>
     <string name="category_other">Άλλες</string>
+    <string name="channel_name_aggregation">Ομαδοποιημένες ειδοποιήσεις</string>
+    <string name="channel_name_notification">Ειδοποιήσεις εφαρμογής</string>
+    <string name="channel_name_recovered">Ανακτημένες ειδοποιήσεις</string>
     <string name="confirm">ΟΚ</string>
     <string name="copy">Αντιγραφή</string>
     <string name="default_list_type">Ταξινόμηση ανά ώρα λήψης</string>
@@ -59,10 +62,14 @@
     <string name="lock_screen_tip_toast">Να επιτρέπονται ειδοποιήσεις Οθόνης κλειδώματος στο \"Format\"</string>
     <string name="lockscreen_notifications">Ειδοποιήσεις Οθόνης κλειδώματος</string>
     <string name="lockscreen_notifications_short">Οθόνη κλειδώματος</string>
+    <string name="menu_setting_aggregatation_feedback">Επιλογές ομαδοποίησης</string>
+    <string name="menu_setting_feedback_donot_classify">Να μην ομαδοποιούνται</string>
+    <string name="menu_setting_more_settings">Περισσότερες ρυθμίσεις</string>
     <string name="menu_setting_show_in_home">Να μην ομαδοποιούνται</string>
     <string name="menu_setting_tip_show_in_home">Οι ειδοποιήσεις από %s δεν θα ομαδοποιούνται</string>
     <string name="menu_setting_tip_unfold">Όλες οι ειδοποιήσεις αυτής της εφαρμογής θα θεωρούνται σημαντικές</string>
     <string name="menu_setting_unfold">Σημαντικές</string>
+    <string name="mune_setting_prefix_category">"Ομαδοποίηση με "</string>
     <string name="not_sent_recently">Όχι πρόσφατα</string>
     <string name="not_set">Δεν έχει οριστεί</string>
     <string name="notch_and_status_bar_setting">Κέντρο ελέγχου και γραμμή κατάστασης</string>
@@ -82,9 +89,11 @@
     <string name="on">Ενεργοποίηση</string>
     <string name="preference_copied">Το \"%1$s\" αντιγράφηκε στο πρόχειρο.</string>
     <string name="search_menu_title">Αναζήτηση</string>
+    <string name="setting_menu_success">Ορίστηκε επιτυχώς</string>
     <string name="settings_guide_title">Χρειάζεστε άλλες ρυθμίσεις;</string>
     <string name="show_badge_notifications">Σημάνσεις ειδοποιήσεων</string>
     <string name="show_badge_notifications_short">Σήματα</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
     <string name="status_bar_setting">Γραμμή κατάστασης</string>
     <string name="summary_collapsed_preference_list">%1$s, %2$s</string>
     <string name="summary_disable_float_notification">Οι κυμαινόμενες ειδοποιήσεις είναι περιορισμένες</string>
@@ -97,6 +106,7 @@
     <string name="summary_lock_screen_enable_notification_first">Επιτρέψτε στις ειδοποιήσεις να μπορούν να ενεργοποιούν τις ειδοποιήσεις Οθόνης Κλειδώματος</string>
     <string name="summary_show_badge_enable_notification_first">Επιτρέψτε στις ειδοποιήσεις να μπορούν να ενεργοποιούν τις σημάνσεις ειδοποιήσεων</string>
     <string name="swipe_to_delete">Σύρετε αριστερά ή δεξιά για διαγραφή</string>
+    <string name="tip_feedback_thanks">Ευχαριστούμε για τα σχόλιά σας!</string>
     <string name="v7_preference_off">ΑΝΕΝΕΡΓΗ</string>
     <string name="v7_preference_on">ΕΝΕΡΓΗ</string>
 </resources>

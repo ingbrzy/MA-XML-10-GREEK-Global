@@ -68,6 +68,14 @@
         <item quantity="other">%1$d επαφές</item>
         <item quantity="one">%1$d επαφή</item>
     </plurals>
+    <plurals name="contacts_trash_delete_dialog_respond">
+        <item quantity="other">%d επαφές διαγράφηκαν οριστικά</item>
+        <item quantity="one">%d επαφή διαγράφηκε οριστικά</item>
+    </plurals>
+    <plurals name="contacts_trash_restore_respond">
+        <item quantity="other">Επιτυχής επαναφορά %d επαφών</item>
+        <item quantity="one">Επιτυχής επαναφορά %d επαφής</item>
+    </plurals>
     <plurals name="device_import_done_toast">
         <item quantity="other">Έγινε εισαγωγή %1$d επαφών</item>
         <item quantity="one">Έγινε εισαγωγή %1$d επαφής</item>
@@ -107,6 +115,10 @@
     <plurals name="half_hour_ago">
         <item quantity="other">Μισή ώρα πριν</item>
         <item quantity="one">Μισή ώρα πριν</item>
+    </plurals>
+    <plurals name="hint_account_contacts">
+        <item quantity="other">%1$d αντικείμενα</item>
+        <item quantity="one">%1$d αντικείμενο</item>
     </plurals>
     <plurals name="hint_search_contacts">
         <item quantity="other">%1$d επαφές</item>

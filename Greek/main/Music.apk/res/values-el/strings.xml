@@ -65,6 +65,7 @@
     <string name="ad_setting">Πρόσθετες ρυθμίσεις</string>
     <string name="add_music">Προσθήκη τραγουδιών</string>
     <string name="add_to_last_of_playlist">Προσθήκη στο τέλος της λίστας αναπαραγωγής</string>
+    <string name="add_to_playlist">Προσθήκη στην ουρά</string>
     <string name="add_to_playlist_successful">Επιτυχής προσθήκη</string>
     <string name="added_next_play">Προστέθηκε για επόμενη αναπαραγωγή</string>
     <string name="agreement_desc">Συμφωνία Χρήστη (υποχρεωτικό)</string>
@@ -123,6 +124,7 @@
     <string name="back">Πίσω</string>
     <string name="back_confirm">Αγγίξτε ξανά για να μετακινήστε την εφαρμογή στο παρασκήνιο</string>
     <string name="bluetooth_device">Bluetooth συσκευή ήχου</string>
+    <string name="btn_text_edit">Επεξεργασία</string>
     <string name="buffering">Φόρτωση…</string>
     <string name="button_cancel_download">Ακύρωση</string>
     <string name="button_download_now">Λήψη τώρα</string>
@@ -208,6 +210,7 @@
     <string name="dialog_insufficient_space_on_cache">Αδυναμία ολοκλήρωσης λήψης, ανεπαρκής αποθηκευτικός χώρος στην εσωτερική μνήμη.</string>
     <string name="dialog_insufficient_space_on_external">Αδυναμία ολοκλήρωσης λήψης. Δεν υπάρχει αρκετός χώρος στην κάρτα SD.</string>
     <string name="dialog_media_not_found">Αδυναμία λήψης. Η κάρτα SD δεν είναι διαθέσιμη.</string>
+    <string name="dialog_message_unfollow">Άρση ακολούθησης;</string>
     <string name="dialog_my_playlist_online_changed_merge">Διατήρηση</string>
     <string name="dialog_my_playlist_online_changed_message">Φαίνεται ότι αυτή η λίστα αναπαραγωγής άλλαξε. Μπορείτε να την αντικαταστήσετε με τη νέα έκδοση ή να διατηρήσετε την παλαιά.</string>
     <string name="dialog_my_playlist_online_changed_replace">Αντικατάσταση</string>
@@ -235,6 +238,7 @@
     <string name="dialog_song_view_type_artist">Ανά καλλιτέχνη</string>
     <string name="dialog_song_view_type_folder">Ανά φάκελο</string>
     <string name="dialog_song_view_type_song">Ανά τραγούδι</string>
+    <string name="dialog_subtitle_make_playlist_public">Οι δημόσιες λίστες αναπαραγωγής είναι διαθέσιμες σε άλλα άτομα. Οι ιδιωτικές λίστες αναπαραγωγής είναι ορατές μόνο σε εσάς σε όλες τις συγχρονισμένες συσκευές.</string>
     <string name="dialog_title_clearlist_tracks">Αφαίρεση από την ουρά</string>
     <string name="dialog_title_delete_tracks">Διαγραφή</string>
     <string name="dialog_title_name_playlist">Όνομα λίστας αναπαραγωγής</string>
@@ -280,7 +284,9 @@
     <string name="download_method">Λήψη</string>
     <string name="download_no_application_title">Αδυναμία ανοίγματος αρχείου</string>
     <string name="download_paused_in_power_save_mode">Παύση λήψεων όταν η Εξοικονόμηση μπαταρίας είναι ενεργή</string>
+    <string name="download_percent">%d%%</string>
     <string name="download_processing">Γίνεται λήψη…</string>
+    <string name="download_progress">%d%%</string>
     <string name="download_quality">Ποιότητα λήψης</string>
     <string name="download_quality_summary">Πρόσθετες ρυθμίσεις για τραγούδια που κατεβάζετε</string>
     <string name="download_queued">Σε ουρά</string>
@@ -368,7 +374,9 @@
     <string name="exo_media_action_repeat_all_description">Επανάληψη όλων</string>
     <string name="exo_media_action_repeat_off_description">Καμία επανάληψη</string>
     <string name="exo_media_action_repeat_one_description">Επανάληψη ενός κομματιού</string>
+    <string name="exo_track_bitrate">%1$.2f Mbps</string>
     <string name="exo_track_mono">Μονοφωνικό</string>
+    <string name="exo_track_resolution">%1$d × %2$d</string>
     <string name="exo_track_role_alternate">Εναλλακτικό</string>
     <string name="exo_track_role_closed_captions">Υπότιτλοι</string>
     <string name="exo_track_role_commentary">Σχολιασμός</string>
@@ -390,11 +398,13 @@
     <string name="fail_to_play">Αδυναμία αναπαραγωγής τραγουδιού</string>
     <string name="failed_not_access_sd_card">Αποδοχή πρόσβασης στην κάρτα SD πρώτα</string>
     <string name="failed_obtain_permissions">Αδυναμία απόκτησης αδειών</string>
+    <string name="fans">Ακόλουθοι</string>
     <string name="fav_login_msg">Συνδεθείτε στο Mi Λογαριασμό σας για λήψη τραγουδιών</string>
     <string name="favorite_canceled">Removed from favourites</string>
     <string name="favorite_playlist">Favourites</string>
     <string name="favorite_singer">Αγαπημένοι καλλιτέχνες</string>
     <string name="favorite_succeed">Added to favourites</string>
+    <string name="favorite_to_playlist">Προσθήκη σε λίστα αναπαραγωγής</string>
     <string name="favorite_tracks">Αγαπημένα</string>
     <string name="favorites">Αγαπημένα</string>
     <string name="fcm_fallback_notification_channel_label">Διάφορα</string>
@@ -615,8 +625,10 @@
     <string name="no_album_info">Δεν υπάρχουν πληροφορίες άλμπουμ</string>
     <string name="no_artist_info">Δεν υπάρχουν πληροφορίες καλλιτέχνη</string>
     <string name="no_downloads">Δεν υπάρχουν λήψεις</string>
+    <string name="no_fans_empty_title">Δεν έχετε ακόμη ακόλουθους</string>
     <string name="no_favorites_songs">Κενό</string>
     <string name="no_file_picker_find">Η Διαχείριση Αρχείων δεν έχει εγκατασταθεί.</string>
+    <string name="no_follow_empty_title">Δεν ακολουθείτε κανέναν ακόμη</string>
     <string name="no_local_songs">Κενό</string>
     <string name="no_local_songs_selected">Αδυναμία αποστολής τραγουδιών που δεν έχετε κατεβάσει</string>
     <string name="no_local_source_find">Αδυναμία εύρεσης τραγουδιού</string>
@@ -740,6 +752,7 @@
     <string name="privacy_authorize_revoking">Γίνεται ανάκληση εξουσιοδότησης…</string>
     <string name="privacy_desc">Πολιτική Απορρήτου (υποχρεωτικό)</string>
     <string name="privacy_policy">Πολιτική Απορρήτου</string>
+    <string name="privacy_policy_url">http://www.miui.com/res/doc/privacy.html?lang=el_GR</string>
     <string name="privacy_request_desc">"&lt;Data>Η Mi Μουσική πρέπει να συλλέξει απαραίτητα προσωπικά δεδομένα για να σας παρέχει υπηρεσίες online streaming. Μπορείτε να μάθετε πως διαχειριζόμαστε τα δεδομένα που συλλέγουμε στην &lt;a href=\"%1$s\">Πολιτική Απορρήτου&lt;/a>. Μπορείτε να ανακαλέσετε τη συναίνεσή σας στην Πολιτική Απορρήτου του Mi Μουσική στις Ρυθμίσεις οποιαδήποτε στιγμή. 
 Διαβάστε και συμφωνήστε με το &lt;a href=\"%2$s\">Συμφωνητικό Χρήστη&lt;/a> και την &lt;a href=\"%1$s\">Πολιτική Απορρήτου&lt;/a> πριν χρησιμοποιήσετε το Mi Μουσική.
 Εάν δεν συμφωνήσετε με τις πιο πάνω υπηρεσίες, δεν θα μπορείτε να χρησιμοποιείτε ορισμένες λειτουργίες αυτής της εφαρμογής. Ωστόσο, οι βασικές της λειτουργίες θα εξακολουθήσουν να είναι διαθέσιμες.&lt;/Data>"</string>
@@ -848,6 +861,7 @@
     <string name="share_end_note">Από Mi Μουσική</string>
     <string name="share_failed">Αδυναμία κοινοποίησης</string>
     <string name="share_image_error">Αδυναμία κοινοποίησης εικόνας λόγω σφάλματος λήψης</string>
+    <string name="share_song">Κοινοποίηση</string>
     <string name="share_text_list">"Λίστα αναπαραγωγής από Mi Μουσική: "</string>
     <string name="share_text_song">"Τραγούδι από Mi Μουσική: "</string>
     <string name="show_float_first_hint">Ελαχιστοποίηση του προγράμματος αναπαραγωγής</string>
@@ -885,6 +899,7 @@
     <string name="start_to_download">Γίνεται λήψη…</string>
     <string name="start_to_play">Αναπαραγωγή</string>
     <string name="start_update">Γίνεται εγκατάσταση νέας έκδοσης…</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
     <string name="storage_cloned_app">Χώρος αποθήκευσης για διπλότυπες εφαρμογές</string>
     <string name="storage_internal">Εσωτερικός χώρος αποθήκευσης</string>
     <string name="storage_sd_card">Κάρτα SD</string>
@@ -933,11 +948,14 @@
     <string name="title_online_recommend">Προτεινόμενες λίστες αναπαραγωγής</string>
     <string name="title_search_history">Αναζήτηση ιστορικού</string>
     <string name="title_search_hot">Δημοφιλή</string>
+    <string name="toast_cant_collect_mine_playlist">Δεν είναι δυνατή η προσθήκη των δικών σας λιστών αναπαραγωγής στα αγαπημένα</string>
     <string name="toast_cant_commit_without_title">Εισαγωγή τίτλου τραγουδιού</string>
     <string name="toast_download_error_by_count_limit">Έχετε χρησιμοποιήσει όλο τον αριθμό λήψεων για αυτό το μήνα.</string>
     <string name="toast_download_error_by_not_login">Σύνδεση στο Mi Λογαριασμό και προσπαθήστε ξανά.</string>
     <string name="toast_download_error_by_vip_required">Για την λήψη του τραγουδιού, αποκτήστε το Premium Πακέτο Τραγουδιών.</string>
     <string name="toast_download_in_process">Λήψη σε εξέλιξη</string>
+    <string name="toast_favorite_has_been_added">Επιτυχής προσθήκη στη λίστα αναπαραγωγής</string>
+    <string name="toast_follow_success">Επιτυχής ακολούθηση</string>
     <string name="toast_is_pro">Είστε ήδη μέλος PRO.</string>
     <string name="toast_my_playlist_illegal_name">Ο τίτλος αυτής της λίστας αναπαραγωγής δεν είναι έγκυρος. Μετονομάστε τη λίστα αναπαραγωγής.</string>
     <string name="toast_my_playlist_set_to_private">Αυτή η λίστα αναπαραγωγής τώρα είναι ιδιωτική. Δεν μπορούν να τη δούνε άλλα άτομα.</string>
@@ -948,6 +966,9 @@
     <string name="toast_normal_songs_for_download">Η ποιότητα λήψης ορίστηκε σε Κανονική</string>
     <string name="toast_normal_songs_for_stream">Η ποιότητα αναπαραγωγής ορίστηκε σε Κανονική</string>
     <string name="toast_not_pro">Αυτή η δυνατότητα είναι διαθέσιμη μόνο στα μέλη PRO.</string>
+    <string name="toast_playlist_has_been_added">Επιτυχής προσθήκη στην ουρά</string>
+    <string name="toast_playlist_has_been_private">Αυτή η λίστα αναπαραγωγής είναι ιδιωτική</string>
+    <string name="toast_playlist_has_been_public">Αυτή η λίστα αναπαραγωγής είναι δημόσια</string>
     <string name="toast_playmode_loop_playback">Η τρέχουσα λίστα επαναλαμβάνεται</string>
     <string name="toast_playmode_shuffle_play">Αναπαραγωγή με τυχαία σειρά</string>
     <string name="toast_playmode_single_cycle">Το τρέχον τραγούδι επαναλαμβάνεται</string>
@@ -975,11 +996,16 @@
     <string name="upload_playlist_to_hungama_title">Συγχρονίστε διαδικτυακά τραγούδια στο Hungama για να έχετε πρόσβαση σε αυτά σε άλλες συσκευές όπου χρησιμοποιείτε τον λογαριασμό σας Mi.</string>
     <string name="upload_playlist_to_hungama_toast">Τα διαδικτυακά τραγούδια θα συγχρονιστούν με το Hungama</string>
     <string name="user_agreement">Όροι Χρήσης</string>
+    <string name="user_agreement_url">http://www.miui.com/res/doc/eula.html?lang=el_GR</string>
+    <string name="user_playlist_plaza">Λίστες αναπαραγωγής</string>
     <string name="user_privacy_dialog_negative_text">Ακύρωση</string>
     <string name="user_privacy_dialog_positive_count_down_text">Ανάκληση (%sδ)</string>
     <string name="user_privacy_dialog_positive_text">Ανάκληση</string>
     <string name="user_privacy_setting_group_title">Ανάκληση συγκατάθεσης</string>
     <string name="user_privacy_setting_title">Με εναλλαγή του διακόπτη σε ανενεργό, ανακαλείτε τη συγκατάθεσή σας στην Πολιτική Απορρήτου της Mi Μουσικής.</string>
+    <string name="user_profile_created_playlist_title">Προσαρμοσμένες λίστες αναπαραγωγής</string>
+    <string name="user_profile_fans_count">Ακόλουθοι: %s</string>
+    <string name="user_profile_follow_count">Ακολουθείτε: %s</string>
     <string name="v7_preference_off">ΑΝΕΝΕΡΓΗ</string>
     <string name="v7_preference_on">ΕΝΕΡΓΗ</string>
     <string name="version_info">Έκδοση</string>
