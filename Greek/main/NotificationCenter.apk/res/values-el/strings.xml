@@ -93,7 +93,6 @@
     <string name="settings_guide_title">Χρειάζεστε άλλες ρυθμίσεις;</string>
     <string name="show_badge_notifications">Σημάνσεις ειδοποιήσεων</string>
     <string name="show_badge_notifications_short">Σήματα</string>
-    <string name="status_bar_notification_info_overflow">999+</string>
     <string name="status_bar_setting">Γραμμή κατάστασης</string>
     <string name="summary_collapsed_preference_list">%1$s, %2$s</string>
     <string name="summary_disable_float_notification">Οι κυμαινόμενες ειδοποιήσεις είναι περιορισμένες</string>

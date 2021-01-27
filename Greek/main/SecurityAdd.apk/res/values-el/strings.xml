@@ -54,7 +54,6 @@
     <string name="dual_app_title">Διπλότυπες εφαρμογές</string>
     <string name="dual_app_words">Κάθε λογαριασμός αξίζει τη δική του εφαρμογή</string>
     <string name="early_morning">Πρωί</string>
-    <string name="empty">" "</string>
     <string name="eras_ad">μ.Χ.</string>
     <string name="eras_bc">π.Χ.</string>
     <string name="evening">Απόγευμα</string>
@@ -271,7 +270,6 @@
     <string name="saturday_shortest">Σαβ</string>
     <string name="search_menu_title">Αναζήτηση</string>
     <string name="share">Κοινοποίηση</string>
-    <string name="status_bar_notification_info_overflow">999+</string>
     <string name="sunday">Κυριακή</string>
     <string name="sunday_short">Κυρ</string>
     <string name="sunday_shortest">Κυρ</string>
