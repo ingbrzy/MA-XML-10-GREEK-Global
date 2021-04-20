@@ -26,6 +26,8 @@
         <item>Ψ</item>
         <item>Ω</item>
         <item>\#</item>
+        <item>.</item>
+        <item>.</item>
     </string-array>
     <string-array name="alphabet_table_with_starred">
         <item>!</item>
@@ -54,6 +56,8 @@
         <item>Ψ</item>
         <item>Ω</item>
         <item>\#</item>
+        <item>.</item>
+        <item>.</item>
     </string-array>
     <string-array name="aqi_detail_title">
         <item>Καλός</item>
@@ -62,22 +66,6 @@
         <item>Ανθυγιεινός</item>
         <item>Πολύ Ανθυγιεινός</item>
         <item>Υψηλού κινδύνου</item>
-    </string-array>
-    <string-array name="aqi_title">
-        <item>%1$s</item>
-        <item>%1$s</item>
-        <item>%1$s</item>
-        <item>%1$s</item>
-        <item>%1$s</item>
-        <item>%1$s</item>
-    </string-array>
-    <string-array name="aqi_title_append">
-        <item>%1$s</item>
-        <item>%1$s</item>
-        <item>%1$s</item>
-        <item>%1$s</item>
-        <item>%1$s</item>
-        <item>%1$s</item>
     </string-array>
     <string-array name="aqi_title_prefix">
         <item>ΔΠΑ %1$s</item>
@@ -173,21 +161,6 @@
         <item>ΝΔ</item>
         <item>Δ</item>
         <item>ΒΔ</item>
-    </string-array>
-    <string-array name="wind_power">
-        <item>0</item>
-        <item>1</item>
-        <item>2</item>
-        <item>3</item>
-        <item>4</item>
-        <item>5</item>
-        <item>6</item>
-        <item>7</item>
-        <item>8</item>
-        <item>9</item>
-        <item>10</item>
-        <item>11</item>
-        <item>12</item>
     </string-array>
     <string-array name="wind_unit_detail">
         <item>Κλίμακα μποφόρ</item>

@@ -26,6 +26,8 @@
         <item>Ψ</item>
         <item>Ω</item>
         <item>\#</item>
+        <item>.</item>
+        <item>.</item>
     </string-array>
     <string-array name="alphabet_table_with_starred">
         <item>!</item>
@@ -54,15 +56,12 @@
         <item>Ψ</item>
         <item>Ω</item>
         <item>\#</item>
+        <item>.</item>
+        <item>.</item>
     </string-array>
     <string-array name="attachment_chooser">
         <item>Κάμερα</item>
         <item>Συλλογή</item>
-    </string-array>
-    <string-array name="common_folder_operations">
-        <item>新建</item>
-        <item>重命名</item>
-        <item>删除</item>
     </string-array>
     <string-array name="contact_entries">
         <item>Όνομα</item>
@@ -108,8 +107,5 @@
     <string-array name="second_guide_contents_pad_or_inter">
         <item>Φωνητικές σημειώσεις</item>
         <item>Τώρα μπορείτε να δημιουργήσετε φωνητικές σημειώσεις. Απλώς πατήστε το εικονίδιο, καταγράψτε τη φωνή σας και αποθηκεύσετε το αρχείο ήχου μέσα στη σημείωση.</item>
-    </string-array>
-    <string-array name="system_folder_operations">
-        <item>新建</item>
     </string-array>
 </resources>

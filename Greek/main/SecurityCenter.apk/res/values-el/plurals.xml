@@ -1,5 +1,41 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <plurals name="a_hour_ago">
+        <item quantity="one">πριν από 1 ώρα</item>
+        <item quantity="other">πριν από 1 ώρα</item>
+    </plurals>
+    <plurals name="abbrev_a_hour_ago">
+        <item quantity="one">πριν από 1 ώρα</item>
+        <item quantity="other">πριν από 1 ώρα</item>
+    </plurals>
+    <plurals name="abbrev_half_hour_ago">
+        <item quantity="one">Μισή ώρα πριν</item>
+        <item quantity="other">Μισή ώρα πριν</item>
+    </plurals>
+    <plurals name="abbrev_in_a_hour">
+        <item quantity="one">Σε 1 ώρα</item>
+        <item quantity="other">Σε 1 ώρα</item>
+    </plurals>
+    <plurals name="abbrev_in_half_hour">
+        <item quantity="one">Σε μισή ώρα</item>
+        <item quantity="other">Σε μισή ώρα</item>
+    </plurals>
+    <plurals name="abbrev_in_less_than_one_minute">
+        <item quantity="one">Άμεσα</item>
+        <item quantity="other">Άμεσα</item>
+    </plurals>
+    <plurals name="abbrev_in_num_minutes">
+        <item quantity="other">σε %d λεπτά</item>
+        <item quantity="one">σε 1 λεπτό</item>
+    </plurals>
+    <plurals name="abbrev_less_than_one_minute_ago">
+        <item quantity="one">Μόλις τώρα</item>
+        <item quantity="other">Μόλις τώρα</item>
+    </plurals>
+    <plurals name="abbrev_num_minutes_ago">
+        <item quantity="other">%d λ πριν</item>
+        <item quantity="one">1 λεπτό πριν</item>
+    </plurals>
     <plurals name="add_game_notification_title">
         <item quantity="other">Προστέθηκαν %d παιχνίδια</item>
         <item quantity="one">Προστέθηκε %d παιχνίδι</item>
@@ -41,12 +77,12 @@
         <item quantity="one">Η εφαρμογή %2$d και η %1$1s πραγματοποιούν πρόσβαση στην τοποθεσία σας</item>
     </plurals>
     <plurals name="app_behavior_privacy_manager_off">
-        <item quantity="other">Δεν θα ειδοποιηθείτε για σχετικές ενέργειες που εκτέλεσαν οι εφαρμογές %1$d</item>
-        <item quantity="one">Δεν θα ειδοποιηθείτε για σχετικές ενέργειες που εκτέλεσε η εφαρμογή %1$d</item>
+        <item quantity="other">"Δεν θα ειδοποιηθείτε για σχετικές ενέργειες που εκτέλεσαν οι εφαρμογές %1$d"</item>
+        <item quantity="one">"Δεν θα ειδοποιηθείτε για σχετικές ενέργειες που εκτέλεσε η εφαρμογή %1$d"</item>
     </plurals>
     <plurals name="app_behavior_privacy_manager_on">
-        <item quantity="other">Θα ειδοποιηθείτε για σχετικές ενέργειες που εκτέλεσαν οι εφαρμογές %1$d</item>
-        <item quantity="one">Θα ειδοποιηθείτε για σχετικές ενέργειες που εκτέλεσε η εφαρμογή %1$d</item>
+        <item quantity="other">"Θα ειδοποιηθείτε για σχετικές ενέργειες που εκτέλεσαν οι εφαρμογές %1$d"</item>
+        <item quantity="one">"Θα ειδοποιηθείτε για σχετικές ενέργειες που εκτέλεσε η εφαρμογή %1$d"</item>
     </plurals>
     <plurals name="app_behavior_wakepath_multiple">
         <item quantity="other">%1$1s εκκίνησε %2$d εφαρμογές</item>
@@ -68,6 +104,14 @@
         <item quantity="other">%d φορές</item>
         <item quantity="one">%d φορά</item>
     </plurals>
+    <plurals name="app_manager_uninstall_notify_summary">
+        <item quantity="other">Απεγκατάσταση %d εφαρμογών</item>
+        <item quantity="one">Απεγκατάσταση %d εφαρμογής</item>
+    </plurals>
+    <plurals name="app_manager_updater_notify_title">
+        <item quantity="other">Υπάρχουν διαθέσιμες ενημερώσεις για %d εφαρμογές</item>
+        <item quantity="one">Υπάρχουν διαθέσιμες ενημερώσεις για %d εφαρμογή</item>
+    </plurals>
     <plurals name="app_usage_day">
         <item quantity="other">Σε χρήση %d ημέρες πριν</item>
         <item quantity="one">Σε χρήση %d ημέρα πριν</item>
@@ -80,21 +124,33 @@
         <item quantity="other">Σε χρήση %d έτη πριν</item>
         <item quantity="one">Σε χρήση %d έτος πριν</item>
     </plurals>
+    <plurals name="applock_app_suggest_lock">
+        <item quantity="other">Μπορείτε να χρησιμοποιήσετε το Κλείδωμα εφαρμογής με %1$s εφαρμογές</item>
+        <item quantity="one">Μπορείτε να χρησιμοποιήσετε το Κλείδωμα εφαρμογής με %1$s εφαρμογή</item>
+    </plurals>
     <plurals name="applock_guide_app_count_tips">
         <item quantity="other">Μπορείτε να προστατέψετε τουλάχιστον %s εφαρμογές</item>
         <item quantity="one">Μπορείτε να προστατέψετε τουλάχιστον %s εφαρμογή</item>
+    </plurals>
+    <plurals name="applock_one_key_lock">
+        <item quantity="other">%s εφαρμογές θα είναι προστατευμένες με Κλείδωμα εφαρμογής</item>
+        <item quantity="one">%s εφαρμογή θα είναι προστατευμένη με Κλείδωμα εφαρμογής</item>
     </plurals>
     <plurals name="bg_network_allow_count">
         <item quantity="other">Δυνατότητα σύνδεσης %d εφαρμογών στο δίκτυο στο παρασκήνιο</item>
         <item quantity="one">Δυνατότητα σύνδεσης %d εφαρμογής στο δίκτυο στο παρασκήνιο</item>
     </plurals>
     <plurals name="bg_network_restrict_count">
-        <item quantity="other">Αδυναμία σύνδεσης %d εφαρμογών στο δίκτυο στο παρασκήνιο</item>
-        <item quantity="one">Αδυναμία σύνδεσης %d εφαρμογής στο δίκτυο στο παρασκήνιο</item>
+        <item quantity="other">"Αδυναμία σύνδεσης %d εφαρμογών στο δίκτυο στο παρασκήνιο"</item>
+        <item quantity="one">"Αδυναμία σύνδεσης %d εφαρμογής στο δίκτυο στο παρασκήνιο"</item>
     </plurals>
     <plurals name="cache_check_content">
         <item quantity="other">Προστατεύονται %d εφαρμογές</item>
         <item quantity="one">Προστατεύεται %d εφαρμογή</item>
+    </plurals>
+    <plurals name="card_uninstall_title">
+        <item quantity="other">&lt;Data&gt;Μπορείτε να απεγκαταστήσετε &lt;font color=#F22424&gt;%d&lt;/font&gt; εφαρμογές&lt;/Data&gt;</item>
+        <item quantity="one">&lt;Data&gt;Μπορείτε να απεγκαταστήσετε &lt;font color=#F22424&gt;%d&lt;/font&gt; εφαρμογή&lt;/Data&gt;</item>
     </plurals>
     <plurals name="daily_sim_over_limit_dialog_message">
         <item quantity="other">"Έχετε ήδη χρησιμοποιήσει %s ημερήσια όρια δεδομένων.
@@ -105,12 +161,28 @@
 Εάν ενεργοποιήσετε τα δεδομένα κινητής ξανά, ο πάροχός σας μπορεί να σας επιφέρει επιπρόσθετες χρεώσεις."</item>
     </plurals>
     <plurals name="daily_sim_over_limit_notify_title">
-        <item quantity="other">Έχετε ήδη χρησιμοποιήσει %s ημερήσια όρια δεδομένων.</item>
-        <item quantity="one">Έχετε ήδη χρησιμοποιήσει %s ημερήσιο όριο δεδομένων.</item>
+        <item quantity="other">"Έχετε ήδη χρησιμοποιήσει %s ημερήσια όρια δεδομένων."</item>
+        <item quantity="one">"Έχετε ήδη χρησιμοποιήσει %s ημερήσιο όριο δεδομένων."</item>
     </plurals>
     <plurals name="deep_clean_auto_memory_clean">
         <item quantity="other">Σε %1$d λεπτά</item>
         <item quantity="one">Σε %1$d λεπτό</item>
+    </plurals>
+    <plurals name="ew_alert_second_after">
+        <item quantity="other">Σε %d δευτερόλεπτα</item>
+        <item quantity="one">Σε %d δευτερόλεπτο</item>
+    </plurals>
+    <plurals name="ew_concern_date">
+        <item quantity="other">%d ημέρες πριν</item>
+        <item quantity="one">%d ημέρα πριν</item>
+    </plurals>
+    <plurals name="exo_controls_fastforward_by_amount_description">
+        <item quantity="other">Γρήγορη προώθηση %d δευτερόλεπτα</item>
+        <item quantity="one">Γρήγορη προώθηση %d δευτερόλεπτο</item>
+    </plurals>
+    <plurals name="exo_controls_rewind_by_amount_description">
+        <item quantity="other">Επαναφορά %d δευτερολέπτων</item>
+        <item quantity="one">Επαναφορά %d δευτερολέπτου</item>
     </plurals>
     <plurals name="find_applications">
         <item quantity="other">Αναζήτηση μεταξύ %d εφαρμογών</item>
@@ -140,14 +212,6 @@
         <item quantity="other">%d μηνύματα</item>
         <item quantity="one">%d μήνυμα</item>
     </plurals>
-    <plurals name="game_booster_incoming_call_duration_p1">
-        <item quantity="other">%1$s:</item>
-        <item quantity="one">%1$s:</item>
-    </plurals>
-    <plurals name="game_booster_incoming_call_duration_p2">
-        <item quantity="other">%1$s</item>
-        <item quantity="one">%1$s</item>
-    </plurals>
     <plurals name="gb_ad_people_play">
         <item quantity="other">%1$d άτομα παίζουν</item>
         <item quantity="one">%1$d άτομο παίζει</item>
@@ -160,6 +224,10 @@
         <item quantity="other">Απεγκατάσταση %2$d παιχνιδιών (περιλαμβανομένου του %1$s)</item>
         <item quantity="one">Απεγκατάσταση %2$d παιχνιδιού (περιλαμβανομένου του %1$s)</item>
     </plurals>
+    <plurals name="gb_game_video_ai_record_finish_tips">
+        <item quantity="other">Αποθηκεύτηκε %d εγγραφές τεχνητής νοημοσύνης στο παιχνίδι Turbo</item>
+        <item quantity="one">Αποθηκεύτηκε %d εγγραφή τεχνητής νοημοσύνης στο παιχνίδι Turbo</item>
+    </plurals>
     <plurals name="gb_record_time_title">
         <item quantity="other">%d δευ</item>
         <item quantity="one">%d δευ</item>
@@ -167,6 +235,42 @@
     <plurals name="gb_signed_days_sum">
         <item quantity="other">Συνδεθήκατε%d συνεχόμενες ημέρες</item>
         <item quantity="one">Συνδεθήκατε %d φορά</item>
+    </plurals>
+    <plurals name="gb_voice_changer_toast_tips_window_bubble">
+        <item quantity="one">"Δοκιμάστε το Voice changer τώρα
+για να λάβετε μια %dημέρα δωρεάν δοκιμή!"</item>
+        <item quantity="other">"Δοκιμάστε το Voice changer τώρα
+για να λάβετε μια %dημέρα δωρεάν δοκιμή!"</item>
+    </plurals>
+    <plurals name="gb_voice_changer_trial_gain_fail">
+        <item quantity="other">"Δεν ήταν δυνατή η λήψη δωρεάν δοκιμής %dημερών"</item>
+        <item quantity="one">"Δεν ήταν δυνατή η λήψη δωρεάν δοκιμής %dημερών"</item>
+    </plurals>
+    <plurals name="gb_voice_changer_trial_gain_success">
+        <item quantity="other">Ελήφθη με επιτυχία μια δωρεάν δοκιμή %dημερών</item>
+        <item quantity="one">Ελήφθη με επιτυχία μια δωρεάν δοκιμή %dημερών</item>
+    </plurals>
+    <plurals name="gb_voice_changer_user_status_get_trial_card">
+        <item quantity="other">Αποκτήστε μια δωρεάν δοκιμή %dημερών</item>
+        <item quantity="one">Αποκτήστε μια δωρεάν δοκιμή %dημερών</item>
+    </plurals>
+    <plurals name="gb_voice_changer_user_status_get_twice_trial_card_dialog">
+        <item quantity="other">"Η συνδρομή σας έληξε.
+Μπορείτε να λάβετε μια δωρεάν δοκιμή %dημερών τώρα!"</item>
+        <item quantity="one">"Η συνδρομή σας έληξε.
+Μπορείτε να λάβετε μια δωρεάν δοκιμή %dημερών τώρα!"</item>
+    </plurals>
+    <plurals name="gb_voice_changer_user_tips_info">
+        <item quantity="other">Αποκτήστε μια δωρεάν δοκιμή %dημερών</item>
+        <item quantity="one">Αποκτήστε μια δωρεάν δοκιμή %dημερών</item>
+    </plurals>
+    <plurals name="gtb_spring_festival_colored_egg">
+        <item quantity="other">"Συγχαρητήρια! Ξεκλειδώσατε %s αυγά του Πάσχα."</item>
+        <item quantity="one">"Συγχαρητήρια! Ξεκλειδώσατε το %s αυγό του Πάσχα."</item>
+    </plurals>
+    <plurals name="half_hour_ago">
+        <item quantity="one">Μισή ώρα πριν</item>
+        <item quantity="other">Μισή ώρα πριν</item>
     </plurals>
     <plurals name="hide_txt_hint_with_blank_2">
         <item quantity="other">    +%1$d ακόμα χαρακτήρες</item>
@@ -177,16 +281,16 @@
         <item quantity="one">%d άδεια</item>
     </plurals>
     <plurals name="hints_auto_start_disable_title">
-        <item quantity="other">Δεν επιτρέπεται αυτόματη έναρξη για %d εφαρμογές</item>
-        <item quantity="one">Δεν επιτρέπεται αυτόματη έναρξη για %d εφαρμογή</item>
+        <item quantity="other">"Δεν επιτρέπεται αυτόματη έναρξη για %d εφαρμογές"</item>
+        <item quantity="one">"Δεν επιτρέπεται αυτόματη έναρξη για %d εφαρμογή"</item>
     </plurals>
     <plurals name="hints_auto_start_enable_title">
         <item quantity="other">%d μπορούν να ξεκινήσουν αυτόματα</item>
         <item quantity="one">%d μπορεί να ξεκινήσει αυτόματα</item>
     </plurals>
     <plurals name="hints_get_root_disable_title">
-        <item quantity="other">%d εφαρμογές δεν έχουν πρόσβαση Root</item>
-        <item quantity="one">%d εφαρμογή δεν έχει πρόσβαση Root</item>
+        <item quantity="other">"%d εφαρμογές δεν έχουν πρόσβαση Root"</item>
+        <item quantity="one">"%d εφαρμογή δεν έχει πρόσβαση Root"</item>
     </plurals>
     <plurals name="hints_get_root_enable_title">
         <item quantity="other">%d εφαρμογές έχουν πρόσβαση Root</item>
@@ -205,8 +309,8 @@
         <item quantity="one">%d εφαρμογή</item>
     </plurals>
     <plurals name="hints_roaming_disable_title">
-        <item quantity="other">%d εφαρμογές δεν μπορούν να χρησιμοποιήσουν περιαγωγή δεδομένων</item>
-        <item quantity="one">%d εφαρμογή δεν μπορεί να χρησιμοποιήσει περιαγωγή δεδομένων</item>
+        <item quantity="other">"%d εφαρμογές δεν μπορούν να χρησιμοποιήσουν περιαγωγή δεδομένων"</item>
+        <item quantity="one">"%d εφαρμογή δεν μπορεί να χρησιμοποιήσει περιαγωγή δεδομένων"</item>
     </plurals>
     <plurals name="hints_roaming_enable_title">
         <item quantity="other">%d εφαρμογές μπορούν να χρησιμοποιήσουν περιαγωγή δεδομένων</item>
@@ -228,9 +332,41 @@
         <item quantity="other">Δεν γίνεται καταγραφή χρήσης δεδομένων για %d εφαρμογές</item>
         <item quantity="one">Δεν γίνεται καταγραφή χρήσης δεδομένων για %d εφαρμογή</item>
     </plurals>
+    <plurals name="image_protect_del_tips">
+        <item quantity="other">Διαγραφή %d εικόνων μόνιμα?</item>
+        <item quantity="one">Διαγραφή %d εικόνας μόνιμα?</item>
+    </plurals>
+    <plurals name="image_protect_exit_del_tips">
+        <item quantity="other">%d εικόνες θα διαγραφούν μόνιμα αφού φύγετε από τη σελίδα. Διαγράψτε ούτως ή άλλως?</item>
+        <item quantity="one">%d εικόνα θα διαγραφεί μόνιμα μετά την έξοδο από τη σελίδα της. Διαγράψτε ούτως ή άλλως?</item>
+    </plurals>
+    <plurals name="image_protect_try_del_tips">
+        <item quantity="other">Διαγραφή %d εικόνων</item>
+        <item quantity="one">Διαγραφή εικόνας %d</item>
+    </plurals>
+    <plurals name="in_a_hour">
+        <item quantity="one">Σε 1 ώρα</item>
+        <item quantity="other">Σε 1 ώρα</item>
+    </plurals>
+    <plurals name="in_half_hour">
+        <item quantity="one">Σε μισή ώρα</item>
+        <item quantity="other">Σε μισή ώρα</item>
+    </plurals>
+    <plurals name="in_less_than_one_minute">
+        <item quantity="one">Άμεσα</item>
+        <item quantity="other">Άμεσα</item>
+    </plurals>
+    <plurals name="in_num_minutes">
+        <item quantity="other">σε %d λεπτά</item>
+        <item quantity="one">σε 1 λεπτό</item>
+    </plurals>
     <plurals name="install_game_count_title">
         <item quantity="other">Προστέθηκαν %d παιχνίδια</item>
         <item quantity="one">Προστέθηκε %d παιχνίδι</item>
+    </plurals>
+    <plurals name="intl_perm_privacy_control_message_count">
+        <item quantity="other">Μπορείτε να προστατεύσετε %d αντικείμενα</item>
+        <item quantity="one">Μπορείτε να προστατεύσετε %d αντικείμενο</item>
     </plurals>
     <plurals name="keyguard_charging_info_drained_hour_time_format">
         <item quantity="other">%s ώρες</item>
@@ -240,9 +376,17 @@
         <item quantity="other">%s λεπτά</item>
         <item quantity="one">%s λεπτό</item>
     </plurals>
+    <plurals name="less_than_one_minute_ago">
+        <item quantity="one">Μόλις τώρα</item>
+        <item quantity="other">Μόλις τώρα</item>
+    </plurals>
     <plurals name="lockpattern_recording_incorrect_too_short">
         <item quantity="other">Συνδέστε τουλάχιστον %d τελείες</item>
         <item quantity="one">Συνδέστε τουλάχιστον %d τελεία</item>
+    </plurals>
+    <plurals name="lockpattern_recording_intro_header_new">
+        <item quantity="other">Συνδέστε τουλάχιστον %s τελείες</item>
+        <item quantity="one">Συνδέστε τουλάχιστον %s τελεία</item>
     </plurals>
     <plurals name="lockpattern_too_many_failed_confirmation_attempts_footer">
         <item quantity="other">"Περιμένετε %d δευτερόλεπτα και προσπαθήστε ξανά. "</item>
@@ -261,8 +405,8 @@
         <item quantity="one">Έγινε αποκλεισμός %d μηνύματος ή κλήσης</item>
     </plurals>
     <plurals name="menu_text_antivirus_day_ex">
-        <item quantity="other">Δεν έχει πραγματοποιηθεί σάρωση της συσκευής %d ημέρες</item>
-        <item quantity="one">Δεν έχει πραγματοποιηθεί σάρωση της συσκευής %d ημέρα</item>
+        <item quantity="other">"Δεν έχει πραγματοποιηθεί σάρωση της συσκευής %d ημέρες"</item>
+        <item quantity="one">"Δεν έχει πραγματοποιηθεί σάρωση της συσκευής %d ημέρα"</item>
     </plurals>
     <plurals name="menu_text_antivirus_virus_ex">
         <item quantity="other">%d εφαρμογές περιέχουν ιούς ή κακόβουλο λογισμικό</item>
@@ -271,6 +415,10 @@
     <plurals name="menu_text_app_manager_ex">
         <item quantity="other">%d διαθέσιμες ενημερώσεις</item>
         <item quantity="one">%d διαθέσιμη ενημέρωση</item>
+    </plurals>
+    <plurals name="miuix_appcompat_items_selected">
+        <item quantity="other">%d επιλεγμένα στοιχεία</item>
+        <item quantity="one">%d επιλεγμένο στοιχείο</item>
     </plurals>
     <plurals name="mixed_recording_incorrect_too_short">
         <item quantity="other">Εισαγάγετε τουλάχιστον %d χαρακτήρες</item>
@@ -281,8 +429,12 @@
         <item quantity="one">%d ημέρα απομένει μέχρι τον τερματισμό της Ενίσχυσης ταχύτητας δικτύου. Ανανεώστε την συνεδρία για αποφυγή προβλημάτων ταχύτητας δικτύου.</item>
     </plurals>
     <plurals name="network_restrict_count">
-        <item quantity="other">"Η πρόβαση δικτύου περιορίστηκε για &lt;font color='#ff0000'>%d&lt;/font> εφαρμογές"</item>
-        <item quantity="one">"Η πρόβαση δικτύου περιορίστηκε για &lt;font color='#ff0000'>%d&lt;/font> εφαρμογή"</item>
+        <item quantity="other">"Η πρόβαση δικτύου περιορίστηκε για &lt;font color='#ff0000'&gt;%d&lt;/font&gt; εφαρμογές"</item>
+        <item quantity="one">"Η πρόβαση δικτύου περιορίστηκε για &lt;font color='#ff0000'&gt;%d&lt;/font&gt; εφαρμογή"</item>
+    </plurals>
+    <plurals name="notification_antivirus_title">
+        <item quantity="other">%d ημέρες χωρίς σαρώσεις ασφαλείας</item>
+        <item quantity="one">%d ημέρα χωρίς σαρώσεις ασφαλείας</item>
     </plurals>
     <plurals name="notification_battery_consume_abnormal_summary">
         <item quantity="other">Εξαντλήθηκε %2$d%% της μπαταρίας μέσα στα τελευταία %1$d λεπτά</item>
@@ -292,9 +444,29 @@
         <item quantity="other">%2$d εφαρμογές, συμπεριλαμβανομένων των %1$s, εξαντλούν τη μπαταρία</item>
         <item quantity="one">%2$d εφαρμογή, συμπεριλαμβανομένης της %1$s, εξαντλεί τη μπαταρία</item>
     </plurals>
+    <plurals name="notification_checker_installed_apk_text">
+        <item quantity="other">Διαγραφή %d πακέτων εγκατάστασης</item>
+        <item quantity="one">Διαγραφή %d πακέτου εγκατάστασης</item>
+    </plurals>
+    <plurals name="notification_link_cleaner_2006">
+        <item quantity="other">Διαγραφή %d υπολειπόμενων APK</item>
+        <item quantity="one">Διαγραφή %d υπολειπόμενου APK</item>
+    </plurals>
+    <plurals name="notification_power_consume_issue">
+        <item quantity="other">%d προβλήματα χρήσης μπαταρίας</item>
+        <item quantity="one">%d πρόβλημα χρήσης μπαταρίας</item>
+    </plurals>
+    <plurals name="notification_power_consume_suggest">
+        <item quantity="other">Βελτιστοποίηση %d στοιχείων για εξοικονόμηση μπαταρίας</item>
+        <item quantity="one">Βελτιστοποίηση %d στοιχείου για εξοικονόμηση μπαταρίας</item>
+    </plurals>
     <plurals name="notification_title_cmcc_app_check">
         <item quantity="other">%d ημέρες από το τελευταίο έλεγχο</item>
         <item quantity="one">%d ημέρα από το τελευταίο έλεγχο</item>
+    </plurals>
+    <plurals name="num_minutes_ago">
+        <item quantity="other">%d λεπτά πριν</item>
+        <item quantity="one">1 λεπτό πριν</item>
     </plurals>
     <plurals name="number_locked">
         <item quantity="other">%d εφαρμογές κλειδώθηκαν</item>
@@ -327,10 +499,6 @@
     <plurals name="om_running_apps_num">
         <item quantity="other">%d εφαρμογές</item>
         <item quantity="one">%d εφαρμογή</item>
-    </plurals>
-    <plurals name="optimize_result_button_add_score">
-        <item quantity="other">+%d</item>
-        <item quantity="one">+%d</item>
     </plurals>
     <plurals name="pc_abnormal_scan_result_model_result_title">
         <item quantity="other">%d εφαρμογές εξαντλούν υπερβολικά τη μπαταρία</item>
@@ -404,9 +572,29 @@
         <item quantity="other">Έγινε λήψη από %1$d άτομα</item>
         <item quantity="one">Έγινε λήψη από %1$d άτομο</item>
     </plurals>
+    <plurals name="power_20s_shutdown">
+        <item quantity="other">Η συσκευή σας θα απενεργοποιηθεί σε %d δευτερόλεπτα</item>
+        <item quantity="one">Η συσκευή σας θα απενεργοποιηθεί σε %d δευτερόλεπτα</item>
+    </plurals>
+    <plurals name="power_center_battery_charge_number">
+        <item quantity="other">φορές</item>
+        <item quantity="one">ώρα</item>
+    </plurals>
+    <plurals name="power_center_battery_consume_prolblem">
+        <item quantity="other">%d προβλήματα χρήσης μπαταρίας</item>
+        <item quantity="one">%d πρόβλημα χρήσης μπαταρίας</item>
+    </plurals>
     <plurals name="power_center_battery_day">
         <item quantity="other">"%d ημέρες "</item>
         <item quantity="one">"%d ημέρα "</item>
+    </plurals>
+    <plurals name="power_center_battery_duration_hour_time_format">
+        <item quantity="other">" ώρες"</item>
+        <item quantity="one">" ώρα"</item>
+    </plurals>
+    <plurals name="power_center_battery_duration_min_time_format">
+        <item quantity="other">" λεπτά"</item>
+        <item quantity="one">" λεπτά"</item>
     </plurals>
     <plurals name="power_center_battery_hour">
         <item quantity="other">"%d ώρες "</item>
@@ -416,13 +604,25 @@
         <item quantity="other">"%d λεπτά "</item>
         <item quantity="one">"%d λεπτό "</item>
     </plurals>
-    <plurals name="power_center_battery_temperature">
-        <item quantity="other">%d ℃</item>
-        <item quantity="one">%d ℃</item>
+    <plurals name="power_center_battery_problem">
+        <item quantity="other">Διόρθωση %d προβλημάτων χρήσης μπαταρίας</item>
+        <item quantity="one">Διόρθωση προβλήματος χρήσης μπαταρίας %d</item>
     </plurals>
-    <plurals name="power_center_battery_volume">
-        <item quantity="other">%d mAh</item>
-        <item quantity="one">%d mAh</item>
+    <plurals name="power_center_battery_problem_result">
+        <item quantity="other">Μπορείτε να διορθώσετε %d προβλήματα χρήσης μπαταρίας</item>
+        <item quantity="one">Μπορείτε να διορθώσετε το πρόβλημα χρήσης μπαταρίας %d</item>
+    </plurals>
+    <plurals name="power_center_battery_save_suggest">
+        <item quantity="other">" %d στοιχεία μπορούν να βελτιστοποιηθούν"</item>
+        <item quantity="one">" %d στοιχείο μπορεί να βελτιστοποιηθεί"</item>
+    </plurals>
+    <plurals name="power_center_battery_suggest">
+        <item quantity="other">Βελτιστοποίηση %d στοιχείων για εξοικονόμηση μπαταρίας</item>
+        <item quantity="one">Βελτιστοποίηση %d στοιχείου για εξοικονόμηση μπαταρίας</item>
+    </plurals>
+    <plurals name="power_center_battery_suggest_result">
+        <item quantity="other">Μπορείτε να βελτιστοποιήσετε %d στοιχεία για εξοικονόμηση μπαταρίας</item>
+        <item quantity="one">Μπορείτε να βελτιστοποιήσετε το στοιχείο %d για εξοικονόμηση μπαταρίας</item>
     </plurals>
     <plurals name="power_center_list_item_optimize_button">
         <item quantity="other">Προσθήκη %d λεπτών</item>
@@ -431,6 +631,10 @@
     <plurals name="power_center_menu_text">
         <item quantity="other">αντικείμενα</item>
         <item quantity="one">αντικείμενο</item>
+    </plurals>
+    <plurals name="power_center_unoffical_battery_dialog_negative">
+        <item quantity="other">Ακύρωση (%ds)</item>
+        <item quantity="one">Ακύρωση (%ds)</item>
     </plurals>
     <plurals name="power_main_battery_last_day">
         <item quantity="other">%s ημέρες απέμειναν</item>
@@ -452,13 +656,25 @@
         <item quantity="other">Η συσκευή σας θα απενεργοποιηθεί σε %d δευτερόλεπτα. Συνδέστε τον φορτιστή.</item>
         <item quantity="one">Η συσκευή σας θα απενεργοποιηθεί σε %d δευτερόλεπτο. Συνδέστε τον φορτιστή.</item>
     </plurals>
+    <plurals name="power_optimize_app_autostart_summary">
+        <item quantity="other">%d εφαρμογές αυτόματη εκκίνηση συχνά</item>
+        <item quantity="one">%d αυτόματη εκκίνηση εφαρμογών συχνά</item>
+    </plurals>
+    <plurals name="power_optimize_close_app_summary">
+        <item quantity="other">%d εφαρμογές καταναλώνουν μπαταρία</item>
+        <item quantity="one">%d εφαρμογή καταναλώνει μπαταρία</item>
+    </plurals>
+    <plurals name="pp_times">
+        <item quantity="other">%s φορές</item>
+        <item quantity="one">%s φορά</item>
+    </plurals>
     <plurals name="privacy_apps_disable_header_title">
         <item quantity="other">%d εικόνες εφαρμογής κρύφτηκαν</item>
         <item quantity="one">%d εικόνα εφαρμογής κρύφτηκε</item>
     </plurals>
     <plurals name="privacy_apps_enable_header_title">
-        <item quantity="other">%d εικόνες εφαρμογής δεν είναι κρυμμένες</item>
-        <item quantity="one">%d εικόνα εφαρμογής δεν είναι κρυμμένη</item>
+        <item quantity="other">"%d εικόνες εφαρμογής δεν είναι κρυμμένες"</item>
+        <item quantity="one">"%d εικόνα εφαρμογής δεν είναι κρυμμένη"</item>
     </plurals>
     <plurals name="privacy_permission_summary">
         <item quantity="other">%s εφαρμογές έχουν μόνιμη πρόσβαση</item>
@@ -467,6 +683,50 @@
     <plurals name="privacy_pop_times">
         <item quantity="other">%s φορές</item>
         <item quantity="one">%s φορά</item>
+    </plurals>
+    <plurals name="privacy_risk_app_count">
+        <item quantity="other">%d εφαρμογές</item>
+        <item quantity="one">%d εφαρμογή</item>
+    </plurals>
+    <plurals name="privacy_risk_dangerous_permissions_tip">
+        <item quantity="other">%d δικαιώματα υψηλού κινδύνου χορηγήθηκαν</item>
+        <item quantity="one">%d παραχωρούμενα δικαιώματα υψηλού κινδύνου</item>
+    </plurals>
+    <plurals name="privacy_risk_install_app_tip">
+        <item quantity="other">%d επικίνδυνες εφαρμογές βρέθηκαν</item>
+        <item quantity="one">%d επικίνδυνη εφαρμογή βρέθηκε</item>
+    </plurals>
+    <plurals name="privacy_risk_photo_location_tip">
+        <item quantity="other">%d εντοπισθέντες κίνδυνοι από πληροφορίες τοποθεσίας</item>
+        <item quantity="one">%d κίνδυνος ανίχνευσης πληροφοριών τοποθεσίας</item>
+    </plurals>
+    <plurals name="privacy_risk_result_item_error">
+        <item quantity="other">%d εντοπισθέντες κίνδυνοι</item>
+        <item quantity="one">%d κίνδυνος ανιχνεύθηκε</item>
+    </plurals>
+    <plurals name="privacy_risk_result_msg">
+        <item quantity="other">βρέθηκαν %d πιθανοί κίνδυνοι</item>
+        <item quantity="one">%d πιθανός κίνδυνος βρέθηκε</item>
+    </plurals>
+    <plurals name="privacy_risk_result_photo_sensitive_msg">
+        <item quantity="other">%d φωτογραφίες μπορεί να περιέχουν τις πληροφορίες που είναι ιδιωτικές ή ευαίσθητες</item>
+        <item quantity="one">%d φωτογραφία μπορεί να περιέχει τις πληροφορίες που είναι ιδιωτικές ή ευαίσθητες</item>
+    </plurals>
+    <plurals name="privacy_risk_result_protection_tip">
+        <item quantity="other">%d λειτουργίες που προστατεύουν το απόρρητό σας είναι απενεργοποιημένες</item>
+        <item quantity="one">%d δυνατότητα που προστατεύει το απόρρητό σας είναι απενεργοποιημένη</item>
+    </plurals>
+    <plurals name="privacy_risk_sensitive_permissions_tip">
+        <item quantity="other">%d ευαίσθητα δικαιώματα χορηγήθηκαν</item>
+        <item quantity="one">%d ευαίσθητα δικαιώματα χορηγήθηκαν</item>
+    </plurals>
+    <plurals name="privacy_risk_uninstall_btn">
+        <item quantity="other">Απεγκατάσταση %d εφαρμογών</item>
+        <item quantity="one">Απεγκατάσταση %d εφαρμογής</item>
+    </plurals>
+    <plurals name="privacy_risk_work_encryption_msg">
+        <item quantity="other">%d στοιχεία χρειάζονται επιπλέον προστασία</item>
+        <item quantity="one">%d στοιχείο χρειάζεται επιπλέον προστασία</item>
     </plurals>
     <plurals name="quick_optimize_issue_count">
         <item quantity="other">%d προβλήματα μπαταρίας</item>
@@ -513,8 +773,8 @@
         <item quantity="one">%s προστατευμένη εφαρμογή πληρωμών</item>
     </plurals>
     <plurals name="sp_monitored_apps_list_group_disable">
-        <item quantity="other">%s μη προστατευμένες εφαρμογές</item>
-        <item quantity="one">%s μη προστατευμένη εφαρμογή</item>
+        <item quantity="other">"%s μη προστατευμένες εφαρμογές"</item>
+        <item quantity="one">"%s μη προστατευμένη εφαρμογή"</item>
     </plurals>
     <plurals name="sp_monitored_apps_list_group_enable">
         <item quantity="other">%s προστατευμένες εφαρμογές</item>
@@ -537,12 +797,16 @@
         <item quantity="one">Διαθέσιμη ενημέρωση για %d εφαρμογή.</item>
     </plurals>
     <plurals name="summary_flow_verify">
-        <item quantity="other">Δεν έγινε συγχρονισμός στατιστικών δεδομένων χρήσης παρόχου για %d ημέρες</item>
-        <item quantity="one">Δεν έγινε συγχρονισμός στατιστικών δεδομένων χρήσης παρόχου για %d ημέρα</item>
+        <item quantity="other">"Δεν έγινε συγχρονισμός στατιστικών δεδομένων χρήσης παρόχου για %d ημέρες"</item>
+        <item quantity="one">"Δεν έγινε συγχρονισμός στατιστικών δεδομένων χρήσης παρόχου για %d ημέρα"</item>
     </plurals>
     <plurals name="system_check_content">
         <item quantity="other">%1$d αντικείμενα ασφαλή</item>
         <item quantity="one">%1$d αντικείμενο ασφαλές</item>
+    </plurals>
+    <plurals name="title_app_update_cn">
+        <item quantity="other">&lt;Data&gt;Ενημέρωση &lt;font color=#F22424&gt;%d&lt;/font&gt; εφαρμογών&lt;/Data&gt;</item>
+        <item quantity="one">&lt;Data&gt;Ενημέρωση &lt;font color=#F22424&gt;%d&lt;/font&gt; εφαρμογή&lt;/Data&gt;</item>
     </plurals>
     <plurals name="title_virus_clean">
         <item quantity="other">Έγινε εκκαθάριση %d ιών</item>
@@ -553,12 +817,26 @@
         <item quantity="one">%d εφαρμογή</item>
     </plurals>
     <plurals name="uninstall_game_count_title">
-        <item quantity="other">Δεν έγινε προσθήκη %d παιχνιδιών</item>
-        <item quantity="one">Δεν έγινε προσθήκη %d παιχνιδιού</item>
+        <item quantity="other">"Δεν έγινε προσθήκη %d παιχνιδιών"</item>
+        <item quantity="one">"Δεν έγινε προσθήκη %d παιχνιδιού"</item>
+    </plurals>
+    <plurals name="unlock_set_unlock_pattern_summary_new">
+        <item quantity="other">Συνδέστε τουλάχιστον %s τελείες</item>
+        <item quantity="one">Συνδέστε τουλάχιστον %s τελεία</item>
+    </plurals>
+    <plurals name="unlock_set_unlock_pin_summary_new">
+        <item quantity="other">Εισάγετε %s ψηφία</item>
+        <item quantity="one">Εισάγετε %s ψηφίο</item>
     </plurals>
     <plurals name="videobox_settings_manager_apps_count">
         <item quantity="other">%d εφαρμογές</item>
         <item quantity="one">%d εφαρμογή</item>
+    </plurals>
+    <plurals name="videobox_settings_timing_bubble">
+        <item quantity="other">"Παρακολουθείτε βίντεο για %d ώρες ήδη.
+Κάντε ένα διάλειμμα!"</item>
+        <item quantity="one">"Παρακολουθείτε βίντεο για %d ώρα ήδη.
+Κάντε ένα διάλειμμα!"</item>
     </plurals>
     <plurals name="view_num">
         <item quantity="other">%1$d προβολές</item>

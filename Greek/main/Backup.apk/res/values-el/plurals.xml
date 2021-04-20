@@ -25,12 +25,12 @@
         <item quantity="one">%1$s αντίγραφο ασφαλείας (%2$s)</item>
     </plurals>
     <plurals name="new_task_backup_failed">
-        <item quantity="other">Επιτυχής δημιουργία αντιγράφου ασφαλείας. Αδυναμία δημιουργίας αντιγράφου ασφαλείας %d στοιχείων.</item>
-        <item quantity="one">Επιτυχής δημιουργία αντιγράφου ασφαλείας. Αδυναμία δημιουργίας αντιγράφου ασφαλείας %d στοιχείου.</item>
+        <item quantity="other">"Επιτυχής δημιουργία αντιγράφου ασφαλείας. Αδυναμία δημιουργίας αντιγράφου ασφαλείας %d στοιχείων."</item>
+        <item quantity="one">"Επιτυχής δημιουργία αντιγράφου ασφαλείας. Αδυναμία δημιουργίας αντιγράφου ασφαλείας %d στοιχείου."</item>
     </plurals>
     <plurals name="new_task_restore_failed">
-        <item quantity="other">Επιτυχής επαναφορά. Αδυναμία επαναφοράς %d στοιχείων.</item>
-        <item quantity="one">Επιτυχής επαναφορά. Αδυναμία επαναφοράς %d στοιχείου.</item>
+        <item quantity="other">"Επιτυχής επαναφορά. Αδυναμία επαναφοράς %d στοιχείων."</item>
+        <item quantity="one">"Επιτυχής επαναφορά. Αδυναμία επαναφοράς %d στοιχείου."</item>
     </plurals>
     <plurals name="save_item_failed_summary_seg1">
         <item quantity="other">"Έγινε εισαγωγή %d αντικειμένων. "</item>
@@ -61,12 +61,12 @@
         <item quantity="one">%d αντικείμενο,</item>
     </plurals>
     <plurals name="trans_failed_summary">
-        <item quantity="other">Αδυναμία μεταφοράς %d αντικειμένων. Πατήστε για προβολή λεπτομερειών.</item>
-        <item quantity="one">Αδυναμία μεταφοράς %d αντικειμένου. Πατήστε για προβολή λεπτομερειών.</item>
+        <item quantity="other">"Αδυναμία μεταφοράς %d αντικειμένων. Πατήστε για προβολή λεπτομερειών."</item>
+        <item quantity="one">"Αδυναμία μεταφοράς %d αντικειμένου. Πατήστε για προβολή λεπτομερειών."</item>
     </plurals>
     <plurals name="trans_item_failed_summary">
-        <item quantity="other">Αδυναμία μεταφοράς %d αντικειμένων.</item>
-        <item quantity="one">Αδυναμία μεταφοράς %d αντικειμένου.</item>
+        <item quantity="other">"Αδυναμία μεταφοράς %d αντικειμένων."</item>
+        <item quantity="one">"Αδυναμία μεταφοράς %d αντικειμένου."</item>
     </plurals>
     <plurals name="trans_time_format_hours">
         <item quantity="other">%d ώρες</item>

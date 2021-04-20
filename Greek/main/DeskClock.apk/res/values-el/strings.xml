@@ -71,6 +71,7 @@
     <string name="am">ΠΜ</string>
     <string name="analog_gadget">Αναλογικό ρολόι</string>
     <string name="app_label">Ρολόι</string>
+    <string name="app_name">blur</string>
     <string name="auto_silence_never">Ποτέ</string>
     <string name="auto_silence_summary">Ορίστε μετά από πόση ώρα θα σιγήσουν οι αφυπνίσεις και τα χρονόμετρα</string>
     <string name="auto_silence_title">Αυτόματη-σίγαση</string>
@@ -93,9 +94,9 @@
     <string name="bedtime_setting_no_disturbance">Εναλλαγή σε DND όσο κοιμόσαστε;</string>
     <string name="bedtime_setting_no_disturbance_desc">Οι ήχοι κλήσης, ήχοι ειδοποιήσεων και δονήσεις θα απενεργοποιηθούν μέχρι να ξυπνήσετε</string>
     <string name="bedtime_setting_repeat_type">Πότε θα εφαρμόζεται το πρόγραμμα ύπνου;</string>
-    <string name="bedtime_setting_repeat_type_desc">Επιλέξτε την ημέρα που θα λαμβάνετε υπενθυμίσεις</string>
+    <string name="bedtime_setting_repeat_type_desc">"Επιλέξτε την ημέρα που θα λαμβάνετε υπενθυμίσεις"</string>
     <string name="bedtime_settings">Ρυθμίσεις της ώρας του ύπνου</string>
-    <string name="bedtime_sleep_time_remind">Θα λάβετε υπενθύμιση να πάτε για ύπνο 15 λεπτά πριν από την ορισμένη ώρα</string>
+    <string name="bedtime_sleep_time_remind">"Θα λάβετε υπενθύμιση να πάτε για ύπνο 15 λεπτά πριν από την ορισμένη ώρα"</string>
     <string name="bedtime_sleep_time_setting">Πότε θα πάτε για ύπνο;</string>
     <string name="bedtime_wake_up_time_remind">Θα ενεργοποιηθεί ξυπνητήρι την ορισμένη ώρα</string>
     <string name="bedtime_wake_up_time_setting">Πότε θα ξυπνήσετε;</string>
@@ -115,6 +116,8 @@
     <string name="clock_bg_button_setting_summary_common">Επιλέξτε χρώμα παρασκηνίου για την εφαρμογή Ρολόι</string>
     <string name="clock_bg_button_setting_summary_follow_sys">Θα χρησιμοποιείται το μαύρο ως χρώμα παρασκηνίου κάθε φορά που κάνετε εναλλαγή σε Σκοτεινή λειτουργία</string>
     <string name="clock_bg_button_setting_title">Χρώμα παρασκηνίου</string>
+    <string name="clock_date_time_format_seconds_12">hh:mm:ss</string>
+    <string name="clock_date_time_format_seconds_24">HH:mm:ss</string>
     <string name="close">Κλείσιμο</string>
     <string name="close_alarm">Απενεργοποίηση</string>
     <string name="common_settings">Ρυθμίσεις</string>
@@ -128,10 +131,8 @@
     <string name="control_set_alarm_with_existing">Ορίστηκε ξυπνητήρι: %s</string>
     <string name="copy">Αντιγραφή</string>
     <string name="current_stopwatch_time">Τρέχων χρονισμός</string>
-    <string name="date_picker_label_day" />
-    <string name="date_picker_label_month" />
-    <string name="date_picker_label_year" />
     <string name="date_picker_lunar">Παραδοσιακό κινεζικό ημερολόγιο</string>
+    <string name="date_time_picker_dialog_title">Ορισμός ημερομηνίας και ώρας</string>
     <string name="day_concat">", "</string>
     <string name="default_alarm_alert">Προεπιλεγμένος ήχος ξυπνητηριού</string>
     <string name="default_alarm_title">Προεπιλεγμένος ήχος κλήσης</string>
@@ -143,23 +144,23 @@
     <string name="delete_timezone_title">Διαγραφή ζώνης ώρας</string>
     <string name="deskclock_sleep_no_disturbance">Ρολόι - Διαχείριση ώρας ύπνου - Λειτουργία DND</string>
     <string name="dialog_confirm_abort">Απόρριψη αλλαγών;</string>
-    <string name="dialog_legal_off_day">&lt;Data>Φαίνεται πως χρησιμοποιείτε ξυπνητήρια στις γιορτές. Η λειτουργία αυτή πρέπει να συνδεθεί στο διαδίκτυο για να λειτουργεί κανονικά. Πριν χρησιμοποιήσετε αυτή τη λειτουργία, πρέπει να συμφωνήσετε με τη &lt;a href=\"%1$s\">Συμφωνία Χρήστη&lt;/a> και την &lt;a href=\"%2$s\">Πολιτική Απορρήτου&lt;/a>. Αποδοχή;&lt;/Data></string>
-    <string name="dialog_legal_off_day_desc">Η εφαρμογή Ρολόι δεν επιτρέπεται να συνδεθεί στο διαδίκτυο για να ενημερώσει τις πληροφορίες για εορτές. Τα ξυπνητήρια για τις εορτές θα ενεργοποιούνται το Σάββατο και την Κυριακή.</string>
-    <string name="dialog_legal_workday">&lt;Data>Φαίνεται πως χρησιμοποιείτε ξυπνητήρια τις εργάσιμες ημέρες. Η λειτουργία αυτή πρέπει να συνδεθεί στο διαδίκτυο για να λειτουργεί κανονικά. Πριν χρησιμοποιήσετε αυτή τη λειτουργία, πρέπει να συμφωνήσετε με τη &lt;a href=\"%1$s\">Συμφωνία Χρήστη&lt;/a> και την &lt;a href=\"%2$s\">Πολιτική Απορρήτου&lt;/a>. Αποδοχή;&lt;/Data></string>
-    <string name="dialog_legal_workday_and_off_day">&lt;Data>Φαίνεται πως χρησιμοποιείτε ξυπνητήρια τις εργάσιμες ημέρες και στις εορτές. Η λειτουργία αυτή πρέπει να συνδεθεί στο διαδίκτυο για να λειτουργεί κανονικά. Πριν χρησιμοποιήσετε αυτή τη λειτουργία, πρέπει να συμφωνήσετε με τη &lt;a href=\"%1$s\">Συμφωνία Χρήστη&lt;/a> και την &lt;a href=\"%2$s\">Πολιτική Απορρήτου&lt;/a>. Αποδοχή;&lt;/Data></string>
-    <string name="dialog_legal_workday_and_off_day_desc">Η εφαρμογή Ρολόι δεν επιτρέπεται να συνδεθεί στο διαδίκτυο για να ενημερώσει τις πληροφορίες για εορτές. Τα ξυπνητήρια για τις εργάσιμες ημέρες θα ενεργοποιούνται από Δευτέρα έως Παρασκευή. Τα ξυπνητήρια για τις εορτές θα ενεργοποιούνται το Σάββατο και την Κυριακή.</string>
-    <string name="dialog_legal_workday_desc">Η εφαρμογή Ρολόι δεν επιτρέπεται να συνδεθεί στο διαδίκτυο για να ενημερώσει τις πληροφορίες για τις εργάσιμες ημέρες. Τα ξυπνητήρια για τις εργάσιμες ημέρες θα ενεργοποιούνται από Δευτέρα έως Παρασκευή.</string>
+    <string name="dialog_legal_off_day">&lt;Data&gt;Φαίνεται πως χρησιμοποιείτε ξυπνητήρια στις γιορτές. Η λειτουργία αυτή πρέπει να συνδεθεί στο διαδίκτυο για να λειτουργεί κανονικά. Πριν χρησιμοποιήσετε αυτή τη λειτουργία, πρέπει να συμφωνήσετε με τη &lt;a href=\"%1$s\"&gt;Συμφωνία Χρήστη&lt;/a&gt; και την &lt;a href=\"%2$s\"&gt;Πολιτική Απορρήτου&lt;/a&gt;. Αποδοχή;&lt;/Data&gt;</string>
+    <string name="dialog_legal_off_day_desc">"Η εφαρμογή Ρολόι δεν επιτρέπεται να συνδεθεί στο διαδίκτυο για να ενημερώσει τις πληροφορίες για εορτές. Τα ξυπνητήρια για τις εορτές θα ενεργοποιούνται το Σάββατο και την Κυριακή."</string>
+    <string name="dialog_legal_workday">&lt;Data&gt;Φαίνεται πως χρησιμοποιείτε ξυπνητήρια τις εργάσιμες ημέρες. Η λειτουργία αυτή πρέπει να συνδεθεί στο διαδίκτυο για να λειτουργεί κανονικά. Πριν χρησιμοποιήσετε αυτή τη λειτουργία, πρέπει να συμφωνήσετε με τη &lt;a href=\"%1$s\"&gt;Συμφωνία Χρήστη&lt;/a&gt; και την &lt;a href=\"%2$s\"&gt;Πολιτική Απορρήτου&lt;/a&gt;. Αποδοχή;&lt;/Data&gt;</string>
+    <string name="dialog_legal_workday_and_off_day">&lt;Data&gt;Φαίνεται πως χρησιμοποιείτε ξυπνητήρια τις εργάσιμες ημέρες και στις εορτές. Η λειτουργία αυτή πρέπει να συνδεθεί στο διαδίκτυο για να λειτουργεί κανονικά. Πριν χρησιμοποιήσετε αυτή τη λειτουργία, πρέπει να συμφωνήσετε με τη &lt;a href=\"%1$s\"&gt;Συμφωνία Χρήστη&lt;/a&gt; και την &lt;a href=\"%2$s\"&gt;Πολιτική Απορρήτου&lt;/a&gt;. Αποδοχή;&lt;/Data&gt;</string>
+    <string name="dialog_legal_workday_and_off_day_desc">"Η εφαρμογή Ρολόι δεν επιτρέπεται να συνδεθεί στο διαδίκτυο για να ενημερώσει τις πληροφορίες για εορτές. Τα ξυπνητήρια για τις εργάσιμες ημέρες θα ενεργοποιούνται από Δευτέρα έως Παρασκευή. Τα ξυπνητήρια για τις εορτές θα ενεργοποιούνται το Σάββατο και την Κυριακή."</string>
+    <string name="dialog_legal_workday_desc">"Η εφαρμογή Ρολόι δεν επιτρέπεται να συνδεθεί στο διαδίκτυο για να ενημερώσει τις πληροφορίες για τις εργάσιμες ημέρες. Τα ξυπνητήρια για τις εργάσιμες ημέρες θα ενεργοποιούνται από Δευτέρα έως Παρασκευή."</string>
     <string name="dialog_message_agree">Αποδέχομαι</string>
     <string name="dialog_message_for_contact_permission">Για ενεργοποίηση συναγερμών γενεθλίων, το Ρολόι πρέπει να έχει πρόσβαση στις επαφές σας. Συμφωνείτε;</string>
-    <string name="dialog_message_negative">Δεν αποδέχομαι</string>
-    <string name="dialog_message_not_remind">Να μην εμφανιστεί ξανά</string>
-    <string name="dialog_net_permission_in_repeat_type">&lt;Data>Η λειτουργία αυτή πρέπει να συνδεθεί στο διαδίκτυο για να λειτουργεί κανονικά. Πριν χρησιμοποιήσετε αυτή τη λειτουργία, πρέπει να συμφωνήσετε με τη &lt;a href=\"%1$s\">Συμφωνία Χρήστη&lt;/a> και την &lt;a href=\"%2$s\">Πολιτική Απορρήτου&lt;/a>. Αποδοχή;&lt;/Data></string>
+    <string name="dialog_message_negative">"Δεν αποδέχομαι"</string>
+    <string name="dialog_message_not_remind">"Να μην εμφανιστεί ξανά"</string>
+    <string name="dialog_net_permission_in_repeat_type">&lt;Data&gt;Η λειτουργία αυτή πρέπει να συνδεθεί στο διαδίκτυο για να λειτουργεί κανονικά. Πριν χρησιμοποιήσετε αυτή τη λειτουργία, πρέπει να συμφωνήσετε με τη &lt;a href=\"%1$s\"&gt;Συμφωνία Χρήστη&lt;/a&gt; και την &lt;a href=\"%2$s\"&gt;Πολιτική Απορρήτου&lt;/a&gt;. Αποδοχή;&lt;/Data&gt;</string>
     <string name="dialog_privacy_content">Το Ρολόι χρειάζεται σύνδεση στο διαδίκτυο προκειμένου να λαμβάνει πληροφορίες σχετικά με τις τοπικές δημόσιες αργίες, να προσαρμόζει συναγερμούς και να παρέχει εξατομικευμένες υπηρεσίες. Πριν χρησιμοποιήσετε το Ρολόι, πρέπει επίσης να διαβάσετε και να συμφωνήσετε με τη %1$s μας και την %2$s μας. Αποδοχή;</string>
     <string name="dialog_privacy_content_global">Το Ρολόι χρειάζεται σύνδεση στο διαδίκτυο προκειμένου να παρέχει εξατομικευμένες υπηρεσίες. Πριν χρησιμοποιήσετε το Ρολόι, πρέπει επίσης να διαβάσετε και να συμφωνήσετε με τη %1$s μας και την %2$s μας. Αποδοχή;</string>
     <string name="dialog_privacy_content_news">Το Ρολόι χρειάζεται σύνδεση στο διαδίκτυο προκειμένου να παρέχει εξατομικευμένες υπηρεσίες και να περιέχει πρωινά νέα στους συναγερμούς σας. Πριν χρησιμοποιήσετε το Ρολόι, πρέπει επίσης να διαβάσετε και να συμφωνήσετε με τη %1$s μας και την %2$s μας. Αποδοχή;</string>
     <string name="dialog_privacy_content_timer">Το Ρολόι χρειάζεται σύνδεση στο διαδίκτυο προκειμένου να κάνει λήψη χρονοδιακοπτών θορύβου περιβάλλοντος και να παρέχει εξατομικευμένες υπηρεσίες. Πριν χρησιμοποιήσετε το Ρολόι, πρέπει επίσης να διαβάσετε και να συμφωνήσετε με τη %1$s μας και την %2$s μας. Αποδοχή;</string>
-    <string name="dialog_privacy_content_timer_data">Το Ρολόι χρειάζεται σύνδεση στο διαδίκτυο προκειμένου να κάνει λήψη χρονοδιακοπτών θορύβου περιβάλλοντος (≈20MB) και να παρέχει εξατομικευμένες υπηρεσίες. Πριν χρησιμοποιήσετε το Ρολόι, πρέπει επίσης να διαβάσετε και να συμφωνήσετε με τη %1$s μας και την %2$s μας. Αυτή τη στιγμή χρησιμοποιείτε δεδομένα κινητής τηλεφωνίας. Αποδοχή;</string>
-    <string name="disagree">Δεν συμφωνώ</string>
+    <string name="dialog_privacy_content_timer_data">"Το Ρολόι χρειάζεται σύνδεση στο διαδίκτυο προκειμένου να κάνει λήψη χρονοδιακοπτών θορύβου περιβάλλοντος (≈20MB) και να παρέχει εξατομικευμένες υπηρεσίες. Πριν χρησιμοποιήσετε το Ρολόι, πρέπει επίσης να διαβάσετε και να συμφωνήσετε με τη %1$s μας και την %2$s μας. Αυτή τη στιγμή χρησιμοποιείτε δεδομένα κινητής τηλεφωνίας. Αποδοχή;"</string>
+    <string name="disagree">"Δεν συμφωνώ"</string>
     <string name="done">Ολοκλήρωση</string>
     <string name="dynamic_alarm_speech">Έξυπνο ξυπνητήρι</string>
     <string name="early_morning">Πρωί</string>
@@ -167,66 +168,37 @@
     <string name="edit_label">Επεξεργασία ετικέτας αφύπνισης</string>
     <string name="edit_systemtime">Επεξεργασία ώρας συστήματος</string>
     <string name="edit_systemtime_setting_summary">Ημερομηνία, ώρα, και Διπλότυπο ρολόι</string>
-    <string name="empty" />
+    <string name="elapsed_time_format">+</string>
     <string name="eras_ad">μ.Χ.</string>
     <string name="eras_bc">π.Χ.</string>
     <string name="evening">Απόγευμα</string>
     <string name="every_day">Καθημερινά</string>
     <string name="expand_button_title">Σύνθετες</string>
     <string name="expired_timers_dismissed">Επιτυχής απόρριψη χρονοδιακόπτη</string>
-    <string name="fmt_date_day">dd</string>
-    <string name="fmt_date_long_month">MMMM</string>
     <string name="fmt_date_long_month_day">dd MMMM</string>
-    <string name="fmt_date_long_year_month">MMMM yyyy</string>
     <string name="fmt_date_long_year_month_day">dd MMMM yyyy</string>
-    <string name="fmt_date_numeric_day">dd</string>
-    <string name="fmt_date_numeric_month">MM</string>
     <string name="fmt_date_numeric_month_day">dd/MM</string>
-    <string name="fmt_date_numeric_year">yyyy</string>
-    <string name="fmt_date_numeric_year_month">MM/yyyy</string>
     <string name="fmt_date_numeric_year_month_day">dd/MM/yyyy</string>
-    <string name="fmt_date_short_month">MM</string>
     <string name="fmt_date_short_month_day">dd/MM</string>
-    <string name="fmt_date_short_year_month">MMM yyyy</string>
     <string name="fmt_date_short_year_month_day">dd/MM/yyyy</string>
-    <string name="fmt_date_year">yyyy</string>
-    <string name="fmt_time_12hour">hh</string>
-    <string name="fmt_time_12hour_minute">hh:mm</string>
-    <string name="fmt_time_12hour_minute_pm">hh:mm aa</string>
-    <string name="fmt_time_12hour_minute_second">hh:mm:ss</string>
-    <string name="fmt_time_12hour_minute_second_millis">hh:mm:ss.S</string>
-    <string name="fmt_time_12hour_minute_second_millis_pm">hh:mm:ss.S aa</string>
-    <string name="fmt_time_12hour_minute_second_pm">hh:mm:ss aa</string>
-    <string name="fmt_time_12hour_pm">hh aa</string>
-    <string name="fmt_time_24hour">H</string>
-    <string name="fmt_time_24hour_minute">HH:mm</string>
-    <string name="fmt_time_24hour_minute_second">HH:mm:s</string>
-    <string name="fmt_time_24hour_minute_second_millis">HH:mm:ss.S</string>
-    <string name="fmt_time_millis">S</string>
-    <string name="fmt_time_minute">m</string>
-    <string name="fmt_time_minute_second">m:s</string>
-    <string name="fmt_time_minute_second_millis">m:s.S</string>
-    <string name="fmt_time_second">s</string>
-    <string name="fmt_time_second_millis">s.S</string>
-    <string name="fmt_weekday_long">EEEE</string>
-    <string name="fmt_weekday_short">E</string>
     <string name="force_touch_add_alarm">Προσθήκη ξυπνητηριού</string>
     <string name="force_touch_enter_stopwatch">Χρονόμετρο</string>
     <string name="force_touch_enter_timer">Αντίστροφη μέτρηση</string>
     <string name="friday">Παρασκευή</string>
     <string name="friday_short">Παρ</string>
     <string name="friday_shortest">Παρ</string>
+    <string name="full_wday_month_day_no_year">EEEE, d MMMM</string>
     <string name="go_back">Πίσω</string>
     <string name="holiday_update">Υπάρχει μια διαθέσιμη ενημέρωση για τις δημόσιες αργίες</string>
-    <string name="holiday_update_fail">Αδυναμία ενημέρωσης</string>
+    <string name="holiday_update_fail">"Αδυναμία ενημέρωσης"</string>
     <string name="holiday_update_loading">Γίνεται ενημέρωση…</string>
     <string name="holiday_update_success">Όλα τα αντικείμενα είναι πλήρως ενημερωμένα</string>
     <string name="holiday_update_title">Ενημέρωση πληροφοριών σχετικά με τις δημόσιες αργίες</string>
     <string name="hour_unit">Ώρα +</string>
-    <string name="install_weather_app_error">Αδυναμία φόρτωσης εφαρμογής</string>
+    <string name="install_weather_app_error">"Αδυναμία φόρτωσης εφαρμογής"</string>
     <string name="install_weather_app_loading">Περιμένετε μία στιγμή…</string>
     <string name="invalid_time">Μη έγκυρος χρόνος: %3$s %1$d: %2$d</string>
-    <string name="invalid_timer_length">Η διάρκεια του χρονοδιακόπτη δεν είναι έγκυρη</string>
+    <string name="invalid_timer_length">"Η διάρκεια του χρονοδιακόπτη δεν είναι έγκυρη"</string>
     <string name="keep_screen_on">Διατήρηση ενεργής οθόνης</string>
     <string name="korea_permission_calendar">Ημερολόγιο</string>
     <string name="korea_permission_calendar_desc">Για την πρόσβαση σε πληροφορίες συμβάντων και αποστολή υπενθυμίσεων</string>
@@ -261,13 +233,11 @@
     <string name="life_post_wake_up_item_acumu_day_title">Υπολογισμός ημέρας</string>
     <string name="life_post_wake_up_item_percentage_title">Mi θαυμαστές πίσω σας</string>
     <string name="life_post_wake_up_item_time_title">Ώρα αφύπνισης</string>
-    <string name="life_post_wake_up_percentage_sign">%</string>
     <string name="life_post_wake_up_percentage_title">Mi θαυμαστές πίσω σας</string>
     <string name="life_post_wake_up_time_title">Ώρα αφύπνισης</string>
     <string name="life_post_weather_invalid">Πατήστε για να λάβετε πληροφορίες σχετικά με τον καιρό</string>
     <string name="life_post_weather_no_network">Συνδεθείτε στο δίκτυο για ενημέρωση πληροφοριών καιρού</string>
-    <string name="life_post_weather_temperature_centigrade">°</string>
-    <string name="listen_news_privacy">&lt;Data>Για να σας παρέχουμε εξατομικευμένες υπηρεσίες και να συμπεριλάβουμε τις πρωινές ειδήσεις στα ξυπνητήρια σας, το Ρολόι πρέπει να συνδεθεί στο διαδίκτυο. Επίσης, πριν χρησιμοποιήσετε το Ρολόι, πρέπει να διαβάσετε και να συμφωνήσετε με τη &lt;a href=\"%1$s\">Συμφωνία Χρήστη&lt;/a> και την &lt;a href=\"%2$s\">Πολιτική Απορρήτου&lt;/a>. Συμφωνείτε;&lt;/Data></string>
+    <string name="listen_news_privacy">&lt;Data&gt;Για να σας παρέχουμε εξατομικευμένες υπηρεσίες και να συμπεριλάβουμε τις πρωινές ειδήσεις στα ξυπνητήρια σας, το Ρολόι πρέπει να συνδεθεί στο διαδίκτυο. Επίσης, πριν χρησιμοποιήσετε το Ρολόι, πρέπει να διαβάσετε και να συμφωνήσετε με τη &lt;a href=\"%1$s\"&gt;Συμφωνία Χρήστη&lt;/a&gt; και την &lt;a href=\"%2$s\"&gt;Πολιτική Απορρήτου&lt;/a&gt;. Συμφωνείτε;&lt;/Data&gt;</string>
     <string name="loading_ringtone">Φόρτωση ήχου κλήσης…</string>
     <string name="menu_add_worldclock">Προσθήκη ρολογιού</string>
     <string name="menu_desk_clock">Ρολόι</string>
@@ -283,19 +253,22 @@
     <string name="miuix_appcompat_cancel_description">Ακύρωση</string>
     <string name="miuix_appcompat_confirm_description">Επιβεβαίωση</string>
     <string name="miuix_appcompat_delete_description">Διαγραφή</string>
+    <string name="miuix_appcompat_deselect_all">Αποεπιλογή</string>
     <string name="miuix_appcompat_deselect_all_description">Αποεπιλογή όλων</string>
     <string name="miuix_appcompat_search_action_mode_cancel">Ακύρωση</string>
     <string name="miuix_appcompat_search_input_description">Αναζήτηση</string>
+    <string name="miuix_appcompat_select_all">Επιλογή όλων</string>
     <string name="miuix_appcompat_select_all_description">Επιλογή όλων</string>
+    <string name="miuix_appcompat_select_item">Επιλογή στοιχείων</string>
     <string name="miuix_sbl_tracking_progress_labe_pull_to_refresh">Τραβήξτε προς τα κάτω για ανανέωση</string>
     <string name="miuix_sbl_tracking_progress_labe_refreshed">Επιτυχής ανανέωση</string>
     <string name="miuix_sbl_tracking_progress_labe_refreshing">Γίνεται ανανέωση…</string>
     <string name="miuix_sbl_tracking_progress_labe_release_to_refresh">Αφήστε για ανανέωση</string>
-    <string name="miuix_sbl_tracking_progress_labe_up_nodata">Αυτά προς το παρόν</string>
-    <string name="miuix_sbl_tracking_progress_labe_up_none">Αυτά προς το παρόν</string>
+    <string name="miuix_sbl_tracking_progress_labe_up_nodata">"Αυτά προς το παρόν"</string>
+    <string name="miuix_sbl_tracking_progress_labe_up_none">"Αυτά προς το παρόν"</string>
     <string name="miuix_sbl_tracking_progress_labe_up_refresh">Μια στιγμή…</string>
-    <string name="miuix_sbl_tracking_progress_labe_up_refresh_fail">Αδυναμία λήψης αντικειμένων</string>
-    <string name="module_dialog_negative">Δεν αποδέχομαι</string>
+    <string name="miuix_sbl_tracking_progress_labe_up_refresh_fail">"Αδυναμία λήψης αντικειμένων"</string>
+    <string name="module_dialog_negative">"Δεν αποδέχομαι"</string>
     <string name="module_dialog_neutral">Κατάλαβα</string>
     <string name="module_dialog_positive">Αποδοχή</string>
     <string name="module_download_cancel">Όχι ευχαριστώ</string>
@@ -303,8 +276,8 @@
     <string name="module_download_data_msg_golbal">Το ρολόι απαιτεί τη λήψη αρχείων ήχου για τους έξυπνους συναγερμούς MIUI. Απαιτούνται ≈20MB των δεδομένων κινητής τηλεφωνίας σας για τη λήψη αυτή. Λήψη τώρα;</string>
     <string name="module_download_data_msg_replace">Υπάρχει διαθέσιμη ενημέρωση για τους έξυπνους συναγερμούς MIUI. Απαιτούνται ≈20MB των δεδομένων κινητής τηλεφωνίας σας για τη λήψη αυτή. Λήψη τώρα;</string>
     <string name="module_download_data_msg_timer">Το ρολόι απαιτεί τη λήψη αρχείων ήχου για τους χρονοδιακόπτες θορύβων περιβάλλοντος. Απαιτούνται ≈20MB των δεδομένων κινητής τηλεφωνίας σας για τη λήψη αυτή. Λήψη τώρα;</string>
-    <string name="module_download_fail">Αδυναμία λήψης πρόσθετου ήχου</string>
-    <string name="module_download_failure">Αδυναμία λήψης ήχου. Ελέγξτε τις ρυθμίσεις δικτύου και προσπαθήστε ξανά.</string>
+    <string name="module_download_fail">"Αδυναμία λήψης πρόσθετου ήχου"</string>
+    <string name="module_download_failure">"Αδυναμία λήψης ήχου. Ελέγξτε τις ρυθμίσεις δικτύου και προσπαθήστε ξανά."</string>
     <string name="module_download_msg">Για να είναι διαθέσιμοι οι έξυπνοι συναγερμοί MIUI, το Ρολόι χρειάζεται να κάνει λήψη αρχείων ήχου. Οι έξυπνοι συναγερμοί περιέχουν λειτουργίες ήχου που επιτρέπουν να συμπεριληφθούν οι τρέχουσες πληροφορίες καιρού στους συναγερμούς. Λήψη τώρα;</string>
     <string name="module_download_msg_golbal">Το ρολόι απαιτεί τη λήψη αρχείων ήχου για τα MIUI έξυπνα ξυπνητήρια. Λήψη τώρα;</string>
     <string name="module_download_msg_replace">Ο ενημερωμένος ήχος για τους MIUI έξυπνους συναγερμούς είναι διαθέσιμος. Λήψη τώρα;</string>
@@ -318,24 +291,24 @@
     <string name="module_update_success">Ο ενημερωμένος ήχος για έξυπνους συναγερμούς MIUI λήφθηκε με επιτυχία. Μπορείτε να ορίσετε έξυπνους συναγερμούς MIUI στις ρυθμίσεις Ρολόι.</string>
     <string name="module_update_success_control">Κατανοητό</string>
     <string name="module_weather_ringtone_download_data">Η Ειδοποίηση καιρού επιλέγει διαφορετικούς ήχους κλήσης σύμφωνα με τις τρέχουσες καιρικές συνθήκες. Το Ρολόι χρειάζεται ≈30MB ήχου για να λειτουργεί. Λήψη τώρα;</string>
-    <string name="module_weather_ringtone_download_data_privacy">&lt;Data>Η Ειδοποίηση καιρού επιλέγει διαφορετικούς ήχους κλήσης σύμφωνα με τις τρέχουσες καιρικές συνθήκες. Το Ρολόι πρέπει να συνδεθεί στο διαδίκτυο για να πραγματοποιήσει λήψη ≈30MB ήχου. Επίσης, πριν χρησιμοποιήσετε το Ρολόι, πρέπει να διαβάσετε και να συμφωνήσετε με τη &lt;a href=\"%1$s\">Συμφωνία Χρήστη&lt;/a> και τη &lt;a href=\"%2$s\">Πολιτική Απορρήτου&lt;/a>. Αποδοχή;&lt;/Data></string>
+    <string name="module_weather_ringtone_download_data_privacy">&lt;Data&gt;Η Ειδοποίηση καιρού επιλέγει διαφορετικούς ήχους κλήσης σύμφωνα με τις τρέχουσες καιρικές συνθήκες. Το Ρολόι πρέπει να συνδεθεί στο διαδίκτυο για να πραγματοποιήσει λήψη ≈30MB ήχου. Επίσης, πριν χρησιμοποιήσετε το Ρολόι, πρέπει να διαβάσετε και να συμφωνήσετε με τη &lt;a href=\"%1$s\"&gt;Συμφωνία Χρήστη&lt;/a&gt; και τη &lt;a href=\"%2$s\"&gt;Πολιτική Απορρήτου&lt;/a&gt;. Αποδοχή;&lt;/Data&gt;</string>
     <string name="module_weather_ringtone_download_wifi">Η Ειδοποίηση καιρού επιλέγει διαφορετικούς ήχους κλήσης σύμφωνα με τις τρέχουσες καιρικές συνθήκες. Το Ρολόι πρέπει να πραγματοποιήσει λήψη ήχου για να λειτουργεί. Λήψη τώρα;</string>
-    <string name="module_weather_ringtone_download_wifi_privacy">&lt;Data>Η Ειδοποίηση καιρού επιλέγει διαφορετικούς ήχους κλήσης σύμφωνα με τις τρέχουσες καιρικές συνθήκες. Το Ρολόι πρέπει να συνδεθεί στο διαδίκτυο για να πραγματοποιήσει λήψη ήχου. Επίσης, πριν χρησιμοποιήσετε το Ρολόι, πρέπει να διαβάσετε και να συμφωνήσετε με τη &lt;a href=\"%1$s\">Συμφωνία Χρήστη&lt;/a> και τη &lt;a href=\"%2$s\">Πολιτική Απορρήτου&lt;/a>. Αποδοχή;&lt;/Data></string>
+    <string name="module_weather_ringtone_download_wifi_privacy">&lt;Data&gt;Η Ειδοποίηση καιρού επιλέγει διαφορετικούς ήχους κλήσης σύμφωνα με τις τρέχουσες καιρικές συνθήκες. Το Ρολόι πρέπει να συνδεθεί στο διαδίκτυο για να πραγματοποιήσει λήψη ήχου. Επίσης, πριν χρησιμοποιήσετε το Ρολόι, πρέπει να διαβάσετε και να συμφωνήσετε με τη &lt;a href=\"%1$s\"&gt;Συμφωνία Χρήστη&lt;/a&gt; και τη &lt;a href=\"%2$s\"&gt;Πολιτική Απορρήτου&lt;/a&gt;. Αποδοχή;&lt;/Data&gt;</string>
     <string name="module_weather_ringtone_introduce">Η Ειδοποίηση καιρού επιλέγει διαφορετικούς ήχους κλήσης σύμφωνα με τις καιρικές συνθήκες. Επίσης, σας επιτρέπει να ακούτε τις τρέχουσες πληροφορίες καιρού το πρωί.</string>
     <string name="module_weather_ringtone_introduce_global">Η Ειδοποίηση καιρού επιλέγει διαφορετικούς ήχους κλήσης σύμφωνα με τις τρέχουσες καιρικές συνθήκες.</string>
     <string name="module_weather_ringtone_update_data">Η Ειδοποίηση καιρού έρχεται με μουσική υπόκρουση και καλύτερες φωνητικές ανακοινώσεις. Το Ρολόι πρέπει να πραγματοποιήσει λήψη ≈30MB ήχου για να λειτουργήσει. Λήψη τώρα;</string>
     <string name="module_weather_ringtone_update_success">Η Ειδοποίηση καιρού τώρα έρχεται με μουσική υπόκρουση και καλύτερες φωνητικές ανακοινώσεις. Μπορείτε να δημιουργήσετε νέο ξυπνητήρι για να δοκιμάσετε αυτή τη λειτουργία.</string>
     <string name="module_week_ringtone_download_data">Το Ξυπνητήρι με ήχους φύσης παίζει διαφορετικούς ήχους ανάλογα με την ημερομηνία. Το Ρολόι πρέπει να πραγματοποιήσει λήψη ≈30MB ήχου για να λειτουργήσει. Λήψη τώρα;</string>
-    <string name="module_week_ringtone_download_data_privacy">&lt;Data>Το Ξυπνητήρι με ήχους φύσης παίζει διαφορετικούς ήχους ανάλογα με την ημερομηνία. Το Ρολόι πρέπει να πραγματοποιήσει λήψη ≈30MB ήχου για να λειτουργήσει. Πριν χρησιμοποιήσετε το Ρολόι, πρέπει επίσης να διαβάσετε και να συμφωνήσετε με τη &lt;a href=\"%1$s\">Συμφωνία Χρήστη&lt;/a> και την &lt;a href=\"%2$s\">Πολιτική Απορρήτου&lt;/a>. Αποδοχή;&lt;/Data></string>
+    <string name="module_week_ringtone_download_data_privacy">&lt;Data&gt;Το Ξυπνητήρι με ήχους φύσης παίζει διαφορετικούς ήχους ανάλογα με την ημερομηνία. Το Ρολόι πρέπει να πραγματοποιήσει λήψη ≈30MB ήχου για να λειτουργήσει. Πριν χρησιμοποιήσετε το Ρολόι, πρέπει επίσης να διαβάσετε και να συμφωνήσετε με τη &lt;a href=\"%1$s\"&gt;Συμφωνία Χρήστη&lt;/a&gt; και την &lt;a href=\"%2$s\"&gt;Πολιτική Απορρήτου&lt;/a&gt;. Αποδοχή;&lt;/Data&gt;</string>
     <string name="module_week_ringtone_download_wifi">Το Ξυπνητήρι με ήχους φύσης παίζει διαφορετικούς ήχους ανάλογα με την ημερομηνία. Το Ρολόι πρέπει να πραγματοποιήσει λήψη ήχου για να λειτουργήσει. Λήψη τώρα;</string>
-    <string name="module_week_ringtone_download_wifi_privacy">&lt;Data>Το Ξυπνητήρι με ήχους φύσης παίζει διάφορους ήχους ανάλογα με την ημερομηνία. Το Ρολόι πρέπει να συνδεθεί στο ίντερνετ και να πραγματοποιήσει λήψη ήχου. Πριν χρησιμοποιήσετε το Ρολόι, πρέπει επίσης να διαβάσετε και να συμφωνήσετε με τη &lt;a href=\"%1$s\">Συμφωνία Χρήστη&lt;/a> και την &lt;a href=\"%2$s\">Πολιτική Απορρήτου&lt;/a>. Αποδοχή;&lt;/Data></string>
+    <string name="module_week_ringtone_download_wifi_privacy">&lt;Data&gt;Το Ξυπνητήρι με ήχους φύσης παίζει διάφορους ήχους ανάλογα με την ημερομηνία. Το Ρολόι πρέπει να συνδεθεί στο ίντερνετ και να πραγματοποιήσει λήψη ήχου. Πριν χρησιμοποιήσετε το Ρολόι, πρέπει επίσης να διαβάσετε και να συμφωνήσετε με τη &lt;a href=\"%1$s\"&gt;Συμφωνία Χρήστη&lt;/a&gt; και την &lt;a href=\"%2$s\"&gt;Πολιτική Απορρήτου&lt;/a&gt;. Αποδοχή;&lt;/Data&gt;</string>
     <string name="module_week_ringtone_introduce">Το Ξυπνητήρι με ήχους φύσης παίζει διαφορετικούς ήχους ανάλογα με την ημερομηνία.</string>
     <string name="module_week_ringtone_update_data">Το Ξυπνητήρι με ήχους φύσης παίζει διαφορετικούς ήχους ανάλογα με την ημερομηνία. Το Ρολόι πρέπει να πραγματοποιήσει λήψη ≈30MB ήχου για να λειτουργήσει. Λήψη τώρα;</string>
     <string name="module_week_ringtone_update_success">Το Ξυπνητήρι με ήχους φύσης παίζει διαφορετικούς ήχους ανάλογα με την ημερομηνία. Μπορείτε να δημιουργήσετε νέο ξυπνητήρι για να δοκιμάσετε αυτή τη λειτουργία.</string>
     <string name="module_white_noise_download_data">Το ρολόι απαιτεί τη λήψη αρχείων ήχου για τους χρονοδιακόπτες θορύβων περιβάλλοντος. Απαιτούνται ≈30MB των δεδομένων κινητής τηλεφωνίας σας για τη λήψη αυτή. Λήψη τώρα;</string>
-    <string name="module_white_noise_download_data_privacy">&lt;Data>Για να πραγματοποιήσετε λήψη αρχείων ήχου για τους χρονοδιακόπτες θορύβου περιβάλλοντος (≈30MB) και για να σας παρέχουμε εξατομικευμένες υπηρεσίες, το Ρολόι πρέπει να συνδεθεί στο διαδίκτυο. Επίσης, πριν χρησιμοποιήσετε το Ρολόι, πρέπει να διαβάσετε και να συμφωνήσετε με τη &lt;a href=\"%1$s\">Συμφωνία Χρήστη&lt;/a> και την &lt;a href=\"%2$s\">Πολιτική Απορρήτου&lt;/a>. Αυτή τη στιγμή χρησιμοποιείτε δεδομένα κινητής τηλεφωνίας. Αποδοχή;&lt;/Data></string>
+    <string name="module_white_noise_download_data_privacy">&lt;Data&gt;Για να πραγματοποιήσετε λήψη αρχείων ήχου για τους χρονοδιακόπτες θορύβου περιβάλλοντος (≈30MB) και για να σας παρέχουμε εξατομικευμένες υπηρεσίες, το Ρολόι πρέπει να συνδεθεί στο διαδίκτυο. Επίσης, πριν χρησιμοποιήσετε το Ρολόι, πρέπει να διαβάσετε και να συμφωνήσετε με τη &lt;a href=\"%1$s\"&gt;Συμφωνία Χρήστη&lt;/a&gt; και την &lt;a href=\"%2$s\"&gt;Πολιτική Απορρήτου&lt;/a&gt;. Αυτή τη στιγμή χρησιμοποιείτε δεδομένα κινητής τηλεφωνίας. Αποδοχή;&lt;/Data&gt;</string>
     <string name="module_white_noise_download_wifi">Το ρολόι απαιτεί τη λήψη αρχείων ήχου για τους χρονοδιακόπτες θορύβων περιβάλλοντος. Λήψη τώρα;</string>
-    <string name="module_white_noise_download_wifi_privacy">&lt;Data>Για να πραγματοποιήσετε λήψη αρχείων ήχου για τους χρονοδιακόπτες θορύβου περιβάλλοντος και για να σας παρέχουμε εξατομικευμένες υπηρεσίες, το Ρολόι πρέπει να συνδεθεί στο διαδίκτυο. Επίσης, πριν χρησιμοποιήσετε το Ρολόι, πρέπει να διαβάσετε και να συμφωνήσετε με τη &lt;a href=\"%1$s\">Συμφωνία Χρήστη&lt;/a> και τη &lt;a href=\"%2$s\">Πολιτική Απορρήτου&lt;/a> Αποδοχή;&lt;/Data></string>
+    <string name="module_white_noise_download_wifi_privacy">&lt;Data&gt;Για να πραγματοποιήσετε λήψη αρχείων ήχου για τους χρονοδιακόπτες θορύβου περιβάλλοντος και για να σας παρέχουμε εξατομικευμένες υπηρεσίες, το Ρολόι πρέπει να συνδεθεί στο διαδίκτυο. Επίσης, πριν χρησιμοποιήσετε το Ρολόι, πρέπει να διαβάσετε και να συμφωνήσετε με τη &lt;a href=\"%1$s\"&gt;Συμφωνία Χρήστη&lt;/a&gt; και τη &lt;a href=\"%2$s\"&gt;Πολιτική Απορρήτου&lt;/a&gt; Αποδοχή;&lt;/Data&gt;</string>
     <string name="monday">Δευτέρα</string>
     <string name="monday_short">Δευ</string>
     <string name="monday_shortest">Δευ</string>
@@ -381,10 +354,10 @@
     <string name="more_setting">Περισσότερες ρυθμίσεις</string>
     <string name="more_settings">Ρυθμίσεις</string>
     <string name="morning">Πρωί</string>
-    <string name="net_permission_cancel">Δεν συμφωνώ</string>
+    <string name="net_permission_cancel">"Δεν συμφωνώ"</string>
     <string name="net_permission_ok">Συμφωνώ</string>
-    <string name="network_privacy">&lt;Data>Για να λαμβάνετε πληροφορίες σχετικά με τις τοπικές δημόσιες αργίες και να προσαρμόσετε τα ξυπνητήρια, το Ρολόι πρέπει να συνδεθεί στο διαδίκτυο. Επίσης, πριν χρησιμοποιήσετε το Ρολόι, πρέπει να διαβάσετε και να συμφωνήσετε με τη &lt;a href=\"%1$s\">Συμφωνία Χρήστη&lt;/a> και την &lt;a href=\"%2$s\">Πολιτική Απορρήτου&lt;/a>. Συμφωνείτε;&lt;/Data></string>
-    <string name="network_privacy_global">&lt;Data>Για να σας παρέχουμε εξατομικευμένες υπηρεσίες, το Ρολόι πρέπει να συνδεθεί στο διαδίκτυο. Επίσης, πριν χρησιμοποιήσετε το Ρολόι, πρέπει να διαβάσετε και να συμφωνήσετε με τη &lt;a href=\"%1$s\">Συμφωνία Χρήστη&lt;/a> και τη &lt;a href=\"%2$s\">Πολιτική Απορρήτου&lt;/a>. Συμφωνείτε;&lt;/Data></string>
+    <string name="network_privacy">&lt;Data&gt;Για να λαμβάνετε πληροφορίες σχετικά με τις τοπικές δημόσιες αργίες και να προσαρμόσετε τα ξυπνητήρια, το Ρολόι πρέπει να συνδεθεί στο διαδίκτυο. Επίσης, πριν χρησιμοποιήσετε το Ρολόι, πρέπει να διαβάσετε και να συμφωνήσετε με τη &lt;a href=\"%1$s\"&gt;Συμφωνία Χρήστη&lt;/a&gt; και την &lt;a href=\"%2$s\"&gt;Πολιτική Απορρήτου&lt;/a&gt;. Συμφωνείτε;&lt;/Data&gt;</string>
+    <string name="network_privacy_global">&lt;Data&gt;Για να σας παρέχουμε εξατομικευμένες υπηρεσίες, το Ρολόι πρέπει να συνδεθεί στο διαδίκτυο. Επίσης, πριν χρησιμοποιήσετε το Ρολόι, πρέπει να διαβάσετε και να συμφωνήσετε με τη &lt;a href=\"%1$s\"&gt;Συμφωνία Χρήστη&lt;/a&gt; και τη &lt;a href=\"%2$s\"&gt;Πολιτική Απορρήτου&lt;/a&gt;. Συμφωνείτε;&lt;/Data&gt;</string>
     <string name="never">Μία φορά</string>
     <string name="new_label">Προσθήκη ετικέτας αφύπνισης</string>
     <string name="night">Βράδυ</string>
@@ -400,20 +373,14 @@
     <string name="other_category_title">Άλλα</string>
     <string name="other_settings">Επιπρόσθετες ρυθμίσεις</string>
     <string name="pause">Παύση</string>
-    <string name="percentage_sign">%</string>
     <string name="personal_recommend">Εξατομικευμένες πρότασεις περιεχομένων</string>
     <string name="pm">ΜΜ</string>
     <string name="preference_copied">Το \"%1$s\" αντιγράφηκε στο πρόχειρο.</string>
     <string name="privacy_policy">Πολιτική Απορρήτου</string>
     <string name="privacy_policy_title">Πολιτική Απορρήτου</string>
-    <string name="reach_upper_limit">Αδυναμία προσθήκης περισσότερων χρονοδιακοπτών</string>
+    <string name="reach_upper_limit">"Αδυναμία προσθήκης περισσότερων χρονοδιακοπτών"</string>
     <string name="remind_ringtone">Ήχος κλήσης</string>
     <string name="repeat_count">Φορές</string>
-    <string name="repeat_count_value_five">5</string>
-    <string name="repeat_count_value_one">1</string>
-    <string name="repeat_count_value_ten">10</string>
-    <string name="repeat_count_value_three">3</string>
-    <string name="repeat_count_value_two">2</string>
     <string name="reset">Επαναφορά</string>
     <string name="revert">Επαναστροφή</string>
     <string name="ringtone_all">Όλοι οι ήχοι κλήσης</string>
@@ -433,6 +400,7 @@
     <string name="search_stopwatch_keywords">Χρονόμετρο</string>
     <string name="search_timer_keywords">Χρονοδιακόπτης</string>
     <string name="search_worldclock_keywords">Ώρα;Παγκόσμια ώρα;Ρολόι</string>
+    <string name="send">Αποστολή</string>
     <string name="set_alarm">Επιλογή χρόνου</string>
     <string name="set_alarm_choose_ringtone">Επιλογή ήχου κλήσης</string>
     <string name="set_alarm_done">Τέλος</string>
@@ -445,11 +413,11 @@
     <string name="shortcut_new_alarm">Ορισμός ξυπνητηριού</string>
     <string name="shortcut_start_timer">Έναρξη χρονοδιακόπτη</string>
     <string name="shortcut_stop_watch">Έναρξη χρονομέτρου</string>
-    <string name="shut_down_keep_screen">Η οθόνη δεν θα παραμείνει ενεργή</string>
+    <string name="shut_down_keep_screen">"Η οθόνη δεν θα παραμείνει ενεργή"</string>
     <string name="shutdown_alarm_alert_enable_summary">Η απενεργοποίηση αφυπνίσεων θα ενεργοποιηθεί τουλάχιστον 10 λεπτά μετά από την απενεργοποίηση της συσκευής σας</string>
     <string name="shutdown_alarm_alert_title">Απενεργοποίηση ξυπνητηριού</string>
-    <string name="shutdown_alarm_disable_summary">Ο συναγερμός δεν θα ηχήσει αφού απενεργοποιηθεί η συσκευή</string>
-    <string name="shutdown_alarm_enable_summary">Ο συναγερμός θα ηχήσει εάν είναι ρυθμισμένος για τουλάχιστον 10 λεπτά μετά την απενεργοποίηση της συσκευής σας</string>
+    <string name="shutdown_alarm_disable_summary">"Ο συναγερμός δεν θα ηχήσει αφού απενεργοποιηθεί η συσκευή"</string>
+    <string name="shutdown_alarm_enable_summary">"Ο συναγερμός θα ηχήσει εάν είναι ρυθμισμένος για τουλάχιστον 10 λεπτά μετά την απενεργοποίηση της συσκευής σας"</string>
     <string name="shutdown_alarm_title">Απενεργοποίηση ξυπνητηριού</string>
     <string name="silent_alarm_summary">Αθόρυβο</string>
     <string name="skip_alarm_once_hint">Απενεργοποίηση μία φορά σε %s</string>
@@ -461,8 +429,6 @@
     <string name="sleep_duration_desc">Κοιμήθηκε %1$s %2$s</string>
     <string name="sleep_duration_no_data">Δεν υπάρχουν αρκετά δεδομένα ακόμη</string>
     <string name="sleep_duration_recommendation">Οι περισσότεροι άνθρωποι χρειάζονται 7 έως 9 ώρες ύπνου τη νύχτα</string>
-    <string name="sleep_duration_text">%1$s %2$s</string>
-    <string name="sleep_duration_text_avg">%1$s %2$s</string>
     <string name="sleep_no_disturbance">Λειτουργία DND</string>
     <string name="sleep_no_disturbance_desc">Εναλλαγή σε λειτουργία DND μέχρι να ξυπνήσετε</string>
     <string name="sleep_no_record_text">Αρχίστε να παρακολουθείτε τον ύπνο σας για προβολή στατιστικών στοιχείων</string>
@@ -481,24 +447,43 @@
     <string name="snooze_duration_text">%1$s | %2$s</string>
     <string name="snooze_duration_title">Αναβολή</string>
     <string name="snooze_duration_value">Χρονικό διάστημα (λεπτά)</string>
-    <string name="snooze_duration_value_fifteen">15</string>
-    <string name="snooze_duration_value_five">5</string>
-    <string name="snooze_duration_value_one">1</string>
-    <string name="snooze_duration_value_ten">10</string>
-    <string name="snooze_duration_value_thirty">30</string>
-    <string name="snooze_duration_value_twenty">20</string>
-    <string name="snooze_duration_value_twenty_five">25</string>
+    <string name="solar_term_autumn_begins">Το φθινόπωρο ξεκινά</string>
+    <string name="solar_term_autumn_equinox">Ισημερινού φθινοπώρου</string>
+    <string name="solar_term_clear_and_bright">Καθαρό και φωτεινό</string>
+    <string name="solar_term_cold_dews">Cold dews</string>
+    <string name="solar_term_grain_buds">Αναπλήρωση πλασμάτων</string>
+    <string name="solar_term_grain_in_ear">Σπόροι κεχριμπαριού</string>
+    <string name="solar_term_grain_rain">Βροχή σιταριού</string>
+    <string name="solar_term_great_cold">Σοβαρό κρύο</string>
+    <string name="solar_term_great_heat">Μεγάλη θερμότητα</string>
+    <string name="solar_term_heavy_snow">Ισχυρή χιονόπτωση</string>
+    <string name="solar_term_hoar_frost_falls">Παγετός</string>
+    <string name="solar_term_insects_awaken">Τα έντομα ξυπνήθηκαν</string>
+    <string name="solar_term_light_snow">Ελαφριά χιονόπτωση</string>
+    <string name="solar_term_slight_cold">Μέτριο κρύο</string>
+    <string name="solar_term_slight_heat">Μέτρια θερμότητα</string>
+    <string name="solar_term_spring_begins">Η άνοιξη ξεκινά</string>
+    <string name="solar_term_stopping_the_heat">Ανάκληση θερμότητας</string>
+    <string name="solar_term_summer_begins">Το καλοκαίρι ξεκινά</string>
+    <string name="solar_term_summer_solstice">Θερινό ηλιοστάσιο</string>
+    <string name="solar_term_the_rains">Ανοιξιάτικα ντους</string>
+    <string name="solar_term_vernal_equinox">Vernal equinox</string>
+    <string name="solar_term_white_dews">Dews</string>
+    <string name="solar_term_winter_begins">Ο χειμώνας αρχίζει</string>
+    <string name="solar_term_winter_solstice">Χειμερινό ηλιοστάσιο</string>
     <string name="star_wy_alarm_speech">Συναντήστε τον Roy Wang</string>
     <string name="start">Εκκίνηση</string>
     <string name="start_up">Εκκίνηση</string>
-    <string name="status_bar_clock_date_time_format">H:mm:ss</string>
-    <string name="status_bar_clock_date_time_format_12">h:mm:ss aa</string>
-    <string name="status_bar_clock_date_time_format_seconds_12">h:mm:ss</string>
+    <string name="stat_repeat_everyday">每天</string>
+    <string name="stat_repeat_legal_off_day">法定节假日</string>
+    <string name="stat_repeat_legal_workday">法定工作日</string>
+    <string name="stat_repeat_none">一次性</string>
+    <string name="stat_repeat_self_define">自定义</string>
+    <string name="stat_repeat_weekends">周末</string>
     <string name="stopwatch_lap_empty_text">Δεν υπάρχουν γύροι</string>
     <string name="stopwatch_reset_notification">Έγινε επαναφορά του χρονοδιακόπτη</string>
     <string name="stopwatch_running_notification">Χρονόμετρο</string>
     <string name="stopwatch_title">Χρονόμετρο</string>
-    <string name="summary_collapsed_preference_list">%1$s, %2$s</string>
     <string name="sunday">Κυριακή</string>
     <string name="sunday_short">Κυρ</string>
     <string name="sunday_shortest">Κυρ</string>
@@ -507,13 +492,12 @@
     <string name="system_permission_purpose">Δημιουργία ξυπνητηριών εργάσιμων ημερών και ρύθμιση προσαρμοσμένων ήχων κλήσης</string>
     <string name="system_time_setting">Ρυθμίσεις</string>
     <string name="system_time_settings_category_title">Ρυθμίσεις ώρας</string>
-    <string name="temperature_unit">℃</string>
     <string name="the_anniversary_of_lifting_martial_law">Επέτειος Άρσης του Στρατιωτικού Νόμου</string>
     <string name="the_anti_aggression_day">Ημέρα κατά της Εχθρότητας</string>
     <string name="the_arbor_day">Ημέρα του Δέντρου</string>
     <string name="the_armed_forces_day">Ημέρα των Ενόπλων Δυνάμεων</string>
     <string name="the_armys_day">Ημέρα του Λαϊκού Απελευθερωτικού Στρατού</string>
-    <string name="the_childrens_day">Ημέρα των Παιδιών</string>
+    <string name="the_childrens_day">"Ημέρα των Παιδιών"</string>
     <string name="the_chinese_youth_day">Ημέρα της Νεολαίας</string>
     <string name="the_christmas_day">Χριστούγεννα</string>
     <string name="the_double_ninth_festival">Γιορτή Double Ninth</string>
@@ -521,16 +505,16 @@
     <string name="the_easter_day">Πάσχα</string>
     <string name="the_eve_of_the_spring_festival">Παραμονή του Κινεζικού νέου έτους</string>
     <string name="the_fifth_day">Πέμπτη ημέρα του Κινεζικού νέου έτους</string>
-    <string name="the_fools_day">Πρωταπριλιά</string>
+    <string name="the_fools_day">"Πρωταπριλιά"</string>
     <string name="the_forth_day">Τέταρτη ημέρα του Κινεζικού νέου έτους</string>
     <string name="the_hksar_establishment_day">Ημέρα Ίδρυσης της Ειδικής Διοικητικής Περιφέρειας του Χονγκ Κονγκ</string>
-    <string name="the_international_womens_day">Ημέρα της Γυναίκας</string>
+    <string name="the_international_womens_day">"Ημέρα της Γυναίκας"</string>
     <string name="the_laba_festival">Γιορτή Laba</string>
     <string name="the_labour_day">Ημέρα των Εργατών</string>
     <string name="the_lantern_festival">Η γιορτή των φαναριών</string>
     <string name="the_mid_autumn_festival">Γιορτή συγκομιδής</string>
     <string name="the_national_day">Γιορτή του Έθνους</string>
-    <string name="the_national_father_day">Ημέρα γέννησης του Sun Yat-sen</string>
+    <string name="the_national_father_day">"Ημέρα γέννησης του Sun Yat-sen"</string>
     <string name="the_new_years_day">Νέο Έτος</string>
     <string name="the_night_of_sevens">Γιορτή Qixi</string>
     <string name="the_partys_day">Ημέρα Ίδρυσης του Κομμουνιστικού Κόμματος της Κίνας</string>
@@ -541,29 +525,27 @@
     <string name="the_sixth_day">Έκτη ημέρα του Κινεζικού νέου έτους</string>
     <string name="the_spirit_festival">Γιορτή των Πνευμάτων</string>
     <string name="the_spring_festival">Κινεζικό νέο έτος</string>
-    <string name="the_teachers_day">Ημέρα των δασκάλων</string>
+    <string name="the_teachers_day">"Ημέρα των δασκάλων"</string>
     <string name="the_third_day">Τρίτη ημέρα του Κινεζικού νέου έτους</string>
-    <string name="the_tw_childrens_day">Ημέρα των Παιδιών</string>
+    <string name="the_tw_childrens_day">"Ημέρα των Παιδιών"</string>
     <string name="the_tw_youth_day">Ημέρα της Νεολαίας</string>
     <string name="the_united_nations_day">Ημέρα των Ηνωμένων Εθνών</string>
-    <string name="the_valentines_day">Γιορτή των Ερωτευμένων</string>
+    <string name="the_valentines_day">"Γιορτή των Ερωτευμένων"</string>
     <string name="the_water_lantern_festival">Γιορτή Φαναριών Νερού</string>
     <string name="thursday">Πέμπτη</string>
     <string name="thursday_short">Πεμ</string>
     <string name="thursday_shortest">Πεμ</string>
     <string name="time">Χρόνος</string>
-    <string name="time_picker_colon">:</string>
     <string name="time_picker_dialog_title">Ορισμός χρόνου</string>
     <string name="time_picker_label_hour">Ω</string>
     <string name="time_picker_label_minute">Λ</string>
     <string name="time_picker_label_second">Δ</string>
     <string name="time_settings">Ρυθμίσεις Ρολογιού</string>
-    <string name="timer_alarm_alert_pad">%s</string>
     <string name="timer_alarm_cancel_pad">Αγγίξτε την οθόνη για σίγαση</string>
     <string name="timer_alarm_dot_matrix_label">ΧΡΟΝΟΜΕΤΡΟ</string>
     <string name="timer_alert_alert_silenced">Ο χρονοδιακόπτης σίγασε μετά από %1$s.</string>
     <string name="timer_alert_mute_off">Ο συναγερμός θα ηχεί όταν το χρονόμετρο σταματά</string>
-    <string name="timer_alert_mute_on">Ο συναγερμός δεν ηχεί όταν το χρονόμετρο σταματά</string>
+    <string name="timer_alert_mute_on">"Ο συναγερμός δεν ηχεί όταν το χρονόμετρο σταματά"</string>
     <string name="timer_alert_mute_remind">Πατήστε για σίγαση συναγερμού</string>
     <string name="timer_alert_mute_switch">Διακόπτης σίγασης συναγερμών χρονομέτρου</string>
     <string name="timer_alert_type_beach">Παραλία</string>
@@ -596,10 +578,10 @@
     <string name="timer_pause_timer">Παύση αντίστροφης μέτρησης</string>
     <string name="timer_ringtone">Ήχος κλήσης χρονόμετρου</string>
     <string name="timer_running">Το χρονόμετρο τρέχει</string>
-    <string name="timer_start_alarm">Ο χρόνος τελείωσε!</string>
+    <string name="timer_start_alarm">"Ο χρόνος τελείωσε!"</string>
     <string name="timer_start_timer">Έναρξη αντίστροφης μέτρησης</string>
     <string name="timer_title">Αντίστροφη μέτρηση</string>
-    <string name="timezone_exist_error_message">Αυτή η ζώνη ώρας χρησιμοποιείται ήδη</string>
+    <string name="timezone_exist_error_message">"Αυτή η ζώνη ώρας χρησιμοποιείται ήδη"</string>
     <string name="today">Σήμερα</string>
     <string name="tomorrow">Αύριο</string>
     <string name="tuesday">Τρίτη</string>
@@ -617,10 +599,14 @@
     <string name="user_agreement">Συμφωνία Χρήστη</string>
     <string name="v7_preference_off">ΑΝΕΝΕΡΓΗ</string>
     <string name="v7_preference_on">ΕΝΕΡΓΗ</string>
+    <string name="version_update_dialog_negative_desc">Όχι τώρα</string>
+    <string name="version_update_dialog_positive_desc">Ενημέρωση</string>
+    <string name="version_update_dialog_title">Υπάρχει διαθέσιμη ενημέρωση</string>
     <string name="vibrate_pref_summary">Δόνηση κατά την αφύπνιση</string>
     <string name="vibrate_when_ringing">Δόνηση κατά το κουδούνισμα</string>
+    <string name="voice_add_alarm">Προσθήκη ξυπνητηριού χρησιμοποιώντας μια φωνητική εντολή</string>
     <string name="volume_button_setting_desc">Ανάθεση λειτουργιών για τα κουμπιά Ενεργοποίησης και +/- Έντασης</string>
-    <string name="volume_button_setting_summary">Ορισμός λειτουργίας κουμπιών έντασης κατά την αφύπνιση</string>
+    <string name="volume_button_setting_summary">"Ορισμός λειτουργίας κουμπιών έντασης κατά την αφύπνιση"</string>
     <string name="volume_button_setting_title">Κουμπιά έντασης</string>
     <string name="wake_up_alert">Ξυπνητήρι</string>
     <string name="wake_up_alert_desc">Αναπαραγωγή του ήχου ξυπνητηριού την ώρα ενεργοποίησης</string>
@@ -647,5 +633,8 @@
     <string name="worldcolock_timezone_date">dd MMM</string>
     <string name="worldcolock_timezone_gap">%s Ώ</string>
     <string name="worldcolock_timezone_local">Το ίδιο με τοπική ώρα</string>
+    <string name="xiaomi_market_sdk_update_dialog_cancel">Όχι τώρα</string>
+    <string name="xiaomi_market_sdk_update_dialog_ok">Ενημέρωση</string>
+    <string name="xiaomi_market_sdk_update_dialog_title">Υπάρχει διαθέσιμη ενημέρωση</string>
     <string name="yesterday">Χθες</string>
 </resources>

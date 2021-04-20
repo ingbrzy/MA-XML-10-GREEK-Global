@@ -1,36 +1,36 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <plurals name="a_hour_ago">
-        <item quantity="other">1 ώρα πριν</item>
         <item quantity="one">1 ώρα πριν</item>
+        <item quantity="other">1 ώρα πριν</item>
     </plurals>
     <plurals name="abbrev_a_hour_ago">
-        <item quantity="other">1 ώρα πριν</item>
         <item quantity="one">1 ώρα πριν</item>
+        <item quantity="other">1 ώρα πριν</item>
     </plurals>
     <plurals name="abbrev_half_hour_ago">
-        <item quantity="other">Μισή ώρα πριν</item>
         <item quantity="one">Μισή ώρα πριν</item>
+        <item quantity="other">Μισή ώρα πριν</item>
     </plurals>
     <plurals name="abbrev_in_a_hour">
-        <item quantity="other">Σε 1 ώρα</item>
         <item quantity="one">Σε 1 ώρα</item>
+        <item quantity="other">Σε 1 ώρα</item>
     </plurals>
     <plurals name="abbrev_in_half_hour">
-        <item quantity="other">Σε μισή ώρα</item>
         <item quantity="one">Σε μισή ώρα</item>
+        <item quantity="other">Σε μισή ώρα</item>
     </plurals>
     <plurals name="abbrev_in_less_than_one_minute">
-        <item quantity="other">Αμέσως</item>
         <item quantity="one">Αμέσως</item>
+        <item quantity="other">Αμέσως</item>
     </plurals>
     <plurals name="abbrev_in_num_minutes">
         <item quantity="other">σε %d λεπτά</item>
         <item quantity="one">σε 1 λεπτό</item>
     </plurals>
     <plurals name="abbrev_less_than_one_minute_ago">
-        <item quantity="other">Μόλις τώρα</item>
         <item quantity="one">Μόλις τώρα</item>
+        <item quantity="other">Μόλις τώρα</item>
     </plurals>
     <plurals name="abbrev_num_minutes_ago">
         <item quantity="other">%d λεπτά πριν</item>
@@ -39,6 +39,18 @@
     <plurals name="batch_delete_msg">
         <item quantity="other">Διαγραφή %1$d επαφών;</item>
         <item quantity="one">Διαγραφή %1$d επαφής;</item>
+    </plurals>
+    <plurals name="bh_day">
+        <item quantity="other">" ημέρες"</item>
+        <item quantity="one">" ημέρα"</item>
+    </plurals>
+    <plurals name="bh_hour">
+        <item quantity="other">" ώρες"</item>
+        <item quantity="one">" ώρα"</item>
+    </plurals>
+    <plurals name="bh_minute">
+        <item quantity="other">" λεπτά"</item>
+        <item quantity="one">" λεπτά"</item>
     </plurals>
     <plurals name="btn_delete_multi_contacts">
         <item quantity="other">Διαγραφή %1$d επαφών</item>
@@ -57,8 +69,8 @@
         <item quantity="one">Διαγραφή %d αριθμού τηλεφώνου;</item>
     </plurals>
     <plurals name="cloud_state_unsynced_count">
-        <item quantity="other">%1$d επαφές ή φωτογραφίες δεν έχουν συγχρονιστεί</item>
-        <item quantity="one">%1$d επαφή ή φωτογραφία δεν έχει συγχρονιστεί</item>
+        <item quantity="other">"%1$d επαφές ή φωτογραφίες δεν έχουν συγχρονιστεί"</item>
+        <item quantity="one">"%1$d επαφή ή φωτογραφία δεν έχει συγχρονιστεί"</item>
     </plurals>
     <plurals name="confirm_delete_sim_entry_miui">
         <item quantity="other">Διαγραφή %1$d επαφών από κάρτα SIM;</item>
@@ -113,8 +125,8 @@
         <item quantity="one">%1$d αριθμός</item>
     </plurals>
     <plurals name="half_hour_ago">
-        <item quantity="other">Μισή ώρα πριν</item>
         <item quantity="one">Μισή ώρα πριν</item>
+        <item quantity="other">Μισή ώρα πριν</item>
     </plurals>
     <plurals name="hint_account_contacts">
         <item quantity="other">%1$d αντικείμενα</item>
@@ -133,28 +145,24 @@
         <item quantity="one">%1$d αριθμός</item>
     </plurals>
     <plurals name="in_a_hour">
-        <item quantity="other">Σε 1 ώρα</item>
         <item quantity="one">Σε 1 ώρα</item>
+        <item quantity="other">Σε 1 ώρα</item>
     </plurals>
     <plurals name="in_half_hour">
-        <item quantity="other">Σε μισή ώρα</item>
         <item quantity="one">Σε μισή ώρα</item>
+        <item quantity="other">Σε μισή ώρα</item>
     </plurals>
     <plurals name="in_less_than_one_minute">
-        <item quantity="other">Αμέσως</item>
         <item quantity="one">Αμέσως</item>
+        <item quantity="other">Αμέσως</item>
     </plurals>
     <plurals name="in_num_minutes">
         <item quantity="other">σε %d λεπτά</item>
         <item quantity="one">σε 1 λεπτό</item>
     </plurals>
-    <plurals name="label_duplicate_count_plurals">
-        <item quantity="other">(%1$d)</item>
-        <item quantity="one">(%1$d)</item>
-    </plurals>
     <plurals name="less_than_one_minute_ago">
-        <item quantity="other">Μόλις τώρα</item>
         <item quantity="one">Μόλις τώρα</item>
+        <item quantity="other">Μόλις τώρα</item>
     </plurals>
     <plurals name="listTotalAllContacts">
         <item quantity="other">%d επαφές</item>
@@ -205,8 +213,8 @@
         <item quantity="one">%s αποτέλεσμα</item>
     </plurals>
     <plurals name="select_all_exceed_plurals">
-        <item quantity="other">Επιλέξτε λιγότερο από %1$d, αδυναμία επιλογής όλων</item>
-        <item quantity="one">Επιλέξτε λιγότερο από %1$d, αδυναμία επιλογής όλων</item>
+        <item quantity="other">"Επιλέξτε λιγότερο από %1$d, αδυναμία επιλογής όλων"</item>
+        <item quantity="one">"Επιλέξτε λιγότερο από %1$d, αδυναμία επιλογής όλων"</item>
     </plurals>
     <plurals name="select_exceed_plurals">
         <item quantity="other">Επιλέξτε λιγότερο από %1$d</item>

@@ -27,6 +27,13 @@
     <string name="abc_shareactionprovider_share_with">Κοινή χρήση με</string>
     <string name="abc_shareactionprovider_share_with_application">Κοινή χρήση με %s</string>
     <string name="abc_toolbar_collapse_description">Σύμπτυξη</string>
+    <string name="close">Κλείσιμο</string>
+    <string name="close_hit_again">Πατήστε ξανά για να βγείτε από την οθόνη</string>
+    <string name="important_ration_info">Σημαντικές πληροφορίες</string>
+    <string name="no_important_ration_info">Πληροφορίες αποσφαλμάτωσης</string>
+    <string name="qr_load">Φόρτωση... Παρακαλώ περιμένετε...</string>
+    <string name="qualitative_info">Ποιοτικές πληροφορίες</string>
+    <string name="qualitative_title">Πληροφορίες συνέπειας</string>
+    <string name="ration_title">Πληροφορίες κλάσης ID</string>
     <string name="search_menu_title">Αναζήτηση</string>
-    <string name="status_bar_notification_info_overflow">999+</string>
 </resources>

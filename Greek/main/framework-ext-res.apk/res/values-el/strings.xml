@@ -45,6 +45,7 @@
     <string name="bluetooth_enable_notification_content">Ο/Η %s ενεργοποίησε το Bluetooth</string>
     <string name="bluetooth_enable_notification_title">Το Bluetooth είναι ενεργό</string>
     <string name="bluetooth_open">Η εφαρμογή αυτή ενεργοποίησε το Bluetooth</string>
+    <string name="bottom_bar_smallwindow_text">Αφήστε για καρφίτσωμα</string>
     <string name="btn_cancel">Ακύρωση</string>
     <string name="btn_sure">ΟΚ</string>
     <string name="button_text_cancel">Ακύρωση</string>
@@ -78,10 +79,14 @@
     <string name="device_status_success">Επιτυχής αποστολή</string>
     <string name="device_status_waiting">Αναμονή…</string>
     <string name="device_type_pc">Υπολογιστής</string>
+    <string name="disable_nfc">Απενεργοποιήθηκε το NFC για ασύρματη φόρτιση</string>
+    <string name="disable_nfc_reverse">Απενεργοποιήθηκε το NFC για αντίστροφη ασύρματη φόρτιση</string>
     <string name="eighthours">8 ώρες</string>
     <string name="enable_livetalk_summary">Εξοικονομήστε 70% στις χρεώσεις κλήσεων σας</string>
     <string name="enable_livetalk_title">Ενεργοποίηση Πακέτου ανανέωσης</string>
     <string name="enable_midrop">Ενεργοποίηση</string>
+    <string name="enable_nfc">Δεν φορτίζεται πλέον. Το NFC είναι ξανά ενεργοποιημένο.</string>
+    <string name="enable_nfc_reverse">Δεν φορτίζεται αντίστροφα πλέον. Το NFC είναι ξανά ενεργοποιημένο.</string>
     <string name="fc_dialog_body">Να σταλεί αναφορά σφαλμάτων στο Mi για ανάλυση; Η αναφορά αυτή μπορεί να περιέχει προσωπικές πληροφορίες. Η αναφορά σας θα χρησιμοποιηθεί για την διόρθωση του σφάλματος και δεν θα κοινοποιηθεί ποτέ για εμπορικούς σκοπούς.</string>
     <string name="fc_dialog_jump_to_preview">Προβολή σύνοψης</string>
     <string name="file_cannot_print">Αδυναμία εκτύπωσης αυτού του αντικειμένου.</string>

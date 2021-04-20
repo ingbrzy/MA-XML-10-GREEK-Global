@@ -5,8 +5,8 @@
         <item quantity="one">Σύρατε %1$d αντικείμενο</item>
     </plurals>
     <plurals name="announce_for_unread">
-        <item quantity="other">Δεν διαβάστηκαν %2$s από %1$s</item>
         <item quantity="one">Δεν διαβάστηκαν %2$s από %1$s</item>
+        <item quantity="other">Δεν διαβάστηκαν %2$s από %1$s</item>
     </plurals>
     <plurals name="delete_wallpapers_message">
         <item quantity="other">Διαγραφή %1$d ταπετσαριών;</item>
@@ -29,8 +29,8 @@
         <item quantity="one">Απεγκατάσταση %1$d εφαρμογής;</item>
     </plurals>
     <plurals name="uninstall_result_multi_failed">
-        <item quantity="other">Αδυναμία απεγκατάστασης %1$d εφαρμογών</item>
-        <item quantity="one">Αδυναμία απεγκατάστασης %1$d εφαρμογής</item>
+        <item quantity="other">"Αδυναμία απεγκατάστασης %1$d εφαρμογών"</item>
+        <item quantity="one">"Αδυναμία απεγκατάστασης %1$d εφαρμογής"</item>
     </plurals>
     <plurals name="uninstall_result_multi_succeeded">
         <item quantity="other">Έγινε απεγκατάσταση %1$d εφαρμογών</item>

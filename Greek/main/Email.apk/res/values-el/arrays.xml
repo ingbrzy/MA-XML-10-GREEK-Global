@@ -14,6 +14,65 @@
         <item>Νοε</item>
         <item>Δεκ</item>
     </string-array>
+    <string-array name="alphabet_chars">
+        <item>Α</item>
+        <item>Β</item>
+        <item>Γ</item>
+        <item>Δ</item>
+        <item>Ε</item>
+        <item>Ζ</item>
+        <item>Η</item>
+        <item>Θ</item>
+        <item>Ι</item>
+        <item>Κ</item>
+        <item>Λ</item>
+        <item>Μ</item>
+        <item>Ν</item>
+        <item>Ξ</item>
+        <item>Ο</item>
+        <item>Π</item>
+        <item>Ρ</item>
+        <item>Σ</item>
+        <item>Τ</item>
+        <item>Υ</item>
+        <item>U</item>
+        <item>V</item>
+        <item>W</item>
+        <item>X</item>
+        <item>Y</item>
+        <item>Z</item>
+        <item>\#</item>
+        <item>∅</item>
+    </string-array>
+    <string-array name="alphabet_chars2">
+        <item>!</item>
+        <item>Α</item>
+        <item>Β</item>
+        <item>Γ</item>
+        <item>Δ</item>
+        <item>Ε</item>
+        <item>Ζ</item>
+        <item>Η</item>
+        <item>Θ</item>
+        <item>Ι</item>
+        <item>Κ</item>
+        <item>Λ</item>
+        <item>Μ</item>
+        <item>Ν</item>
+        <item>Ξ</item>
+        <item>Ο</item>
+        <item>Π</item>
+        <item>Ρ</item>
+        <item>Σ</item>
+        <item>Τ</item>
+        <item>Υ</item>
+        <item>Φ</item>
+        <item>Χ</item>
+        <item>Ψ</item>
+        <item>Ω</item>
+        <item>\#</item>
+        <item>.</item>
+    </string-array>
     <string-array name="calendar_remind_string_array">
         <item>Απόψε</item>
         <item>Αύριο</item>
@@ -28,6 +87,10 @@
         <item>Μέτρια</item>
         <item>Μεγάλο</item>
         <item>Τεράστιο</item>
+    </string-array>
+    <string-array name="invoice_card_pdf_keyword">
+        <item>发票</item>
+        <item>τιμολόγιο</item>
     </string-array>
     <string-array name="menu_att_mgr_sort_string_array">
         <item>Πρόσφατες προβολές</item>
@@ -50,6 +113,23 @@
         <item>Όλοι</item>
         <item>Μόνο οι αποστολείς</item>
     </string-array>
+    <string-array name="signature_normal_string_array">
+        <item>Ιστολόγιο:</item>
+        <item>Τοποθεσία:</item>
+        <item>Email:</item>
+        <item>κινητό:</item>
+        <item>Τηλ.:</item>
+        <item>T:</item>
+        <item>www.</item>
+        <item>F:</item>
+        <item>E:</item>
+        <item>E-mail:</item>
+        <item>Τηλ:</item>
+        <item>Φαξ:</item>
+        <item>Ταχυδρομείο:</item>
+        <item>QQ:</item>
+        <item>MSN:</item>
+    </string-array>
     <string-array name="signature_normal_string_array_next">
         <item>Διεύθυνση:</item>
         <item>Τηλ:</item>
@@ -59,6 +139,15 @@
         <item>WeChat:</item>
         <item>Φαξ:</item>
         <item>Ταχυδρομικός κώδικας:</item>
+    </string-array>
+    <string-array name="signature_special_string_array">
+        <item>Αποποίηση ευθυνών:</item>
+        <item>Αποποίηση Email</item>
+        <item>Αποστολή μέσω WPSMail</item>
+        <item>Αποστολή από</item>
+        <item>Στάλθηκε με</item>
+        <item>Ευχαριστώ,</item>
+        <item>Καλύτεροι Κανόνες</item>
     </string-array>
     <string-array name="signature_special_string_array_next">
         <item>Ευχαριστώ,</item>

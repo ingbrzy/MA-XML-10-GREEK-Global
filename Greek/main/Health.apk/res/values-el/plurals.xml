@@ -1,40 +1,44 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <plurals name="a_hour_ago">
-        <item quantity="other">1 ώρα πριν</item>
         <item quantity="one">1 ώρα πριν</item>
+        <item quantity="other">1 ώρα πριν</item>
     </plurals>
     <plurals name="abbrev_a_hour_ago">
-        <item quantity="other">1 ώρα πριν</item>
         <item quantity="one">1 ώρα πριν</item>
+        <item quantity="other">1 ώρα πριν</item>
     </plurals>
     <plurals name="abbrev_half_hour_ago">
-        <item quantity="other">Μισή ώρα πριν</item>
         <item quantity="one">Μισή ώρα πριν</item>
+        <item quantity="other">Μισή ώρα πριν</item>
     </plurals>
     <plurals name="abbrev_in_a_hour">
-        <item quantity="other">Σε 1 ώρα</item>
         <item quantity="one">Σε 1 ώρα</item>
+        <item quantity="other">Σε 1 ώρα</item>
     </plurals>
     <plurals name="abbrev_in_half_hour">
-        <item quantity="other">Σε μισή ώρα</item>
         <item quantity="one">Σε μισή ώρα</item>
+        <item quantity="other">Σε μισή ώρα</item>
     </plurals>
     <plurals name="abbrev_in_less_than_one_minute">
-        <item quantity="other">Αμέσως</item>
         <item quantity="one">Αμέσως</item>
+        <item quantity="other">Αμέσως</item>
     </plurals>
     <plurals name="abbrev_in_num_minutes">
         <item quantity="other">σε %d λεπτά</item>
         <item quantity="one">σε 1 λεπτό</item>
     </plurals>
     <plurals name="abbrev_less_than_one_minute_ago">
-        <item quantity="other">Μόλις τώρα</item>
         <item quantity="one">Μόλις τώρα</item>
+        <item quantity="other">Μόλις τώρα</item>
     </plurals>
     <plurals name="abbrev_num_minutes_ago">
         <item quantity="other">%d λεπτά πριν</item>
         <item quantity="one">1 λεπτό πριν</item>
+    </plurals>
+    <plurals name="birthday_format">
+        <item quantity="other">" (%1$d ετών)"</item>
+        <item quantity="one">" (%1$d χρόνου)"</item>
     </plurals>
     <plurals name="count_duration_standard">
         <item quantity="other">%1$d-%2$d times</item>
@@ -109,36 +113,48 @@
         <item quantity="one">%1$d cycle</item>
     </plurals>
     <plurals name="half_hour_ago">
-        <item quantity="other">Μισή ώρα πριν</item>
         <item quantity="one">Μισή ώρα πριν</item>
+        <item quantity="other">Μισή ώρα πριν</item>
     </plurals>
     <plurals name="hours">
         <item quantity="other">%1$d hrs</item>
         <item quantity="one">%1$d hr</item>
     </plurals>
+    <plurals name="hr_fp_detect_time_remainder">
+        <item quantity="other">απομένουν %1$d δευτερόλεπτα</item>
+        <item quantity="one">απομένουν %1$d δευτερόλεπτα</item>
+    </plurals>
     <plurals name="in_a_hour">
-        <item quantity="other">Σε 1 ώρα</item>
         <item quantity="one">Σε 1 ώρα</item>
+        <item quantity="other">Σε 1 ώρα</item>
     </plurals>
     <plurals name="in_half_hour">
-        <item quantity="other">Σε μισή ώρα</item>
         <item quantity="one">Σε μισή ώρα</item>
+        <item quantity="other">Σε μισή ώρα</item>
     </plurals>
     <plurals name="in_less_than_one_minute">
-        <item quantity="other">Αμέσως</item>
         <item quantity="one">Αμέσως</item>
+        <item quantity="other">Αμέσως</item>
     </plurals>
     <plurals name="in_num_minutes">
         <item quantity="other">σε %d λεπτά</item>
         <item quantity="one">σε 1 λεπτό</item>
+    </plurals>
+    <plurals name="last_measure_date_interval">
+        <item quantity="other">%1$d ημέρες από το τελευταίο βάρος</item>
+        <item quantity="one">%1$d ημέρα από το τελευταίο βάρος</item>
+    </plurals>
+    <plurals name="last_measure_day_body_weight">
+        <item quantity="other">%1$d ημέρες από το τελευταίο βάρος</item>
+        <item quantity="one">%1$d ημέρα από το τελευταίο βάρος</item>
     </plurals>
     <plurals name="length_unit_meter_format">
         <item quantity="other">%1$d μέτρα</item>
         <item quantity="one">%1$d μέτρο</item>
     </plurals>
     <plurals name="less_than_one_minute_ago">
-        <item quantity="other">Μόλις τώρα</item>
         <item quantity="one">Μόλις τώρα</item>
+        <item quantity="other">Μόλις τώρα</item>
     </plurals>
     <plurals name="mens_offset_predict_menstrual_period">
         <item quantity="other">Period will likely start in %1$d days</item>
@@ -168,6 +184,14 @@
         <item quantity="other">%1$d mins ago</item>
         <item quantity="one">%1$d min ago</item>
     </plurals>
+    <plurals name="miuix_appcompat_items_selected">
+        <item quantity="other">%d αντικείμενα επιλέχθηκαν</item>
+        <item quantity="one">%d αντικείμενο επιλέχθηκε</item>
+    </plurals>
+    <plurals name="mtrl_badge_content_description">
+        <item quantity="other">%d νέες ειδοποιήσεις</item>
+        <item quantity="one">%d νέα ειδοποίηση</item>
+    </plurals>
     <plurals name="num_minutes_ago">
         <item quantity="other">%d λεπτά πριν</item>
         <item quantity="one">1 λεπτό πριν</item>
@@ -180,17 +204,81 @@
         <item quantity="other">"Current settings won't guarantee you %1$d hours of sleep daily. You need more than that."</item>
         <item quantity="one">"Current settings won't guarantee you %1$d hour of sleep daily. You need more than that."</item>
     </plurals>
+    <plurals name="sport_tts_goal_consume">
+        <item quantity="other">%s θερμίδες απομένουν για να κάψετε μέχρι να φτάσετε στο στόχο σας</item>
+        <item quantity="one">%s περισσότερη θερμίδα αριστερά για να κάψετε μέχρι να φτάσετε στο στόχο σας</item>
+    </plurals>
+    <plurals name="sport_tts_goal_distance">
+        <item quantity="other">%s περισσότερα χιλιόμετρα έμειναν μέχρι να φτάσετε στο στόχο σας</item>
+        <item quantity="one">%s ακόμη χιλιόμετρο έμεινε μέχρι να φτάσετε στο στόχο σας</item>
+    </plurals>
+    <plurals name="sport_tts_goal_time">
+        <item quantity="other">%s ακόμη λεπτά μέχρι να φτάσετε στο στόχο σας</item>
+        <item quantity="one">%s ακόμη λεπτό μέχρι να φτάσετε στο στόχο σας</item>
+    </plurals>
+    <plurals name="sport_tts_riding_distance">
+        <item quantity="other">"Έχετε κάνει ποδηλασία %s χιλιόμετρα"</item>
+        <item quantity="one">"Έχετε κυκλώσει %s χιλιόμετρο"</item>
+    </plurals>
+    <plurals name="sport_tts_running_distance">
+        <item quantity="other">"Έχετε τρέξει %s χιλιόμετρα"</item>
+        <item quantity="one">"Έχετε τρέξει %s χιλιόμετρο"</item>
+    </plurals>
+    <plurals name="sport_tts_total_consume">
+        <item quantity="other">"Κάνατε %s θερμίδες"</item>
+        <item quantity="one">"Κάνατε %s θερμίδες"</item>
+    </plurals>
+    <plurals name="sport_tts_walking_distance">
+        <item quantity="other">"Περπατήσατε %s χιλιόμετρα"</item>
+        <item quantity="one">"Έχετε περπατήσει %s χιλιόμετρο"</item>
+    </plurals>
+    <plurals name="sporting_content_calories">
+        <item quantity="other">"Έχετε ήδη περπατήσει %1$s θερμίδες"</item>
+        <item quantity="one">"Έχετε ήδη κάψει %1$s θερμίδες"</item>
+    </plurals>
+    <plurals name="sporting_content_min">
+        <item quantity="other">%1$d λεπτά</item>
+        <item quantity="one">%1$d λεπτό</item>
+    </plurals>
+    <plurals name="sporting_content_riding_km">
+        <item quantity="other">"Έχετε ήδη ποδηλασία %1$s χιλιόμετρα"</item>
+        <item quantity="one">"Έχετε ήδη ποδήλατο %1$s χιλιόμετρο"</item>
+    </plurals>
+    <plurals name="sporting_content_running_km">
+        <item quantity="other">"Έχετε ήδη διανύσει %1$s χιλιόμετρα"</item>
+        <item quantity="one">"Έχετε ήδη έτρεξε %1$s χιλιόμετρο"</item>
+    </plurals>
+    <plurals name="sporting_content_sec">
+        <item quantity="other">%1$d δευτερόλεπτα</item>
+        <item quantity="one">%1$d δευτερόλεπτο</item>
+    </plurals>
+    <plurals name="sporting_content_walking_km">
+        <item quantity="other">"Έχετε ήδη περπατήσει %1$s χιλιόμετρα"</item>
+        <item quantity="one">"Έχετε ήδη περπατήσει %1$s χιλιόμετρο"</item>
+    </plurals>
+    <plurals name="sporting_content_walking_stpe">
+        <item quantity="other">"Έχετε ήδη περπατήσει %1$s βήματα"</item>
+        <item quantity="one">"Έχετε ήδη περπατήσει %1$s βήμα"</item>
+    </plurals>
+    <plurals name="sporting_unit_calories">
+        <item quantity="other">%1$d Θερμίδες</item>
+        <item quantity="one">%1$d Θερμίδα</item>
+    </plurals>
+    <plurals name="sporting_unit_km">
+        <item quantity="other">%1$s χλμ</item>
+        <item quantity="one">%1$s χλμ</item>
+    </plurals>
+    <plurals name="sporting_unit_step">
+        <item quantity="other">βήματα</item>
+        <item quantity="one">βήμα</item>
+    </plurals>
     <plurals name="step_num_format">
         <item quantity="other">%1$d βήματα</item>
         <item quantity="one">%1$d βήμα</item>
     </plurals>
-    <plurals name="steps_format">
-        <item quantity="other">%1$d</item>
-        <item quantity="one">%1$d</item>
-    </plurals>
     <plurals name="subtitle_add_record">
-        <item quantity="other">Δεν έχετε καταγράψει για %1$d ημέρες. Καταγράψτε τις εμμηνόρροιές σας για ακριβέστερες προβλέψεις.</item>
-        <item quantity="one">Δεν έχετε καταγράψει για %1$d ημέρα. Καταγράψτε τις εμμηνόρροιές σας για ακριβέστερες προβλέψεις.</item>
+        <item quantity="other">"Δεν έχετε καταγράψει για %1$d ημέρες. Καταγράψτε τις εμμηνόρροιές σας για ακριβέστερες προβλέψεις."</item>
+        <item quantity="one">"Δεν έχετε καταγράψει για %1$d ημέρα. Καταγράψτε τις εμμηνόρροιές σας για ακριβέστερες προβλέψεις."</item>
     </plurals>
     <plurals name="subtitle_menstruation_continued_days">
         <item quantity="other">Αυτή η εμμηνόρροια διαρκεί συνολικά %1$d ημέρες</item>
@@ -211,10 +299,6 @@
     <plurals name="time_duration_hour_float">
         <item quantity="other">%1$.2f hrs</item>
         <item quantity="one">%1$.2f hr</item>
-    </plurals>
-    <plurals name="time_duration_hour_int">
-        <item quantity="other">%d hrs</item>
-        <item quantity="one">%d hr</item>
     </plurals>
     <plurals name="time_duration_hour_standard">
         <item quantity="other">%1$.1f-%2$.1f hours</item>

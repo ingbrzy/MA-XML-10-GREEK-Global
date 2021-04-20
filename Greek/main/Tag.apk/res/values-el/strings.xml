@@ -9,7 +9,6 @@
     <string name="external_storage_permission_denied">Αυτή η εφαρμογή χρειάζεται πρόσβαση στην Άδεια εξωτερικού αποθηκευτικού χώρου προκειμένου να έχει πρόσβαση στα αρχεία. Μπορείτε να διαχειριστείτε την Άδεια ετικετών στις Ρυθμίσεις</string>
     <string name="import_vcard">Εισαγωγή ^1</string>
     <string name="mime_display_name">Δεδομένα από ετικέτα ΕΚΠ</string>
-    <string name="status_bar_notification_info_overflow">999+</string>
     <string name="tag_empty">Κενή ετικέτα</string>
     <string name="tag_unknown">Άγνωστος τύπος ετικέτας</string>
     <string name="title_existing_tag">Ετικέτα</string>

@@ -1,5 +1,64 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <string-array name="alphabet_table">
+        <item>Α</item>
+        <item>Β</item>
+        <item>Γ</item>
+        <item>Δ</item>
+        <item>Ε</item>
+        <item>Ζ</item>
+        <item>Η</item>
+        <item>Θ</item>
+        <item>Ι</item>
+        <item>Κ</item>
+        <item>Λ</item>
+        <item>Μ</item>
+        <item>Ν</item>
+        <item>Ξ</item>
+        <item>Ο</item>
+        <item>Π</item>
+        <item>Ρ</item>
+        <item>Σ</item>
+        <item>Τ</item>
+        <item>Υ</item>
+        <item>Φ</item>
+        <item>Χ</item>
+        <item>Ψ</item>
+        <item>Ω</item>
+        <item>\#</item>
+        <item>.</item>
+        <item>.</item>
+    </string-array>
+    <string-array name="alphabet_table_with_starred">
+        <item>!</item>
+        <item>Α</item>
+        <item>Β</item>
+        <item>Γ</item>
+        <item>Δ</item>
+        <item>Ε</item>
+        <item>Ζ</item>
+        <item>Η</item>
+        <item>Θ</item>
+        <item>Ι</item>
+        <item>Κ</item>
+        <item>Λ</item>
+        <item>Μ</item>
+        <item>Ν</item>
+        <item>Ξ</item>
+        <item>Ο</item>
+        <item>Π</item>
+        <item>Ρ</item>
+        <item>Σ</item>
+        <item>Τ</item>
+        <item>Υ</item>
+        <item>Φ</item>
+        <item>Χ</item>
+        <item>Ψ</item>
+        <item>Ω</item>
+        <item>\#</item>
+        <item>.</item>
+        <item>.</item>
+    </string-array>
     <string-array name="hd_record_scenes_entries">
         <item>Μουσική</item>
         <item>Φωνή</item>
@@ -10,16 +69,6 @@
         <item>Μουσική</item>
         <item>Φωνή</item>
         <item>Συνέντευξη</item>
-    </string-array>
-    <string-array name="record_format_entries">
-        <item>AAC</item>
-        <item>MP3</item>
-        <item>WAV</item>
-    </string-array>
-    <string-array name="record_locale_language">
-        <item>fa</item>
-        <item>ar</item>
-        <item>bn</item>
     </string-array>
     <string-array name="record_quality_entries">
         <item>Υψηλή</item>
@@ -46,9 +95,5 @@
         <item>Μετακινήστε το μικρόφωνο πιο κοντά στην πηγή του ήχου για καλύτερη ποιότητα</item>
         <item>Τοποθετήστε το τηλέφωνο μεταξύ 2 ατόμων για την καθαρή ηχογράφηση της συνομιλίας τους</item>
         <item>Η υψηλή δυναμική τεχνολογία αποστάσεως επιτρέπει την σύλληψη πιο λεπτομερούς ήχου από το μικρόφωνο</item>
-    </string-array>
-    <string-array name="record_type_entries">
-        <item>MP3</item>
-        <item>AMR</item>
     </string-array>
 </resources>

@@ -1,36 +1,36 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <plurals name="a_hour_ago">
-        <item quantity="other">1 ώρα πριν</item>
         <item quantity="one">1 ώρα πριν</item>
+        <item quantity="other">1 ώρα πριν</item>
     </plurals>
     <plurals name="abbrev_a_hour_ago">
-        <item quantity="other">1 ώρα πριν</item>
         <item quantity="one">1 ώρα πριν</item>
+        <item quantity="other">1 ώρα πριν</item>
     </plurals>
     <plurals name="abbrev_half_hour_ago">
-        <item quantity="other">Μισή ώρα πριν</item>
         <item quantity="one">Μισή ώρα πριν</item>
+        <item quantity="other">Μισή ώρα πριν</item>
     </plurals>
     <plurals name="abbrev_in_a_hour">
-        <item quantity="other">Σε 1 ώρα</item>
         <item quantity="one">Σε 1 ώρα</item>
+        <item quantity="other">Σε 1 ώρα</item>
     </plurals>
     <plurals name="abbrev_in_half_hour">
-        <item quantity="other">Σε μισή ώρα</item>
         <item quantity="one">Σε μισή ώρα</item>
+        <item quantity="other">Σε μισή ώρα</item>
     </plurals>
     <plurals name="abbrev_in_less_than_one_minute">
-        <item quantity="other">Αμέσως</item>
         <item quantity="one">Αμέσως</item>
+        <item quantity="other">Αμέσως</item>
     </plurals>
     <plurals name="abbrev_in_num_minutes">
         <item quantity="other">σε %d λεπτά</item>
         <item quantity="one">σε 1 λεπτό</item>
     </plurals>
     <plurals name="abbrev_less_than_one_minute_ago">
-        <item quantity="other">Μόλις τώρα</item>
         <item quantity="one">Μόλις τώρα</item>
+        <item quantity="other">Μόλις τώρα</item>
     </plurals>
     <plurals name="abbrev_num_minutes_ago">
         <item quantity="other">%d λεπτά πριν</item>
@@ -69,28 +69,28 @@
         <item quantity="one">Μπορείτε να υποβάλετε σχόλια ξανά σε %1$s δευτερόλεπτο</item>
     </plurals>
     <plurals name="half_hour_ago">
-        <item quantity="other">Μισή ώρα πριν</item>
         <item quantity="one">Μισή ώρα πριν</item>
+        <item quantity="other">Μισή ώρα πριν</item>
     </plurals>
     <plurals name="in_a_hour">
-        <item quantity="other">Σε 1 ώρα</item>
         <item quantity="one">Σε 1 ώρα</item>
+        <item quantity="other">Σε 1 ώρα</item>
     </plurals>
     <plurals name="in_half_hour">
-        <item quantity="other">Σε μισή ώρα</item>
         <item quantity="one">Σε μισή ώρα</item>
+        <item quantity="other">Σε μισή ώρα</item>
     </plurals>
     <plurals name="in_less_than_one_minute">
-        <item quantity="other">Αμέσως</item>
         <item quantity="one">Αμέσως</item>
+        <item quantity="other">Αμέσως</item>
     </plurals>
     <plurals name="in_num_minutes">
         <item quantity="other">σε %d λεπτά</item>
         <item quantity="one">σε 1 λεπτό</item>
     </plurals>
     <plurals name="less_than_one_minute_ago">
-        <item quantity="other">Μόλις τώρα</item>
         <item quantity="one">Μόλις τώρα</item>
+        <item quantity="other">Μόλις τώρα</item>
     </plurals>
     <plurals name="miuix_appcompat_items_selected">
         <item quantity="other">%d αντικείμενα επιλέχθηκαν</item>
@@ -105,8 +105,8 @@
         <item quantity="one">1 λεπτό πριν</item>
     </plurals>
     <plurals name="total_voted_num_text">
-        <item quantity="other">"&lt;font color='#20a7ff'>%1$s&lt;/font> άτομα ψήφισαν"</item>
-        <item quantity="one">"&lt;font color='#20a7ff'>%1$s&lt;/font> άτομο ψήφισε"</item>
+        <item quantity="other">"&lt;font color='#20a7ff'&gt;%1$s&lt;/font&gt; άτομα ψήφισαν"</item>
+        <item quantity="one">"&lt;font color='#20a7ff'&gt;%1$s&lt;/font&gt; άτομο ψήφισε"</item>
     </plurals>
     <plurals name="tts_report_temperature_high_centigrade">
         <item quantity="other">Υψηλότερη θερμοκρασία: %1$s βαθμοί Κελσίου</item>

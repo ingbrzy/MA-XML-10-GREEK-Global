@@ -1,8 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="abc_action_bar_home_description">Πλοήγηση στην αρχική σελίδα</string>
-    <string name="abc_action_bar_home_description_format">%1$s, %2$s</string>
-    <string name="abc_action_bar_home_subtitle_description_format">%1$s, %2$s, %3$s</string>
     <string name="abc_action_bar_up_description">Πλοήγηση προς τα επάνω</string>
     <string name="abc_action_menu_overflow_description">Περισσότερες επιλογές</string>
     <string name="abc_action_mode_done">Τέλος</string>
@@ -19,6 +17,13 @@
     <string name="abc_shareactionprovider_share_with">Κοινή χρήση με</string>
     <string name="abc_shareactionprovider_share_with_application">Κοινή χρήση με %s</string>
     <string name="abc_toolbar_collapse_description">Σύμπτυξη</string>
+    <string name="assist_center_title">Χρησιμοποιείται αυτή τη στιγμή</string>
+    <string name="assist_center_traffic_title">Απομένουν</string>
+    <string name="assist_key1_title">Χρησιμοποιήθηκε σήμερα</string>
+    <string name="assist_key2_title">Σχέδιο δεδομένων</string>
+    <string name="noti_key1_today_used">Σήμερα: %1$s</string>
+    <string name="noti_key2_remain">Απομένουν: %1$s</string>
+    <string name="noti_key2_used">Χρησιμοποιούνται: %1$s</string>
+    <string name="noti_key3">Λεπτομέρειες &gt;</string>
     <string name="search_menu_title">Αναζήτηση</string>
-    <string name="status_bar_notification_info_overflow">999+</string>
 </resources>

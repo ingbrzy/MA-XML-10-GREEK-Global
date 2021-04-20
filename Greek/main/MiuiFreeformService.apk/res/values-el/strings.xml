@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="app_name">ελευθερία</string>
+    <string name="app_name">Πλωτά παράθυρα</string>
     <string name="contentDescription">Μετακίνηση του παραθύρου</string>
     <string name="freeform_demo_back">Πίσω</string>
     <string name="freeform_demo_final_over">Ολοκληρώθηκε</string>
     <string name="freeform_demo_final_restart">Έναρξη από την αρχή</string>
-    <string name="freeform_demo_final_title">Είστε έτοιμοι!</string>
+    <string name="freeform_demo_final_title">"Είστε έτοιμοι!"</string>
     <string name="freeform_demo_go_on">Επόμενο</string>
     <string name="freeform_demo_title_finish">Ωραία!</string>
     <string name="freeform_demo_title_skip">Παράλειψη</string>

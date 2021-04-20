@@ -17,24 +17,10 @@
         <item>3 διαδικασίες το πολύ</item>
         <item>4 διαδικασίες το πολύ</item>
     </string-array>
-    <string-array name="aqi_title">
-        <item>%1$s</item>
-        <item>%1$s</item>
-        <item>%1$s</item>
-        <item>%1$s</item>
-        <item>%1$s</item>
-        <item>%1$s</item>
-        <item>%1$s</item>
-    </string-array>
-    <string-array name="battery_labels">
-        <item>0%</item>
-        <item>50%</item>
-        <item>100%</item>
-    </string-array>
     <string-array name="battery_options">
         <item>Να εμφανίζεται πάντα το ποσοστό</item>
         <item>Να εμφανίζεται ποσοστό κατά την φόρτιση (προεπιλογή)</item>
-        <item>Να μην εμφανίζεται αυτό το εικονίδιο</item>
+        <item>"Να μην εμφανίζεται αυτό το εικονίδιο"</item>
     </string-array>
     <string-array name="bluetooth_a2dp_codec_bits_per_sample_summaries">
         <item>Χρήση προτιμήσεως συστήματος (Προεπιλογή)</item>
@@ -118,22 +104,11 @@
         <item>" | Ενεργό (μέσα)"</item>
         <item>" | Ενεργό (τηλέφωνο)"</item>
     </string-array>
-    <string-array name="bluetooth_avrcp_version_values">
-        <item>avrcp14</item>
-        <item>avrcp13</item>
-        <item>avrcp15</item>
-        <item>avrcp16</item>
-    </string-array>
     <string-array name="bluetooth_avrcp_versions">
         <item>AVRCP 1.4 (Προεπιλογή)</item>
         <item>AVRCP 1.3</item>
         <item>AVRCP 1.5</item>
         <item>AVRCP 1.6</item>
-    </string-array>
-    <string-array name="bluetooth_map_version_values">
-        <item>map12</item>
-        <item>map13</item>
-        <item>map14</item>
     </string-array>
     <string-array name="bluetooth_map_versions">
         <item>MAP 1.2 (Προεπιλογή)</item>
@@ -150,7 +125,7 @@
     <string-array name="clock_options">
         <item>Εμφάνιση ωρών, λεπτών, και δευτερολέπτων</item>
         <item>Εμφάνιση ωρών και λεπτών (προεπιλογή)</item>
-        <item>Να μην εμφανίζεται αυτό το εικονίδιο</item>
+        <item>"Να μην εμφανίζεται αυτό το εικονίδιο"</item>
     </string-array>
     <string-array name="color_mode_descriptions">
         <item>Ενισχυμένα χρώματα</item>
@@ -162,8 +137,6 @@
         <item>Φυσικό</item>
         <item>Κανονικό</item>
     </string-array>
-    <array name="data_type_name_mcc_mnc_key" />
-    <array name="data_type_name_mcc_mnc_value" />
     <string-array name="debug_hw_overdraw_entries">
         <item>Ανενεργό</item>
         <item>Εμφάνιση επιφανειών υπεράκτισης</item>
@@ -185,12 +158,9 @@
         <item>Έλεγχος για περιεχόμενο DRM μόνο</item>
         <item>Πάντα έλεγχος</item>
     </string-array>
-    <string-array name="miui_volume_timer_segments_title">
-        <item>Απενεργοποιημένο</item>
-        <item>30 λεπτά</item>
-        <item>1 ώρα</item>
-        <item>2 ώρες</item>
-        <item>8 ώρες</item>
+    <string-array name="miui_notification_aggregate_category">
+        <item>Αυτό είναι συνιστώμενο περιεχόμενο.</item>
+        <item>Αυτή είναι μια διαφήμιση.</item>
     </string-array>
     <string-array name="nav_bar_buttons">
         <item>Πρόχειρο</item>
@@ -218,7 +188,6 @@
         <item>4K (αναβαθμισμένο, ασφαλές)</item>
         <item>720p, 1080p (διπλή οθόνη)</item>
     </string-array>
-    <array name="recents_blacklist_array" />
     <string-array name="select_logd_size_lowram_titles">
         <item>Ανενεργό</item>
         <item>64 KB</item>
@@ -272,6 +241,14 @@
         <item>Κλίμακα κινούμενων σχεδίων 5x</item>
         <item>Κλίμακα κινούμενων σχεδίων 10x</item>
     </string-array>
+    <string-array name="tts_demo_strings">
+        <item>Αυτό είναι ένα παράδειγμα σύνθεσης λόγου στα αγγλικά.</item>
+        <item>Voici un e\'chantillon de synthe\'se vocale en francŞais.</item>
+        <item>Dies ist ein Beispiel für Sprachsynthese in Deutsch.</item>
+        <item>Questo è un esempio di sintesi vocale in italiano.</item>
+        <item>Este es un ejemplo de síntesis de voz en español.</item>
+        <item>이것은 한국어 음성 합성의 예입니다.</item>
+    </string-array>
     <string-array name="tts_rate_entries">
         <item>Πολύ αργά</item>
         <item>Αργά</item>
@@ -283,17 +260,6 @@
         <item>Πιο ταχύτερα</item>
         <item>Ταχύτατα</item>
     </string-array>
-    <string-array name="tts_rate_values">
-        <item>60</item>
-        <item>80</item>
-        <item>100</item>
-        <item>150</item>
-        <item>200</item>
-        <item>250</item>
-        <item>300</item>
-        <item>350</item>
-        <item>400</item>
-    </string-array>
     <string-array name="usb_configuration_titles">
         <item>Φόρτιση</item>
         <item>ΠΜΠ (Πρωτόκολλο Μεταφοράς Πολυμέσων)</item>
@@ -301,35 +267,6 @@
         <item>RNDIS (USB Ethernet)</item>
         <item>Πηγή ήχου</item>
         <item>MIDI</item>
-    </string-array>
-    <string-array name="weather_type">
-        <item>Αίθριος</item>
-        <item>Συνvεφιασμένος</item>
-        <item>Νεφελώδης</item>
-        <item>Ομιχλώδης</item>
-        <item>Έντονη καταιγίδα</item>
-        <item>Νεροποντή</item>
-        <item>Καταιγίδα</item>
-        <item>Καταιγίδα με κεραυνούς</item>
-        <item>Μπόρα</item>
-        <item>Έντονη βροχόπτωση</item>
-        <item>Μέτρια βροχή</item>
-        <item>Ασθενής βροχή</item>
-        <item>Χιονόνερο</item>
-        <item>Χιονοθύελλα</item>
-        <item>Χιονόπτωση</item>
-        <item>Έντονη χιονόπτωση</item>
-        <item>Μέτρια χιονόπτωση</item>
-        <item>Ασθενής χιονόπτωση</item>
-        <item>Έντονη αμμοθύελλα</item>
-        <item>Αμμοθύελλα</item>
-        <item>Άμμος</item>
-        <item>Ανεμώδης</item>
-        <item>Χαλάζι</item>
-        <item>Σκόνη</item>
-        <item>Αιθαλομίχλη</item>
-        <item>Παγωμένη βροχή</item>
-        <item></item>
     </string-array>
     <string-array name="wifi_status">
         <item></item>
