@@ -69,8 +69,8 @@
     <string name="afternoon">Απόγευμα</string>
     <string name="am">ΠΜ</string>
     <string name="app_empty">"Αδυναμία εύρεσης εφαρμογών."</string>
-    <string name="app_label">Σχόλια</string>
-    <string name="app_name">Σχόλια</string>
+    <string name="app_label">Ανατροφοδότηση</string>
+    <string name="app_name">Ανατροφοδότηση</string>
     <string name="app_search">Αναζήτηση εφαρμογών</string>
     <string name="auth_fail_warning">Η συνεδρία έληξε. Συνδεθείτε ξανά.</string>
     <string name="bind_sign_in_title">Προσθήκη Mi Λογαριασμού</string>
@@ -85,7 +85,6 @@
     <string name="bugreport_tool_log_dumping_title">Δημιουργία αναφοράς προβλήματος</string>
     <string name="catch_full_log_action_cancel">Ακύρωση</string>
     <string name="catch_full_log_action_complete">Τελείωμα και μεταφόρτωση</string>
-    <string name="catch_full_log_action_start">Δημιουργία αρχείου καταγραφής</string>
     <string name="catch_full_log_add_original_photo">Προσθέστε πρωτότυπη εικόνα ή σύντομο βίντεο</string>
     <string name="catch_full_log_add_photo">Προσθήκη φωτογραφίας</string>
     <string name="catch_full_log_add_photo_dialog_content">"Εάν το ζήτημα που θέλετε να αναφέρετε σχετίζεται με την ποιότητα εικόνας της κάμερας, προσθέστε ένα πρωτότυπο δείγμα φωτογραφίας (όχι κομμένη) για να μας βοηθήσει να εντοπίσουμε το ζήτημα. Προσθήκη φωτογραφίας τώρα;"</string>
@@ -94,9 +93,6 @@
     <string name="catch_full_log_dump_hprof_failed">"Αδυναμία δημιουργίας αρχείου καταγραφής καθυστερήσεων"</string>
     <string name="catch_full_log_item_content_catch_direct">"1. Επιστροφή στη λειτουργία που θέλετε να αναφέρετε και κάντε αναπαραγωγή.
 2. Επιστρέψτε σε αυτή τη σελίδα και πατήστε \"Τελείωμα και ανέβασμα\"."</string>
-    <string name="catch_full_log_item_content_need_open">"1. Πατήστε στο \"Δημιουργία αρχείου καταγραφής\".
-2. Επιστρέψτε στη λειτουργία που θέλετε να αναφέρετε και κάντε αναπαραγωγή.
-3. Επιστρέψτε σε αυτή τη σελίδα και πατήστε \"Τελείωμα και ανέβασμα\"."</string>
     <string name="catch_full_log_item_content_title">Βήματα</string>
     <string name="catch_full_log_item_title_audio">Ήχος, εγγραφή ήχου, και κλήσεις ήχου</string>
     <string name="catch_full_log_item_title_bt">Bluetooth</string>
@@ -180,13 +176,13 @@ ID:%s
     <string name="failed_dup_secure_phone_number">Αυτός ο αριθμός τηλεφώνου είναι ήδη συσχετισμένος με άλλο Mi Λογαριασμό</string>
     <string name="failed_to_fetch_fql">"Αδυναμία λήψης πληροφοριών συχνών ερωτήσεων, ελέγξτε τη σύνδεση δικτύου"</string>
     <string name="feedback_answer_detail_feedback_resolved">Ναι</string>
-    <string name="feedback_answer_detail_feedback_result">Ευχαριστούμε για τα σχόλιά σας!</string>
+    <string name="feedback_answer_detail_feedback_result">Ευχαριστούμε για την ανατροφοδότησή σας!</string>
     <string name="feedback_answer_detail_feedback_title">Αυτό ήταν χρήσιμο;</string>
     <string name="feedback_answer_detail_feedback_unresolved">Όχι</string>
     <string name="feedback_answer_detail_relative_question">Αυτό μπορεί να είναι σχετικό</string>
     <string name="feedback_answer_detail_submit_dialog_confirm">Υποβολή</string>
-    <string name="feedback_answer_detail_submit_dialog_content">"Μπορείτε να περιγράψετε το πρόβλημα που αντιμετωπίσατε και θα προσπαθήσουμε να το επιδιορθώσουμε. Υποβολή σχολίων;"</string>
-    <string name="feedback_answer_detail_submit_dialog_title">Υποβολή σχολίων;</string>
+    <string name="feedback_answer_detail_submit_dialog_content">"Μπορείτε να περιγράψετε το πρόβλημα που αντιμετωπίσατε και θα προσπαθήσουμε να το επιδιορθώσουμε. Υποβολή ανατροφοδότησης;"</string>
+    <string name="feedback_answer_detail_submit_dialog_title">Υποβολή ανατροφοδότησης;</string>
     <string name="feedback_bug_status_change_notification_desc">%1$s πρόβλημα \"%2$s\"</string>
     <string name="feedback_choose_app_tag">Επιλογή ζητήματος</string>
     <string name="feedback_choose_module">Επιλογή αντικειμένου</string>
@@ -196,7 +192,7 @@ ID:%s
     <string name="feedback_choose_third_app_name">Επιλογή ονόματος εφαρμογής</string>
     <string name="feedback_collect_log_failed">"Αδυναμία πρόσβασης αρχείων καταγραφής"</string>
     <string name="feedback_contact_info_hint">Αριθμός τηλεφώνου/Email</string>
-    <string name="feedback_continue">Υποβολή σχολίων</string>
+    <string name="feedback_continue">Υποβολή ανατροφοδότησης</string>
     <string name="feedback_delete_images">Διαγραφή φωτογραφιών</string>
     <string name="feedback_description">Περιγραφή</string>
     <string name="feedback_description_hint">"Περιγράψτε το πρόβλημα που συναντήσατε εδώ.
@@ -212,7 +208,7 @@ ID:%s
     <string name="feedback_detail_feedback_category">Κατηγορία</string>
     <string name="feedback_detail_feedback_id">ID αναφοράς: %d</string>
     <string name="feedback_detail_feedback_reply_hint">Απάντηση</string>
-    <string name="feedback_detail_feedback_summary">Σχόλια</string>
+    <string name="feedback_detail_feedback_summary">Ανατροφοδότηση</string>
     <string name="feedback_detail_need_content">Εισαγωγή περιεχομένου πρώτα</string>
     <string name="feedback_detail_title">Λεπτομέρειες</string>
     <string name="feedback_detail_upload_generate_log">Δημιουργία αρχείων καταγραφής</string>
@@ -260,13 +256,13 @@ ID:%s
     <string name="feedback_status_jira_comment">Προσθήκη σχολίου</string>
     <string name="feedback_status_more">Λεπτομέρειες</string>
     <string name="feedback_status_processing">Γίνεται επεξεργασία…</string>
-    <string name="feedback_status_recorded">Έγινε λήψη αναφοράς</string>
+    <string name="feedback_status_recorded">Έγινε λήψη ανατροφοδότησης</string>
     <string name="feedback_status_replyed">Απαντήθηκε</string>
     <string name="feedback_status_reresolved">Επιλύθηκε</string>
     <string name="feedback_status_save_log_info_failed">"Αδυναμία αλλαγής URL συνημμένου"</string>
     <string name="feedback_status_submit_attachment">Επιτυχής υποβολή συννημένου</string>
-    <string name="feedback_status_submit_bbs_failed">"Αδυναμία υποβολής περιεχομένου σχολίων"</string>
-    <string name="feedback_status_submit_feedback_failed">"Αδυναμία υποβολής σχολίων"</string>
+    <string name="feedback_status_submit_bbs_failed">"Αδυναμία υποβολής περιεχομένου ανατροφοδότησης"</string>
+    <string name="feedback_status_submit_feedback_failed">"Αδυναμία υποβολής ανατροφοδότησης"</string>
     <string name="feedback_status_supplement">Περιγράψτε το πρόβλημά σας με λεπτομέρεια</string>
     <string name="feedback_status_supplement_more">Προσθήκη σχολίου</string>
     <string name="feedback_status_upload_log_failed">"Αδυναμία μεταφόρτωσης συνημμένων"</string>
@@ -314,14 +310,14 @@ ID:%s
     <string name="issue_search">Αναζήτηση</string>
     <string name="jump_full_log_dialog_cancel">Ακύρωση</string>
     <string name="jump_full_log_dialog_confirm">Δημιουργία</string>
-    <string name="jump_full_log_dialog_content">"Τα αρχεία καταγραφή θα μας βοηθήσουν να επιδιορθώσουμε πολύ γρηγορότερα το ζήτημα που σκοπεύετε να αναφέρετε. Δημιουργήστε τα αρχεία καταγραφής και επισυνάψτε τα στα σχόλιά σας."</string>
+    <string name="jump_full_log_dialog_content">"Τα αρχεία καταγραφής θα μας βοηθήσουν να επιδιορθώσουμε πολύ γρηγορότερα το ζήτημα που σκοπεύετε να αναφέρετε. Δημιουργήστε τα αρχεία καταγραφής και επισυνάψτε τα στην ανατροφοδότησή σας."</string>
     <string name="jump_full_log_dialog_title">Δημιουργία αρχείων καταγραφής</string>
     <string name="just_a_second">Μια στιγμή…</string>
     <string name="kr_authorization_agree">Αποδοχή</string>
     <string name="kr_authorization_contact">Λογαριασμοί</string>
     <string name="kr_authorization_contact_desc">Για πρόσβαση στις πληροφορίες του Mi Λογαριασμού για να γίνει ταυτοποίηση συσκευής</string>
     <string name="kr_authorization_exit">Έξοδος</string>
-    <string name="kr_authorization_function">Υποβολή σχολίων, δημιουργία αρχείων καταγραφής, προβολή συχνών ερωτήσεων</string>
+    <string name="kr_authorization_function">Υποβολή ανατροφοδότησης, δημιουργία αρχείων καταγραφής, προβολή συχνών ερωτήσεων</string>
     <string name="kr_authorization_log_protocol">Πρωτόκολλο Αρχείων Καταγραφής (προαιρετικό)</string>
     <string name="kr_authorization_log_protocol_desc">"Για να βελτιώσουμε τις υπηρεσίες που παρέχουμε σε εσάς, θα μεταφορτώσουμε τα στατιστικά στοιχεία χρήσης και τα αρχεία καταγραφής συστήματος στους διακομιστές μας. Αυτά τα στοιχεία μπορεί να περιλαμβάνουν τα προσωπικά σας στοιχεία, καθώς και τις πληροφορίες σχετικά με τη συσκευή και τα δίκτυά σας. Θα χρησιμοποιήσουμε μεταφορτωμένα αντικείμενα για να εντοπίσουμε και να αναλύσουμε τα προβλήματα στο σύστημα."</string>
     <string name="kr_authorization_phone">Τηλέφωνο</string>
@@ -338,14 +334,14 @@ ID:%s
     <string name="library_android_database_sqlcipher_libraryName">SQLCipher για Android</string>
     <string name="loading">Μια στιγμή…</string>
     <string name="loading_apps">Φόρτωση λίστας…</string>
-    <string name="logo_title">Σχόλια</string>
+    <string name="logo_title">Ανατροφοδότηση</string>
     <string name="logout_account">Αποσύνδεση</string>
     <string name="menu_copy">Αντιγραφή</string>
     <string name="message_label">Μήνυμα</string>
     <string name="mi_service_dialog_cancel">Έξοδος</string>
     <string name="mi_service_dialog_confirm">Άνοιγμα</string>
-    <string name="mi_service_dialog_content">Όλα τα χαρακτηριστικά σχολίων μετακινήθηκαν στην νέα εφαρμογή \"Υπηρεσίες και σχόλια\". Η εφαρμογή Σχόλια θα αφαιρεθεί από την Αρχική σας οθόνη. Πατήστε το \"Άνοιγμα\" για να δοκιμάσετε την εφαρμογή \"Υπηρεσίες και σχόλια\".</string>
-    <string name="mi_service_dialog_title">Σας παρουσιάζουμε την εφαρμογή \"Υπηρεσίες και σχόλια\"</string>
+    <string name="mi_service_dialog_content">Όλα τα χαρακτηριστικά σχολίων μετακινήθηκαν στην νέα εφαρμογή \"Υπηρεσίες &amp; ανατροφοδότηση\". Η εφαρμογή Ανατροφοδότηση θα αφαιρεθεί από την Αρχική σας οθόνη. Πατήστε το \"Άνοιγμα\" για να δοκιμάσετε την εφαρμογή \"Υπηρεσίες &amp; ανατροφοδότηση\".</string>
+    <string name="mi_service_dialog_title">Σας παρουσιάζουμε την εφαρμογή \"Υπηρεσίες &amp; ανατροφοδότηση\"</string>
     <string name="midnight">Νύχτα</string>
     <string name="miuix_appcompat_action_mode_deselect_all">Αποεπιλογή</string>
     <string name="miuix_appcompat_action_mode_select_all">Επιλογή όλων</string>
@@ -620,8 +616,8 @@ ID:%s
     <string name="stop_full_log_dialog_title">Γίνεται δημιουργία αρχείων καταγραφής…</string>
     <string name="submit_dialog_cancel">"Δεν αποδέχομαι"</string>
     <string name="submit_dialog_confirm">Αποδοχή</string>
-    <string name="submit_dialog_content"><Data>\"Διαβάστε και συμφωνήστε με την &lt;a href=\"%1$s\"&gt;Πολιτική απορρήτου μας&lt;/a&gt; και &lt;a href=\"%2$s\"&gt;Συμφωνία χρήστη&lt;/a&gt; πριν από την υποβολή σχολίων. Τα ζητήματα που αναφέρετε μαζί με τα στοιχεία που επισυνάπτετε (συμπεριλαμβανομένων των αρχείων καταγραφής που μπορεί να περιέχουν προσωπικές πληροφορίες, καθώς και οι πληροφορίες σχετικά με τη συσκευή και το δίκτυό σας) θα μεταφορτωθούν στους διακομιστές της MIUI. Αυτό θα μας βοηθήσει να εντοπίσουμε και να επιλύσουμε τα προβλήματα που αναφέρετε. Αν αναφέρετε προβλήματα που σχετίζονται με πολλαπλές συσκευές, τα αρχεία καταγραφής από άλλες συσκευές όπου χρησιμοποιείται ο Mi Λογαριασμός σας θα φορτωθούν επίσης.\"</Data></string>
-    <string name="submit_dialog_content_global">&lt;Data&gt;Τα σχόλια σας, μαζί με τα συνημμένα (εφόσον υπάρχουν) και τα αρχεία καταγραφής (μπορείτε να καταργήσετε την επιλογή των αντίστοιχων πλαισίων για τα αντικείμενα που δεν θέλετε να μεταφορτωθούν), θα σταλούν στους διακομιστές του MIUI. Τα αρχεία καταγραφής μπορεί να περιέχουν προσωπικές πληροφορίες και δεδομένα τοποθεσίας σας. Επιλέγοντας \"Συμφωνώ\" σημαίνει ότι διαβάσατε και συμφωνείτε με την &lt;a href=\"%1$s\"&gt;Πολιτική Απορρήτου&lt;/a&gt; και με τους &lt;a href=\"%2$s\"&gt;Όρους Χρήσης&lt;/a&gt;.&lt;/Data&gt;</string>
+    <string name="submit_dialog_content">&lt;Data&gt;Διαβάστε και αποδεχτείτε την &lt;a href=\"%1$s\"&gt;Πολιτική Απορρήτου&lt;/a&gt; και τη &lt;a href=\"%2$s\"&gt; Συμφωνία Χρήστη&lt;/a&gt; μας προτού υποβάλετε την ανατροφοδότηση. Τα ζητήματα που αναφέρετε μαζί με τα στοιχεία που επισυνάπτετε (συμπεριλαμβανομένων των αρχείων καταγραφής που ενδέχεται να περιέχουν προσωπικές πληροφορίες, καθώς και τις πληροφορίες σχετικά με τη συσκευή και το δίκτυό σας) θα μεταφορτωθούν στους διακομιστές του MIUI. Αυτό θα μας βοηθήσει να εντοπίσουμε και να λύσουμε τα προβλήματα που αναφέρετε. Εάν αναφέρετε προβλήματα που σχετίζονται με πολλές συσκευές, θα μεταφορτωθούν επίσης τα αρχεία καταγραφής από άλλες συσκευές όπου χρησιμοποιείται ο Mi Λογαριασμός.&lt;/Data&gt;</string>
+    <string name="submit_dialog_content_global">&lt;Data&gt;Η ανατροφοδότησή σας, μαζί με τα συνημμένα (εφόσον υπάρχουν) και τα αρχεία καταγραφής (μπορείτε να καταργήσετε την επιλογή των αντίστοιχων πλαισίων για τα αντικείμενα που δεν θέλετε να μεταφορτωθούν), θα σταλούν στους διακομιστές του MIUI. Τα αρχεία καταγραφής μπορεί να περιέχουν προσωπικές πληροφορίες και δεδομένα τοποθεσίας σας. Επιλέγοντας \"Συμφωνώ\" σημαίνει ότι διαβάσατε και συμφωνείτε με την &lt;a href=\"%1$s\"&gt;Πολιτική Απορρήτου&lt;/a&gt; και με τη &lt;a href=\"%2$s\"&gt;Συμφωνία Χρήστη&lt;/a&gt;.&lt;/Data&gt;</string>
     <string name="submit_dialog_not_show_again">"Να μην εμφανιστεί ξανά"</string>
     <string name="submit_dialog_title">Υποβολή αναφοράς</string>
     <string name="submit_feedback_info_failed">"Αδυναμία υποβολής αναφοράς"</string>
@@ -637,7 +633,7 @@ ID:%s
     <string name="tab_title_chat">Συχνές Ερωτήσεις</string>
     <string name="tab_title_my_reports">Οι αναφορές μου</string>
     <string name="tab_title_preferences">Ρυθμίσεις</string>
-    <string name="tab_title_report">Σχόλια</string>
+    <string name="tab_title_report">Ανατροφοδότηση</string>
     <string name="temporary_not_available">"Αυτή η λειτουργία δεν είναι διαθέσιμη ακόμη"</string>
     <string name="the_anniversary_of_lifting_martial_law">Επέτειος Άρσης του Στρατιωτικού Νόμου</string>
     <string name="the_anti_aggression_day">Ημέρα κατά της Εχθρότητας</string>

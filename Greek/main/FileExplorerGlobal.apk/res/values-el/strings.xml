@@ -167,6 +167,7 @@
     <string name="display_name">Εμφάνιση ονόματος</string>
     <string name="domain">Τομέας</string>
     <string name="download_success">Επιτυχής λήψη</string>
+    <string name="empty_by_forbid_access">Τα περιεχόμενα αυτού του φακέλου δεν μπορούν να εμφανιστούν εδώ λόγω περιορισμών του Android 11.</string>
     <string name="enable_documentsui">Ενεργοποίηση %s στις Ρυθμίσεις > Εγκατεστημένες εφαρμογές πρώτα</string>
     <string name="enable_sd_card">Εισαγωγή κάρτας SD ή απενεργοποίηση USB μαζικής αποθήκευσης.</string>
     <string name="enable_usb">Σύνδεση συσκευής USB</string>
@@ -181,6 +182,7 @@
     <string name="error_create_dir">Αδυναμία δημιουργίας φακέλου</string>
     <string name="error_create_file">Αδυναμία δημιουργίας αρχείου</string>
     <string name="error_delete_failed">Αδυναμία διαγραφής αρχείου</string>
+    <string name="error_file_already_exists">Αυτό το αρχείο υπάρχει ήδη.</string>
     <string name="error_filename_too_long">Το όνομα αρχείου είναι πολύ μακρύ.</string>
     <string name="error_folder_already_exists">Αυτό το αρχείο υπάρχει ήδη</string>
     <string name="error_info_cant_send_folder">Αδυναμία αποστολής αυτού του τύπου αρχείου.</string>
@@ -238,6 +240,7 @@
     <string name="favorite_photo">Φωτογραφίες</string>
     <string name="favorite_ringtone">Ήχοι κλήσης</string>
     <string name="favorite_screen_cap">Στιγμιότυπα οθόνης</string>
+    <string name="fcm_fallback_notification_channel_label">Διάφορα</string>
     <string name="feedback_desc">Περιγράψτε το πρόβλημα που συναντήσατε</string>
     <string name="feedback_send_email_body_extra_info">Μην διαγράψετε τις παρακάτω πληροφορίες. Θα μας βοηθήσει στον εντοπισμό του προβλήματος.</string>
     <string name="fileSizeSuffix">%1$s %2$s</string>
@@ -269,6 +272,8 @@
     <string name="homepage_tab_recent">Πρόσφατα</string>
     <string name="host">Διακομιστής</string>
     <string name="hot_sticker">Αυτοκόλλητα</string>
+    <string name="ic_remove_desc">Η Διαχείριση Αρχείων είναι μια εφαρμογή συστήματος που σας επιτρέπει να προβάλετε και να διαχειρίζεστε αρχεία στη συσκευή σας. Αφαίρεση ούτως ή άλλως;</string>
+    <string name="ic_remove_title">Αφαίρεση “Διαχείρισης Αρχείων” από την Αρχική οθόνη;</string>
     <string name="if_cancel">Ακύρωση αυτής ενέργειας;</string>
     <string name="image_loading_error">Αδυναμία φόρτωσης εικόνας</string>
     <string name="implicit">Έμμεση</string>
@@ -280,7 +285,7 @@
     <string name="info_system">Σύστημα:</string>
     <string name="info_system_version">Έκδοση συστήματος:</string>
     <string name="invalid_name_or_password">Μη έγκυρο όνομα χρήστη ή κωδικός</string>
-    <string name="just_now">μόλις τώρα</string>
+    <string name="just_now">Μόλις τώρα</string>
     <string name="kilobyteShort">KB</string>
     <string name="list_order">Προβολή λίστας</string>
     <string name="load_more">Εμφάνιση περισσοτέρων</string>
@@ -297,6 +302,7 @@
     <string name="menu_item_deep_clean">Βαθιά εκκαθάριση</string>
     <string name="menu_item_ftp">Συνδεθείτε με τον υπολογιστή</string>
     <string name="menu_item_midrop">Μεταφορά αρχείων</string>
+    <string name="menu_item_midrop_desc">Περισσότερες εφαρμογές</string>
     <string name="menu_item_router">Router</string>
     <string name="menu_item_sort">Ταξινόμηση κατά</string>
     <string name="menu_item_sort_add_time">"Δημιουργήθηκε "</string>
@@ -339,6 +345,13 @@
     <string name="notif_server_starting">Γίνεται εκκίνηση του διακομιστή FTP…</string>
     <string name="notif_title">Ο διακομιστής FTP βρίσκεται σε λειτουργία</string>
     <string name="notification_wechat_expired_empty">Το WeChat έχει ήδη διαγράψει αυτά τα βίντεο.</string>
+    <string name="offline_notification_text">Πατήστε για να ανοίξετε τη διαφήμιση.</string>
+    <string name="offline_notification_title">Δείτε τη διαφήμιση που αποθηκεύσατε ενώ ήσασταν εκτός σύνδεσης</string>
+    <string name="offline_opt_in_confirm">ΟΚ</string>
+    <string name="offline_opt_in_confirmation">Θα λάβετε μια ειδοποίηση με έναν σύνδεσμο όταν συνδεθείτε ξανά στο διαδίκτυο.</string>
+    <string name="offline_opt_in_decline">Όχι</string>
+    <string name="offline_opt_in_message">Θα σας στείλουμε μια ειδοποίηση με έναν σύνδεσμο στον ιστότοπο του διαφημιζόμενου.</string>
+    <string name="offline_opt_in_title">Άνοιγμα της διαφήμισης όταν συνδεθείτε ξανά στο διαδίκτυο</string>
     <string name="ok">ΟΚ</string>
     <string name="online_not_support">Αδυναμία προβολής του αρχείου αυτήν την στιγμή.</string>
     <string name="open">Άνοιγμα</string>
@@ -417,7 +430,12 @@
     <string name="port_range">Ο αριθμός θύρας πρέπει να είναι μεταξύ 1024–65535</string>
     <string name="possible_permissions">Προαιρετικά δικαιώματα</string>
     <string name="privacy_accept">Αποδοχή &amp; συνέχεια</string>
-    <string name="privacy_message">Προτού χρησιμοποιήσετε τον Διαχειριστή Αρχείων, πρέπει να αποδεχτείτε την &lt;font color=\"#4086f5\">&lt;a href=\"http://www.miui.com/res/doc/eula.html?region=%1$s&amp;lang=%2$s\" style=\"color:#4086f5;\">Συμφωνία Χρήστη μας&lt;/a>&lt;/font> και την &lt;font color=\"#4086f5\">&lt;a href=\"https://privacy.mi.com/all/%2$s\" style=\"color:#4086f5;\">Πολιτική Απορρήτου μας&lt;/a>&lt;/font>.</string>
+    <string name="privacy_cancel"><u>Δεν συμφωνώ</u></string>
+    <string name="privacy_desc">Καλώς ορίσατε στη Διαχείριση αρχείων! Εκτός από τις βασικές δυνατότητες, αυτή η εφαρμογή παρέχει επίσης τις ακόλουθες υπηρεσίες:</string>
+    <string name="privacy_experience_statement">Γίνετε μέλος του προγράμματος Εμπειρία χρήστη για να μοιραστείτε μαζί μας δεδομένα χρηστών και να μας βοηθήσετε να βελτιώσουμε τα προϊόντα και τις υπηρεσίες μας.</string>
+    <string name="privacy_item1">Κατηγοριοποίηση αντικειμένων που χρησιμοποιήθηκαν πρόσφατα</string>
+    <string name="privacy_item2">Προβολή και επεξεργασία αρχείων</string>
+    <string name="privacy_message">&lt;Data>Η Διαχείριση Αρχείων πρέπει να συλλέξει απαραίτητα προσωπικά δεδομένα για να σας παρέχει υπηρεσίες που δημιουργούν στατιστικά στοιχεία χρήσης. Μπορείτε να μάθετε πως διαχειριζόμαστε τα δεδομένα που συλλέγουμε στην &lt;a href=\"%1$s\">Πολιτική Απορρήτου&lt;/a>. Διαβάστε και συμφωνήστε με το &lt;a href=\"%2$s\">Συμφωνητικό Χρήστη&lt;/a> και την &lt;a href=\"%1$s\">Πολιτική Απορρήτου&lt;/a> πριν χρησιμοποιήσετε τη Διαχείριση Αρχείων. Μπορείτε να ανακαλέσετε τη συναίνεσή σας στην Πολιτική Απορρήτου ή στη Διαχείριση Αρχείων στις Ρυθμίσεις οποιαδήποτε στιγμή. Εάν δεν συμφωνήσετε με την Πολιτική Απορρήτου, δεν θα μπορείτε να χρησιμοποιείτε ορισμένες λειτουργίες αυτής της εφαρμογής. Ωστόσο, οι βασικές της λειτουργίες θα εξακολουθήσουν να είναι διαθέσιμες.&lt;/Data></string>
     <string name="privacy_title">Καλωσορίσατε στον Διαχειριστή Αρχείων</string>
     <string name="private_files">Ιδιωτικό</string>
     <string name="private_folder">Ιδιωτικά αρχεία</string>
@@ -430,7 +448,7 @@
     <string name="recommended_content">Προτάσεις</string>
     <string name="remind_no_notice">Απομνημόνευση της επιλογής μου</string>
     <string name="rename_alert">Εάν αλλάξετε την προέκταση του αρχείου, υπάρχει πιθανότητα να μην μπορείτε να το ανοίξετε.</string>
-    <string name="rename_alert2">Θα γίνει απόκρυψη του αρχείου αφού αλλάξετε την επέκταση του.</string>
+    <string name="rename_alert2">Αρχεία με ονόματα που ξεκινούν με \".\" αποκρύπτονται αυτόματα από το σύστημα. Θέλετε να χρησιμοποιήσετε αυτό το όνομα ούτως ή άλλως;</string>
     <string name="rename_failed">Αδυναμία μετονομασίας %1$s</string>
     <string name="repair_done">Επιτυχής επαναφορά</string>
     <string name="repair_error">Αδυναμία επαναφοράς. Προσπαθήστε ξανά.</string>
@@ -440,9 +458,16 @@
     <string name="restoring">Γίνεται επαναφορά…</string>
     <string name="revoke">Ανάκληση</string>
     <string name="revoke_authorization">Ανάκληση εξουσιοδότησης</string>
+    <string name="revoke_confirm_dialog_cancel">Ακύρωση</string>
+    <string name="revoke_confirm_dialog_content">Με εναλλαγή του διακόπτη σε ανενεργό, ανακαλείτε τη συγκατάθεσή σας στην Πολιτική Απορρήτου της Διαχείρισης Αρχείων. Θα σταματήσουμε να συλλέγουμε τις προσωπικές σας πληροφορίες. Οι προσωπικές πληροφορίες που έχουν συλλεχθεί και διατηρηθεί μέχρι στιγμής θα διαγραφούν μέσα στη συγκεκριμένη περίοδο, όπως απαιτείται από τους ισχύοντες νόμους. Η Διαχείριση Αρχείων πρέπει να συλλέξει απαραίτητες προσωπικές πληροφορίες για να βελτιώσει τις υπηρεσίες της. Η ανάκληση της συναίνεσής σας στην Πολιτική Απορρήτου της θα θεωρείται άρνηση της αποδοχής των βελτιωμένων υπηρεσιών της βάσει των συλλεγμένων προσωπικών δεδομένων.</string>
+    <string name="revoke_desc">Με εναλλαγή του διακόπτη σε ανενεργό, ανακαλείτε τη συγκατάθεσή σας στην Πολιτική Απορρήτου της Διαχείρισης Αρχείων.</string>
+    <string name="revoke_net_dialog_content">Η συσκευή πρέπει να συνδεθεί στο δίκτυο για να μπορείτε να ανακαλέσετε τη συγκατάθεσή σας. Ελέγξτε τις ρυθμίσεις του δικτύου σας και προσπαθήστε ξανά.</string>
+    <string name="revoke_net_dialog_ok">Κατάλαβα</string>
+    <string name="revoke_net_dialog_title">Αδυναμία σύνδεσης στο δίκτυο</string>
     <string name="revoke_success">Επιτυχής ανάκληση εξουσιοδότησης</string>
     <string name="revoke_timer">(%1$dδ)</string>
     <string name="revoke_tips">"Μετά την ανάκληση εξουσιοδότησης, ο Διαχειριστής Αρχείων θα διακόψει τη συλλογή δεδομένων, και όλα τα σχετικά δεδομένα θα διαγραφούν από τους διακομιστές. Αυτό ενδέχεται να καταστήσει τον Διαχειριστή Αρχείων εικονικά άχρηστο. Ανάκληση εξουσιοδότησης παρ' όλα αυτά;"</string>
+    <string name="revoke_title">Ανάκληση συγκατάθεσης</string>
     <string name="revoking">Γίνεται ανάκληση εξουσιοδότησης…</string>
     <string name="rlv_last_refreshing_time">Έγινε ενημέρωση %1$s</string>
     <string name="rlv_loading_more">Περιμένετε μια στιγμή…</string>
@@ -522,6 +547,7 @@
     <string name="time_pm">ΜΜ</string>
     <string name="time_to_upgrade">Μία ενημέρωση είναι διαθέσιμη</string>
     <string name="tip">Προσοχή</string>
+    <string name="tips_by_forbid_access">Τα περιεχόμενα αυτού του φακέλου δεν θα είναι πλέον προσβάσιμα λόγω περιορισμών συστήματος που έχουν εισαχθεί στο Android R. Καταργήστε τα προσωπικά σας αρχεία από αυτόν το φάκελο το συντομότερο δυνατό.</string>
     <string name="title_app_tags">Εφαρμογές</string>
     <string name="title_enable_documentsui">Ενεργοποίηση DocumentsUI</string>
     <string name="title_expire_video">Θα λήξουν σύντομα</string>
@@ -541,12 +567,15 @@
     <string name="update_use_mobile_data">Ενημέρωση αυτόματα χρησιμοποιώντας δεδομένα κινητής τηλεφωνίας</string>
     <string name="usb_has_removed">Η συσκευή USB αφαιρέθηκε</string>
     <string name="used">Σε χρήση</string>
+    <string name="user_experience_desc">Κοινοποίηστε τα δεδομένα χρήστη για μας βοηθήσετε να βελτιώσουμε τα προϊόντα και τις υπηρεσίες</string>
+    <string name="user_experience_title">Πρόγραμμα Εμπειρίας Χρήστη</string>
     <string name="user_not_login">Συνδεθείτε πρώτα</string>
     <string name="user_notice_privacy_policy">Πολιτική Απορρήτου</string>
     <string name="user_notice_term_of_service">Όροι Χρήσης</string>
     <string name="utf8_summary">Προεπιλεγμένη κωδικοποίηση FTP συστήματος</string>
     <string name="version_name">Έκδοση</string>
     <string name="video_replay_btn">Επανάληψη</string>
+    <string name="view_by_document">Προβολή στα Αρχεία</string>
     <string name="wechat_video">Βίντεο στο %s</string>
     <string name="wifi_state">Κατάσταση Wi-Fi</string>
     <string name="year_month_day_format">dd MMM, yyyy</string>

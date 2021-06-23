@@ -9,6 +9,7 @@
     <string name="application_cannot_open_alipay_health_code">"Αδύνατο το άνοιγμα του κωδικού υγείας Alipay"</string>
     <string name="application_cannot_open_alipay_payment_code">"Αδυναμία ανοίγματος του κωδικού πληρωμής του Alipay"</string>
     <string name="application_cannot_open_alipay_scanner">"Αδυναμία ανοίγματος του σαρωτή του Alipay"</string>
+    <string name="application_cannot_open_au_pay">Εγκαταστήστε au PAY πρώτα</string>
     <string name="application_cannot_open_weixin_health_code">"Αδύνατο το άνοιγμα του κωδικού υγείας WeChat"</string>
     <string name="application_cannot_open_weixin_payment_code">"Αδυναμία ανοίγματος του κωδικού πληρωμής του WeChat"</string>
     <string name="application_cannot_open_weixin_scanner">"Αδυναμία ανοίγματος του σαρωτή του WeChat"</string>
@@ -41,7 +42,7 @@
     <string name="bluetooth_enable_notification_content">Ο/Η %s ενεργοποίησε το Bluetooth</string>
     <string name="bluetooth_enable_notification_title">Το Bluetooth είναι ενεργό</string>
     <string name="bluetooth_open">Η εφαρμογή αυτή ενεργοποίησε το Bluetooth</string>
-    <string name="bottom_bar_smallwindow_text">Απελευθερώστε για pin</string>
+    <string name="bottom_bar_smallwindow_text">Αφήστε για καρφίτσωμα</string>
     <string name="btn_cancel">Ακύρωση</string>
     <string name="btn_sure">ΟΚ</string>
     <string name="button_text_cancel">Ακύρωση</string>
@@ -77,6 +78,11 @@
     <string name="device_type_pc">Υπολογιστής</string>
     <string name="disable_nfc">Απενεργοποιήθηκε το NFC για ασύρματη φόρτιση</string>
     <string name="disable_nfc_reverse">Απενεργοποιήθηκε το NFC για αντίστροφη ασύρματη φόρτιση</string>
+    <string name="dock_tip_floatwindow">Κρατήστε τη μπάρα και σύρετέ την στην άκρη της οθόνης για να εισάγετε προβολή διαχωριστικής οθόνης.</string>
+    <string name="dock_tip_splitscreen_landscape_drag">Σύρετε οριζόντια τη γραμμή για να ανταλλάξετε τις θέσεις των δύο παραθύρων εφαρμογής.</string>
+    <string name="dock_tip_splitscreen_landscape_float">Κρατήστε και σύρετε προς τα κάτω για να μεταβείτε σε ένα αιωρούμενο παράθυρο.</string>
+    <string name="dock_tip_splitscreen_portrait_drag">Σύρετε την μπάρα κάθετα για να ανταλλάξετε τις θέσεις των δύο παραθύρων εφαρμογής.</string>
+    <string name="dock_tip_splitscreen_portrait_float">Κρατήστε και σύρετε στην αριστερή ή δεξιά πλευρά της οθόνης για να μεταβείτε σε ένα αιωρούμενο παράθυρο.</string>
     <string name="eighthours">8 ώρες</string>
     <string name="enable_livetalk_summary">Εξοικονομήστε 70% στις χρεώσεις κλήσεων σας</string>
     <string name="enable_livetalk_title">Ενεργοποίηση Πακέτου ανανέωσης</string>
@@ -143,6 +149,8 @@
     <string name="miaudiovisual_notification_title">Ηχητικά και οπτικά εφέ</string>
     <string name="miui">miui</string>
     <string name="miui_forbid_poweroff_when_device_locked">"Αδυναμία απενεργοποίησης, η συσκευή είναι κλειδωμένη."</string>
+    <string name="miui_multiwindow_not_support_small_window">"%1$s δεν υποστηρίζει αιωρούμενα παράθυρα"</string>
+    <string name="miui_multiwindow_not_support_split">"Το %1$s δεν υποστηρίζει διαίρεση οθόνης"</string>
     <string name="miui_screen_ratio_hint">Προβλήματα αναλογίας οθόνης</string>
     <string name="miui_screen_ratio_hint_dont_show_again">"Να μην εμφανιστεί ξανά"</string>
     <string name="miui_screen_ratio_hint_go_to_settings">Μεταβείτε στις Ρυθμίσεις</string>
@@ -152,7 +160,7 @@
     <string name="miui_warning_button_cancel">Ακύρωση</string>
     <string name="miui_warning_button_ok">OK</string>
     <string name="miui_warning_tip_info">Παρουσιάστηκε σφάλμα στο %1$s. Κλείσιμο εφαρμογής τώρα;</string>
-    <string name="nearby_share">Κοντινή Μερίδα</string>
+    <string name="nearby_share">Κοινοποίηση κοντά</string>
     <string name="notification_channel_hotspot">Ειδοποίηση σημείου πρόσβασης</string>
     <string name="nubia">Nubia</string>
     <string name="nubia_phone">Nubia</string>
@@ -197,6 +205,11 @@
     <string name="redmi_note_5">Redmi Note 5</string>
     <string name="redmi_note_7">Redmi Note 7</string>
     <string name="redmi_note_7_pro">Redmi Note 7 Pro</string>
+    <string name="relaunch_dialog_alwaysUsePrompt">Απομνημόνευση επιλογής μου</string>
+    <string name="relaunch_dialog_button_cancel">Ακύρωση</string>
+    <string name="relaunch_dialog_button_confirm">Εντάξει</string>
+    <string name="relaunch_dialog_message">"Δεν είναι δυνατή η ρύθμιση του μεγέθους του παραθύρου κατά τη χρήση της εφαρμογής. Μπορείτε να επανεκκινήσετε την εφαρμογή για να ρυθμίσετε το μέγεθος του παραθύρου, αλλά τα δεδομένα της εφαρμογής που δημιουργούνται κατά τη διάρκεια αυτής της περιόδου λειτουργίας θα χαθούν. Επανεκκίνηση ούτως ή άλλως?"</string>
+    <string name="relaunch_dialog_title">Επανεκκίνηση \"%s\"?</string>
     <string name="remain">Απομένουν: %s</string>
     <string name="replace">Αντικατάσταση</string>
     <string name="resolver_app_recommend_flag">Προτεινόμενα</string>
@@ -283,6 +296,8 @@
     <string name="status_bar_toggle_wifi">Wi-Fi</string>
     <string name="status_bar_toggle_wifi_ap">Σημείο πρόσβασης</string>
     <string name="stop_operate_camera_frequently">"Ανοίγετε τη μπροστινή κάμερα υπερβολικά συχνά."</string>
+    <string name="stylus_pen_mask_screenshot">Πατήστε την οθόνη για λήψη στιγμιότυπου οθόνης</string>
+    <string name="stylus_pen_mask_text">Πατήστε την οθόνη για να ξεκινήσετε την εγγραφή</string>
     <string name="subinfo_default_name">SIM %d</string>
     <string name="sunlight_notification_content">Αυτόματη προσαρμογή φωτεινότητας σε έντονο φωτισμό περιβάλλοντος</string>
     <string name="sunlight_notification_title">Ενεργοποίηση της λειτουργίας Ηλιακού φωτός</string>

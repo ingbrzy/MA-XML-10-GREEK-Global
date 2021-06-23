@@ -113,6 +113,7 @@
     <string name="clearable_edittext_clear_description">Εκκαθάριση</string>
     <string name="click_to_restore">Επαναφέρετε τα στοιχεία συστήματος για να μπορείτε να χρησιμοποιείτε κανονικά το MIUI μετά από επαναφορά στις εργοστασιακές ρυθμίσεις. Πατήστε για έναρξη.</string>
     <string name="com_android_email">Mail</string>
+    <string name="com_android_soundrecorder">Ηχογράφηση</string>
     <string name="com_mi_liveassistant">Βοηθός ζωντανής ροής</string>
     <string name="com_miui_calculator">Aριθμομηχανή</string>
     <string name="com_miui_cleanmaster">Καθαριστής</string>
@@ -121,12 +122,14 @@
     <string name="com_miui_huanji">Mi Mover</string>
     <string name="com_miui_notes">Σημειώσεις</string>
     <string name="com_miui_screenrecorder">Εγγραφή Οθόνης</string>
+    <string name="com_miui_virtualsim">Mi Περιαγωγή</string>
     <string name="com_miui_weather2">Καιρός</string>
     <string name="com_xiaomi_drivemode">Λειτουργία αυτοκινήτου</string>
     <string name="com_xiaomi_gamecenter">Παιχνίδια</string>
     <string name="com_xiaomi_jr">Mi Οικονομικά</string>
     <string name="com_xiaomi_scanner">Σαρωτής</string>
     <string name="com_xiaomi_shop">Mi Κατάστημα</string>
+    <string name="com_xiaomi_vipaccount">Mi Κοινότητα</string>
     <string name="com_xiaomi_youpin">Youpin</string>
     <string name="confirm_description">Επιβεβαίωση</string>
     <string name="country_name_ac">AC</string>
@@ -389,6 +392,7 @@
     <string name="error_title">Αδυναμία συγχρονισμού</string>
     <string name="error_unauthorized">Ο συγχρονισμός έχει απενεργοποιηθεί λόγω πάρα πολλών προσπαθειών σύνδεσης.</string>
     <string name="evening">ΜΜ</string>
+    <string name="experience_new_system_app">Ελέγξτε τα νέα χαρακτηριστικά!</string>
     <string name="fmt_chinese_date">N月e</string>
     <string name="fmt_date">D</string>
     <string name="fmt_date_day">d</string>
@@ -569,6 +573,7 @@
     <string name="system_app_restore_failed">Παρουσιάσθηκε σφάλμα</string>
     <string name="system_app_restore_failed_detail">Αδυναμία επαναφοράς στοιχείων συστήματος. Ελέγξτε τις ρυθμίσεις του συστήματός σας και μην κάνετε επανεκκίνηση ή απενεργοποίηση της συσκευής σας μέχρι την πλήρη επαναφορά στοιχείων. Πατήστε το κουμπί παρακάτω για να προσπαθήσετε ξανά.</string>
     <string name="system_restore">Επαναφορά στοιχείων</string>
+    <string name="tap_to_update_system_app">Πατήστε για ενημέρωση εφαρμογών συστήματος</string>
     <string name="the_anniversary_of_lifting_martial_law">Anniversary of Lifting Martial Law</string>
     <string name="the_anti_aggression_day">Anti-aggression Day</string>
     <string name="the_arbor_day">Arbor Day</string>
@@ -620,6 +625,7 @@
     <string name="tuesday">Τρίτη</string>
     <string name="tuesday_short">Τρι</string>
     <string name="tuesday_shortest">Τ</string>
+    <string name="wait_for_wlan_china">Αναμονή για WLAN</string>
     <string name="web_sso_login_fail">Πρέπει να συνδεθείτε ξανά</string>
     <string name="web_sso_login_message">Γίνεται σύνδεση…</string>
     <string name="website">Ιστοσελίδα</string>

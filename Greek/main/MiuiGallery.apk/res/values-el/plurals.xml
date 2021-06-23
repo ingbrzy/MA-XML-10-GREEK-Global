@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <plurals name="a_hour_ago">
-        <item quantity="one">πριν από 1 ώρα</item>
-        <item quantity="other">πριν από 1 ώρα</item>
+        <item quantity="one">1 ώρα πριν</item>
+        <item quantity="other">1 ώρα πριν</item>
     </plurals>
     <plurals name="abbrev_a_hour_ago">
-        <item quantity="one">πριν από 1 ώρα</item>
-        <item quantity="other">πριν από 1 ώρα</item>
+        <item quantity="one">1 ώρα πριν</item>
+        <item quantity="other">1 ώρα πριν</item>
     </plurals>
     <plurals name="abbrev_half_hour_ago">
         <item quantity="one">Μισή ώρα πριν</item>
@@ -21,8 +21,8 @@
         <item quantity="other">Σε μισή ώρα</item>
     </plurals>
     <plurals name="abbrev_in_less_than_one_minute">
-        <item quantity="one">Άμεσα</item>
-        <item quantity="other">Άμεσα</item>
+        <item quantity="one">Αμέσως</item>
+        <item quantity="other">Αμέσως</item>
     </plurals>
     <plurals name="abbrev_in_num_minutes">
         <item quantity="other">σε %d λεπτά</item>
@@ -33,12 +33,12 @@
         <item quantity="other">Μόλις τώρα</item>
     </plurals>
     <plurals name="abbrev_num_minutes_ago">
-        <item quantity="other">%d λ πριν</item>
+        <item quantity="other">%d λεπτά πριν</item>
         <item quantity="one">1 λεπτό πριν</item>
     </plurals>
     <plurals name="add_secret_ensure_message">
-        <item quantity="other">Απόκρυψη αρχείων;</item>
-        <item quantity="one">Απόκρυψη αρχείου;</item>
+        <item quantity="other">Προσθήκη αυτών των στοιχείων σε ιδιωτικό άλμπουμ;</item>
+        <item quantity="one">Προσθήκη αυτού του στοιχείου σε ιδιωτικό άλμπουμ;</item>
     </plurals>
     <plurals name="add_to_album_cloud_photo_count_tip">
         <item quantity="other">Προστέθηκαν %d φωτογραφίες cloud, απενεργοποιήστε το \"Προβολή μόνο τοπικών άλμπουμ\" για να τις δείτε.</item>
@@ -49,8 +49,8 @@
         <item quantity="one">"Αδυναμία προσθήκης %2$d αντικειμένου σε άλμπουμ. %1$s."</item>
     </plurals>
     <plurals name="add_to_secret_failed_with_reason_and_count">
-        <item quantity="other">"Αδυναμία προσθήκης %2$d αντικειμένων σε κρυφό άλμπουμ. %1$s."</item>
-        <item quantity="one">"Αδυναμία προσθήκης %2$d αντικειμένου σε κρυφό άλμπουμ. %1$s."</item>
+        <item quantity="other">"%2$d στοιχεία δεν μπορούν να προστεθούν σε ιδιωτικό άλμπουμ %1$s."</item>
+        <item quantity="one">"%2$d στοιχείο δεν μπορεί να προστεθεί σε ιδιωτικό άλμπουμ. %1$s."</item>
     </plurals>
     <plurals name="age_day">
         <item quantity="other">%d ημέρες</item>
@@ -210,7 +210,7 @@
     </plurals>
     <plurals name="fast_share_auto_render_failed">
         <item quantity="other">"Παραλήφθηκαν %1$d φωτογραφίες που δεν μπόρεσαν να ανταποκριθούν."</item>
-        <item quantity="one">"Παράλειψη %1$d φωτογραφίας που δεν ήταν δυνατή η απόδοση."</item>
+        <item quantity="one">"Παραλήφθηκε %1$d φωτογραφία που δεν μπόρεσε να ανταποκριθεί."</item>
     </plurals>
     <plurals name="file_type_detail_count">
         <item quantity="other">%1$d αρχεία</item>
@@ -229,8 +229,8 @@
         <item quantity="other">Σε μισή ώρα</item>
     </plurals>
     <plurals name="in_less_than_one_minute">
-        <item quantity="one">Άμεσα</item>
-        <item quantity="other">Άμεσα</item>
+        <item quantity="one">Αμέσως</item>
+        <item quantity="other">Αμέσως</item>
     </plurals>
     <plurals name="in_num_minutes">
         <item quantity="other">σε %d λεπτά</item>
@@ -280,6 +280,10 @@
         <item quantity="other">%1$d βίντεο έτοιμα για συγχρονισμό</item>
         <item quantity="one">%1$d βίντεο έτοιμο για συγχρονισμό</item>
     </plurals>
+    <plurals name="photo_count">
+        <item quantity="other">%d φωτογραφίες</item>
+        <item quantity="one">%d φωτογραφία</item>
+    </plurals>
     <plurals name="photo_count_format">
         <item quantity="other">Συνολικά %1$d αντικείμενα</item>
         <item quantity="one">Συνολικά %1$d αντικείμενο</item>
@@ -289,16 +293,16 @@
         <item quantity="one">%d ημέρα</item>
     </plurals>
     <plurals name="photo_remain_hours">
-        <item quantity="other">%d ω</item>
-        <item quantity="one">%d ω</item>
+        <item quantity="other">%d ώρες</item>
+        <item quantity="one">%d ώρα</item>
     </plurals>
     <plurals name="pic_to_pdf_filter_count">
-        <item quantity="other">Φιλτράρισε %d μη υποστηριζόμενα στοιχεία</item>
-        <item quantity="one">Φιλτράρισε %d μη υποστηριζόμενο στοιχείο</item>
+        <item quantity="other">Φιλτραρίστηκαν %d μη υποστηριζόμενα στοιχεία</item>
+        <item quantity="one">Φιλτραρίστηκε %d μη υποστηριζόμενο στοιχείο</item>
     </plurals>
     <plurals name="pic_to_pdf_support_max_count">
-        <item quantity="other">Τα αρχεία PDF μπορούν να περιέχουν έως και %d εικόνες</item>
-        <item quantity="one">Τα αρχεία PDF μπορούν να περιέχουν έως και %d εικόνα</item>
+        <item quantity="other">Τα αρχεία PDF μπορούν να περιέχουν έως %d εικόνες</item>
+        <item quantity="one">Τα αρχεία PDF μπορούν να περιέχουν έως %d εικόνα</item>
     </plurals>
     <plurals name="picker_all_image_need_download">
         <item quantity="other">"Οι επιλεγμένες φωτογραφίες δεν είναι στην συσκευή. Λήψη με χρήση δεδομένων κινητής τηλεφωνίας;"</item>
@@ -309,52 +313,52 @@
         <item quantity="one">"Η επιλεγμένη φωτογραφία δεν είναι στην συσκευή. Θα γίνει λήψη."</item>
     </plurals>
     <plurals name="picker_all_origin_need_download">
-        <item quantity="other">"Οι επιλεγμένες φωτογραφίες(%dMB) δεν είναι στην συσκευή. Λήψη με χρήση δεδομένων κινητής τηλεφωνίας;"</item>
-        <item quantity="one">"Η επιλεγμένη φωτογραφία(%dMB) δεν είναι στην συσκευή. Λήψη με χρήση δεδομένων κινητής τηλεφωνίας;"</item>
+        <item quantity="other">"Οι επιλεγμένες φωτογραφίες(%d MB) δεν είναι στην συσκευή. Λήψη με χρήση δεδομένων κινητής τηλεφωνίας;"</item>
+        <item quantity="one">"Η επιλεγμένη φωτογραφία(%d MB) δεν είναι στην συσκευή. Λήψη με χρήση δεδομένων κινητής τηλεφωνίας;"</item>
     </plurals>
     <plurals name="picker_cancel_confirm_message">
-        <item quantity="other">"Δεν έχουν ληφθεί ακόμη %d αρχεία. Ακύρωση ούτως ή άλλως;"</item>
-        <item quantity="one">"%d αρχείο δεν έχει ληφθεί ακόμα. Ακύρωση ούτως ή άλλως;"</item>
+        <item quantity="other">"Δεν έχει πραγματοποιηθεί ακόμη λήψη %d αρχείων. Ακύρωση παρ' όλα αυτά;"</item>
+        <item quantity="one">"Δεν έχει πραγματοποιηθεί ακόμη λήψη %d αρχείου. Ακύρωση παρ' όλα αυτά;"</item>
     </plurals>
     <plurals name="picker_file_will_download">
-        <item quantity="other">Λήψη %d εναπομείναντων αρχείων</item>
-        <item quantity="one">Λήψη %d εναπομείναντος αρχείου</item>
+        <item quantity="other">Γίνεται λήψη %d υπολειπόμενων αρχείων</item>
+        <item quantity="one">Γίνεται λήψη %d υπολειπόμενου αρχείου</item>
     </plurals>
     <plurals name="picker_no_network_retry_image_confirm_message">
         <item quantity="other">"Αδυναμία λήψης %1$d φωτογραφιών, συνδεθείτε στο δίκτυο και προσπαθήστε ξανά"</item>
-        <item quantity="one">"Δεν ήταν δυνατή η λήψη %1$d φωτογραφίας, συνδεθείτε στο δίκτυο και δοκιμάστε ξανά"</item>
+        <item quantity="one">"Αδυναμία λήψης %1$d φωτογραφίας, συνδεθείτε στο δίκτυο και προσπαθήστε ξανά"</item>
     </plurals>
     <plurals name="picker_no_network_retry_origin_confirm_message">
-        <item quantity="other">"Δεν ήταν δυνατή η λήψη %1$d αρχείων (%2$d MB). Συνδεθείτε στο δίκτυο και δοκιμάστε ξανά."</item>
-        <item quantity="one">"Δεν ήταν δυνατή η λήψη %1$d αρχείου (%2$d MB). Συνδεθείτε στο δίκτυο και δοκιμάστε ξανά."</item>
+        <item quantity="other">"Αδυναμία λήψης %1$d αρχείων (%2$d MB). Συνδεθείτε στο δίκτυο και προσπαθήστε ξανά."</item>
+        <item quantity="one">"Αδυναμία λήψης %1$d αρχείου (%2$d MB). Συνδεθείτε στο δίκτυο και προσπαθήστε ξανά."</item>
     </plurals>
     <plurals name="picker_origin_need_to_download">
-        <item quantity="other">"%1$d αρχεία (%2$d MB) δεν έχουν κατεβάσει ακόμα. Λήψη χρησιμοποιώντας δεδομένα κινητής τηλεφωνίας?"</item>
-        <item quantity="one">"%1$d αρχείο (%2$d MB) δεν έχει ληφθεί ακόμα. Λήψη χρησιμοποιώντας δεδομένα κινητής τηλεφωνίας?"</item>
+        <item quantity="other">"Δεν έχει πραγματοποιηθεί ακόμη λήψη %1$d αρχείων (%2$d MB). Λήψη με χρήση δεδομένων κινητής τηλεφωνίας;"</item>
+        <item quantity="one">"Δεν έχει πραγματοποιηθεί ακόμη λήψη %1$d αρχείου (%2$d MB). Λήψη με χρήση δεδομένων κινητής τηλεφωνίας;"</item>
     </plurals>
     <plurals name="picker_retry_image_confirm_message">
-        <item quantity="other">"Δεν ήταν δυνατή η λήψη %1$d φωτογραφιών, δοκιμάστε ξανά;"</item>
-        <item quantity="one">"Δεν ήταν δυνατή η λήψη %1$d φωτογραφίας, δοκιμάστε ξανά;"</item>
+        <item quantity="other">"Αδυναμία λήψης %1$d φωτογραφιών, προσπάθεια ξανά;"</item>
+        <item quantity="one">"Αδυναμία λήψης %1$d φωτογραφίας, προσπάθεια ξανά;"</item>
     </plurals>
     <plurals name="picker_retry_origin_confirm_message">
-        <item quantity="other">"Δεν ήταν δυνατή η λήψη %1$d φωτογραφιών (%2$d MB), δοκιμάστε ξανά;"</item>
-        <item quantity="one">"Δεν ήταν δυνατή η λήψη %1$d φωτογραφίας (%2$d MB), δοκιμάστε ξανά;"</item>
+        <item quantity="other">"Αδυναμία λήψης %1$d φωτογραφιών (%2$d MB), προσπάθεια ξανά;"</item>
+        <item quantity="one">"Αδυναμία λήψης %1$d φωτογραφίας (%2$d MB), προσπάθεια ξανά;"</item>
     </plurals>
     <plurals name="picker_skip_unavailable_images">
         <item quantity="other">"Παραλείφθηκαν %d φωτογραφίες που δεν βρίσκονται στη συσκευή."</item>
-        <item quantity="one">"Παράλειψη %d φωτογραφίας που δεν υπάρχει στη συσκευή."</item>
+        <item quantity="one">"Παραλείφθηκε %d φωτογραφία που δεν βρίσκεται στη συσκευή."</item>
     </plurals>
     <plurals name="quickly_discovery_message_format">
         <item quantity="other">Βρέθηκαν %1$d νέες φωτογραφίες</item>
-        <item quantity="one">Βρέθηκε %1$d νέα φωτογραφία</item>
+        <item quantity="one">Βρέθηκε%1$d νέα φωτογραφία</item>
     </plurals>
     <plurals name="remind_face_recommend_confirm_text">
         <item quantity="other">Συνολικά %d φωτογραφίες</item>
         <item quantity="one">Συνολικά %d φωτογραφία</item>
     </plurals>
     <plurals name="remove_from_secret_failed_with_reason_and_count">
-        <item quantity="other">"Αδυναμία αφαίρεσης %2$d αντικειμένων από κρυφό άλμπουμ. %1$s."</item>
-        <item quantity="one">"Αδυναμία αφαίρεσης %2$d αντικειμένου από κρυφό άλμπουμ. %1$s."</item>
+        <item quantity="other">"%2$d στοιχεία δεν μπορούν να καταργηθούν από ιδιωτικό άλμπουμ. %1$s."</item>
+        <item quantity="one">"%2$d στοιχείο δεν μπορεί να καταργηθεί από ιδιωτικό άλμπουμ. %1$s."</item>
     </plurals>
     <plurals name="search_feedback_done_mark_and_contribute_false_negative">
         <item quantity="other">Προστέθηκαν %1$d φωτογραφίες σε \"%2$s\" και προστέθηκαν στην βάση δεδομένων.</item>
@@ -373,104 +377,104 @@
         <item quantity="one">Έγινε αφαίρεση %1$d φωτογραφίας από \"%2$s\".</item>
     </plurals>
     <plurals name="send_apk_dialog_desc">
-        <item quantity="other">%2$d πακέτα εγκατάστασης (%3$s) από %1$s</item>
-        <item quantity="one">%2$d πακέτο εγκατάστασης (%3$s) από %1$s</item>
+        <item quantity="other">%2$d πακέτα εγκατάστασης (%3$s) από τον/την %1$s</item>
+        <item quantity="one">%2$d πακέτο εγκατάστασης (%3$s) από τον/την %1$s</item>
     </plurals>
     <plurals name="send_apk_dialog_desc_received">
-        <item quantity="other">Λήφθηκαν %2$d πακέτα εγκατάστασης (%3$s) από %1$s</item>
-        <item quantity="one">Λήφθηκε %2$d πακέτο εγκατάστασης (%3$s) από %1$s</item>
+        <item quantity="other">Έγινε λήψη %2$d πακέτων εγκατάστασης (%3$s) από τον/την %1$s</item>
+        <item quantity="one">Έγινε λήψη %2$d πακέτου εγκατάστασης (%3$s) από τον/την %1$s</item>
     </plurals>
     <plurals name="send_apk_dialog_desc_receiving">
-        <item quantity="other">Λήψη %2$d πακέτων εγκατάστασης (%3$s) από %1$s…</item>
-        <item quantity="one">Λήψη %2$d πακέτου εγκατάστασης (%3$s) από %1$s…</item>
+        <item quantity="other">Γίνεται λήψη %2$d πακέτων εγκατάστασης (%3$s) από τον/την %1$s…</item>
+        <item quantity="one">Γίνεται λήψη %2$d πακέτου εγκατάστασης (%3$s) από τον/την %1$s…</item>
     </plurals>
     <plurals name="send_audio_dialog_desc">
-        <item quantity="other">%2$d αρχεία ήχου (%3$s) από %1$s</item>
-        <item quantity="one">%2$d αρχείο ήχου (%3$s) από %1$s</item>
+        <item quantity="other">%2$d αρχεία ήχου (%3$s) από τον/την %1$s</item>
+        <item quantity="one">%2$d αρχείο ήχου (%3$s) από τον/την %1$s</item>
     </plurals>
     <plurals name="send_audio_dialog_desc_received">
-        <item quantity="other">Λήφθηκαν %2$d αρχεία ήχου (%3$s) από %1$s</item>
-        <item quantity="one">Λήφθηκε %2$d αρχείο ήχου (%3$s) από %1$s</item>
+        <item quantity="other">Έγινε λήψη %2$d αρχείων ήχου (%3$s) από τον/την %1$s</item>
+        <item quantity="one">Έγινε λήψη %2$d αρχείου ήχου (%3$s) από τον/την %1$s</item>
     </plurals>
     <plurals name="send_audio_dialog_desc_receiving">
-        <item quantity="other">Λήψη %2$d αρχείων ήχου (%3$s) από %1$s…</item>
-        <item quantity="one">Λήψη %2$d αρχείου ήχου (%3$s) από %1$s…</item>
+        <item quantity="other">Γίνεται λήψη %2$d αρχείων ήχου (%3$s) από τον/την %1$s…</item>
+        <item quantity="one">Γίνεται λήψη %2$d αρχείου ήχου (%3$s) από τον/την %1$s…</item>
     </plurals>
     <plurals name="send_file_dialog_desc">
-        <item quantity="other">%2$d %3$s αρχεία (%4$s) από %1$s</item>
-        <item quantity="one">%2$d %3$s αρχείο (%4$s) από %1$s</item>
+        <item quantity="other">%2$d %3$s αρχεία (%4$s) από τον/την %1$s</item>
+        <item quantity="one">%2$d %3$s αρχείο (%4$s) από τον/την %1$s</item>
     </plurals>
     <plurals name="send_file_dialog_desc_received">
-        <item quantity="other">Ελήφθησαν %2$d %3$s αρχεία (%4$s) από %1$s</item>
-        <item quantity="one">Ελήφθησαν %2$d %3$s αρχείο (%4$s) από %1$s</item>
+        <item quantity="other">Έγινε λήψη %2$d %3$s αρχείων (%4$s) από τον/την %1$s</item>
+        <item quantity="one">Έγινε λήψη %2$d %3$s αρχείου (%4$s) από τον/την %1$s</item>
     </plurals>
     <plurals name="send_file_dialog_desc_receiving">
-        <item quantity="other">Λήψη %2$d %3$s αρχείων (%4$s) από %1$s…</item>
-        <item quantity="one">Λήψη %2$d %3$s αρχείου (%4$s) από %1$s…</item>
+        <item quantity="other">Γίνεται λήψη %2$d %3$s αρχείων (%4$s) από τον/την %1$s…</item>
+        <item quantity="one">Γίνεται λήψη %2$d %3$s αρχείου (%4$s) από τον/την %1$s…</item>
     </plurals>
     <plurals name="send_image_dialog_desc">
-        <item quantity="other">%2$d εικόνες από %1$s</item>
-        <item quantity="one">%2$d εικόνα από %1$s</item>
+        <item quantity="other">%2$d εικόνες από τον/την %1$s</item>
+        <item quantity="one">%2$d εικόνα από τον/την %1$s</item>
     </plurals>
     <plurals name="send_image_dialog_desc_received">
-        <item quantity="other">Λήφθηκαν %2$d εικόνες από %1$s</item>
-        <item quantity="one">Ελήφθη %2$d εικόνα από %1$s</item>
+        <item quantity="other">Έγινε λήψη %2$d εικόνων από τον/την %1$s</item>
+        <item quantity="one">Έγινε λήψη %2$d εικόνας από τον/την %1$s</item>
     </plurals>
     <plurals name="send_image_dialog_desc_receiving">
-        <item quantity="other">Λήψη %2$d εικόνων από %1$s…</item>
-        <item quantity="one">Λήψη %2$d εικόνας από %1$s…</item>
+        <item quantity="other">Γίνεται λήψη %2$d εικόνων από τον/την %1$s…</item>
+        <item quantity="one">Γίνεται λήψη %2$d εικόνας από τον/την %1$s…</item>
     </plurals>
     <plurals name="send_image_video_dialog_desc">
-        <item quantity="other">%2$d εικόνες και βίντεο από %1$s</item>
-        <item quantity="one">%2$d εικόνα ή βίντεο από %1$s</item>
+        <item quantity="other">%2$d εικόνες ή βίντεο από τον/την %1$s</item>
+        <item quantity="one">%2$d εικόνα ή βίντεο από τον/την %1$s</item>
     </plurals>
     <plurals name="send_image_video_dialog_desc_received">
-        <item quantity="other">Λήφθηκαν %2$d εικόνες και βίντεο από %1$s</item>
-        <item quantity="one">Ελήφθη %2$d εικόνα ή βίντεο από %1$s</item>
+        <item quantity="other">Έγινε λήψη %2$d εικόνων ή βίντεο από τον/την %1$s</item>
+        <item quantity="one">Έγινε λήψη %2$d εικόνας ή βίντεο από τον/την %1$s</item>
     </plurals>
     <plurals name="send_image_video_dialog_desc_receiving">
-        <item quantity="other">Λήψη %2$d εικόνων και βίντεο από %1$s…</item>
-        <item quantity="one">Λήψη %2$d εικόνας ή βίντεο από %1$s…</item>
+        <item quantity="other">Γίνεται λήψη %2$d εικόνων ή βίντεο από τον/την %1$s…</item>
+        <item quantity="one">Γίνεται λήψη %2$d εικόνας ή βίντεο από τον/την %1$s…</item>
     </plurals>
     <plurals name="send_more_type_file_dialog_desc">
-        <item quantity="other">%2$d αρχεία από %1$s</item>
-        <item quantity="one">%2$d αρχείο από %1$s</item>
+        <item quantity="other">%2$d αρχεία από τον/την %1$s</item>
+        <item quantity="one">%2$d αρχείο από τον/την %1$s</item>
     </plurals>
     <plurals name="send_more_type_file_dialog_desc_received">
-        <item quantity="other">Λήφθηκαν %2$d αρχεία από %1$s</item>
-        <item quantity="one">Λήφθηκε %2$d αρχείο από %1$s</item>
+        <item quantity="other">Έγινε λήψη %2$d αρχείων από τον/την %1$s</item>
+        <item quantity="one">Έγινε λήψη %2$d αρχείου από τον/την %1$s</item>
     </plurals>
     <plurals name="send_more_type_file_dialog_desc_receiving">
-        <item quantity="other">Λήψη %2$d αρχείων από %1$s…</item>
-        <item quantity="one">Λήψη %2$d αρχείου από %1$s…</item>
+        <item quantity="other">Γίνεται λήψη %2$d αρχείων από τον/την %1$s…</item>
+        <item quantity="one">Γίνεται λήψη %2$d αρχείου από τον/την %1$s…</item>
     </plurals>
     <plurals name="send_processing_files_error">
         <item quantity="other">"Αδυναμία κοινοποίησης. Γίνεται ακόμη επεξεργασία %d φωτογραφιών…"</item>
         <item quantity="one">"Αδυναμία κοινοποίησης. Γίνεται ακόμη επεξεργασία %d φωτογραφίας…"</item>
     </plurals>
     <plurals name="send_video_dialog_desc">
-        <item quantity="other">%2$d βίντεο από %1$s</item>
-        <item quantity="one">%2$d βίντεο από %1$s</item>
+        <item quantity="other">%2$d βίντεο από τον/την %1$s</item>
+        <item quantity="one">%2$d βίντεο από τον/την %1$s</item>
     </plurals>
     <plurals name="send_video_dialog_desc_received">
-        <item quantity="other">Λήφθηκαν %2$d βίντεο από %1$s</item>
-        <item quantity="one">Λήφθηκε %2$d βίντεο από %1$s</item>
+        <item quantity="other">Έγινε λήψη %2$d βίντεο από τον/την %1$s</item>
+        <item quantity="one">Έγινε λήψη %2$d βίντεο από τον/την %1$s</item>
     </plurals>
     <plurals name="send_video_dialog_desc_receiving">
-        <item quantity="other">Λήψη %2$d βίντεο από %1$s…</item>
-        <item quantity="one">Λήψη %2$d βίντεο από %1$s…</item>
+        <item quantity="other">Γίνεται λήψη %2$d βίντεο από τον/την %1$s…</item>
+        <item quantity="one">Γίνεται λήψη %2$d βίντεο από τον/την %1$s…</item>
     </plurals>
     <plurals name="send_zip_dialog_desc">
-        <item quantity="other">%2$d αρχειοθήκες (%3$s) από %1$s</item>
-        <item quantity="one">%2$d αρχειοθήκη (%3$s) από %1$s</item>
+        <item quantity="other">%2$d αρχειοθήκες (%3$s) από τον/την %1$s</item>
+        <item quantity="one">%2$d αρχειοθήκη (%3$s) από τον/την %1$s</item>
     </plurals>
     <plurals name="send_zip_dialog_desc_received">
-        <item quantity="other">Λήφθηκαν %2$d αρχειοθήκες (%3$s) από %1$s</item>
-        <item quantity="one">Λήφθηκε αρχείο %2$d (%3$s) από %1$s</item>
+        <item quantity="other">Έγινε λήψη %2$d αρχειοθηκών (%3$s) από τον/την %1$s</item>
+        <item quantity="one">Έγινε λήψη %2$d αρχειοθήκης (%3$s) από τον/την %1$s</item>
     </plurals>
     <plurals name="send_zip_dialog_desc_receiving">
-        <item quantity="other">Λήψη %2$d αρχείων (%3$s) από %1$s…</item>
-        <item quantity="one">Λήψη αρχείου %2$d (%3$s) από %1$s…</item>
+        <item quantity="other">Γίνεται λήψη %2$d αρχειοθηκών (%3$s) από τον/την %1$s…</item>
+        <item quantity="one">Γίνεται λήψη %2$d αρχειοθήκης (%3$s) από τον/την %1$s…</item>
     </plurals>
     <plurals name="slideshow_interval_value">
         <item quantity="other">%1$d δευτερόλεπτα</item>
@@ -500,28 +504,40 @@
         <item quantity="other">%d αντικείμενα</item>
         <item quantity="one">%d αντικείμενο</item>
     </plurals>
+    <plurals name="synced_photo_count">
+        <item quantity="other">Συγχρονισμένες %d φωτογραφίες</item>
+        <item quantity="one">Συγχρονισμένη %d φωτογραφία</item>
+    </plurals>
+    <plurals name="synced_videos_count">
+        <item quantity="other">Συγχρονισμένα %d βίντεο</item>
+        <item quantity="one">Συγχρονισμένο %d βίντεο</item>
+    </plurals>
     <plurals name="trash_purge_dialog_message_image">
-        <item quantity="other">"Δεν θα μπορείτε να επαναφέρετε %d επιλεγμένα αντικείμενα αν τα διαγράψετε. Διαγράψτε ούτως ή άλλως?"</item>
-        <item quantity="one">"Δεν θα μπορείτε να επαναφέρετε το επιλεγμένο στοιχείο %d αν το διαγράψετε. Διαγράψτε ούτως ή άλλως?"</item>
+        <item quantity="other">"Δεν θα έχετε δυνατότητα επαναφοράς %d επιλεγμένων αντικειμένων εάν τα διαγράψετε. Διαγραφή παρ' όλα αυτά;"</item>
+        <item quantity="one">"Δεν θα έχετε δυνατότητα επαναφοράς %d επιλεγμένου αντικειμένου εάν το διαγράψετε. Διαγραφή παρ' όλα αυτά;"</item>
     </plurals>
     <plurals name="trash_purge_dialog_message_media">
-        <item quantity="other">"Δεν θα μπορείτε να επαναφέρετε %d επιλεγμένα αντικείμενα αν τα διαγράψετε. Διαγράψτε ούτως ή άλλως?"</item>
-        <item quantity="one">"Δεν θα μπορείτε να επαναφέρετε το επιλεγμένο στοιχείο %d αν το διαγράψετε. Διαγράψτε ούτως ή άλλως?"</item>
+        <item quantity="other">"Δεν θα έχετε δυνατότητα επαναφοράς %d επιλεγμένων αντικειμένων εάν τα διαγράψετε. Διαγραφή παρ' όλα αυτά;"</item>
+        <item quantity="one">"Δεν θα έχετε δυνατότητα επαναφοράς %d επιλεγμένου αντικειμένου εάν το διαγράψετε. Διαγραφή παρ' όλα αυτά;"</item>
     </plurals>
     <plurals name="trash_purge_dialog_message_video">
-        <item quantity="other">"Δεν θα μπορείτε να επαναφέρετε %d επιλεγμένα αντικείμενα αν τα διαγράψετε. Διαγράψτε ούτως ή άλλως?"</item>
-        <item quantity="one">"Δεν θα μπορείτε να επαναφέρετε το επιλεγμένο στοιχείο %d αν το διαγράψετε. Διαγράψτε ούτως ή άλλως?"</item>
+        <item quantity="other">"Δεν θα έχετε δυνατότητα επαναφοράς %d επιλεγμένων αντικειμένων εάν τα διαγράψετε. Διαγραφή παρ' όλα αυτά;"</item>
+        <item quantity="one">"Δεν θα έχετε δυνατότητα επαναφοράς %d επιλεγμένου αντικειμένου εάν το διαγράψετε. Διαγραφή παρ' όλα αυτά;"</item>
     </plurals>
     <plurals name="trash_vip_info_text_login">
-        <item quantity="other">Τα αντικείμενα μπορούν να αποθηκευτούν εδώ για έως %1$d ημέρες (%2$s)</item>
+        <item quantity="other">Τα αντικείμενα μπορούν να αποθηκευτούν εδώ για %1$d ημέρες (%2$s)</item>
         <item quantity="one">Τα αντικείμενα μπορούν να αποθηκευτούν εδώ για %1$d ημέρα (%2$s)</item>
     </plurals>
     <plurals name="trash_vip_info_text_unlogin">
-        <item quantity="other">Τα αντικείμενα μπορούν να αποθηκευτούν εδώ για έως και %1$d ημέρες. Αναβαθμίστε το πλάνο σας για να παρατείνετε αυτή την περίοδο.</item>
-        <item quantity="one">Τα αντικείμενα μπορούν να αποθηκευτούν εδώ για %1$d ημέρα. Αναβαθμίστε το πλάνο σας για να παρατείνετε αυτή την περίοδο.</item>
+        <item quantity="other">Τα αντικείμενα μπορούν να αποθηκευτούν εδώ για %1$d ημέρες. Αναβαθμίστε το πρόγραμμά σας για επέκταση αυτού του διαστήματος.</item>
+        <item quantity="one">Τα αντικείμενα μπορούν να αποθηκευτούν εδώ για %1$d ημέρα. Αναβαθμίστε το πρόγραμμά σας για επέκταση αυτού του διαστήματος.</item>
     </plurals>
     <plurals name="video_count_format">
         <item quantity="other">%1$d αρχεία</item>
         <item quantity="one">%1$d αρχείο</item>
+    </plurals>
+    <plurals name="videos_count">
+        <item quantity="other">%d βίντεο</item>
+        <item quantity="one">%d βίντεο</item>
     </plurals>
 </resources>

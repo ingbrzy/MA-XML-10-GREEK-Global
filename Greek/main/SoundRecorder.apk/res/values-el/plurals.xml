@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <plurals name="a_hour_ago">
-        <item quantity="one">πριν από 1 ώρα</item>
-        <item quantity="other">πριν από 1 ώρα</item>
+        <item quantity="one">1 ώρα πριν</item>
+        <item quantity="other">1 ώρα πριν</item>
     </plurals>
     <plurals name="abbrev_a_hour_ago">
-        <item quantity="one">πριν από 1 ώρα</item>
-        <item quantity="other">πριν από 1 ώρα</item>
+        <item quantity="one">1 ώρα πριν</item>
+        <item quantity="other">1 ώρα πριν</item>
     </plurals>
     <plurals name="abbrev_half_hour_ago">
         <item quantity="one">Μισή ώρα πριν</item>
@@ -21,8 +21,8 @@
         <item quantity="other">Σε μισή ώρα</item>
     </plurals>
     <plurals name="abbrev_in_less_than_one_minute">
-        <item quantity="one">Άμεσα</item>
-        <item quantity="other">Άμεσα</item>
+        <item quantity="one">Αμέσως</item>
+        <item quantity="other">Αμέσως</item>
     </plurals>
     <plurals name="abbrev_in_num_minutes">
         <item quantity="other">σε %d λεπτά</item>
@@ -33,7 +33,7 @@
         <item quantity="other">Μόλις τώρα</item>
     </plurals>
     <plurals name="abbrev_num_minutes_ago">
-        <item quantity="other">%d λ πριν</item>
+        <item quantity="other">%d λεπτά πριν</item>
         <item quantity="one">1 λεπτό πριν</item>
     </plurals>
     <plurals name="btn_clear_records">
@@ -65,8 +65,8 @@
         <item quantity="other">Σε μισή ώρα</item>
     </plurals>
     <plurals name="in_less_than_one_minute">
-        <item quantity="one">Άμεσα</item>
-        <item quantity="other">Άμεσα</item>
+        <item quantity="one">Αμέσως</item>
+        <item quantity="other">Αμέσως</item>
     </plurals>
     <plurals name="in_num_minutes">
         <item quantity="other">σε %d λεπτά</item>
@@ -81,8 +81,8 @@
         <item quantity="one">%d αντικείμενο</item>
     </plurals>
     <plurals name="miuix_appcompat_items_selected">
-        <item quantity="other">%d επιλεγμένα στοιχεία</item>
-        <item quantity="one">%d επιλεγμένο στοιχείο</item>
+        <item quantity="other">%d αντικείμενα επιλέχθηκαν</item>
+        <item quantity="one">%d αντικείμενο επιλέχθηκε</item>
     </plurals>
     <plurals name="notification_warning">
         <item quantity="other">Ο αποθηκευτικός χώρος είναι περιορισμένος (λιγότερο από %d λεπτά)</item>
@@ -111,6 +111,14 @@
     <plurals name="search_call_records_hint">
         <item quantity="other">Αναζήτηση ανάμεσα σε %d ηχογραφημένες κλήσεις</item>
         <item quantity="one">Αναζήτηση ανάμεσα σε %d ηχογραφημένη κλήση</item>
+    </plurals>
+    <plurals name="search_fm_records_hint">
+        <item quantity="other">%d ηχογραφήσεις πομπού</item>
+        <item quantity="one">%d εγγραφή πομπού</item>
+    </plurals>
+    <plurals name="search_recorder_records_hint">
+        <item quantity="other">%d ηχογραφήσεις</item>
+        <item quantity="one">%d εγγραφή ήχου</item>
     </plurals>
     <plurals name="search_result">
         <item quantity="other">Βρέθηκαν %d ηχογραφήσεις</item>

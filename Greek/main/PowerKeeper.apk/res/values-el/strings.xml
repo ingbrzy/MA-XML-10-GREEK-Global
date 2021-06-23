@@ -42,6 +42,7 @@
     <string name="atrace_saving">Γίνεται αποθήκευση αρχείου καταγραφής atrace…</string>
     <string name="atrace_start">Γίνεται εγγραφή αρχείου καταγραφής atrace…</string>
     <string name="base_info">Βασικές πληροφορίες</string>
+    <string name="checking_intranet">Έλεγχος σύνδεσης intranet, παρακαλώ περιμένετε...</string>
     <string name="cloud_addr_info">Πληροφορίες Cloud</string>
     <string name="cloud_china_addr">Ενημέρωση δεδομένων κινέζικου διακομιστή</string>
     <string name="cloud_international_addr">Ενημέρωση διεθνών δεδομένων διακομιστή</string>
@@ -62,8 +63,10 @@
 Η εξοικονόμηση ενέργειας θα διαχειρίζεται επιλεκτικά τις σημαντικές εφαρμογές."</string>
     <string name="config_suggest_suffix_title">Εξοικονόμηση μπαταρίας (συνιστώμενο)</string>
     <string name="confirm">ΟΚ</string>
+    <string name="connect_intranet_hint">Παρακαλώ συνδεθείτε στο intranet</string>
     <string name="copy">Αντιγραφή</string>
     <string name="current_cloud_addr_is">Η διεύθυνση του διακομιστή ελέγχου Cloud είναι:</string>
+    <string name="delete_data_confirm">Επιβεβαίωση διαγραφής δεδομένων</string>
     <string name="empty_title_apps_container_list">Δεν υπάρχουν εφαρμογές</string>
     <string name="enable_sleep_mode">Ενεργοποιήστε την λειτουργία Ύπνου για βελτιστοποίηση της κατανάλωσης μπαταρίας το βράδυ</string>
     <string name="error_filename_too_long">Το όνομα αρχείου είναι πολύ μακρύ.</string>
@@ -86,6 +89,8 @@
     <string name="high_temp_state_message">Η συσκευή σας είναι σε υπερθέρμανση. Τα δεδομένα κινητής τηλεφωνίας, τα σημεία πρόσβασης Wi-Fi, το GPS και η κάμερα θα περιοριστούν.</string>
     <string name="hints_loading_text">Περιμένετε μία στιγμή…</string>
     <string name="important_warning">Προσοχή</string>
+    <string name="insert_data">Εισαγωγή δεδομένων</string>
+    <string name="kill_pkg_toast_message">Η συσκευή σας είναι υπερθέρμανση,και η εφαρμογή θα τερματιστεί</string>
     <string name="lasttime_applist_cloud">Ενημερωμένες εφαρμογές:</string>
     <string name="lasttime_feature_cloud">Ενημερωμένες λειτουργίες:</string>
     <string name="message_i_know">Κατανοητό</string>
@@ -97,6 +102,7 @@
     <string name="miuix_sbl_tracking_progress_labe_up_none">"Αυτά προς το παρόν"</string>
     <string name="miuix_sbl_tracking_progress_labe_up_refresh">Μια στιγμή…</string>
     <string name="miuix_sbl_tracking_progress_labe_up_refresh_fail">"Αδυναμία λήψης αντικειμένων"</string>
+    <string name="modify_data">Τροποποίηση δεδομένων</string>
     <string name="nonui_mode_config_description">"Να μην φωτίζεται η οθόνη για ειδοποιήσεις, απενεργοποίηση φωτισμού LED, αισθητήρα δακτυλικού αποτυπώματος, και ελέγχων αφής για να εξοικονομήσετε μπαταρία όταν το MIUI εντοπίζει πως δεν χρησιμοποιείτε την συσκευή σας."</string>
     <string name="nonui_mode_config_title">Λειτουργία χωρίς αλληλεπίδραση</string>
     <string name="not_set">Δεν έχει οριστεί</string>
@@ -132,6 +138,7 @@
     <string name="pref_config_title">Βελτιστοποίηση απόδοσης</string>
     <string name="preference_copied">Το \"%1$s\" αντιγράφηκε στο πρόχειρο.</string>
     <string name="privacy">Πολιτική Απορρήτου</string>
+    <string name="save_data">Αποθήκευση δεδομένων</string>
     <string name="scenario_policies_summary">Εφαρμογή διαφορετικών τρόπων εξοικονόμησης ενέργειας για διαφορετικά σενάρια.</string>
     <string name="scenario_policies_title">Έξυπνα σενάρια</string>
     <string name="scenario_policies_warmcontrol">Έλεγχος θερμοκρασίας</string>
@@ -146,7 +153,10 @@
     <string name="sleepmode_privacy_content">"Αυτή η λειτουργία θα χρησιμοποιήσει το σύστημα τηλεφώνου και τις πληροφορίες συσκευής σας. Δεν θα μεταφορτωθεί στους διακομιστές μας."</string>
     <string name="sleepmode_privacy_link">Μάθετε περισσότερα σχετικά με το απόρρητο και την ασφάλεια</string>
     <string name="sleepmode_privacy_title">Λειτουργία αδράνειας</string>
+    <string name="stricter_high_temp_state_message">"Η συσκευή σας είναι υπερθέρμανση, δεν μπορείτε να χρησιμοποιήσετε εφαρμογές εκτός από κλήση επάνω και επαφές"</string>
     <string name="sucess">Ολοκλήρωση</string>
+    <string name="thermal_cancel">ΟΧΙ</string>
+    <string name="thermal_confirm">ΝΑΙ</string>
     <string name="update_profile_failture_not_connect_wifi">"Δεν ήταν δυνατή η ενημέρωση. Συνδεθείτε με Wi-Fi και προσπαθήστε ξανά."</string>
     <string name="update_profile_sucess">Ενημερώθηκε επιτυχώς από διακομιστή</string>
     <string name="v7_preference_off">ΑΝΕΝΕΡΓΗ</string>

@@ -16,14 +16,14 @@
     <string name="abc_capital_on">ΕΝΕΡΓΟΠΟΙΗΣΗ</string>
     <string name="abc_menu_alt_shortcut_label">Alt+</string>
     <string name="abc_menu_ctrl_shortcut_label">Ctrl+</string>
-    <string name="abc_menu_delete_shortcut_label">διαγραφή</string>
-    <string name="abc_menu_enter_shortcut_label">εισαγωγή</string>
-    <string name="abc_menu_function_shortcut_label">Συνάρτηση+</string>
+    <string name="abc_menu_delete_shortcut_label">delete</string>
+    <string name="abc_menu_enter_shortcut_label">enter</string>
+    <string name="abc_menu_function_shortcut_label">Function+</string>
     <string name="abc_menu_meta_shortcut_label">Meta+</string>
     <string name="abc_menu_shift_shortcut_label">Shift+</string>
     <string name="abc_menu_space_shortcut_label">διάστημα</string>
     <string name="abc_menu_sym_shortcut_label">Sym+</string>
-    <string name="abc_prepend_shortcut_label">Μενού+</string>
+    <string name="abc_prepend_shortcut_label">Menu+</string>
     <string name="abc_search_hint">Αναζήτηση…</string>
     <string name="abc_searchview_description_clear">Διαγραφή ερωτήματος</string>
     <string name="abc_searchview_description_query">Ερώτημα αναζήτησης</string>
@@ -72,7 +72,7 @@
     <string name="complete_setting">Τέλος</string>
     <string name="complete_setting_sub_title">Μπορείτε να επιστρέψτε αργότερα για να διορθώστε τις ρυθμίσεις.</string>
     <string name="complete_setting_title">"Είστε έτοιμοι!"</string>
-    <string name="confirm">Εντάξει</string>
+    <string name="confirm">OK</string>
     <string name="confirmClose">Απενεργοποίηση</string>
     <string name="confirmCloseSpaceDes">"Δεν θα έχετε δυνατότητα εισαγωγής στον Δεύτερο χώρο μετά την διαγραφή του. Όλα τα δεδομένα θα μετακινηθούν ή θα διαγραφούν."</string>
     <string name="confirmDelete">Διαγραφή</string>
@@ -281,7 +281,7 @@
     <string name="notification_from_second_user">Προβολή ειδοποιήσεων από Δεύτερο χώρο</string>
     <string name="notification_setting_second_space">Ρύθμιση Δεύτερου χώρου</string>
     <string name="notification_setting_second_space_desc">Προσθήκη κωδικού Δεύτερου χώρου και μετακίνηση δεδομένων</string>
-    <string name="ok_button">Εντάξει</string>
+    <string name="ok_button">OK</string>
     <string name="openPasswordGuard">Ορισμός κωδικού Δεύτερου χώρου</string>
     <string name="openSuccess">Ενεργοποιήθηκε</string>
     <string name="opened">Ενεργό</string>
@@ -483,12 +483,12 @@
     <string name="xspace_disable">Δεν δημιουργήθηκε</string>
     <string name="xspace_enable">Δημιουργήθηκε</string>
     <string name="xspace_guide_content_bound">Διαθέσιμες εφαρμογές</string>
-    <string name="xspace_guide_des">Χρήση 2 λογαριασμών χωρίς εναλλαγή</string>
+    <string name="xspace_guide_des">Οι Διπλές εφαρμογές σας επιτρέπουν να χρησιμοποιείτε δυο λογαριασμούς ταυτόχρονα χωρίς εναλλαγή</string>
     <string name="xspace_guide_description">"Κάθε λογαριασμός
 αξίζει τη δική του εφαρμογή"</string>
-    <string name="xspace_guide_title">Δημιουργία διπλότυπης εφαρμογής</string>
+    <string name="xspace_guide_title">Δοκιμάστε τις Διπλότυπες εφαρμογές</string>
     <string name="xspace_header">Διπλότυπες εφαρμογές</string>
-    <string name="xspace_install_complete">&lt;font&gt;Δημιουργήθηκε διπλή εφαρμογή με επιτυχία. &lt;/font&gt;&lt;font color=#0D84FF&gt;Ανοίξτε τώρα&lt;/font&gt;.</string>
+    <string name="xspace_install_complete">&lt;font&gt;Επιτυχής δημιουργία Διπλής εφαρμογής. &lt;/font&gt;&lt;font color=#0D84FF&gt;Άνοιγμα τώρα.&lt;/font&gt;</string>
     <string name="xspace_install_completed">Έγινε προσθήκη εικονιδίου στην Αρχική οθόνη</string>
     <string name="xspace_install_completed_global">Προστέθηκε εικονίδιο στο συρτάρι</string>
     <string name="xspace_install_failed">"Αδυναμία δημιουργίας"</string>

@@ -22,5 +22,6 @@
     <string name="holiday_update_summary">Άγγιγμα για ενημέρωση πληροφοριών ημερολογίου.</string>
     <string name="holiday_update_title">Διαθέσιμη ενημέρωση</string>
     <string name="provider_label">Ημερολόγιο</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
     <string name="upgrade_msg">"Ενημέρωση δεδομένων ημερολογίου…"</string>
 </resources>

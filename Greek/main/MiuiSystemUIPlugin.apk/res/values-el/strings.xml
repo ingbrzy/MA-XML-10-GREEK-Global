@@ -107,6 +107,15 @@
     <string name="friday">Παρασκευή</string>
     <string name="friday_short">Παρ</string>
     <string name="friday_shortest">Παρ</string>
+    <string name="hearing_assist_bluetooth_enable_tips_cancle">Ακύρωση</string>
+    <string name="hearing_assist_bluetooth_enable_tips_start">Ενεργοποίηση</string>
+    <string name="hearing_assist_bluetooth_enable_tips_summary">Το Live in-ear monitor λειτουργεί όταν το Bluetooth είναι ενεργοποιημένο. Ενεργοποιήστε το Bluetooth τώρα?</string>
+    <string name="hearing_assist_bluetooth_enable_tips_title">Ενεργοποίηση Bluetooth</string>
+    <string name="hearing_assist_transmission_label">Ζωντανός ενδοακουστικός έλεγχος</string>
+    <string name="hearing_assist_transmission_tips_cancel">Ακύρωση</string>
+    <string name="hearing_assist_transmission_tips_continue">Ενεργοποίηση</string>
+    <string name="hearing_assist_transmission_tips_summary">"Live in-ear monitor μεταδίδει την τροφοδοσία μικροφώνου του τηλεφώνου σας σε συνδεδεμένα ακουστικά Bluetooth. Ενεργοποιήστε τώρα?"</string>
+    <string name="hearing_assist_transmission_tips_title">Ζωντανός ενδοακουστικός έλεγχος</string>
     <string name="icon_content_description">Εικονίδιο Διαλόγου</string>
     <string name="item_view_role_description">Tab</string>
     <string name="loading">Άγνωστη κατάσταση</string>
@@ -343,6 +352,9 @@
     <string name="wednesday_short">Τετ</string>
     <string name="wednesday_shortest">Τετ</string>
     <string name="wireless_charging_connected_message">"Αδυναμία χρήσης αντίστροφης φόρτισης όταν η συσκευή σας φορτίζεται ασύρματα."</string>
+    <string name="wireless_charging_fg_control_cancel">Ακύρωση</string>
+    <string name="wireless_charging_fg_control_messgae">"Η αντίστροφη ασύρματη φόρτιση απενεργοποιήθηκε επειδή έχει απομείνει λιγότερο από %d%% μπαταρίας. Μπορείτε να προσαρμόσετε τις ρυθμίσεις για να επιτρέψετε την αντίστροφη ασύρματη φόρτιση για μεγαλύτερο χρονικό διάστημα."</string>
+    <string name="wireless_charging_fg_control_ok">Προσαρμογή</string>
     <string name="wireless_charging_low_battery_level_message">"Αδυναμία χρήσης ασύρματης φόρτισης όταν η μπαταρία είναι φορτισμένη λιγότερο από %d%%."</string>
     <string name="wireless_charging_ok">Κατανοητό</string>
     <string name="wireless_charging_saver_cancel">Απενεργοποίηση</string>

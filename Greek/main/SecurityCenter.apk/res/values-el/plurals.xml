@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <plurals name="a_hour_ago">
-        <item quantity="one">πριν από 1 ώρα</item>
-        <item quantity="other">πριν από 1 ώρα</item>
+        <item quantity="one">1 ώρα πριν</item>
+        <item quantity="other">1 ώρα πριν</item>
     </plurals>
     <plurals name="abbrev_a_hour_ago">
-        <item quantity="one">πριν από 1 ώρα</item>
-        <item quantity="other">πριν από 1 ώρα</item>
+        <item quantity="one">1 ώρα πριν</item>
+        <item quantity="other">1 ώρα πριν</item>
     </plurals>
     <plurals name="abbrev_half_hour_ago">
         <item quantity="one">Μισή ώρα πριν</item>
@@ -21,8 +21,8 @@
         <item quantity="other">Σε μισή ώρα</item>
     </plurals>
     <plurals name="abbrev_in_less_than_one_minute">
-        <item quantity="one">Άμεσα</item>
-        <item quantity="other">Άμεσα</item>
+        <item quantity="one">Αμέσως</item>
+        <item quantity="other">Αμέσως</item>
     </plurals>
     <plurals name="abbrev_in_num_minutes">
         <item quantity="other">σε %d λεπτά</item>
@@ -33,12 +33,20 @@
         <item quantity="other">Μόλις τώρα</item>
     </plurals>
     <plurals name="abbrev_num_minutes_ago">
-        <item quantity="other">%d λ πριν</item>
+        <item quantity="other">%d λεπτά πριν</item>
         <item quantity="one">1 λεπτό πριν</item>
     </plurals>
     <plurals name="add_game_notification_title">
         <item quantity="other">Προστέθηκαν %d παιχνίδια</item>
         <item quantity="one">Προστέθηκε %d παιχνίδι</item>
+    </plurals>
+    <plurals name="app_behavior_dashboard_title_desc">
+        <item quantity="other">%d εφαρμογές</item>
+        <item quantity="one">%d εφαρμογή</item>
+    </plurals>
+    <plurals name="app_behavior_dashboard_total_usage_item">
+        <item quantity="other">%d εφαρμογές</item>
+        <item quantity="one">%d εφαρμογή</item>
     </plurals>
     <plurals name="app_behavior_desc_allow">
         <item quantity="other">Επιτράπηκε %3$d φορές μεταξύ %1$s και %2$s</item>
@@ -108,10 +116,6 @@
         <item quantity="other">Απεγκατάσταση %d εφαρμογών</item>
         <item quantity="one">Απεγκατάσταση %d εφαρμογής</item>
     </plurals>
-    <plurals name="app_manager_updater_notify_title">
-        <item quantity="other">Υπάρχουν διαθέσιμες ενημερώσεις για %d εφαρμογές</item>
-        <item quantity="one">Υπάρχουν διαθέσιμες ενημερώσεις για %d εφαρμογή</item>
-    </plurals>
     <plurals name="app_usage_day">
         <item quantity="other">Σε χρήση %d ημέρες πριν</item>
         <item quantity="one">Σε χρήση %d ημέρα πριν</item>
@@ -176,6 +180,10 @@
         <item quantity="other">%d ημέρες πριν</item>
         <item quantity="one">%d ημέρα πριν</item>
     </plurals>
+    <plurals name="exit_dialog_scan_message_new">
+        <item quantity="other">"Η βαθμολογία απόδοσης της συσκευής σας είναι μικρότερη από %d βαθμούς. Βελτιστοποιήστε τώρα?"</item>
+        <item quantity="one">"Η βαθμολογία απόδοσης της συσκευής σας είναι μικρότερη από %d βαθμό. Βελτιστοποίηση τώρα?"</item>
+    </plurals>
     <plurals name="exo_controls_fastforward_by_amount_description">
         <item quantity="other">Γρήγορη προώθηση %d δευτερόλεπτα</item>
         <item quantity="one">Γρήγορη προώθηση %d δευτερόλεπτο</item>
@@ -187,6 +195,10 @@
     <plurals name="find_applications">
         <item quantity="other">Αναζήτηση μεταξύ %d εφαρμογών</item>
         <item quantity="one">Αναζήτηση μεταξύ %d εφαρμογής</item>
+    </plurals>
+    <plurals name="find_leak_risk">
+        <item quantity="other">%d κίνδυνοι σχετιζόμενοι με το απόρρητο</item>
+        <item quantity="one">%d κίνδυνος σχετιζόμενος με το απόρρητο</item>
     </plurals>
     <plurals name="first_aid_result_summary_exception">
         <item quantity="other">%1$d προβλήματα χρειάζονται βελτιστοποίηση</item>
@@ -225,8 +237,8 @@
         <item quantity="one">Απεγκατάσταση %2$d παιχνιδιού (περιλαμβανομένου του %1$s)</item>
     </plurals>
     <plurals name="gb_game_video_ai_record_finish_tips">
-        <item quantity="other">Αποθηκεύτηκε %d εγγραφές τεχνητής νοημοσύνης στο παιχνίδι Turbo</item>
-        <item quantity="one">Αποθηκεύτηκε %d εγγραφή τεχνητής νοημοσύνης στο παιχνίδι Turbo</item>
+        <item quantity="other">Αποθηκεύτηκαν %d εγγραφές AI στο Τούρμπο παιχνιδιού</item>
+        <item quantity="one">Αποθηκεύτηκε %d εγγραφή AI στο Τούρμπο παιχνιδιού</item>
     </plurals>
     <plurals name="gb_record_time_title">
         <item quantity="other">%d δευ</item>
@@ -236,33 +248,37 @@
         <item quantity="other">Συνδεθήκατε%d συνεχόμενες ημέρες</item>
         <item quantity="one">Συνδεθήκατε %d φορά</item>
     </plurals>
+    <plurals name="gb_toolbox_guide_known">
+        <item quantity="other">Το έπιασα (%ds)</item>
+        <item quantity="one">Το έπιασα (%ds)</item>
+    </plurals>
     <plurals name="gb_voice_changer_toast_tips_window_bubble">
         <item quantity="one">"Δοκιμάστε το Voice changer τώρα
-για να λάβετε μια %dημέρα δωρεάν δοκιμή!"</item>
+για να αποκτήσετε μια δωρεάν δοκιμή %d ημέρας!"</item>
         <item quantity="other">"Δοκιμάστε το Voice changer τώρα
-για να λάβετε μια %dημέρα δωρεάν δοκιμή!"</item>
+για να αποκτήσετε μια δωρεάν δοκιμή %d ημερών!"</item>
     </plurals>
     <plurals name="gb_voice_changer_trial_gain_fail">
-        <item quantity="other">"Δεν ήταν δυνατή η λήψη δωρεάν δοκιμής %dημερών"</item>
-        <item quantity="one">"Δεν ήταν δυνατή η λήψη δωρεάν δοκιμής %dημερών"</item>
+        <item quantity="other">"Δεν ήταν δυνατή η λήψη %d-ήμερων δωρεάν δοκιμών"</item>
+        <item quantity="one">"Δεν ήταν δυνατή η λήψη %d-ήμερης δωρεάν δοκιμής"</item>
     </plurals>
     <plurals name="gb_voice_changer_trial_gain_success">
-        <item quantity="other">Ελήφθη με επιτυχία μια δωρεάν δοκιμή %dημερών</item>
-        <item quantity="one">Ελήφθη με επιτυχία μια δωρεάν δοκιμή %dημερών</item>
+        <item quantity="other">Επιτυχία λήψης %d-ήμερων δωρεάν δοκιμών</item>
+        <item quantity="one">Επιτυχία λήψης %d-ήμερης δωρεάν δοκιμής</item>
     </plurals>
     <plurals name="gb_voice_changer_user_status_get_trial_card">
-        <item quantity="other">Αποκτήστε μια δωρεάν δοκιμή %dημερών</item>
-        <item quantity="one">Αποκτήστε μια δωρεάν δοκιμή %dημερών</item>
+        <item quantity="other">Αποκτήστε δωρεάν %d-ήμερες δοκιμές</item>
+        <item quantity="one">Αποκτήστε δωρεάν %d-ήμερη δοκιμή</item>
     </plurals>
     <plurals name="gb_voice_changer_user_status_get_twice_trial_card_dialog">
-        <item quantity="other">"Η συνδρομή σας έληξε.
-Μπορείτε να λάβετε μια δωρεάν δοκιμή %dημερών τώρα!"</item>
-        <item quantity="one">"Η συνδρομή σας έληξε.
-Μπορείτε να λάβετε μια δωρεάν δοκιμή %dημερών τώρα!"</item>
+        <item quantity="other">"Οι συνδρομή σας έληξε.
+Μπορείτε να λάβετε δωρεάν %d-ήμερη δοκιμή τώρα!"</item>
+        <item quantity="one">"Οι συνδρομή σας έληξε.
+Μπορείτε να λάβετε δωρεάν %d-ήμερη δοκιμή τώρα!"</item>
     </plurals>
     <plurals name="gb_voice_changer_user_tips_info">
-        <item quantity="other">Αποκτήστε μια δωρεάν δοκιμή %dημερών</item>
-        <item quantity="one">Αποκτήστε μια δωρεάν δοκιμή %dημερών</item>
+        <item quantity="other">Αποκτήστε δωρεάν %d-ήμερες δοκιμές</item>
+        <item quantity="one">Αποκτήστε δωρεάν %d-ήμερη δοκιμή</item>
     </plurals>
     <plurals name="gtb_spring_festival_colored_egg">
         <item quantity="other">"Συγχαρητήρια! Ξεκλειδώσατε %s αυγά του Πάσχα."</item>
@@ -353,8 +369,8 @@
         <item quantity="other">Σε μισή ώρα</item>
     </plurals>
     <plurals name="in_less_than_one_minute">
-        <item quantity="one">Άμεσα</item>
-        <item quantity="other">Άμεσα</item>
+        <item quantity="one">Αμέσως</item>
+        <item quantity="other">Αμέσως</item>
     </plurals>
     <plurals name="in_num_minutes">
         <item quantity="other">σε %d λεπτά</item>
@@ -365,8 +381,8 @@
         <item quantity="one">Προστέθηκε %d παιχνίδι</item>
     </plurals>
     <plurals name="intl_perm_privacy_control_message_count">
-        <item quantity="other">Μπορείτε να προστατεύσετε %d αντικείμενα</item>
-        <item quantity="one">Μπορείτε να προστατεύσετε %d αντικείμενο</item>
+        <item quantity="other">Μπορείτε να προστατέψετε %d στοιχεία</item>
+        <item quantity="one">Μπορείτε να προστατέψετε %d στοιχείο</item>
     </plurals>
     <plurals name="keyguard_charging_info_drained_hour_time_format">
         <item quantity="other">%s ώρες</item>
@@ -417,8 +433,8 @@
         <item quantity="one">%d διαθέσιμη ενημέρωση</item>
     </plurals>
     <plurals name="miuix_appcompat_items_selected">
-        <item quantity="other">%d επιλεγμένα στοιχεία</item>
-        <item quantity="one">%d επιλεγμένο στοιχείο</item>
+        <item quantity="other">%d αντικείμενα επιλέχθηκαν</item>
+        <item quantity="one">%d αντικείμενο επιλέχθηκε</item>
     </plurals>
     <plurals name="mixed_recording_incorrect_too_short">
         <item quantity="other">Εισαγάγετε τουλάχιστον %d χαρακτήρες</item>
@@ -449,16 +465,16 @@
         <item quantity="one">Διαγραφή %d πακέτου εγκατάστασης</item>
     </plurals>
     <plurals name="notification_link_cleaner_2006">
-        <item quantity="other">Διαγραφή %d υπολειπόμενων APK</item>
-        <item quantity="one">Διαγραφή %d υπολειπόμενου APK</item>
+        <item quantity="other">Διαγραφή %d υπολειμματικών APK</item>
+        <item quantity="one">Διαγραφή %d υπολειμματικού APK</item>
     </plurals>
     <plurals name="notification_power_consume_issue">
         <item quantity="other">%d προβλήματα χρήσης μπαταρίας</item>
         <item quantity="one">%d πρόβλημα χρήσης μπαταρίας</item>
     </plurals>
     <plurals name="notification_power_consume_suggest">
-        <item quantity="other">Βελτιστοποίηση %d στοιχείων για εξοικονόμηση μπαταρίας</item>
-        <item quantity="one">Βελτιστοποίηση %d στοιχείου για εξοικονόμηση μπαταρίας</item>
+        <item quantity="other">Βελτιστοποίηση %d αντικειμένων για εξοικονόμηση μπαταρίας</item>
+        <item quantity="one">Βελτιστοποίηση %d αντικειμένου για εξοικονόμηση μπαταρίας</item>
     </plurals>
     <plurals name="notification_title_cmcc_app_check">
         <item quantity="other">%d ημέρες από το τελευταίο έλεγχο</item>
@@ -578,7 +594,7 @@
     </plurals>
     <plurals name="power_center_battery_charge_number">
         <item quantity="other">φορές</item>
-        <item quantity="one">ώρα</item>
+        <item quantity="one">φορά</item>
     </plurals>
     <plurals name="power_center_battery_consume_prolblem">
         <item quantity="other">%d προβλήματα χρήσης μπαταρίας</item>
@@ -593,8 +609,8 @@
         <item quantity="one">" ώρα"</item>
     </plurals>
     <plurals name="power_center_battery_duration_min_time_format">
-        <item quantity="other">" λεπτά"</item>
-        <item quantity="one">" λεπτά"</item>
+        <item quantity="other">" λεπ"</item>
+        <item quantity="one">" λεπ"</item>
     </plurals>
     <plurals name="power_center_battery_hour">
         <item quantity="other">"%d ώρες "</item>
@@ -605,24 +621,24 @@
         <item quantity="one">"%d λεπτό "</item>
     </plurals>
     <plurals name="power_center_battery_problem">
-        <item quantity="other">Διόρθωση %d προβλημάτων χρήσης μπαταρίας</item>
-        <item quantity="one">Διόρθωση προβλήματος χρήσης μπαταρίας %d</item>
+        <item quantity="other">Επίλυση %d προβλημάτων χρήσης μπαταρίας</item>
+        <item quantity="one">Επίλυση %d προβλήματος χρήσης μπαταρίας</item>
     </plurals>
     <plurals name="power_center_battery_problem_result">
-        <item quantity="other">Μπορείτε να διορθώσετε %d προβλήματα χρήσης μπαταρίας</item>
-        <item quantity="one">Μπορείτε να διορθώσετε το πρόβλημα χρήσης μπαταρίας %d</item>
+        <item quantity="other">Μπορείτε να επιλύσετε %d προβλήματα χρήσης μπαταρίας</item>
+        <item quantity="one">Μπορείτε να επιλύσετε %d πρόβλημα χρήσης μπαταρίας</item>
     </plurals>
     <plurals name="power_center_battery_save_suggest">
-        <item quantity="other">" %d στοιχεία μπορούν να βελτιστοποιηθούν"</item>
-        <item quantity="one">" %d στοιχείο μπορεί να βελτιστοποιηθεί"</item>
+        <item quantity="other">" %d αντικείμενα μπορεί να βελτιστοποιηθούν"</item>
+        <item quantity="one">" %d αντικείμενο μπορεί να βελτιστοποιηθεί"</item>
     </plurals>
     <plurals name="power_center_battery_suggest">
-        <item quantity="other">Βελτιστοποίηση %d στοιχείων για εξοικονόμηση μπαταρίας</item>
-        <item quantity="one">Βελτιστοποίηση %d στοιχείου για εξοικονόμηση μπαταρίας</item>
+        <item quantity="other">Βελτιστοποίηση %d αντικειμένων για εξοικονόμηση μπαταρίας</item>
+        <item quantity="one">Βελτιστοποίηση %d αντικειμένου για εξοικονόμηση μπαταρίας</item>
     </plurals>
     <plurals name="power_center_battery_suggest_result">
-        <item quantity="other">Μπορείτε να βελτιστοποιήσετε %d στοιχεία για εξοικονόμηση μπαταρίας</item>
-        <item quantity="one">Μπορείτε να βελτιστοποιήσετε το στοιχείο %d για εξοικονόμηση μπαταρίας</item>
+        <item quantity="other">Μπορείτε να βελτιστοποιήσετε %d αντικείμενα για εξοικονόμηση μπαταρίας</item>
+        <item quantity="one">Μπορείτε να βελτιστοποιήσετε %d αντικείμενο για εξοικονόμηση μπαταρίας</item>
     </plurals>
     <plurals name="power_center_list_item_optimize_button">
         <item quantity="other">Προσθήκη %d λεπτών</item>
@@ -657,12 +673,12 @@
         <item quantity="one">Η συσκευή σας θα απενεργοποιηθεί σε %d δευτερόλεπτο. Συνδέστε τον φορτιστή.</item>
     </plurals>
     <plurals name="power_optimize_app_autostart_summary">
-        <item quantity="other">%d εφαρμογές αυτόματη εκκίνηση συχνά</item>
-        <item quantity="one">%d αυτόματη εκκίνηση εφαρμογών συχνά</item>
+        <item quantity="other">%d εφαρμογές κάνουν συχνά αυτόματη εκκίνηση</item>
+        <item quantity="one">%d εφαρμογή κάνει συχνά αυτόματη εκκίνηση</item>
     </plurals>
     <plurals name="power_optimize_close_app_summary">
-        <item quantity="other">%d εφαρμογές καταναλώνουν μπαταρία</item>
-        <item quantity="one">%d εφαρμογή καταναλώνει μπαταρία</item>
+        <item quantity="other">%d εφαρμογές εξαντλούν μπαταρία</item>
+        <item quantity="one">%d εφαρμογή εξαντλεί μπαταρία</item>
     </plurals>
     <plurals name="pp_times">
         <item quantity="other">%s φορές</item>
@@ -689,44 +705,44 @@
         <item quantity="one">%d εφαρμογή</item>
     </plurals>
     <plurals name="privacy_risk_dangerous_permissions_tip">
-        <item quantity="other">%d δικαιώματα υψηλού κινδύνου χορηγήθηκαν</item>
-        <item quantity="one">%d παραχωρούμενα δικαιώματα υψηλού κινδύνου</item>
+        <item quantity="other">Δόθηκαν %d άδειες υψηλού κινδύνου</item>
+        <item quantity="one">Δόθηκε %d άδεια υψηλού κινδύνου</item>
     </plurals>
     <plurals name="privacy_risk_install_app_tip">
-        <item quantity="other">%d επικίνδυνες εφαρμογές βρέθηκαν</item>
-        <item quantity="one">%d επικίνδυνη εφαρμογή βρέθηκε</item>
+        <item quantity="other">Βρέθηκαν %d ριψοκίνδυνες εφαρμογές</item>
+        <item quantity="one">Βρέθηκε %d ριψοκίνδυνη εφαρμογή</item>
     </plurals>
     <plurals name="privacy_risk_photo_location_tip">
-        <item quantity="other">%d εντοπισθέντες κίνδυνοι από πληροφορίες τοποθεσίας</item>
-        <item quantity="one">%d κίνδυνος ανίχνευσης πληροφοριών τοποθεσίας</item>
+        <item quantity="other">Εντοπίστηκαν %d κίνδυνοι αποκάλυψης πληροφοριών τοποθεσίας</item>
+        <item quantity="one">Εντοπίστηκε %d κίνδυνος αποκάλυψης πληροφοριών τοποθεσίας</item>
     </plurals>
     <plurals name="privacy_risk_result_item_error">
-        <item quantity="other">%d εντοπισθέντες κίνδυνοι</item>
-        <item quantity="one">%d κίνδυνος ανιχνεύθηκε</item>
+        <item quantity="other">%d κίνδυνοι εντοπίστηκαν</item>
+        <item quantity="one">%d κίνδυνος εντοπίστηκε</item>
     </plurals>
     <plurals name="privacy_risk_result_msg">
-        <item quantity="other">βρέθηκαν %d πιθανοί κίνδυνοι</item>
-        <item quantity="one">%d πιθανός κίνδυνος βρέθηκε</item>
+        <item quantity="other">Εντοπίστηκαν %d πιθανά ρίσκα</item>
+        <item quantity="one">Εντοπίστηκε %d πιθανό ρίσκο</item>
     </plurals>
     <plurals name="privacy_risk_result_photo_sensitive_msg">
-        <item quantity="other">%d φωτογραφίες μπορεί να περιέχουν τις πληροφορίες που είναι ιδιωτικές ή ευαίσθητες</item>
-        <item quantity="one">%d φωτογραφία μπορεί να περιέχει τις πληροφορίες που είναι ιδιωτικές ή ευαίσθητες</item>
+        <item quantity="other">%d φωτογραφίες μπορεί να περιέχουν προσωπικές ή ευαίσθητες πληροφορίες</item>
+        <item quantity="one">%d φωτογραφία μπορεί να περιέχει προσωπικές ή ευαίσθητες πληροφορίες</item>
     </plurals>
     <plurals name="privacy_risk_result_protection_tip">
         <item quantity="other">%d λειτουργίες που προστατεύουν το απόρρητό σας είναι απενεργοποιημένες</item>
-        <item quantity="one">%d δυνατότητα που προστατεύει το απόρρητό σας είναι απενεργοποιημένη</item>
+        <item quantity="one">%d λειτουργία που προστατεύει το απόρρητό σας είναι απενεργοποιημένη</item>
     </plurals>
     <plurals name="privacy_risk_sensitive_permissions_tip">
-        <item quantity="other">%d ευαίσθητα δικαιώματα χορηγήθηκαν</item>
-        <item quantity="one">%d ευαίσθητα δικαιώματα χορηγήθηκαν</item>
+        <item quantity="other">Δόθηκαν %d ευαίσθητες άδειες</item>
+        <item quantity="one">Δόθηκε %d ευαίσθητη άδεια</item>
     </plurals>
     <plurals name="privacy_risk_uninstall_btn">
         <item quantity="other">Απεγκατάσταση %d εφαρμογών</item>
         <item quantity="one">Απεγκατάσταση %d εφαρμογής</item>
     </plurals>
     <plurals name="privacy_risk_work_encryption_msg">
-        <item quantity="other">%d στοιχεία χρειάζονται επιπλέον προστασία</item>
-        <item quantity="one">%d στοιχείο χρειάζεται επιπλέον προστασία</item>
+        <item quantity="other">%d αντικείμενα χρειάζονται επιπλέον προστασία</item>
+        <item quantity="one">%d αντικείμενο χρειάζεται επιπλέον προστασία</item>
     </plurals>
     <plurals name="quick_optimize_issue_count">
         <item quantity="other">%d προβλήματα μπαταρίας</item>
@@ -825,8 +841,8 @@
         <item quantity="one">Συνδέστε τουλάχιστον %s τελεία</item>
     </plurals>
     <plurals name="unlock_set_unlock_pin_summary_new">
-        <item quantity="other">Εισάγετε %s ψηφία</item>
-        <item quantity="one">Εισάγετε %s ψηφίο</item>
+        <item quantity="other">Εισαγάγετε %s ψηφία</item>
+        <item quantity="one">Εισαγάγετε %s ψηφία</item>
     </plurals>
     <plurals name="videobox_settings_manager_apps_count">
         <item quantity="other">%d εφαρμογές</item>

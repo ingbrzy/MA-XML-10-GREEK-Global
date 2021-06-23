@@ -36,6 +36,7 @@
     <string name="captcha">Captcha</string>
     <string name="change_find_device_status_failed">"Αδυναμία ξεκλειδώματος. %s."</string>
     <string name="clearable_edittext_clear_description">Εκκαθάριση</string>
+    <string name="close">Κλείσιμο</string>
     <string name="copy">Αντιγραφή</string>
     <string name="date_picker_lunar">Κινεζικό Παραδοσιακό Ημερολόγιο</string>
     <string name="date_time_picker_dialog_title">Ορισμός ημερομηνίας και ώρας</string>
@@ -174,6 +175,7 @@
     <string name="saturday_short">Σαβ</string>
     <string name="saturday_shortest">Σαβ</string>
     <string name="search_menu_title">Αναζήτηση</string>
+    <string name="send">Αποστολή</string>
     <string name="solar_term_autumn_begins">Το φθινόπωρο ξεκινά</string>
     <string name="solar_term_autumn_equinox">Ισημερινού φθινοπώρου</string>
     <string name="solar_term_clear_and_bright">Καθαρό και φωτεινό</string>

@@ -40,10 +40,12 @@
     <string name="back_up_task_in_process">Γίνεται δημιουργία αντίγραφου ασφαλείας…</string>
     <string name="back_up_task_unfinished">"Αδυναμία δημιουργίας αντίγραφου ασφαλείας"</string>
     <string name="backing_up_to_micloud">Γίνεται δημιουργία αντίγραφου ασφαλείας…</string>
+    <string name="backup_action_access_permission">Ρυθμίσεις</string>
     <string name="backup_action_buy_cloud_space">Αποκτήστε περισσότερο χώρο αποθήκευσης</string>
     <string name="backup_action_check_network">Ελέγξτε τις ρυθμίσεις δικτύου</string>
     <string name="backup_action_clean_disk_space">Ελευθερώστε χώρο</string>
     <string name="backup_action_retry_now">Προσπαθήστε ξανά</string>
+    <string name="backup_failed_reason_app_usage_denied">Παραχώρηση των απαιτούμενων δικαιωμάτων για δημιουργία αντιγράφων ασφαλείας αντικειμένων</string>
     <string name="backup_failed_reason_cloud_space_not_enough">Δεν υπάρχει επαρκής χώρος αποθήκευσης στο cloud για να αποθηκεύσετε αυτό το αντίγραφο ασφαλείας. Αναβαθμίστε το πακέτο σας ή απελευθερώστε χώρο αποθήκευσης στο cloud.</string>
     <string name="backup_failed_reason_disk_space_not_enough">Ανεπαρκής χώρος αποθήκευσης. Ελευθερώστε πρώτα χώρο.</string>
     <string name="backup_failed_reason_network_error">Ελέγξτε τις ρυθμίσεις δικτύου σας και προσπαθήστε ξανά</string>
@@ -58,6 +60,8 @@
     <string name="backup_success">Επιτυχής δημιουργία αντιγράφου ασφαλείας</string>
     <string name="backup_successfully">Επιτυχής δημιουργία αντιγράφου ασφαλείας</string>
     <string name="backup_to_cloud">Δημιουργία αντίγραφου ασφαλείας για την εφαρμογή</string>
+    <string name="backup_warning_reason_app_usage_denied">"Δεν ήταν δυνατός ο συγχρονισμός δεδομένων.
+Απαιτούνται άδειες"</string>
     <string name="backup_warning_reason_cloud_space_not_enough">"Αδυναμία δημιουργίας αντίγραφου ασφαλείας"</string>
     <string name="backup_warning_reason_disk_space_not_enough">"Δεν υπάρχει επαρκής χώρος αποθήκευσης
 Αδυναμία δημιουργίας αντιγράφου ασφαλείας"</string>
@@ -78,7 +82,7 @@
     <string name="btn_retry">Έλεγχος ξανά</string>
     <string name="btn_skip">Παράλειψη αυτού του βήματος</string>
     <string name="button_cancel">Ακύρωση</string>
-    <string name="button_confirm">Το κατάλαβα</string>
+    <string name="button_confirm">Κατανοητό</string>
     <string name="button_delete">Διαγραφή</string>
     <string name="button_next">Επόμενο</string>
     <string name="can_not_backup_in_lite_mode">"Αδυναμία δημιουργίας αντίγραφου ασφαλείας σε Απλή λειτουργία"</string>
@@ -162,8 +166,11 @@ Note: Data for apps you've installed won't be backed up to Xiaomi Cloud."</strin
     <string name="desktop_wait_network">Αναμονή…</string>
     <string name="desktop_waiting">Αναμονή</string>
     <string name="device_delete_prompt">Διαγραφή αντίγραφου ασφαλείας του %s;</string>
+    <string name="dialog_app_usage_denied">Δώστε δικαιώματα \"Χρήση πρόσβασης\" αντιγράφων ασφαλείας στις ρυθμίσεις για να μπορείτε να δημιουργείτε αντίγραφα ασφαλείας.</string>
     <string name="dialog_backup_failed">"Αδυναμία δημιουργίας αντιγράφου ασφαλείας"</string>
     <string name="dialog_btn_cancel_backup">Ακύρωση</string>
+    <string name="dialog_btn_confirm2">Το κατάλαβα</string>
+    <string name="dialog_btn_enter">Ρυθμίσεις</string>
     <string name="dialog_btn_next">Επόμενο</string>
     <string name="dialog_btn_overwrite_backup">Αντικατάσταση</string>
     <string name="dialog_btn_restore_skip">Επαναφορά αργότερα</string>
@@ -176,6 +183,7 @@ Note: Data for apps you've installed won't be backed up to Xiaomi Cloud."</strin
     <string name="dialog_msg_overwrite_backup">Το τοπικό αντίγραφο ασφαλείας είναι διαφορετικό από αυτό στο Xiaomi Cloud. Αν συνεχίσετε, το τρέχον αντίγραφο ασφαλείας θα αντικαταστήσει το προηγούμενο αντίγραφο ασφαλείας.</string>
     <string name="dialog_msg_restore_require_wlan">Η επαναφορά αντίγραφων ασφαλείας απαιτεί σύνδεση στο Wi-Fi.</string>
     <string name="dialog_msg_restore_require_wlan_china">Restoring backups requires connecting to WLAN.</string>
+    <string name="dialog_need_permission">Απαιτούνται δικαιώματα</string>
     <string name="dialog_title_require_wlan">Σύνδεση σε Wi-Fi</string>
     <string name="dialog_title_require_wlan_china">Connect to WLAN</string>
     <string name="dir_date_format">HHmmss_ddMMyyyy</string>
@@ -284,7 +292,7 @@ Note: Data for apps you've installed won't be backed up to Xiaomi Cloud."</strin
     <string name="month_september_shortest">Σεπ</string>
     <string name="more">Περισσότερα</string>
     <string name="morning">Πρωί</string>
-    <string name="msg_alert_cancel_restore">Γίνεται επαναφορά αντικειμένων. Διακοπή τώρα;</string>
+    <string name="msg_alert_cancel_restore">Τα στοιχεία επαναφέρονται από το Xiaomi Cloud. Ακύρωση τώρα;</string>
     <string name="msg_alert_restore_error">"Αδυναμία επαναφοράς αντικειμένων από το Xiaomi Cloud. Προσπαθήστε ξανά."</string>
     <string name="msg_restore_start_with_metered_network">"Η Αρχική Οθόνη σας θα επανεκκινηθεί. Θα γίνει αυτόματη λήψη εφαρμογών που έχουν αντίγραφα ασφαλείας. &lt;br /&gt;&lt;b&gt;&lt;font color='red'&gt;%s αρχείων θα κατέβουν.&lt;/font&gt;&lt;/b&gt;"</string>
     <string name="msg_restore_with_metered_network_hint">Εάν προχωρήσετε στην επαναφορά αυτών των στοιχείων, θα χρησιμοποιηθούν δεδομένα κινητής τηλεφωνίας για τη λήψη.</string>
@@ -300,7 +308,7 @@ Note: Data for apps you've installed won't be backed up to Xiaomi Cloud."</strin
     <string name="open_backup_switch">Εναλλαγή διακόπτη για αντίγραφα ασφαλείας</string>
     <string name="other_device_main_space">Πρώτος χώρος</string>
     <string name="other_device_second_space">Δεύτερος χώρος</string>
-    <string name="pc_mode_not_support_restore_warning">"Δεν είναι δυνατή η επαναφορά στοιχείων σε λειτουργία PC. Απενεργοποιήστε τη λειτουργία PC και προσπαθήστε ξανά."</string>
+    <string name="pc_mode_not_support_restore_warning">"Δεν είναι δυνατή η επαναφορά στοιχείων σε Λειτουργία ΗΥ. Απενεργοποιήστε τη Λειτουργία ΗΥ και δοκιμάστε ξανά."</string>
     <string name="pm">ΜΜ</string>
     <string name="preference_copied">Το \"%1$s\" αντιγράφηκε στο πρόχειρο.</string>
     <string name="process_whole_recovery">Γίνεται επαναφορά \"%s\"</string>
@@ -357,7 +365,7 @@ Note: Data for apps you've installed won't be backed up to Xiaomi Cloud."</strin
     <string name="restore_unfinished">Γίνεται επαναφορά, προσπαθήστε ξανά αργότερα</string>
     <string name="restoring_app_data_title_no_progress">Επαναφορά δεδομένων WeChat…</string>
     <string name="restoring_data">Γίνεται επαναφορά δεδομένων…</string>
-    <string name="restoring_file_title_no_progress">Γίνεται επαναφορά αρχείων…</string>
+    <string name="restoring_file_title_no_progress">Γίνεται επαναφορά εφαρμογών…</string>
     <string name="restoring_home_screen_apps">Γίνεται επαναφορά από Xiaomi Cloud…</string>
     <string name="restoring_settings">Γίνεται επαναφορά Ρυθμίσεων…</string>
     <string name="retry">Επανάληψη</string>

@@ -200,6 +200,7 @@
     <string name="copy_verification_code_tip">Αντιγράφηκε επιτυχώς</string>
     <string name="current_data_version">Έκδοση Μηνύματος Mi</string>
     <string name="date_picker_lunar">Κινεζικό Παραδοσιακό Ημερολόγιο</string>
+    <string name="date_time_picker_dialog_title">Ορισμός ημερομηνίας και ώρας</string>
     <string name="debug_about_mms">Σχετικά Με Mms</string>
     <string name="debug_category_db">Βάση Δεδομένων</string>
     <string name="debug_category_others">Άλλα</string>
@@ -435,6 +436,7 @@
     <string name="message_too_big_for_audio">Το μήνυμα είναι πολύ μεγάλο</string>
     <string name="message_too_big_for_video">Αδυναμία επισύναψης βίντεου λόγω πολύ μεγάλου μηνύματος.</string>
     <string name="message_type_label">"Είδος: "</string>
+    <string name="message_unread">Αδιάβαστο</string>
     <string name="messagelist_sender_self">Εγώ</string>
     <string name="messaging">Μηνύματα</string>
     <string name="mi_message_title">Μήνυμα Mi</string>
@@ -449,10 +451,13 @@
     <string name="miuix_appcompat_cloud_state_syncing">Συγχρονισμός με το cloud…</string>
     <string name="miuix_appcompat_confirm_description">Επιβεβαίωση</string>
     <string name="miuix_appcompat_delete_description">Διαγραφή</string>
+    <string name="miuix_appcompat_deselect_all">Αποεπιλογή</string>
     <string name="miuix_appcompat_deselect_all_description">Αποεπιλογή όλων</string>
     <string name="miuix_appcompat_search_action_mode_cancel">Ακύρωση</string>
     <string name="miuix_appcompat_search_input_description">Αναζήτηση</string>
+    <string name="miuix_appcompat_select_all">Επιλογή όλων</string>
     <string name="miuix_appcompat_select_all_description">Επιλογή όλων</string>
+    <string name="miuix_appcompat_select_item">Επιλογή στοιχείων</string>
     <string name="miuix_sbl_tracking_progress_labe_pull_to_refresh">Τραβήξτε προς τα κάτω για ανανέωση</string>
     <string name="miuix_sbl_tracking_progress_labe_refreshed">Ανανέωση με επιτυχία</string>
     <string name="miuix_sbl_tracking_progress_labe_refreshing">Ανανέωση…</string>
@@ -747,6 +752,9 @@
     <string name="privacy_password_title3">Αναβαθμίστε τον κωδικό σας</string>
     <string name="privacy_password_title4">Ο κωδικός αναβαθμίστηκε</string>
     <string name="privacy_policy">Πολιτική Απορρήτου</string>
+    <string name="privacy_revoke_nonetwork_msg">Η συσκευή σας πρέπει να συνδεθεί στο δίκτυο για να μπορέσετε να αποσύρετε τη συγκατάθεσή σας. Ελέγξτε τις ρυθμίσεις δικτύου σας και προσπαθήστε ξανά.</string>
+    <string name="privacy_revoke_nonetwork_ok">Το κατάλαβα</string>
+    <string name="privacy_revoke_nonetwork_title">"Αδυναμία σύνδεσης στο δίκτυο"</string>
     <string name="privacy_state_revoked_cancel">Ακύρωση</string>
     <string name="privacy_state_revoked_content">Με την απενεργοποίηση του διακόπτη, αποσύρετε τη συγκατάθεσή σας για την Πολιτική Απορρήτου Μηνυμάτων. Θα σταματήσουμε να συλλέγουμε τα προσωπικά σας στοιχεία. Οι προσωπικές πληροφορίες που έχουν ήδη συλλεχθεί και αποθηκευτεί θα διαγραφούν εντός της συγκεκριμένης χρονικής περιόδου, όπως απαιτείται από την ισχύουσα νομοθεσία. Mi Μήνυμα και Έξυπνη Μηνύματα που παρέχονται από την Ανταλλαγή Μηνυμάτων πρέπει να συλλέγουν τις απαραίτητες προσωπικές πληροφορίες για να σας παρέχουν βασικές υπηρεσίες. Η ανάκληση της συγκατάθεσής σας στην Πολιτική Προστασίας Προσωπικών Δεδομένων των Μηνυμάτων θα θεωρηθεί ως άρνηση αποδοχής των υπηρεσιών που βασίζονται σε συλλεγμένες προσωπικές πληροφορίες που παρέχονται από το Mi Message και το Smart Messaging.</string>
     <string name="privacy_state_revoked_dialog_title">Ανάκληση της συγκατάθεσης</string>
@@ -1055,6 +1063,7 @@
     <string name="slide_show_part">Μέρος %1$d/%2$d</string>
     <string name="slide_up_to_cancel">Κύλιση προς τα επάνω για ακύρωση</string>
     <string name="slideshow_activity">Παρουσίαση</string>
+    <string name="small_window_log_text">"Η φωτογραφική μηχανή δεν μπορεί να χρησιμοποιηθεί σε λειτουργία πολλαπλών παραθύρων"</string>
     <string name="smart_message_title">Έξυπνη Ανταλλαγή Μηνυμάτων</string>
     <string name="smart_message_upgrade_title">Ενημέρωση Πολιτικής Απορρήτου Έξυπνης Ανταλλαγής Μηνυμάτων</string>
     <string name="smart_messages_network_allow_message">Το Mi Μηνύματα απαιτεί σύνδεση στο Ίντερνετ ώστε να λειτουργήσουν κανονικά οι υπηρεσίες του. Αποδοχή τώρα;</string>

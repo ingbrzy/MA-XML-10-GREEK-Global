@@ -106,7 +106,7 @@
     </plurals>
     <plurals name="error_screen_pwd_next_retry_time">
         <item quantity="other">Προσπαθήστε ξανά σε %d δευτερόλεπτα</item>
-        <item quantity="one">Δοκιμάστε ξανά σε %d δευτερόλεπτο</item>
+        <item quantity="one">Προσπαθήστε ξανά σε %d δευτερόλεπτο</item>
     </plurals>
     <plurals name="half_hour_ago">
         <item quantity="one">Μισή ώρα πριν</item>

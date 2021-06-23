@@ -57,11 +57,10 @@
     <string name="all_list_empty">Δεν υπάρχουν επαφές</string>
     <string name="am">ΠΜ</string>
     <string name="antispam_mark_my_contribution">Κοινοποίηση πληροφοριών σημαίας</string>
-    <string name="app_name">Προτίμηση</string>
     <string name="attach_photo_dialog_title">Φωτογραφία επαφής</string>
     <string name="audio_chat">Φωνητική συνομιλία</string>
     <string name="auto_nickname">Αυτόματα</string>
-    <string name="auto_record_yellowpage">Κίτρινες σελίδες</string>
+    <string name="auto_record_yellowpage">Χρυσός οδηγός</string>
     <string name="auto_set_nickname">Αυτόματα</string>
     <string name="back_description">Πίσω</string>
     <string name="back_view_description">Πίσω</string>
@@ -78,6 +77,7 @@
     <string name="bh_back">Πίσω</string>
     <string name="bh_bill_balance">Υπόλοιπο</string>
     <string name="bh_bill_charge">Προσθήκη υπολοίπου</string>
+    <string name="bh_bills_info_label">Λεπτομέρειες</string>
     <string name="bh_bugreport">Επιχειρηματικά σχόλια</string>
     <string name="bh_business_hall_is_here">Οι υπηρεσίες παρόχων είναι εδώ</string>
     <string name="bh_business_style">Επιλέξτε διεπαφή</string>
@@ -90,12 +90,19 @@
     <string name="bh_cannot_action">"Δεν ήταν δυνατή η χρήση του %1$s. Εγκαταστήστε πρώτα την αντίστοιχη εφαρμογή."</string>
     <string name="bh_cannot_fetch_num">Άγνωστος αριθμός τηλεφώνου</string>
     <string name="bh_cannot_login_miacount">"Αδυναμία σύνδεσης στο Mi Λογαριασμό"</string>
+    <string name="bh_card_order_detail">Πληροφορίες παραγγελίας</string>
+    <string name="bh_card_order_name">Πακέτο υπηρεσιών</string>
+    <string name="bh_card_order_pay_price">Ποσό που καταβλήθηκε</string>
+    <string name="bh_card_order_price">Τιμή</string>
     <string name="bh_charge_confirm">Προσθήκη %2$s CNY σε %1$s;</string>
     <string name="bh_charge_continue">Προσθήκη ποσού</string>
     <string name="bh_charge_number">Συμπλήρωση %1$s</string>
     <string name="bh_charged_phone_number">Αριθμός τηλεφώνου: %1$s</string>
     <string name="bh_close_traffic_package">Κλείστε τις λεπτομέρειες προγράμματος εταιρείας κινητής τηλεφωνίας</string>
     <string name="bh_confirm">ΟΚ</string>
+    <string name="bh_connect_address">"Όνομα παραλήπτη"</string>
+    <string name="bh_connect_name">Παραλήπτης</string>
+    <string name="bh_connect_number">"Τηλεφωνικός αριθμός παραλήπτη"</string>
     <string name="bh_contact_number">%1$s από τις επαφές σας</string>
     <string name="bh_current_no_sim">"Η κάρτα SIM δεν έχει εισαχθεί"</string>
     <string name="bh_current_sim_number">Τρέχων αριθμός τηλεφώνου SIM %1$s</string>
@@ -106,6 +113,8 @@
     <string name="bh_edit_saved_phone_number">Επεξεργασία ετικέτας για τον αποθηκευμένο αριθμό</string>
     <string name="bh_edit_sim_num">Επεξεργασία αριθμού τηλεφώνου</string>
     <string name="bh_exchange_number">Αλλαγή αριθμού</string>
+    <string name="bh_express_name">Υπηρεσία παράδοσης</string>
+    <string name="bh_express_number">Αριθμός πακέτου</string>
     <string name="bh_fetch_balance">Ελέγξτε το υπόλοιπο</string>
     <string name="bh_flow_exceed">Περάστε το όριο</string>
     <string name="bh_funtion_desc">Καλώς ήλθατε στις υπηρεσίες Mi Carrier! Μπορείτε να χρησιμοποιήσετε αυτήν την εφαρμογή για να ελέγξετε το υπόλοιπο του τηλεφώνου σας, να αγοράσετε λεπτά κλήσεων και δεδομένα κινητής τηλεφωνίας και άλλα. Αυτή η εφαρμογή πρέπει να συνδεθεί στο δίκτυο για να μπορεί να λειτουργεί κανονικά.</string>
@@ -125,16 +134,20 @@
     <string name="bh_net_error">Παρουσιάστηκε σφάλμα δικτύου</string>
     <string name="bh_no_sim">"Η κάρτα SIM δεν έχει εισαχθεί"</string>
     <string name="bh_no_sim_inserted">"Η κάρτα SIM δεν έχει εισαχθεί"</string>
+    <string name="bh_none">Κανένα</string>
     <string name="bh_not_contact">"Αδυναμία εύρεσης αποτελεσμάτων"</string>
     <string name="bh_notice">Προσοχή</string>
     <string name="bh_online_service">Online υποστήριξη</string>
     <string name="bh_option_agree_dec">Επιτρέψτε στις υπηρεσίες Mi Carrier να συνδεθούν στο Διαδίκτυο και να εκχωρήσουν τα απαιτούμενα δικαιώματα πριν χρησιμοποιήσετε την εφαρμογή.</string>
+    <string name="bh_order_detail">Λεπτομέρειες παραγγελίας</string>
     <string name="bh_order_id">Αναγνωριστικό παραγγελίας</string>
     <string name="bh_order_loading">Περιμένετε μια στιγμή</string>
     <string name="bh_order_pay">Πληρωμή</string>
+    <string name="bh_order_status">Κατάσταση παραγγελίας</string>
     <string name="bh_order_time">Χρόνος συναλλαγής</string>
     <string name="bh_other_charge">Άλλος αριθμός τηλεφώνου</string>
     <string name="bh_other_operator">Άλλοι μεταφορείς</string>
+    <string name="bh_other_traffic">Άλλος αριθμός τηλεφώνου</string>
     <string name="bh_pay_fail_desc">"Δεν ήταν δυνατή η σύνδεση στο δίκτυο. Επιστρέψτε και ολοκληρώστε ξανά την πληρωμή."</string>
     <string name="bh_pay_fee">Ampunt</string>
     <string name="bh_pay_success_desc">Το υπόλοιπό σας μπορεί να πιστωθεί με καθυστέρηση</string>
@@ -165,8 +178,18 @@
     <string name="bh_system_recommend_des">Επιτρέψτε μας να αναλύσουμε την επισκεψιμότητά σας και να προτείνουμε ψηφιακά προϊόντα με βάση τα αποτελέσματα</string>
     <string name="bh_tag_phones">Συχνά χρησιμοποιούμενοι αριθμοί τηλεφώνου</string>
     <string name="bh_tags_number_exceed">"Δεν είναι δυνατή η αποθήκευση περισσότερων αριθμών τηλεφώνου"</string>
+    <string name="bh_text_buy_time">Η παραγγελία δημιουργήθηκε</string>
+    <string name="bh_text_charge_name">Ποσό</string>
+    <string name="bh_text_no_order">Δεν υπάρχουν παραγγελίες εδώ</string>
+    <string name="bh_text_operator">Πάροχος</string>
+    <string name="bh_text_order_id">Αύξων αριθμός</string>
+    <string name="bh_text_paid_fee">Ποσό παραγγελίας</string>
+    <string name="bh_text_phone_num">Αριθμός τηλεφώνου</string>
+    <string name="bh_text_traffic_package">Πακέτο δεδομένων</string>
     <string name="bh_time_before">Πριν %1$s %2$s</string>
+    <string name="bh_toast_copy">Αντιγράφηκε επιτυχώς</string>
     <string name="bh_toast_start_intent_failed">"Δεν ήταν δυνατή η εύρεση μιας εφαρμογής για τον χειρισμό αυτής της ενέργειας"</string>
+    <string name="bh_traffic_charge">Λήψη δεδομένων κινητής τηλεφωνίας</string>
     <string name="bh_traffic_service">Περισσότερες υπηρεσίες</string>
     <string name="bh_traffic_surplus">Δεδομένα που απομένουν</string>
     <string name="bh_traffic_title">Λήψη δεδομένων</string>
@@ -176,7 +199,6 @@
     <string name="bh_vs">Mi Περιαγωγή</string>
     <string name="bh_will_open">Άνοιγμα %1$s</string>
     <string name="bh_wrong_number_hint">Εισάγετε τηλεφωνικό αριθμό</string>
-    <string name="bills_info_label">Λεπτομέρειες</string>
     <string name="bind_simcard_default">Προεπιλεγμένη SIM για κλήσεις</string>
     <string name="bind_simcard_menu">Ορισμός προεπιλεγμένης SIM για κλήσεις</string>
     <string name="bind_simcard_no_dual">"Αδυναμία εύρεσης διπλής SIM"</string>
@@ -271,7 +293,7 @@
     <string name="callrecordview_menu_delete_called">Εκκαθάριση εξερχομένων κλήσεων</string>
     <string name="callrecordview_menu_delete_missed">Εκκαθάριση αναπάντητων κλήσεων</string>
     <string name="callrecordview_menu_delete_one">Διαγραφή από το ιστορικό κλήσεων</string>
-    <string name="callrecordview_menu_delete_sim">Εκκαθάριση καταγραφών ιστορικού κλήσης (%s)</string>
+    <string name="callrecordview_menu_delete_sim">Εκκαθάριση καταγραφών ιστορικού κλήσεων (%s)</string>
     <string name="callrecordview_menu_delete_stranger">Εκκαθάριση αγνώστων αριθμών</string>
     <string name="callrecordview_menu_identify_numbers">Αναγνώριση τηλεφωνικών αριθμών</string>
     <string name="callrecordview_menu_mobiledata">Αγορά δεδομένων</string>
@@ -304,6 +326,7 @@
     <string name="clear_default">Εκκαθάριση προεπιλογής</string>
     <string name="clear_digits">Διαγραφή αριθμού τηλεφώνου</string>
     <string name="clearable_edittext_clear_description">Εκκαθάριση</string>
+    <string name="close">Κλείσιμο</string>
     <string name="close_dial_pad_description">Κλείσιμο πληκτρολογίου</string>
     <string name="cloud_antispam_mark">Σημαία</string>
     <string name="cloud_antispam_marked">Με σημαία</string>
@@ -319,7 +342,7 @@
     <string name="confirm_call_log_dial_summary">Ζητήστε επιβεβαίωση πριν καλέσετε από αρχεία καταγραφής κλήσεων για να αποφύγετε τυχαίες κλήσεις.</string>
     <string name="confirm_call_log_dial_title">Επιβεβαιώστε τις κλήσεις από αρχεία καταγραφής κλήσεων</string>
     <string name="confirm_delete_contact_all_call_logs">"Εκκαθάριση όλου του ιστορικού %s;"</string>
-    <string name="confirm_delete_selected_all_call_logs">Εκκαθάριση ιστορικού κλήσεων?</string>
+    <string name="confirm_delete_selected_all_call_logs">Εκκαθάριση ιστορικού κλήσεων;</string>
     <string name="confirm_delete_sim_entry_miui_title">Διαγραφή</string>
     <string name="confirm_export_message">Η λίστα επαφών σας θα εξαχθεί στο αρχείο: %s.</string>
     <string name="confirm_export_title">Εξαγωγή επαφών;</string>
@@ -348,7 +371,7 @@
     <string name="contact_edit_title_readonly">Επαφή μόνο για ανάγνωση</string>
     <string name="contact_editor_prompt_multiple_accounts">Αποθήκευση επαφής σε</string>
     <string name="contact_editor_prompt_zero_accounts">Αποθήκευση στο κινητό ή σε νέο online λογαριασμό</string>
-    <string name="contact_import_methods_dialog_mi_mover">Εισαγωγή με Mi Mover</string>
+    <string name="contact_import_methods_dialog_mi_mover">Εισαγωγή με Μεταφορά Mi</string>
     <string name="contact_import_methods_dialog_title">Επιλογή μεθόδου εισαγωγής</string>
     <string name="contact_is_deleted">Αυτή η επαφή διαγράφηκε</string>
     <string name="contact_is_readOnly">"Αδυναμία επεξεργασίας επαφών μόνο για ανάγνωση"</string>
@@ -393,12 +416,13 @@ Mi Roaming πρέπει να συνδεθεί στο Διαδίκτυο και �
     <string name="custom_list_filter">Ορισμός προσαρμοσμένης προβολής</string>
     <string name="custom_nickname_hint">Εισαγωγή ψευδώνυμου</string>
     <string name="date_picker_lunar">Παραδοσιακό κινεζικό ημερολόγιο</string>
+    <string name="date_time_picker_dialog_title">Ορισμός ημερομηνίας και ώρας</string>
     <string name="date_year_toggle">Καθορισμός έτους</string>
     <string name="default_ringtone">Προεπιλεγμένος ήχος κλήσης</string>
     <string name="deleteCloudConfirmationDetail">Διαγραφή των πληροφοριών επαφής %s από το cloud και από τη συσκευή;</string>
     <string name="deleteConfirmationDetail">Διαγραφή\"%s\"?</string>
     <string name="deleteConfirmation_title">Διαγραφή επαφής?</string>
-    <string name="delete_call_log_message">Εκκαθάριση ιστορικού κλήσεων?</string>
+    <string name="delete_call_log_message">Εκκαθάριση ιστορικού κλήσεων;</string>
     <string name="delete_call_log_selected_title">Εκκαθάριση επιλεγμένου ιστορικού κλήσεων;</string>
     <string name="delete_call_log_title">Εκκαθάριση ιστορικού κλήσεων</string>
     <string name="delete_conference_call_log_message">Διαγραφή τώρα όλων των εγγραφών κλήσης συνδιάσκεψης που σχετίζονται με αυτή την επαφή;</string>
@@ -705,10 +729,13 @@ Mi Roaming πρέπει να συνδεθεί στο Διαδίκτυο και �
     <string name="miuix_appcompat_cloud_state_syncing">Γίνεται συγχρονισμός με Cloud…</string>
     <string name="miuix_appcompat_confirm_description">Επιβεβαίωση</string>
     <string name="miuix_appcompat_delete_description">Διαγραφή</string>
+    <string name="miuix_appcompat_deselect_all">Αποεπιλογή</string>
     <string name="miuix_appcompat_deselect_all_description">Αποεπιλογή όλων</string>
     <string name="miuix_appcompat_search_action_mode_cancel">Ακύρωση</string>
     <string name="miuix_appcompat_search_input_description">Αναζήτηση</string>
+    <string name="miuix_appcompat_select_all">Επιλογή όλων</string>
     <string name="miuix_appcompat_select_all_description">Επιλογή όλων</string>
+    <string name="miuix_appcompat_select_item">Επιλογή αντικειμένων</string>
     <string name="miuix_sbl_tracking_progress_labe_pull_to_refresh">Τραβήξτε προς τα κάτω για ανανέωση</string>
     <string name="miuix_sbl_tracking_progress_labe_refreshed">Επιτυχής ανανέωση</string>
     <string name="miuix_sbl_tracking_progress_labe_refreshing">Γίνεται ανανέωση…</string>
@@ -787,6 +814,7 @@ Mi Roaming πρέπει να συνδεθεί στο Διαδίκτυο και �
     <string name="night">Βράδυ</string>
     <string name="nine_letter">ΖΞΥΧ</string>
     <string name="noAccounts">Για τη δημιουργία ομάδας απαιτείται λογαριασμός.</string>
+    <string name="no_contact_selected">Επιλέξτε μια επαφή για να δείτε λεπτομέρειες</string>
     <string name="no_contacts_dialog_message">"Επαφές μπορούν να αποθηκευτούν στην κάρτα SIM. Δοκιμάστε την εισαγωγή τους από την κάρτα SIM σας στην εσωτερική μνήμη της συσκευής σας και στη συνέχεια προσπαθήστε ξανά."</string>
     <string name="no_contacts_dialog_title">"Αδυναμία εύρεσης επαφών"</string>
     <string name="no_phone_no_shortcut">"Αδυναμία δημιουργίας συντομεύσεων για επαφές χωρίς τηλεφωνικούς αριθμούς"</string>
@@ -878,8 +906,8 @@ Mi Roaming πρέπει να συνδεθεί στο Διαδίκτυο και �
     <string name="preference_privacy_policy_title">Πολιτική Απορρήτου</string>
     <string name="preference_remove_duplicate">Συγχώνευση διπλότυπων επαφών</string>
     <string name="preference_show_firewall_calllog">Εμφάνιση αποκλεισμένων κλήσεων στο ιστορικό κλήσεων</string>
-    <string name="preference_show_yellowpage_tab_description">Οι Κίτρινες σελίδες ενδέχεται να μην λειτουργούν κανονικά όταν η λειτουργία αυτή είναι ανενεργή.</string>
-    <string name="preference_show_yellowpage_tab_title">Εμφάνιση Κίτρινων σελίδων</string>
+    <string name="preference_show_yellowpage_tab_description">Ο Χρυσός οδηγός ενδέχεται να μην λειτουργεί κανονικά όταν η λειτουργία αυτή είναι ανενεργή.</string>
+    <string name="preference_show_yellowpage_tab_title">Εμφάνιση Χρυσύ οδηγού</string>
     <string name="preference_simple_mode_title">Προβολή φωτογραφιών και πληροφοριών</string>
     <string name="preference_smart_group_company_summary">Ομαδοποίηση ανά εταιρία</string>
     <string name="preference_smart_group_company_title">Εταιρίες</string>
@@ -934,6 +962,7 @@ Mi Roaming πρέπει να συνδεθεί στο Διαδίκτυο και �
     <string name="remove_duplicate">"Το MIUI θα σας βοηθήσει να βρείτε και συγχωνεύσετε διπλότυπες επαφές.
 
  Για να ξεκινήσετε, αγγίξτε το εικονίδιο Συγχώνευση στο κάτω μέρος της οθόνης σας."</string>
+    <string name="residual_time_description">%1$sημέρα%2$sώρα</string>
     <string name="restore_app_btn_cancel">Ακύρωση</string>
     <string name="restore_app_btn_restore">OK</string>
     <string name="restore_app_description_content">Προσθέστε μια συντόμευση αρχικής οθόνης για να έχετε πρόσβαση στις επαφές σας πιο γρήγορα.</string>
@@ -973,6 +1002,7 @@ Mi Roaming πρέπει να συνδεθεί στο Διαδίκτυο και �
     <string name="select_all">Επιλογή όλων</string>
     <string name="select_groups">Επιλογή ομάδων</string>
     <string name="select_vcard_title">Επιλογή αρχείου vCard</string>
+    <string name="send">Αποστολή</string>
     <string name="send_contact_shortcut_todesktop_duplicate">Αυτή η συντόμευση υπάρχει ήδη</string>
     <string name="send_contact_shortcut_todesktop_failed">"Αδυναμία τοποθέτησης της συντόμευσης στην Αρχική οθόνη"</string>
     <string name="send_contact_shortcut_todesktop_overflow">"Αδυναμία τοποθέτησης περισσότερων συντομεύσεων στην Αρχική οθόνη"</string>
@@ -1097,9 +1127,9 @@ Mi Roaming πρέπει να συνδεθεί στο Διαδίκτυο και �
     <string name="t9_search_empty_send_sms">Αποστολή μηνύματος</string>
     <string name="t9_search_empty_video_call">Βιντεοκλήση</string>
     <string name="t9_search_guide_pinyin_title1">Εισάγετε αριθμό για την αναζήτηση επαφών</string>
-    <string name="t9_search_guide_pinyin_title2" formatted="false">Enter \"%d\" and \"%d\" to search for \"ebbie mith\"</string>
+    <string name="t9_search_guide_pinyin_title2" formatted="false">Εισάγετε %d και %d για να αναζητήσετε το Debbie Smith</string>
     <string name="t9_search_guide_zhuyin_title1">Εισάγετε αριθμό για την αναζήτηση επαφών</string>
-    <string name="t9_search_guide_zhuyin_title2" formatted="false">Enter \"%d\" and \"%d\" to search for \"eff ax\"</string>
+    <string name="t9_search_guide_zhuyin_title2" formatted="false">Εισαγάγετε %d και %d για αναζήτηση Jeff Max</string>
     <string name="take_new_photo">Λήψη νέας φωτογραφίας</string>
     <string name="take_photo">Λήψη φωτογραφίας</string>
     <string name="text_msim_balance">Χρησιμοποιήθηκαν σήμερα</string>
@@ -1207,10 +1237,10 @@ Mi Roaming πρέπει να συνδεθεί στο Διαδίκτυο και �
     <string name="wednesday_short">Τετ</string>
     <string name="wednesday_shortest">Τετ</string>
     <string name="wipe_data">Εκκαθάριση δεδομένων</string>
-    <string name="yellowPageNavigationLabel">Κίτρινες σελίδες</string>
+    <string name="yellowPageNavigationLabel">Χρυσός οδηγός</string>
     <string name="yellowpage_address_tag">Διεύθυνση</string>
     <string name="yellowpage_provider_label">Η τεχνική υποστήριξη για τον καλούντα/Η αναγνώριση αναγνωριστικού αποστολέα παρέχεται από την</string>
-    <string name="yellowpage_search_the_yellowpage">Αναζήτηση στις Κίτρινες σελίδες</string>
+    <string name="yellowpage_search_the_yellowpage">Αναζήτηση στον Χρυσό οδηγό</string>
     <string name="yesterday">Χθες</string>
     <string name="zero_items_selected">Επιλογή αντικειμένων</string>
 </resources>

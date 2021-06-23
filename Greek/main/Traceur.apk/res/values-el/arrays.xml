@@ -99,8 +99,8 @@
     </string-array>
     <string-array name="bluetooth_map_versions">
         <item>MAP 1.2 (Προεπιλογή)</item>
-        <item>ΧΑΡΤΗΣ 1, 3</item>
-        <item>ΧΑΡΤΗΣ 1, 4</item>
+        <item>MAP 1.3</item>
+        <item>MAP 1.4</item>
     </string-array>
     <string-array name="bt_hci_snoop_log_entries">
         <item>Απενεργοποιήθηκε</item>

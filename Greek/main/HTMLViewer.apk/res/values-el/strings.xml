@@ -37,6 +37,7 @@
     <string name="app_version_which_call">Έκδοση εφαρμογής: %s</string>
     <string name="autoconnect">Αυτόματη σύνδεση</string>
     <string name="clearable_edittext_clear_description">Εκκαθάριση</string>
+    <string name="close">Κλείσιμο</string>
     <string name="copyright">Πνευματικά δικαιώματα</string>
     <string name="date_picker_lunar">Κινεζικό Παραδοσιακό Ημερολόγιο</string>
     <string name="date_time_picker_dialog_title">Ορισμός ημερομηνίας και ώρας</string>
@@ -143,6 +144,7 @@
     <string name="saturday_short">Σαβ</string>
     <string name="saturday_shortest">Σαβ</string>
     <string name="search_menu_title">Αναζήτηση</string>
+    <string name="send">Αποστολή</string>
     <string name="settings_ad_loading">Περιμένετε μία στιγμή…</string>
     <string name="settings_ad_loading_unavailable">"Αδυναμία φόρτωσης πληροφοριών."</string>
     <string name="settings_license_activity_loading">Περιμένετε μία στιγμή…</string>

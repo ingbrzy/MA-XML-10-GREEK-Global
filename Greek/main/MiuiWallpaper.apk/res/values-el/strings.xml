@@ -50,7 +50,7 @@
     <string name="fmt_date_long_month_day">dd MMMM</string>
     <string name="fmt_date_long_year_month_day">dd MMMM yyyy</string>
     <string name="fmt_date_numeric_month_day">d/Μ</string>
-    <string name="fmt_date_numeric_year_month_day">d/M/yyyy</string>
+    <string name="fmt_date_numeric_year_month_day">dd/MM/yyyy</string>
     <string name="fmt_date_short_month_day">dd/MM</string>
     <string name="fmt_date_short_year_month_day">dd/MM/yyyy</string>
     <string name="friday">Παρασκευή</string>
@@ -174,7 +174,7 @@ mm"</string>
     <string name="saturn_super_wallpaper_label">saturn</string>
     <string name="saturn_title">Απομακρυσμένοι δακτύλιοι</string>
     <string name="search_menu_title">Αναζήτηση</string>
-    <string name="snowmountain_summary">Ηλιόλουστες πλαγιές του βουνού Siguniang</string>
+    <string name="snowmountain_summary">Ηλιόλουστες βουνοπλαγιές του βουνού Σιγκουνγιάνγκ</string>
     <string name="snowmountain_super_wallpaper_label">Χιονισμένες κορυφές</string>
     <string name="snowmountain_title">Χιονισμένες κορυφές</string>
     <string name="solar_term_autumn_begins">Το φθινόπωρο ξεκινά</string>

@@ -72,8 +72,8 @@
         <item>Ήχος Qualcomm® aptX™</item>
         <item>Ήχος Qualcomm® aptX™ HD</item>
         <item>LDAC</item>
-        <item>Προσαρμοστικός ήχος Qualcomm® aptXTM</item>
-        <item>Ήχος Qualcomm® aptXTM TWS+</item>
+        <item>Ήχος Qualcomm® aptX™ Adaptive</item>
+        <item>Ήχος Qualcomm® aptX™ TWS+</item>
     </string-array>
     <string-array name="bluetooth_a2dp_codec_titles">
         <item>Χρήση επιλογής συστήματος (Προεπιλογή)</item>
@@ -82,8 +82,8 @@
         <item>Ήχος Qualcomm® aptX™</item>
         <item>Ήχος Qualcomm® aptX™ HD</item>
         <item>LDAC</item>
-        <item>Προσαρμοστικός ήχος Qualcomm® aptXTM</item>
-        <item>Ήχος Qualcomm® aptXTM TWS+</item>
+        <item>Ήχος Qualcomm® aptX™ Adaptive</item>
+        <item>Ήχος Qualcomm® aptX™ TWS+</item>
     </string-array>
     <string-array name="bluetooth_audio_active_device_summaries">
         <item></item>

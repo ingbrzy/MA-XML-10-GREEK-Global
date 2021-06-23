@@ -109,8 +109,8 @@
         <item quantity="one">Εγγραφή %d δευτερολέπτου</item>
     </plurals>
     <plurals name="timefreeze_guide_tip1">
-        <item quantity="other">Μπορείς να πυροβολήσεις βίντεο παγώματος χρόνου με έως και %d θέματα.</item>
-        <item quantity="one">Μπορείτε να πυροβολήσετε βίντεο παγώματος χρόνου μόνο με %d θέμα.</item>
+        <item quantity="other">Μπορείτε να τραβήξετε βίντεο παγώματος χρόνου μέχρι και %d θέματα.</item>
+        <item quantity="one">Μπορείτε να τραβήξετε βίντεο παγώματος χρόνου μόνο με %d θέμα.</item>
     </plurals>
     <plurals name="timer_burst_setting_total_count">
         <item quantity="other">%1$s φωτογραφίες</item>

@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="app_name">Πλωτά παράθυρα</string>
+    <string name="bottom_bar_smallwindow_text">Απελευθερώστε για pin</string>
     <string name="contentDescription">Μετακίνηση του παραθύρου</string>
     <string name="freeform_demo_back">Πίσω</string>
     <string name="freeform_demo_final_over">Ολοκληρώθηκε</string>
@@ -9,6 +10,10 @@
     <string name="freeform_demo_go_on">Επόμενο</string>
     <string name="freeform_demo_title_finish">Ωραία!</string>
     <string name="freeform_demo_title_skip">Παράλειψη</string>
+    <string name="freeform_slide_to_small_freeform">Ελαχιστοποίηση αιωρούμενου παραθύρου</string>
+    <string name="freeform_slide_to_small_freeform_summary">Πατήστε και κρατήστε πατημένο τη γραμμή δράσης και σύρετε σε μια γωνία</string>
+    <string name="fullscreen_slide_to_small_freeform">Minimize an app</string>
+    <string name="fullscreen_slide_to_small_freeform_summary">Σύρετε από το κάτω μέρος της οθόνης στην επάνω δεξιά γωνία</string>
     <string name="how_to_close_or_fullscreen_freeform">Κλείσιμο αναδυόμενων παραθύρων ή εναλλαγή σε λειτουργία πλήρης οθόνης</string>
     <string name="how_to_drop_down_to_fullscreen">Εναλλαγή σε λειτουργία πλήρης οθόνης</string>
     <string name="how_to_drop_down_to_fullscreen_summary">Πατήστε παρατεταμένα και τραβήξτε προς τα κάτω τη γραμμή ενέργειας ενός αναδυόμενου παραθύρου</string>

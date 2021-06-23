@@ -154,6 +154,7 @@
     <string name="miui_warning_tip_info">Παρουσιάστηκε σφάλμα στο %1$s. Κλείσιμο εφαρμογής τώρα;</string>
     <string name="multi_file_name">%1$s，%2$s</string>
     <string name="name_with_ellipsize">%1$s…%2$s</string>
+    <string name="nearby_share">Κοινοποίηση κοντά</string>
     <string name="notification_channel_hotspot">Ειδοποίηση σημείου πρόσβασης</string>
     <string name="onehour">30 λεπτά</string>
     <string name="oneplus">OnePlus</string>

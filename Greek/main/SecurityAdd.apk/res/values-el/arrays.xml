@@ -60,11 +60,11 @@
         <item>.</item>
     </string-array>
     <string-array name="gb_adv_touch_custom_level">
-        <item>Lowest</item>
+        <item>Χαμηλότατη</item>
         <item>Low</item>
         <item>Regular</item>
         <item>High</item>
-        <item>Highest</item>
+        <item>Υψηλότατη</item>
     </string-array>
     <string-array name="gb_gpu_custom_texture">
         <item>Υψηλή ταχύτητα</item>

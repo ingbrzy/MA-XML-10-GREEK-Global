@@ -161,8 +161,8 @@
         <item quantity="one">%s αίτημα αναζήτησης</item>
     </plurals>
     <plurals name="sku_price">
-        <item quantity="other">%2$s κάθε %1$s μήνα</item>
-        <item quantity="one">%2$s κάθε %1$s μήνα</item>
+        <item quantity="other">%2$s every %1$s μήνες</item>
+        <item quantity="one">%2$s every %1$s μήνας</item>
     </plurals>
     <plurals name="suggest_access_item_album_songs">
         <item quantity="other">%d τραγούδια</item>

@@ -1,5 +1,64 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <string-array name="alphabet_table">
+        <item>Α</item>
+        <item>Β</item>
+        <item>Γ</item>
+        <item>Δ</item>
+        <item>Ε</item>
+        <item>Ζ</item>
+        <item>Η</item>
+        <item>Θ</item>
+        <item>Ι</item>
+        <item>Κ</item>
+        <item>Λ</item>
+        <item>Μ</item>
+        <item>Ν</item>
+        <item>Ξ</item>
+        <item>Ο</item>
+        <item>Π</item>
+        <item>Ρ</item>
+        <item>Σ</item>
+        <item>Τ</item>
+        <item>Υ</item>
+        <item>Φ</item>
+        <item>Χ</item>
+        <item>Ψ</item>
+        <item>Ω</item>
+        <item>\#</item>
+        <item>.</item>
+        <item>.</item>
+    </string-array>
+    <string-array name="alphabet_table_with_starred">
+        <item>!</item>
+        <item>Α</item>
+        <item>Β</item>
+        <item>Γ</item>
+        <item>Δ</item>
+        <item>Ε</item>
+        <item>Ζ</item>
+        <item>Η</item>
+        <item>Θ</item>
+        <item>Ι</item>
+        <item>Κ</item>
+        <item>Λ</item>
+        <item>Μ</item>
+        <item>Ν</item>
+        <item>Ξ</item>
+        <item>Ο</item>
+        <item>Π</item>
+        <item>Ρ</item>
+        <item>Σ</item>
+        <item>Τ</item>
+        <item>Υ</item>
+        <item>Φ</item>
+        <item>Χ</item>
+        <item>Ψ</item>
+        <item>Ω</item>
+        <item>\#</item>
+        <item>.</item>
+        <item>.</item>
+    </string-array>
     <string-array name="animator_duration_scale_entries">
         <item>Κινούμενα σχέδια ανενεργά</item>
         <item>Κλίμακα κινούμενων σχεδίων .5x</item>
@@ -117,15 +176,15 @@
     </string-array>
     <string-array name="bluetooth_map_versions">
         <item>MAP 1.2 (Προεπιλογή)</item>
-        <item>ΧΑΡΤΗΣ 1, 3</item>
-        <item>ΧΑΡΤΗΣ 1, 4</item>
+        <item>MAP 1.3</item>
+        <item>MAP 1.4</item>
     </string-array>
     <string-array name="bt_hci_snoop_log_entries">
         <item>Απενεργοποιημένο</item>
-        <item>Φιλτραρισμένο</item>
+        <item>Έγινε φιλτράρισμα</item>
         <item>Ενεργοποιήθηκε</item>
-        <item>Κεφαλίδες φιλτραρισμένες</item>
-        <item>Φιλτραρισμένα πακέτα πολυμέσων</item>
+        <item>Έγινε φιλτράρισμα επικεφαλίδων</item>
+        <item>Έγινε φιλτράρισμα πακέτων πολυμέσων</item>
     </string-array>
     <string-array name="color_mode_descriptions">
         <item>Ενισχυμένα χρώματα</item>
@@ -145,8 +204,8 @@
     <string-array name="enable_opengl_traces_entries">
         <item>Χωρίς</item>
         <item>Logcat</item>
-        <item>Systrace (Γραφικά)</item>
-        <item>Κλήση στοίβας σε glGetError</item>
+        <item>Systrace (Graphics)</item>
+        <item>Call stack on glGetError</item>
     </string-array>
     <string-array name="hdcp_checking_summaries">
         <item>Να μην γίνεται ποτέ χρήση ελέγχου HDCP</item>

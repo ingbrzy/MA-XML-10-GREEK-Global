@@ -41,6 +41,7 @@
     <string name="chip_text">Κείμενο τσιπ</string>
     <string name="clear_text_end_icon_content_description">Καθαρισμός κειμένου</string>
     <string name="clearable_edittext_clear_description">Εκκαθάριση</string>
+    <string name="close">Κλείσιμο</string>
     <string name="copy">Αντιγραφή</string>
     <string name="date_picker_lunar">Κινεζικό Παραδοσιακό Ημερολόγιο</string>
     <string name="date_time_picker_dialog_title">Ορισμός ημερομηνίας και ώρας</string>
@@ -155,6 +156,7 @@
     <string name="saturday_short">Σαβ</string>
     <string name="saturday_shortest">Σαβ</string>
     <string name="search_menu_title">Αναζήτηση</string>
+    <string name="send">Αποστολή</string>
     <string name="service_name">Όνομα υπηρεσίας</string>
     <string name="sim_type_sim_name">Εργαλειοθήκη SIM</string>
     <string name="sim_type_uim_name">Εργαλειοθήκη UIM</string>

@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="accept">Εντάξει</string>
+    <string name="accept">OK</string>
     <string name="app_name">Πλαίσιο Παροχής Υπηρεσιών Xiaomi</string>
     <string name="error_device_id_message">"Μη έγκυρο ID συσκευής: %s
 Το ID συσκευής πρέπει να είναι μια έγκυρη διεύθυνση IMEI ή MAC. Χωρίς το ID συσκευής, κάποιες λειτουργίες του Mi Λογαριασμού και του Xiaomi Cloud δεν θα είναι διαθέσιμες."</string>

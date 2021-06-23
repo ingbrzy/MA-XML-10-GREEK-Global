@@ -79,6 +79,36 @@
         <item>Γίνεται χρήση αδειών</item>
         <item>Ευαίσθητες ενέργειες</item>
     </string-array>
+    <string-array name="app_initials_label">
+        <item>!</item>
+        <item>A</item>
+        <item>B</item>
+        <item>C</item>
+        <item>D</item>
+        <item>E</item>
+        <item>F</item>
+        <item>G</item>
+        <item>H</item>
+        <item>I</item>
+        <item>Ι</item>
+        <item>K</item>
+        <item>L</item>
+        <item>Μ</item>
+        <item>N</item>
+        <item>O</item>
+        <item>Ρ</item>
+        <item>Q</item>
+        <item>R</item>
+        <item>S</item>
+        <item>Τ</item>
+        <item>U</item>
+        <item>V</item>
+        <item>W</item>
+        <item>X</item>
+        <item>Y</item>
+        <item>Z</item>
+        <item>\#</item>
+    </string-array>
     <string-array name="applock_password_types">
         <item>Μοτίβο</item>
         <item>PIN</item>
@@ -89,9 +119,9 @@
         <item>MB</item>
     </string-array>
     <string-array name="cellular_package_type">
-        <item>Μηνιαίο πρόγραμμα</item>
-        <item>Απεριόριστο</item>
-        <item>Ημερήσιο σχέδιο</item>
+        <item>Μηνιαίο πλάνο</item>
+        <item>Απεριόριστα</item>
+        <item>Ημερήσιο πλάνο</item>
     </string-array>
     <string-array name="daily_brand">
         <item>Προσαρμοσμένο</item>
@@ -101,10 +131,10 @@
     </string-array>
     <string-array name="daily_rent_card_brands">
         <item>Προσαρμοσμένο</item>
-        <item>Mi Mobile</item>
-        <item>Mi κάρτα ανεμιστήρα</item>
+        <item>Mi Κινητό</item>
+        <item>Κάρτα Mi Fan</item>
         <item>Κάρτα Tianshen</item>
-        <item>Κάρτα περίφραξης</item>
+        <item>Κάρτα Tencent</item>
     </string-array>
     <string-array name="date_of_app_all">
         <item>"Χθες (δεδομένα κινητής τηλεφωνίας) "</item>

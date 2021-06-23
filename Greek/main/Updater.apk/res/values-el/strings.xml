@@ -26,6 +26,7 @@
     <string name="dialog_stop_desc">Μπορείτε είτε να θέσετε σε παύση είτε να σταματήσετε τη λήψη, κάντε την επιλογή σας τώρα.</string>
     <string name="dialog_stop_title">Διακοπή Λήψης</string>
     <string name="dialog_twrp">Ο εσωτερικός σας χώρος αποθήκευσης είναι κρυπτογραφημένος. Μετά την επανεκκίνηση της συσκευής για επαναφορά, εισαγάγετε τον κωδικό πρόσβασης ξεκλειδώματος της συσκευής σας για να συνεχίσετε.</string>
+    <string name="downgrade_warning">Υποβάθμιση μέσω OTA ανιχνεύτηκε και αποκλείστηκε! Για να μην σας αφήσουμε να σπάσει το σύστημά σας!</string>
     <string name="download_done">Η λήψη του %1$s ολοκληρώθηκε</string>
     <string name="download_fail">Σφάλμα κατά τη λήψη!</string>
     <string name="download_fail_desc">Το άθροισμα MD5 δεν ταιριάζει με το…</string>
@@ -35,9 +36,9 @@
     <string name="install_desc">Η συσκευή θα επανεκκινήσει στην ανάκτηση και θα εγκαταστήσει το επιλεγμένο αρχείο: <b>%1$s</b>\"
 Τα δεδομένα δεν θα διαγραφούν.\"</string>
     <string name="install_title">Είστε σίγουροι ότι θέλετε να αποσυνδεθείτε;</string>
-    <string name="menu_title_current_version_log">Τι νέο υπάρχει:</string>
-    <string name="menu_title_pick_rom_file">Επιλέξτε πακέτο ενημέρωσης</string>
-    <string name="menu_title_recovery">Επανεκκίνηση σε λειτουργία Recovery</string>
+    <string name="menu_title_current_version_log">Τι νέο υπάρχει</string>
+    <string name="menu_title_pick_rom_file">Επιλογή πακέτου ενημέρωσης</string>
+    <string name="menu_title_recovery">Επανεκκίνηση σε Λειτουργία ανάκτησης</string>
     <string name="message_checkbox">Απόκρυψη μελλοντικών μηνυμάτων από την ομάδα Xiaomi.eu</string>
     <string name="message_checkbox_device">Να μην εμφανιστεί ξανά</string>
     <string name="message_title">ΣΗΜΕΙΩΣΗ:</string>

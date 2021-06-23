@@ -10,14 +10,14 @@
     <string name="abc_capital_on">ΕΝΕΡΓΟΠΟΙΗΣΗ</string>
     <string name="abc_menu_alt_shortcut_label">Alt+</string>
     <string name="abc_menu_ctrl_shortcut_label">Ctrl+</string>
-    <string name="abc_menu_delete_shortcut_label">διαγραφή</string>
-    <string name="abc_menu_enter_shortcut_label">εισαγωγή</string>
-    <string name="abc_menu_function_shortcut_label">Συνάρτηση+</string>
+    <string name="abc_menu_delete_shortcut_label">delete</string>
+    <string name="abc_menu_enter_shortcut_label">enter</string>
+    <string name="abc_menu_function_shortcut_label">Function+</string>
     <string name="abc_menu_meta_shortcut_label">Meta+</string>
     <string name="abc_menu_shift_shortcut_label">Shift+</string>
     <string name="abc_menu_space_shortcut_label">διάστημα</string>
     <string name="abc_menu_sym_shortcut_label">Sym+</string>
-    <string name="abc_prepend_shortcut_label">Μενού+</string>
+    <string name="abc_prepend_shortcut_label">Menu+</string>
     <string name="abc_search_hint">Αναζήτηση…</string>
     <string name="abc_searchview_description_clear">Διαγραφή ερωτήματος</string>
     <string name="abc_searchview_description_query">Ερώτημα αναζήτησης</string>
@@ -190,7 +190,7 @@
     <string name="common_home_search_delete_confirm">Κατάργηση</string>
     <string name="common_home_search_delete_content">"Δεν θα έχετε δυνατότητα χρήσης της γρήγορης αναζήτησης αφού καταργήσετε τη γραμμή αναζήτησης από την Αρχική σας οθόνη. Κατάργηση παρ' όλα αυτά;"</string>
     <string name="configure_wallpaper">Ρυθμίσεις</string>
-    <string name="confirm_btn_label">Εντάξει</string>
+    <string name="confirm_btn_label">OK</string>
     <string name="confirm_uninstall_dialog_contain_xspace_app_msg">Διπλότυπες εφαρμογές θα απεγκατασταθούν ταυτόχρονα με αυτές.</string>
     <string name="confirm_uninstall_dialog_has_xspace_app_msg">Η διπλότυπη εφαρμογή θα απεγκατασταθεί ταυτόχρονα με αυτήν.</string>
     <string name="confirm_uninstall_dialog_title">Οι διπλότυπες εφαρμογές θα καταργηθούν</string>
@@ -207,6 +207,7 @@
     <string name="defalut_launcher_title">Προεπιλεγμένο launcher</string>
     <string name="default_folder_title_claro">Claro</string>
     <string name="default_folder_title_game">Παιχνίδια</string>
+    <string name="default_folder_title_hot">Δημοφιλείς εφαρμογές</string>
     <string name="default_folder_title_meitu">Εφαρμογές Meitu</string>
     <string name="default_folder_title_microsoft">Microsoft</string>
     <string name="default_folder_title_other_apps">Άλλες εφαρμογές</string>
@@ -222,6 +223,7 @@
     <string name="delete_category_dialog_title">Διαγραφή αυτής της κατηγορίας;</string>
     <string name="delete_screen">Διαγραφή οθόνης</string>
     <string name="delete_wallpaper_message">Διαγραφή %1$d ταπετσαρίας;</string>
+    <string name="deleted_system_applications">Απεγκατεστημένες εφαρμογές συστήματος</string>
     <string name="deselect_all">Αποεπιλογή όλων</string>
     <string name="dialog_work_profile_button_1">Επόμενο</string>
     <string name="dialog_work_profile_button_2">Το κατάλαβα</string>
@@ -275,7 +277,7 @@
     <string name="free_style_edit_move_tip">Πατήστε &amp; πατήστε παρατεταμένα για μετακίνηση ενός αντικειμένου</string>
     <string name="free_style_edit_tab_free_component">Αντικείμενα</string>
     <string name="free_style_edit_tab_shortcut">Συντομεύσεις</string>
-    <string name="free_style_edit_tab_widget">Widget</string>
+    <string name="free_style_edit_tab_widget">Widgets</string>
     <string name="free_style_enter_tip">Για προβολή του Mi Χώρου, σαρώστε από την κορυφή της οθόνης προς τα κάτω με δύο δάχτυλα</string>
     <string name="free_style_exit_tip">Για επιστροφή στην Αρχική Οθόνη, σαρώστε από κάτω προς τα πάνω στην οθόνη με δύο δάχτυλα</string>
     <string name="free_style_londing_text">Περιμένετε μία στιγμή…</string>
@@ -432,7 +434,7 @@
     <string name="navigation_type_full_screen">Χειρονομίες</string>
     <string name="navigation_type_title">Πλοήγηση συστήματος</string>
     <string name="navigation_type_virtual_key">Πλήκτρα</string>
-    <string name="network_error">"Δεν ήταν δυνατή η σύνδεση στο δίκτυο. Δοκιμάστε ξανά."</string>
+    <string name="network_error">"Αδυναμία σύνδεσης στο δίκτυο. Προσπαθήστε ξανά."</string>
     <string name="no_detail_page">Σελίδα χωρίς λεπτομέρειες</string>
     <string name="no_space_toast">Ανεπαρκής χώρος</string>
     <string name="no_space_toast_when_click_widget">Δεν υπάρχει αρκετός χώρος σε αυτή τη σελίδα. Προσπαθήστε να σύρετε αυτό το αντικείμενο σε άλλη σελίδα.</string>
@@ -442,7 +444,7 @@
     <string name="notification_open_button">Άνοιγμα</string>
     <string name="notification_reset_title">Επιτυχής ταξινόμηση εκονιδίων</string>
     <string name="one_key_call_title">Πατήστε για κλήση</string>
-    <string name="online_wallpaper">Συνδεδεμένος</string>
+    <string name="online_wallpaper">Online</string>
     <string name="open_personal_assistant_dialog_btn_cancel">Ακύρωση</string>
     <string name="open_personal_assistant_dialog_btn_confirm">Απενεργοποίηση</string>
     <string name="open_personal_assistant_dialog_desc">"Δεν θα έχετε την δυνατότητα χρήσης της Αποθήκης εφαρμογών και λήψης των ενημερώσεων της. Απενεργοποίηση τώρα;"</string>
@@ -514,7 +516,7 @@
     <string name="recents_title_market">Εντοπισμός εφαρμογών</string>
     <string name="recents_title_security_scan">Σάρωση ασφαλείας</string>
     <string name="recents_tv_small_window_text">Αναδυόμενα παράθυρα</string>
-    <string name="recommend_apk_size_and_desc">%1$dMB - %2$s</string>
+    <string name="recommend_apk_size_and_desc">%1$dMB | %2$s</string>
     <string name="recommend_app">Προτάσεις εφαρμογών</string>
     <string name="recommend_apps_default_title">Κενό</string>
     <string name="recommend_apps_no_data">Χωρίς δεδομένα</string>
@@ -529,8 +531,8 @@
     <string name="remove_dialog_message">Οι επιλεγμένες εφαρμογές περιέχουν βασικές λειτουργίες συστήματος. Μπορείτε να καταργήσετε μόνο τις Συντομεύσεις αρχικής οθόνης τους.</string>
     <string name="remove_dialog_title_format">Αφαίρεση \"%s\" από την Αρχική οθόνη;</string>
     <string name="remove_invalidate_gadget_tips">Ένα από τα widgets που χρησιμοποιείτε πλέον δεν διατίθεται. Μπορείτε να προσθέσετε ένα άλλο.</string>
-    <string name="remove_sys_app_content">"Θα είστε σε θέση να προσθέσετε ξανά τη συντόμευση αρχικής οθόνης στις Ρυθμίσεις &gt; Εφαρμογές &gt; Διαχείριση συντομεύσεων αρχικής οθόνης. Αφαίρεση τώρα?"</string>
-    <string name="remove_sys_app_title">Αφαίρεση συντόμευσης αρχικής οθόνης?</string>
+    <string name="remove_sys_app_content">"Θα μπορείτε να προσθέσετε ξανά τη Συντόμευση αρχικής οθόνης στις Ρυθμίσεις &gt; Εφαρμογές &gt; Διαχείριση Συντομεύσεων αρχικής οθόνης. Αφαίρεση τώρα;"</string>
+    <string name="remove_sys_app_title">Αφαίρεση Συντόμευσης αρχικής οθόνης;</string>
     <string name="reset_cate_tip_content">Εάν συνεχίσετε, οι προεπιλεγμένες ομάδες εφαρμογών θα επανέλθουν. Συνέχεια παρ\' όλα αυτά;</string>
     <string name="reset_cate_tip_title">Επαναφορά προεπιλεγμένων ομάδων</string>
     <string name="reset_description_first_time">Μπορείτε να επαναφέρετε την διάταξη από %1$s μέσα σε 2 ώρες</string>
@@ -588,13 +590,13 @@
     <string name="status_paused">Έγινε παύση</string>
     <string name="status_pending">Αναμονή</string>
     <string name="switch_personal_assistant_app_vault">Αποθήκη εφαρμογών</string>
-    <string name="switch_personal_assistant_google">Ανακαλύψτε Google</string>
+    <string name="switch_personal_assistant_google">Google Discover</string>
     <string name="switch_personal_assistant_none">Καμία</string>
     <string name="switch_screen_button_order">Αντικατοπτρισμός κουμπιών</string>
     <string name="switch_screen_button_order_desc">Αντικατοπτρισμός κουμπιών Πίσω και Μενού</string>
     <string name="system_shortcuts_more_operation">Πληροφορίες εφαρμογής</string>
     <string name="system_shortcuts_remove">Αφαίρεση</string>
-    <string name="system_text">Σύστημα</string>
+    <string name="system_text">Αυτόματο</string>
     <string name="task_access_locked_app_msg">Ενεργοποιήθηκε το κλείδωμα εφαρμογής</string>
     <string name="title_jeejen">Αρχική Οθόνη Jeejen</string>
     <string name="title_select_live_folder">Επιλογή φακέλου</string>

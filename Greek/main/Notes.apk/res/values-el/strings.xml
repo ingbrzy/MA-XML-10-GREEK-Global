@@ -84,6 +84,7 @@
     <string name="cta_v2_agree_desc">Να επιτρέπεται αυτή η εφαρμογή να συνδέεται στο ίντερνετ και να παραχωρηθούν οι υποχρεωτικές άδειες που αναφέρονται πιο πάνω.</string>
     <string name="cta_v2_app_purpose">Δημιουργία, προβολή και διαχείριση σημειώσεων</string>
     <string name="cta_v2_app_purpose_v12">Καλώς ορίσατε στις Σημειώσεις! Μπορείτε να χρησιμοποιήσετε αυτή την εφαρμογή για να δημιουργήσετε εργασίες και σημειώσεις που περιέχουν κείμενο, εικόνες και ήχο.</string>
+    <string name="data_empty_folder">Δεν υπάρχουν άλλοι φάκελοι για εμφάνιση</string>
     <string name="data_empty_note">Ακόμη δεν υπάρχουν σημειώσεις εδώ</string>
     <string name="data_empty_todo">Ακόμη δεν υπάρχουν εργασίες εδώ</string>
     <string name="date_calculate_today">0 ημέρες</string>
@@ -99,7 +100,7 @@
     <string name="delete_folder_dialog_tile">Διαγραφή φακέλου</string>
     <string name="dialog_button_cancel">Ακύρωση</string>
     <string name="dialog_button_close">Κλείσιμο</string>
-    <string name="dialog_button_confirm">Εντάξει</string>
+    <string name="dialog_button_confirm">OK</string>
     <string name="dialog_button_confirm_delete">Διαγραφή</string>
     <string name="dialog_button_continue_work">Συνέχεια</string>
     <string name="dialog_button_move">Μετακίνηση</string>
@@ -142,7 +143,7 @@
     <string name="doodle_brush_watercolor">Μολύβι ακουαρέλας</string>
     <string name="doodle_feature">Σκιτσογραφίες</string>
     <string name="doodle_guide_brush_config_hint">Πατήστε ξανά για να ρυθμίσετε το πλάτος και την αδιαφάνεια της πινελιάς</string>
-    <string name="doodle_guide_dialog_confirm">Εντάξει</string>
+    <string name="doodle_guide_dialog_confirm">OK</string>
     <string name="doodle_guide_dialog_skip">Παράλειψη</string>
     <string name="doodle_guide_dialog_title">Σκίτσο</string>
     <string name="doodle_guide_quick_shape_hint" formatted="false">Πατήστε παρατεταμένα το σκίτσο για %d–%d δευτερόλεπτα για αυτόματη προσαρμογή των πινελιών</string>
@@ -216,6 +217,7 @@
     <string name="gesture_guide_message">Μπορείτε να πατήσετε, να πιέσετε και να κρατήσετε, και να σύρετε στοιχεία για δημιουργία και αναδιάταξη σημειώσεων. Θέλετε να μάθετε αυτές τις χειρονομίες τώρα;</string>
     <string name="gesture_guide_ok">Εκμάθηση</string>
     <string name="gesture_guide_title">Χειρονομίες</string>
+    <string name="handwrite_description">Χειρόγραφη σημείωση</string>
     <string name="hear_note">Υπαγορευμένες σημειώσεις</string>
     <string name="hidden_notes_fragment_title">Κρυφές σημειώσεις</string>
     <string name="hide_arrow_description">Απόκρυψη</string>
@@ -238,6 +240,7 @@
     <string name="menu_add_description">Προσθήκη σημείωσης</string>
     <string name="menu_add_folder">Προσθήκη στον φάκελο</string>
     <string name="menu_add_folder_description">Προσθήκη φακέλου</string>
+    <string name="menu_add_handwrite_description">Προσθήκη χειρόγραφης σημείωσης</string>
     <string name="menu_create_folder">Νέος φάκελος</string>
     <string name="menu_delete">Διαγραφή</string>
     <string name="menu_delete_forever">Μόνιμη διαγραφή</string>
@@ -357,7 +360,7 @@
     <string name="note_mindnote_entrance_hint_newversion">"Ξεκινήστε να πληκτρολογείτε "</string>
     <string name="note_mindnote_entrance_icon_text">Δημιουργήστε έναν χάρτη ιδεών</string>
     <string name="note_mindnote_entrance_icon_text_newversion">Δημιουργήστε έναν νοητικό χάρτη</string>
-    <string name="note_sort_way">Ταξινόμηση</string>
+    <string name="note_sort_way">Επιλέξτε πως θέλετε να ταξινομήσετε τις σημειώσεις σας</string>
     <string name="notealert_enter">Άνοιγμα σημείωσης</string>
     <string name="notealert_ok">Απόρριψη</string>
     <string name="notes_description_content">"Οι Σημειώσεις είναι μια εφαρμογή συστήματος. Δεν θα μπορείτε να χρησιμοποιήσετε αυτήν την εφαρμογή αφού την απεγκαταστήσετε."</string>
@@ -420,6 +423,7 @@
     <string name="pref_quick_note_desc">Χρησιμοποιήστε τη συντόμευση στο άκρο της οθόνης για να δημιουργείτε σημειώσεις και εργασίες, καθώς και να αποθηκεύετε αντιγραμμένες διευθύνσεις URL, κείμενα και εικόνες στις Σημειώσεις.</string>
     <string name="pref_remind_type_summary">Αναπαραγωγή ήχου υπενθύμισης σε Αθόρυβη λειτουργία</string>
     <string name="pref_remind_type_summary_new">Αγνοήστε την Αθόρυβη λειτουργία και συνεχίστε την αναπαραγωγή ήχου μέχρι να απενεργοποιηθεί το ξυπνητήρι</string>
+    <string name="pref_remind_type_summary_new_2">Αναπαραγωγή ήχου ακόμη και όταν η λειτουργία αθόρυβης ή DND είναι ενεργή</string>
     <string name="pref_remind_type_title">Παράβλεψη Αθόρυβης λειτουργίας</string>
     <string name="pref_remind_type_title_new">Υπενθυμίσεις υψηλής προτεραιότητας</string>
     <string name="pref_title_cloud_trash_bin">Διαγραμμένες σημειώσεις στο cloud</string>
@@ -454,9 +458,7 @@
     <string name="repeat_mode_set_item_none">Ποτέ</string>
     <string name="repeat_mode_set_item_normal_workday">Δευτέρα έως Παρασκευή</string>
     <string name="repeat_mode_set_item_week">Κάθε εβδομάδα (%s)</string>
-    <string name="repeat_mode_set_item_week_detail">Κάθε εβδομάδα (%s)</string>
     <string name="repeat_mode_set_item_year">Κάθε χρόνο (%s)</string>
-    <string name="repeat_mode_set_item_year_detail">Κάθε χρόνο (%s)</string>
     <string name="repeat_mode_set_item_year_detail_day">dd/MM</string>
     <string name="repeat_mode_set_title">Επανάληψη</string>
     <string name="repeat_mode_week">Κάθε εβδομάδα</string>
@@ -548,10 +550,10 @@
     <string name="sunday_short">Κυρ</string>
     <string name="sunday_shortest">Κυρ</string>
     <string name="sync_all_terms">%1$s, %2$s και %3$s</string>
-    <string name="sync_desc_state_complete">Συγχρονισμένο με το σύννεφο</string>
-    <string name="sync_desc_state_complete_china">Όλα %1$s έχουν συγχρονιστεί</string>
+    <string name="sync_desc_state_complete">Έγινε συγχρονισμός με το σύννεφο</string>
+    <string name="sync_desc_state_complete_china">All %1$s have been synced</string>
     <string name="sync_desc_state_disable">Ενεργοποίηση συγχρονισμού με το cloud</string>
-    <string name="sync_desc_state_running">Συγχρονισμός με το σύννεφο</string>
+    <string name="sync_desc_state_running">Γίνεται συγχρονισμός με το σύννεφο</string>
     <string name="sync_folder_todo">%1$s και %2$s</string>
     <string name="sync_note_folder">%1$s και %2$s</string>
     <string name="sync_note_todo">%1$s και %2$s</string>
@@ -661,7 +663,7 @@
     <string name="todo_event_description_a_week_ago">%1$d εβδομάδα πριν</string>
     <string name="todo_event_description_a_week_later">Σε %1$d εβδομάδα</string>
     <string name="todo_event_description_day_after_tomorrow">Σε %1$d ημέρες</string>
-    <string name="todo_event_description_day_before_yesterday">Πριν από %1$d ημέρες</string>
+    <string name="todo_event_description_day_before_yesterday">%1$d ημέρες πριν</string>
     <string name="todo_event_description_today">Σήμερα</string>
     <string name="todo_event_description_tomorrow">Αύριο</string>
     <string name="todo_event_description_yesterday">Χθες</string>
@@ -719,7 +721,7 @@
     <string name="toolbar_undo_description">Αναίρεση</string>
     <string name="toolbar_voice_description">Φωνή</string>
     <string name="trash_folder_name">Σκουπίδια</string>
-    <string name="trash_folder_reminder">Οι σημειώσεις που διαγράφετε θα διαγραφούν οριστικά σε %1$d ημέρες.</string>
+    <string name="trash_folder_reminder">Οι σημειώσεις που διαγράφετε θα διαγραφούν οριστικά σε %1$d μέρες.</string>
     <string name="trash_folder_reminder_new">Οι Σημειώσεις διατηρούνται στον κάδο ανακύκλωσης για %d ημέρες πριν διαγραφούν μόνιμα</string>
     <string name="tuesday">Τρίτη</string>
     <string name="tuesday_short">Τρι</string>

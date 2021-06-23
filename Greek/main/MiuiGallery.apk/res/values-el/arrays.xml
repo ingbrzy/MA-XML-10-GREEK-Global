@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string-array name="acc_category_color_description">
-        <item>Λευκό</item>
+        <item>Άσπρο</item>
         <item>Σκούρο μπλε</item>
-        <item>Ανοιχτό μπλε</item>
+        <item>Απαλό μπλε</item>
         <item>Κόκκινο</item>
         <item>Πράσινο</item>
         <item>Ροζ</item>
@@ -11,8 +11,8 @@
         <item>Γκρι</item>
     </string-array>
     <string-array name="acc_magic_matting_background_description">
-        <item>Επιλέξτε εικόνα</item>
-        <item>Διαφανές φόντο</item>
+        <item>Επιλογή εικόνας</item>
+        <item>Διάφανο φόντο</item>
     </string-array>
     <string-array name="activities_title">
         <item>Ξεχωριστή μέρα</item>
@@ -140,9 +140,9 @@
         <item>Δεκέμβριος</item>
     </string-array>
     <string-array name="last_week_baby_title">
-        <item>Ώρα να παίξετε</item>
-        <item>"Σαββατοκύριακο του Παιδιού"</item>
-        <item>Το μικρό</item>
+        <item>Time to play</item>
+        <item>"Kiddo's weekend"</item>
+        <item>The little one</item>
     </string-array>
     <string-array name="last_weekend_title">
         <item>Tα Σαββατοκύριακά μου</item>
@@ -150,49 +150,49 @@
         <item>Αναμνήσεις Σαββατοκύριακου</item>
     </string-array>
     <string-array name="last_year_group_people">
-        <item>Νέοι φίλοι και παλιά pals</item>
-        <item>"Το περσινό get-togethers"</item>
+        <item>New friends and old pals</item>
+        <item>"Last year's get-togethers"</item>
     </string-array>
     <string-array name="magic_effects_audio_titles">
         <item></item>
         <item></item>
-        <item>Αναψυχή</item>
+        <item>Ελεύθερος χρόνος</item>
         <item>Αεράκι</item>
         <item>Όνειρα</item>
         <item>Σύννεφα</item>
         <item>Σκέψεις</item>
-        <item>Βούτες</item>
+        <item>Μπουμπούκια</item>
         <item>Μεταμόρφωση</item>
         <item>Βάθος</item>
-        <item>Σκέψεις</item>
+        <item>Συλλογισμός</item>
         <item>Μινιμαλιστικό</item>
         <item>Μυστήριο</item>
-        <item>Fog</item>
+        <item>Ομίχλη</item>
     </string-array>
     <string-array name="magic_effects_description">
-        <item>Μετατροπή υποβάθρου σε σκαριφήματα</item>
-        <item>Υπόβαθρα στυλ Watercolor</item>
+        <item>Μετατρέψτε τα υπόβαθρα σε σκίτσα</item>
+        <item>Ακουαρέλα στυλ υπόβαθρα</item>
         <item>Cyberpunk ρετρό</item>
-        <item>Μη τοποθετημένα κατακόρυφα τμήματα</item>
-        <item>Hazy blur</item>
+        <item>Λανθασμένα κατακόρυφα τμήματα</item>
+        <item>Ομιχλώδες θόλωμα</item>
         <item>Φουτουριστική αίσθηση</item>
     </string-array>
     <string-array name="magic_effects_title">
-        <item>Σκίτσο</item>
+        <item>Σκιτσογραφία</item>
         <item>Ακουαρέλα</item>
         <item>RGB</item>
-        <item>Περιστροφές</item>
+        <item>Σκίαστρα</item>
         <item>Ομιχλώδες παράθυρο</item>
         <item>Τεχνολογία</item>
     </string-array>
     <string-array name="magic_effects_video_titles">
         <item></item>
-        <item>Χρωματιστό περίγραμμα</item>
+        <item>Έγχρωμο περίγραμμα</item>
         <item>Διακεκομμένο περίγραμμα</item>
         <item>Περίγραμμα φθορισμού</item>
-        <item>Έγχρωμη σκιά</item>
+        <item>Χρωματιστή σκιά</item>
         <item>Ηλεκτρικό κύμα</item>
-        <item>Τρέχων</item>
+        <item>Ροή</item>
         <item>Κύματα</item>
         <item>Σωματίδια</item>
         <item>Κείμενο</item>
@@ -200,83 +200,83 @@
         <item>Άγγελος</item>
     </string-array>
     <string-array name="magic_idp_size_category">
-        <item>Γενικά</item>
-        <item>Ταξίδι</item>
-        <item>Εργασία</item>
-        <item>Έγγραφα</item>
-        <item>Εκπαίδευση</item>
-        <item>Εξετάσεις</item>
+        <item>General</item>
+        <item>Travel</item>
+        <item>Work</item>
+        <item>Documents</item>
+        <item>Education</item>
+        <item>Exams</item>
     </string-array>
     <string-array name="magic_idp_size_category_certificates">
-        <item>Κοινωνική ασφάλιση</item>
-        <item>Δήλωση υγείας</item>
-        <item>Ιατρική ασφάλιση</item>
+        <item>Social security</item>
+        <item>Statement of health</item>
+        <item>Medical insurance</item>
         <item>ID</item>
-        <item>Άδεια διαμονής</item>
+        <item>Residence permit</item>
     </string-array>
     <string-array name="magic_idp_size_category_common">
         <item></item>
         <item>One cun</item>
         <item>Teo cuns</item>
-        <item>Μικρότερο ένα cun</item>
-        <item>Μικρότερα δύο cuns</item>
+        <item>Smaller one cun</item>
+        <item>Smaller two cuns</item>
     </string-array>
     <string-array name="magic_idp_size_category_education">
-        <item>Αίτηση εισόδου</item>
-        <item>Δίκτυο μαθητών</item>
-        <item>Δίκτυο μαθητών για δημοτικά σχολεία</item>
-        <item>Προφίλ μαθητή δικτύου</item>
-        <item>Πανεπιστημιακή είσοδος</item>
+        <item>Admission application</item>
+        <item>Student network</item>
+        <item>Student network for primary schools</item>
+        <item>Student network profile</item>
+        <item>University admission</item>
         <item>NCEE</item>
-        <item>Συνέχιση</item>
+        <item>Resume</item>
     </string-array>
     <string-array name="magic_idp_size_category_examination">
-        <item>Κολλέγιο Αγγλικά Δοκιμή 1</item>
-        <item>Κολλέγιο Αγγλικά Δοκιμή 2</item>
-        <item>Κολλέγιο Αγγλικά Δοκιμή 3</item>
+        <item>College English Test 1</item>
+        <item>College English Test 2</item>
+        <item>College English Test 3</item>
         <item>Putonghua Proficiency Test 1</item>
         <item>Putonghua Proficiency Test 2</item>
-        <item>Τεστ Αγγλικών Βαθμού</item>
-        <item>PET για κολέγια</item>
-        <item>Επίπεδο 3 PETS</item>
-        <item>Εθνική Εξέταση Κατάταξης Υπολογιστών 1</item>
-        <item>Εθνική Εξέταση Κατάταξης Υπολογιστών 2</item>
+        <item>Degree English Test</item>
+        <item>PET for colleges</item>
+        <item>PETS Level 3</item>
+        <item>National Computer Rank Examination 1</item>
+        <item>National Computer Rank Examination 2</item>
     </string-array>
     <string-array name="magic_idp_size_category_profession">
-        <item>Πιστοποίηση εκπαιδευτικού πρωτοβάθμιας και δευτεροβάθμιας εκπαίδευσης</item>
-        <item>Πιστοποίηση εκπαιδευτικού</item>
-        <item>"Άδεια οδήγησης"</item>
-        <item>Άδεια οδηγού</item>
-        <item>Ηλεκτρονική άδεια οδηγού</item>
-        <item>Εθνική δικαστική εξέταση</item>
-        <item>Ηλεκτρονικό πιστοποιητικό κατασκευαστή πρώτης κατηγορίας</item>
-        <item>Πιστοποιητικό κατασκευαστών δεύτερης κατηγορίας</item>
-        <item>Εξέταση λογιστικού τίτλου Junior</item>
-        <item>Πιστοποιημένος δημόσιος λογιστής</item>
-        <item>Πεκίνο οδηγός άδειας</item>
-        <item>Ενδιάμεση εξέταση λογιστικού τίτλου</item>
-        <item>Εξέταση ανώτατου λογιστικού τίτλου</item>
-        <item>Πιστοποιητικό λογιστικής πιστοποίησης</item>
-        <item>Ελεγχόμενη δημόσια λογιστική εξέταση</item>
+        <item>Primary and secondary school teacher certification</item>
+        <item>Teacher certification</item>
+        <item>"Driver's license"</item>
+        <item>Guide permit</item>
+        <item>Electronic guide permit</item>
+        <item>National judicial examination</item>
+        <item>Electronic first-class constructor certificate</item>
+        <item>Second-class constructor certificate</item>
+        <item>Junior accounting title examination</item>
+        <item>Certified public accountant</item>
+        <item>Beijing guide permit</item>
+        <item>Intermediate accounting title examination</item>
+        <item>Senior accounting title examination</item>
+        <item>Accounting qualification certificate</item>
+        <item>Certified public accountant examination</item>
     </string-array>
     <string-array name="magic_idp_size_category_visa">
-        <item>Ηνωμένες Πολιτείες</item>
+        <item>United States</item>
         <item>Vietnam</item>
-        <item>Ιαπωνία</item>
-        <item>Χονγκ Κονγκ και Μακάο</item>
-        <item>Νότια Κορέα</item>
-        <item>Ταϊλάνδη (τουρίστας)</item>
-        <item>Ταϊλάνδη (κατά την άφιξη)</item>
-        <item>Ινδία</item>
+        <item>Japan</item>
+        <item>Hong Kong and Macau</item>
+        <item>South Korea</item>
+        <item>Thailand (tourist)</item>
+        <item>Thailand (on arrival)</item>
+        <item>India</item>
         <item>Israel</item>
-        <item>Ταϊβάν</item>
-        <item>Μαλαισία</item>
-        <item>Νέα Ζηλανδία</item>
-        <item>Ιταλία</item>
-        <item>Αργεντινή</item>
-        <item>Βραζιλία</item>
-        <item>Ισλανδία</item>
-        <item>Κένυα</item>
+        <item>Taiwan</item>
+        <item>Malaysia</item>
+        <item>New Zealand</item>
+        <item>Italy</item>
+        <item>Argentina</item>
+        <item>Brazil</item>
+        <item>Iceland</item>
+        <item>Kenya</item>
     </string-array>
     <string-array name="month">
         <item>Ιανουάριος</item>
@@ -320,8 +320,8 @@
         <item>Σε αρμονία</item>
     </string-array>
     <string-array name="recent_group_people">
-        <item>Μαζί</item>
-        <item>Ομόλογα και δεσμοί</item>
+        <item>Together</item>
+        <item>Bonds and ties</item>
     </string-array>
     <string-array name="relation_with_me">
         <item>Εγώ</item>
@@ -357,8 +357,8 @@
         <item>Γεμάτο ενέργεια</item>
     </string-array>
     <string-array name="three_month_baby_title">
-        <item>Αναπτύσσονται τόσο γρήγορα</item>
-        <item>"Φωτογραφίες του Kiddo"</item>
+        <item>They grow so fast</item>
+        <item>"Kiddo's photos"</item>
     </string-array>
     <string-array name="weekend_title">
         <item>Προηγούμενα Σαββατοκύριακα</item>

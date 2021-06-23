@@ -122,7 +122,7 @@
     </plurals>
     <plurals name="hr_fp_detect_time_remainder">
         <item quantity="other">απομένουν %1$d δευτερόλεπτα</item>
-        <item quantity="one">απομένουν %1$d δευτερόλεπτα</item>
+        <item quantity="one">απομένει %1$d δευτερόλεπτο</item>
     </plurals>
     <plurals name="in_a_hour">
         <item quantity="one">Σε 1 ώρα</item>

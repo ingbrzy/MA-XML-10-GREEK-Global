@@ -80,9 +80,9 @@
         <item>Planet;Saturn;Super wallpaper;Wallpaper</item>
     </string-array>
     <string-array name="settings_search_snowmountain">
-        <item>Snowy peaks</item>
-        <item>Ταπετσαρίες/Super ταπετσαρίες/χιονισμένες κορυφές</item>
-        <item>Γη;Βουνά;Σούπερ ταπετσαρία;Ταπετσαρία</item>
+        <item>Χιονισμένες κορυφές</item>
+        <item>Ταπετσαρίες/Σούπερ ταπετσαρίες/Χιονισμένες κορυφές</item>
+        <item>Γη,Βουνά,Σούπερ ταπετσαρία,Ταπετσαρία</item>
     </string-array>
     <string-array name="settings_search_superwp">
         <item>Σούπερ ταπετσαρίες</item>

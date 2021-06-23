@@ -1,12 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string-array name="accessibility_autoclick_control_selector_keys">
-        <item>accessibility_control_autoclick_default</item>
-        <item>accessibility_control_autoclick_200ms</item>
-        <item>accessibility_control_autoclick_600ms</item>
-        <item>accessibility_control_autoclick_1sec</item>
-        <item>accessibility_control_autoclick_custom</item>
-    </string-array>
     <string-array name="agps_network_entries">
         <item>Δίκτυο οικίας</item>
         <item>Όλα τα δίκτυα</item>
@@ -41,6 +34,65 @@
         <item>Καθημερινές νύχτες</item>
         <item>Σαββατοκύριακο</item>
         <item>Προσαρμογή</item>
+    </string-array>
+    <string-array name="alphabet_table">
+        <item>Α</item>
+        <item>Β</item>
+        <item>Γ</item>
+        <item>Δ</item>
+        <item>Ε</item>
+        <item>Ζ</item>
+        <item>Η</item>
+        <item>Θ</item>
+        <item>Ι</item>
+        <item>Κ</item>
+        <item>Λ</item>
+        <item>Μ</item>
+        <item>Ν</item>
+        <item>Ξ</item>
+        <item>Ο</item>
+        <item>Π</item>
+        <item>Ρ</item>
+        <item>Σ</item>
+        <item>Τ</item>
+        <item>Υ</item>
+        <item>Φ</item>
+        <item>Χ</item>
+        <item>Ψ</item>
+        <item>Ω</item>
+        <item>\#</item>
+        <item>.</item>
+        <item>.</item>
+    </string-array>
+    <string-array name="alphabet_table_with_starred">
+        <item>!</item>
+        <item>Α</item>
+        <item>Β</item>
+        <item>Γ</item>
+        <item>Δ</item>
+        <item>Ε</item>
+        <item>Ζ</item>
+        <item>Η</item>
+        <item>Θ</item>
+        <item>Ι</item>
+        <item>Κ</item>
+        <item>Λ</item>
+        <item>Μ</item>
+        <item>Ν</item>
+        <item>Ξ</item>
+        <item>Ο</item>
+        <item>Π</item>
+        <item>Ρ</item>
+        <item>Σ</item>
+        <item>Τ</item>
+        <item>Υ</item>
+        <item>Φ</item>
+        <item>Χ</item>
+        <item>Ψ</item>
+        <item>Ω</item>
+        <item>\#</item>
+        <item>.</item>
+        <item>.</item>
     </string-array>
     <string-array name="animator_duration_scale_entries">
         <item>Κινούμενα σχέδια ανενεργά</item>
@@ -393,10 +445,10 @@
     </string-array>
     <string-array name="bt_hci_snoop_log_entries">
         <item>Απενεργοποιημένο</item>
-        <item>Filtered</item>
+        <item>Έγινε φιλτράρισμα</item>
         <item>Ενεργοποιήθηκε</item>
-        <item>Headers filtered</item>
-        <item>Media packets filtered</item>
+        <item>Έγινε φιλτράρισμα επικεφαλίδων</item>
+        <item>Έγινε φιλτράρισμα πακέτων πολυμέσων</item>
     </string-array>
     <string-array name="button_light_timeout_entries">
         <item>1 δευτερόλεπτο</item>
@@ -456,12 +508,6 @@
         <item>Μοτίβο</item>
         <item>PIN</item>
         <item>Κωδικός</item>
-    </string-array>
-    <string-array name="charge_animation_style_entries">
-        <item>Ανενεργό</item>
-        <item>Ροή</item>
-        <item>Λάμψη</item>
-        <item>Κύμα</item>
     </string-array>
     <string-array name="city_name">
         <item>Αμπιτζάν</item>
@@ -1268,8 +1314,8 @@
         <item>Συμπαγής</item>
     </string-array>
     <string-array name="tabs_taptic_detail">
-        <item>Τραγανό</item>
-        <item>Βάση</item>
+        <item>Ζωηρό</item>
+        <item>Βασικό</item>
         <item>Ποπ</item>
     </string-array>
     <string-array name="time_format_entries">

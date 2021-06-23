@@ -73,6 +73,65 @@
         <item>\#</item>
         <item>.</item>
     </string-array>
+    <string-array name="alphabet_table">
+        <item>Α</item>
+        <item>Β</item>
+        <item>Γ</item>
+        <item>Δ</item>
+        <item>Ε</item>
+        <item>Ζ</item>
+        <item>Η</item>
+        <item>Θ</item>
+        <item>Ι</item>
+        <item>Κ</item>
+        <item>Λ</item>
+        <item>Μ</item>
+        <item>Ν</item>
+        <item>Ξ</item>
+        <item>Ο</item>
+        <item>Π</item>
+        <item>Ρ</item>
+        <item>Σ</item>
+        <item>Τ</item>
+        <item>Υ</item>
+        <item>Φ</item>
+        <item>Χ</item>
+        <item>Ψ</item>
+        <item>Ω</item>
+        <item>\#</item>
+        <item>.</item>
+        <item>.</item>
+    </string-array>
+    <string-array name="alphabet_table_with_starred">
+        <item>!</item>
+        <item>Α</item>
+        <item>Β</item>
+        <item>Γ</item>
+        <item>Δ</item>
+        <item>Ε</item>
+        <item>Ζ</item>
+        <item>Η</item>
+        <item>Θ</item>
+        <item>Ι</item>
+        <item>Κ</item>
+        <item>Λ</item>
+        <item>Μ</item>
+        <item>Ν</item>
+        <item>Ξ</item>
+        <item>Ο</item>
+        <item>Π</item>
+        <item>Ρ</item>
+        <item>Σ</item>
+        <item>Τ</item>
+        <item>Υ</item>
+        <item>Φ</item>
+        <item>Χ</item>
+        <item>Ψ</item>
+        <item>Ω</item>
+        <item>\#</item>
+        <item>.</item>
+        <item>.</item>
+    </string-array>
     <string-array name="calendar_remind_string_array">
         <item>Απόψε</item>
         <item>Αύριο</item>
@@ -112,6 +171,11 @@
     <string-array name="prefEntries_contact_add">
         <item>Όλοι</item>
         <item>Μόνο οι αποστολείς</item>
+    </string-array>
+    <string-array name="sign_in_dialog_item">
+        <item>Outlook oauth imap πρωτόκολλο σύνδεσης</item>
+        <item>IMAP (χωρίς ημερολόγιο)</item>
+        <item>ΑΝΤΑΛΛΑΓΗ (με ημερολόγιο)</item>
     </string-array>
     <string-array name="signature_normal_string_array">
         <item>Ιστολόγιο:</item>

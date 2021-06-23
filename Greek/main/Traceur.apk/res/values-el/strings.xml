@@ -509,6 +509,10 @@
     <string name="show_touches">Εμφάνιση πατημάτων</string>
     <string name="show_touches_summary">Εμφάνιση οπτικών σχολίων για πατήματα</string>
     <string name="simulate_color_space">Προσομοίωση χρωματικού χώρου</string>
+    <string name="softap_beacon_protection">Ενεργοποίηση Προστασίας Φάρου SoftAp</string>
+    <string name="softap_beacon_protection_summary">Ενεργοποίηση προστασίας φάρου SoftAp με χρήση Hotspot</string>
+    <string name="softap_ocv">Ενεργοποίηση SoftAp OCV</string>
+    <string name="softap_ocv_summary">Ενεργοποίηση του SoftAp OCV χρησιμοποιώντας το Hotspot</string>
     <string name="speed_label_fast">Γρήγορη</string>
     <string name="speed_label_medium">Μέτρια</string>
     <string name="speed_label_okay">ΟΚ</string>
@@ -655,6 +659,8 @@
     <string name="wifi_hand_sel_wapi_cert">Πιστοποιητικό WAPI</string>
     <string name="wifi_limited_connection">Περιορισμένη σύνδεση</string>
     <string name="wifi_metered_label">Μέτρηση με βάση τη χρήση</string>
+    <string name="wifi_new_network_auto_connection">Ssid Γέφυρα - Αυτόματη Σύνδεση</string>
+    <string name="wifi_new_network_auto_connection_summary">Ενεργοποίηση προσπαθειών αυτόματης σύνδεσης σε ένα νέο SSID WPA/WPA2‐PSK 5GHz με τρέχουσα συνδεδεμένη SSID WPA/WPA2‐PSK 2GHz στα διαπιστευτήρια SSID SSID και BSSID μερικού ταιριάσματος</string>
     <string name="wifi_no_internet">Δεν υπάρχει πρόσβαση στο διαδίκτυο</string>
     <string name="wifi_no_internet_no_reconnect">"Δεν θα συνδεθεί αυτόματα"</string>
     <string name="wifi_not_in_range">Εκτός εμβέλειας</string>
@@ -690,6 +696,8 @@
 Ο αποθηκευτικός χώρος διαπιστευτηρίων μπορεί να μην ενεργοποιηθεί"</string>
     <string name="wifi_wapi_psk_type">Τύπος κωδικού πρόσβασης</string>
     <string name="wifi_wapi_user_certificate">Πιστοποιητικό χρήστη</string>
+    <string name="wifi_whitelist_roaming">SSID Bridging ‐ Fast Handover</string>
+    <string name="wifi_whitelist_roaming_summary">Ενεργοποίηση περιαγωγής μεταξύ διαφορετικών APs SSID WPA/WPA2‐PSK με ίδια πύλη διεύθυνσης MAC</string>
     <string name="window_animation_scale_title">Κλίμακα κίνησης παραθύρου</string>
     <string name="zen_alarm_warning">"Δεν θα ακούσετε το επόμενο ξυπνητήρι %1$s"</string>
     <string name="zen_alarm_warning_indef">"Δεν θα ακούσετε το επόμενο ξυπνητήρι %1$s, εκτός εάν το απενεργοποιήσετε νωρίτερα"</string>

@@ -1,5 +1,41 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <plurals name="a_hour_ago">
+        <item quantity="one">πριν από 1 ώρα</item>
+        <item quantity="other">πριν από 1 ώρα</item>
+    </plurals>
+    <plurals name="abbrev_a_hour_ago">
+        <item quantity="one">πριν από 1 ώρα</item>
+        <item quantity="other">πριν από 1 ώρα</item>
+    </plurals>
+    <plurals name="abbrev_half_hour_ago">
+        <item quantity="one">Μισή ώρα πριν</item>
+        <item quantity="other">Μισή ώρα πριν</item>
+    </plurals>
+    <plurals name="abbrev_in_a_hour">
+        <item quantity="one">Σε 1 ώρα</item>
+        <item quantity="other">Σε 1 ώρα</item>
+    </plurals>
+    <plurals name="abbrev_in_half_hour">
+        <item quantity="one">Σε μισή ώρα</item>
+        <item quantity="other">Σε μισή ώρα</item>
+    </plurals>
+    <plurals name="abbrev_in_less_than_one_minute">
+        <item quantity="one">Άμεσα</item>
+        <item quantity="other">Άμεσα</item>
+    </plurals>
+    <plurals name="abbrev_in_num_minutes">
+        <item quantity="other">σε %d λεπτά</item>
+        <item quantity="one">σε 1 λεπτό</item>
+    </plurals>
+    <plurals name="abbrev_less_than_one_minute_ago">
+        <item quantity="one">Μόλις τώρα</item>
+        <item quantity="other">Μόλις τώρα</item>
+    </plurals>
+    <plurals name="abbrev_num_minutes_ago">
+        <item quantity="other">%d λ πριν</item>
+        <item quantity="one">1 λεπτό πριν</item>
+    </plurals>
     <plurals name="abc_slice_duration_days">
         <item quantity="other">%d ημ. πριν</item>
         <item quantity="one">%d ημ. πριν</item>
@@ -148,13 +184,37 @@
         <item quantity="other">%1$d άτομα συνδέθηκαν</item>
         <item quantity="one">%1$d άτομο συνδέθηκε</item>
     </plurals>
+    <plurals name="half_hour_ago">
+        <item quantity="one">Μισή ώρα πριν</item>
+        <item quantity="other">Μισή ώρα πριν</item>
+    </plurals>
     <plurals name="hours">
         <item quantity="other">%s ώρες</item>
         <item quantity="one">1 ώρα</item>
     </plurals>
+    <plurals name="in_a_hour">
+        <item quantity="one">Σε 1 ώρα</item>
+        <item quantity="other">Σε 1 ώρα</item>
+    </plurals>
+    <plurals name="in_half_hour">
+        <item quantity="one">Σε μισή ώρα</item>
+        <item quantity="other">Σε μισή ώρα</item>
+    </plurals>
+    <plurals name="in_less_than_one_minute">
+        <item quantity="one">Άμεσα</item>
+        <item quantity="other">Άμεσα</item>
+    </plurals>
+    <plurals name="in_num_minutes">
+        <item quantity="other">σε %d λεπτά</item>
+        <item quantity="one">σε 1 λεπτό</item>
+    </plurals>
     <plurals name="interact_across_profiles_number_of_connected_apps">
         <item quantity="other">%d συνδεδεμένες εφαρμογές</item>
         <item quantity="one">%d συνδεδεμένες εφαρμογές</item>
+    </plurals>
+    <plurals name="less_than_one_minute_ago">
+        <item quantity="one">Μόλις τώρα</item>
+        <item quantity="other">Μόλις τώρα</item>
     </plurals>
     <plurals name="location_app_permission_summary_location_on">
         <item quantity="other">%1$d από %2$d εφαρμογές έχουν πρόσβαση στην τοποθεσία σας</item>
@@ -245,8 +305,12 @@
         <item quantity="one">%d προστέθηκε</item>
     </plurals>
     <plurals name="miui_wifi_wakeup_summary">
-        <item quantity="other">Το Wi-Fi θα ενεργοποιηθεί αυτόματα όταν η συσκευή σας εντοπίσει αποθηκευμένα δίκτυα κοντά και απενεργοποιηθεί μετά από %d λεπτά εάν δεν έχει δημιουργηθεί σύνδεση</item>
-        <item quantity="one">Το Wi-Fi θα ενεργοποιηθεί αυτόματα όταν η συσκευή σας εντοπίσει αποθηκευμένα δίκτυα κοντά και απενεργοποιηθεί μετά από %d λεπτό, εάν δεν έχει δημιουργηθεί σύνδεση</item>
+        <item quantity="other">Η λειτουργία Wi-Fi θα ενεργοποιείται αυτόματα όταν η συσκευή σας εντοπίζει αποθηκευμένα κοντινά δίκτυα και θα απενεργοποιείται μετά από %d λεπτά εάν δεν πραγματοποιηθεί καμία σύνδεση</item>
+        <item quantity="one">Η λειτουργία Wi-Fi θα ενεργοποιείται αυτόματα όταν η συσκευή σας εντοπίζει αποθηκευμένα κοντινά δίκτυα και θα απενεργοποιείται μετά από %d λεπτό εάν δεν πραγματοποιηθεί καμία σύνδεση</item>
+    </plurals>
+    <plurals name="miuix_appcompat_items_selected">
+        <item quantity="other">%d επιλεγμένα στοιχεία</item>
+        <item quantity="one">%d επιλεγμένο στοιχείο</item>
     </plurals>
     <plurals name="mobile_network_summary_count">
         <item quantity="other">%1$d SIM</item>
@@ -279,6 +343,10 @@
     <plurals name="notifications_sent_weekly">
         <item quantity="other">~%d ειδοποιήσεις ανά εβδομάδα</item>
         <item quantity="one">~%d ειδοποίηση ανά εβδομάδα</item>
+    </plurals>
+    <plurals name="num_minutes_ago">
+        <item quantity="other">%d λεπτά πριν</item>
+        <item quantity="one">1 λεπτό πριν</item>
     </plurals>
     <plurals name="number_of_device_admins">
         <item quantity="other">%d ενεργές εφαρμογές</item>
@@ -409,8 +477,8 @@
         <item quantity="one">1 πρόταση</item>
     </plurals>
     <plurals name="switch_headset_anti_lost_summary">
-        <item quantity="other">Λάβετε μια ειδοποίηση όποτε ένα από τα ακουστικά σας είναι μακριά από το αυτί ή την θήκη φόρτισης για περισσότερο από %d λεπτά</item>
-        <item quantity="one">Λάβετε μια ειδοποίηση κάθε φορά που ένα από τα ακουστικά σας είναι μακριά από το αυτί ή την θήκη φόρτισης για περισσότερο από %d λεπτό</item>
+        <item quantity="other">Λάβετε μια ειδοποίηση κάθε φορά που ένα από τα ακουστικά σας βρίσκεται μακριά από το αυτί ή τη θήκη φόρτισης για περισσότερο από %d λεπτά</item>
+        <item quantity="one">Λάβετε μια ειδοποίηση κάθε φορά που ένα από τα ακουστικά σας βρίσκεται μακριά από το αυτί ή τη θήκη φόρτισης για περισσότερο από %d λεπτό</item>
     </plurals>
     <plurals name="uri_permissions_text">
         <item quantity="other">%d στοιχεία</item>
