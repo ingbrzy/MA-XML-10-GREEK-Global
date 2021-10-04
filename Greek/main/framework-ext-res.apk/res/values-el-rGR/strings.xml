@@ -36,6 +36,8 @@
     <string name="autofill_save_sub_message">"Μπορείτε να δείτε και να διαχειριστείτε τους κωδικούς σας στις Ρυθμίσεις &gt; Κωδικοί &amp; Ασφάλεια &gt;%s"</string>
     <string name="autofill_save_title">Αυτόματη αποθήκευση κωδικών</string>
     <string name="autofill_service_name">Διαχείριση κωδικών</string>
+    <string name="battery_authentic_failed_button">Το κατάλαβα</string>
+    <string name="battery_authentic_failed_title">Προσοχή</string>
     <string name="bluetooth_close">Η εφαρμογή αυτή απενεργοποίησε το Bluetooth</string>
     <string name="bluetooth_disable_notification_content">Ο/Η %s απενεργοποίησε το Bluetooth</string>
     <string name="bluetooth_disable_notification_title">Το Bluetooth είναι ανενεργό</string>
@@ -130,6 +132,12 @@
     <string name="international_livetalk_enable">Γίνεται χρήση πακέτου ανανέωσης για κλήσεις εξωτερικού</string>
     <string name="key_btn_ok">ΟΚ</string>
     <string name="key_btn_space">Διάστημα</string>
+    <string name="keyboard_identity_reject_confirm">Το κατάλαβα</string>
+    <string name="keyboard_identity_reject_message">"Φαίνεται ότι το πληκτρολόγιό σας δεν είναι συμβατό με αυτήν τη συσκευή."</string>
+    <string name="keyboard_identity_transfer_error_message">"Αδυναμία σύνδεσης πληκτρολογίου. Δοκιμάστε ξανά."</string>
+    <string name="keyboard_upgrade_failed">"Αδυναμία ενημέρωσης πληκτρολογίου"</string>
+    <string name="keyboard_upgrade_start">Ενημέρωση πληκτρολογίου…</string>
+    <string name="keyboard_upgrade_success">Το πληκτρολόγιο ενημερώθηκε επιτυχώς</string>
     <string name="livetalk_not_enable">Το πακέτο ανανέωσης είναι ανενεργό</string>
     <string name="location_usage_restricted_body">Αγγίξτε για αποδοχή.</string>
     <string name="location_usage_restricted_title">Έγινε περιορισμός δεδομένων παρασκηνίου</string>
@@ -169,6 +177,7 @@
     <string name="open_close_tip_content">Για να κλείσετε το αναδυόμενο παράθυρο, πατήστε και κρατήστε την μπάρα ενέργειας και μετά σύρετε προς τα πάνω</string>
     <string name="oppo">OPPO</string>
     <string name="oppo_phone">OPPO</string>
+    <string name="other_ime">Άλλα πληκτρολόγια</string>
     <string name="package_delete_confirm_step_1">Απεγκατάσταση %s;</string>
     <string name="package_delete_confirm_step_2">Εάν απεγκαταστήσετε αυτήν την εφαρμογή μπορεί να προκαλέσει αστάθεια του συστήματος.</string>
     <string name="package_delete_confirm_step_3">"Δεν θα μπορείτε να ανοίξετε αυτήν την εφαρμογή αφού την απεγκαταστήσετε."</string>
@@ -222,12 +231,15 @@
     <string name="resource_select">Επιλογή</string>
     <string name="rog">ROG</string>
     <string name="rog_phone">ROG</string>
+    <string name="samsung_phone">Samsung phone</string>
     <string name="scanning_device_tips">Αναζήτηση κοντινών συσκευών… Βεβαιωθείτε ότι η άλλη συσκευή είναι σε Ανιχνεύσιμη λειτουργία.</string>
     <string name="screen_button_notification_text">Για να τα ενεργοποιήσετε, πατήστε τα κουμπιά Αρχικής και Λειτουργίας ταυτόχρονα.</string>
     <string name="screen_button_notification_title">Τα κουμπιά πλοήγησης είναι ανενεργά</string>
     <string name="screen_on_proximity_sensor_hint">Για να απενεργοποιήσετε αυτή την λειτουργία, πιέστε ταυτόχρονα το κουμπί Αύξησης έντασης και το κουμπί Πίσω.</string>
     <string name="screen_on_proximity_sensor_hint_has_navigation_bar">Για να απενεργοποιήσετε αυτή την λειτουργία, πατήστε το κουμπί Αύξησης έντασης.</string>
+    <string name="screen_on_proximity_sensor_hint_has_navigation_bar_for_kddi">Για να απενεργοποιήσετε αυτήν τη λειτουργία, πατήστε το κουμπί Ένταση προς τα πάνω.</string>
     <string name="screen_on_proximity_sensor_summary">"Μην καλύπτετε την περιοχή των ακουστικών"</string>
+    <string name="screen_on_proximity_sensor_summary_for_kddi">"Μην καλύπτετε τον αισθητήρα φωτισμού περιβάλλοντος"</string>
     <string name="screen_on_proximity_sensor_title">Λειτουργία τσέπης</string>
     <string name="screen_paper_mode_enter_toast">Η λειτουργία ανάγνωσης είναι ενεργή. Για να απενεργοποιήστε την λειτουργία αυτή, μεταβείτε στις Ρυθμίσεις &gt; Οθόνη &gt; Λειτουργία ανάγνωσης.</string>
     <string name="screen_rotation_freeze_message">Η αυτόματη περιστροφή είναι απενεργοποιημένη.</string>
@@ -263,6 +275,10 @@
     <string name="slavewifi_disconnect">Αποσύνδεση</string>
     <string name="slavewifi_notification_title">Χρήση Wi-Fi διπλής ζώνης</string>
     <string name="slavewifi_settings">Αγγίξτε για αλλαγή ρυθμίσεων</string>
+    <string name="small_freeform_enter_warning">Πλωτό παράθυρο</string>
+    <string name="small_freeform_exit_tip">Κλείσιμο κυμαινόμενου παραθύρου</string>
+    <string name="small_freeform_memory_toast_app_type">"Αδύνατο το άνοιγμα τώρα. Αυτή η εφαρμογή απαιτεί υπερβολική μνήμη για να μπορεί να λειτουργήσει."</string>
+    <string name="small_freeform_memory_toast_game_type">"Δεν μπορεί να ανοίξει τώρα. Αυτό το παιχνίδι απαιτεί πάρα πολύ μνήμη για να είναι σε θέση να λειτουργήσει."</string>
     <string name="smartisan">Smartisan</string>
     <string name="smartisan_phone">Smartisan</string>
     <string name="softap_notifif_summary">%d συνδέθηκαν</string>
@@ -317,6 +333,10 @@
     <string name="translation_more">Περισσότερα</string>
     <string name="translation_query_error">"Αδυναμία εύρεσης αποτελεσμάτων"</string>
     <string name="translation_query_error_network">"Αδυναμία απόκτησης πληροφοριών, ελέγξτε την σύνδεση δικτύου και προσπαθήστε ξανά"</string>
+    <string name="trial_mode_dialog_button_cancel">Ακύρωση</string>
+    <string name="trial_mode_dialog_button_save">Αποθήκευση</string>
+    <string name="trial_mode_dialog_message">\"%s\" εκτελείται σε δοκιμαστική λειτουργία. Επανεκκίνηση της συσκευής σας ή εναλλαγή σε λειτουργία Ταχύτητας φωτός θα διαγράψει αυτό το παιχνίδι. Αποθηκεύστε το παιχνίδι στον εσωτερικό χώρο αποθήκευσης?</string>
+    <string name="trial_mode_dialog_title">Δοκιμαστική λειτουργία</string>
     <string name="turn_off">Απενεργοποίηση</string>
     <string name="turn_on_work_profile">ενεργοποίηση</string>
     <string name="twohours">1 ώρα</string>
@@ -332,7 +352,7 @@
     <string name="wifi_assistant_wifi_no_internet">Αυτό το δίκτυο Wi-Fi δεν έχει πρόσβαση στο Ίντερνετ</string>
     <string name="wifi_assistant_wifi_no_internet_detail">Αγγίξτε για προβολή λεπτομερειών</string>
     <string name="wireless_charging_notification_message1">"Αδυναμία εύρεσης ασύρματων συσκευών για φόρτιση. Η αντίστροφη ασύρματη φόρτιση τώρα είναι απενεργοποιημένη."</string>
-    <string name="wireless_charging_notification_message2">Το επίπεδο φόρτισης της μπαταρίας είναι κάτω από 30%. Η αντίστροφη ασύρματη φόρτιση τώρα είναι απενεργοποιημένη.</string>
+    <string name="wireless_charging_notification_message2">Η μπαταρία είναι μικρότερη από %s φορτισμένη. Η αντίστροφη ασύρματη φόρτιση είναι απενεργοποιημένη τώρα.</string>
     <string name="wireless_charging_notification_message3">Παρουσιάστηκε σφάλμα κατά τη φόρτιση. Η αντίστροφη ασύρματη φόρτιση τώρα είναι απενεργοποιημένη.</string>
     <string name="wireless_charging_notification_titile">Απενεργοποιημένη αντίστροφη ασύρματη φόρτιση</string>
     <string name="xiaomi">Mi</string>

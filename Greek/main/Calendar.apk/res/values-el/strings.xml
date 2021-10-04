@@ -1,8 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="abc_action_bar_home_description">Πλοήγηση στην αρχική σελίδα</string>
-    <string name="abc_action_bar_home_description_format">%1$s, %2$s</string>
-    <string name="abc_action_bar_home_subtitle_description_format">%1$s, %2$s, %3$s</string>
     <string name="abc_action_bar_up_description">Πλοήγηση προς τα επάνω</string>
     <string name="abc_action_menu_overflow_description">Περισσότερες επιλογές</string>
     <string name="abc_action_mode_done">Τέλος</string>
@@ -52,7 +50,6 @@
     <string name="agenda_tomorrow">ΑΥΡΙΟ, %1$s</string>
     <string name="agenda_view">Συμβάντα</string>
     <string name="alarm_label">Απόρριψη</string>
-    <string name="alert_reminder_divider">|</string>
     <string name="alert_reminder_expired">Έληξε</string>
     <string name="alert_title">Ειδοποιήσεις ημερολόγιου</string>
     <string name="all_events">Όλα τα συμβάντα</string>
@@ -151,7 +148,6 @@
     <string name="date_calculate_tab">Υπολογισμός ημερομηνίας</string>
     <string name="date_calculate_today">%d ημέρες</string>
     <string name="date_calculate_when">Έναρξη</string>
-    <string name="date_format_y_m">MMM yyyy</string>
     <string name="date_interval_description">Μάθετε πόσες ημέρες υπάρχουν μεταξύ δύο ημερομηνιών</string>
     <string name="date_interval_end">Έως</string>
     <string name="date_interval_start">Από</string>
@@ -159,7 +155,6 @@
     <string name="date_interval_text_to">Έως %1$s</string>
     <string name="date_jump_hint">Απευθείας μετάβαση σε μια συγκεκριμένη ημέρα</string>
     <string name="date_jump_title">Μετάβαση στην ημερομηνία</string>
-    <string name="date_time_fmt" formatted="false">%s, %s</string>
     <string name="date_today">" (σήμερα)"</string>
     <string name="day">Ημέρα</string>
     <string name="day_view_new_event_hint">Νέο συμβάν</string>
@@ -204,6 +199,8 @@
     <string name="edit_event_tab_event">Εκδήλωση</string>
     <string name="edit_event_to_label">Προς</string>
     <string name="edit_your_long_holidays">Επεξεργασία εορτών</string>
+    <string name="ee_dd_short_month">EEE, MMM dd</string>
+    <string name="eee_dd_long_month">EEEE, MMMM dd</string>
     <string name="email_guests_label">Email στους επισκέπτες</string>
     <string name="email_install_hint">Έγινε απεγκατάσταση του Mail. Εγκαταστήστε το Mail ξανά για επαναφορά των λογαριασμών ημερολογίουή για προσθήκη ενός νέου.</string>
     <string name="email_picker_label">Email με</string>
@@ -230,10 +227,9 @@
     <string name="event_reminder_value_zero">Πριν το συμβάν</string>
     <string name="event_title">Τίτλος</string>
     <string name="event_view">Προβολή συμβάντος</string>
-    <string name="every_weekday">Καθημερινές (Δευ–Παρ)</string>
+    <string name="every_weekday">Καθημερινές (Mon-Fri)</string>
     <string name="featured_title">Προβεβλημένα</string>
     <string name="feedback">Σχόλια</string>
-    <string name="festival_detail_title">Φεστιβάλ</string>
     <string name="file_exception">Παρουσιάσθηκε σφάλμα</string>
     <string name="fixtures">Fixtures</string>
     <string name="fourth_saturday_holiday">Κάθε δεύτερο και τέταρτο Σάββατο είναι ημέρες ξεκούρασης</string>
@@ -243,12 +239,10 @@
     <string name="gadget_title">Ημερολόγιο</string>
     <string name="global_action_text_card_manager">Προσαρμογή ημερολόγιου σας</string>
     <string name="global_cricket_no_match">Δεν υπάρχουν αγώνες κρίκετ σήμερα. Ρίξτε μια ματιά σε άλλες ημέρες.</string>
-    <string name="global_football_final">ΤΕΛΙΚΟΣ</string>
     <string name="global_football_no_match">Δεν υπάρχουν αγώνες ποδοσφαίρου σήμερα.</string>
     <string name="global_joke_collapse_text">Εμφάνιση λιγότερων</string>
     <string name="global_joke_copy_toast_message">Επιτυχής αντιγραφή κειμένου</string>
     <string name="global_joke_expand_text">Εμφάνιση περισσότερων</string>
-    <string name="global_onthisday_com">OnThisDay.com</string>
     <string name="greeting_card_reminder_info_text">Καθημερινή λήψη ειδοποιήσεων σχετικά με χαιρετισμούς και καταστάσεις</string>
     <string name="greeting_success_subtext">Οι ειδοποιήσεις είναι ενεργές</string>
     <string name="greeting_success_text">Τέλος</string>
@@ -294,7 +288,6 @@
     <string name="import_action">Εισαγωγή</string>
     <string name="import_birthday">Εισαγωγή γενεθλίων</string>
     <string name="imported">Έγινε εισαγωγή</string>
-    <string name="insert_event_dialog_btn_negative">Όχι</string>
     <string name="insert_event_dialog_btn_positive">Ναι</string>
     <string name="insert_event_dialog_message">Προσθήκη του συμβάντος στο ημερολόγιο;</string>
     <string name="insert_event_dialog_title">Προσοχή</string>
@@ -345,7 +338,6 @@
     <string name="menstruation_select_date">Επιλέξτε ημερομηνία</string>
     <string name="menstruation_setting">Ρυθμίσεις εμμηνόρροιας</string>
     <string name="menstrution_auth_description">Ο Βοηθός εμμηνόρροιας σας επιτρέπει να καταγράφετε εμμηνόρροιες, να καθορίζετε τις εκτιμώμενες ημερομηνίες των ανερχόμενων εμμηνορροιών και να λαμβάνετε υπενθυμίσεις. Όλα τα σχετικά δεδομένα θα αποθηκευτούν τοπικά στη συσκευή σας.</string>
-    <string name="menu_general_preferences">Γενικά</string>
     <string name="menu_reminder_preferences">Υπενθυμίσεις</string>
     <string name="mesens_card_title_stop_today">Η εμμηνόρροια τελειώνει σήμερα</string>
     <string name="mesens_card_title_today_begin">Η εμμηνόρροια ενδέχεται να ξεκινήσει σήμερα</string>
@@ -360,25 +352,14 @@
     <string name="month_medium_april">Απρ</string>
     <string name="month_medium_august">Αυγ</string>
     <string name="month_medium_december">Δεκ</string>
-    <string name="month_medium_february">Φεβ</string>
     <string name="month_medium_january">Ιαν</string>
-    <string name="month_medium_july">Ιουλ</string>
-    <string name="month_medium_june">Ιουν</string>
-    <string name="month_medium_march">Μαρ</string>
-    <string name="month_medium_may">Μαι</string>
-    <string name="month_medium_november">Νοε</string>
-    <string name="month_medium_october">Οκτ</string>
-    <string name="month_medium_september">Σεπ</string>
     <string name="month_view">Μήνας</string>
-    <string name="month_year_format">MMMM yyyy</string>
     <string name="monthly">Μηνιαία</string>
     <string name="monthly_on_day">Μηνιαία(ίδια ημερομηνία)</string>
     <string name="monthly_on_day_count">Μηνιαία (%1$s)</string>
     <string name="more_details">Περισσότερες πληροφορίες</string>
-    <string name="more_string">+%1$s</string>
     <string name="movie_card_read_more">Μάθετε περισσότερα</string>
     <string name="movie_card_title">Ταινίες</string>
-    <string name="movie_card_trailer">Τρέιλερ</string>
     <string name="name_title_menstruation_today_end">Η εμμηνόρροια αναμένεται να τελειώσει σήμερα</string>
     <string name="network_not_available">"Αδυναμία σύνδεσης στο δίκτυο"</string>
     <string name="never">Ποτέ</string>
@@ -415,30 +396,15 @@
     <string name="notes_week_name_two">%1$s και %2$s2</string>
     <string name="notes_weekly">Εβδομαδιαίως</string>
     <string name="notification_channel_name">Υπενθυμίσεις ημερολογίου</string>
-    <string name="numbers">%d</string>
-    <string name="panchang_amanta">Amanta</string>
     <string name="panchang_amanta_month">Μήνας Amanta:</string>
-    <string name="panchang_ayana">Ayana</string>
-    <string name="panchang_gulikai_kalam">Gulikai Kalam</string>
     <string name="panchang_hindu_lunar_month">Ινδουιστικός Σεληνιακός Μήνας</string>
     <string name="panchang_inauspicious_timings">Δυσοίωνες Χρονικές στιγμές</string>
-    <string name="panchang_karan">Karan</string>
     <string name="panchang_moon_sign">Σεληνιακός οίκος</string>
-    <string name="panchang_nakshatra">Nakshatra</string>
-    <string name="panchang_purnimanta">Purnimanta</string>
     <string name="panchang_purnimanta_month">Μήνας Purnimanta:</string>
-    <string name="panchang_rahu_kalam">Rahu Kalam</string>
-    <string name="panchang_ritu">Ritu</string>
-    <string name="panchang_shaka_samvat">Shaka Samvat</string>
     <string name="panchang_sun_sign">Ηλιακός οίκος</string>
     <string name="panchang_till_time">Μέχρι %1$s</string>
-    <string name="panchang_tithi">Tithi</string>
-    <string name="panchang_title">Panchang</string>
     <string name="panchang_to"> σε </string>
     <string name="panchang_upto"> μέχρι </string>
-    <string name="panchang_vikram_samvat">Vikram Samvat</string>
-    <string name="panchang_yamaghanta">Yamaghanta</string>
-    <string name="panchang_yog">Yog</string>
     <string name="partner_compatibility">Συμβατότητα συνεργάτη</string>
     <string name="path_calendar_settings">Εφαρμογές συστήματος/Ημερολόγιο/Ρυθμίσεις</string>
     <string name="picker_day">Επιλεγμένη μέρα: %1$d. Σύρετε κάθετα για επιλογή.</string>
@@ -451,7 +417,6 @@
     <string name="pref_title_alarm_remind">Υπενθυμίσεις ξυπνητηριού</string>
     <string name="pref_title_no_remind">Καμία υπενθύμιση</string>
     <string name="pref_title_notification_remind">Ειδοποιήσεις υπενθυμίσεων</string>
-    <string name="preferences_additional_cal_default">0</string>
     <string name="preferences_alerts_ringtone_title">Ήχος</string>
     <string name="preferences_alerts_vibrateWhen_title">Δόνηση</string>
     <string name="preferences_alerts_vibrate_title">Δόνηση και ήχος κλήσης</string>
@@ -464,7 +429,6 @@
     <string name="preferences_title">Ημερολόγιο</string>
     <string name="preferences_use_home_tz_descrip">Εμφανίζει ημερολόγια και ώρες συμβάντων στην ζώνη ώρα οικίας σας όταν ταξιδεύετε</string>
     <string name="preferences_use_home_tz_title">Χρήση ζώνης ώρας οικίας</string>
-    <string name="preferences_week_start_day_default">-1</string>
     <string name="preferences_week_start_day_dialog">Αρχή της εβδομάδας</string>
     <string name="preferences_week_start_day_title">Αρχή της εβδομάδας</string>
     <string name="privacy_card_description">Συμφωνήστε με την Πολιτική Απορρήτου μας για πρόσβαση σε όλες τις λειτουργίες.</string>
@@ -489,9 +453,7 @@
     <string name="repeat_custom_activity_label">Προσαρμογή</string>
     <string name="repeat_custom_prompt_daily">κάθε %1$s</string>
     <string name="repeat_custom_prompt_sentence">Το συμβάν θα επαναλαμβάνεται %1$s</string>
-    <string name="repeat_custom_prompt_splitter">", "</string>
     <string name="repeat_custom_string_prefix">Προσαρμογή</string>
-    <string name="repeat_custom_string_suffix">" (%1$s)"</string>
     <string name="repeat_end_label">Διακοπή επανάληψης μετά από</string>
     <string name="repeat_end_times_unit">" φορές"</string>
     <string name="repeat_interval_dialog_title">Κάθε %1$s</string>
@@ -507,13 +469,9 @@
     <string name="repeat_label_frequency">Συχνότητα</string>
     <string name="repeat_label_interval">Κάθε</string>
     <string name="repeat_label_week">Εβδομάδα</string>
-    <string name="repeat_month_day_splitter">" "</string>
-    <string name="repeat_week_info">" %1$s %2$s"</string>
     <string name="repeats_label">Επανάληψη</string>
     <string name="response_maybe">Ίσως</string>
-    <string name="response_no">Όχι</string>
     <string name="response_yes">Ναι</string>
-    <string name="rest_day_indication">: )</string>
     <string name="revoke_confirmation_dialog_confirm">Ανάκληση</string>
     <string name="revoke_confirmation_dialog_message">Με εναλλαγή του διακόπτη σε ανενεργό, ανακαλείτε τη συγκατάθεσή σας στην Πολιτική Απορρήτου τоυ Ημερολογίου. Θα σταματήσουμε να συλλέγουμε τις προσωπικές σας πληροφορίες. Οι προσωπικές πληροφορίες που έχουν συλλεχθεί και διατηρηθεί μέχρι στιγμής θα διαγραφούν μέσα στη συγκεκριμένη περίοδο, όπως απαιτείται από τους ισχύοντες νόμους. Το Ημερολόγιο πρέπει να συλλέξει απαραίτητες προσωπικές πληροφορίες για να σας παρέχει τις βασικές υπηρεσίες. Η ανάκληση της συναίνεσής σας στην Πολιτική Απορρήτου του θα θεωρείται άρνηση της αποδοχής των υπηρεσιών του βάσει των συλλεγμένων προσωπικών δεδομένων.</string>
     <string name="revoke_confirmation_dialog_title">Ανάκληση συγκατάθεσης</string>
@@ -535,7 +493,6 @@
     <string name="set_reminder">Ορισμός υπενθύμισης</string>
     <string name="setting">Ρυθμίσεις</string>
     <string name="setting_about_calendar_version">Έκδοση ημερολογίου:</string>
-    <string name="setting_about_imei">IMEI:</string>
     <string name="setting_about_miui_version">MIUI έκδοση:</string>
     <string name="setting_about_summary">Έκδοση:</string>
     <string name="setting_accounts">Λογαριασμοί ημερολογίου</string>
@@ -595,6 +552,16 @@
     <string name="talk_back_read_date">Τρέχουσα ημερομηνία: %1$s (%2$s σύμφωνα με το σεληνιακό ημερολόγιο).</string>
     <string name="talk_back_setting">Ρυθμίσεις</string>
     <string name="talk_back_tab_switch">Εναλλαγή μεταξύ προβολών</string>
+    <string name="talkback_bengali">Μπενγκάλι</string>
+    <string name="talkback_english">Αγγλικά</string>
+    <string name="talkback_gujarati">Gujarati</string>
+    <string name="talkback_hindi">Χίντι</string>
+    <string name="talkback_kannada">Kannada</string>
+    <string name="talkback_malayalam">Μαλαγιαλάμ</string>
+    <string name="talkback_marathi">Μαράθι</string>
+    <string name="talkback_punjabi">Punjabi</string>
+    <string name="talkback_tamil">Tamil</string>
+    <string name="talkback_telugu">Telugu</string>
     <string name="tb_go_back_today">Επιστροφή στο σήμερα</string>
     <string name="tb_mens_month_date_selected">%1$s επιλέχθηκε.</string>
     <string name="tb_mens_month_date_unselected">%1$s. Πατήστε για επιλογή ημερομηνίας.</string>
@@ -616,7 +583,6 @@
     <string name="template_announce_item_index">Συμβάν %1$s από %2$s.</string>
     <string name="three_days_to_go">%d μέρες που απομένουν</string>
     <string name="three_selected_holiday">%1$s, %2$s και %3$s είναι ημέρες ξεκούρασης</string>
-    <string name="time_numbers">%02d</string>
     <string name="time_zone">Ζώνη Ώρας</string>
     <string name="timezone_label">Ζώνη ώρας</string>
     <string name="title_click_record_menstruation">Καταγράψτε εμμηνόρροια</string>
@@ -658,8 +624,6 @@
     <string name="travel_seat_number_text">Θέση</string>
     <string name="travel_train_number_text">Τραίνο</string>
     <string name="travel_train_station">Σιδηροδρομικός σταθμός</string>
-    <string name="twelve_hour_time_format">hh:mm aa</string>
-    <string name="twenty_four_hour_time_format">HH:mm</string>
     <string name="two_selected_holiday">%1$s και %2$s είναι ημέρες ξεκούρασης</string>
     <string name="unable_record_future_menstruation">"Αδυναμία καταγραφής μελλοντικών εμμηνορροιών"</string>
     <string name="unsubscribe_card">Κατάργηση εγγραφής</string>
@@ -686,7 +650,8 @@
     <string name="widget_get_weather_info">Απόκτηση πληροφοριών καιρού</string>
     <string name="widget_no_events">Κανένα γεγονός</string>
     <string name="widget_select_style">Επιλογή στυλ</string>
-    <string name="work_day_indication">: (</string>
+    <string name="xiaomi_calendar_delete_description">Το ημερολόγιο είναι μια εφαρμογή συστήματος που σας επιτρέπει να δημιουργήσετε και να διαχειριστείτε γεγονότα. Μερικά από τα χαρακτηριστικά του θα είναι ακόμα διαθέσιμα μετά την αφαίρεση της συντόμευσης αρχικής οθόνης.</string>
+    <string name="xiaomi_calendar_delete_title">Αφαίρεση \"Ημερολόγιο\" από την αρχική οθόνη?</string>
     <string name="xiaomi_calendar_display_name">Ημερολόγιο Mi Λογαριασμού</string>
     <string name="year">Έτος</string>
     <string name="yearly">Ετησίως (κάθε %s)</string>

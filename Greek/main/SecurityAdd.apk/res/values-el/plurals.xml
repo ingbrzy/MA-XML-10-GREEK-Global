@@ -60,6 +60,10 @@
         <item quantity="one">Μόλις τώρα</item>
         <item quantity="other">Μόλις τώρα</item>
     </plurals>
+    <plurals name="miuix_appcompat_items_selected">
+        <item quantity="other">%d επιλεγμένα στοιχεία</item>
+        <item quantity="one">%d επιλεγμένο στοιχείο</item>
+    </plurals>
     <plurals name="mtrl_badge_content_description">
         <item quantity="other">%d νέες ειδοποιήσεις</item>
         <item quantity="one">%d νέα ειδοποίηση</item>

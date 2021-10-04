@@ -193,12 +193,6 @@
     <string name="feedback_sandy">Sandy</string>
     <string name="feedback_sunny">Αίθριος</string>
     <string name="firebase_database_url">https://globalmiuiweather.firebaseio.com</string>
-    <string name="fmt_date_long_month_day">dd MMMM</string>
-    <string name="fmt_date_long_year_month_day">dd MMMM yyyy</string>
-    <string name="fmt_date_numeric_month_day">dd/MM</string>
-    <string name="fmt_date_numeric_year_month_day">dd/MM/yyyy</string>
-    <string name="fmt_date_short_month_day">dd/MM</string>
-    <string name="fmt_date_short_year_month_day">dd/MM/yyyy</string>
     <string name="friday">Παρασκευή</string>
     <string name="friday_short">Παρ</string>
     <string name="friday_shortest">Παρ</string>

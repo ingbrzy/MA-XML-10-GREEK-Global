@@ -57,6 +57,8 @@
     <string name="cloud_storage_already_full">Ο χώρος αποθήκευσης στο Cloud είναι πλήρης: %1$s%2$s</string>
     <string name="cloud_storage_already_used">Χώρος που χρησιμοποιείται: %1$s%2$s</string>
     <string name="cloud_storage_default_title">Χώρος αποθήκευσης στο Cloud</string>
+    <string name="cloud_storage_info_type_drive">Mi Drive</string>
+    <string name="cloud_storage_info_type_duokan">Duokan</string>
     <string name="cloud_storage_info_type_family">Οικογένεια</string>
     <string name="cloud_storage_info_type_others">Άλλο</string>
     <string name="cloud_storage_info_type_pdc">Ρυθμίσεις συστήματος</string>
@@ -140,12 +142,6 @@
     <string name="find_device_status_title_phone">Εύρεση συσκευής</string>
     <string name="finddevice_miservice_notification_content">"Κλειδώστε την συσκευή σας από μακριά σε περίπτωση απώλειας της"</string>
     <string name="finddevice_miservice_notification_title">Ενεργοποίηση Εύρεση συσκευής</string>
-    <string name="fmt_date_long_month_day">dd MMMM</string>
-    <string name="fmt_date_long_year_month_day">dd MMMM yyyy</string>
-    <string name="fmt_date_numeric_month_day">d/Μ</string>
-    <string name="fmt_date_numeric_year_month_day">d/M/yyyy</string>
-    <string name="fmt_date_short_month_day">dd/MM</string>
-    <string name="fmt_date_short_year_month_day">dd/ΜΜ/yyyy</string>
     <string name="forget_password"><u>Ξέχασα τον κωδικό</u></string>
     <string name="friday">Παρασκευή</string>
     <string name="friday_short">Παρ</string>
@@ -185,8 +181,11 @@
     <string name="ks_download_success">Επιτυχής λήψη</string>
     <string name="ks_fingerprint_payment">Πληρωμές δακτυλικού αποτυπώματος</string>
     <string name="ks_fingerprint_status">Κατάσταση πληρωμής</string>
-    <string name="ks_name_high_precise_position">υψηλή ακριβής θέση</string>
+    <string name="ks_name_alipay">IFAA</string>
+    <string name="ks_name_fido">FIDO</string>
     <string name="ks_name_passpoint">Wi-Fi Passpoint</string>
+    <string name="ks_name_soter">Soter</string>
+    <string name="ks_name_widevine">Widevine (L1)</string>
     <string name="ks_status_available">Διαθέσιμο</string>
     <string name="ks_status_unavailable">Μη διαθέσιμο</string>
     <string name="ks_update_certificate">Πιστοποιητικό</string>
@@ -430,6 +429,7 @@
     <string name="micloud_space_applist_detail">Διαχείρηση εφαρμογών στην Αρχική οθόνη σας</string>
     <string name="micloud_space_applist_title">Διαχείρηση εφαρμογών</string>
     <string name="micloud_space_duokan_detail">Λήψη και διαχείρηση ebooks με την εφαρμογή Duokan.</string>
+    <string name="micloud_space_duokan_title">Duokan</string>
     <string name="micloud_space_soundrecorder_detail">Διαχείρηση εγγραφών αποθηκευμένων στην συσκευή σας</string>
     <string name="micloud_space_soundrecorder_title">Εγγραφές</string>
     <string name="micloud_storage_expires_auto_renewal_sum">Πρέπει να ανανεώσετε την συνδρομή σας.</string>
@@ -496,14 +496,6 @@
     <string name="miuix_appcompat_select_all">Επιλογή όλων</string>
     <string name="miuix_appcompat_select_all_description">Επιλογή όλων</string>
     <string name="miuix_appcompat_select_item">Επιλογή στοιχείων</string>
-    <string name="miuix_sbl_tracking_progress_labe_pull_to_refresh">Τραβήξτε προς τα κάτω για ανανέωση</string>
-    <string name="miuix_sbl_tracking_progress_labe_refreshed">Ανανέωση με επιτυχία</string>
-    <string name="miuix_sbl_tracking_progress_labe_refreshing">Ανανέωση…</string>
-    <string name="miuix_sbl_tracking_progress_labe_release_to_refresh">Απελευθερώστε για ανανέωση</string>
-    <string name="miuix_sbl_tracking_progress_labe_up_nodata">"Αυτά είναι όλα για τώρα"</string>
-    <string name="miuix_sbl_tracking_progress_labe_up_none">"Αυτά είναι όλα για τώρα"</string>
-    <string name="miuix_sbl_tracking_progress_labe_up_refresh">Μόλις ένα δευτερόλεπτο…</string>
-    <string name="miuix_sbl_tracking_progress_labe_up_refresh_fail">"Αδυναμία φόρτωσης στοιχείων"</string>
     <string name="monday">Δευτέρα</string>
     <string name="monday_short">Mon</string>
     <string name="monday_shortest">Mon</string>
@@ -730,12 +722,6 @@
     <string name="share_weibo_not_installed">"Το Weibo δεν έχει εγκατασταθεί."</string>
     <string name="share_weixin_not_installed">"Το WeChat δεν έχει εγκατασταθεί."</string>
     <string name="short_cut_desc">Προσθήκη εικονιδίου του Xiaomi Cloud στην Αρχική οθόνη;</string>
-    <string name="sina_share_fail">"Αδυναμία αποστολής"</string>
-    <string name="sina_share_fail_content_repeat">"Έχετε ήδη μοιραστεί αυτό."</string>
-    <string name="sina_share_pendding">Αποστολή…</string>
-    <string name="sina_share_success">Απεσταλμένα</string>
-    <string name="sina_token_expired_warning">Ο λογαριασμός Weibo έληξε, προσθέστε ξανά τον λογαριασμό.</string>
-    <string name="sina_token_invalid_warning">Ο λογαριασμός Weibo δεν είναι έγκυρος, προσθέστε ξανά τον λογαριασμό.</string>
     <string name="solar_term_autumn_begins">Το φθινόπωρο ξεκινά</string>
     <string name="solar_term_autumn_equinox">Ισημερινού φθινοπώρου</string>
     <string name="solar_term_clear_and_bright">Καθαρό και φωτεινό</string>
@@ -767,6 +753,7 @@
     <string name="soundrecorder_sync_records">Συγχρονισμός με το Xiaomi Cloud</string>
     <string name="special_func_title">Ειδικές λειτουργίες</string>
     <string name="starred_contact">Αγαπημένα</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
     <string name="storage_manage_cloud_data_title">Προβολή στοιχείων στο Cloud</string>
     <string name="storage_manage_expansion">Αποκτήστε περισσότερο</string>
     <string name="storage_manage_full_summary">Ο χώρος αποθήκευσης στο cloud είναι πλήρης. Αναβαθμίστε το πρόγραμμά σας.</string>
@@ -783,6 +770,7 @@
     <string name="sub_sync_item_sms_summary">"Συγχρονισμός μόνο μηνυμάτων που περιέχουν φωτογραφίες, ήχους, ή άλλα πολυμέσα όταν είστε συνδεδεμένοι σε ένα δίκτυο Wi-Fi"</string>
     <string name="sub_sync_item_sms_title_wifi_only">Χρήση Wi-Fi μόνο για συγχρονισμό MMS</string>
     <string name="sub_sync_item_sms_title_wifi_only_china">Only use WLAN to sync MMS</string>
+    <string name="summary_collapsed_preference_list">%1$s, %2$s</string>
     <string name="sunday">Κυριακή</string>
     <string name="sunday_short">Κυρ</string>
     <string name="sunday_shortest">Κυρ</string>

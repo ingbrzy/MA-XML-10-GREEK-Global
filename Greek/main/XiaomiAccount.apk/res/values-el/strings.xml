@@ -221,12 +221,6 @@ ID:%s
     <string name="find_device_set_lost_model">Λειτουργία απολεσθείσας συσκευής</string>
     <string name="find_device_title">Εύρεση συσκευής</string>
     <string name="find_device_unknown_error">"Αδυναμία απόκτησης κατάστασης συσκευής, περιμένετε ένα δύο λεπτά και προσπαθήστε ξανά"</string>
-    <string name="fmt_date_long_month_day">dd MMMM</string>
-    <string name="fmt_date_long_year_month_day">dd MMMM yyyy</string>
-    <string name="fmt_date_numeric_month_day">d/Μ</string>
-    <string name="fmt_date_numeric_year_month_day">d/M/yyyy</string>
-    <string name="fmt_date_short_month_day">dd/MM</string>
-    <string name="fmt_date_short_year_month_day">dd/ΜΜ/yyyy</string>
     <string name="for_diagnosis_usage_only">Χρησιμοποιείται μόνο για εντοπισμό ζητημάτων.</string>
     <string name="friday">Παρασκευή</string>
     <string name="friday_short">Παρ</string>
@@ -367,6 +361,13 @@ ID:%s
     <string name="oauth_scopes_intro">&lt;font color=#%1$s&gt;%2$s&lt;/font&gt; θα αποκτήσει τις παρακάτω άδειες:&lt;br&gt; &lt;br&gt; %3$s</string>
     <string name="oauth_title">Συνδεθείτε με το Mi Λογαριασμό σας</string>
     <string name="ok">OK</string>
+    <string name="operator_mobile">Κίνα Κινητό</string>
+    <string name="operator_mobile_agreement">Υπηρεσίες επαλήθευσης που παρέχονται από την China Mobile</string>
+    <string name="operator_other">Αριθμός τηλεφώνου</string>
+    <string name="operator_telecom">Κίνα Telecom</string>
+    <string name="operator_telecom_agreement">Υπηρεσίες επαλήθευσης που παρέχονται από το λογαριασμό eSurfing</string>
+    <string name="operator_unicom">Κίνα Unicom</string>
+    <string name="operator_unicom_agreement">Υπηρεσίες επαλήθευσης που παρέχονται από την Κίνα Unicom</string>
     <string name="optional_permissions">Προαιρετικές άδειες</string>
     <string name="passport_Resend">Επανάληψη αποστολής</string>
     <string name="passport_access_denied">Απορρίφθηκε η πρόσβαση</string>
@@ -429,6 +430,7 @@ ID:%s
     <string name="passport_error_sim_not_ready">"Αδυναμία εύρεσης κάρτας SIM"</string>
     <string name="passport_error_ssl_hand_shake">"Αδυναμία σύνδεσης στο διακομιστή"</string>
     <string name="passport_error_unknown">"Αδυναμία σύνδεσης"</string>
+    <string name="passport_error_user_agreement_error">Συμφωνώ πρώτα με τους όρους και τις προϋποθέσεις</string>
     <string name="passport_error_user_name">Το όνομα χρήστη που εισαγάγατε δεν είναι έγκυρο.</string>
     <string name="passport_error_verify_activator_phone_message">Βεβαιωθείτε πως η υπηρεσία της κάρτας SIM σας είναι ενεργή και πως η συσκευή σας είναι συνδεδεμένη στο δίκτυο.</string>
     <string name="passport_error_verify_activator_phone_title">"Αδυναμία επαλήθευσης αριθμού"</string>
@@ -664,6 +666,7 @@ ID:%s
     <string name="sim_card">Κάρτα SIM</string>
     <string name="sim_changed_notification_msg">Πατήστε για να ενημερώστε το τηλέφωνο ανάκτησης σας και για να διατηρήστε τον λογαριασμό σας πιο ασφαλή.</string>
     <string name="sim_changed_notification_title">Έγινε αλλαγή αριθμού;</string>
+    <string name="skip_query_account">Παράλειψη</string>
     <string name="sms_send_success">Στάλθηκε</string>
     <string name="sns_access_token_expired_warning">Η σύνδεση λογαριασμού έχει λήξει. Συνδεθείτε ξανά για επανασύνδεση στο λογαριασμό.</string>
     <string name="solar_term_autumn_begins">Το φθινόπωρο ξεκινά</string>

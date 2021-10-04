@@ -71,7 +71,6 @@
     <string name="am">ΠΜ</string>
     <string name="analog_gadget">Αναλογικό ρολόι</string>
     <string name="app_label">Ρολόι</string>
-    <string name="app_name">blur</string>
     <string name="auto_silence_never">Ποτέ</string>
     <string name="auto_silence_summary">Ορίστε μετά από πόση ώρα θα σιγήσουν οι αφυπνίσεις και τα χρονόμετρα</string>
     <string name="auto_silence_title">Αυτόματη-σίγαση</string>
@@ -176,12 +175,6 @@
     <string name="every_day">Καθημερινά</string>
     <string name="expand_button_title">Σύνθετες</string>
     <string name="expired_timers_dismissed">Επιτυχής απόρριψη χρονοδιακόπτη</string>
-    <string name="fmt_date_long_month_day">dd MMMM</string>
-    <string name="fmt_date_long_year_month_day">dd MMMM yyyy</string>
-    <string name="fmt_date_numeric_month_day">dd/MM</string>
-    <string name="fmt_date_numeric_year_month_day">dd/MM/yyyy</string>
-    <string name="fmt_date_short_month_day">dd/MM</string>
-    <string name="fmt_date_short_year_month_day">dd/MM/yyyy</string>
     <string name="force_touch_add_alarm">Προσθήκη ξυπνητηριού</string>
     <string name="force_touch_enter_stopwatch">Χρονόμετρο</string>
     <string name="force_touch_enter_timer">Αντίστροφη μέτρηση</string>

@@ -579,12 +579,6 @@ Mi Roaming πρέπει να συνδεθεί στο Διαδίκτυο και �
     <string name="firewall_setting">Λίστα αποκλεισμών</string>
     <string name="five_letter">ΚΛ</string>
     <string name="flow_use_analyse">Στατιστικά χρήσης</string>
-    <string name="fmt_date_long_month_day">dd MMMM</string>
-    <string name="fmt_date_long_year_month_day">dd MMMM yyyy</string>
-    <string name="fmt_date_numeric_month_day">dd/MM</string>
-    <string name="fmt_date_numeric_year_month_day">dd/MM/yyyy</string>
-    <string name="fmt_date_short_month_day">dd/MM</string>
-    <string name="fmt_date_short_year_month_day">dd/MM/yyyy</string>
     <string name="four_letter">ΓΗΙ</string>
     <string name="frequentList">Συχνές</string>
     <string name="friday">Παρασκευή</string>
@@ -1236,6 +1230,7 @@ Mi Roaming πρέπει να συνδεθεί στο Διαδίκτυο και �
     <string name="wednesday">Τετάρτη</string>
     <string name="wednesday_short">Τετ</string>
     <string name="wednesday_shortest">Τετ</string>
+    <string name="wifi_pad_disable_phone">"Δεν είναι δυνατή η πραγματοποίηση κλήσεων σε αυτήν τη συσκευή"</string>
     <string name="wipe_data">Εκκαθάριση δεδομένων</string>
     <string name="yellowPageNavigationLabel">Χρυσός οδηγός</string>
     <string name="yellowpage_address_tag">Διεύθυνση</string>

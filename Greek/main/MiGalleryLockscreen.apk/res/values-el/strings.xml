@@ -264,12 +264,6 @@ ID:%s
     <string name="favor_success">Προστέθηκε στα αγαπημένα με επιτυχία</string>
     <string name="feed_article_entrance_about">Σχετικά με το \"%s\"</string>
     <string name="find_psw">Ξέχασα τον κωδικό</string>
-    <string name="fmt_date_long_month_day">dd MMMM</string>
-    <string name="fmt_date_long_year_month_day">dd MMMM yyyy</string>
-    <string name="fmt_date_numeric_month_day">d/Μ</string>
-    <string name="fmt_date_numeric_year_month_day">d/M/yyyy</string>
-    <string name="fmt_date_short_month_day">dd/MM</string>
-    <string name="fmt_date_short_year_month_day">dd/ΜΜ/yyyy</string>
     <string name="for_diagnosis_usage_only">Τα αρχεία καταγραφής χρησιμοποιούνται μόνο για σκοπούς διάγνωσης.</string>
     <string name="friday">Παρασκευή</string>
     <string name="friday_short">Παρ</string>
@@ -341,7 +335,7 @@ ID:%s
     <string name="loading">Μια στιγμή…</string>
     <string name="lock_screen_date">EEEE, MMMM d</string>
     <string name="lock_screen_date_12">EEEE, d MMMM</string>
-    <string name="lock_show_permission_exception">Προέκυψε ένα σφάλμα. Επιτρέψτε την εμφάνιση της ταπετσαρίας Carousel στην οθόνη κλειδώματος στην ασφάλεια.</string>
+    <string name="lock_show_permission_exception">Επιτρέψτε στο καρουσέλ ταπετσαρίας να εμφανίζει στοιχεία στην οθόνη κλειδώματος</string>
     <string name="lockscreen_h5_back_tv">Πίσω</string>
     <string name="lockscreen_h5_close_tv">Ανενεργό</string>
     <string name="lockscreen_h5_refresh_btn_tv">Ανανέωση</string>

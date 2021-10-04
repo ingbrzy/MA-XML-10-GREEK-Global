@@ -68,12 +68,6 @@
     <string name="first_using_mic_dialog_title">Απαιτούνται άδειες</string>
     <string name="fixed_frame_rate">Σταθερός ρυθμός ανάλυσης</string>
     <string name="fixed_frame_rate_summary">Η εγγραφή βίντεων με σταθερό ρυθμό ανάλυσης ενισχύει την αναπαραγωγή σε πλατφόρμες κοινωνικών μέσων και μειώνει την ζωή μπαταρίας.</string>
-    <string name="fmt_date_long_month_day">dd MMMM</string>
-    <string name="fmt_date_long_year_month_day">dd MMMM yyyy</string>
-    <string name="fmt_date_numeric_month_day">dd/MM</string>
-    <string name="fmt_date_numeric_year_month_day">dd/MM/yyyy</string>
-    <string name="fmt_date_short_month_day">dd/MM</string>
-    <string name="fmt_date_short_year_month_day">dd/MM/yyyy</string>
     <string name="frames">Ρυθμός ανάλυσης</string>
     <string name="frames_summary">Υψηλότεροι ρυθμοί ανάλυσης μειώνουν την θολούρα</string>
     <string name="frequently_click_toast">Περιμένετε μία στιγμή…</string>
@@ -93,9 +87,11 @@
     <string name="is_go_home_summary">"Ανοίξτε την αρχική σελίδα Εγγραφής οθόνης αφού ολοκληρώσετε την εγγραφή"</string>
     <string name="loopback_sound">Ηχείο</string>
     <string name="low_battery">Φορτίστε το τηλέφωνό σας πριν την έναρξη εγγραφής</string>
+    <string name="low_battery_for_pad">Φορτίστε τη συσκευή σας πριν ξεκινήσετε την εγγραφή</string>
     <string name="low_battery_title">Χαμηλή μπαταρία</string>
     <string name="low_battery_warning">Πολύ χαμηλή μπαταρία. Η εγγραφή διακόπηκε και το βίντεο απθηκεύτηκε.</string>
     <string name="low_memory">Έχετε λιγότερο από 1GB διαθέσιμου χώρου αποθήκευσης. Έχετε δυνατότητα εγγραφής μέχρι 20 λεπτά τώρα.</string>
+    <string name="low_memory_for_pad">Έχετε λιγότερο από %1$d GB διαθέσιμου χώρου αποθήκευσης. Μπορείτε να καταγράψετε έως και %2$d λεπτά τώρα.</string>
     <string name="low_memory_title">Ανεπαρκής χώρος αποθήκευσης</string>
     <string name="low_momery_warning">Ανεπαρκής χώρος αποθήκευσης. Η εγγραφή διακόπηκε και το βίντεο αποθηκεύτηκε.</string>
     <string name="memory_not_allowed">Μη διαθέσιμος χώρος αποθήκευσης. Ελευθερώστε ορισμένο χώρο για εγγραφή.</string>
@@ -295,6 +291,7 @@
     <string name="v7_preference_off">ΑΝΕΝΕΡΓΗ</string>
     <string name="v7_preference_on">ΕΝΕΡΓΗ</string>
     <string name="view_recorded_file">Πατήστε για να δείτε το καταγεγραμμένο αρχείο</string>
+    <string name="view_recorded_videos">Προβολή εγγραφών</string>
     <string name="warning_recording_when_a2dp_connect">"Η συσκευή σας δεν υποστηρίζει την καταγραφή ήχων συστήματος, κατά τη διάρκεια χρήσης των ακουστικών headset Bluetooth."</string>
     <string name="wednesday">Τετάρτη</string>
     <string name="wednesday_short">Τετ</string>

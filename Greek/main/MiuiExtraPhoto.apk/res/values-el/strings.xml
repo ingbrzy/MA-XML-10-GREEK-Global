@@ -66,12 +66,6 @@
     <string name="extra_photo_common_permission_name">Bokeh</string>
     <string name="extra_photo_common_save_fail">"Αδυναμία αποθήκευσης"</string>
     <string name="extra_photo_common_saving">Γίνεται αποθήκευση…</string>
-    <string name="fmt_date_long_month_day">dd MMMM</string>
-    <string name="fmt_date_long_year_month_day">dd MMMM yyyy</string>
-    <string name="fmt_date_numeric_month_day">d/Μ</string>
-    <string name="fmt_date_numeric_year_month_day">d/M/yyyy</string>
-    <string name="fmt_date_short_month_day">dd/MM</string>
-    <string name="fmt_date_short_year_month_day">dd/ΜΜ/yyyy</string>
     <string name="friday">Παρασκευή</string>
     <string name="friday_short">Παρ</string>
     <string name="friday_shortest">Παρ</string>

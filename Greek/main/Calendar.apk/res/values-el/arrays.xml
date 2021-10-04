@@ -87,10 +87,6 @@
     <item>Αυτό και μελλοντικά συμβάντα</item>
     <item>Όλα τα συμβάντα</item>
   </string-array>
-  <string-array name="english_premium_league">
-    <item>4</item>
-    <item>@string/english_premium_league</item>
-  </string-array>
   <string-array name="gemini_info">
     <item>gemini</item>
     <item>Δίδυμοι</item>
@@ -462,14 +458,5 @@
     <item>Π</item>
     <item>Π</item>
     <item>Κ</item>
-  </string-array>
-  <string-array name="year_view_week_header_name_other">
-    <item>7</item>
-    <item>1</item>
-    <item>2</item>
-    <item>3</item>
-    <item>4</item>
-    <item>5</item>
-    <item>6</item>
   </string-array>
 </resources>

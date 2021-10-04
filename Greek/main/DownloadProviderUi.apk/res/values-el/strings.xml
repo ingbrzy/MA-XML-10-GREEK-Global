@@ -205,12 +205,6 @@ ID:%s
     <string name="file_picker">Επιλέξτε μια τοποθεσία</string>
     <string name="file_size">Μέγεθος:</string>
     <string name="flow_consume">Κίνηση</string>
-    <string name="fmt_date_long_month_day">dd MMMM</string>
-    <string name="fmt_date_long_year_month_day">dd MMMM yyyy</string>
-    <string name="fmt_date_numeric_month_day">d/Μ</string>
-    <string name="fmt_date_numeric_year_month_day">d/Μ/yyyy</string>
-    <string name="fmt_date_short_month_day">dd/MM</string>
-    <string name="fmt_date_short_year_month_day">dd/MM/yyyy</string>
     <string name="for_diagnosis_usage_only">Χρησιμοποιήστε αυτές τις πληροφορίες για διάγνωση μόνο.</string>
     <string name="force_touch_newdownload">Νέα λήψη</string>
     <string name="force_touch_rank">Κατάταξη</string>

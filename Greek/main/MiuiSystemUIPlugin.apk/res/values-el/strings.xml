@@ -38,6 +38,7 @@
     <string name="afternoon">Απόγευμα</string>
     <string name="already_in_small_freeform">Ορισμένες εφαρμογές είναι ανοιχτές σε αναδυόμενα παράθυρα</string>
     <string name="am">ΠΜ</string>
+    <string name="app_name">Πρόσθετο Συστήματος Ui</string>
     <string name="character_counter_content_description">Οι χαρακτήρες εισήχθησαν %1$d από %2$d</string>
     <string name="character_counter_overflowed_content_description">Το όριο χαρακτήρων υπερέβη %1$d από %2$d</string>
     <string name="chip_text">Κείμενο τσιπ</string>
@@ -98,12 +99,6 @@
     <string name="evening">Απόγευμα</string>
     <string name="expand_button_title">Σύνθετες</string>
     <string name="exposed_dropdown_menu_content_description">Εμφάνιση αναπτυσσόμενου μενού</string>
-    <string name="fmt_date_long_month_day">dd MMMM</string>
-    <string name="fmt_date_long_year_month_day">dd MMMM yyyy</string>
-    <string name="fmt_date_numeric_month_day">dd/MM</string>
-    <string name="fmt_date_numeric_year_month_day">dd/MM/yyyy</string>
-    <string name="fmt_date_short_month_day">dd/MM</string>
-    <string name="fmt_date_short_year_month_day">dd/MM/yyyy</string>
     <string name="friday">Παρασκευή</string>
     <string name="friday_short">Παρ</string>
     <string name="friday_shortest">Παρ</string>
@@ -118,6 +113,8 @@
     <string name="hearing_assist_transmission_tips_title">Ζωντανός ενδοακουστικός έλεγχος</string>
     <string name="icon_content_description">Εικονίδιο Διαλόγου</string>
     <string name="item_view_role_description">Tab</string>
+    <string name="kddi_miui_toast_zen_standard_to_off">"Η λειτουργία σίγασης είναι απενεργοποιημένη. Οι κλήσεις και οι ειδοποιήσεις δεν θα σιγούν."</string>
+    <string name="kddi_miui_toast_zen_to_standard">Αλλαγή σε Σιωπηλή λειτουργία. Οι κλήσεις και οι ειδοποιήσεις θα σιγήσουν τώρα.</string>
     <string name="loading">Άγνωστη κατάσταση</string>
     <string name="material_slider_range_end">Τέλος εμβέλειας,</string>
     <string name="material_slider_range_start">Εκκίνηση εύρους,</string>
@@ -136,9 +133,11 @@
     <string name="miui_ringer_total">Μην Ενοχλείτε</string>
     <string name="miui_ringer_total_description">Σίγαση ήχων και απενεργοποίηση δονήσεων για όλα εκτός από το ξυπνητήρι</string>
     <string name="miui_toast_zen_dnd_to_off">"Δεν θα υπάρχει πλέον σίγαση κλήσεων και ειδοποιήσεων"</string>
+    <string name="miui_toast_zen_dnd_to_off_T">Οι ειδοποιήσεις δεν είναι πλέον σίγουρες</string>
     <string name="miui_toast_zen_standard_to_off">Λειτουργία αθόρυβου ανενεργή</string>
     <string name="miui_toast_zen_standard_to_off_when_shield_media">Η Αθόρυβη λειτουργία απενεργοποιήθηκε. Οι ήχοι κλήσεων, καθώς και οι ήχοι ειδοποιήσεων και πολυμέσων θα αναπαραχθούν.</string>
     <string name="miui_toast_zen_to_dnd">Θα γίνει σίγαση κλήσεων και ειδοποιήσεων</string>
+    <string name="miui_toast_zen_to_dnd_T">Οι ειδοποιήσεις θα σιγαστούν</string>
     <string name="miui_toast_zen_to_dnd_when_lock">Οι κλήσεις και οι ειδοποιήσεις θα σιγάσουν όταν η συσκευή είναι κλειδωμένη</string>
     <string name="miui_toast_zen_to_standard">Λειτουργία αθόρυβου ενεργή</string>
     <string name="miui_toast_zen_to_standard_when_shield_media">Έγινε εναλλαγή σε Αθόρυβη λειτουργία. Οι ήχοι κλήσης, καθώς και οι ήχοι ειδοποιήσεων και πολυμέσων τώρα σίγησαν.</string>
@@ -245,6 +244,7 @@
     <string name="quick_settings_pcmode_turn_off_description">"Η οθόνη του τηλεφώνου σας θα εμφανίζεται στην εξωτερική οθόνη. Απενεργοποίηση λειτουργίας υπολογιστή;"</string>
     <string name="quick_settings_pcmode_turn_on_description">"Η οθόνη του υπολογιστή σας θα εμφανίζεται στην εξωτερική οθόνη. Ενεργοποίηση λειτουργίας υπολογιστή;"</string>
     <string name="quick_settings_scanner_label">Σαρωτής</string>
+    <string name="quick_settings_uwbsh_label">Xiaomi Μαγικός Έλεγχος</string>
     <string name="quick_settings_wireless_label">Αντίστροφη ασύρματη φόρτιση</string>
     <string name="reboot_info_auto_boot">Επερχόμενος συναγερμός: %s</string>
     <string name="reboot_info_shutdown_alarm">Απενεργοποίηση ξυπνητηριού: %s</string>

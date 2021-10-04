@@ -1217,12 +1217,12 @@
         <item>Προβολή μενού</item>
     </string-array>
     <string-array name="screen_optimize_summary">
-        <item>Προσαρμογή χρωμάτων βάσει τρέχοντος φωτισμού</item>
+        <item>Προσαρμογή χρωμάτων με βάση το περιεχόμενο που εμφανίζεται</item>
         <item>Πάντα ενίσχυση χρωμάτων</item>
         <item>Η αντίθεση θα παραμείνει σταθερή</item>
     </string-array>
     <string-array name="screen_optimize_title">
-        <item>Αυτόματα (προτεινόμενο)</item>
+        <item>Vivid (συνιστάται)</item>
         <item>Κορεσμός</item>
         <item>Κανονική</item>
     </string-array>
@@ -1313,6 +1313,24 @@
         <item>Προεπιλογή</item>
         <item>Συμπαγής</item>
     </string-array>
+    <string-array name="support_settings_haptic_device_list">
+        <item>apollo</item>
+        <item>cas</item>
+        <item>cmi</item>
+        <item>umi</item>
+        <item>alioth</item>
+        <item>aliothin</item>
+        <item>ares</item>
+        <item>chopin</item>
+        <item>haydn</item>
+        <item>thyme</item>
+        <item>star</item>
+        <item>mars</item>
+        <item>agate</item>
+        <item>vili</item>
+        <item>κεχριμπάρι</item>
+        <item>odin</item>
+    </string-array>
     <string-array name="tabs_taptic_detail">
         <item>Ζωηρό</item>
         <item>Βασικό</item>
@@ -1356,12 +1374,12 @@
         <item>Κλίμακα κινούμενων σχεδίων 10x</item>
     </string-array>
     <string-array name="true_color_screen_optimize_summary">
-        <item>Προσαρμογή χρωμάτων βάσει τρέχοντος φωτισμού</item>
+        <item>Προσαρμογή χρωμάτων με βάση το περιεχόμενο που εμφανίζεται</item>
         <item>Πάντα ενίσχυση χρωμάτων</item>
         <item>Επαναφορά τυπικού χρώματος περιεχομένου οθόνης με βαθμονόμιση χρώματος</item>
     </string-array>
     <string-array name="true_color_screen_optimize_title">
-        <item>Αυτόματα (προτεινόμενο)</item>
+        <item>Vivid (συνιστάται)</item>
         <item>Κορεσμένο</item>
         <item>Πρωτότυπο χρώμα</item>
     </string-array>

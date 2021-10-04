@@ -48,7 +48,7 @@
     <string name="au">Εκκαθάριση</string>
     <string name="av">Τοπικά αρχεία</string>
     <string name="aw">Ενημέρωση εφαρμογών</string>
-    <string name="ax">Mi Mover</string>
+    <string name="ax">Μεταφορά Mi</string>
     <string name="app_name">ShareMe</string>
     <string name="ay">Η εφαρμογή αυτή μπορεί να μην είναι συμβατή με τη συσκευή του δέκτη</string>
     <string name="b0">Ζητήστε από το άλλο πρόσωπο να σας δείξει τον Κωδικό QR</string>
@@ -133,7 +133,7 @@
     <string name="d9">Ορίστε άδειες ώστε το ShareMe να μπορεί να βρει τους κοντινούς φίλους σας.</string>
     <string name="d_">Ορίστε άδειες ώστε το ShareMe να μπορεί να ρυθμίσει φορητό σημείο πρόσβασης.</string>
     <string name="da">Ποια είναι η γνώμη σας για το ShareMe;</string>
-    <string name="db">Μπορείτε να μας πείτε τα σχόλια σας επίσης;</string>
+    <string name="db">Μπορείτε να μας δώσετε επίσης την ανατροφοδότησή σας;</string>
     <string name="dc">Τέλεια! Αξιολόγηση του ShareMe στο Play Store επίσης;</string>
     <string name="dd">Αδυναμία μεταφοράς αρχείων όταν είναι ενεργοποιημένο το VPN. Απενεργοποιήστε το VPN πρώτα.</string>
     <string name="de">Απενεργοποίηση VPN</string>
@@ -146,7 +146,7 @@
     <string name="dm">Μία ενημέρωση είναι διαθέσιμη</string>
     <string name="dn">Εισαγωγή</string>
     <string name="do">Ολοκλήρωση</string>
-    <string name="dq">Το Android 7.1 και νεότερες εκδόσεις απαγορεύουν την αυτόματη ενεργοποίηση Wi-Fi σημείου πρόσβασης. Ενεργοποιήστε το μόνοι σας.</string>
+    <string name="dq">Η έκδοση Android 7.1 και νεότερες εκδόσεις απαγορεύουν την αυτόματη ενεργοποίηση Wi-Fi σημείου πρόσβασης. Ενεργοποιήστε το μόνοι σας.</string>
     <string name="dr">Έξοδος</string>
     <string name="ds">Ορισμός</string>
     <string name="dt">Επιτυχής ενεργοποίηση Wi-Fi σημείου πρόσβασης</string>
@@ -160,9 +160,9 @@
     <string name="dz">Κάτι συνέβη</string>
     <string name="e0">"Αδυναμία λήψης πληροφοριών.
 Ελέγξτε τις ρυθμίσεις δικτύου σας και προσπαθήστε ξανά."</string>
-    <string name="e1">Σχόλια</string>
+    <string name="e1">Ανατροφοδότηση</string>
     <string name="e2">Μην διαγράψετε τις παρακάτω πληροφορίες. Θα μας βοηθήσει στον εντοπισμό του προβλήματος.</string>
-    <string name="e3">Σχόλια ShareMe</string>
+    <string name="e3">Ανατροφοδότηση ShareMe</string>
     <string name="e4">Αρχεία</string>
     <string name="e5">Επαφές</string>
     <string name="e6">%1$d</string>
@@ -189,14 +189,14 @@
     <string name="er">Φάκελος προορισμού</string>
     <string name="es">Έγινε επιλογή</string>
     <string name="et">Επιλεγμένα αρχεία: %1$d | Σύνολο: %2$s</string>
-    <string name="eu">4-16 χαρακτήρες, γράμματα και αριθμοί, πεζά κεφαλαία</string>
+    <string name="eu">Το όνομα χρήστη και ο κωδικός πρόσβασης είναι με διάκριση πεζών-κεφαλαίων και πρέπει να περιέχουν %1$d-%2$d χαρακτήρες. Μπορείτε να συνδυάσετε αγγλικά γράμματα, ειδικά σύμβολα και αριθμούς.</string>
     <string name="ev">Συνδεθείτε ανώνυμα</string>
     <string name="ew">Το όνομα χρήστη ή ο κωδικός πρόσβασης είναι εσφαλμένα</string>
     <string name="ex">Αδυναμία ανοίγματος θύρας. Ελέγξτε την σύνδεση δικτύου σας ή κάντε επαναφορά του αριθμού θύρας.</string>
     <string name="ey">Κωδικός</string>
     <string name="ez">Αριθμός θύρας</string>
     <string name="f0">Ασφάλεια</string>
-    <string name="f1">Σύνδεση</string>
+    <string name="f1">Ορισμός όνομα χρήστη και κωδικού πρόσβασης</string>
     <string name="f2">Όνομα χρήστη</string>
     <string name="f3">Προεπιλεγμένη κωδικοποίηση για απλοποιημένα Κινεζικά Windows</string>
     <string name="f4">GBK</string>
@@ -407,7 +407,7 @@
     <string name="kt">Το ψευδώνυμο βοηθάει στον πιο γρήγορο εντοπισμό σας από άλλα άτομα.</string>
     <string name="ku">Επεξεργασία ψευδωνύμου</string>
     <string name="kv">Ορισμός</string>
-    <string name="kw">Βοήθεια &amp; σχόλια</string>
+    <string name="kw">Βοήθεια &amp; ανατροφοδότηση</string>
     <string name="kx">Αξιολογήστε το ShareMe</string>
     <string name="ky">Ψευδώνυμο</string>
     <string name="kz">ΚΟΙΝΟΠΟΙΗΣΗ</string>

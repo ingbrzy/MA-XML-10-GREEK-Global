@@ -37,6 +37,7 @@
     <string name="clearable_edittext_clear_description">Εκκαθάριση</string>
     <string name="copy">Αντιγραφή</string>
     <string name="date_picker_lunar">Παραδοσιακό κινεζικό ημερολόγιο</string>
+    <string name="download_button">Κουμπί λήψης</string>
     <string name="download_failed">"Αδυναμία λήψης"</string>
     <string name="early_morning">Πρωί</string>
     <string name="earth_id">γη</string>
@@ -47,12 +48,6 @@
     <string name="eras_bc">π.Χ.</string>
     <string name="evening">Απόγευμα</string>
     <string name="expand_button_title">Σύνθετες</string>
-    <string name="fmt_date_long_month_day">dd MMMM</string>
-    <string name="fmt_date_long_year_month_day">dd MMMM yyyy</string>
-    <string name="fmt_date_numeric_month_day">d/Μ</string>
-    <string name="fmt_date_numeric_year_month_day">dd/MM/yyyy</string>
-    <string name="fmt_date_short_month_day">dd/MM</string>
-    <string name="fmt_date_short_year_month_day">dd/MM/yyyy</string>
     <string name="friday">Παρασκευή</string>
     <string name="friday_short">Παρ</string>
     <string name="friday_shortest">Παρ</string>

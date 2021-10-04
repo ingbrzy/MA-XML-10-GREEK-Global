@@ -311,14 +311,6 @@
     <string name="find_more_theme">Βρείτε περισσότερα</string>
     <string name="find_more_wallpapers">Βρείτε περισσότερα</string>
     <string name="first_page_recommend">Προτεινόμενο</string>
-    <string name="fmt_date_long_month_day">d MMMM</string>
-    <string name="fmt_date_long_year_month_day">d MMMM yyyy</string>
-    <string name="fmt_date_numeric_month_day">d/Μ</string>
-    <string name="fmt_date_numeric_year_month_day">d/Μ/yyyy</string>
-    <string name="fmt_date_short_month_day">d MMM</string>
-    <string name="fmt_date_short_year_month_day">d MMM yyyy</string>
-    <string name="fmt_time_12hour">"h 'ρολόι'"</string>
-    <string name="fmt_time_24hour">"HH 'o''ρολόι'"</string>
     <string name="font_compat_dialog_buy_confirm">Αγορά</string>
     <string name="font_compat_dialog_buy_content">Οι γραμματοσειρές τρίτων ενδέχεται να μην υποστηρίζονται από ορισμένες εφαρμογές. Αυτό το ζήτημα συμβατότητας θα διορθωθεί με μια επερχόμενη ενημέρωση συστήματος. Θέλετε να αγοράσετε αυτήν τη γραμματοσειρά;</string>
     <string name="font_compat_dialog_cancel">Ακύρωση</string>

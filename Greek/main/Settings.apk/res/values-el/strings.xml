@@ -619,6 +619,7 @@
     <string name="app_sees_restricted_accounts_and_controlled_by">Αυτή η εφαρμογή έχει πρόσβαση στους λογαριασμούς σας. Ελέγχεται από %1$s</string>
     <string name="app_settings_link">Επιπλέον ρυθμίσεις στην εφαρμογή</string>
     <string name="app_switch_key">Πρόσφατα</string>
+    <string name="app_uninstall_sounds_enable_title">Αναπαραγωγή ήχου κατά την απεγκατάσταση εφαρμογών</string>
     <string name="app_usage_cycle">Κύκλος χρήσης δεδομένων κινητής τηλεφ.</string>
     <string name="app_usage_preference">Προτιμήσεις χρήσης εφαρμογής</string>
     <string name="app_version">Έκδοση</string>
@@ -1357,6 +1358,7 @@ Bluetooth"</string>
     <string name="bluetooth_unlock_settings_devices_title">Συσκευή</string>
     <string name="bluetooth_unlock_settings_toggle_title">Εφαρμογή σε</string>
     <string name="bluetooth_unlock_settings_unlock_device">Ξεκλείδωμα συσκευής</string>
+    <string name="bluetooth_unlock_settings_unlock_summary">Αυτό το χαρακτηριστικό λειτουργεί με επιλεγμένες συσκευές wearable από Xiaomi</string>
     <string name="bluetooth_unlock_state_disconnected">Δεν συνδέθηκε</string>
     <string name="bluetooth_unlock_state_key_error">Εσφαλμένος κωδικός</string>
     <string name="bluetooth_unlock_state_label">"Κατάσταση: "</string>
@@ -1408,7 +1410,7 @@ Bluetooth"</string>
     <string name="bootloader_status_locked">Κλειδωμένο</string>
     <string name="bootloader_status_locked_info">Η συσκευή είναι κλειδωμένη</string>
     <string name="bootloader_status_locked_summary">Το τηλέφωνο είναι ασφαλές</string>
-    <string name="bootloader_status_privacy_dialog_message">Το Mi Ξεκλείδωμα απαιτεί πρόσβαση στο Mi Λογαριασμό σας, CPU ID, IMEI, IMSI για να λειτουργήσει κανονικά. Συλλέγουμε, χρησιμοποιούμε, και επεξεργαζόμαστε τα δεδομένα σας με βάση την %s μας. Συμφωνείτε;</string>
+    <string name="bootloader_status_privacy_dialog_message"><Data>Το ξεκλείδωμα Mi χρειάζεται πρόσβαση στον Mi Λογαριασμό σας, ID CPU, IMSI για να λειτουργήσει κανονικά. Διαβάστε και συμφωνήστε με την &lt;a href=\"%1$s\"&gt;Πολιτική Προστασίας Προσωπικών Δεδομένων&lt;/a&gt;. Συμφωνώ?</Data></string>
     <string name="bootloader_status_privacy_dialog_no">Ακύρωση</string>
     <string name="bootloader_status_privacy_dialog_title">Απαιτούνται άδειες</string>
     <string name="bootloader_status_privacy_dialog_url_text">Πολιτική Απορρήτου</string>
@@ -1442,9 +1444,17 @@ Bluetooth"</string>
     <string name="bt_absVolume_open_dialog_title">Προσοχή</string>
     <string name="bt_absVolume_pre_title">Απόλυτη ένταση ήχου</string>
     <string name="bt_absVolume_summary">"Διατηρήστε την ένταση των συσκευών Bluetooth και του τηλεφώνου αυστηρά συνεπή. Μπορείτε να ενεργοποιήσετε και να απενεργοποιήσετε αυτή τη λειτουργία όταν τα μέσα δεν αναπαράγουν στο παρασκήνιο."</string>
+    <string name="bt_audio_repair_property">Διόρθωση προβλημάτων ήχου</string>
     <string name="bt_audio_share_property">Κοινοποίηση</string>
     <string name="bt_audio_share_switch_summary">Κοινή χρήση ήχου με συνδεδεμένες συσκευές Bluetooth</string>
     <string name="bt_audio_share_switch_title">Κοινοποίηση ήχου</string>
+    <string name="bt_audiorepair_dialog_open_success">Επιτυχής επισκευή. Περιμένετε μέχρι να επανασυνδεθεί η συσκευή.</string>
+    <string name="bt_audiorepair_dialog_openok">Διόρθωση</string>
+    <string name="bt_audiorepair_open_dialog_summary">"MIUI θα ανιχνεύσει και να διορθώσει τα προβλήματα που προκαλούν stutter ήχου Bluetooth. Το Bluetooth θα επανεκκινηθεί κατά τη διάρκεια αυτής της διαδικασίας. Μην φύγετε από αυτήν τη σελίδα μέχρι να δείτε τα αποτελέσματα."</string>
+    <string name="bt_audiorepair_open_dialog_title">Διόρθωση stutter ήχου</string>
+    <string name="bt_audiorepair_pre_title">Διόρθωση stutter ήχου</string>
+    <string name="bt_audiorepair_summary">Διόρθωση σταθμού ήχου σε συνδεδεμένες συσκευές Bluetooth</string>
+    <string name="bt_audiorepair_working">Διόρθωση stutter ήχου…</string>
     <string name="bt_dialog_remember_choice">"Να μην εμφανιστεί ξανά"</string>
     <string name="bt_dialog_settings">Ρυθμίσεις</string>
     <string name="bt_hci_snoop_log">Καταγραφή ανίχνευσης HCI Bluetooth</string>
@@ -1649,10 +1659,14 @@ Bluetooth"</string>
     <string name="channel_notifications_off_desc">Μετά από αίτημά σας, το Android αποκλείει την εμφάνιση ειδοποιήσεων αυτής της κατηγορίας σε αυτήν τη συσκευή</string>
     <string name="character_counter_content_description">Το όριο χαρακτήρων ξεπεράστηκε %1$d από %2$d</string>
     <string name="character_counter_overflowed_content_description">Το όριο χαρακτήρων ξεπέρασε το %1$d από %2$d</string>
+    <string name="charge_animation_style_lollipop">Ροή</string>
+    <string name="charge_animation_style_none">Ανενεργό</string>
     <string name="charge_animation_style_summary">Επιλέξτε το προτιμώμενο στυλ εφέ φόρτισης οθόνης κλειδώματος</string>
     <string name="charge_animation_style_title">Εφέ φόρτισης</string>
+    <string name="charge_animation_style_video">Λάμψη</string>
+    <string name="charge_animation_style_wave">Κύμα</string>
     <string name="charge_length_format">%1$s πριν</string>
-    <string name="charging_sounds_title">Ήχοι φόρτισης και δόνηση</string>
+    <string name="charging_sounds_title">Φόρτιση ήχων και δονήσεων</string>
     <string name="check_find_device_status_failure_confirm">ΟΚ</string>
     <string name="check_update">Έλεγχος για ενημερώσεις</string>
     <string name="checkbox_notification_same_as_incoming_call">Χρήση έντασης ήχου εισερχόμενης κλήσης για ειδοποιήσεις</string>
@@ -1725,7 +1739,11 @@ Bluetooth"</string>
     <string name="color_game_led_applications_title_summary">Επιλέξτε μεμονωμένες εφαρμογές που θα λειτουργούν με Φωτισμό LED</string>
     <string name="color_game_led_battery_title">Διατήρηση ενεργοποίησης κατά τη διάρκεια φόρτισης</string>
     <string name="color_game_led_charging_summary">Ο Φωτισμός LED θα απενεργοποιηθεί όταν η μπαταρία έχει φορτίσει</string>
+    <string name="color_game_led_color_title">Χρώμα</string>
     <string name="color_game_led_end_time">Τέλος</string>
+    <string name="color_game_led_feature_off">Ανενεργό</string>
+    <string name="color_game_led_feature_on">Ενεργό</string>
+    <string name="color_game_led_freq_title">Συχνότητα</string>
     <string name="color_game_led_game_mode_summary">Εμφάνιση εφέ για παιχνίδι όταν το Τούρμπο παιχνιδιού είναι ενεργοποιημένο</string>
     <string name="color_game_led_game_mode_title">Χρησιμοποιήστε για Τούρμπο παιχνιδιού</string>
     <string name="color_game_led_incall_pulse_title">Χρησιμοποιήστε για εισερχόμενες κλήσεις</string>
@@ -2045,9 +2063,14 @@ Bluetooth"</string>
     <string name="dark_color_summary_lcd">"Χρησιμοποιήστε πιο σκούρα παλέτα χρωμάτων για τις ταπετσαρίες συστήματος και για τις συμβατές εφαρμογές. Η σκοτεινή λειτουργία μειώνει τη χρήση ενέργειας και βοηθάει στην ανακούφιση των ματιών όταν χρησιμοποιείτε τη συσκευή σας στο σκοτάδι."</string>
     <string name="dark_color_summary_oled">Χρησιμοποιήστε πιο σκούρα παλέτα χρωμάτων για τις ταπετσαρίες συστήματος και για τις συμβατές εφαρμογές. Η σκοτεινή λειτουργία μειώνει τη χρήση ενέργειας και βοηθάει στην ανακούφιση των ματιών.</string>
     <string name="dark_mode_apps_header">Εξατομικευμένες εφαρμογές</string>
+    <string name="dark_mode_auto_time_summary">Ενεργοποίηση και απενεργοποίηση της σκοτεινής λειτουργίας κατά την προγραμματισμένη ώρα</string>
+    <string name="dark_mode_auto_time_title">Προσαρμοσμένο</string>
     <string name="dark_mode_contrast">Αυτόματη προσαρμογή αντίθεσης</string>
     <string name="dark_mode_contrast_hint">Αυτόματη προσαρμογή χρωμάτων και μικρότερης αντίθεσης όταν μειώνεται η φωτεινότητα</string>
+    <string name="dark_mode_day_night_mode_summary">Εναλλαγή σε λειτουργία Dark στο ηλιοβασίλεμα και απενεργοποιήστε το κατά την ανατολή του ηλίου</string>
+    <string name="dark_mode_day_night_mode_title">Ηλιοβασίλεμα στην ανατολή</string>
     <string name="dark_mode_font_background_title">Προσαρμόστε αυτόματα το κείμενο και το φόντο</string>
+    <string name="dark_mode_time_settings">Προγραμματισμός σκοτεινής λειτουργίας</string>
     <string name="dark_theme_slice_subtitle">Βοηθάει στην επέκταση της διάρκειας ζωής μπαταρίας</string>
     <string name="dark_theme_slice_title">Δοκιμή Σκούρου θέματος</string>
     <string name="dark_ui_activation_off_auto">Απενεργοποίηση έως τη δύση του ηλίου</string>
@@ -2252,6 +2275,7 @@ Bluetooth"</string>
     <string name="default_calendar_app_title">Εφαρμογή ημερολογίου</string>
     <string name="default_contacts_app_title">Εφαρμογή Επαφές</string>
     <string name="default_digital_assistant_title">Προεπ. εφαρμ. ψηφιακού βοηθού</string>
+    <string name="default_document_title">Έγγραφα</string>
     <string name="default_emergency_app">Εφαρμογή έκτακτης ανάγκης</string>
     <string name="default_for_calls">Προεπιλογή για κλήσεις</string>
     <string name="default_for_calls_and_sms">Προεπιλογή για κλήσεις και SMS</string>
@@ -2284,7 +2308,7 @@ Bluetooth"</string>
     <string name="delete_or_keep_legacy_passwords_confirm_msg">Διαγραφή του δακτυλικού αποτυπώματος;</string>
     <string name="delete_rule">Διαγραφή κανόνων</string>
     <string name="delete_saved_network">Διαγραφή αποθηκευμένων δικτύων</string>
-    <string name="delete_sound_effect">Ήχος Διαγραφής</string>
+    <string name="delete_sound_effect">Αναπαραγωγή ήχου κατά τη διαγραφή στοιχείων</string>
     <string name="deleted_apps">Διεγραμμένες εφαρμογές</string>
     <string name="deletion_helper_automatic_title">Αυτόματο</string>
     <string name="deletion_helper_manual_title">Εγχειρίδιο χρήσης</string>
@@ -2427,6 +2451,7 @@ Bluetooth"</string>
     <string name="disable_overlays">Απενεργοποίηση HW επικαλύψεων</string>
     <string name="disable_overlays_summary">Χρήση πάντα GPU για σύνθεση οθόνης</string>
     <string name="disable_power_key_long_press_under_keyguard">Απενεργοποίηση του μενού πλήκτρου Απενεργοποίησης</string>
+    <string name="disable_quick_start">Απενεργοποίηση γρήγορης εκκίνησης</string>
     <string name="disable_service_message">Εάν πατήσετε το στοιχείο %1$s θα διακοπεί η υπηρεσία %2$s.</string>
     <string name="disable_service_title">Διακοπή %1$s;</string>
     <string name="disable_text">Απενεργοποίηση</string>
@@ -2556,6 +2581,11 @@ Bluetooth"</string>
     <string name="dock_sounds_enable_summary_on">Να αναπαράγεται ήχος κατά την εισαγωγή ή εξαγωγή του τηλεφώνου από τη βάση σύνδεσης</string>
     <string name="dock_sounds_enable_title">Ήχος κατά την εισαγωγή στη βάση σύνδεσης</string>
     <string name="docking_sounds_title">Ήχοι σύνδεσης</string>
+    <string name="document_default_status">Επιλογή</string>
+    <string name="document_excel_title">Excel</string>
+    <string name="document_pdf_title">PDF</string>
+    <string name="document_powerpoint_title">PowerPoint</string>
+    <string name="document_word_title">Λέξη</string>
     <string name="does_not_exist">Η εφαρμογή δεν υπάρχει.</string>
     <string name="domain_url_section_title">Εγκατεστημένες εφαρμογές</string>
     <string name="domain_urls_apps_summary_off">Καμία εφαρμογή δεν ανοίγει υποστηριζόμενους συνδέσμους</string>
@@ -2620,8 +2650,8 @@ Bluetooth"</string>
     <string name="dual_wifi_switching_prompt">Εναλλαγή μεταξύ δικτύων</string>
     <string name="dual_wifi_switching_summary">Η ενίσχυση ταχύτητας του Wi-Fi διπλής ζώνης πρέπει να χρησιμοποιήσει διαφορετικές ζώνες Wi-Fi. Εάν συνδεθείτε στο κύριο δίκτυο, η βοηθητική σύνδεση θα χαθεί.</string>
     <string name="dump_log">Λήψη αρχείων καταγραφής που σχετίζονται με ζητήματα</string>
-    <string name="dump_log_summary">"Αυτή η λειτουργία έχει σχεδιαστεί για τη δημιουργία του αρχείου καταγραφής 284 σε εκδόσεις Beta του MIUI. Χρησιμοποιήστε το με προσοχή.
-Μπορείτε να δείτε καταγεγραμμένα αρχεία καταγραφής στον Διαχειριστή Αρχείων."</string>
+    <string name="dump_log_summary">"Αυτή η δυνατότητα έχει σχεδιαστεί για τη δημιουργία του %s log στην έκδοση Beta του MIUI. Χρησιμοποιήστε το με προσοχή.
+Μπορείτε να δείτε τα δημιουργημένα αρχεία καταγραφής στη Διαχείριση αρχείων."</string>
     <string name="dump_log_title">Σχετικά με αυτή τη λειτουργία</string>
     <string name="early_morning">Πρωί</string>
     <string name="easymode_hint">Πατήστε για απενεργοποίηση Απλής λειτουργίας</string>
@@ -2670,11 +2700,17 @@ Bluetooth"</string>
     <string name="enable_gnss_raw_meas_full_tracking_summary">Παρακολούθηση όλων των πανοραμικών συνθέσεων και των συχνοτήτων GNSS χωρίς κύκλο λειτουργιών</string>
     <string name="enable_gpu_debug_layers">Ενεργοποίηση στρωμάτων εντοπισμού σφαλμάτων GPU</string>
     <string name="enable_gpu_debug_layers_summary">Αποδοχή χρήσης στρωμάτων εντοπισμού σφαλμάτων GPU για απασφαλμάτωση εφαρμογών</string>
+    <string name="enable_local_backup">Ενεργοποίηση</string>
+    <string name="enable_local_backup_cancel">Ακύρωση</string>
+    <string name="enable_local_backup_message">Ενεργοποιήστε αυτήν τη λειτουργία για να μπορέσετε να αποθηκεύσετε αντίγραφα ασφαλείας σε αυτήν τη συσκευή και να τα αντιγράψετε στον υπολογιστή σας ή στη συσκευή αποθήκευσης USB. Ενεργοποιήστε τώρα?</string>
+    <string name="enable_local_backup_ok">Εντάξει</string>
+    <string name="enable_local_backup_title">Τοπικά αντίγραφα ασφαλείας</string>
     <string name="enable_mms_notification_channel_title">Μήνυμα MMS</string>
     <string name="enable_mms_notification_summary">Πατήστε για να επιτρέψετε τα μηνύματα MMS στο %1$s όταν τα δεδομένα κιν. τηλεφ. είναι απενεργοποιημένα</string>
     <string name="enable_mobile_data_when_opening_hotspot">Ενεργοποίηση και της σύνδεσης δεδομένων κινητής τηλεφωνίας;</string>
     <string name="enable_opengl_traces_title">Ενεργοποίηση OpenGL ίχνων</string>
     <string name="enable_quick_setting">Εμφάνιση στις Γρήγορες ρυθμίσεις</string>
+    <string name="enable_quick_start">Ενεργοποίηση γρήγορης εκκίνησης</string>
     <string name="enable_receiving_mms_notification_title">Εισερχόμενο μήνυμα MMS</string>
     <string name="enable_screen_projection_summary">Μετάδοση περιεχομένων οθόνης σε εξωτερική οθόνη</string>
     <string name="enable_sending_mms_notification_title">Αδυναμία αποστολής μηνύματος MMS</string>
@@ -2865,10 +2901,11 @@ Bluetooth"</string>
     <string name="face_data_siggesstion_next">Επόμενο</string>
     <string name="face_data_siggesstion_next_time">Επόμενο (%ds)</string>
     <string name="face_data_suggesstion_first">Ξεκλείδωμα προσώπου: Το ξεκλείδωμα με πρόσωπο είναι λιγότερο ασφαλές από ένα PIN, κωδικό, ή μοτίβο. Η συσκευή σας ενδέχεται να ξεκλειδωθεί με μια φωτογραφία σας, καθώς και από άτομα ή αντικείμενα που σας μοιάζουν.</string>
-    <string name="face_data_suggesstion_second">"Βεβαιωθείτε ότι όλα τα μέρη του προσώπου σας δεν καλύπτονται από αντικείμενα και είναι εντελώς ορατά. Το πρόσωπό σας θα πρέπει επίσης να φωτίζεται σωστά."</string>
+    <string name="face_data_suggesstion_second">"Βεβαιωθείτε ότι όλα τα μέρη του προσώπου σας είναι σαφώς ορατά. Μην φοράτε αξεσουάρ που μπορεί να καλύψουν το πρόσωπό σας. Κρατήστε το πρόσωπό σας ομοιόμορφα αναμμένο και αποφύγετε το άμεσο φως."</string>
     <string name="face_intro_error_max">Έχετε προσθέσει τον μέγιστο αριθμό προσώπων</string>
     <string name="face_intro_error_unknown">Δεν είναι δυνατή η προσθήκη περισσότερων προσώπων</string>
     <string name="face_lock_screen_setup_skip_dialog_text">Προστατεύοντας το τηλέφωνό σας με μια επιλογή κλειδώματος οθόνης, κανείς δεν θα μπορεί να το χρησιμοποιήσει σε περίπτωση απώλειας ή κλοπής. Θα χρειαστείτε επίσης μια επιλογή κλειδώματος οθόνης για να ρυθμίσετε το Face Unlock. Για επιστροφή, πατήστε Ακύρωση.</string>
+    <string name="face_password_unlock">Δεδομένα προσώπου &amp; κλειδώματος οθόνης</string>
     <string name="face_unlock">Ξεκλείδωμα με αναγνώριση προσώπου</string>
     <string name="face_unlock_be_on_the_screen">Κρατήστε τη συσκευή μπροστά στο πρόσωπο σας</string>
     <string name="face_unlock_by_notification_screen_on_msg">Μπορείτε να ξεκλειδώσετε τη συσκευή χρησιμοποιώντας δεδομένα προσώπου όποτε ανάβει η οθόνη για εισερχόμενες ειδοποιήσεις. Αυτό μπορεί να εξαντλήσει τη μπαταρία γρηγορότερα.</string>
@@ -2960,6 +2997,7 @@ Bluetooth"</string>
     <string name="fingerprint_enable_keyguard_toggle_title">κλείδωμα οθόνης</string>
     <string name="fingerprint_enroll_button_add">Προσθήκη άλλου</string>
     <string name="fingerprint_enroll_button_next">Επόμενο</string>
+    <string name="fingerprint_face_password_unlock">Αποτύπωση δακτυλικών αποτυπωμάτων, δεδομένων προσώπου και κλειδώματος οθόνης</string>
     <string name="fingerprint_first_open_screen_password_face_tittle">Πρόσωπο (ορίστε πρώτα κωδικό Οθόνης κλειδώματος)</string>
     <string name="fingerprint_first_open_screen_password_tittle">Δακτυλικό αποτύπωμα (ορίστε πρώτα κωδικό Οθόνης κλειδώματος)</string>
     <string name="fingerprint_for_keyguard_disabled">Το δακτυλικό αποτύπωμα έχει απενεργοποιηθεί από τις ρυθμίσεις ασφαλείας.</string>
@@ -2984,6 +3022,7 @@ Bluetooth"</string>
     <string name="fingerprint_not_identified_msg">"Αδυναμία ανάγνωσης δακτυλικού αποτυπώματος. Εισαγάγετε τον κωδικό σας"</string>
     <string name="fingerprint_not_recognized">Μη αναγνωρίσιμο</string>
     <string name="fingerprint_others_title">Άλλο</string>
+    <string name="fingerprint_password_unlock">Αποτυπώματα &amp; κλείδωμα οθόνης</string>
     <string name="fingerprint_payment">Πληρωμές δακτυλικού αποτυπώματος</string>
     <string name="fingerprint_removal_failed">"Αδυναμία αφαίρεσης δακτυλικού αποτυπώματος, προσπαθήστε ξανά αργότερα"</string>
     <string name="fingerprint_swipe_for_notifications_suggestion_title">Γρήγορη εμφάνιση ειδοποιήσεων</string>
@@ -3023,6 +3062,8 @@ Bluetooth"</string>
     <string name="firewall_wifi">Wi-Fi</string>
     <string name="firewall_wifi_dialog_message">"Η εγκατεστημένη εφαρμογή δεν θα έχει δυνατότητα σύνδεσης στο Ίντερνετ μέσω Wi-Fi όταν αυτή η επιλογή είναι ανενεργή."</string>
     <string name="firmware_version">Έκδοση Android</string>
+    <string name="fiveg_sa_switch_summary">Χρήση δικτύου SA σε δευτερεύουσα SIM (μόνο για δοκιμή)</string>
+    <string name="fiveg_sa_vice_switch_title">ΣΑ στη δευτερεύουσα SIM</string>
     <string name="flash_drive_backup_disable">Πρώτα συνδέστε USB</string>
     <string name="flash_drive_backup_enable">Χρησιμοποιήστε USB για αντίγραφο ασφαλείας ή επαναφορά στοιχείων</string>
     <string name="flash_drive_backup_restore">USB</string>
@@ -3046,12 +3087,6 @@ Bluetooth"</string>
     <string name="floating_window_switch_label_disable">Απενεργοποίηση αναδυόμενων παραθύρων</string>
     <string name="fluency_mode">Κινούμενες εικόνες συστήματος</string>
     <string name="fluency_mode_confirm_and_reboot">Επανεκκίνηση τώρα</string>
-    <string name="fmt_date_long_month_day">dd MMMM</string>
-    <string name="fmt_date_long_year_month_day">dd MMMM yyyy</string>
-    <string name="fmt_date_numeric_month_day">d/Μ</string>
-    <string name="fmt_date_numeric_year_month_day">d/M/yyyy</string>
-    <string name="fmt_date_short_month_day">dd/MM</string>
-    <string name="fmt_date_short_year_month_day">dd/ΜΜ/yyyy</string>
     <string name="fold_rule_default">Προτεινόμενα</string>
     <string name="fold_rule_important">Σημαντικά</string>
     <string name="fold_rule_unimportant">Ασήμαντα</string>
@@ -3153,7 +3188,8 @@ Bluetooth"</string>
     <string name="freeform_guide_notification_drop_down_summary">Πατήστε παρατεταμένα και τραβήξτε προς τα κάτω τη γραμμή ενέργειας μιας ειδοποίησης</string>
     <string name="freeform_guide_notification_drop_down_title">Άνοιγμα αναδυόμενων παραθύρων</string>
     <string name="freeform_guide_settings">Αναδυόμενα παράθυρα</string>
-    <string name="freeform_guide_slide_to_small_freeform_summary">Πατήστε και κρατήστε πατημένο το κάτω μέρος του παραθύρου και σύρετέ το στην επάνω δεξιά γωνία</string>
+    <string name="freeform_guide_slide_to_small_freeform_summary">"Πατήστε και κρατήστε πατημένο το κάτω μέρος του παραθύρου και σύρετέ το στην επάνω δεξιά γωνία.
+Αυτή η λειτουργία λειτουργεί μόνο όταν το σύστημα πλοήγησης έχει οριστεί σε χειρονομίες."</string>
     <string name="freeform_guide_slide_to_small_freeform_title">Minimize an app</string>
     <string name="freeform_guide_slide_up_to_close_summary">Σύρετε προς τα πάνω από τη γραμμή ενέργειας ενός αναδυόμενου παραθύρου</string>
     <string name="freeform_guide_slide_up_to_close_title">Κλείσιμο αναδυόμενων παραθύρων</string>
@@ -3177,7 +3213,7 @@ Bluetooth"</string>
     <string name="gadget_picker_title">Επιλογή gadget</string>
     <string name="gadget_toggle_wifi">Γίνεται ενημέρωση ρύθμισης Wi-Fi</string>
     <string name="gadget_wifi">Wi-Fi</string>
-    <string name="gallery_privacy_password_role_instruction">Οι προσωπικές φωτογραφίες αποθηκεύονται εδώ.</string>
+    <string name="gallery_privacy_password_role_instruction">Για να δείτε τα αντικείμενα που κάνατε ιδιωτικά, σύρετε προς τα κάτω στο \"Άλμπουμ\".</string>
     <string name="game_booster">Παιχνίδι;Παιχνίδια;Τούρμπο;Παιχνίδια;Λειτουργία παιχνιδιού</string>
     <string name="game_booster_title">Τούρμπο παιχνιδιού</string>
     <string name="game_controller_settings_category">Χειριστήριο παιχνιδιού</string>
@@ -3205,8 +3241,8 @@ Bluetooth"</string>
     <string name="gesture_setting_on">Ενεργή</string>
     <string name="gesture_settings_activity_title">Ρυθμίσεις κινήσεων</string>
     <string name="gesture_settings_title">Συντομεύσεις χερονομίας</string>
-    <string name="gesture_wakeup_summary">Διπλό άγγιγμα για να απενεργοποιήσετε την οθόνη όταν εφαρμόζεται είτε το προεπιλεγμένο, είτε το κλασσικό θέμα</string>
-    <string name="gesture_wakeup_title">Διπλό άγγιγμα για ξύπνημα ή απενεργοποίηση οθόνης</string>
+    <string name="gesture_wakeup_summary">Μπορείτε να πατήσετε δύο φορές για να απενεργοποιήσετε την οθόνη μόνο όταν εφαρμόζονται προεγκατεστημένα θέματα</string>
+    <string name="gesture_wakeup_title">Διπλό χτύπημα για αφύπνιση ή απενεργοποίηση της οθόνης όταν η συσκευή είναι κλειδωμένη</string>
     <string name="getConfiguredNetworks">getConfiguredNetworks</string>
     <string name="getConnectionInfo">getConnectioninfo</string>
     <string name="global_change_warning">Αυτή η ρύθμιση επηρεάζει όλους τους χρήστες σε αυτό το τηλέφωνο.</string>
@@ -3262,6 +3298,7 @@ Bluetooth"</string>
     <string name="gxzw_anim_rhythm">Ρυθμός</string>
     <string name="gxzw_anim_star">Αστροφεγγιά</string>
     <string name="gxzw_anim_title">Εικονίδιο δακτυλικού αποτυπώματος</string>
+    <string name="gxzw_anim_unlock_effect">%s εφέ δακτυλικού αποτυπώματος</string>
     <string name="gxzw_aod_show_summary">Ανασηκώστε τη συσκευή ή πατήστε την οθόνη για εμφάνιση του εικονιδίου δακτυλικού αποτυπώματος. Αυτή η λειτουργία αυξάνει την κατανάλωση ενέργειας συστήματος.</string>
     <string name="gxzw_aod_show_tittle">Εμφάνιση εικονιδίου δακτυλικού αποτυπώματος όταν η οθόνη είναι ανενεργή</string>
     <string name="gxzw_dialog_message">"Για να μπορείτε να χρησιμοποιείτε κανονικά τον αισθητήρα δακτυλικών αποτυπωμάτων οθόνης, μην χρησιμοποιείτε προστατευτικά οθόνης. Αν νομίζετε ότι εξακολουθεί να είναι απαραίτητο ένα προστατευτικό οθόνης, επιλέξτε ανάμεσα σε εξουσιοδοτημένες συμβατές επιλογές."</string>
@@ -3314,7 +3351,7 @@ Bluetooth"</string>
     <string name="hardware_info">Μοντέλο και εξοπλισμός</string>
     <string name="hardware_revision">Έκδοση εξοπλισμού</string>
     <string name="hardware_version">Έκδοση υλισμικού</string>
-    <string name="has_screenshot_sound">Ήχος λήψης στιγμιότυπου οθόνης</string>
+    <string name="has_screenshot_sound">Αναπαραγωγή ήχου κατά τη λήψη στιγμιότυπων οθόνης</string>
     <string name="hdcp_checking_dialog_title">Ορισμός HDCP ελέγχου</string>
     <string name="hdcp_checking_title">HDCP έλεγχος</string>
     <string name="hdmi_3d_display_enable_summary">Υποστήριξη 3D παιχνιδιών</string>
@@ -3584,6 +3621,12 @@ Xiaomi Cloud
     <string name="invalid_size_value">Δεν ήταν δυνατός ο υπολογισμός του μεγέθους του πακέτου.</string>
     <string name="item_system_app">Εφαρμογές συστήματος</string>
     <string name="join_two_items">%1$s και %2$s</string>
+    <string name="kddi_nfc_category_title">NFC/Osaifu-keitai</string>
+    <string name="kddi_nfc_disabled_summary">Μη διαθέσιμο επειδή η NFC/Osaifu-keitai είναι απενεργοποιημένη</string>
+    <string name="kddi_nfc_quick_toggle_summary">Ενεργοποίηση λειτουργικότητας NFC/Osaifu-keitai</string>
+    <string name="kddi_nfc_quick_toggle_title">NFC/Osaifu-keitai</string>
+    <string name="kddi_nfc_secure_settings_title">Κλείδωμα στην οθόνη κλειδώματος</string>
+    <string name="kddi_nfc_secure_toggle_summary">Κρατήστε το NFC/Osaifu-keitai μόνο όταν η συσκευή είναι ξεκλειδωμένη</string>
     <string name="keep_legacy_fingerprint">Διατήρηση</string>
     <string name="keep_screen_on">"Μην κλειδώνετε την οθόνη"</string>
     <string name="keep_screen_on_summary">"Η λειτουργία της οθόνης δεν αναστέλλεται κατά τη διάρκεια φόρτισης"</string>
@@ -3783,6 +3826,7 @@ Xiaomi Cloud
     <string name="launch_noapp_dialog_replace">Ρυθμίσεις</string>
     <string name="launch_notification_center">Πίνακας ειδοποιήσεων</string>
     <string name="launch_recents">Εκκίνηση Πρόσφατων</string>
+    <string name="launch_smarthome">Xiaomi Μαγικός Έλεγχος</string>
     <string name="launch_voice_assistant">Εκκίνηση Φωνητικού βοηθού</string>
     <string name="launch_wechat_health_code">Κωδικός υγείας WeChat</string>
     <string name="launch_wechat_health_code_auto_close">Η συντόμευση κώδικα υγείας WeChat δεν είναι πλέον διαθέσιμη. Μπορείτε να αλλάξετε σε μια διαφορετική συντόμευση.</string>
@@ -3854,6 +3898,7 @@ Xiaomi Cloud
     <string name="local_backup_section_summary_new">Αντίγραφο ασφαλείας λογαριασμών, δεδομένων εφαρμογών, ρυθμίσεων συστήματος και άλλα</string>
     <string name="local_backup_section_title">Τοπικά αντίγραφα ασφαλείας</string>
     <string name="local_backup_section_title_new">Σε αυτή τη συσκευή</string>
+    <string name="local_backup_usestatus_title">Τοπικά αντίγραφα ασφαλείας είναι απενεργοποιημένα</string>
     <string name="locale_default">Προεπιλογή</string>
     <string name="locale_not_translated">Ενδέχεται να μην είναι διαθέσιμο σε ορισμένες εφαρμογές</string>
     <string name="locale_remove_menu">Κατάργηση</string>
@@ -3993,6 +4038,7 @@ Xiaomi Cloud
     <string name="lock_settings_title">Ασφάλεια συσκευής</string>
     <string name="lock_settings_with_fingerprint">Οθόνη κλειδώματος &amp; ασφάλεια</string>
     <string name="lock_setup">Η ρύθμιση ολοκληρώθηκε.</string>
+    <string name="lock_sound_effect_enable_title">Αναπαραγωγή ήχου κατά τη συσκευή κλειδώματος</string>
     <string name="lock_sounds_enable_title">Ήχοι κλειδώματος οθόνης</string>
     <string name="lockdown_settings_summary">Προβάλετε την επιλογή του κουμπιού λειτουργίας που απενεργοποιεί το Smart Lock, το ξεκλείδωμα με βιομετρικά χαρακτηριστικά και τις ειδοποιήσεις στην οθόνη κλειδώματος.</string>
     <string name="lockdown_settings_title">Εμφάνιση επιλογής κλειδώματος</string>
@@ -4027,6 +4073,7 @@ Xiaomi Cloud
     <string name="lockpassword_confirm_workspace_password">Επαλήθευση κωδικού Χώρου εργασίας</string>
     <string name="lockpassword_confirm_your_lock_password_header">Επιβεβαίωση του κωδικού σας</string>
     <string name="lockpassword_confirm_your_lock_pattern_header">Επιβεβαίωση του μοτίβου σας</string>
+    <string name="lockpassword_confirm_your_lock_pin_header">Επιβεβαιώστε τον αριθμό PIN</string>
     <string name="lockpassword_confirm_your_password_details_frp">Έγινε επαναφορά των εργοστασιακών ρυθμίσεων του τηλεφώνου. Εισαγάγετε τον παλιό κωδικό πρόσβασης.</string>
     <string name="lockpassword_confirm_your_password_generic">Εισαγωγή του κωδικού της συσκευής σας για να συνεχίσετε.</string>
     <string name="lockpassword_confirm_your_password_generic_profile">Εισαγωγή του κωδικού της εργασίας σας για να συνεχίσετε</string>
@@ -4132,6 +4179,7 @@ Xiaomi Cloud
     <string name="login_account_dialog_message">Συνδεθείτε με τον Mi Λογαριασμό σας και ενεργοποιήστε τον συγχρονισμό με το cloud.</string>
     <string name="login_account_dialog_title">Σύνδεση με Mi Λογαριασμό</string>
     <string name="login_account_summary">Διαχείριση λογαριασμών, υπηρεσίες συννέφου, πληρωμές, και άλλα</string>
+    <string name="login_account_summary_temp">Διαχείριση λογαριασμών, υπηρεσιών cloud και άλλων</string>
     <string name="login_action">Σύνδεση</string>
     <string name="long_press_back_key">Παρατεταμένο πάτημα του πλήκτρου Πίσω</string>
     <string name="long_press_buttom_key">Παρατεταμένο πάτημα Αρχικής στην οθόνη Κλειδώματος</string>
@@ -4151,7 +4199,8 @@ Xiaomi Cloud
     <string name="low_label">Χαμηλή</string>
     <string name="low_storage_summary">Ο αποθηκευτικός χώρος εξαντλείται. %1$s σε χρήση - %2$s ελεύθερος</string>
     <string name="macaddr_label">Διεύθυνση MAC</string>
-    <string name="magic_window_name">Παράλληλα παράθυρα</string>
+    <string name="magic_list_empty_text">Καμία εφαρμογή συμβατή με αυτή τη δυνατότητα τώρα</string>
+    <string name="magic_window_name">Βελτιστοποίηση εφαρμογών για οριζόντια προβολή</string>
     <string name="main_netcheck_summary">Δοκιμή σύνδεσης για προβλήματα δικτύου</string>
     <string name="main_running_process_description">Κύρια διεργασία σε χρήση.</string>
     <string name="main_toolbar_statistic">Στατιστικά χρήσης δεδομένων</string>
@@ -4346,6 +4395,7 @@ Xiaomi Cloud
     <string name="mi_transfer">Μετακινητής Mi</string>
     <string name="mi_upi_settings">Λογαριασμός Mi Πληρωμής</string>
     <string name="micloud_service_summary">Συγχρονισμός της λίστας με εφαρμογές, αντίγραφο ασφαλείας των ρυθμίσεων του συστήματος και της διάταξης Αρχικής οθόνης</string>
+    <string name="micloud_service_summary_temp">Συγχρονισμός φωτογραφιών, βίντεο, επαφών και άλλων</string>
     <string name="micloud_service_title">Xiaomi Cloud</string>
     <string name="middle_function_key">Κεντρική περιοχή</string>
     <string name="midnight">Νύχτα</string>
@@ -4385,6 +4435,8 @@ Xiaomi Cloud
     <string name="miheadset_double_click_right">Πατήστε δύο φορές το δεξί ακουστικό</string>
     <string name="miheadset_double_press_left">Διπλό πάτημα αριστερά ακουστικά</string>
     <string name="miheadset_double_press_right">Διπλό πάτημα δεξιού ακουστικού</string>
+    <string name="miheadset_dual_connect_mode">Σύνδεση σε δύο συσκευές</string>
+    <string name="miheadset_dual_connect_mode_summary">Ενεργοποιήστε για να συνδέσετε τα ακουστικά σας σε δύο συσκευές Bluetooth ταυτόχρονα</string>
     <string name="miheadset_enhanceVoice">Ενίσχυση φωνής</string>
     <string name="miheadset_enhence_high">Ενισχυμένο πρίμα</string>
     <string name="miheadset_enhence_low">Βελτιωμένα μπάσα</string>
@@ -4467,6 +4519,7 @@ Xiaomi Cloud
     <string name="miui_face_enroll_risk_warning_title_text">Προσοχή</string>
     <string name="miui_face_enroll_success">"Τώρα μπορείτε να ξεκλειδώσετε αυτή τη συσκευή με τη χρήση δεδομένων προσώπου.
 Συνεχίστε για πρόσβαση στις πρόσθετες ρυθμίσεις."</string>
+    <string name="miui_input_method_attention">Προσοχή</string>
     <string name="miui_input_method_settings">Ρυθμίσεις μεθόδου εισαγωγής</string>
     <string name="miui_lab_ai_cloud_closed">"Η AI προφόρτιση δεν είναι διαθέσμη ακόμη."</string>
     <string name="miui_lab_ai_preload_desc">Η AI προφόρτιση αυξάνει την ταχύτητα έναρξης εφαρμογής</string>
@@ -4887,6 +4940,8 @@ Xiaomi Cloud
     <string name="nfc_disabled_summary">Δεν διατίθεται, επειδή η λειτουργία NFC είναι απενεργοποιημένη</string>
     <string name="nfc_disclaimer_content">Το NFC ανταλλάσσει δεδομένα μεταξύ αυτής της συσκευής και άλλων κοντινών συσκευών ή στόχων, όπως τερματικών πληρωμής, συστημάτων ελέγχου πρόσβασης και διαδραστικών διαφημίσεων ή ετικετών.</string>
     <string name="nfc_disclaimer_title">Ενεργοποίηση NFC</string>
+    <string name="nfc_dnd_mode_summary">Απάντηση σε ετικέτες NFC με περιορισμένο αριθμό ετικετών NDEF</string>
+    <string name="nfc_dnd_mode_title">NFC DND</string>
     <string name="nfc_how_it_works_content">Ρυθμίστε μια εφαρμογή πληρωμής. Στη συνέχεια, ακουμπήστε απλώς το πίσω μέρος του τηλεφώνου σας, σε οποιοδήποτε τερματικό με το σύμβολο ανεπαφικών πληρωμών.</string>
     <string name="nfc_how_it_works_got_it">Το κατάλαβα</string>
     <string name="nfc_how_it_works_title">Πληρωμή στο τερματικό</string>
@@ -5168,6 +5223,8 @@ Xiaomi Cloud
     <string name="notifications_title">Ειδοποιήσεις</string>
     <string name="now">Επανεκκίνηση τώρα</string>
     <string name="number_of_device_admins_none">Δεν υπάρχουν ενεργές εφαρμογές</string>
+    <string name="oaid_apps_summary">Να επιτρέπεται ή να περιορίζεται η πρόσβαση για μεμονωμένες εφαρμογές</string>
+    <string name="oaid_apps_title">Διαχείριση εικονικού ID</string>
     <string name="oaid_string">"Τρέχον εικονικό ID: 
 %1s"</string>
     <string name="oem_lock_info_message">Επανεκκινήστε τη συσκευή, για να ενεργοποιήσετε τη λειτουργία προστασίας συσκευής.</string>
@@ -5252,6 +5309,36 @@ Xiaomi Cloud
     <string name="owner_info_settings_title">Υπογραφή Οθόνης κλειδώματος</string>
     <string name="owner_space">Πρώτος χώρος</string>
     <string name="packages_subtitle">Συμπεριλαμβανόμενα πακέτα</string>
+    <string name="pad_backup_summary">Δημιουργία αντιγράφων ασφαλείας και επαναφορά στοιχείων σε αυτήν τη συσκευή</string>
+    <string name="pad_backup_title">Κινητή συσκευή</string>
+    <string name="pad_computer_backup_summary">Δημιουργία αντιγράφων ασφαλείας και επαναφορά στοιχείων χρησιμοποιώντας έναν υπολογιστή</string>
+    <string name="pad_flash_drive_backup_enable">Χρησιμοποιήστε μια μονάδα USB για να δημιουργήσετε αντίγραφα ασφαλείας ή να επαναφέρετε στοιχεία</string>
+    <string name="pad_how_backup_content">"Μπορείτε να αποθηκεύσετε αντίγραφα ασφαλείας τοπικά ή στο σύννεφο. Τα τοπικά αντίγραφα ασφαλείας μπορούν να αποθηκευτούν σε κινητή συσκευή, υπολογιστή ή μονάδα USB.
+
+Κινητή συσκευή
+Αποθηκεύστε τις ρυθμίσεις του συστήματος, τους λογαριασμούς, τα δεδομένα εφαρμογών και άλλα στοιχεία σε ένα ξεχωριστό αρχείο που είναι αποθηκευμένο στη συσκευή σας (MIUI-backup-AllBackup). Σημείωση: Η εκτέλεση μιας επαναφοράς εργοστασιακών ρυθμίσεων θα διαγράψει αυτά τα αντίγραφα ασφαλείας μόνιμα. Θυμηθείτε να αντιγράψετε αντίγραφα ασφαλείας στον υπολογιστή σας.
+
+Υπολογιστής
+Δημιουργήστε ένα αντίγραφο ασφαλείας σε αυτήν τη συσκευή και έπειτα μεταβείτε στο MIUI-backup-AllBackup και αντιγράψτε το αντίγραφο ασφαλείας στον υπολογιστή σας μέσω καλωδίου USB.
+
+μονάδα δίσκου USB
+Αποθηκεύστε τις ρυθμίσεις του συστήματος, τους λογαριασμούς, τα δεδομένα εφαρμογών και άλλα στοιχεία σε μονάδα USB.
+
+Xiaomi Cloud
+Συγχρονίστε τις επαφές, τις φωτογραφίες, τα βίντεο, τη λίστα των εφαρμογών σας, τις ρυθμίσεις συστήματος και τη διάταξη αρχικής οθόνης με το σύννεφο."</string>
+    <string name="pad_how_restore_backup_content">"Εδώ είναι πώς μπορείτε να επαναφέρετε στοιχεία που δημιουργήθηκαν με διαφορετικές μεθόδους:
+
+Κινητή συσκευή
+Πατήστε \"Κινητή συσκευή\" βρείτε την επιλογή να επαναφέρετε τα στοιχεία και επιλέξτε το αντίγραφο ασφαλείας για να συνεχίσετε.
+
+Υπολογιστής
+Αντιγράψτε το αντίγραφο ασφαλείας από τον υπολογιστή σας στο MIUI-backup-AllBackup μέσω καλωδίου USB και επαναφέρετε στοιχεία από τη συσκευή κινητής τηλεφωνίας σας.
+
+μονάδα δίσκου USB
+Αντιγράψτε το αντίγραφο ασφαλείας από τη μονάδα USB σας στο MIUI-backup-AllBackup και επιλέξτε την επιλογή να επαναφέρετε στοιχεία από μια μονάδα USB για να συνεχίσετε.
+
+Xiaomi Cloud
+Ανοίξτε Xiaomi Cloud και επαναφέρετε αντικείμενα από εκεί."</string>
     <string name="page_layout_1">Κυριακή, 16 Αυγούστου</string>
     <string name="page_layout_10">Ρυθμίσεις</string>
     <string name="page_layout_11">Καιρός</string>
@@ -5336,6 +5423,7 @@ Xiaomi Cloud
     <string name="password_toggle_content_description">Εμφάνιση κωδικού</string>
     <string name="password_turned_off_text">Ο κωδικός απενεργοποιήθηκε</string>
     <string name="password_turned_on_text">Ο κωδικός ενεργοποιήθηκε</string>
+    <string name="password_unlock">Κλείδωμα οθόνης</string>
     <string name="password_unlock_title">Κλείδωμα οθόνης</string>
     <string name="payment_summary">Η εφαρμογή %1$s είναι επιλεγμένη από προεπιλογή</string>
     <string name="peak_refresh_rate_summary">Αυξάνει αυτόματα τον ρυθμό ανανέωσης από τα 60 στα 90 Hz για ορισμένο περιεχόμενο. Αυξάνει τη χρήση της μπαταρίας.</string>
@@ -5831,7 +5919,7 @@ Xiaomi Cloud
     <string name="remove_managed_profile_label">Κατάργηση προφίλ εργασίας</string>
     <string name="repeat">Επανάληψη</string>
     <string name="repeat_call">Ειδοποίηση για επαναλαμβανόμενες κλήσεις</string>
-    <string name="repeat_call_info">Κουδούνισμα ή δόνηση κατά τη λήψη της δεύτερης κλήσης από τον ίδιο αριθμό τηλεφώνου εντός %d λεπτών</string>
+    <string name="repeat_call_info">Κουδούνισμα ή δόνηση κατά τη λήψη της δεύτερης κλήσης από την ίδια επαφή ή αριθμό τηλεφώνου μέσα σε %d λεπτά όταν η DND είναι ενεργή</string>
     <string name="repeat_days_in_week">Επανάληψη</string>
     <string name="repeat_never">Ποτέ</string>
     <string name="repeat_title">Επανάληψη</string>
@@ -5876,6 +5964,7 @@ Xiaomi Cloud
     <string name="reset_network_final_desc">"Επαναφορά όλων των ρυθμίσεων δικτύου τώρα; Αυτό μπορεί να διαρκέσει μερικά δευτερόλεπτα. Δεν θα είστε σε θέση να ανακαλέσετε αυτή την ενέργεια."</string>
     <string name="reset_network_final_desc_esim">Να γίνει επαναφορά όλων των ρυθμίσεων δικτύου και διαγραφή όλων των SIM των οποίων έγινε λήψη; Δεν μπορείτε να αναιρέσετε αυτή την ενέργεια.</string>
     <string name="reset_network_title">Επαναφορά Wi-Fi, δικτύων κινητής τηλεφωνίας και Bluetooth</string>
+    <string name="reset_network_title_noSim">Επαναφορά Wi-Fi και Bluetooth</string>
     <string name="reset_network_wifi">Wi-Fi</string>
     <string name="reset_remove_data_hint">Όλα τα στοιχεία που απαριθμούνται πιο πάνω θα διαγραφούν μόνιμα. Πριν συνεχίσετε, δημιουργήστε αντίγραφο ασφαλείας των σημαντικών στοιχείων στον υπολογιστή σας ή στο Xiaomi Cloud.</string>
     <string name="reset_second_space_passwd">Επαναφορά κωδικού Δεύτερου χώρου</string>
@@ -5944,6 +6033,7 @@ Xiaomi Cloud
     <string name="ringtones_category_preference_title">Ήχοι κλήσης</string>
     <string name="ringtones_install_custom_sound_content">Αυτό το αρχείο θα αντιγραφεί στον φάκελο %s</string>
     <string name="ringtones_install_custom_sound_title">Να προστεθεί προσαρμοσμένος ήχος;</string>
+    <string name="risk_tip">Εντοπίστηκε κίνδυνος</string>
     <string name="roaming">Περιαγωγή</string>
     <string name="roaming_alert_title">Να επιτρέπεται η περιαγωγή δεδομένων;</string>
     <string name="roaming_check_price_warning">Επικοινωνήστε με τον πάροχο του δικτύου για πληροφορίες σχετικά με τις τιμές.</string>
@@ -6024,7 +6114,7 @@ Xiaomi Cloud
     <string name="screen_enhance_engine_ai_pic_summary">"Προσδιορίστε αντικείμενα (π.χ. φυτά, ζώα, κτίρια) και προσαρμόστε δυναμικά τα εφέ οθόνης. "</string>
     <string name="screen_enhance_engine_ai_title">Βελτίωση εικόνας AI</string>
     <string name="screen_enhance_engine_memc_note">"Δεν είναι δυνατή η βελτίωση των βίντεο όταν είναι ενεργοποιημένη η σούπερ ανάλυση. Ενεργοποιώντας τα βελτιωμένα βίντεο, θα απενεργοποιήσετε τη σούπερ ανάλυση."</string>
-    <string name="screen_enhance_engine_memc_note_1">Αυτό το χαρακτηριστικό αυξάνει ελαφρώς την κατανάλωση ενέργειας.</string>
+    <string name="screen_enhance_engine_memc_note_1">%d. Αυτή η δυνατότητα αυξάνει ελαφρώς την κατανάλωση ενέργειας.</string>
     <string name="screen_enhance_engine_memc_note_2">%d. Αυτή η λειτουργία λειτουργεί μόνο όταν η εργαλειοθήκη βίντεο είναι ενεργή.</string>
     <string name="screen_enhance_engine_memc_open">MEMC</string>
     <string name="screen_enhance_engine_memc_pic_summary">"Προσθέστε επιπλέον καρέ σε βίντεο για να κάνετε το περιεχόμενο να φαίνεται ομαλό και να μεταβαίνει ζωντανά. "</string>
@@ -6158,8 +6248,9 @@ Xiaomi Cloud
     <string name="screen_saturation">Κορεσμός</string>
     <string name="screen_shot">Λήψη στιγμιότυπου οθόνης</string>
     <string name="screen_timeout">Αδράνεια</string>
+    <string name="screen_timeout_subtitle">Εμφάνιση στατικού περιεχομένου για παρατεταμένες χρονικές περιόδους μπορεί να κάνει τα χρώματα άνισα</string>
     <string name="screen_timeout_summary">Μετά από %1$s αδράνειας</string>
-    <string name="screen_timeout_title">Λειτουργία αδράνειας</string>
+    <string name="screen_timeout_title">Αυτόματη οθόνη κλειδώματος</string>
     <string name="screen_usage_summary">Χρόνος ενεργοποίησης της οθόνης από την πλήρη φόρτιση</string>
     <string name="screen_zoom_conversation_icon_alex">Α</string>
     <string name="screen_zoom_conversation_icon_pete">Π</string>
@@ -6433,6 +6524,7 @@ Xiaomi Cloud
     <string name="secspace_fod_use_password">Εισαγωγή κωδικού</string>
     <string name="secure_keyguard_business_title">Ορισμός κλειδώματος οθόνης</string>
     <string name="secure_lock_encryption_warning">Επειδή έχετε ενεργοποιήσει την υπηρεσία προσβασιμότητας, η συσκευή σας δεν θα χρησιμοποιεί το κλείδωμα οθόνης για τη βελτίωση της κρυπτογράφησης δεδομένων.</string>
+    <string name="security_center_title">Ασφάλεια</string>
     <string name="security_dashboard_summary">Κλείδωμα οθόνης, δακτυλικό αποτύπωμα</string>
     <string name="security_dashboard_summary_face">Κλείδωμα οθόνης, Face Unlock</string>
     <string name="security_dashboard_summary_no_fingerprint">Κλείδωμα οθόνης</string>
@@ -6681,6 +6773,17 @@ Xiaomi Cloud
     <string name="shared_data_title">Κοινόχρηστα δεδομένα</string>
     <string name="sharing_remote_bugreport_dialog_message">Αυτή η αναφορά σφάλματος κοινοποιείται στο διαχειριστή IT σας. Επικοινωνήστε μαζί του για περισσότερες λεπτομέρειες.</string>
     <string name="short_summary_font_size">Κάντε το κείμενο μεγαλύτερο ή μικρότερο</string>
+    <string name="shoulder_key_game_light_settings">Εφέ</string>
+    <string name="shoulder_key_settings">Κουμπιά ώμου</string>
+    <string name="shoulder_key_settings_title">Κουμπιά ώμου</string>
+    <string name="shoulder_key_sound_settings">Ηχητικά εφέ</string>
+    <string name="shoulder_key_sound_switch_title">Ηχητικά εφέ</string>
+    <string name="shoulder_key_sound_text_bullet">Κουκκίδα</string>
+    <string name="shoulder_key_sound_text_current">Μέλλον</string>
+    <string name="shoulder_key_sound_text_sword">Σπαθί</string>
+    <string name="shoulder_key_sound_text_wind">Κινητήρας</string>
+    <string name="shoulder_key_switch_status_close">Ανενεργό</string>
+    <string name="shoulder_key_switch_status_open">Ενεργό</string>
     <string name="show_all_anrs">Εμφάνιση όλων των ANRs</string>
     <string name="show_all_anrs_summary">Εμφάνιση πλαίσιου διαλόγου \"Η εφαρμογή δεν ανταποκρίνεται\" για εφαρμογές παρασκηνίου</string>
     <string name="show_all_apps">Εμφάνιση πλήρους χρήσης συσκευής</string>
@@ -6883,6 +6986,7 @@ Xiaomi Cloud
     <string name="sms_received_sound_dialog_title">Επιλογή ήχου για ληφθέντα μηνύματα</string>
     <string name="sms_received_sound_title">Μήνυμα ελήφθη</string>
     <string name="snooze_options_title">Να επιτρέπεται η αναβολή των ειδοποιήσεων</string>
+    <string name="softbank_apn_lock_toast">Το APN είναι κλειδωμένο. Δεν είναι δυνατή η επεξεργασία.</string>
     <string name="software_version">Έκδοση λογισμικού</string>
     <string name="solar_term_autumn_begins">Το φθινόπωρο ξεκινά</string>
     <string name="solar_term_autumn_equinox">Ισημερινού φθινοπώρου</string>
@@ -6943,6 +7047,7 @@ Xiaomi Cloud
 Εάν δεν συμφωνείτε να παραχωρήσετε τέτοιες άδειες ή να κοινοποιήσετε και να μεταφορτώσετε τις προσωπικές σας πληροφορίες, δεν θα έχετε τη δυνατότητα να χρησιμοποιείτε αυτή την εφαρμογή. Μπορείτε να επιλέξετε να απενεργοποιήσετε ή να μην χρησιμοποιήσετε την Emergency SOS σε τέτοιες περιπτώσεις.
 Πριν χρησιμοποιήσετε τις υπηρεσίες μας, διαβάστε και συμφωνήστε με την %s."</string>
     <string name="sos_privacy_dialog_title">Όροι και Προϋποθέσεις</string>
+    <string name="sos_privacy_policy">Πολιτική Απορρήτου</string>
     <string name="sound_assist_summary">Προσαρμογή των ρυθμίσεων ήχου</string>
     <string name="sound_assist_title">Βοηθός ήχου</string>
     <string name="sound_category_call_ringtone_vibrate_title">Ήχος κλήσης &amp; ήχοι ειδοποιήσεων</string>
@@ -7285,6 +7390,21 @@ Xiaomi Cloud
     <string name="style_and_wallpaper_settings_title">Στιλ και ταπετσαρίες</string>
     <string name="style_suggestion_summary">Δοκιμάστε διαφορετικά στιλ, ταπετσαρίες και άλλα</string>
     <string name="style_suggestion_title">Προσαρμογή του τηλεφώνου σας</string>
+    <string name="stylus_ota_check_update">Έλεγχος ενημερώσεων</string>
+    <string name="stylus_ota_current_firmware_version">Έκδοση υλικολογισμικού</string>
+    <string name="stylus_ota_demands">Κρατήστε αυτήν τη συσκευή συνδεδεμένη στη γραφίδα μέσω Bluetooth. Και οι δύο συσκευές πρέπει να είναι τουλάχιστον %1$s φορτισμένες σε όλη την ενημέρωση.</string>
+    <string name="stylus_ota_download_failed">"Αδυναμία λήψης υλικολογισμικού"</string>
+    <string name="stylus_ota_downloading_firmware">Λήψη υλικολογισμικού</string>
+    <string name="stylus_ota_firmware_update">Ενημέρωση υλικολογισμικού</string>
+    <string name="stylus_ota_hardware_version">Έκδοση υλικού</string>
+    <string name="stylus_ota_latest">Μέχρι σήμερα</string>
+    <string name="stylus_ota_model">Μοντέλο</string>
+    <string name="stylus_ota_new_version">Ενημέρωση</string>
+    <string name="stylus_ota_serial_number">Σειριακός αριθμός</string>
+    <string name="stylus_ota_timeout_failed">Λήξη χρονικού ορίου συνεδρίας</string>
+    <string name="stylus_ota_update">Ενημέρωση</string>
+    <string name="stylus_ota_update_failed">"Αδυναμία ενημέρωσης υλικολογισμικού"</string>
+    <string name="stylus_ota_updating">Ενημέρωση</string>
     <string name="subscreen_title">Οπίσθια οθόνη</string>
     <string name="subscription_available">Διαθέσιμη</string>
     <string name="sud_back_button_label">Πίσω</string>
@@ -7325,11 +7445,12 @@ Xiaomi Cloud
     <string name="swipe_up_to_switch_apps_title">Πλοήγηση με δύο κουμπιά</string>
     <string name="switchNetworkToast">Η σύνδεση με δίκτυα κινητής τηλεφωνίας μπορεί να δημιουργήσει πρόσθετες χρεώσεις</string>
     <string name="switch_access_service_on">Εναλλαγή Πρόσβασης</string>
-    <string name="switch_bootup_sound">Ήχος εκκίνησης</string>
+    <string name="switch_bootup_sound">Αναπαραγωγή ήχου κατά την εκκίνηση</string>
     <string name="switch_headset_anti_lost">Ειδοποίηση απουσίας ακουστικών</string>
     <string name="switch_headset_anti_lost_title">Ειδοποίηση απουσίας ακουστικών</string>
     <string name="switch_off_text">Ανενεργή</string>
     <string name="switch_on_text">Ενεργό</string>
+    <string name="switch_power_sound">Αναπαραγωγή ήχου όταν ο φορτιστής είναι συνδεδεμένος</string>
     <string name="switch_screen_button_order">Αντικατοπτρισμός κουμπιών</string>
     <string name="switch_screen_button_order_desc">Αντικατοπτρισμός κουμπιών Πίσω και Μενού</string>
     <string name="switch_select_to_speak_on">Επιλέξτε για να Μιλήσετε</string>
@@ -7500,6 +7621,8 @@ Xiaomi Cloud
     <string name="thursday">Πέμπτη</string>
     <string name="thursday_short">Thu</string>
     <string name="thursday_shortest">Thu</string>
+    <string name="time_floating_window">Πλωτό ρολόι</string>
+    <string name="time_floating_window_summary">Εμφάνιση ρολογιού στο αιωρούμενο παράθυρο πάνω από άλλες εφαρμογές</string>
     <string name="time_format_category_title">Μορφή ώρας</string>
     <string name="time_picker_dialog_title">Ορισμός ώρας</string>
     <string name="time_picker_title">Ώρα</string>
@@ -7735,6 +7858,7 @@ Xiaomi Cloud
     <string name="unlock_set_unlock_pin_title">PIN</string>
     <string name="unlock_set_unlock_summary">Ορισμός κλειδώματος οθόνης</string>
     <string name="unlock_setup_wizard_fingerprint_details">Αφού ρυθμίσετε το κλείδωμα οθόνης, θα μπορείτε να ρυθμίσετε και τα δαχτυλικά αποτυπώματα από τις Ρυθμίσεις &gt; Ασφάλεια.</string>
+    <string name="unlock_sound_effect_enable_title">Αναπαραγωγή ήχου κατά το ξεκλείδωμα της συσκευής</string>
     <string name="unlock_type_category_title">Μέθοδος αναγνώρισης</string>
     <string name="unlogin_account_summary">Όλες οι Υπηρεσίες Mi. Ένας Mi Λογαριασμός.</string>
     <string name="unlogin_account_title">Σύνδεση στον Mi Λογαριασμό</string>
@@ -8073,7 +8197,7 @@ Xiaomi Cloud
     <string name="vibrate_when_ringing_option_always_vibrate">Να χρησιμοποιείται πάντα δόνηση</string>
     <string name="vibrate_when_ringing_option_never_vibrate">Να μην χρησιμοποιείται ποτέ δόνηση</string>
     <string name="vibrate_when_ringing_option_ramping_ringer">Δόνηση αρχικά και σταδιακό κουδούνισμα</string>
-    <string name="vibrate_when_ringing_title">Δόνηση για κλήσεις</string>
+    <string name="vibrate_when_ringing_title">Δόνηση κατά το κουδούνισμα</string>
     <string name="video_calling_settings_title">Βιντεοκλήση μέσω εταιρείας κινητής τηλεφωνίας</string>
     <string name="video_tool_box_title">Εργαλειοθήκη για βίντεο</string>
     <string name="view_saved_network">Για προβολή, επιλέξτε το αποθηκευμένο δίκτυο</string>
@@ -8137,6 +8261,9 @@ Xiaomi Cloud
     <string name="voice_service_preference_section_title">Υπηρεσίες φωνητικών εντολών</string>
     <string name="voicemail_number_not_set">&lt;Not set&gt;</string>
     <string name="voip_assistant_settings">Βοηθός φωνητικής IP</string>
+    <string name="voip_assistant_settings_off">Ανενεργό</string>
+    <string name="voip_assistant_settings_on">Ενεργό</string>
+    <string name="voip_assistant_settings_summary">Εγγραφή κλήσεων VoIP και χρήση βελτιστοποίησης φωνητικών αποτυπωμάτων</string>
     <string name="volte_5G_limited_text">"Αυτή η ενέργεια απενεργοποιεί επίσης τη σύνδεση 5G.
 Κατά τη διάρκεια μιας φωνητικής κλήσης, δεν μπορείτε να χρησιμοποιήσετε το διαδίκτυο και ορισμένες εφαρμογές ενδέχεται να μην λειτουργούν."</string>
     <string name="volte_5G_limited_title">Απενεργοποίηση VoLTE;</string>

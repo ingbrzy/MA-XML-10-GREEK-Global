@@ -56,8 +56,11 @@
     <string name="adding_attachments_title">Γίνεται επισύναψη συνημμένων</string>
     <string name="adding_recipients">Γίνεται προσθήκη παραληπτών…</string>
     <string name="afternoon">Απόγευμα</string>
+    <string name="aim_show_card">Εμφάνιση κάρτας</string>
+    <string name="aim_show_original">Εμφάνιση μηνύματος</string>
     <string name="alert_dlg_cancel_button">Ακύρωση</string>
     <string name="alert_dlg_ok_button">Εντάξει</string>
+    <string name="allow">Εντάξει</string>
     <string name="allow_network_hint">Ενεργοποιήστε αυτόματα την \"Ενημέρωση πληροφοριών\" ή ελέγξτε τη σύνδεση δικτύου</string>
     <string name="already_updated">Έγινε ενημέρωση</string>
     <string name="am">ΠΜ</string>
@@ -117,6 +120,7 @@
     <string name="call_sender">Κλήση αποστολέα</string>
     <string name="can_not_send_by_rcs">"Αδυναμία χρήσης Μηνυμάτων China Mobile"</string>
     <string name="can_not_view_group_chat_stranger">"Δεν είναι δυνατό να προβάλετε τις λεπτομέρειες ξένων."</string>
+    <string name="cancel">Ακύρωση</string>
     <string name="cannot_add_picture_and_video">"Αδυναμία προσθήκης και βίντεο και εικόνας σε μία διαφάνεια."</string>
     <string name="cannot_add_slide_anymore">"Αδυναμία προσθήκης περισσότερων διαφάνειων."</string>
     <string name="cannot_forward_drm_obj">"Το DRM αντικείμενο που συμπεριλήφθηκε στο μήνυμα δεν μπορεί να προωθηθεί."</string>
@@ -306,12 +310,6 @@
     <string name="file_size">Μέγεθος:</string>
     <string name="file_title">Όνομα:</string>
     <string name="file_width_height">Μέγεθος:</string>
-    <string name="fmt_date_long_month_day">dd MMMM</string>
-    <string name="fmt_date_long_year_month_day">dd MMMM yyyy</string>
-    <string name="fmt_date_numeric_month_day">d/Μ</string>
-    <string name="fmt_date_numeric_year_month_day">d/M/yyyy</string>
-    <string name="fmt_date_short_month_day">dd/MM</string>
-    <string name="fmt_date_short_year_month_day">dd/ΜΜ/yyyy</string>
     <string name="force_touch_new_message_title">Νέο μήνυμα</string>
     <string name="forward_from">Προώθηση από:</string>
     <string name="forward_message_select_title">Προώθηση μηνύματος</string>
@@ -329,6 +327,7 @@
     <string name="from_pkg_name">Από την εφαρμογή:</string>
     <string name="ft_cfs_dialog_content">"Τα αρχεία δεν μπορούν να παραδοθούν χρησιμοποιώντας το RCS. Στείλτε έναν σύνδεσμο σε ένα μήνυμα κειμένου?"</string>
     <string name="ft_cfs_dialog_title">Εναλλακτική μεταφορά αρχείων</string>
+    <string name="go_close">Ρυθμίσεις</string>
     <string name="google_message_promo_content">Η Xiaomi συστήνει την αναβάθμιση στα Μηνύματα από την Google. Εγκαταστήστε τώρα για να αποκτήσετε υψηλής ποιότητας ανταλλαγή φωτογραφιών, συνομιλία μέσω Wi-Fi, και πολλά άλλα. <font color="#B3000000"><a href="https://support.google.com/messages/answer/6089066">Μάθετε περισσότερα</a></font></string>
     <string name="google_message_promo_title">Αναβαθμίστε την εφαρμογή ανταλλαγής μηνυμάτων</string>
     <string name="group_already_kicked_hint">"Αδυναμία αποστολής μηνυμάτων. Δεν είστε πλέον μέλος αυτής της ομαδικής συνομιλίας."</string>
@@ -375,8 +374,14 @@
     <string name="invalid_destination">Μη έγκυρη διεύθυνση προορισμού.</string>
     <string name="invalid_private_contact">Μη έγκυρη επαφή</string>
     <string name="invalid_recipient_message">"Διορθώστε τους παραλήπτες αλλιώς δεν θα παραλάβουν το μήνυμα."</string>
+    <string name="invisible_mode_on">"Είσαι ανώνυμος"</string>
     <string name="is_composing">Πληκτρολόγηση…</string>
     <string name="layout_selector_title">"Διάταξη παρουσίασης "</string>
+    <string name="leave_mms_tips_context_app">Αφήστε την Ανταλλαγή μηνυμάτων και ανοίξτε την εφαρμογή τώρα?</string>
+    <string name="leave_mms_tips_context_app_name">Αφήστε την Ανταλλαγή μηνυμάτων και ανοίξτε \"%s\" τώρα?</string>
+    <string name="leave_mms_tips_context_browser">Αφήστε την Ανταλλαγή μηνυμάτων και ανοίξτε το πρόγραμμα περιήγησης τώρα?</string>
+    <string name="leave_mms_tips_context_email">Αφήστε την Ανταλλαγή μηνυμάτων και ανοίξτε την εφαρμογή email τώρα?</string>
+    <string name="leave_mms_tips_context_map">Αφήστε την Ανταλλαγή μηνυμάτων και ανοίξτε τον χάρτη τώρα?</string>
     <string name="loading_all_messages">Περιμένετε μια στιγμή…</string>
     <string name="loading_conversations">Περιμένετε μια στιγμή…</string>
     <string name="loading_mms">Περιμένετε μια στιγμή…</string>
@@ -697,6 +702,7 @@
     <string name="pref_summary_on_system_mms_priority">"Ορισμός εφαρμογής Μηνύματα του MIUI ως προεπιλογή για αποστολή και λήψη MMS"</string>
     <string name="pref_summary_privacy_authority">Εναλλαγή για να παραχωρήσετε ή να ανακαλέσετε την εξουσιοδότησή σας</string>
     <string name="pref_summary_send_delivery_reports">Αποστολή επιβεβαίωσης παράδοσης στον αποστολέα όταν λαμβάνετε μηνύματα πολυμέσων</string>
+    <string name="pref_summary_switch_aim_card">Εμφάνιση μηνυμάτων που περιέχουν βίντεο, εικόνες και πολύπλοκη μορφοποίηση ως κάρτες</string>
     <string name="pref_summary_voice_report">Ενεργοποιήστε για την ανάγνωση ηχηρών μηνυμάτων κατά τη λήψη τους. Πατήστε το κουμπί Έντασης κάτω ή το κουμπί απενεργοποίησης για να σταματήσετε την αναπαραγωγή.</string>
     <string name="pref_summary_wake_up_screen">Ενεργοποίηση οθόνης κατά την λήψη νέου μηνύματος</string>
     <string name="pref_switch_sdk_setting">Εναλλαγή έξυπνης υπηρεσίας παρόχου SMS</string>
@@ -729,6 +735,7 @@
     <string name="pref_title_sms_delete">Όριο μηνύματος κειμένου</string>
     <string name="pref_title_sms_validity_period">Λήξη SMS</string>
     <string name="pref_title_storage_status">Κατάσταση χωρητικότητας μηνυμάτων</string>
+    <string name="pref_title_switch_aim_card">Μετατροπή μηνυμάτων σε κάρτες</string>
     <string name="pref_title_system_mms_priority">Ορισμός ως προεπιλογή</string>
     <string name="pref_title_vcard">Αποστολή μέσω vCard</string>
     <string name="pref_title_voice_report">Ανάγνωση μηνυμάτων δυνατά</string>
@@ -1255,6 +1262,9 @@
     <string name="type_to_compose_text_or_leave_blank">Πληκτρολογήστε μήνυμα, ή αφήστε το κενό</string>
     <string name="type_vcard">vCard</string>
     <string name="type_video">βίντεο</string>
+    <string name="unable_connect_camera">"Είσαι ανώνυμος. Δεν μπορείς να χρησιμοποιήσεις την κάμερα τώρα."</string>
+    <string name="unable_get_location">"Είστε ανώνυμοι. Δεν μπορείτε να χρησιμοποιήσετε τις υπηρεσίες τοποθεσίας τώρα."</string>
+    <string name="unable_use_microphone">"Είστε incognito. Δεν μπορείτε να χρησιμοποιήσετε το μικρόφωνο τώρα."</string>
     <string name="undelivered_msg_dialog_body">"Αποτυχία αποστολής μηνύματος.
 Έγινε προσπάθεια: %s."</string>
     <string name="undelivered_msg_dialog_title">Μη απεσταλμένο μήνυμα</string>

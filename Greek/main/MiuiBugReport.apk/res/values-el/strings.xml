@@ -85,23 +85,28 @@
     <string name="bugreport_tool_log_dumping_title">Δημιουργία αναφοράς προβλήματος</string>
     <string name="catch_full_log_action_cancel">Ακύρωση</string>
     <string name="catch_full_log_action_complete">Τελείωμα και μεταφόρτωση</string>
+    <string name="catch_full_log_action_start">Έναρξη</string>
     <string name="catch_full_log_add_original_photo">Προσθέστε πρωτότυπη εικόνα ή σύντομο βίντεο</string>
     <string name="catch_full_log_add_photo">Προσθήκη φωτογραφίας</string>
     <string name="catch_full_log_add_photo_dialog_content">"Εάν το ζήτημα που θέλετε να αναφέρετε σχετίζεται με την ποιότητα εικόνας της κάμερας, προσθέστε ένα πρωτότυπο δείγμα φωτογραφίας (όχι κομμένη) για να μας βοηθήσει να εντοπίσουμε το ζήτημα. Προσθήκη φωτογραφίας τώρα;"</string>
+    <string name="catch_full_log_category">Τύποι αρχείων καταγραφής</string>
     <string name="catch_full_log_dialog_confirm_text">Μεταβείτε στην Αρχική Οθόνη</string>
-    <string name="catch_full_log_dialog_content">"Το MIUI αυτή τη στιγμή δημιουργεί ένα αρχείο καταγραφής. Αυτό ίσως επηρεάσει την επίδοση της συσκευής σας. Εάν δεν μπορείτε να κάνετε αναπαραγωγή του ζητήματος που επιθυμείτε να αναφέρετε, επιστρέψτε στα αρχεία καταγραφής και πατήστε \"Ακύρωση\"."</string>
+    <string name="catch_full_log_dialog_content">"Αυτό μπορεί να επηρεάσει τη συνολική απόδοση της συσκευής σας. Αν δεν μπορείτε να αναπαραγάγετε το ζήτημα που θέλετε να αναφέρετε, πηγαίνετε πίσω στα αρχεία καταγραφής και πατήστε \"Ακύρωση\"."</string>
+    <string name="catch_full_log_dialog_title">Δημιουργία αρχείων καταγραφής…</string>
     <string name="catch_full_log_dump_hprof_failed">"Αδυναμία δημιουργίας αρχείου καταγραφής καθυστερήσεων"</string>
     <string name="catch_full_log_item_content_catch_direct">"1. Επιστροφή στη λειτουργία που θέλετε να αναφέρετε και κάντε αναπαραγωγή.
 2. Επιστρέψτε σε αυτή τη σελίδα και πατήστε \"Τελείωμα και ανέβασμα\"."</string>
-    <string name="catch_full_log_item_content_title">Βήματα</string>
-    <string name="catch_full_log_item_title_audio">Ήχος, εγγραφή ήχου, και κλήσεις ήχου</string>
+    <string name="catch_full_log_item_content_catching">Δημιουργία αρχείων καταγραφής…</string>
+    <string name="catch_full_log_item_content_need_open">"%1$d. Πατήστε \"Έναρξη\" για να ξεκινήσετε τη δημιουργία αρχείων καταγραφής.
+%2$d. Αναπαραγάγετε το ζήτημα που αντιμετωπίσατε.
+%3$d. Επιστρέψτε σε αυτή τη σελίδα και πατήστε \"Ολοκλήρωση και αποστολή\"."</string>
+    <string name="catch_full_log_item_content_title">Πώς να δημιουργήσετε αρχεία καταγραφής</string>
+    <string name="catch_full_log_item_title_audio">Ηχογράφηση ήχου, ήχου κλήσης και ήχου</string>
     <string name="catch_full_log_item_title_bt">Bluetooth</string>
     <string name="catch_full_log_item_title_dump_heap">Καθυστερήσεις</string>
     <string name="catch_full_log_item_title_gps">Υπηρεσίες τοποθεσίας</string>
     <string name="catch_full_log_item_title_sensor">Αισθητήρες</string>
     <string name="catch_full_log_item_title_signal">Τηλέφωνο, σήμα, και δίκτυα τηλεφωνίας</string>
-    <string name="catch_full_log_item_title_wifi">Wi-Fi και ShareMe</string>
-    <string name="catch_full_log_item_title_wifi_china">WLAN και ShareMe</string>
     <string name="catch_full_log_notification_content">Πατήστε για επιστροφή στα αρχεία καταγραφής</string>
     <string name="catch_full_log_notification_title">Γίνεται δημιουργία αρχείου καταγραφής…</string>
     <string name="catch_full_log_privacy_content_audio">"Δημιουργείτε αρχεία καταγραφής και τα αποθηκεύετε στη συσκευή σας. Τα αρχεία καταγραφής ενδέχεται να περιέχουν πληροφορίες σχετικά με τον ήχο στη συσκευή σας, συμπεριλαμβανομένου του ιστορικού αναπαραγωγής και του ιστορικού εγγραφών. Προσέξτε και μην εμπιστευτείτε αυτά τα αρχεία καταγραφής σε άλλους ανθρώπους. Πατώντας \"Αποδοχή\" πιο κάτω, αποδέχεστε ότι θα μαζεύουμε τα πιο πάνω δεδομένα ενώ δημιουργούνται αρχεία καταγραφής, και ότι θα ανεβάζουμε τα αρχεία καταγραφής στους διακομιστές μας ούτως ώστε να εντοπίσουμε και να επιλύσουμε τα ζητήματα που αναφέρετε."</string>
@@ -284,12 +289,6 @@ ID:%s
     <string name="feedback_tracking">Παρακολούθηση προβλημάτων</string>
     <string name="feesback_list">Αναφορές</string>
     <string name="find_psw">Ξέχασα τον κωδικό</string>
-    <string name="fmt_date_long_month_day">dd MMMM</string>
-    <string name="fmt_date_long_year_month_day">dd MMMM yyyy</string>
-    <string name="fmt_date_numeric_month_day">dd/MM</string>
-    <string name="fmt_date_numeric_year_month_day">dd/MM/yyyy</string>
-    <string name="fmt_date_short_month_day">dd/MM</string>
-    <string name="fmt_date_short_year_month_day">dd/MM/yyyy</string>
     <string name="for_diagnosis_usage_only">Τα αρχεία καταγραφής χρησιμοποιούνται μόνο για σκοπούς διάγνωσης.</string>
     <string name="friday">Παρασκευή</string>
     <string name="friday_short">Παρ</string>

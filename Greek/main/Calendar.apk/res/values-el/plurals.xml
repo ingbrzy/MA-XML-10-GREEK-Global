@@ -100,10 +100,6 @@
         <item quantity="other">Επόμενη εμμηνόρροια σε %1$d μέρες</item>
         <item quantity="one">Επόμενη εμμηνόρροια σε %1$d μέρα</item>
     </plurals>
-    <plurals name="month_more_events">
-        <item quantity="other">+%d</item>
-        <item quantity="one">+%d</item>
-    </plurals>
     <plurals name="notes_custom_repeat_days">
         <item quantity="other">ημέρες</item>
         <item quantity="one">ημέρα</item>

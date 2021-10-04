@@ -48,6 +48,7 @@
     <string name="am">ΠΜ</string>
     <string name="anonymous_source_continue">Συνέχεια</string>
     <string name="anonymous_source_warning">Το τηλέφωνό σας και τα προσωπικά σας δεδομένα είναι πιο ευάλωτα σε επιθέσεις από άγνωστες εφαρμογές. Με την εγκατάσταση αυτής της εφαρμογής, συμφωνείτε ότι είστε υπεύθυνοι για οποιαδήποτε ζημιά στο τηλέφωνό σας ή απώλεια δεδομένων που ενδέχεται να προκύψουν από τη χρήση της.</string>
+    <string name="anonymous_source_warning_tablet">Οι συσκευές σας και τα προσωπικά σας δεδομένα είναι πιο ευάλωτα σε επιθέσεις από άγνωστες εφαρμογές. Με την εγκατάσταση της εφαρμογής, συμφωνείτε ότι είστε υπεύθυνοι για οποιαδήποτε βλάβη στις συσκευές σας ή απώλεια δεδομένων που μπορεί να προκύψει από τη χρήση του.</string>
     <string name="app_install_failed_button_text">Αναζήτηση εφαρμογών</string>
     <string name="app_name">Εγκατάσταση πακέτων</string>
     <string name="app_name_unknown">Άγνωστο</string>
@@ -60,7 +61,6 @@
     <string name="app_permissions_group_summary">Επιτρέπονται %1$d από %2$d εφαρμογές</string>
     <string name="app_store_install_hint">Εγκατάσταση τώρα</string>
     <string name="app_store_installing_message">Εγκατάσταση…</string>
-    <string name="app_store_missing_message">"Φαίνεται ότι δεν έχετε εγκαταστήσει το επίσημο App Store. Εγκατάσταση τώρα;"</string>
     <string name="app_store_missing_title">"Το App Store δεν είναι εγκατεστημένο"</string>
     <string name="application_detail_tips">Λεπτομέρειες εφαρμογής και απαιτούμενα δικαιώματα</string>
     <string name="auto_startup_dialog_msg">Αυτή η εφαρμογή μπορεί να ξεκινήσει χωρίς την άδειά σας.</string>
@@ -113,12 +113,6 @@
     <string name="external_sources_settings">Ρυθμίσεις</string>
     <string name="external_sources_settings_negative">Περιορισμός</string>
     <string name="external_sources_settings_positive">Αποδοχή μια φορά</string>
-    <string name="fmt_date_long_month_day">dd MMMM</string>
-    <string name="fmt_date_long_year_month_day">dd MMMM yyyy</string>
-    <string name="fmt_date_numeric_month_day">d/Μ</string>
-    <string name="fmt_date_numeric_year_month_day">d/M/yyyy</string>
-    <string name="fmt_date_short_month_day">dd/MM</string>
-    <string name="fmt_date_short_year_month_day">dd/ΜΜ/yyyy</string>
     <string name="friday">Παρασκευή</string>
     <string name="friday_short">Παρ</string>
     <string name="friday_shortest">Παρ</string>
@@ -148,6 +142,7 @@
     <string name="install_confirm_dialog_title">Προσοχή</string>
     <string name="install_confirm_question">Θέλετε να εγκαταστήσετε αυτήν την εφαρμογή; Θα έχει πρόσβαση σε:</string>
     <string name="install_confirm_question_des_10">"Εάν είστε διατεθειμένοι να αναλάβετε τους κινδύνους και θέλετε να προχωρήσετε στην εγκατάσταση, εξουσιοδοτήστε την εγκατάσταση στο Security &gt; Διαχείριση εφαρμογών &gt; Άδειες &gt; Εφαρμογές με πιθανούς κινδύνους. Εάν δεν μπορείτε να βρείτε \"Εφαρμογές με πιθανούς κινδύνους\", ενημερώστε την εφαρμογή Ασφάλεια και δοκιμάστε ξανά."</string>
+    <string name="install_confirm_question_des_10_tablet">"Αν είστε πρόθυμοι να αναλάβουν τους κινδύνους και θέλετε να προχωρήσετε με την εγκατάσταση, εξουσιοδοτήστε την εγκατάσταση στις εφαρμογές Security &gt; Manage &gt; Δικαιώματα &gt; Εφαρμογές με πιθανούς κινδύνους. Αν δεν μπορείτε να βρείτε \"Εφαρμογές με πιθανούς κινδύνους\", ενημερώστε την εφαρμογή Ασφαλείας και προσπαθήστε ξανά."</string>
     <string name="install_confirm_question_no_perms">"Θέλετε να εγκαταστήσετε αυτήν την εφαρμογή; Δεν απαιτεί ειδικά δικαιώματα."</string>
     <string name="install_confirm_question_update">"Θέλετε να εγκαταστήσετε μια ενημέρωση σε αυτήν την υπάρχουσα εφαρμογή; Τα υπάρχοντα δεδομένα της εφαρμογής δεν θα χαθούν. Η ενημερωμένη εφαρμογή θα έχει πρόσβαση σε:"</string>
     <string name="install_confirm_question_update_no_perms">"Θέλετε να εγκαταστήσετε μια ενημέρωση σε αυτήν την υπάρχουσα εφαρμογή; Τα υπάρχοντα δεδομένα της εφαρμογής δεν θα χαθούν. Δεν απαιτεί ειδικά δικαιώματα."</string>
@@ -168,8 +163,10 @@
     <string name="install_failed_blocked">Το πακέτο αποκλείστηκε από την εγκατάσταση.</string>
     <string name="install_failed_conflict">Το πακέτο έρχεται σε διένεξη με ένα υπάρχον πακέτο με το ίδιο όνομα.</string>
     <string name="install_failed_incompatible">"Αυτή η εφαρμογή δεν είναι συμβατή με το τηλέφωνό σας."</string>
+    <string name="install_failed_incompatible_tablet">"Αυτή η εφαρμογή δεν είναι συμβατή με τη συσκευή σας."</string>
     <string name="install_failed_invalid_apk">Το πακέτο φαίνεται να είναι κατεστραμμένο.</string>
     <string name="install_failed_msg">"%1$s δεν μπόρεσε να εγκατασταθεί στο τηλέφωνό σας."</string>
+    <string name="install_failed_msg_tablet">"%1$s δεν μπόρεσε να εγκατασταθεί στη συσκευή σας."</string>
     <string name="install_failed_system_incompatible">"Αυτή η εφαρμογή δεν είναι συμβατή με την MIUI ROM!"</string>
     <string name="install_finished_notification_summary">Πατήστε για να ελευθερώσετε χώρο</string>
     <string name="install_finished_notification_title">Εγκαταστάθηκε με επιτυχία %1$s . Μπορείτε να ελευθερώσετε %2$s αποθηκευτικό χώρο.</string>
@@ -401,7 +398,6 @@
     <string name="preference_copied">Το \"%1$s\" αντιγράφηκε στο πρόχειρο.</string>
     <string name="privacyPerms">Απόρρητο</string>
     <string name="privacy_relative">Απόρρητο</string>
-    <string name="reboot_time">Προετοιμασία για επανεκκίνηση… (%1$s)</string>
     <string name="replace_app_des_text">Αντικατάσταση της εφαρμογής με αυτήν την έκδοση;</string>
     <string name="review_button_cancel">Ακύρωση</string>
     <string name="review_button_continue">Συνέχεια</string>
@@ -425,6 +421,7 @@
  \"<li>Όταν μια εφαρμογή περιέχει ιούς.</li>\"
  \"<li>πακέτο εγκατάστασης προέρχεται από άγνωστη πηγή.</li></string>
     <string name="settings_warning_dialog_msg">"Το τηλέφωνό σας είναι επιρρεπές σε κινδύνους ασφαλείας. Δεν θα σας ζητηθεί να εγκαταστήσετε ασφαλείς εκδόσεις εφαρμογών εάν απενεργοποιήσετε αυτήν τη λειτουργία. Απενεργοποίηση ούτως ή άλλως;"</string>
+    <string name="settings_warning_dialog_msg_tablet">"Η συσκευή σας είναι επιρρεπής σε κινδύνους ασφαλείας. Δεν θα σας ζητηθεί να εγκαταστήσετε ασφαλείς εκδόσεις εφαρμογών αν απενεργοποιήσετε αυτή τη λειτουργία. Απενεργοποιήστε ούτως ή άλλως?"</string>
     <string name="settings_warning_dialog_title">Προσοχή</string>
     <string name="size_byte">B</string>
     <string name="size_giga_byte">GB</string>
@@ -533,13 +530,12 @@
     <string name="uninstalling">Γίνεται απεγκατάσταση…</string>
     <string name="unknown">Άγνωστο</string>
     <string name="unknown_apps_admin_dlg_text">"Ο διαχειριστής σας δεν επιτρέπει την εγκατάσταση εφαρμογών που λαμβάνονται από άγνωστες πηγές."</string>
-    <string name="unknown_apps_dlg_text">Για λόγους ασφαλείας, το τηλέφωνό σας έχει ρυθμιστεί να αποκλείει την εγκατ. εφαρμ. από άγν. πηγές.</string>
     <string name="unknown_installer">Μη αναγνωρισμένα εργαλεία υπολογιστή</string>
     <string name="unlike">Όχι ευχαριστώ</string>
     <string name="untrusted_external_source_always_click">Να επιτρέπεται πάντα</string>
     <string name="untrusted_external_source_title">Να επιτρέπεται στο \"%1$s\" η εγκατάσταση εφαρμογών;</string>
-    <string name="untrusted_external_source_warning">"Για την ασφάλειά σας, στο τηλέφωνό σας δεν επιτρέπεται η εγκατάσταση άγνωστων εφαρμογών από αυτήν την πηγή."</string>
     <string name="untrusted_external_source_warning_summary">"Η συσκευή και τα προσωπικά σας δεδομένα είναι ευάλωτα σε επιθέσεις από εφαρμογές που έχουν εγκατασταθεί από άγνωστες πηγές. Επιτρέποντας την εγκατάσταση εφαρμογών από αυτήν την πηγή, συμφωνείτε να αποδεχτείτε την ευθύνη για οποιαδήποτε ζημιά ή απώλεια δεδομένων που ενδέχεται να προκύψει κατά τη χρήση αυτών των εφαρμογών."</string>
+    <string name="untrusted_external_source_warning_summary_tablet">"Τα προσωπικά σας δεδομένα είναι ευάλωτα σε επιθέσεις από εφαρμογές που έχουν εγκατασταθεί από άγνωστες πηγές. Επιτρέποντας την εγκατάσταση εφαρμογών από αυτήν την πηγή, αποδέχεστε την ευθύνη για οποιαδήποτε ζημιά ή απώλεια δεδομένων που μπορεί να προκύψει κατά τη χρήση αυτών των εφαρμογών."</string>
     <string name="user_is_not_allowed_dlg_text">Δεν επιτρέπεται στον τρέχοντα χρήστη να πραγματοποιήσει αυτήν την απεγκατάσταση.</string>
     <string name="user_is_not_allowed_dlg_title">Δεν επιτρέπεται</string>
     <string name="v7_preference_off">ΑΝΕΝΕΡΓΗ</string>

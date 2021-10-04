@@ -58,6 +58,10 @@
     <string name="evening">Απόγευμα</string>
     <string name="expand_button_title">Προχωρημένα</string>
     <string name="find_device">Εύρεση συσκευής</string>
+    <string name="find_device_capture_done_notification_content">Δείτε τη φωτογραφία στο i.mi.com</string>
+    <string name="find_device_capture_done_notification_title">Βρείτε συσκευή τραβήχτηκε μια φωτογραφία εξ αποστάσεως</string>
+    <string name="find_device_capture_notification_content">Ένα αίτημα να τραβήξετε μια φωτογραφία εξ αποστάσεως με αυτή τη συσκευή υποβλήθηκε από το λογαριασμό σας</string>
+    <string name="find_device_capture_notification_title">Η εύρεση συσκευής είναι έτοιμη να τραβήξει μια φωτογραφία</string>
     <string name="find_device_crash">Η Εύρεση Συσκευής διακόπηκε απροσδόκητα.</string>
     <string name="find_device_error_access_denied">Απορρίφθηκε η πρόσβαση.</string>
     <string name="find_device_error_account_sys_timeout">"Αδυναμία σύνδεσης στο Mi Λογαριασμό. "</string>
@@ -68,7 +72,7 @@
     <string name="find_device_error_server">Σφάλμα διακομιστή (%s).</string>
     <string name="find_device_error_unknown">Άγνωστο σφάλμα (%s).</string>
     <string name="find_device_noise_title">Ειδοποίηση για Εύρεση συσκευής</string>
-    <string name="find_device_notice">Μεταβείτε στο &lt;b&gt;&lt;font color=#0099FF&gt;i.mi.com&lt;/font&gt;&lt;/b&gt; για να εντοπίσετε, κλειδώσετε, ή να επαναφέρετε τη συσκευή σας.</string>
+    <string name="find_device_notice">Πηγαίνετε στο &lt;b&gt;&lt;font color=#0099FF&gt;i.mi.com&lt;/font&gt;&lt;/b&gt; για να εντοπίσετε και να κλειδώσετε τη συσκευή σας, να το επισημάνετε ως χαμένο, να διαγράψετε δεδομένα ή να τραβήξετε φωτογραφίες εξ αποστάσεως.</string>
     <string name="find_device_notice_sms_alert_with_common_charge_hint">"Για να ενημερώσετε την κατάσταση της SIM και βεβαιωθείτε ότι όλες οι υπηρεσίες λειτουργούν κανονικά, ένα &lt;font color=#0097FF&gt;&lt;b&gt;πληρωμένο μήνυμα κειμένου&lt;/b&gt;&lt;/font&gt; θα σταλεί μετά την αλλαγή κάρτας SIM. Θα χρεωθείτε για αυτό το μήνυμα από τον μεταφορέα σας."</string>
     <string name="find_device_notice_sms_alert_with_domestic_charge_hint">"Για να ενημερώσετε την κατάσταση της SIM και βεβαιωθείτε ότι όλες οι υπηρεσίες λειτουργούν κανονικά, ένα &lt;font color=#0097FF&gt;&lt;b&gt;εγχώριο πληρωμένο μήνυμα κειμένου&lt;/b&gt;&lt;/font&gt; θα σταλεί μετά την αλλαγή κάρτας SIM. Θα χρεωθείτε για αυτό το μήνυμα από τον μεταφορέα σας."</string>
     <string name="find_device_notice_sms_alert_with_internal_charge_hint">"Για να ενημερώσετε την κατάσταση της SIM και βεβαιωθείτε ότι όλες οι υπηρεσίες λειτουργούν κανονικά, ένα &lt;font color=#0097FF&gt;&lt;b&gt;διεθνές πληρωμένο μήνυμα κειμένου&lt;/b&gt;&lt;/font&gt; θα σταλεί μετά την αλλαγή κάρτας SIM. Θα χρεωθείτε για αυτό το μήνυμα από τον μεταφορέα σας."</string>
@@ -76,12 +80,6 @@
     <string name="find_device_storage_corrupted">Ο χώρος αποθήκευσης της Εύρεσης συσκευής έχει καταστραφεί. Η συσκευή σας βρίσκεται σε κίνδυνο.</string>
     <string name="find_device_success_title">Εύρεση συσκευής</string>
     <string name="find_device_telephony_fault">Εύρεση συσκευής: Σφάλμα τηλεφωνίας (%s).</string>
-    <string name="fmt_date_long_month_day">MMMM dd</string>
-    <string name="fmt_date_long_year_month_day">MMMM dd, yyyy</string>
-    <string name="fmt_date_numeric_month_day">Μ/δ</string>
-    <string name="fmt_date_numeric_year_month_day">Μ/η/εεεε</string>
-    <string name="fmt_date_short_month_day">dd/MM</string>
-    <string name="fmt_date_short_year_month_day">dd/MM/yyyy</string>
     <string name="friday">Παρασκευή</string>
     <string name="friday_short">Παρ</string>
     <string name="friday_shortest">Παρ</string>

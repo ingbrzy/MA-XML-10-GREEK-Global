@@ -197,12 +197,6 @@
     <string name="float_todo_guide_ok_v2">Ενεργοποίηση</string>
     <string name="float_todo_guide_title">Συντόμευση Αρχικής οθόνης</string>
     <string name="float_todo_guide_title_v2">Συντόμευση χειρονομίας</string>
-    <string name="fmt_date_long_month_day">dd MMMM</string>
-    <string name="fmt_date_long_year_month_day">dd MMMM yyyy</string>
-    <string name="fmt_date_numeric_month_day">dd/MM</string>
-    <string name="fmt_date_numeric_year_month_day">dd/MM/yyyy</string>
-    <string name="fmt_date_short_month_day">dd/MM</string>
-    <string name="fmt_date_short_year_month_day">dd/MM/yyyy</string>
     <string name="folder_exist">Φάκελος με το ίδιο όνομα υπάρχει ήδη</string>
     <string name="folder_operation_delete">Διαγραφή</string>
     <string name="folder_operation_rename">Μετονομασία</string>
@@ -223,6 +217,7 @@
     <string name="hide_arrow_description">Απόκρυψη</string>
     <string name="hint_cannot_view_hidden_note_content">"Αδυναμία προβολής περιεχομένου στις κρυφές σημειώσεις"</string>
     <string name="hint_foler_name">Όνομα</string>
+    <string name="hybrid_provider">Παρέχεται από %1$s</string>
     <string name="image_action_annotate">Προσθήκη περιγραφής εικόνας</string>
     <string name="image_action_browse">Προβολή εικόνας</string>
     <string name="image_action_delete">Διαγραφή εικόνας</string>
@@ -339,6 +334,7 @@
     <string name="new_audio_create_talkback_des">Πατήστε για να δημιουργήσετε γραπτό σημείωμα. Πιέστε και κρατήστε για να δημιουργήσετε φωνητικό σημείωμα. Απελευθερώστε το κουμπί για να διακόψετε την εγγραφή και να δημιουργήσετε το σημείωμα, ή σύρετε πάνω για ακύρωση.</string>
     <string name="new_data_empty_note">Δεν υπάρχουν στοιχεία εδώ ακόμη</string>
     <string name="night">Βράδυ</string>
+    <string name="no_network">"Αδυναμία σύνδεσης στο δίκτυο"</string>
     <string name="noon">Μεσημέρι</string>
     <string name="not_now">Όχι τώρα</string>
     <string name="not_set">Δεν έχει οριστεί</string>
@@ -360,6 +356,7 @@
     <string name="note_mindnote_entrance_hint_newversion">"Ξεκινήστε να πληκτρολογείτε "</string>
     <string name="note_mindnote_entrance_icon_text">Δημιουργήστε έναν χάρτη ιδεών</string>
     <string name="note_mindnote_entrance_icon_text_newversion">Δημιουργήστε έναν νοητικό χάρτη</string>
+    <string name="note_not_text_stub">Χωρίς κείμενο</string>
     <string name="note_sort_way">Επιλέξτε πως θέλετε να ταξινομήσετε τις σημειώσεις σας</string>
     <string name="notealert_enter">Άνοιγμα σημείωσης</string>
     <string name="notealert_ok">Απόρριψη</string>
@@ -546,6 +543,7 @@
     <string name="solar_term_white_dews">Dews</string>
     <string name="solar_term_winter_begins">Ο χειμώνας αρχίζει</string>
     <string name="solar_term_winter_solstice">Χειμερινό ηλιοστάσιο</string>
+    <string name="splash_note">Stylus</string>
     <string name="sunday">Κυριακή</string>
     <string name="sunday_short">Κυρ</string>
     <string name="sunday_shortest">Κυρ</string>
@@ -631,6 +629,7 @@
     <string name="toast_notes_delete_success">Επιτυχής διαγραφή</string>
     <string name="toast_notes_hidden_edit">Επιτυχής απόκρυψη σημειώματος. Σύρετε προς τα κάτω για να δείτε κρυμμένες σημειώσεις.</string>
     <string name="toast_notes_hidden_home">Επιτυχής απόκρυψη σημειώματος. Σύρετε προς τα κάτω για να δείτε κρυμμένες σημειώσεις.</string>
+    <string name="toast_notes_hidden_pad">Αυτή η σημείωση είναι κρυμμένη τώρα. Τραβήξτε προς τα κάτω το πλευρικό πλαίσιο για να δείτε κρυφές σημειώσεις.</string>
     <string name="toast_notes_unhidden">Επιτυχής επανεμφάνιση</string>
     <string name="toast_pic_is_not_really">Αποθήκευση εικόνας…</string>
     <string name="toast_reach_text_limit_attachment">"Αδυναμία προσθήκης νέων συνημμένων λόγω τεράστιου μεγέθους σημείωσης"</string>
@@ -732,11 +731,17 @@
     <string name="v7_preference_off">ΑΝΕΝΕΡΓΗ</string>
     <string name="v7_preference_on">ΕΝΕΡΓΗ</string>
     <string name="view_all_notes">Εμφάνιση όλων</string>
+    <string name="web_sso_login_fail">Πρέπει να συνδεθείτε ξανά</string>
+    <string name="web_sso_login_message">Γίνεται είσοδος σε…</string>
+    <string name="webview_reload">Προσπαθήστε ξανά</string>
     <string name="wednesday">Τετάρτη</string>
     <string name="wednesday_short">Τετ</string>
     <string name="wednesday_shortest">Τετ</string>
     <string name="widget_content_loading">Περιμένετε μια στιγμή…</string>
+    <string name="widget_create_select_size">Επιλέξτε μέγεθος</string>
+    <string name="widget_empty_content">Πατήστε για να επιλέξετε μια σημείωση</string>
     <string name="widget_havenot_content">Πατήστε για δημιουργία σημείωσης. Πατήστε παρατεταμένα το widget για διόρθωση μεγέθους.</string>
+    <string name="widget_note_list_page_title">Επιλογή σημείωσης</string>
     <string name="xiaomi_market_sdk_update_dialog_cancel">Όχι τώρα</string>
     <string name="xiaomi_market_sdk_update_dialog_ok">Ενημέρωση</string>
     <string name="xiaomi_market_sdk_update_dialog_title">Υπάρχει διαθέσιμη ενημέρωση</string>

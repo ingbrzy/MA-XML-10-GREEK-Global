@@ -558,11 +558,12 @@
     <string name="document_mode_use_hint_text_title">Σάρωση εγγράφων</string>
     <string name="document_origin">Πρωτότυπα</string>
     <string name="document_strengthen">Ενισχυμένο</string>
-    <string name="dolly_zoom_capture_tip1">Τοποθετήστε το αντικείμενό σας στο πλαίσιο και κρατήστε τη συσκευή τουλάχιστον %d μέτρο μακριά</string>
-    <string name="dolly_zoom_capture_tip2">Απομακρύνετε σταθερά τη συσκευή από το θέμα σας</string>
+    <string name="dolly_zoom_capture_tip1">Τοποθετήστε το θέμα σας στο πλαίσιο</string>
+    <string name="dolly_zoom_capture_tip2">Κρατήστε το θέμα σας στο κέντρο και απομακρύνετε τη συσκευή σταθερά</string>
     <string name="dolly_zoom_capture_tip3">Χαμένο κομμάτι του θέματος. Ξανά από την αρχή.</string>
     <string name="dolly_zoom_capture_tip4">Μετακινήσατε τη συσκευή πολύ μακριά. Ξανά από την αρχή.</string>
     <string name="dolly_zoom_capture_tip5">"Αδυναμία αποθήκευσης βίντεο"</string>
+    <string name="dolly_zoom_capture_tip6">Μετακινήστε το θέμα σας στο κέντρο του πλαισίου</string>
     <string name="dolly_zoom_guide_tip1">"Βεβαιωθείτε ότι υπάρχει αρκετός χώρος μεταξύ του θέματος και του φόντου."</string>
     <string name="dolly_zoom_guide_tip10">Και περισσότερα!</string>
     <string name="dolly_zoom_guide_tip2">Προσπαθήστε να αποφύγετε μεγάλες περιοχές συμπαγούς χρώματος.</string>
@@ -589,7 +590,7 @@
     <string name="dual_video_record_standalone">Διαχωρισμένο</string>
     <string name="dual_video_user_guide_main_content">Για τη δημιουργία βίντεο από πολλαπλές κάμερες στη συσκευής σας, επιλέξτε δύο κάμερες στη συσκευή σας και βιντεοσκοπήστε ταυτόχρονα. Οι εγγραφές μπορούν να αποθηκευτούν ξεχωριστά ή να συνδυαστούν σε διαιρεμένη προβολή ή ως βίντεο εικόνας σε εικόνα.</string>
     <string name="dual_video_user_guide_main_content_new">"Τα βίντεο Multicam γυρίζονται με πολλαπλές κάμερες ταυτόχρονα.
-Η εγγραφή διπλού τηλεφώνου σας επιτρέπει επίσης να συνδεθείτε με την άλλη συσκευή και να δημιουργήσετε ένα βίντεο πολύδυμων επιλέγοντας \"Συνδυασμένο\"."</string>
+Η εγγραφή διπλού τηλεφώνου σας επιτρέπει επίσης να συνδεθείτε με την άλλη κοντινή συσκευή και να δημιουργήσετε ένα βίντεο πολλαπλών ετικετών επιλέγοντας \"Συνδυασμένο\"."</string>
     <string name="dual_video_user_guide_main_title">Βίντεο από πολλαπλές κάμερες</string>
     <string name="dual_video_user_guide_merge_content">Βιντεοσκοπήστε με δύο κάμερες και συνδυάστε τις εγγραφές σε διαιρεμένη προβολή ή σε βίντεο εικόνας σε εικόνα.</string>
     <string name="dual_video_user_guide_merge_content_new">Δύο ηχογραφήσεις μπορούν να συνδυαστούν σε split view ή σε picture-in-picture video.</string>
@@ -673,12 +674,6 @@
     <string name="film_video_d">Νυχτερινό time lapse</string>
     <string name="film_video_e">Παράλληλος κόσμος</string>
     <string name="film_video_tip">Χρησιμοποιήστε τρίποδο</string>
-    <string name="fmt_date_long_month_day">dd MMMM</string>
-    <string name="fmt_date_long_year_month_day">dd MMMM yyyy</string>
-    <string name="fmt_date_numeric_month_day">d/M</string>
-    <string name="fmt_date_numeric_year_month_day">d/M/yyyy</string>
-    <string name="fmt_date_short_month_day">dd/MM</string>
-    <string name="fmt_date_short_year_month_day">dd/ΜΜ/yyyy</string>
     <string name="fps960_toast">Η λήψη αργής κίνησης θα ξεκινήσει στο τελευταίο τέταρτο της εγγραφής</string>
     <string name="fragment_tab_name_bokeh">Θαμπό φόντο</string>
     <string name="friday">Παρασκευή</string>
@@ -713,6 +708,10 @@
 Εκτυπώστε το αντίγραφο ασύρματα σε χαρτί A4."</string>
     <string name="id_card_mode_use_hint_text_title">ID Σαρωτή</string>
     <string name="install_confirmed">Εγκατάσταση</string>
+    <string name="invisible_mode_dialog_cancel">Ακύρωση</string>
+    <string name="invisible_mode_dialog_summary">"Δεν είναι δυνατή η χρήση της φωτογραφικής μηχανής. Απενεργοποιήστε τη λειτουργία ανώνυμης περιήγησης στις ρυθμίσεις για να μπορέσετε να χρησιμοποιήσετε την κάμερα."</string>
+    <string name="invisible_mode_dialog_title">"Είσαι ανώνυμος"</string>
+    <string name="invisible_mode_dialog_to_close">Ρυθμίσεις</string>
     <string name="kaleidoscope_fragment_tab_name">Καλειδοσκόπιο</string>
     <string name="lens_dirty_detected_content">"Φαίνεται πως ο φακός κάμερας σας είναι βρόμικος.
 Καθαρίστε τον φακό για καλύτερο εφέ."</string>
@@ -1519,7 +1518,7 @@
     <string name="pref_watermark_title">Υδατογράφημα</string>
     <string name="pref_wind_denoise_title">Φίλτρο αέρα</string>
     <string name="preference_copied">Το \"%1$s\" αντιγράφηκε στο πρόχειρο.</string>
-    <string name="prek_b_j_o">Αναδημιουργία στερεοφωνικού εφέ surround</string>
+    <string name="prek_b_j_o">Ενεργοποιήστε για να αναπαράγετε το στερεοφωνικό εφέ surround . Εναλλαγή σε λειτουργία τοπίου ή συνδέστε τα ακουστικά για καλύτερο αποτέλεσμα.</string>
     <string name="prek_b_j_p">Μείωση της επίδρασης του ανέμου στην ηχογράφηση</string>
     <string name="prep_video_ai_audio_new_desc_tip">Οι ήχοι από το θέμα στο επίκεντρο ενισχύονται</string>
     <string name="prep_video_ai_audio_new_desc_tip_alone">Ήχοι από το θέμα στην εστίαση ενισχύονται σε λειτουργία τοπίου</string>
@@ -1543,7 +1542,7 @@
     <string name="remote_online_exit_connecting">Αποσύνδεση και έξοδος από την εγγραφή διπλού τηλεφώνου τώρα?</string>
     <string name="remote_online_guide">Ενεργοποιήστε την εγγραφή διπλής τηλεφωνίας στην άλλη συσκευή χρησιμοποιώντας την εναλλαγή του Κέντρου ελέγχου.</string>
     <string name="remote_online_interrupted">Αποσυνδέθηκε. Συνδεθείτε ξανά για να συνεχίσετε.</string>
-    <string name="remote_online_introduction_i">"Η εγγραφή διπλού τηλεφώνου επιτρέπει τον συνδυασμό ροών από δύο διαφορετικές συσκευές σε ένα βίντεο. Θα μπορείτε να κάνετε προεπισκόπηση και των δύο ροών και του τελικού βίντεο σε αυτήν τη συσκευή. Σημειώστε ότι ο ήχος θα καταγράφεται μόνο από αυτή τη συσκευή."</string>
+    <string name="remote_online_introduction_i">"Η εγγραφή διπλού τηλεφώνου επιτρέπει τον συνδυασμό ροών από δύο διαφορετικές συσκευές που βρίσκονται κοντά η μία στην άλλη σε ένα βίντεο. Θα μπορείτε να κάνετε προεπισκόπηση και των δύο ροών και του τελικού βίντεο σε αυτήν τη συσκευή. Σημειώστε ότι ο ήχος θα καταγράφεται μόνο από αυτή τη συσκευή."</string>
     <string name="remote_online_introduction_ii">Για να λειτουργήσει αυτό το χαρακτηριστικό, η άλλη συσκευή Mi ή Redmi πρέπει να υποστηρίζει διπλή εγγραφή τηλεφώνου. Μπορεί να ενεργοποιηθεί χρησιμοποιώντας την εναλλαγή του Κέντρου ελέγχου.</string>
     <string name="remote_online_permission">"Αλλάξτε την άδεια τοποθεσίας της Κάμερας για \"Να επιτρέπεται μόνο κατά τη χρήση της εφαρμογής\" για να μπορείτε να χρησιμοποιείτε διπλή εγγραφή τηλεφώνου."</string>
     <string name="remote_online_searching">Αναζήτηση συσκευών…</string>
@@ -1710,6 +1709,10 @@
     <string name="timbre_lady">Κυρία</string>
     <string name="timbre_normal">Πρωτότυπη</string>
     <string name="timbre_robot">Ρομπότ</string>
+    <string name="time_freeze_action_end_tip">Πατήστε το κουμπί για να αποδεσμεύσετε το φόντο</string>
+    <string name="time_freeze_action_start_tip">Πατήστε το κουμπί για να παγώσετε το φόντο</string>
+    <string name="time_freeze_adjust_button_title">Προσαρμογή</string>
+    <string name="time_freeze_clipbox_tint">Πάγωμα</string>
     <string name="time_lapse_error">"Αδυναμία χρήσης αυτής της ανάλυσης για εγγραφή με χρονικό διάστημα"</string>
     <string name="time_picker_dialog_title">Ορισμός ώρας</string>
     <string name="time_stamp_date_format">dd/MM/yyyy</string>

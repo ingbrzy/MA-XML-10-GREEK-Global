@@ -176,41 +176,13 @@
         <item quantity="other">%d δημοφιλή τραγούδια</item>
         <item quantity="one">%d δημοφιλές τραγούδι</item>
     </plurals>
-    <plurals name="transfer_prompt">
-        <item quantity="other">Αναπαραγωγή βίντεο σε %1$d δευτερόλεπτα</item>
-        <item quantity="one">Αναπαραγωγή βίντεο σε %1$d δευτερόλεπτο</item>
-    </plurals>
     <plurals name="v5_edit_mode_title">
-        <item quantity="other">%1$d επιλέχθηκαν</item>
-        <item quantity="one">%1$d επιλέχθηκε</item>
+        <item quantity="other">Επιλεγμένα %1$d στοιχεία</item>
+        <item quantity="one">Επιλεγμένο %1$d αντικείμενο</item>
     </plurals>
     <plurals name="video_collection_reminder_view">
         <item quantity="other">"Δεν έχετε δει %d αγαπημένα βίντεο για μεγάλο διάστημα."</item>
         <item quantity="one">"Δεν έχετε δει %d αγαπημένο βίντεο για μεγάλο διάστημα."</item>
-    </plurals>
-    <plurals name="video_download_clear_info">
-        <item quantity="other">%1$d βίντεο αφαιρέθηκαν επιτυχώς.</item>
-        <item quantity="one">%1$d βίντεο αφαιρέθηκε επιτυχώς.</item>
-    </plurals>
-    <plurals name="video_download_clear_prompt">
-        <item quantity="other">Εκκαθάριση %1$d βίντεων;</item>
-        <item quantity="one">Εκκαθάριση %1$d βίντεου;</item>
-    </plurals>
-    <plurals name="video_history_clear_info">
-        <item quantity="other">%1$d αντικείμενα αφαιρέθηκαν από ιστορικό.</item>
-        <item quantity="one">%1$d αντικείμενο αφαιρέθηκε από ιστορικό.</item>
-    </plurals>
-    <plurals name="video_history_clear_prompt">
-        <item quantity="other">Διαγραφή %1$d αντικειμένων από ιστορικό;</item>
-        <item quantity="one">Διαγραφή %1$d αντικειμένου από ιστορικό;</item>
-    </plurals>
-    <plurals name="video_push_multi_message">
-        <item quantity="other">%1$d διαθέσιμες ενημερώσεις.</item>
-        <item quantity="one">%1$d διαθέσιμη ενημέρωση.</item>
-    </plurals>
-    <plurals name="video_subtitle_last_message">
-        <item quantity="other">%d λεπτά απομένουν</item>
-        <item quantity="one">%d λεπτό απομένει</item>
     </plurals>
     <plurals name="videos_updated_amount">
         <item quantity="other">Ρίξτε μια ματιά στα %1$d νέα βίντεο</item>

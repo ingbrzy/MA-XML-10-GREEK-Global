@@ -160,6 +160,7 @@
     <string name="document_rectify_tip_msg">Γίνεται προσαρμογή…</string>
     <string name="document_region">Προσαρμογή</string>
     <string name="document_rename">Μετονομασία</string>
+    <string name="document_rename_error">Rename Error</string>
     <string name="document_rnext_step">Επόμενο</string>
     <string name="document_save_succeed_tip">Το έγγραφο αποθηκεύτηκε σε %1$s</string>
     <string name="document_save_text">Αποθήκευση</string>
@@ -207,12 +208,6 @@
     <string name="flash_close">Κλείσιμο</string>
     <string name="flash_open">ανοιχτό</string>
     <string name="flight_mode_connecting_to_wifi">Χειροκίνητη ενεργοποίηση του Wi-Fi όταν η Λειτουργία πτήσης είναι ενεργή</string>
-    <string name="fmt_date_long_month_day">dd MMMM</string>
-    <string name="fmt_date_long_year_month_day">dd MMMM yyyy</string>
-    <string name="fmt_date_numeric_month_day">d/Μ</string>
-    <string name="fmt_date_numeric_year_month_day">d/Μ/yyyy</string>
-    <string name="fmt_date_short_month_day">dd/MM</string>
-    <string name="fmt_date_short_year_month_day">dd/ΜΜ/yyyy</string>
     <string name="food_identification_fail_tips">Σάρωση φρούτων, λαχανικών και άλλων τροφίμων. Αυτό το χαρακτηριστικό λειτουργεί επίσης με εικόνες.</string>
     <string name="food_identification_tip_msg">Αναγνώριση τροφίμων…</string>
     <string name="food_make_complaints_hint">Εισαγωγή σχολίου εδώ</string>
@@ -431,6 +426,7 @@
     <string name="preference_copied">Το \"%1$s\" αντιγράφηκε στο πρόχειρο.</string>
     <string name="preparing_sd">Γίνεται προετοιμασία εσωτερικής μνήμης…</string>
     <string name="previous">Πίσω</string>
+    <string name="privacy_policy">Πολιτική Απορρήτου</string>
     <string name="processing">Επεξεργασία…</string>
     <string name="prompt">Προσοχή</string>
     <string name="qr_code_details">Λεπτομέρειες QR κωδικού:</string>

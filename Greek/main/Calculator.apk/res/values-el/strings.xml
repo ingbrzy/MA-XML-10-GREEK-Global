@@ -145,8 +145,6 @@
     <string name="extra_deduction_title">Πρόσθετες μειώσεις</string>
     <string name="factorialDesc">παραγοντικό</string>
     <string name="float_window_guide_text">Πατήστε εδώ για την ελαχιστοποίηση της Αριθμομηχανής</string>
-    <string name="fmt_date_numeric_month_day">d/M</string>
-    <string name="fmt_date_numeric_year_month_day">d/M/yyyy</string>
     <string name="fund_loan">Δάνειο χρηματοδότησης</string>
     <string name="further_education">Περαιτέρω εκπαίδευση</string>
     <string name="global_network_confirm_content">Ο μετατροπέας συναλλάγματος απαιτεί σύνδεση στο Ίντερνετ για να λειτουργήσει κανονικά.</string>
@@ -230,8 +228,10 @@
     <string name="label_from_date">Από</string>
     <string name="label_history">Ιστορικό</string>
     <string name="label_interest">Επιτόκιο (ποσοστό)</string>
+    <string name="label_investment_disclaimer">Χρησιμοποιούμε μια περίοδο τριών μηνών για επαναλαμβανόμενους υπολογισμούς</string>
     <string name="label_investment_duration">Διάρκεια</string>
     <string name="label_loan_tenure">Διάρκεια δανείου</string>
+    <string name="label_monthly_investment">Μηνιαία επένδυση</string>
     <string name="label_months">Μήνες</string>
     <string name="label_no_history">Δεν υπάρχουν στοιχεία εδώ ακόμη</string>
     <string name="label_powered_by">Υποστηρίζεται από την Mi Αριθμομηχανή</string>
@@ -501,7 +501,6 @@
     <string name="unit_data_display_currency_btn">Νγκούλτρουμ του Μπουτάν</string>
     <string name="unit_data_display_currency_bwp">Πούλα της Μποτσουάνα</string>
     <string name="unit_data_display_currency_byn">Ρούβλι Λευκορωσίας</string>
-    <string name="unit_data_display_currency_byr">@string/unit_data_display_currency_byn</string>
     <string name="unit_data_display_currency_cad">Καναδικό Δολάριο</string>
     <string name="unit_data_display_currency_cdf">Φράγκο του Κονγκό</string>
     <string name="unit_data_display_currency_chf">Ελβετικό Φράγκο</string>
@@ -838,11 +837,12 @@
     <string name="word_figure_unit_shi">拾</string>
     <string name="word_figure_yuan">元</string>
     <string name="word_figure_zheng">整</string>
-    <string name="xiaomi_bytes_unit">%1$sB</string>
+    <string name="xiaomi_calculator_delete_description">"Ο υπολογιστής είναι μια εφαρμογή συστήματος. Δεν θα μπορείτε να χρησιμοποιήσετε πολλαπλούς μετατροπείς και πρόσθετες λειτουργίες μετά την απεγκατάσταση της εφαρμογής."</string>
+    <string name="xiaomi_calculator_delete_title">Απεγκατάσταση Αριθμομηχανή?</string>
+    <string name="xiaomi_calculator_remove_icon_description">"Ο υπολογιστής είναι μια εφαρμογή συστήματος. Δεν θα μπορείτε να χρησιμοποιήσετε πολλαπλούς μετατροπείς και πρόσθετες λειτουργίες αφού αφαιρέσετε τη συντόμευση αρχικής οθόνης."</string>
+    <string name="xiaomi_calculator_remove_icon_title">Αφαίρεση \"Αριθμομηχανή\" από την αρχική οθόνη?</string>
     <string name="xiaomi_connect_download_manager_fail">"Δεν ήταν δυνατή η σύνδεση με τις Λήψεις. Ελέγξτε αν αυτή η εφαρμογή διαθέτει όλα τα απαιτούμενα δικαιώματα στις Ρυθμίσεις &gt; Εγκατεστημένες εφαρμογές."</string>
     <string name="xiaomi_external_storage_unavailable">"Μη διαθέσιμος χώρος αποθήκευσης. Ελέγξτε την κάρτα SD σας."</string>
-    <string name="xiaomi_kilobytes_unit">%1$sKB</string>
-    <string name="xiaomi_megabytes_unit">%1$sMB</string>
     <string name="xiaomi_update_dialog_message">"Εισαγωγή έκδοσης %1$s
 Μέγεθος: %2$s"</string>
     <string name="xiaomi_update_dialog_message_diff">"Εισαγωγή έκδοσης %1$s

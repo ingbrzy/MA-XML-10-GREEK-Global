@@ -107,12 +107,6 @@
     <string name="file_sending">Γίνεται μεταφορά αρχείων…</string>
     <string name="file_transfer_progress">Πρόοδος: %1$d%%</string>
     <string name="file_transfer_progress_title">Πρόοδος</string>
-    <string name="fmt_date_long_month_day">MMMM dd</string>
-    <string name="fmt_date_long_year_month_day">MMMM dd, yyyy</string>
-    <string name="fmt_date_numeric_month_day">Μ/δ</string>
-    <string name="fmt_date_numeric_year_month_day">Μ/η/εεεε</string>
-    <string name="fmt_date_short_month_day">dd/MM</string>
-    <string name="fmt_date_short_year_month_day">dd/MM/yyyy</string>
     <string name="friday">Παρασκευή</string>
     <string name="friday_short">Παρ</string>
     <string name="friday_shortest">Παρ</string>
@@ -229,6 +223,7 @@
     <string name="retry_task">Αποστολή ξανά</string>
     <string name="rog">ROG</string>
     <string name="rog_phone">ROG</string>
+    <string name="samsung_phone">Samsung phone</string>
     <string name="saturday">Σάββατο</string>
     <string name="saturday_short">Σαβ</string>
     <string name="saturday_shortest">Σαβ</string>

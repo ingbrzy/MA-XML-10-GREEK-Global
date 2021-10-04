@@ -163,6 +163,7 @@
     <string name="open_close_tip_content">Για να κλείσετε το αναδυόμενο παράθυρο, πατήστε και κρατήστε την μπάρα ενέργειας και μετά σύρετε προς τα πάνω</string>
     <string name="oppo">OPPO</string>
     <string name="oppo_phone">OPPO</string>
+    <string name="other_ime">Άλλα πληκτρολόγια</string>
     <string name="package_delete_confirm_step_1">Απεγκατάσταση %s;</string>
     <string name="package_delete_confirm_step_2">Εάν απεγκαταστήσετε αυτήν την εφαρμογή μπορεί να προκαλέσει αστάθεια του συστήματος.</string>
     <string name="package_delete_confirm_step_3">Δεν θα μπορείτε να ανοίξετε αυτήν την εφαρμογή αφού την απεγκαταστήσετε.</string>

@@ -208,6 +208,7 @@ to add cards"</string>
     <string name="collapse">Hide</string>
     <string name="collect_diagnosis_log">Συλλογή αρχείου καταγραφής διάγνωσης</string>
     <string name="complete_preference_basic_info">Complete your profile</string>
+    <string name="complete_progress">Πρόοδος</string>
     <string name="completed">"Completed "</string>
     <string name="completed_stand">Σηκωθήκατε όρθιος</string>
     <string name="confirm_opening">Ενεργοποίηση</string>
@@ -483,12 +484,6 @@ If it's still difficult for you to fall asleep after 30 minutes in bed, reduce t
     <string name="finish_stand">Ναι</string>
     <string name="finish_stand2">Αντιστρέφονται</string>
     <string name="finished_rate">Completed %1$d%%</string>
-    <string name="fmt_date_long_month_day">dd MMMM</string>
-    <string name="fmt_date_long_year_month_day">dd MMMM yyyy</string>
-    <string name="fmt_date_numeric_month_day">dd/MM</string>
-    <string name="fmt_date_numeric_year_month_day">dd/MM/yyyy</string>
-    <string name="fmt_date_short_month_day">dd/MM</string>
-    <string name="fmt_date_short_year_month_day">dd/MM/yyyy</string>
     <string name="for_diagnosis_usage_only">Χρησιμοποιήστε αυτές τις πληροφορίες για διάγνωση μόνο.</string>
     <string name="free_training">Freestyle workout</string>
     <string name="freestyle">Freestyle</string>
@@ -1590,6 +1585,7 @@ If this problem occurs frequently, check your device for scheduled shutdown task
     <string name="tb_stand_day_ring">Σταματήστε τα διαλείμματα σήμερα: %1$s. Πρέπει να κάνετε τουλάχιστον 12 σήμερα.</string>
     <string name="tb_stand_wm_column_chart">Σταματήστε τα διαλείμματα μεταξύ %1$s και %2$s. Σαρώστε οριζόντια για εναλλαγή μεταξύ των χρονικών περιόδων. Πατήστε για προβολή λεπτομερειών.</string>
     <string name="tb_stand_wm_column_click">%1$s. Σταματήστε τα διαλείμματα: %2$d. %3$s.</string>
+    <string name="tb_step_widget" formatted="false">Σήμερα. %1$s. Πρόοδος: %2$d%</string>
     <string name="tb_unmultiple_selecte_all">Αποεπιλογή όλων</string>
     <string name="tb_user_account_signed">Mi Λογαριασμός: %1$s.</string>
     <string name="tb_user_account_unsigned">Πατήστε για να συνδεθείτε στο λογαριασμό Mi</string>
@@ -1729,6 +1725,7 @@ If this problem occurs frequently, check your device for scheduled shutdown task
     <string name="v7_preference_off">ΑΝΕΝΕΡΓΗ</string>
     <string name="v7_preference_on">ΕΝΕΡΓΗ</string>
     <string name="value_error_correct">Επεξεργασία εγγραφής</string>
+    <string name="view_step_and_progress">Δείτε τον τρέχοντα αριθμό βημάτων</string>
     <string name="visceral_fat">Λίπος σπλαχνικού</string>
     <string name="visceral_fat_descripe_content">Το σπλαχνικό λίπος είναι απαραίτητο για τη σταθεροποίηση και την προστασία των εσωτερικών οργάνων. Ωστόσο, το υψηλό σπλαχνικό λίπος αυξάνει τον κίνδυνο καρδιαγγειακών και μεταβολικών παθήσεων.</string>
     <string name="voice_remind">"Αυξήσαμε την ένταση, ώστε να ακούτε καλύτερα τις οδηγίες."</string>

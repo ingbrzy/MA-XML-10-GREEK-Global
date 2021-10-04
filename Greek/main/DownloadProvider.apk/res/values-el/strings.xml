@@ -31,13 +31,14 @@
     <string name="download_apk_desktop_pending">Εκκρεμεί</string>
     <string name="download_apk_desktop_running">Λήψη</string>
     <string name="download_error">Αδυναμία λήψης</string>
+    <string name="download_no_application">Δεν υπάρχουν εφαρμογές που να υποστηρίζουν αυτή τη μορφή</string>
     <string name="download_no_application_title">"Αδυναμία ανοίγματος αρχείου"</string>
     <string name="download_queued">Προστέθηκε στην ουρά λήψης</string>
     <string name="download_remaining">%s απομένουν</string>
     <string name="download_running">Γίνεται λήψη</string>
     <string name="download_unknown_title">&lt;Χωρίς τίτλο&gt;</string>
     <string name="enter_garbage_clean">Καθαρίστε τον εσωτερικό χώρο αποθήκευσης.</string>
-    <string name="insufficient_space">"Δεν υπάρχει αρκετός χώρος στην εσωτερική αποθήκευση της συσκευής σας"</string>
+    <string name="insufficient_space">Δεν υπάρχει αρκετός χώρος αποθήκευσης</string>
     <string name="mobile_recommended_title">Χρήση δεδομένων κινητού</string>
     <string name="notif_text_engine_off">Ο επιταχυντής Xunlei είναι απενεργοποιημένος.</string>
     <string name="notif_text_engine_on">Επιτάχυνση…</string>

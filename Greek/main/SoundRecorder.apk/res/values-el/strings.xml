@@ -68,6 +68,7 @@
     <string name="delete">Διαγραφή</string>
     <string name="delete_cloud_data_at_same_time">Διαγραφή και από το cloud</string>
     <string name="delete_dialog_message">Διαγραφή εγγραφής;</string>
+    <string name="delete_recorder">Διαγραφή</string>
     <string name="deleting_message">Γίνεται διαγραφή…</string>
     <string name="details">Λεπτομέρειες</string>
     <string name="dialog_content_storage_full">"Η εγγραφή διακόπηκε επειδή δεν υπάρχει αρκετός χώρος αποθήκευσης στην συσκευή σας."</string>
@@ -109,12 +110,6 @@
     <string name="expand_button_title">Σύνθετες</string>
     <string name="export_to_note">Εξαγωγή</string>
     <string name="fm_record">Ραδιόφωνο</string>
-    <string name="fmt_date_long_month_day">dd MMMM</string>
-    <string name="fmt_date_long_year_month_day">dd MMMM yyyy</string>
-    <string name="fmt_date_numeric_month_day">dd/MM</string>
-    <string name="fmt_date_numeric_year_month_day">dd/MM/yyyy</string>
-    <string name="fmt_date_short_month_day">dd/MM</string>
-    <string name="fmt_date_short_year_month_day">dd/MM/yyyy</string>
     <string name="friday">Παρασκευή</string>
     <string name="friday_short">Παρ</string>
     <string name="friday_shortest">Παρ</string>
@@ -136,6 +131,7 @@
     <string name="loading_order_list_empty">Δεν υπάρχουν παραγγελίες εδώ.</string>
     <string name="low_battery_error">"Απομένει λιγότερο από 5% της μπαταρίας. Σταματήστε και αποθηκεύστε την ηχογράφησή σας για να βεβαιωθείτε ότι δεν θα χαθεί."</string>
     <string name="low_battery_error_confirm">ΟΚ</string>
+    <string name="low_battery_error_for_pad">"Λιγότερο από %s της μπαταρίας που απομένει. Σταματήστε και αποθηκεύστε την εγγραφή σας για να βεβαιωθείτε ότι δεν έχει χαθεί."</string>
     <string name="low_battery_error_title">Χαμηλή μπαταρία</string>
     <string name="lyric_item_point_count">%1$d έως %2$d</string>
     <string name="mark_point_list_title">Μαρκαρίσματα</string>
@@ -229,6 +225,7 @@
     <string name="notification_playback">Γίνεται αναπαραγωγή…</string>
     <string name="notification_recording">Γίνεται καταγραφή…</string>
     <string name="notification_recording_ticker">Τηλέφωνο σε σίγαση</string>
+    <string name="notification_recording_ticker_for_pad">Η συσκευή σας καταγράφει ήχο σε αθόρυβη λειτουργία τώρα. Χρησιμοποιήστε τα κουμπιά έντασης για να απενεργοποιήσετε την αθόρυβη λειτουργία.</string>
     <string name="notification_save_as_complete">Επιτυχής αποθήκευση</string>
     <string name="notification_stopped">Η εγγραφή σταμάτησε</string>
     <string name="notification_title_all_paused">Έγινε παύση λήψης</string>
@@ -266,6 +263,7 @@
     <string name="pay_error_cancel">Η πληρωμή ακυρώθηκε</string>
     <string name="pay_error_null">"Δεν ήταν δυνατή η ολοκλήρωση της πληρωμής. Ελέγξτε το λογαριασμό σας."</string>
     <string name="pay_error_unknown">Άγνωστο σφάλμα</string>
+    <string name="play_speed">%1$.1fταχύτητα X</string>
     <string name="playback_delete_records">Διαγραφή ηχογράφησης</string>
     <string name="playback_share_records">Κοινοποίηση ηχογράφησης</string>
     <string name="pm">ΜΜ</string>

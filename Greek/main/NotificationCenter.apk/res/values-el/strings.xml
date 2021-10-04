@@ -65,7 +65,6 @@
     <string name="evening">Απόγευμα</string>
     <string name="expand_button_title">Σύνθετες</string>
     <string name="expand_top_notification">Ανάπτυξη ειδοποίησης στην κορυφή</string>
-    <string name="expandable_under_keyguard">Άνοιγμα πίνακα ειδοποιήσεων στην Οθόνη κλειδώματος</string>
     <string name="exposed_dropdown_menu_content_description">Εμφάνιση αναπτυσσόμενου μενού</string>
     <string name="feedback">Σχόλια</string>
     <string name="feedback_tip_cancel">"Τα δεδομένα ειδοποιήσεων δεν θα συλλέγονται."</string>
@@ -75,12 +74,6 @@
     <string name="float_notification_snooze_summary">Σύρετε προς τα πάνω σε μια αιωρούμενη ειδοποίηση για να κρύψετε προσωρινά τα επερχόμενα</string>
     <string name="float_notifications">Αναδυόμενες ειδοποιήσεις</string>
     <string name="float_notifications_short">Αναδυόμενη</string>
-    <string name="fmt_date_long_month_day">dd MMMM</string>
-    <string name="fmt_date_long_year_month_day">dd MMMM yyyy</string>
-    <string name="fmt_date_numeric_month_day">d/Μ</string>
-    <string name="fmt_date_numeric_year_month_day">d/Μ/yyyy</string>
-    <string name="fmt_date_short_month_day">dd/MM</string>
-    <string name="fmt_date_short_year_month_day">dd/MM/yyyy</string>
     <string name="fold_importance_default">Προτεινόμενα</string>
     <string name="fold_importance_important">Σημαντικό</string>
     <string name="fold_importance_unimportant">Ασήμαντο</string>
