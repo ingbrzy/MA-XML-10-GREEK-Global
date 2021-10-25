@@ -93,15 +93,15 @@
         <item>, ενεργή (τηλέφωνο)</item>
     </string-array>
     <string-array name="bluetooth_avrcp_version_values">
-        <item>avrcp15</item>
-        <item>avrcp13</item>
         <item>avrcp14</item>
+        <item>avrcp13</item>
+        <item>avrcp15</item>
         <item>avrcp16</item>
     </string-array>
     <string-array name="bluetooth_avrcp_versions">
-        <item>AVRCP 1.5 (Προεπιλογή)</item>
+        <item>AVRCP 1.4 (Προεπιλογή)</item>
         <item>AVRCP 1.3</item>
-        <item>AVRCP 1.4</item>
+        <item>AVRCP 1.5</item>
         <item>AVRCP 1.6</item>
     </string-array>
     <string-array name="bluetooth_map_version_values">
@@ -176,7 +176,7 @@
         <item>256 K ανά πρ. μν. αρχ. καταγρ.</item>
         <item>1 Μ ανά προσ. μν. αρχ. καταγρ.</item>
         <item>4 M ανά προσ. μν. αρχ. καταγρ.</item>
-        <item>8 M ανά προσωρινή μνήμη αρχείου καταγραφής</item>
+        <item>16 M ανά πρ. μν. αρχ. καταγρ.</item>
     </string-array>
     <string-array name="select_logd_size_titles">
         <item>Ανενεργό</item>
@@ -184,7 +184,7 @@
         <item>256 K</item>
         <item>1 M</item>
         <item>4 M</item>
-        <item>8 M</item>
+        <item>16 M</item>
     </string-array>
     <string-array name="select_logpersist_summaries">
         <item>Ανενεργό</item>
@@ -262,20 +262,6 @@
         <item>Αποσυνδέθηκε</item>
         <item>Ανεπιτυχής</item>
         <item>Αποκλεισμένο</item>
-        <item>Προσωρινή αποφυγή αδύναμης σύνδεσης</item>
-    </string-array>
-    <string-array name="wifitrackerlib_wifi_status">
-        <item></item>
-        <item>Σάρωση…</item>
-        <item>Σύνδεση…</item>
-        <item>Έλεγχος ταυτότητας…</item>
-        <item>Λήψη διεύθυνσης IP…</item>
-        <item>Συνδέθηκε</item>
-        <item>Σε αναστολή</item>
-        <item>Αποσύνδεση…</item>
-        <item>Αποσυνδέθηκε</item>
-        <item>Ανεπιτυχής</item>
-        <item>Αποκλείστηκε</item>
         <item>Προσωρινή αποφυγή αδύναμης σύνδεσης</item>
     </string-array>
     <string-array name="window_animation_scale_entries">
