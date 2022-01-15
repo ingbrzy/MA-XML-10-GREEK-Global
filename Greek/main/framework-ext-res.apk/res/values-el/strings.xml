@@ -79,10 +79,14 @@
     <string name="device_status_success">Επιτυχής αποστολή</string>
     <string name="device_status_waiting">Αναμονή…</string>
     <string name="device_type_pc">Υπολογιστής</string>
+    <string name="disable_nfc">Απενεργοποιήθηκε το NFC για ασύρματη φόρτιση</string>
+    <string name="disable_nfc_reverse">Απενεργοποιήθηκε το NFC για αντίστροφη ασύρματη φόρτιση</string>
     <string name="eighthours">8 ώρες</string>
     <string name="enable_livetalk_summary">Εξοικονομήστε 70% στις χρεώσεις κλήσεων σας</string>
     <string name="enable_livetalk_title">Ενεργοποίηση Πακέτου ανανέωσης</string>
     <string name="enable_midrop">Ενεργοποίηση</string>
+    <string name="enable_nfc">Δεν φορτίζεται πλέον. Το NFC είναι ξανά ενεργοποιημένο.</string>
+    <string name="enable_nfc_reverse">Δεν φορτίζεται αντίστροφα πλέον. Το NFC είναι ξανά ενεργοποιημένο.</string>
     <string name="fc_dialog_body">Να σταλεί αναφορά σφαλμάτων στο Mi για ανάλυση; Η αναφορά αυτή μπορεί να περιέχει προσωπικές πληροφορίες. Η αναφορά σας θα χρησιμοποιηθεί για την διόρθωση του σφάλματος και δεν θα κοινοποιηθεί ποτέ για εμπορικούς σκοπούς.</string>
     <string name="fc_dialog_jump_to_preview">Προβολή σύνοψης</string>
     <string name="file_cannot_print">Αδυναμία εκτύπωσης αυτού του αντικειμένου.</string>
@@ -159,7 +163,6 @@
     <string name="open_close_tip_content">Για να κλείσετε το αναδυόμενο παράθυρο, πατήστε και κρατήστε την μπάρα ενέργειας και μετά σύρετε προς τα πάνω</string>
     <string name="oppo">OPPO</string>
     <string name="oppo_phone">OPPO</string>
-    <string name="other_ime">Άλλα πληκτρολόγια</string>
     <string name="package_delete_confirm_step_1">Απεγκατάσταση %s;</string>
     <string name="package_delete_confirm_step_2">Εάν απεγκαταστήσετε αυτήν την εφαρμογή μπορεί να προκαλέσει αστάθεια του συστήματος.</string>
     <string name="package_delete_confirm_step_3">Δεν θα μπορείτε να ανοίξετε αυτήν την εφαρμογή αφού την απεγκαταστήσετε.</string>

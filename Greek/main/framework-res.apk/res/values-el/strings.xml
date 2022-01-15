@@ -1336,6 +1336,8 @@
     <string name="permgrouplab_sensors">Αισθητήρες σώματος</string>
     <string name="permgrouplab_sms">SMS</string>
     <string name="permgrouplab_storage">Αρχεία και μέσα</string>
+    <string name="permission_request_notification_for_app_with_subtitle">"Ζητήθηκε άδεια από την εφαρμογή %1$s
+για πρόσβαση στον λογαριασμό %2$s."</string>
     <string name="permission_request_notification_title">Απαιτείται άδεια</string>
     <string name="permission_request_notification_with_subtitle">"Ζητήθηκε άδεια
 για τον λογαριασμό %s."</string>
