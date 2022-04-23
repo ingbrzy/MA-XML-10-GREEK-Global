@@ -39,7 +39,6 @@
     <string name="date_picker_lunar">Παραδοσιακό κινεζικό ημερολόγιο</string>
     <string name="date_time_picker_dialog_title">Ορισμός ημερομηνίας και ώρας</string>
     <string name="early_morning">Πρωί</string>
-    <string name="empty" />
     <string name="eras_ad">μ.Χ.</string>
     <string name="eras_bc">π.Χ.</string>
     <string name="evening">Απόγευμα</string>

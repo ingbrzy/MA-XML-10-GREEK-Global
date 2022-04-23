@@ -1109,7 +1109,6 @@ Bluetooth"</string>
     <string name="keyguard_missing_sim_instructions_long">Η κάρτα SIM δεν υπάρχει ή δεν είναι δυνατή η ανάγνωσή της. Τοποθετήστε μια κάρτα SIM.</string>
     <string name="keyguard_missing_sim_message">Δεν υπάρχει κάρτα SIM στο τηλέφωνο.</string>
     <string name="keyguard_missing_sim_message_short">Δεν υπάρχει SIM</string>
-    <string name="keyguard_more_overflow_text">+%d</string>
     <string name="keyguard_network_locked_message">Κλειδωμένο δίκτυο</string>
     <string name="keyguard_password_enter_password_code">Πληκτρολογήστε τον κωδικό πρόσβασης για ξεκλείδωμα</string>
     <string name="keyguard_password_enter_pin_code">Πληκτρολογήστε τον κωδικό PIN</string>
@@ -1368,14 +1367,12 @@ d MMMM"</string>
 
 Για περισσότερες πληροφορίες, επικοινωνήστε με τον διαχειριστή σας."</string>
     <string name="monitoring_description_ca_cert_settings">Άνοιγμα αξιόπιστων διαπιστευτηρίων</string>
-    <string name="monitoring_description_ca_cert_settings_separator">" "</string>
     <string name="monitoring_description_ca_certificate">Μια αρχή έκδοσης πιστοποιητικών έχει εγκατασταθεί σε αυτήν τη συσκευή. Η ασφαλής επισκεψιμότητα δικτύου σας μπορεί να παρακολουθείται ή να τροποποιείται.</string>
     <string name="monitoring_description_do_body">Ο διαχειριστής μπορεί να παρακολουθεί και να διαχειρίζεται ρυθμίσεις, εταιρική πρόσβαση, εφαρμογές και δεδομένα που σχετίζονται με τη συσκευή, καθώς και τις πληροφορίες τοποθεσίας.</string>
     <string name="monitoring_description_do_body_vpn">Έχετε συνδεθεί στην εφαρμογή %1$s, η οποία μπορεί να παρακολουθεί τη δραστηριότητα δικτύου σας, συμπεριλαμβανομένων μηνυμάτων ηλεκτρονικού ταχυδρομείου, εφαρμογών και ιστοτόπων.</string>
     <string name="monitoring_description_do_header_generic">Η διαχείριση της συσκευής σας γίνεται από %1$s.</string>
     <string name="monitoring_description_do_header_with_name">%1$s χρησιμοποιεί %2$s για τη διαχείριση της συσκευής σας.</string>
     <string name="monitoring_description_do_learn_more">Μάθετε περισσότερα</string>
-    <string name="monitoring_description_do_learn_more_separator">" "</string>
     <string name="monitoring_description_managed_profile_ca_certificate">Ο οργανισμός σας εγκατέστησε μια αρχή έκδοσης πιστοποιητικών στο προφίλ εργασίας σας. Η ασφαλής επισκεψιμότητα δικτύου σας μπορεί να παρακολουθείται ή να τροποποιείται.</string>
     <string name="monitoring_description_managed_profile_named_vpn">Το προφίλ εργασίας σας είναι συνδεδεμένο στο %1$s, το οποίο μπορεί να παρακολουθεί τη δραστηριότητα δικτύου σας, συμπεριλαμβανομένων μηνυμάτων ηλεκτρονικού ταχυδρομείου, εφαρμογών και ιστοτόπων.</string>
     <string name="monitoring_description_management">"Αυτή η συσκευή ανήκει στον οργανισμό σας.
@@ -1407,7 +1404,6 @@ d MMMM"</string>
 
 Επίσης, είστε συνδεδεμένοι σε VPN, το οποίο μπορεί να παρακολουθεί τη δραστηριότητα του δικτύου σας."</string>
     <string name="monitoring_description_vpn_settings">Άνοιγμα Ρυθμίσεων VPN</string>
-    <string name="monitoring_description_vpn_settings_separator">" "</string>
     <string name="monitoring_subtitle_ca_certificate">Πιστοποιητικά CA</string>
     <string name="monitoring_subtitle_network_logging">Καταγραφή δικτύου</string>
     <string name="monitoring_subtitle_vpn">VPN</string>
@@ -1481,7 +1477,6 @@ d MMMM"</string>
     <string name="nav_bar">Γραμμή πλοήγησης</string>
     <string name="nav_bar_default">(προεπιλογή)</string>
     <string name="nav_bar_layout">Διάταξη</string>
-    <string name="network_speed_suffix">%1$s%2$s</string>
     <string name="night">Βράδυ</string>
     <string name="no_application">Καμία</string>
     <string name="no_auto_saver_action">Όχι, ευχαριστώ</string>
@@ -1672,7 +1667,6 @@ d MMMM"</string>
     <string name="private_dns_mode_provider">Προσωπικό όνομα παροχέα DNS</string>
     <string name="private_dns_mode_provider_failure">Αδυναμία σύνδεσης</string>
     <string name="private_dns_mode_provider_hostname_hint">Εισαγωγή ονόματος του παροχέα DNS</string>
-    <string name="process_kernel_label">Android OS</string>
     <string name="profile_connect_timeout_subtext">Πρόβλημα κατά τη σύνδεση. Απενεργοποιήστε και ενεργοποιήστε τη συσκευή</string>
     <string name="profile_info_settings_title">Πληροφορίες προφίλ</string>
     <string name="profile_owned_footer">Το προφίλ ενδέχεται να παρακολουθείται</string>
@@ -2006,8 +2000,6 @@ d MMMM"</string>
     <string name="status_bar_clock_date_time_format_12">h:mm aa, E, d MMM</string>
     <string name="status_bar_clock_date_weekday_format">EEEE, dd MMMM</string>
     <string name="status_bar_clock_date_weekday_format_12">EEEE, dd MMMM</string>
-    <string name="status_bar_clock_date_weekday_format_12_brief">@string/status_bar_clock_date_format_12</string>
-    <string name="status_bar_clock_date_weekday_format_brief">@string/status_bar_clock_date_format</string>
     <string name="status_bar_date_format">"E
 d MMM"</string>
     <string name="status_bar_date_format_12">"E

@@ -10,7 +10,6 @@
     <string name="download_queued">Προστέθηκε στην ουρά λήψης</string>
     <string name="download_remaining">%s απομένουν</string>
     <string name="download_running">Γίνεται λήψη</string>
-    <string name="download_running_percent">Γίνεται λήψη %s</string>
     <string name="download_unknown_title">&lt;Χωρίς τίτλο></string>
     <string name="notif_title_file_size">%1$d συνολικά</string>
     <string name="notif_title_single_downloading">Γίνεται λήψη %1$s</string>
