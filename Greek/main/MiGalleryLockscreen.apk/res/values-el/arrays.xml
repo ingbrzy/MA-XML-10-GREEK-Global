@@ -30,8 +30,6 @@
         <item>Ψ</item>
         <item>Ω</item>
         <item>\#</item>
-        <item>.</item>
-        <item>.</item>
     </string-array>
     <string-array name="alphabet_table_with_starred">
         <item>!</item>
@@ -60,24 +58,5 @@
         <item>Ψ</item>
         <item>Ω</item>
         <item>\#</item>
-        <item>.</item>
-        <item>.</item>
-    </string-array>
-    <string-array name="feature_desc">
-        <item>Βελτιστοποιημένο για διεθνείς χρήστες από την Xiaomi.eu</item>
-    </string-array>
-    <string-array name="month12">
-        <item>Ιανουάριος</item>
-        <item>Φεβρουάριος</item>
-        <item>Μάρτιος</item>
-        <item>Απριλίου</item>
-        <item>Μάιος</item>
-        <item>Ιουνίου</item>
-        <item>Ιούλιος</item>
-        <item>Αύγουστος</item>
-        <item>Σεπτέμβριος</item>
-        <item>Οκτώβριος</item>
-        <item>Νοέμβριος</item>
-        <item>Δεκέμβριος</item>
     </string-array>
 </resources>

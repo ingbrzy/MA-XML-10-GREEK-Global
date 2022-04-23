@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string-array name="account_user_gender_name">
-        <item>Αρσενικός</item>
-        <item>Θηλυκός</item>
+        <item>Άνδρας</item>
+        <item>Γυναίκα</item>
     </string-array>
     <string-array name="alphabet_table">
         <item>Α</item>
@@ -30,8 +30,6 @@
         <item>Ψ</item>
         <item>Ω</item>
         <item>\#</item>
-        <item>.</item>
-        <item>.</item>
     </string-array>
     <string-array name="alphabet_table_with_starred">
         <item>!</item>
@@ -60,8 +58,6 @@
         <item>Ψ</item>
         <item>Ω</item>
         <item>\#</item>
-        <item>.</item>
-        <item>.</item>
     </string-array>
     <string-array name="menu_theme_setting">
         <item>Άσπρο</item>
@@ -71,12 +67,20 @@
         <item>Πράσινο</item>
         <item>Μπλε</item>
     </string-array>
+    <string-array name="nf_ad_feedback_reason">
+        <item>Δεν είναι ενδιαφέρον</item>
+        <item>Επαναλαμβανόμενη</item>
+        <item>Χαμηλής ποιότητας</item>
+        <item>Ακατάλληλη εικόνα</item>
+        <item>Δόλιες πληροφορίες</item>
+    </string-array>
     <string-array name="nf_feedback_reason">
         <item>Ακατάλληλο περιεχόμενο</item>
         <item>Ψεύδος</item>
         <item>Παλαιές ειδήσεις</item>
         <item>Εξτρεμιστικές απόψεις</item>
         <item>Υποσυνείδητη διαφήμιση</item>
+        <item>Δεν μου αρέσει</item>
     </string-array>
     <string-array name="pref_fling_on_border_gesture_entries">
         <item>Σελίδα πίσω/μπροστά</item>
@@ -96,9 +100,9 @@
         <item>Οριζόντια προβολή</item>
     </string-array>
     <string-array name="pref_security_do_not_track_keys">
-        <item>Ενεργοποίηση</item>
+        <item>Ενεργοποιημένο</item>
         <item>Μόνο σε ανώνυμη λειτουργία</item>
-        <item>Απενεργοποίηση</item>
+        <item>Απενεργοποιημένο</item>
     </string-array>
     <string-array name="pref_text_zoom_choices">
         <item>Πολύ μικρό</item>
@@ -113,11 +117,6 @@
         <item>iPhone</item>
         <item>iPad</item>
     </string-array>
-    <string-array name="protection_name">
-        <item>Αυτο</item>
-        <item>Κανένας</item>
-        <item>Νέος χρήστης</item>
-    </string-array>
     <string-array name="setting_swipe_up_target">
         <item>Αναζήτηση</item>
         <item>Νέα</item>
@@ -131,15 +130,15 @@
         <item>Ακολουθήστε</item>
     </string-array>
     <string-array name="shortcut_dialog_title">
-        <item>Μήνυμα από τον φυλλομετρητή</item>
+        <item>Μήνυμα από το Πρόγραμμα περιήγησης</item>
         <item>Συντονιστείτε με τους Ολυμπιακούς Αγώνες μέσω Mi</item>
     </string-array>
     <string-array name="speed_result_tips">
-        <item>"Η τρέχουσα σύνδεση δικτύου είναι πολύ αργή. Φαίνεται πως βρίσκεστε σε περιοχή με κακή κάλυψη δικτύου."</item>
+        <item>Η τρέχουσα σύνδεση δικτύου είναι πολύ αργή. Φαίνεται πως βρίσκεστε σε περιοχή με κακή κάλυψη δικτύου.</item>
         <item>Η τρέχουσα σύνδεση δικτύου είναι αργή.</item>
         <item>Δεν βρέθηκαν προβλήματα με τη σύνδεση δικτύου.</item>
-        <item>"Η τρέχουσα σύνδεση δικτύου είναι γρήγορη. Αρκεί για αναπαραγωγή ταινιών!"</item>
-        <item>"Η τρέχουσα σύνδεση δικτύου είναι πολύ γρήγορη! Τα πάτε τέλεια."</item>
+        <item>Η τρέχουσα σύνδεση δικτύου είναι γρήγορη. Αρκεί για αναπαραγωγή ταινιών!</item>
+        <item>Η τρέχουσα σύνδεση δικτύου είναι πολύ γρήγορη! Τα πάτε τέλεια.</item>
     </string-array>
     <string-array name="user_guide_info_array">
         <item>Λήψη βίντεο και φωτογραφιών από τα μέσα κοινωνικής δικτύωσης</item>

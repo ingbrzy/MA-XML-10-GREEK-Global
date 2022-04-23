@@ -1,78 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-  <string-array name="emailAddressTypes">
-    <item>Σπίτι</item>
-    <item>Εργασία</item>
-    <item>Άλλο</item>
-    <item>Προσαρμοσμένο</item>
-  </string-array>
-  <string-array name="fingerprint_acquired_vendor">
-    <item>Προσπαθήστε ξανά</item>
-    <item></item>
-    <item></item>
-    <item>Καλύψτε πλήρως τον σαρωτή δακτυλικών αποτυπωμάτων και εφαρμόστε πίεση</item>
-    <item></item>
-    <item>Καλύψτε πλήρως τον σαρωτή δακτυλικών αποτυπωμάτων και εφαρμόστε πίεση</item>
-    <item>Καλύψτε πλήρως τον σαρωτή δακτυλικών αποτυπωμάτων και εφαρμόστε πίεση</item>
-    <item></item>
-    <item></item>
-    <item></item>
-    <item></item>
-    <item>Καλύψτε πλήρως τον σαρωτή δακτυλικών αποτυπωμάτων και εφαρμόστε πίεση</item>
-    <item>Καλύψτε πλήρως τον σαρωτή δακτυλικών αποτυπωμάτων και εφαρμόστε πίεση</item>
-    <item>"Πολύ γρήγορα! Δεν ήταν δυνατή η αναγνώριση δακτυλικού αποτυπώματος"</item>
-    <item>Μετακινήστε το δάχτυλό σας λίγο και προσπαθήστε ξανά</item>
-    <item>Σηκώστε το δάχτυλό σας και βάλτε το ξανά στον σαρωτή</item>
-    <item>Κρατήστε το δάχτυλό σας στον σαρωτή λίγο περισσότερο</item>
-    <item></item>
-    <item></item>
-    <item></item>
-    <item></item>
-    <item></item>
-    <item></item>
-    <item></item>
-    <item></item>
-    <item>Μετακινήστε ελαφρώς το δάχτυλό σας</item>
-    <item>Αυτό το δακτυλικό αποτύπωμα έχει προστεθεί, χρησιμοποιήστε ένα διαφορετικό δάχτυλο</item>
-  </string-array>
-  <string-array name="imAddressTypes">
-    <item>Σπίτι</item>
-    <item>Εργασία</item>
-    <item>Άλλο</item>
-    <item>Προσαρμοσμένο</item>
-  </string-array>
-  <string-array name="network_switch_type_name">
-    <item>δεδομένα κινητής τηλεφωνίας</item>
-    <item>Wi-Fi</item>
-    <item>Bluetooth</item>
-    <item>Ethernet</item>
-    <item>VPN</item>
-  </string-array>
-  <string-array name="organizationTypes">
-    <item>Εργασία</item>
-    <item>Άλλο</item>
-    <item>Προσαρμοσμένο</item>
-  </string-array>
-  <string-array name="phoneTypes">
-    <item>Σπίτι</item>
-    <item>Κινητό</item>
-    <item>Εργασία</item>
-    <item>Φαξ εργασίας</item>
-    <item>Φαξ σπιτιού</item>
-    <item>Βομβητής</item>
-    <item>Άλλο</item>
-    <item>Προσαρμοσμένο</item>
-  </string-array>
-  <string-array name="postalAddressTypes">
-    <item>Σπίτι</item>
-    <item>Εργασία</item>
-    <item>Άλλο</item>
-    <item>Προσαρμοσμένο</item>
-  </string-array>
-  <string-array name="wfcOperatorErrorAlertMessages">
-    <item>Για να κάνετε κλήσεις και να στέλνετε μηνύματα μέσω Wi-Fi, ζητήστε πρώτα από την εταιρεία κινητής τηλεφωνίας να ρυθμίσει την υπηρεσία. Στη συνέχεια, ενεργοποιήστε ξανά την Κλήση Wi-Fi από τις Ρυθμίσεις. (Κωδικός σφάλματος: %1$s)</item>
-  </string-array>
-  <string-array name="wfcOperatorErrorNotificationMessages">
-    <item>Παρουσιάστηκε πρόβλημα με την εγγραφή της κλήσης Wi‑Fi με την εταιρεία κινητής τηλεφωνίας: %1$s</item>
-  </string-array>
+    <integer-array name="maps_starting_lat_lng">
+        <item>39074208</item>
+        <item>21824312</item>
+    </integer-array>
+    <integer-array name="maps_starting_zoom">
+        <item>4</item>
+    </integer-array>
 </resources>

@@ -39,8 +39,6 @@
         <item>Ψ</item>
         <item>Ω</item>
         <item>\#</item>
-        <item>.</item>
-        <item>.</item>
     </string-array>
     <string-array name="alphabet_table_with_starred">
         <item>!</item>
@@ -69,8 +67,6 @@
         <item>Ψ</item>
         <item>Ω</item>
         <item>\#</item>
-        <item>.</item>
-        <item>.</item>
     </string-array>
     <string-array name="app_behavior_type_menu">
         <item>Όλες οι εγγραφές</item>
@@ -78,36 +74,6 @@
         <item>Αλυσιδωτή εκκίνηση</item>
         <item>Γίνεται χρήση αδειών</item>
         <item>Ευαίσθητες ενέργειες</item>
-    </string-array>
-    <string-array name="app_initials_label">
-        <item>!</item>
-        <item>A</item>
-        <item>B</item>
-        <item>C</item>
-        <item>D</item>
-        <item>E</item>
-        <item>F</item>
-        <item>G</item>
-        <item>H</item>
-        <item>I</item>
-        <item>Ι</item>
-        <item>K</item>
-        <item>L</item>
-        <item>Μ</item>
-        <item>N</item>
-        <item>O</item>
-        <item>Ρ</item>
-        <item>Q</item>
-        <item>R</item>
-        <item>S</item>
-        <item>Τ</item>
-        <item>U</item>
-        <item>V</item>
-        <item>W</item>
-        <item>X</item>
-        <item>Y</item>
-        <item>Z</item>
-        <item>\#</item>
     </string-array>
     <string-array name="applock_password_types">
         <item>Μοτίβο</item>
@@ -171,24 +137,40 @@
     <string-array name="debug_open_intercept">
         <item>Θα υπάρχει δυνατότητα πρόσβασης και επεξεργασίας αρχείων στη συσκευή σας με χρήση υπολογιστή.</item>
         <item>Θα επιτρέπεται η εγκατάσταση εφαρμογών στη συσκευή σας χωρίς τη ρητή σας άδεια.</item>
-        <item>"Θα έχετε τη δυνατότητα να παρακολουθείτε και να καταγράφετε το περιεχόμενο της οθόνης σας απομακρυσμένα."</item>
+        <item>Θα έχετε τη δυνατότητα να παρακολουθείτε και να καταγράφετε το περιεχόμενο της οθόνης σας εξ αποστάσεως.</item>
         <item>Θα έχετε δυνατότητα πρόσβασης στις λεπτομερείς πληροφορίες της συσκευής σας.</item>
-    </string-array>
-    <string-array name="ew_emergency_organ_donation_arrays">
-        <item>Ναι</item>
-        <item>Όχι</item>
     </string-array>
     <string-array name="gb_adv_touch_custom_level">
         <item>Χαμηλότατη</item>
         <item>Χαμηλή</item>
         <item>Κανονική</item>
         <item>Υψηλή</item>
-        <item>Υψηλότατη</item>
+        <item>Υψηλότερη</item>
+    </string-array>
+    <string-array name="gb_voice_change_gender">
+        <item>@string/gb_voice_changer_gender_man</item>
+        <item>@string/gb_voice_changer_gender_female</item>
+    </string-array>
+    <string-array name="input_package_names">
+        <item>com.baidu.input_mi</item>
+        <item>com.iflytek.inputmethod.miui</item>
+        <item>com.sohu.inputmethod.sogou.xiaomi</item>
+    </string-array>
+    <string-array name="key_app_info">
+        <item>install_source</item>
+        <item>install_time</item>
+        <item>update_source</item>
+        <item>update_time</item>
     </string-array>
     <string-array name="lock_mode">
         <item>Όταν η συσκευή είναι κλειδωμένη</item>
         <item>Όταν η συσκευή είναι κλειδωμένη ή μετά την έξοδο μιας εφαρμογής</item>
         <item>Όταν η συσκευή είναι κλειδωμένη ή μέσα σε 1 λεπτό μετά την έξοδο μιας εφαρμογής</item>
+    </string-array>
+    <string-array name="lock_mode_value">
+        <item>1</item>
+        <item>0</item>
+        <item>2</item>
     </string-array>
     <string-array name="mi_service_traffic_type">
         <item>"Χρήση τηλεφώνου "</item>
@@ -198,9 +180,57 @@
         <item>Σημαντικό: Πολλές εφαρμογές συστήματος μπορεί να σταματήσουν να λειτουργούν σωστά.</item>
         <item>Οι διατάξεις κειμένου, λογαριασμών και περιεχομένου μπορεί να μην εμφανίζονται σωστά.</item>
     </string-array>
+    <string-array name="operate_entries">
+        <item>@string/auto_task_operation_open</item>
+        <item>@string/auto_task_operation_close</item>
+        <item>@string/auto_task_operation_no_op</item>
+    </string-array>
+    <string-array name="operate_entryValues">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+    </string-array>
+    <string-array name="operate_memory_entries">
+        <item>@string/auto_task_operation_open</item>
+        <item>@string/auto_task_operation_close</item>
+        <item>@string/auto_task_operation_no_op</item>
+    </string-array>
+    <string-array name="operate_memory_entryValues">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+    </string-array>
     <string-array name="over_limit_traffic_waring_style">
         <item>Προβολή προειδοποίησης</item>
         <item>Προειδοποίηση πρώτα και μετά απενεργοποίηση των δεδομένων κινητής τηλεφωνίας</item>
+    </string-array>
+    <string-array name="pc_battery_history_spinner_choice">
+        <item>@string/pc_battery_history_consume_rank_menu_item</item>
+        <item>@string/power_center_battery_all</item>
+        <item>@string/power_center_battery_software</item>
+        <item>@string/power_center_battery_hardware</item>
+        <item>@string/pc_battery_history_battery_detail_menu_item</item>
+    </string-array>
+    <string-array name="pc_battery_history_spinner_choice_new">
+        <item>@string/pc_battery_history_consume_rank_menu_item</item>
+        <item>@string/power_center_battery_all</item>
+        <item>@string/power_center_battery_software</item>
+        <item>@string/power_center_battery_hardware</item>
+        <item>@string/pc_battery_history_battery_detail_menu_item</item>
+    </string-array>
+    <string-array name="pc_fast_charge_entry">
+        <item>10%</item>
+        <item>20%</item>
+        <item>30%</item>
+        <item>40%</item>
+        <item>50%</item>
+    </string-array>
+    <string-array name="pc_fast_charge_entry_value">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
     </string-array>
     <string-array name="pc_settings_thermal_entries">
         <item>Προεπιλογή</item>
@@ -221,7 +251,7 @@
         <item>Πρόσβαση στις ρυθμίσεις που σχετίζονται με τον πάροχο και τη γλώσσα, καθώς και άλλες λεπτομέρειες</item>
     </string-array>
     <string-array name="perm_intercept_unknown_source">
-        <item>"Οι εφαρμογές τρίτων που δεν έχουν επαληθευτεί μπορούν να προκαλέσουν πολλαπλά προβλήματα και να μειώσουν τη σταθερότητα του συστήματος."</item>
+        <item>Οι εφαρμογές τρίτων που δεν έχουν επαληθευτεί μπορούν να προκαλέσουν πολλαπλά προβλήματα και να μειώσουν τη σταθερότητα του συστήματος.</item>
         <item>Ορισμένες εφαρμογές τρίτων μπορεί να περιέχουν λογισμικό κακόβουλης λειτουργίας που θέτει σε κίνδυνο τα προσωπικά σας δεδομένα.</item>
     </string-array>
     <string-array name="priority_storage_entries">
@@ -239,7 +269,7 @@
     </string-array>
     <string-array name="sort_title">
         <item>Ταξινόμηση κατά κατάσταση</item>
-        <item>Ταξινόμηση κατά εφαρμογή</item>
+        <item>Ταξινόμηση κατά όνομα εφαρμογής</item>
         <item>Ταξινόμηση κατά συχνότητα χρήσης</item>
         <item>Ταξινόμηση κατά χώρο αποθήκευσης</item>
         <item>Ταξινόμηση κατά χρόνο εγκατάστασης</item>

@@ -25,7 +25,7 @@
         <item quantity="one">%1$d αρχείο</item>
     </plurals>
     <plurals name="folders">
-        <item quantity="other">%1$d φακέλοι</item>
+        <item quantity="other">%1$d φάκελοι</item>
         <item quantity="one">%1$d φάκελος</item>
     </plurals>
     <plurals name="found_new_files">

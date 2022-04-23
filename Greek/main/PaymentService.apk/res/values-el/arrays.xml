@@ -30,8 +30,6 @@
         <item>Ψ</item>
         <item>Ω</item>
         <item>\#</item>
-        <item>.</item>
-        <item>.</item>
     </string-array>
     <string-array name="alphabet_table_with_starred">
         <item>!</item>
@@ -60,7 +58,5 @@
         <item>Ψ</item>
         <item>Ω</item>
         <item>\#</item>
-        <item>.</item>
-        <item>.</item>
     </string-array>
 </resources>

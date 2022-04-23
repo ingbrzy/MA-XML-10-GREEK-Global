@@ -1,11 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string-array name="agenda_weeks_of_year">
-        <item>Εβδομάδα 1</item>
-        <item>Εβδομάδα 2</item>
-        <item>Εβδομάδα 3</item>
-        <item>Εβδομάδα %1$d</item>
-    </string-array>
     <string-array name="alphabet_table">
         <item>Α</item>
         <item>Β</item>
@@ -32,8 +26,6 @@
         <item>Ψ</item>
         <item>Ω</item>
         <item>\#</item>
-        <item>.</item>
-        <item>.</item>
     </string-array>
     <string-array name="alphabet_table_with_starred">
         <item>!</item>
@@ -62,45 +54,5 @@
         <item>Ψ</item>
         <item>Ω</item>
         <item>\#</item>
-        <item>.</item>
-        <item>.</item>
-    </string-array>
-    <string-array name="app_commute_tab_array">
-        <item>Οδηγός</item>
-        <item>Δημόσιες συγκοινωνίες</item>
-        <item>Cab</item>
-    </string-array>
-    <string-array name="app_health_setting_text_array_duration">
-        <item>10 λεπτά</item>
-        <item>20 λεπτά</item>
-        <item>30 λεπτά</item>
-        <item>60 λεπτά</item>
-    </string-array>
-    <string-array name="base_day_time_space">
-        <item>Νύχτα</item>
-        <item>Νύχτα</item>
-        <item>Πρωί</item>
-        <item>Απόγευμα</item>
-        <item>Απόγευμα</item>
-        <item>Βράδυ</item>
-        <item>Βράδυ</item>
-    </string-array>
-    <string-array name="day_time_space">
-        <item>Νύχτα</item>
-        <item>Νωρίς το πρωί</item>
-        <item>Πρωί</item>
-        <item>Midday</item>
-        <item>Απόγευμα</item>
-        <item>Αργά το απόγευμα</item>
-        <item>Βράδυ</item>
-    </string-array>
-    <string-array name="detail_font_size">
-        <item>Μικρό</item>
-        <item>Κανονική</item>
-        <item>Μεγάλο</item>
-    </string-array>
-    <string-array name="stock_color_schema">
-        <item>Green - up, red - down</item>
-        <item>Red - up, green - down</item>
     </string-array>
 </resources>

@@ -1,5 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <string-array name="account_user_gender_name">
+        <item>Άνδρας</item>
+        <item>Γυναίκα</item>
+    </string-array>
     <string-array name="alphabet_table">
         <item>Α</item>
         <item>Β</item>
@@ -26,8 +30,6 @@
         <item>Ψ</item>
         <item>Ω</item>
         <item>\#</item>
-        <item>.</item>
-        <item>.</item>
     </string-array>
     <string-array name="alphabet_table_with_starred">
         <item>!</item>
@@ -56,14 +58,6 @@
         <item>Ψ</item>
         <item>Ω</item>
         <item>\#</item>
-        <item>.</item>
-        <item>.</item>
-    </string-array>
-    <string-array name="aritst_gender_filter_api">
-        <item>όλα</item>
-        <item>αρσενικό</item>
-        <item>θηλυκό</item>
-        <item>ομάδα</item>
     </string-array>
     <string-array name="recommendation_desc_week">
         <item>Προτεινόμενα της Κυριακής</item>

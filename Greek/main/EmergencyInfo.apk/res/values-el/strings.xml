@@ -302,7 +302,6 @@
     <string name="enable_verbose_vendor_logging">Ενεργ. λεπτ. καταγραφής προμ.</string>
     <string name="enable_verbose_vendor_logging_summary">Συμπερίληψη πρόσθετων αρχείων καταγραφής προμηθευτή για συγκεκριμένες συσκευές στις αναφορές σφαλμάτων, τα οποία ενδέχεται να περιέχουν ιδιωτικές πληροφορίες, να χρησιμοποιούν περισσότερη μπαταρία ή/και να χρησιμοποιούν περισσότερο αποθηκευτικό χώρο.</string>
     <string name="enabled_by_admin">Ενεργοποιήθηκε από τον διαχειριστή</string>
-    <string name="enhanced_connectivity">Βελτιωμένη συνδεσιμότητα</string>
     <string name="enhanced_connectivity_summary">Επιτρέπει τη λειτουργία Βελτιωμένης συνδεσιμότητας.</string>
     <string name="expand_button_title">Σύνθετες</string>
     <string name="external_source_trusted">Επιτρέπεται</string>
@@ -335,7 +334,7 @@
     <string name="ims_reg_status_not_registered">Μη εγγεγραμμένη</string>
     <string name="ims_reg_status_registered">Εγγεγραμμένη</string>
     <string name="ims_reg_title">Κατάσταση εγγραφής υπηρεσίας IMS</string>
-    <string name="imsi_protection_warning">Αυτό το δίκτυο λαμβάνει ένα μοναδικό αναγνωριστικό το οποίο μπορεί να χρησιμοποιηθεί για τον εντοπισμό της τοποθεσίας της συσκευής. <annotation id="url">Μάθετε περισσότερα</annotation></string>
+    <string name="imsi_protection_warning">Αυτό το δίκτυο λαμβάνει ένα αναγνωριστικό SIM το οποίο μπορεί να χρησιμοποιηθεί για τον εντοπισμό της τοποθεσίας της συσκευής. <annotation id="url">Μάθετε περισσότερα</annotation></string>
     <string name="inactive_app_active_summary">Ενεργό. Πατήστε για εναλλαγή.</string>
     <string name="inactive_app_inactive_summary">Ανενεργό. Πατήστε για εναλλαγή.</string>
     <string name="inactive_apps_title">Εφαρμογές σε κατάσταση αναμονής</string>
@@ -609,6 +608,7 @@
     <string name="wifi_cant_connect">Αδυναμία σύνδεσης</string>
     <string name="wifi_cant_connect_to_ap">Δεν είναι δυνατή η σύνδεση στο δίκτυο \"%1$s\"</string>
     <string name="wifi_check_password_try_again">Ελέγξτε τον κωδικό πρόσβασης και δοκιμάστε ξανά</string>
+    <string name="wifi_connected_low_quality">Χαμηλή ποιότητα</string>
     <string name="wifi_connected_no_internet">Χωρίς σύνδεση στο διαδίκτυο</string>
     <string name="wifi_disabled_by_recommendation_provider">Δεν υπάρχει σύνδεση λόγω χαμηλής ποιότητας δικτύου</string>
     <string name="wifi_disabled_generic">Απενεργοποιημένο</string>
