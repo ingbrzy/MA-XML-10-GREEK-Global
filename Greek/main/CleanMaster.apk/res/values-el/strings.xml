@@ -301,7 +301,6 @@
     <string name="download">Λήψη</string>
     <string name="downloading">Γίνεται λήψη</string>
     <string name="early_morning">Πρωί</string>
-    <string name="empty">" "</string>
     <string name="empty_content_no_ignore_image">Κενό</string>
     <string name="empty_content_no_privacy">Κενό</string>
     <string name="empty_content_no_similar_image">Δεν υπάρχουν φωτογραφίες</string>
@@ -478,7 +477,6 @@
     <string name="hints_garbage_cleanup_result_safe">Όλα φαίνονται να λειτουργούν σωστά</string>
     <string name="hints_garbage_handle_item_content">%1$d αντικείμενα, %2$s</string>
     <string name="hints_garbage_handle_item_empty_content">Κενό</string>
-    <string name="hints_header_left">%d</string>
     <string name="hints_installed_app_fewer">Σπανίως σε χρήση</string>
     <string name="hints_installed_app_near">Πρόσφατα σε χρήση</string>
     <string name="hints_installed_app_never">Ποτέ σε χρήση</string>
