@@ -28,6 +28,7 @@
     <string name="abc_shareactionprovider_share_with_application">Κοινοποίηση στην εφαρμογή %s</string>
     <string name="abc_toolbar_collapse_description">Σύμπτυξη</string>
     <string name="about_to_recover">Μια στιγμή…</string>
+    <string name="access_denied_info">Πάρα πολλές προσπάθειες. Περιμένετε ένα ή δύο λεπτά και προσπαθήστε ξανά.</string>
     <string name="actionbar_button_up_description">Πίσω</string>
     <string name="afternoon">Απόγευμα</string>
     <string name="am">ΠΜ</string>
@@ -364,6 +365,8 @@ Note: Data for apps you've installed won't be backed up to Xiaomi Cloud."</strin
     <string name="msg_restore_with_metered_network_hint">Εάν προχωρήσετε στην επαναφορά αυτών των στοιχείων, θα χρησιμοποιηθούν δεδομένα κινητής τηλεφωνίας για τη λήψη.</string>
     <string name="msg_restore_with_metered_network_pattern">"&lt;font color='red'>&lt;b>%s&lt;/b>&lt;/font> αρχείων θα κατέβουν."</string>
     <string name="network_error">Σύνδεση σε δίκτυο</string>
+    <string name="network_error_info">Παρουσιάστηκε σφάλμα δικτύου. Ελέγξτε τις ρυθμίσεις δικτύου σας και προσπαθήστε ξανά.</string>
+    <string name="network_timeout_info">Αδυναμία σύνδεσης στο δίκτυο. Προσπαθήστε ξανά.</string>
     <string name="night">Βράδυ</string>
     <string name="no_account">Δεν συνδεθήκατε στο Mi Λογαριασμό σας.</string>
     <string name="no_backup">Δεν υπάρχουν αντίγραφα ασφαλείας στο Xiaomi Cloud.</string>
@@ -374,10 +377,13 @@ Note: Data for apps you've installed won't be backed up to Xiaomi Cloud."</strin
     <string name="open_backup_switch">Εναλλαγή διακόπτη για αντίγραφα ασφαλείας</string>
     <string name="other_device_main_space">Πρώτος χώρος</string>
     <string name="other_device_second_space">Δεύτερος χώρος</string>
+    <string name="pattern_backup_name_with_home">%1$s (%2$s: %3$s)</string>
+    <string name="pattern_backup_name_without_home">%1$s (%2$s)</string>
     <string name="pc_mode_not_support_restore_warning">Δεν είναι δυνατή η επαναφορά στοιχείων σε Λειτουργία ΗΥ. Απενεργοποιήστε τη Λειτουργία ΗΥ και δοκιμάστε ξανά.</string>
     <string name="pm">ΜΜ</string>
     <string name="preference_copied">Το \"%1$s\" αντιγράφηκε στο πρόχειρο.</string>
     <string name="process_whole_recovery">Γίνεται επαναφορά \"%s\"</string>
+    <string name="progressbar_title">Έλεγχος για προβλήματα ασφαλείας…</string>
     <string name="provision_back">Πίσω</string>
     <string name="provision_background_restore_more_data">Επαναφορά περισσότερων αντικειμένων στο παρασκήνιο</string>
     <string name="provision_error_connect_msg">Δοκιμάστε το δίκτυο και προσπαθήστε ξανά. Τα αντίγραφα ασφαλείας δεν είναι διαθέσιμα όταν η συσκευή σας είναι εκτός σύνδεσης.</string>
@@ -457,6 +463,7 @@ Note: Data for apps you've installed won't be backed up to Xiaomi Cloud."</strin
     <string name="sunday">Κυριακή</string>
     <string name="sunday_short">Κυρ</string>
     <string name="sunday_shortest">Κυρ</string>
+    <string name="system_error_info">Το σύστημα είναι απασχολημένο. Περιμένετε ένα δύο λεπτά και προσπαθήστε ξανά.</string>
     <string name="the_anniversary_of_lifting_martial_law">Επέτειος Άρσης του Στρατιωτικού Νόμου</string>
     <string name="the_anti_aggression_day">Ημέρα κατά της Εχθρότητας</string>
     <string name="the_arbor_day">Ημέρα του Δέντρου</string>
@@ -514,6 +521,7 @@ Note: Data for apps you've installed won't be backed up to Xiaomi Cloud."</strin
     <string name="tuesday">Τρίτη</string>
     <string name="tuesday_short">Τρι</string>
     <string name="tuesday_shortest">Τρι</string>
+    <string name="unknown_error_info">Άγνωστο σφάλμα</string>
     <string name="unselected">Καμία επιλογή</string>
     <string name="unsupported_home">Ενημερώστε το MIUI στην πιο πρόσφατη έκδοση.</string>
     <string name="v7_preference_off">ΑΝΕΝΕΡΓΗ</string>

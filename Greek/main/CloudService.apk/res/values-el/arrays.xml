@@ -125,7 +125,7 @@
     <string-array name="settings_search_browser">
         <item>Συγχρονισμός Προγράμματος περιήγησης με το Xiaomi Cloud</item>
         <item>Ενεργοποίηση συγχρονισμού</item>
-        <item>Πρόγραμμα περιήγησης,Cloud,Συγχρονισμός,Υπηρεσίες Cloud,Xiaomi Cloud</item>
+        <item>Πρόγραμμα περιήγησης,Σύννεφο,Συγχρονισμός,Υπηρεσίες Cloud,Xiaomi Cloud</item>
     </string-array>
     <string-array name="settings_search_calendar">
         <item>Συγχρονισμός Ημερολογίου με το Xiaomi Cloud</item>
@@ -180,7 +180,7 @@
     <string-array name="settings_search_recorder">
         <item>Συγχρονισμός ηχογραφήσεων με το Xiaomi Cloud</item>
         <item>Ενεργοποίηση/Ρύθμιση συγχρονισμού</item>
-        <item>Ηχογράφηση,Cloud,Συγχρονισμός,Υπηρεσίες Cloud,Xiaomi Cloud</item>
+        <item>Ηχογράφηση,Σύννεφο,Συγχρονισμός,Υπηρεσίες Cloud,Xiaomi Cloud</item>
     </string-array>
     <string-array name="settings_search_recycle_bin">
         <item>Διαγραμμένα στοιχεία στο Xiaomi Cloud</item>

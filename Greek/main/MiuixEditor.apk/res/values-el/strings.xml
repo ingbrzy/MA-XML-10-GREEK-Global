@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="add_frequent_phrases">Προσθήκη συχνών φράσεων</string>
+    <string name="edit_frequent_phrases">Επεξεργασία συχνών φράσεων</string>
+    <string name="frequent_phrases">Συχνές φράσεις</string>
+    <string name="query">Αναζήτηση</string>
+    <string name="select">Επιλογή</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
+</resources>

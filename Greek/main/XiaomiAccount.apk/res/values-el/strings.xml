@@ -29,6 +29,7 @@
     <string name="abc_toolbar_collapse_description">Σύμπτυξη</string>
     <string name="about_device_info">Προβολή λεπτομερειών συσκευής</string>
     <string name="accept">Αποδοχή</string>
+    <string name="access_denied_info">Πάρα πολλές προσπάθειες. Περιμένετε ένα ή δύο λεπτά και προσπαθήστε ξανά.</string>
     <string name="access_token_expired_warning">Ο Weibo Λογαριασμός έχει λήξει</string>
     <string name="access_token_invalid_warning">Ο Weibo Λογαριασμός δεν είναι έγκυρος</string>
     <string name="account">Λογαριασμός</string>
@@ -95,6 +96,8 @@
     <string name="agreement_and_privacy">Όροι και προϋποθέσεις</string>
     <string name="am">ΠΜ</string>
     <string name="app_name">Mi Λογαριασμός</string>
+    <string name="area_code_no_search_result">Αδυναμία εύρεσης αποτελεσμάτων</string>
+    <string name="area_code_search_hint">Αναζήτηση για χώρα ή περιοχή</string>
     <string name="auth_fail_warning">Η συνεδρία έληξε, συνδεθείτε ξανά αργότερα</string>
     <string name="authorize_title">Εξουσιοδότηση</string>
     <string name="bind_facebook">Σύνδεση στο Facebook Λογαριασμό σας</string>
@@ -429,7 +432,10 @@ ID:%s
     <string name="multi_user_not_show_sync_activity_title">Μην ενεργοποιήσετε τον συγχρονισμό με το cloud</string>
     <string name="my_device_title">Τρέχουσα συσκευή</string>
     <string name="need_install_wechat">Εγκαταστήστε πρώτα το WeChat</string>
+    <string name="network_error_info">Παρουσιάστηκε σφάλμα δικτύου. Ελέγξτε τις ρυθμίσεις δικτύου σας και προσπαθήστε ξανά.</string>
+    <string name="network_timeout_info">Αδυναμία σύνδεσης στο δίκτυο. Προσπαθήστε ξανά.</string>
     <string name="night">Βράδυ</string>
+    <string name="no_account_or_forget_password">Δημιουργία λογαριασμού ή ξεχάσατε τον κωδικό πρόσβασης;</string>
     <string name="no_install">Δεν έγινε εγκατάσταση</string>
     <string name="no_network_btn">Ανανέωση</string>
     <string name="no_network_title">Αδυναμία σύνδεσης στο δίκτυο.</string>
@@ -664,7 +670,9 @@ ID:%s
     <string name="passport_talkback_voice_captcha">Αναπαραγωγή κωδικού επαλήθευσης φωνής</string>
     <string name="passport_ticket_login_select_sim_card">Επιλογή κάρτας SIM</string>
     <string name="passport_ticket_login_select_sim_card_1">SIM 1</string>
+    <string name="passport_ticket_login_select_sim_card_1_with_phone_number">SIM %1$d: %2$s</string>
     <string name="passport_ticket_login_select_sim_card_2">SIM 2</string>
+    <string name="passport_ticket_login_select_sim_card_2_with_phone_number">SIM %1$d: %2$s</string>
     <string name="passport_ticket_login_select_sim_card_cancel">Ακύρωση</string>
     <string name="passport_title_reg">Δημιουργία λογαριασμού</string>
     <string name="passport_trust_device">Προσθήκη αυτής της συσκευής στις επικυρωμένες συσκευές</string>
@@ -722,6 +730,7 @@ ID:%s
     <string name="privacy_policy_reject_confirm_title">Αδυναμία χρήσης Mi Λογαριασμού</string>
     <string name="privacy_policy_update_msg">Η Πολιτική Απορρήτου Mi Λογαριασμού ενημερώθηκε:&lt;br/>%1$s&lt;br/>Διαβάστε και αποδεχτείτε τη νέα έκδοση της &lt;a href=%2$s>&lt;u>Πολιτικής Απορρήτου&lt;/u>&lt;/a> πριν συνεχίσετε.</string>
     <string name="privacy_policy_update_title">Ενημερωμένη Πολιτική Απορρήτου</string>
+    <string name="progressbar_title">Έλεγχος για προβλήματα ασφαλείας…</string>
     <string name="provision_back">Πίσω</string>
     <string name="provision_next">Επόμενο</string>
     <string name="provision_skip_underline">Παράλειψη</string>
@@ -801,6 +810,7 @@ ID:%s
     <string name="system_ad_summary">"Ενεργοποιήστε αυτή τη λειτουργία για να επιτρέψετε την προβολή μικρού αριθμού διαφημίσεων στις εφαρμογές συστήματος. Οι διαφημίσεις αυτές μας βοηθάνε να δημιουργήσουμε και να βελτιώσουμε τα προϊόντα και τις υπηρεσίες μας. Μπορείτε να επιλέξετε να απενεργοποιήσετε τη λειτουργία οποιαδήποτε στιγμή. Ευχαριστούμε για τη στήριξή σας! "</string>
     <string name="system_ad_switch">Διαφημίσεις σε εφαρμογές συστήματος</string>
     <string name="system_ad_switch_failed">Αδυναμία εφαρμογής ρύθμισης</string>
+    <string name="system_error_info">Το σύστημα είναι απασχολημένο. Περιμένετε ένα δύο λεπτά και προσπαθήστε ξανά.</string>
     <string name="talkback_scan_barcode">Σάρωση QR κωδικού</string>
     <string name="temporary_not_available">Αυτή η λειτουργία δεν είναι διαθέσιμη ακόμη.</string>
     <string name="the_anniversary_of_lifting_martial_law">Επέτειος Άρσης του Στρατιωτικού Νόμου</string>
@@ -865,6 +875,7 @@ ID:%s
     <string name="two_factor_auth_need_code_summary">Θα δείτε κωδικό σε άλλες συνδεδεμένες συσκευές Mi. Εισαγάγετε αυτόν τον κωδικό στη νέα συσκευή για να συνδεθείτε.</string>
     <string name="two_factor_auth_summary">"Όταν προσπαθείτε να συνδεθείτε σε νέα συσκευή ή σε νέα τοποθεσία, θα ενημερωθείτε γι' αυτό σε άλλη συνδεδεμένη συσκευή. Θα πρέπει να επιβεβαιώσετε εάν έχετε εξουσιοδοτήσει τέτοιες προσπάθειες σύνδεσης."</string>
     <string name="unbind_sns_description">Μετά την αποσύνδεση αυτού του λογαριασμού, δεν θα έχετε δυνατότητα χρήσης πληροφοριών του %s Λογαριασμού για σύνδεση στο Mi Λογαριασμό σας.</string>
+    <string name="unknown_error_info">Άγνωστο σφάλμα</string>
     <string name="unlock_help_notice">"Βοήθεια:
 1. Εάν ξεχάσατε τον κωδικό σας, μεταβείτε στο id.mi.com για να τον επαναφέρετε.
 2. Εάν δεν μπορείτε να επαναφέρετε τον κωδικό σας ή εάν κάποιος κλείδωσε την συσκευή σας, μεταβείτε στο I.mi.com για να την ξεκλειδώσετε.

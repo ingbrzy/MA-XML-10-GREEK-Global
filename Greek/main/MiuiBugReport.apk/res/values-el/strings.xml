@@ -697,7 +697,7 @@ ID:%s
     <string name="system_app_select">Προεγκατεστημένες εφαρμογές</string>
     <string name="system_error_info">Το σύστημα είναι απασχολημένο. Περιμένετε ένα δύο λεπτά και προσπαθήστε ξανά.</string>
     <string name="tab_title_chat">Συχνές Ερωτήσεις</string>
-    <string name="tab_title_my_reports">Οι αναφορές μου</string>
+    <string name="tab_title_my_reports">Η ανατροφοδότησή μου</string>
     <string name="tab_title_preferences">Ρυθμίσεις</string>
     <string name="tab_title_report">Ανατροφοδότηση</string>
     <string name="temporary_not_available">Αυτή η λειτουργία δεν είναι διαθέσιμη ακόμη</string>

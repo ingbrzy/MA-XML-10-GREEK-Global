@@ -36,6 +36,10 @@
         <item quantity="other">%d λεπτά πριν</item>
         <item quantity="one">1 λεπτό πριν</item>
     </plurals>
+    <plurals name="area_code_search_result_size">
+        <item quantity="other">Εντοπίστηκαν %d αποτελέσματα</item>
+        <item quantity="one">Εντοπίστηκε %d αποτέλεσμα</item>
+    </plurals>
     <plurals name="half_hour_ago">
         <item quantity="other">Μισή ώρα πριν</item>
         <item quantity="one">Μισή ώρα πριν</item>

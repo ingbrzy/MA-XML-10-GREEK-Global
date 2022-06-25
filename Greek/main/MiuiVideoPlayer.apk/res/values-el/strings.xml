@@ -110,13 +110,14 @@
     <string name="auto_play_next_on">Η αυτόματη αναπαραγωγή είναι ενεργή</string>
     <string name="back_to_mainpage">Εξερεύνηση</string>
     <string name="background_playback_enabled">Η αναπαραγωγή στο παρασκήνιο είναι ενεργοποιημένη</string>
-    <string name="before_yestoday">Πριν 2 ημέρες</string>
     <string name="before_yestoday_new">%d ημέρες πριν</string>
     <string name="bind_sign_in_title">Προσθήκη Mi Λογαριασμού</string>
+    <string name="bottomsheet_action_expand_halfway">Ανάπτυξη μέχρι τη μέση</string>
     <string name="box_title_gallery">Εργαλειοθήκη βίντεο</string>
     <string name="box_title_mivideo">Πρόσθετες λειτουργίες</string>
     <string name="btn_clear_history">Εκκαθάριση ιστορικού</string>
     <string name="btn_empty_go_to_download">Λήψη</string>
+    <string name="btn_playlist_play_all">Αναπαραγωγή</string>
     <string name="cancel">Ακύρωση</string>
     <string name="cancel_choose">Αποεπιλογή</string>
     <string name="cancel_subscribe_tips">Κατάργηση ακολούθησης τώρα;</string>
@@ -138,6 +139,7 @@
     <string name="cast_forward">Προώθηση</string>
     <string name="cast_forward_10">Προώθηση 10 δευτερόλεπτα μπροστά</string>
     <string name="cast_forward_30">Προώθηση 30 δευτερόλεπτα μπροστά</string>
+    <string name="cast_intro_overlay_button_text">\@android:string/ok</string>
     <string name="cast_live_label">ΖΩΝΤΑΝΑ</string>
     <string name="cast_mute">Σίγαση</string>
     <string name="cast_notification_connected_message">Συνδέθηκε με το %1$s</string>
@@ -164,10 +166,13 @@
     <string name="cast_unmute">Κατάργηση σίγασης</string>
     <string name="change_activate_email">Αλλαγή διεύθυνσης email</string>
     <string name="change_password">Αλλαγή κωδικού</string>
+    <string name="character_counter_content_description">Εισήχθησαν %1$d από %2$d χαρακτήρες</string>
+    <string name="character_counter_overflowed_content_description">Υπέρβαση ορίου χαρακτήρων %1$d από %2$d</string>
     <string name="check_nothing">Δεν έχετε επιλέξει κανένα αντικείμενο ακόμη</string>
     <string name="choose">Επιλογή</string>
     <string name="choose_to_signin">Ναι</string>
     <string name="choose_to_signup">Όχι, θα δημιουργήσω έναν</string>
+    <string name="clear_text_end_icon_content_description">Διαγραφή κειμένου</string>
     <string name="clearable_edittext_clear_description">Εκκαθάριση</string>
     <string name="click_to_open_pip">Πατήστε για μετάβαση σε εικόνα σε εικόνα</string>
     <string name="click_to_play_video_push_context">Πατήστε για αναπαραγωγή βίντεο</string>
@@ -177,7 +182,6 @@
     <string name="cloud_auto_pip_play_switch">Αυτόματη χρήση εικόνας σε εικόνα</string>
     <string name="cloud_online_player">Αναπαραγωγέας</string>
     <string name="cloud_online_switch">Εξατομικευμένες προτάσεις</string>
-    <string name="cloud_online_switch_close_time">Μπορείτε να ενεργοποιήσετε τις εξατομικευμένες προτάσεις περιεχομένου στο %s</string>
     <string name="cloud_online_switch_open_time">Προβολή εξατομικευμένων προτάσεων περιεχομένου</string>
     <string name="collect_diagnosis_log">Συλλογή αρχείων καταγραφής</string>
     <string name="columbus_ad_flag_text">Διαφήμιση</string>
@@ -321,6 +325,8 @@ ID:%s
     <string name="dialog_set_default_later">Όχι ευχαριστώ</string>
     <string name="dialog_set_default_set">Ορισμός</string>
     <string name="dialog_set_default_text">Ορισμός Mi Βίντεο ως προεπιλεγμένο πρόγραμμα αναπαραγωγής βίντεο;</string>
+    <string name="dialog_title_delete_folder">Εάν διαγράψετε αυτόν τον φάκελο, όλα τα αρχεία του θα διαγραφούν οριστικά επίσης. Διαγραφή φακέλου τώρα;</string>
+    <string name="dialog_title_hidden_folder">Εάν αποκρύψετε αυτόν τον φάκελο, τα αρχεία σε αυτόν δεν θα εμφανίζονται στα βίντεό σας. Απόκρυψη φακέλου τώρα;</string>
     <string name="dialog_video_change">Αλλαγή</string>
     <string name="dialog_video_download_tip">Προστέθηκε στην ουρά λήψης</string>
     <string name="dialog_video_download_view">Προβολή</string>
@@ -353,6 +359,7 @@ ID:%s
     <string name="eras_ad">μ.Χ.</string>
     <string name="eras_bc">π.Χ.</string>
     <string name="error_dup_binded_email">Αυτή η διεύθυνση email είναι ήδη συσχετισμένη με άλλο Mi Λογαριασμό.</string>
+    <string name="error_icon_content_description">Σφάλμα</string>
     <string name="error_invalid_bind_address">Η διεύθυνση email που εισαγάγατε δεν είναι έγκυρη.</string>
     <string name="evening">Απόγευμα</string>
     <string name="exceed_binded_phone_times_notice">Αυτός ο αριθμός τηλεφώνου είναι ήδη συσχετισμένος με άλλο Mi Λογαριασμό.</string>
@@ -395,6 +402,7 @@ ID:%s
     <string name="expand_button_title">Σύνθετες</string>
     <string name="explore">Ανακαλύψτε</string>
     <string name="explore_on_mi_video">Βρείτε περισσότερα στο Mi Βίντεο</string>
+    <string name="exposed_dropdown_menu_content_description">Εμφάνιση αναπτυσσόμενου μενού</string>
     <string name="failed_dup_secure_phone_number">Αυτός ο αριθμός τηλεφώνου είναι ήδη συσχετισμένος με άλλο Mi Λογαριασμό</string>
     <string name="failed_to_fetch_data">Αδυναμία φόρτωσης πληροφοριών.</string>
     <string name="failure">Αδυναμία λήψης</string>
@@ -514,11 +522,11 @@ ID:%s
     <string name="galleryplus_click_to_higher_definition">Διπλό πάτημα για άνοιγμα της Προβολής HD</string>
     <string name="galleryplus_copyright_unsported_audio">Δεν είναι δυνατή η αναπαραγωγή αυτού του βίντεο κομματιού ήχου λόγω περιορισμών πνευματικών δικαιωμάτων</string>
     <string name="galleryplus_copyright_unsported_video">Δεν είναι δυνατή η αναπαραγωγή αυτού του βίντεο λόγω περιορισμών πνευματικών δικαιωμάτων</string>
-    <string name="galleryplus_cta_tips">Μπορείτε να μας βοηθήσετε να βελτιώσουμε τις υπηρεσίες μας εάν εγγραφείτε στο Πρόγραμμα Εμπειρίας Χρήστη και εάν επιτρέψετε στην εφαρμογή Mi Βίνεο να συνδεθεί στο ίντερνετ. Συμφωνείτε;</string>
+    <string name="galleryplus_cta_tips">Μπορείτε να μας βοηθήσετε να βελτιώσουμε τις υπηρεσίες μας εάν εγγραφείτε στο Πρόγραμμα Εμπειρίας Χρήστη και εάν επιτρέψετε στην εφαρμογή Mi Βίντεο να συνδεθεί στο ίντερνετ. Αποδοχή;</string>
     <string name="galleryplus_double_tap_to_higher_definition">Διπλό πάτημα ξανά για άνοιγμα της Προβολής HD</string>
     <string name="galleryplus_fr_unsupport_restore_speed">Μη υποστηριζόμενος ρυθμός ανάλυσης. Έγινε εναλλαγή στην κανονική ταχύτητα.</string>
     <string name="galleryplus_gallery_fold_tags">Απόκρυψη σημάνσεων</string>
-    <string name="galleryplus_gallery_video_adjust_hint">Υποστηρίζονται μόνο βίντεο με 960fps</string>
+    <string name="galleryplus_gallery_video_adjust_hint">Υποστηρίζονται μόνο βίντεο %dfps</string>
     <string name="galleryplus_gallery_video_adjust_text">Προσαρμογή</string>
     <string name="galleryplus_gallery_video_default_music_text">Αυτόματα</string>
     <string name="galleryplus_gallery_video_item3_default_text">Συναισθήματα</string>
@@ -552,7 +560,7 @@ ID:%s
     <string name="galleryplus_online_video_loading">Μια στιγμή…</string>
     <string name="galleryplus_orientation_lock">Επιτυχές κλειδώματος κατεύθυνσης</string>
     <string name="galleryplus_orientation_unlock">Ο προσανατολισμός της οθόνης είναι ξεκλείδωτος</string>
-    <string name="galleryplus_permission_content">Χορηγήστε στη Mi Βίντεο τις απαιτούμενες άδειες για να έχετε τη δυνατότητα να χρησιμοποιείτε τη λειτουργία.</string>
+    <string name="galleryplus_permission_content">Χορηγήστε στο Mi Βίντεο τις απαιτούμενες άδειες για να έχετε τη δυνατότητα να χρησιμοποιείτε τη λειτουργία.</string>
     <string name="galleryplus_permission_content_opt">Το Mi Βίντεο χρειάζεται άδειες για να λειτουργεί κανονικά. Διαγράψτε όλα τα δεδομένα εφαρμογής στις Ρυθμίσεις και ανοίξτε ξανά την εφαρμογή.</string>
     <string name="galleryplus_permission_content_opt2">"Το Mi Βίντεο χρειάζεται άδειες για να λειτουργεί κανονικά. Διαγράψτε όλα τα δεδομένα της εφαρμογής στις Ρυθμίσεις και ανοίξτε ξανά την εφαρμογή.
 Αυτή η λειτουργία δεν θα επηρεάσει τις φωτογραφίες της συλλογής σας."</string>
@@ -627,7 +635,6 @@ ID:%s
     <string name="got_it">Κατάλαβα</string>
     <string name="goto_sign_up">Δημιουργία λογαριασμού</string>
     <string name="have_learned">Κατάλαβα</string>
-    <string name="hello_blank_fragment">Hello blank fragment</string>
     <string name="hidden_channels">Τα ακόλουθα κανάλια δεν θα εμφανίζονται στην Αρχική σελίδα.</string>
     <string name="hide">Απόκρυψη</string>
     <string name="hint_icon_ad_title">Προτεινόμενα</string>
@@ -636,12 +643,12 @@ ID:%s
     <string name="history_local_video">Τοπικά</string>
     <string name="history_online_video">Διαδικτυακά</string>
     <string name="hot">Δημοφιλή</string>
+    <string name="icon_content_description">Εικονίδιο παραθύρου διαλόγου</string>
     <string name="identity">Ταυτότητα</string>
     <string name="inconsistent_pwd">Οι κωδικοί δεν ταιριάζουν</string>
     <string name="init_channels">Επαναφορά προεπιλογών</string>
     <string name="input_email_address_notice">Θα χρησιμοποιήσουμε αυτό το email για επαλήθευση του λογαριασμού σας</string>
     <string name="input_new_pwd">Εισαγωγή νέου κωδικού</string>
-    <string name="input_size_tips">Μπορείτε να εισαγάγετε έως και 1000 χαρακτήρες</string>
     <string name="input_size_tips_new">Μπορείτε να εισαγάγετε μέχρι %d χαρακτήρες</string>
     <string name="isornot_your_mi_account">Είναι αυτός ο Mi Λογαριασμός σας;</string>
     <string name="issue">Πρόβλημα</string>
@@ -654,6 +661,8 @@ ID:%s
     <string name="item_download_path">Λήψη τοποθεσίας</string>
     <string name="item_download_path_setting">Λήψη ρυθμίσεων τοποθεσίας</string>
     <string name="item_setting_go_back">Ανάκληση συγκατάθεσης</string>
+    <string name="item_title_unknown">Άγνωστος τίτλος</string>
+    <string name="item_view_role_description">Καρτέλα</string>
     <string name="just_a_second">Μια στιγμή…</string>
     <string name="language_later_setting_tips">Μπορείτε να αλλάξετε τις γλωσσικές προτιμήσεις στο Προφίλ > Γλώσσα.</string>
     <string name="language_select_tips">"Επιλέξτε την προτιμώμενη γλώσσα
@@ -668,10 +677,14 @@ ID:%s
     <string name="local_diversion_close_recommend">Κλείσιμο</string>
     <string name="local_diversion_download_more_video">Περισσότερα βίντεο</string>
     <string name="local_diversion_manage_local_video">Διαχείριση αρχείων</string>
-    <string name="local_diversion_open_mivideo">"Παρακολουθήστε στο Mi Βίντεο
-για την καλύτερη εμπειρία προβολής"</string>
+    <string name="local_diversion_open_mivideo">*Εναλλαγή στο Mi Βίντεο, ένα ισχυρό πρόγραμμα αναπαραγωγής βίντεο πολλαπλών λειτουργιών</string>
     <string name="local_diversion_recommend_title">Δημοφιλή</string>
     <string name="local_empty_guide">Τα βίντεο που γυρίζετε θα εμφανίζονται εδώ</string>
+    <string name="local_folder_select_count">Έγινε επιλογή %s</string>
+    <string name="local_hide_folder_dialog_content">Τα κρυφά βίντεο δεν θα εμφανίζονται στις λίστες αναπαραγωγής σας</string>
+    <string name="local_hide_folder_dialog_title">Κρυφά βίντεο</string>
+    <string name="local_hide_folder_setting_goto">Ρυθμίσεις</string>
+    <string name="local_hide_folder_setting_tip">Μπορείτε να διαχειριστείτε τα κρυφά σας βίντεο στο Προφίλ > Ρυθμίσεις > Διαχείριση κρυφών βίντεο.</string>
     <string name="local_play_tip">Γίνεται αναπαραγωγή τοπικού βίντεο</string>
     <string name="local_push_setting_power_tag">Ειδοποιήσεις για τα τοπικά βίντεο</string>
     <string name="local_push_title">Δημοφιλή σήμερα</string>
@@ -738,7 +751,6 @@ ID:%s
     <string name="lv_brightness">Φωτεινότητα</string>
     <string name="lv_cast">Μετάδοση</string>
     <string name="lv_check_delete_file">Επιλογή αντικειμένων για διαγραφή</string>
-    <string name="lv_check_send_file">Μπορείτε να στείλετε μόνο 1 αρχείο κάθε φορά</string>
     <string name="lv_check_send_file_new">Μπορείτε να στείλετε μόνο %d αρχείο κάθε φορά</string>
     <string name="lv_confirm_delete_history">Διαγραφή επιλεγμένων αντικειμένων;</string>
     <string name="lv_confirm_delete_videos">Διαγραφή αντικειμένων;</string>
@@ -801,14 +813,10 @@ ID:%s
     <string name="lv_subtitle_manual_add_sub">Επιτυχής προσθήκη υποτίτλων</string>
     <string name="lv_subtitle_no_subtitle">Δεν υπάρχουν διαθέσιμοι υπότιτλοι</string>
     <string name="lv_subtitle_non_subtitle_file">Μη διαθέσιμα αρχεία υποτίτλων</string>
-    <string name="lv_subtitle_offset_add_1s">+1δ</string>
     <string name="lv_subtitle_offset_add_1s_new">+%dδ</string>
-    <string name="lv_subtitle_offset_add_dot5s">+0.5δ</string>
     <string name="lv_subtitle_offset_add_dot5s_new">+%fδ</string>
     <string name="lv_subtitle_offset_normal">Να μην μετακινηθούν υπότιτλοι</string>
-    <string name="lv_subtitle_offset_sub_1s">-1δ</string>
     <string name="lv_subtitle_offset_sub_1s_new">-%dδ</string>
-    <string name="lv_subtitle_offset_sub_dot5s">-0.5δ</string>
     <string name="lv_subtitle_offset_sub_dot5s_new">-%fδ</string>
     <string name="lv_subtitle_onlinesub_language">Γλώσσα: %s</string>
     <string name="lv_subtitle_onlinesub_loading">Φόρτωση υποτίτλων…</string>
@@ -822,7 +830,6 @@ ID:%s
     <string name="lv_subtitle_onlinesub_size_string_b">Μέγεθος: %sB</string>
     <string name="lv_subtitle_onlinesub_title">Online υπότιτλοι</string>
     <string name="lv_subtitle_open_subtitle_file_title">Εύρεση αρχείου υποτίτλων</string>
-    <string name="lv_subtitle_preoffset_max">Αδυναμία μετακίνησης παραπάνω από 5δ</string>
     <string name="lv_subtitle_preoffset_max_new">Δεν μπορεί να προχωρήσει περισσότερο από %dδ</string>
     <string name="lv_subtitle_subonline_non_network">Αδυναμία σύνδεσης στο δίκτυο. Συνδεθείτε και προσπαθήστε ξανά.</string>
     <string name="lv_subtitle_synchronization_title">Συγχρονισμός</string>
@@ -841,6 +848,18 @@ ID:%s
     <string name="mangotv_feature_more">Περισσότερα</string>
     <string name="mangotv_feature_title1">Επεισόδια</string>
     <string name="mangotv_feature_title2">Επεισόδια</string>
+    <string name="material_clock_toggle_content_description">Επιλέξτε π.μ. ή μ.μ.</string>
+    <string name="material_hour_selection">Επιλογή ώρας</string>
+    <string name="material_hour_suffix">%1$s ακριβώς</string>
+    <string name="material_minute_selection">Επιλογή λεπτών</string>
+    <string name="material_minute_suffix">%1$s λεπτά</string>
+    <string name="material_timepicker_am">ΠΜ</string>
+    <string name="material_timepicker_clock_mode_description">Κάντε εναλλαγή στη λειτουργία ρολογιού, για την εισαγωγή της ώρας.</string>
+    <string name="material_timepicker_hour">Ώρα</string>
+    <string name="material_timepicker_minute">Λεπτό</string>
+    <string name="material_timepicker_pm">ΜΜ</string>
+    <string name="material_timepicker_select_time">Επιλέξτε ώρα</string>
+    <string name="material_timepicker_text_input_mode_description">Κάντε εναλλαγή στη λειτουργία εισαγωγής κειμένου, για την εισαγωγή της ώρας.</string>
     <string name="mediation_ad_can_not_share">Αδυναμία κοινοποίησης αυτού του βίντεο</string>
     <string name="mi_video">Mi Βίντεο</string>
     <string name="midnight">Νύχτα</string>
@@ -945,6 +964,41 @@ ID:%s
     <string name="mr_controller_volume_slider">Ρυθμιστικό έντασης ήχου</string>
     <string name="mr_system_route_name">Σύστημα</string>
     <string name="mr_user_route_category_name">Συσκευές</string>
+    <string name="mtrl_badge_numberless_content_description">Νέα ειδοποίηση</string>
+    <string name="mtrl_chip_close_icon_content_description">Κατάργηση %1$s</string>
+    <string name="mtrl_exceed_max_badge_number_content_description">Πάνω από %1$d νέες ειδοποιήσεις</string>
+    <string name="mtrl_picker_a11y_next_month">Αλλαγή στον επόμενο μήνα</string>
+    <string name="mtrl_picker_a11y_prev_month">Αλλαγή στον προηγούμενο μήνα</string>
+    <string name="mtrl_picker_announce_current_selection">Τρέχουσα επιλογή: %1$s</string>
+    <string name="mtrl_picker_confirm">@android:string/ok</string>
+    <string name="mtrl_picker_date_header_selected">%1$s</string>
+    <string name="mtrl_picker_date_header_title">Επιλογή ημερομηνίας</string>
+    <string name="mtrl_picker_date_header_unselected">Επιλεγμένη ημερομηνία</string>
+    <string name="mtrl_picker_day_of_week_column_header">Στήλη ημερών: %1$s</string>
+    <string name="mtrl_picker_invalid_format">Μη έγκυρη μορφή.</string>
+    <string name="mtrl_picker_invalid_format_example">Παράδειγμα: %1$s</string>
+    <string name="mtrl_picker_invalid_format_use">Χρησιμοποιήστε: %1$s</string>
+    <string name="mtrl_picker_invalid_range">Μη έγκυρο εύρος.</string>
+    <string name="mtrl_picker_navigate_to_year_description">Πλοήγηση στο έτος %1$s</string>
+    <string name="mtrl_picker_out_of_range">Εκτός εύρους: %1$s</string>
+    <string name="mtrl_picker_range_header_only_end_selected">Ημερομηνία έναρξης – %1$s</string>
+    <string name="mtrl_picker_range_header_only_start_selected">%1$s – Ημερομηνία λήξης</string>
+    <string name="mtrl_picker_range_header_selected">%1$s – %2$s</string>
+    <string name="mtrl_picker_range_header_title">Επιλογή εύρους</string>
+    <string name="mtrl_picker_range_header_unselected">Ημερομηνία έναρξης – Ημερομηνία λήξης</string>
+    <string name="mtrl_picker_save">Αποθήκευση</string>
+    <string name="mtrl_picker_text_input_date_hint">Ημερομηνία</string>
+    <string name="mtrl_picker_text_input_date_range_end_hint">Ημερομηνία λήξης</string>
+    <string name="mtrl_picker_text_input_date_range_start_hint">Ημερομηνία έναρξης</string>
+    <string name="mtrl_picker_text_input_day_abbr">η</string>
+    <string name="mtrl_picker_text_input_month_abbr">μ</string>
+    <string name="mtrl_picker_text_input_year_abbr">ε</string>
+    <string name="mtrl_picker_toggle_to_calendar_input_mode">Εναλλαγή στη λειτουργία εισαγωγής ημερολογίου</string>
+    <string name="mtrl_picker_toggle_to_day_selection">Πατήστε για εναλλαγή για την επιλογή ημέρας</string>
+    <string name="mtrl_picker_toggle_to_text_input_mode">Εναλλαγή στη λειτουργία εισαγωγής κειμένου</string>
+    <string name="mtrl_picker_toggle_to_year_selection">Πατήστε για εναλλαγή για την επιλογή έτους</string>
+    <string name="music_new_user_dialog_got_it">Κατανοητό</string>
+    <string name="music_new_user_dialog_tip">Καλώς ήρθατε στο Mi Βίντεο! Αυτή η εφαρμογή παρέχει ένα τοπικό πρόγραμμα αναπαραγωγής βίντεο και υπηρεσίες διαδικτυακής ροής μουσικής και βίντεο.</string>
     <string name="my_favorite_channels">Αγαπημένο κανάλι</string>
     <string name="my_feedback_title">Η ανατροφοδότησή μου</string>
     <string name="need_update_app">Ενημερώστε το Mi Βίντεο για χρήση όλων των λειτουργιών του</string>
@@ -1062,6 +1116,7 @@ ID:%s
     <string name="ovp_navigation_language">Γλώσσα</string>
     <string name="ovp_navigation_localvideo">Τοπικά</string>
     <string name="ovp_navigation_notice">Ειδοποιήσεις</string>
+    <string name="ovp_navigation_playlist">Λίστες αναπαραγωγής</string>
     <string name="ovp_navigation_score">Αξιολογήστε την εφαρμογή μας</string>
     <string name="ovp_navigation_setting">Ρυθμίσεις</string>
     <string name="ovp_navigation_subscribe">Συνδρομή</string>
@@ -1188,6 +1243,7 @@ ID:%s
     <string name="passport_wrong_phone_number_format">Η μορφή αριθμού τηλεφώνου που εισαγάγατε δεν είναι έγκυρη</string>
     <string name="passport_wrong_vcode">Ο κωδικός που εισαγάγατε είναι εσφαλμένος</string>
     <string name="passport_wrong_voice">Ο κωδικός που εισαγάγατε είναι εσφαλμένος</string>
+    <string name="password_toggle_content_description">Εμφάνιση κωδικού πρόσβασης</string>
     <string name="permission_continue">Συνέχεια</string>
     <string name="permission_info">"Το Mi Βίντεο χρειάζεται πρόσβαση στον αριθμό IMEI της συσκευής σας για να κάνει τα εξής:
  
@@ -1208,6 +1264,18 @@ ID:%s
     <string name="phone_number">Αριθμός τηλεφώνου</string>
     <string name="photoPickerNotFoundText">Δεν υπάρχουν διαθέσιμες φωτογραφίες.</string>
     <string name="pip">Εικόνα σε εικόνα (PiP)</string>
+    <string name="play_list_delete_title">Διαγραφή αυτής της λίστας αναπαραγωγής τώρα;</string>
+    <string name="play_list_detial_add">Προσθήκη βίντεο</string>
+    <string name="play_list_detial_delete">Διαγραφή</string>
+    <string name="play_list_detial_play">Αναπαραγωγή</string>
+    <string name="play_list_detial_rename">Μετονομασία</string>
+    <string name="play_list_player_skeleton_file">mnc_live_tv_list_player_skeleton.json</string>
+    <string name="play_list_save_dialog_create">Δημιουργία λίστας αναπαραγωγής</string>
+    <string name="play_list_save_dialog_title">Προσθήκη σε λίστα αναπαραγωγής</string>
+    <string name="play_list_sign_in_dialog_message">Συνδεθείτε με τον Λογαριασμό Google σας για να δείτε όλες τις λίστες αναπαραγωγής σας.</string>
+    <string name="play_list_skeleton_file">mnc_live_tv_list_skeleton.json</string>
+    <string name="play_list_user_local">Τοπικά</string>
+    <string name="play_list_user_online">Online</string>
     <string name="playlist_create">Δημιουργία</string>
     <string name="playlist_detail_recomm_title">Προτεινόμενες λίστες αναπαραγωγής</string>
     <string name="playlist_finish">Τέλος</string>
@@ -1231,7 +1299,7 @@ ID:%s
     <string name="plus_gallery_mediatype_aimusic">Κομμάτια</string>
     <string name="plus_gallery_mediatype_changtu">Μεγάλες εικόνες</string>
     <string name="plus_gallery_mediatype_fangtu">Τετράγωνες εικόνες</string>
-    <string name="plus_gallery_mediatype_fastslowvideo">Προέλευση χρόνου &amp; αργή κίνηση</string>
+    <string name="plus_gallery_mediatype_fastslowvideo">Βαθμιαία παρέλευση χρόνου &amp; αργή κίνηση</string>
     <string name="plus_gallery_mediatype_gif">GIF</string>
     <string name="plus_gallery_mediatype_hidded">Κρυμμένα αντικείμενα</string>
     <string name="plus_gallery_mediatype_longvideo">Μεγάλα βίντεο</string>
@@ -1252,7 +1320,6 @@ ID:%s
     <string name="plus_mine_gallery">Τα άλμπουμ μου</string>
     <string name="plus_mine_videos">Τα βίντεο μου</string>
     <string name="plus_player_8k_video_not_support">Αδυναμία αναπαραγωγής βίντεο 8Κ σε αυτή τη συσκευή</string>
-    <string name="plus_player_8k_video_not_support_new">Αδυναμία αναπαραγωγής βίντεο %dK σε αυτήν τη συσκευή</string>
     <string name="plus_player_audio_track">Αρχείο ήχου</string>
     <string name="plus_player_detail_file_location">"Τοποθεσία: "</string>
     <string name="plus_player_detail_file_name">"Όνομα αρχείου: "</string>
@@ -1380,7 +1447,6 @@ ID:%s
     <string name="read_and_agree">Αποδοχή</string>
     <string name="recommend_channels">Προτεινόμενα κανάλια</string>
     <string name="recommend_online_switch">Online συστάσεις</string>
-    <string name="recommend_online_switch_open_time">Η λειτουργία αυτή θα ενεργοποιηθεί αυτόματα στις %s</string>
     <string name="recommend_online_tips">Ενεργοποιήστε για να λάβετε online προτάσεις βίντεο</string>
     <string name="recommend_page_replay">ΑΝΑΠΑΡΑΓΩΓΗ</string>
     <string name="recommend_switch_alert">Για αφαίρεση αυτής της ενότητας, μεταβείτε στις ρυθμίσεις για Mi Βίντεο</string>
@@ -1450,6 +1516,7 @@ ID:%s
     <string name="sending">Γίνεται αποστολή…</string>
     <string name="service_error">Σφάλμα διακομιστή</string>
     <string name="set_success">Επιτυχής αλλαγή</string>
+    <string name="settings_manager_hidden_folder">Διαχείριση κρυφών βίντεο</string>
     <string name="share">Κοινοποίηση</string>
     <string name="share_fail">Αδυναμία κοινοποίησης. Ελέγξτε τις ρυθμίσεις του δικτύου σας και προσπαθήστε ξανά.</string>
     <string name="share_success">Επιτυχής κοινοποίηση</string>
@@ -1464,6 +1531,10 @@ ID:%s
     <string name="sign_in_title">Συνδεθείτε μέσω του Mi Λογαριασμού σας</string>
     <string name="slid_fail_message">Αδυναμία αποθήκευσης</string>
     <string name="slide_save_message">Δημιουργία βίντεο…</string>
+    <string name="small_video_cancel_button">Ακύρωση</string>
+    <string name="small_video_download_button">Λήψη</string>
+    <string name="small_video_snack_download_description">Κατεβάστε το SnackVideo για να δείτε τα πιο πρόσφατα βίντεο από τους αγαπημένους σας δημιουργούς.</string>
+    <string name="small_video_snack_download_title">SnackVideo</string>
     <string name="sms_send_success">Επιτυχής αποστολή</string>
     <string name="sns_access_token_expired_warning">Η συνεδρία έληξε. Συνδεθείτε ξανά για επανασύνδεση αυτού του λογαριασμού.</string>
     <string name="sns_bind_limit">Πάρα πολλές προσπάθειες. Δοκιμάστε άλλους τρόπους σύνδεσης.</string>
@@ -1499,7 +1570,6 @@ ID:%s
     <string name="sure_to_logout">Αποσύνδεση τώρα;</string>
     <string name="switch_ratio_pause">Η ταχύτητα αναπαραγωγής είναι ασταθής. Εναλλαγή στην προεπιλεγμένη ταχύτητα.</string>
     <string name="symbol_rmb">¥</string>
-    <string name="sync_favorites_limit">Υπάρχουν πάνω από 500 βίντεο στα αγαπημένα σας. Θα πρέπει να διαγράψουμε ορισμένα από τα παλαιότερα βίντεο για να συνεχίσει ο συγχρονισμός.</string>
     <string name="sync_favorites_limit_new">Υπάρχουν πάνω από %d βίντεο στα αγαπημένα σας. Θα πρέπει να διαγράψουμε ορισμένα από τα παλαιότερα βίντεο για να συνεχίσει ο συγχρονισμός.</string>
     <string name="sync_favorites_message">Συγχρονισμός αγαπημένων από τη συσκευή στον λογαριασμό σας; Τα αντικείμενα που δεν είναι πλέον διαθέσιμα θα αφαιρεθούν.</string>
     <string name="sync_favorites_title">Συγχρονισμός αγαπημένων</string>
@@ -1512,7 +1582,6 @@ ID:%s
     <string name="t_lv_check_unhide_file">Επιλογή βίντεο για αναίρεση απόκρυψης</string>
     <string name="t_lv_downloading_new_version">Γίνεται λήψη ενημερώσεων…</string>
     <string name="t_lv_no_new_version">Το Mi Βίντεο είναι ενημερωμένο.</string>
-    <string name="t_lv_password_limit">Ο κωδικός πρέπει να έχει τουλάχιστον 4 χαρακτήρες</string>
     <string name="t_lv_password_limit_new">Ο κωδικός πρόσβασης θα πρέπει να αποτελείται από τουλάχιστον %d χαρακτήρες</string>
     <string name="t_lv_password_null">Ο κωδικός δεν πρέπει να είναι κενός</string>
     <string name="t_lv_password_wrong">Ο κωδικός είναι εσφαλμένος. Προσπαθήστε ξανά.</string>
@@ -1520,7 +1589,6 @@ ID:%s
     <string name="t_lv_subtitle_padding_default_hint">Γίνεται διόρθωση υποτίτλων…</string>
     <string name="t_network_error">Παρουσιάστηκε σφάλμα δικτύου.</string>
     <string name="t_ovp_check_delete_favor">Επιλογή αντικειμένων για αφαίρεση</string>
-    <string name="t_password_limit">Ο κωδικός πρέπει να έχει τουλάχιστον 4 χαρακτήρες</string>
     <string name="t_password_limit_new">Ο κωδικός πρόσβασης πρέπει να αποτελείται από τουλάχιστον %d χαρακτήρες</string>
     <string name="t_password_null">Ο κωδικός δεν πρέπει να είναι κενός</string>
     <string name="t_password_wrong">Ο κωδικός που εισαγάγατε είναι εσφαλμένος. Προσπαθήστε ξανά.</string>
@@ -1529,8 +1597,11 @@ ID:%s
     <string name="tab_name_local">Τοπικά</string>
     <string name="tab_name_me">Προφίλ</string>
     <string name="tab_name_moment">Στιγμές</string>
+    <string name="tab_name_movies">Ταινίες</string>
     <string name="tab_name_trending">Δημοφιλή</string>
     <string name="tab_name_video">Βίντεο</string>
+    <string name="tab_playlist_local">Τοπικά</string>
+    <string name="tab_playlist_online">Σε σύνδεση</string>
     <string name="talkback_ad_clicked">Διαφήμιση</string>
     <string name="talkback_background_playback">Αναπαραγωγή στο παρασκήνιο</string>
     <string name="talkback_voice_search">Φωνητική αναζήτηση</string>
@@ -1593,6 +1664,7 @@ ID:%s
     <string name="tip_enter_the_website">%d. Ανοίξτε μια ιστοσελίδα ή μια εφαρμογή</string>
     <string name="tip_local_long_press_for_manager">Πατήστε παρατεταμένα για διαχείριση βίντεο</string>
     <string name="tip_local_manager_here">Διαχειριστείτε τα αρχεία σας εδώ</string>
+    <string name="tip_login_for_your_online_playlist">Συνδεθείτε για να δείτε τις λίστες αναπαραγωγής σας.</string>
     <string name="tip_play_a_video">%d. Αναπαραγάγετε ένα βίντεο</string>
     <string name="tip_pop">&lt;com.miui.video.biz.livetv.data.mnc.information.Data>Το περιεχόμενο από Στιγμές παρέχεται από τη Firework. Για να βελτιώσουμε την εμπειρία προβολής και να λάβουμε πιο σχετικές προτάσεις περιεχομένου, να επιτρέπεται στη Firework να συλλέγει, επεξεργάζεται και χρησιμοποιεί τα προσωπικές σας δεδομένα σύμφωνα με την Πολιτική Απορρήτου της. Διαβάστε και συμφωνήστε με την &lt;a href=\"%1$s\">Πολιτική Απορρήτου της Firework&lt;/a> πριν χρησιμοποιήσετε τις υπηρεσίες της.&lt;/com.miui.video.biz.livetv.data.mnc.information.Data></string>
     <string name="tip_storage_used_space" formatted="false">Χρησιμοποιείται %.2f GB/%.2f GB</string>
@@ -1615,8 +1687,11 @@ ID:%s
     <string name="toast_bookmark_success_to_add">Προστέθηκε σελιδοδείκτης</string>
     <string name="toast_bookmark_success_to_delete">Διαγράφηκε σελιδοδείκτης</string>
     <string name="toast_bookmark_url_error">Εισαγωγή έγκυρης URL</string>
+    <string name="toast_fail_to_delete">Αδυναμία διαγραφής. Προσπαθήστε ξανά.</string>
+    <string name="toast_fail_to_rename">Αδυναμία μετονομασίας. Προσπαθήστε ξανά.</string>
     <string name="toast_m3u8_download_path_tip">Αδυναμία αλλαγής της διαδρομής λήψης για περιεχόμενο σε μορφή m3u8</string>
     <string name="toast_no_data">Αυτό το στοιχείο δεν είναι διαθέσιμο τώρα. Επιστρέψτε αργότερα.</string>
+    <string name="toast_play_error_tip">Αδυναμία αναπαραγωγής αυτού του αρχείου</string>
     <string name="toast_request_too_frequently">Όχι τόσο γρήγορα!</string>
     <string name="toast_share_failed">Αδυναμία κοινοποίησης. Περιμένετε ένα δύο λεπτά και προσπαθήστε ξανά.</string>
     <string name="today">Σήμερα</string>
@@ -1625,7 +1700,6 @@ ID:%s
     <string name="tool_bar_notification_setting_title">Γραμμή εργαλείων μπάρας ειδοποιήσεων</string>
     <string name="top_bar_game_desc">Ανακαλύψτε πολλά νέα παιχνίδια εδώ</string>
     <string name="top_bar_game_title">Κανάλι Παιχνιδιών</string>
-    <string name="trending_scroll_load_more">Σύρετε προς τα πάνω για περισσότερα βίντεο</string>
     <string name="tuesday">Τρίτη</string>
     <string name="tuesday_short">Τρι</string>
     <string name="tuesday_shortest">Τρι</string>

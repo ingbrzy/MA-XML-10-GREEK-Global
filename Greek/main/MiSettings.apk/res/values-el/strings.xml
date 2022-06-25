@@ -427,40 +427,40 @@
     <string name="monday">Δευτέρα</string>
     <string name="monday_short">Δευ</string>
     <string name="monday_shortest">Δευ</string>
-    <string name="month_april">Απρίλιος</string>
+    <string name="month_april">Απριλίου</string>
     <string name="month_april_short">Απρ</string>
     <string name="month_april_shortest">Απρ</string>
-    <string name="month_august">Αύγουστος</string>
+    <string name="month_august">Αυγούστου</string>
     <string name="month_august_short">Αυγ</string>
     <string name="month_august_shortest">Αυγ</string>
-    <string name="month_december">Δεκέμβριος</string>
+    <string name="month_december">Δεκεμβρίου</string>
     <string name="month_december_short">Δεκ</string>
     <string name="month_december_shortest">Δεκ</string>
-    <string name="month_february">Φεβρουάριος</string>
+    <string name="month_february">Φεβρουαρίου</string>
     <string name="month_february_short">Φεβ</string>
     <string name="month_february_shortest">Φεβ</string>
-    <string name="month_january">Ιανουάριος</string>
+    <string name="month_january">Ιανουαρίου</string>
     <string name="month_january_short">Ιαν</string>
     <string name="month_january_shortest">Ιαν</string>
-    <string name="month_july">Ιούλιος</string>
+    <string name="month_july">Ιουλίου</string>
     <string name="month_july_short">Ιουλ</string>
     <string name="month_july_shortest">Ιουλ</string>
-    <string name="month_june">Ιούνιος</string>
+    <string name="month_june">Ιουνίου</string>
     <string name="month_june_short">Ιουν</string>
     <string name="month_june_shortest">Ιουν</string>
-    <string name="month_march">Μάρτιος</string>
+    <string name="month_march">Μαρτίου</string>
     <string name="month_march_short">Μαρ</string>
     <string name="month_march_shortest">Μαρ</string>
-    <string name="month_may">Μαι</string>
+    <string name="month_may">Μαΐου</string>
     <string name="month_may_short">Μαι</string>
     <string name="month_may_shortest">Μαι</string>
-    <string name="month_november">Νοέμβριος</string>
+    <string name="month_november">Νοεμβρίου</string>
     <string name="month_november_short">Νοε</string>
     <string name="month_november_shortest">Νοε</string>
-    <string name="month_october">Οκτώβριος</string>
+    <string name="month_october">Οκτωβρίου</string>
     <string name="month_october_short">Οκτ</string>
     <string name="month_october_shortest">Οκτ</string>
-    <string name="month_september">Σεπτέμβριος</string>
+    <string name="month_september">Σεπτεμβρίου</string>
     <string name="month_september_short">Σεπ</string>
     <string name="month_september_shortest">Σεπ</string>
     <string name="moose">Moose</string>
@@ -591,10 +591,10 @@
     <string name="steady_on_screen_notify">Ειδοποίηση για αδιάκοπη χρήση</string>
     <string name="steady_on_screen_setting">Χρονικό όριο για αδιάκοπες συνεδρίες</string>
     <string name="steady_on_screen_summary">Χρονικό όριο για αδιάκοπες συνεδρίες</string>
-    <string name="stop_app_timer">Απενεργοποίηση της Χρόνος χρήσης οθόνης</string>
-    <string name="stop_app_timer_fail">Αδυναμία απενεργοποίησης της Χρόνος χρήσης οθόνης</string>
-    <string name="stop_app_timer_success">Επιτυχής απενεργοποίηση της Χρόνος χρήσης οθόνης</string>
-    <string name="stop_app_timer_tip">Όλα τα δεδομένα και άδειες της Χρόνος χρήσης οθόνης, περιλαμβανομένων των ατομικών ρυθμίσεων, καθώς και τα αντικείμενα που αποθηκεύονται τοπικά και συγχρονίζονται με το cloud, θα διαγραφούν μόλις απενεργοποιήσετε αυτή τη λειτουργία.</string>
+    <string name="stop_app_timer">Απενεργοποίηση Χρόνου χρήσης οθόνης</string>
+    <string name="stop_app_timer_fail">Αδυναμία απενεργοποίησης Χρόνου χρήσης οθόνης</string>
+    <string name="stop_app_timer_success">Επιτυχής απενεργοποίηση Χρόνου χρήσης οθόνης</string>
+    <string name="stop_app_timer_tip">Όλα τα δεδομένα και άδειες του Χρόνου χρήσης οθόνης, περιλαμβανομένων των ατομικών ρυθμίσεων, καθώς και τα αντικείμενα που αποθηκεύονται τοπικά και συγχρονίζονται με το σύννεφο, θα διαγραφούν μόλις απενεργοποιήσετε αυτή τη λειτουργία.</string>
     <string name="stop_summary">Όλα τα στατιστικά στοιχεία και δεδομένα Χρόνου χρήσης οθόνης θα διαγραφούν όταν απενεργοποιήσετε αυτή τη λειτουργία</string>
     <string name="suggestion">Ανατροφοδότηση</string>
     <string name="summary_collapsed_preference_list">%1$s, %2$s</string>
@@ -652,6 +652,7 @@
     <string name="time_picker_dialog_title">Ορισμός χρόνου</string>
     <string name="time_picker_label_hour">Ω</string>
     <string name="time_picker_label_minute">Λ</string>
+    <string name="time_placeholder">--</string>
     <string name="title_activity_easy_mode">Λειτουργία Lite</string>
     <string name="title_mix_match_sound">Nature mix</string>
     <string name="title_mix_match_tips">Tap animals to listen to demos. You can add up to 5 animals to the mix.</string>
@@ -683,11 +684,11 @@
     <string name="usage_app_get_it">Κατάλαβα</string>
     <string name="usage_app_holiday_limit">Ρεπό</string>
     <string name="usage_app_limit_alter_summary">Φαίνεται ότι αυτή τη φορά το χρονικό όριο είναι μικρότερο από την ώρα που χρησιμοποιήσατε αυτή την εφαρμογή σήμερα. Ορισμός ορίου παρόλα αυτά;</string>
-    <string name="usage_app_limit_alter_title">Έλεγχος ορίου χρήσης οθόνης</string>
+    <string name="usage_app_limit_alter_title">Έλεγχος ορίου χρόνου χρήσης οθόνης</string>
     <string name="usage_app_limit_prelong">Επέκταση χρόνου</string>
     <string name="usage_app_limit_reach_summay">%s απομένει</string>
     <string name="usage_app_limit_reach_summay_new">Πατήστε για προσθήκη %d λεπτών</string>
-    <string name="usage_app_limit_reach_title">%s φτάνει το όριο χρόνου χρήσης οθόνης</string>
+    <string name="usage_app_limit_reach_title">Η εφαρμογή %s φτάνει το όριο χρόνου χρήσης οθόνης</string>
     <string name="usage_app_limit_reach_title_new" formatted="false">Υπολειπόμενος χρόνος χρήσης οθόνης για %1s: %2s</string>
     <string name="usage_app_limit_summary">Οι επιλεγμένες εφαρμογές δεν θα είναι διαθέσιμες όταν φτάσετε το όριο</string>
     <string name="usage_app_limit_title">Περιορισμός χρήσης οθόνης</string>
@@ -735,17 +736,17 @@
     <string name="usage_home_permission_phone_title">Πρόσβαση στις πληροφορίες συσκευής</string>
     <string name="usage_home_premission_main_summary">Καλώς ορίσατε στην εφαρμογή Χρόνος χρήσης οθόνης! Μπορείτε να χρησιμοποιείτε αυτή τη λειτουργία για να ορίσετε τον χρόνο χρήσης οθόνης, να βλέπετε στατιστικά στοιχεία και να πραγματοποιείτε εναλλαγή σε Λειτουργία εστίασης (π.χ., πόσες φορές ξεκλειδώσατε το τηλέφωνο να ενεργοποιήσατε την οθόνη, καθώς και πόση ώρα χρησιμοποιείτε εφαρμογές) για να λειτουργεί κανονικά.</string>
     <string name="usage_home_premission_main_summary_new">"Καλώς ορίσατε στην εφαρμογή Χρόνος χρήσης οθόνης!
-Για να μπορεί να λειτουργεί κανονικά, η εφαρμογή αυτή πρέπει να συλλέξει πληροφορίες για το χρόνο χρήσης οθόνης: πόσες φορές ξεκλειδώνετε το τηλέφωνό σας, ονόματα εφαρμογών και διάρκεια χρήσης εφαρμογής απαιτούνται για τη δημιουργία στατιστικών στοιχείων της εφαρμογής Χρόνος χρήσης οθόνης. Οι ρυθμίσεις της Λειτουργίας εστίασης απαιτούνται για τη δημιουργία στατιστικών στοιχείων της Λειτουργίας εστίασης.
+Για να μπορεί να λειτουργεί κανονικά, η εφαρμογή αυτή πρέπει να συλλέξει πληροφορίες για τον χρόνο χρήσης οθόνης: πόσες φορές ξεκλειδώνετε το τηλέφωνό σας, ονόματα εφαρμογών και διάρκεια χρήσης εφαρμογής απαιτούνται για τη δημιουργία στατιστικών στοιχείων της εφαρμογής Χρόνος χρήσης οθόνης. Οι ρυθμίσεις της Λειτουργίας εστίασης απαιτούνται για τη δημιουργία στατιστικών στοιχείων της Λειτουργίας εστίασης.
 Επίσης, η εφαρμογή αυτή πρέπει να συνδεθεί στο ίντερνετ και απαιτεί τις ακόλουθες άδειες για να συλλέξει τις προσωπικές σας πληροφορίες:"</string>
     <string name="usage_home_premission_main_summary_new_o">"Καλώς ορίσατε στην εφαρμογή Χρόνος χρήσης οθόνης!
-Για να μπορεί να λειτουργεί κανονικά, η εφαρμογή αυτή πρέπει να συλλέξει πληροφορίες για το χρόνο χρήσης οθόνης: πόσες φορές ξεκλειδώνετε το τηλέφωνό σας, ονόματα εφαρμογών και διάρκεια χρήσης εφαρμογής απαιτούνται για τη δημιουργία στατιστικών στοιχείων της εφαρμογής Χρόνος χρήσης οθόνης. 
+Για να μπορεί να λειτουργεί κανονικά, η εφαρμογή αυτή πρέπει να συλλέξει πληροφορίες για τον χρόνο χρήσης οθόνης: πόσες φορές ξεκλειδώνετε το τηλέφωνό σας, ονόματα εφαρμογών και διάρκεια χρήσης εφαρμογής απαιτούνται για τη δημιουργία στατιστικών στοιχείων της εφαρμογής Χρόνος χρήσης οθόνης.
 Επίσης, η εφαρμογή αυτή πρέπει να συνδεθεί στο ίντερνετ και απαιτεί τις ακόλουθες άδειες για να συλλέξει τις προσωπικές σας πληροφορίες:"</string>
     <string name="usage_home_premission_second_summary">Για να μπορεί να λειτουργεί κανονικά, η εφαρμογή αυτή πρέπει να συλλέξει τις προσωπικές σας πληροφορίες. Θα προστατεύουμε τις προσωπικές σας πληροφορίες σύμφωνα με του σχετικούς νόμου, κανονισμούς και πολιτικές απορρήτου.</string>
     <string name="usage_home_premission_second_summary_double_link_prefix">Θα προστατεύουμε τις προσωπικές σας πληροφορίες σύμφωνα με τους σχετικούς νόμους, κανονισμούς και πολιτικές απορρήτου. Εάν δεν συμφωνείτε να παραχωρήσετε αυτές τις άδειες ή να κοινοποιήσετε και να μεταφορτώσετε τις προσωπικές σας πληροφορίες, δεν θα έχετε τη δυνατότητα να χρησιμοποιείτε αυτή την εφαρμογή. Μπορείτε να ανακαλέσετε την εξουσιοδότησή σας από Χρόνος χρήσης οθόνης > Ρυθμίσεις > Απενεργοποίηση Χρόνου χρήσης οθόνης.</string>
     <string name="usage_home_premission_second_summary_double_link_suffix" formatted="false">"&lt;Data>Πριν χρησιμοποιήσετε αυτή την εφαρμογή, διαβάστε και να αποδεχτείτε τη &lt;a href='%1s'>Συμφωνία Χρήστη&lt;/a> και την &lt;a href='%2s'>Πολιτική Απορρήτου&lt;/a>.&lt;/Data>"</string>
-    <string name="usage_home_premission_second_summary_new">Θα προστατεύουμε τις προσωπικές σας πληροφορίες σύμφωνα με τους σχετικούς νόμους, κανονισμούς και πολιτικές απορρήτου. Εάν δεν συμφωνείτε να παραχωρήσετε αυτές τις άδειες ή να κοινοποιήσετε και να μεταφορτώσετε τις προσωπικές σας πληροφορίες, δεν θα έχετε τη δυνατότητα να χρησιμοποιείτε αυτή την εφαρμογή. Μπορείτε να ανακαλέσετε την εξουσιοδότησή σας από Χρόνος χρήσης οθόνης > Ρυθμίσεις > Απενεργοποίηση Χρόνου χρήσης οθόνης. Εάν έχετε άλλες ερωτήσεις σχετικά με το απόρρητο, μπορείτε να επικοινωνήσετε μαζί μας στη διεύθυνση privacy@xiaomi.com.</string>
-    <string name="usage_new_home_app_limit_summary">Ορίστε ημερήσιο όριο χρήσης οθόνης για αυτή την εφαρμογή</string>
-    <string name="usage_new_home_app_limit_title">Περιορισμός χρήσης οθόνης</string>
+    <string name="usage_home_premission_second_summary_new">Θα προστατεύουμε τις προσωπικές σας πληροφορίες σύμφωνα με τους σχετικούς νόμους, κανονισμούς και πολιτικές απορρήτου. Εάν δεν συμφωνείτε να παραχωρήσετε αυτές τις άδειες ή να κοινοποιήσετε και να μεταφορτώσετε τις προσωπικές σας πληροφορίες, δεν θα έχετε τη δυνατότητα να χρησιμοποιείτε αυτή την εφαρμογή. Μπορείτε να ανακαλέσετε την εξουσιοδότησή σας από τον Χρόνο χρήσης οθόνης > Ρυθμίσεις > Απενεργοποίηση Χρόνου χρήσης οθόνης. Εάν έχετε άλλες ερωτήσεις σχετικά με το απόρρητο, μπορείτε να επικοινωνήσετε μαζί μας στη διεύθυνση privacy@xiaomi.com.</string>
+    <string name="usage_new_home_app_limit_summary">Ορίστε ημερήσιο όριο χρόνου χρήσης οθόνης για αυτή την εφαρμογή</string>
+    <string name="usage_new_home_app_limit_title">Περιορισμός χρόνου χρήσης οθόνης</string>
     <string name="usage_new_home_average">"Μ.Ο. "</string>
     <string name="usage_new_home_avg_usage_day">Μ.Ο. %s ημερησίως</string>
     <string name="usage_new_home_category">Κατηγορία</string>
@@ -757,10 +758,10 @@
     <string name="usage_new_home_dashboard">Πίνακας εργαλείων</string>
     <string name="usage_new_home_date_day_title">%s | Διάρκεια χρήσης</string>
     <string name="usage_new_home_day_category_title">Κατηγορίες εφαρμογής</string>
-    <string name="usage_new_home_day_category_title_new">Χρήση οθόνης για κατηγορίες εφαρμογής στις %s</string>
+    <string name="usage_new_home_day_category_title_new">Χρόνος χρήσης οθόνης για κατηγορίες εφαρμογής στις %s</string>
     <string name="usage_new_home_day_title">Ημέρα</string>
     <string name="usage_new_home_day_usage_title">Μεμονωμένες εφαρμογές</string>
-    <string name="usage_new_home_day_usage_title_new">Χρήση οθόνης στις %s</string>
+    <string name="usage_new_home_day_usage_title_new">Χρόνος χρήσης οθόνης στις %s</string>
     <string name="usage_new_home_first_unlock">Πρώτο ξεκλείδωμα: %s</string>
     <string name="usage_new_home_name">Όνομα</string>
     <string name="usage_new_home_show_more_data_summary">Επίσης, μπορείτε να περιορίσετε τον χρόνο χρήσης οθόνης για μεμονωμένες εφαρμογές</string>
@@ -793,7 +794,7 @@
 Η εφαρμογή αυτή πρέπει να συνδεθεί στο ίντερνετ και απαιτεί τις ακόλουθες άδειες για να λειτουργεί κανονικά:"</string>
     <string name="usage_permission_title">Προσοχή</string>
     <string name="usage_reach_device_limit">Ο χρόνος έληξε! Συμπληρώσατε το όριό σας.</string>
-    <string name="usage_reach_device_limit_warning_text">Συμπληρώσατε το όριο του χρόνου οθόνης για σήμερα</string>
+    <string name="usage_reach_device_limit_warning_text">Συμπληρώσατε το όριο χρόνου χρήσης οθόνης για σήμερα</string>
     <string name="usage_refresh">Προσπαθήστε ξανά</string>
     <string name="usage_remain_about_hour_miunte">≈%1$s %2$s</string>
     <string name="usage_remain_hour_miunte">%1$s %2$s</string>
@@ -804,7 +805,7 @@
     <string name="usage_runtime_summary">Οι άδειες αυτές απαιτούνται για να γίνουν διαθέσιμες οι βασικές λειτουργίες και υπηρεσίες αυτής της εφαρμογής.</string>
     <string name="usage_runtime_title">Υποχρεωτικές άδειες</string>
     <string name="usage_special_feature">Ειδικές λειτουργίες</string>
-    <string name="usage_state_accurate_date">dd MMMM yyyy</string>
+    <string name="usage_state_accurate_date">d MMMM, yyyy</string>
     <string name="usage_state_add_up_count">Συνεδρίες</string>
     <string name="usage_state_add_up_days">Ημέρες</string>
     <string name="usage_state_add_up_time">Συνολικός χρόνος</string>
@@ -813,8 +814,8 @@
     <string name="usage_state_app_remain_time">Χρόνος που απομένει: %s</string>
     <string name="usage_state_app_timer">Χρόνος χρήσης οθόνης</string>
     <string name="usage_state_app_usage_detail_title">Λεπτομέρειες χρήσης εφαρμογών</string>
-    <string name="usage_state_app_usage_limit">Όρια χρήσης οθόνης εφαρμογής</string>
-    <string name="usage_state_app_usage_limit_summary">Ορίστε ημερήσιο όριο χρήσης οθόνης για εφαρμογές</string>
+    <string name="usage_state_app_usage_limit">Όρια χρόνου χρήσης οθόνης εφαρμογής</string>
+    <string name="usage_state_app_usage_limit_summary">Ορίστε ημερήσιο όριο χρόνου χρήσης οθόνης για εφαρμογές</string>
     <string name="usage_state_app_usage_list_title">Χρόνος χρήσης οθόνης σε εφαρμογές</string>
     <string name="usage_state_app_usage_list_week_title">Χρόνος χρήσης οθόνης σε εφαρμογές</string>
     <string name="usage_state_app_usage_tip_title">Χρόνος χρήσης οθόνης μεταξύ %1$d:00 και %2$d:00</string>
@@ -826,8 +827,8 @@
     <string name="usage_state_channel_mouth">Τελευταίες 30 ημέρες</string>
     <string name="usage_state_channel_week">Τελευταίες 7 ημέρες</string>
     <string name="usage_state_date">d MMM</string>
-    <string name="usage_state_device_limit_summary">Ορίστε ημερήσιο όριο χρήσης οθόνης για τη συσκευή σας</string>
-    <string name="usage_state_device_limit_title">Όρια χρήσης οθόνης συσκευής</string>
+    <string name="usage_state_device_limit_summary">Ορίστε ημερήσιο όριο χρόνου χρήσης οθόνης για τη συσκευή σας</string>
+    <string name="usage_state_device_limit_title">Όρια χρόνου χρήσης οθόνης συσκευής</string>
     <string name="usage_state_device_noti_today_tip_title">Ειδοποιήσεις μεταξύ %1$d:00 και %2$d:00</string>
     <string name="usage_state_device_unlock_today_tip_title">Ξεκλειδώθηκε η συσκευή μεταξύ %1$d:00 και %2$d:00</string>
     <string name="usage_state_download">Αποθήκευση στη Συλλογή</string>
@@ -882,7 +883,7 @@
     <string name="usage_state_statistic_data">Στατιστικά</string>
     <string name="usage_state_sunday">Κυρ</string>
     <string name="usage_state_thursday">Πεμ</string>
-    <string name="usage_state_time_end">Εξαντλήσατε το σημερινό όριο χρήσης οθόνης</string>
+    <string name="usage_state_time_end">Εξαντλήσατε το σημερινό όριο χρόνου χρήσης οθόνης</string>
     <string name="usage_state_today">Σήμερα</string>
     <string name="usage_state_today_total_text">Χρόνος χρήσης οθόνης σήμερα</string>
     <string name="usage_state_tuesday">Τρι</string>
@@ -901,7 +902,7 @@
     <string name="usage_state_which_mouth">MMM</string>
     <string name="usage_state_work_day">Καθημερινές</string>
     <string name="usage_state_work_day_hour_minute">Καθημερινές: %1$dώ %2$dλ</string>
-    <string name="usage_stats_device_limit">Ημερήσιο όριο χρήσης οθόνης</string>
+    <string name="usage_stats_device_limit">Ημερήσιο όριο χρόνου χρήσης οθόνης</string>
     <string name="usage_stats_device_limit_summary">Ορίστε ημερήσια όρια χρήσης</string>
     <string name="usage_stats_experience_text">Πατήστε για να δοκιμάσετε (1 λεπ.)</string>
     <string name="usage_stats_limit_time_accuracy_title">Ακρίβεια της εκτίμησης του υπολειπόμενου χρόνου</string>
@@ -911,9 +912,9 @@
     <string name="usage_stats_limit_time_low_accuracy_summary">Προβολή υπολειπόμενου χρόνου με ακρίβεια λεπτών για τις τελευταίες 2 ώρες που απομένουν για εξοικονόμηση μπαταρίας</string>
     <string name="usage_stats_limit_time_low_accuracy_summary_new">Ακριβές στο κάθε λεπτό εντός %d υπολειπομένων ωρών (αποθήκευση ενέργειας)</string>
     <string name="usage_stats_limit_time_low_accuracy_title">Χαμηλή</string>
-    <string name="usage_stats_limit_time_warn">Προειδοποιήσεις χρόνου οθόνης</string>
-    <string name="usage_stats_limit_time_warn_summary">Προβολή υπολοίπου χρόνου οθόνης στον Πίνακα ειδοποιήσεων</string>
-    <string name="usage_stats_limit_time_warn_title">Προειδοποίηση για το υπόλοιπο χρόνου οθόνης</string>
+    <string name="usage_stats_limit_time_warn">Προειδοποιήσεις χρόνου χρήσης οθόνης</string>
+    <string name="usage_stats_limit_time_warn_summary">Προβολή υπολοίπου χρόνου χρήσης οθόνης στην Μπάρα ειδοποιήσεων</string>
+    <string name="usage_stats_limit_time_warn_title">Προειδοποίηση για το υπόλοιπο χρόνου χρήσης οθόνης</string>
     <string name="usage_stats_no_limit">Εξαιρέσεις εφαρμογών</string>
     <string name="usage_stats_normal_day">Καθημερινές</string>
     <string name="usage_stats_week_day">Σαββατοκύριακα</string>

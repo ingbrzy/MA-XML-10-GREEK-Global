@@ -48,8 +48,8 @@
     <string name="add_field">Προσθήκη άλλου πεδίου</string>
     <string name="add_field_toast">Δεν υπάρχουν άλλα πεδία για προσθήκη.</string>
     <string name="add_new_account">Προσθήκη νέου λογαριασμού</string>
-    <string name="add_xiaomi_account_dialog_btn">Χρήση Mi Λογαριασμού</string>
-    <string name="add_xiaomi_account_dialog_msg">Δημιουργήστε αντίγραφα ασφαλείας των επαφών σας στο Mi Λογαριασμό σας για να αποκτήστε πρόσβαση σε αυτά από οπουδήποτε!</string>
+    <string name="add_xiaomi_account_dialog_btn">Χρήση Λογαριασμού Xiaomi</string>
+    <string name="add_xiaomi_account_dialog_msg">Δημιουργήστε αντίγραφα ασφαλείας των επαφών σας στον Λογαριασμό Xiaomi σας για να αποκτήστε πρόσβαση σε αυτά από οπουδήποτε!</string>
     <string name="add_xiaomi_account_dialog_title">Επιλογή λογαριασμού</string>
     <string name="afternoon">Απόγευμα</string>
     <string name="aggregation_suggestion_edit_dialog_message">Εναλλαγή σε επεξεργασία          το ίδιο όνομα επαφής; Οι πληροφορίες που έχετε εισαγάγει μέχρι τώρα θα αντιγραφούν.</string>
@@ -148,6 +148,7 @@
     <string name="calllog_menu_edit_before_call">Επεξεργασία</string>
     <string name="calllog_menu_send_sms">Αποστολή μηνύματος</string>
     <string name="calllog_record_none_toast">Δεν υπάρχουν εγγραφές κλήσεων προς εμφάνιση</string>
+    <string name="calllog_record_searching_toast">Αναζήτηση για ηχογράφηση κλήσεων…</string>
     <string name="callrecordview_item_op_time_minutes_seconds">%1$dλ %2$dδ</string>
     <string name="callrecordview_item_op_time_missed">Δεν συνδέθηκε</string>
     <string name="callrecordview_item_op_time_only_minutes">%d λεπτ</string>
@@ -503,6 +504,7 @@
     <string name="friday">Παρασκευή</string>
     <string name="friday_short">Παρ</string>
     <string name="friday_shortest">Παρ</string>
+    <string name="from_account_format">%1$s</string>
     <string name="full_name">Όνομα</string>
     <string name="gallery">Συλλογή</string>
     <string name="ghostData_company">Εταιρία</string>
@@ -559,7 +561,7 @@
     <string name="import_to_xiaomi_account_confirm">Εισαγωγή</string>
     <string name="import_to_xiaomi_account_progress_finish">Οι επαφές εισήχθησαν</string>
     <string name="import_to_xiaomi_account_progress_message">Γίνεται εισαγωγή…</string>
-    <string name="import_to_xiaomi_account_title">Εισαγωγή στον Mi Λογαριασμό</string>
+    <string name="import_to_xiaomi_account_title">Εισαγωγή στον Λογαριασμό Xiaomi</string>
     <string name="import_vcard_dialog_message">Εισαγωγή vCard?</string>
     <string name="importing_sim_contacts_miui">Γίνεται εισαγωγή επαφών από κάρτα SIM…</string>
     <string name="importing_sim_contacts_miui_prepare">Προετοιμασία επαφών…</string>
@@ -568,6 +570,11 @@
     <string name="importing_vcard_finished_title">Ολοκληρώθηκε η εισαγωγή vCard %s</string>
     <string name="insertContactDescription">Δημιουργία επαφής</string>
     <string name="invalidContactMessage">Η επαφή δεν υπάρχει</string>
+    <string name="invisible_mode_dialog_cancel">Ακύρωση</string>
+    <string name="invisible_mode_dialog_to_close">Απενεργοποίηση</string>
+    <string name="invisible_mode_title">Είστε σε ανώνυμη λειτουργία</string>
+    <string name="invisible_mode_unable_connect_camera">Απενεργοποιήστε την Ανώνυμη λειτουργία για να μπορείτε να χρησιμοποιήσετε την κάμερα. Απενεργοποίηση τώρα;</string>
+    <string name="invisible_mode_unable_get_location">Απενεργοποιήστε την Ανώνυμη λειτουργία για να μπορείτε να χρησιμοποιείτε υπηρεσίες τοποθεσίας και να εισάγετε επαφές από άλλες συσκευές μέσω Bluetooth. Απενεργοποίηση τώρα;</string>
     <string name="item_offical">Επίσημο</string>
     <string name="keep_local">Να μην γίνει συγχρονισμός</string>
     <string name="keep_local_btn">Χρήση εσωτερικού χώρου αποθήκευσης συσκευής</string>
@@ -594,6 +601,9 @@
     <string name="low_memory_toast">Αδυναμία χρήσης αυτής της λειτουργίας λόγω χαμηλής μνήμης.</string>
     <string name="lunarBirthdayLabelsGroup">Γενέθλια</string>
     <string name="make_primary">Απομνημόνευση αυτής της επιλογής</string>
+    <string name="manage_external_storage_dialog_message">Επιτρέψτε σε αυτήν την εφαρμογή να έχει πρόσβαση σε όλα τα αρχεία για τη διαχείριση των ηχογραφήσεων κλήσεων.</string>
+    <string name="manage_external_storage_dialog_positive">Ρυθμίσεις</string>
+    <string name="manage_external_storage_dialog_title">Απαιτούνται άδειες</string>
     <string name="map_custom">Προβολή%s διεύθυνσης</string>
     <string name="map_home">Προβολή διεύθυνσης οικίας</string>
     <string name="map_other">Προβολή διεύθυνσης</string>
@@ -628,6 +638,7 @@
     <string name="menu_sync_remove">Αφαίρεση ομάδας συγχρονισμού</string>
     <string name="midnight">Νύχτα</string>
     <string name="miprofile_account_type">Kαρτέλες επαφών</string>
+    <string name="miprofile_delete_alertdialog_message">@string/miprofile_switch_off_alertdialog_message</string>
     <string name="miprofile_edit_title">Επεξεργασία προφίλ</string>
     <string name="miprofile_name">Το προφίλ μου</string>
     <string name="miprofile_nick_name_divider">"  |  "</string>
@@ -784,6 +795,7 @@
     <string name="permission_retry_dialog_msg_pad">Για να μπορείτε να χρησιμοποιείτε την κάρτα SIM σας με αυτήν την εφαρμογή και να διαχειρίζεστε τις επαφές σας, επιτρέψτε σε αυτήν την εφαρμογή να έχει πρόσβαση και να επεξεργάζεται τις επαφές σας, καθώς και να έχει πρόσβαση στις πληροφορίες της συσκευής.</string>
     <string name="permission_retry_setting">Ρυθμίσεις</string>
     <string name="phoneLabelsGroup">Τηλέφωνο</string>
+    <string name="phone_info_divider">" ｜ "</string>
     <string name="phone_number_too_long_toast">Ο αριθμός είναι πολύ μακρύς</string>
     <string name="phone_primary">Κύριο</string>
     <string name="photoPickerNotFoundText">Δεν υπάρχουν διαθέσιμες φωτογραφίες στην συσκευή.</string>
@@ -817,9 +829,9 @@
     <string name="pref_key_sim_manage">Κάρτες SIM</string>
     <string name="pref_key_sim_manage1">Ορισμός κάρτας SIM 1</string>
     <string name="pref_key_sim_manage2">Ορισμός κάρτας SIM 2</string>
-    <string name="pref_summary_import_from_account">"Μεταφορά επαφών απ' τους λογαριασμούς Google και Exchange στον Mi Λογαριασμό μου"</string>
+    <string name="pref_summary_import_from_account">"Μεταφορά επαφών απ' τους λογαριασμούς Google και Exchange στον Λογαριασμό Xiaomi μου"</string>
     <string name="pref_title_account_import">Εισαγωγή επαφών</string>
-    <string name="pref_title_import_from_account">Εισαγωγή στον Mi Λογαριασμό</string>
+    <string name="pref_title_import_from_account">Εισαγωγή στον Λογαριασμό Xiaomi</string>
     <string name="preference_contacts">Επαφές</string>
     <string name="preference_contacts_filter">Διαμόρφωση λίστας επαφών</string>
     <string name="preference_contacts_more">Οργάνωση επαφών</string>
@@ -1026,6 +1038,7 @@
     <string name="sina_weibo">Sina Weibo</string>
     <string name="single_group_list_empty">Δεν υπάρχουν μέλη ομάδας</string>
     <string name="six_letter">ΜΝΟ</string>
+    <string name="smart_group_action_bar_title">%1$s: %2$s (%3$s)</string>
     <string name="smart_group_company_label">Εταιρίες</string>
     <string name="smart_group_company_unavailable">Δεν υπάρχουν πληροφορίες εταιρίας</string>
     <string name="smart_group_frequency_1">Εντός του περασμένου μήνα</string>
@@ -1067,6 +1080,7 @@
     <string name="starred_contacts">Αγαπημένα</string>
     <string name="status_available">Διαθέσιμη</string>
     <string name="status_away">Μη διαθέσιμη</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
     <string name="status_busy">Απασχολημένη</string>
     <string name="strequentList">Αγαπημένες</string>
     <string name="success_message_import_from_account">Επαφή εισήχθη</string>
@@ -1170,6 +1184,7 @@
     <string name="unknown_contact_name">Άγνωστη επαφή</string>
     <string name="unknown_details_add_to_contact">Υπάρχουσα</string>
     <string name="unknown_details_new_contact">Νέες</string>
+    <string name="unshow_qr_code_in_narrow_screen_split">Δεν είναι δυνατή η εμφάνιση κωδικών QR κατά τη χρήση Διαίρεσης οθόνης</string>
     <string name="update_sim_contact_photo_toast">Αδυναμία ορισμού φωτογραφιών προφίλ για επαφές SIM</string>
     <string name="upgrade_in_progress">Γίνεται ενημέρωση λίστας επαφών.</string>
     <string name="upgrade_out_of_memory">"Οι επαφές είναι στη διαδικασία ενημέρωσης. 

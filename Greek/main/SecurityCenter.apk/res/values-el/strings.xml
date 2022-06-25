@@ -919,6 +919,7 @@
     <string name="card_main_private_space_summary">Η χρήση Δεύτερου χώρου είναι σαν να έχετε δύο συσκευές</string>
     <string name="card_main_private_space_title">Δεύτερος χώρος</string>
     <string name="card_main_sectool_title">Εργαλεία</string>
+    <string name="card_main_speeddetail_action">@string/card_main_monthreport_action</string>
     <string name="card_main_xspace_action">Δημιουργία</string>
     <string name="card_main_xspace_summary">Δημιουργία διπλότυπων λογαριασμών για οποιαδήποτε εφαρμογή</string>
     <string name="card_main_xspace_title">Διπλότυπες εφαρμογές</string>
@@ -971,6 +972,8 @@
     <string name="cmcc_app_check_dialog_negative">Αργότερα</string>
     <string name="cmcc_app_check_dialog_positive">Επανεκκίνηση τώρα</string>
     <string name="cmcc_app_check_dialog_title">Το σύστημα επιδιορθώθηκε</string>
+    <string name="columbus_ad_flag_text">Διαφήμιση</string>
+    <string name="columbus_skip_ad">Παράλειψη</string>
     <string name="common_google_play_services_unknown_issue">Η εφαρμογή %1$s αντιμετωπίζει κάποιο πρόβλημα με τις υπηρεσίες Google Play. Προσπαθήστε ξανά.</string>
     <string name="confirmSecondSpacePassword">Επιβεβαίωση κωδικού Δεύτερου χώρου</string>
     <string name="confirm_allow_all_permission">Να επιτραπεί σε όλες τις συσκευές την χρήση αυτής της λειτουργίας;</string>
@@ -1181,6 +1184,7 @@
     <string name="dual_setting_simcard1">SIM 1</string>
     <string name="dual_setting_simcard2">SIM 2</string>
     <string name="early_morning">Πρωί</string>
+    <string name="ellipsis">…</string>
     <string name="email">Email</string>
     <string name="empty" />
     <string name="empty_app">Δεν υπάρχουν εφαρμογές</string>
@@ -1255,7 +1259,9 @@
     <string name="exo_download_notification_channel_name">Λήψεις</string>
     <string name="exo_download_removing">Κατάργηση λήψεων</string>
     <string name="exo_item_list">%1$s, %2$s</string>
+    <string name="exo_track_bitrate">%1$.2f Mbps</string>
     <string name="exo_track_mono">Μονοφωνικό</string>
+    <string name="exo_track_resolution">%1$d × %2$d</string>
     <string name="exo_track_role_alternate">Εναλλακτικό</string>
     <string name="exo_track_role_closed_captions">Υπότιτλοι</string>
     <string name="exo_track_role_commentary">Σχολιασμός</string>
@@ -1509,6 +1515,7 @@
     <string name="gamebox_app_not_find">Εγκατάσταση της εφαρμογής πρώτα.</string>
     <string name="gamebox_brightness">Φωτεινότητα</string>
     <string name="gamebox_browser_not_find">Εγκατάσταση Προγράμματος περιήγησης Mi πρώτα</string>
+    <string name="gamebox_bullet_chat">Σχόλια στην οθόνη</string>
     <string name="gamebox_collimator">Συσκευή sight</string>
     <string name="gamebox_display_1">Κανένα</string>
     <string name="gamebox_display_2">Κορεσμός</string>
@@ -1610,6 +1617,10 @@
     <string name="gb_dialog_record_way_ai">Οι εγγραφές AI αποθηκεύονται στο gamebox και παραμένουν εκεί για 7 ημέρες.</string>
     <string name="gb_dialog_record_way_finish">Τέλος</string>
     <string name="gb_dialog_record_way_manual">Χειροκίνητη εγγραφή βίντεο διαρκείας έως 30 δευτερολέπτων</string>
+    <string name="gb_dialog_record_way_manual_desc" formatted="false">Καταγράψτε %d-%d δευτερόλεπτα βίντεο κατά τη διάρκεια της συνεδρίας παιχνιδιού χειροκίνητα.</string>
+    <string name="gb_dialog_record_way_setting_tip_one">Αυξημένη κατανάλωση ρεύματος και καθυστέρηση</string>
+    <string name="gb_dialog_record_way_setting_tip_title">Αυτή η δυνατότητα μπορεί να προκαλέσει τα ακόλουθα προβλήματα:</string>
+    <string name="gb_dialog_record_way_setting_tip_two">Συγκρούσεις με άλλες συσκευές εγγραφής οθόνης</string>
     <string name="gb_dialog_record_way_setting_tips">Σημείωση: Η εγγραφή των συνεδριών παιχνιδιών απαιτεί υψηλότερη κατανάλωση ενέργειας που μπορεί να έχει ως αποτέλεσμα καθυστέρηση.</string>
     <string name="gb_dialog_record_way_title">Επιλογή μεθόδου εγγραφής</string>
     <string name="gb_first_guide_function_shiled_title">Απενεργοποίηση χαρακτηριστικών συστήματος όταν το Turbo Παιχνιδιών είναι ενεργό</string>
@@ -1638,6 +1649,7 @@
     <string name="gb_game_video_page_null">Εγγραφή των βασικών στιγμών των συνεδριών παιχνιδιού</string>
     <string name="gb_game_video_record_finish_tips">Έγινε χειροκίνητη αποθήκευση εγγεγραμμένου βίντεο στο Τούρμπο παιχνιδιού</string>
     <string name="gb_game_video_save">Αποθήκευση</string>
+    <string name="gb_game_video_save_tip">Επιτυχής αποθήκευση</string>
     <string name="gb_game_video_type_ai">AI</string>
     <string name="gb_game_video_type_ai_record">Εγγραφή με τη βοήθεια AI</string>
     <string name="gb_game_video_type_manual">Χειροκίνητα</string>
@@ -1650,6 +1662,7 @@
     <string name="gb_gpu_driver_update_app_tips">Η τρέχουσα έκδοση είναι ενημερωμένη</string>
     <string name="gb_have_signed">Συνδέσεις σήμερα</string>
     <string name="gb_manual_record_dialog_del_video_message">Οριστική διαγραφή επιλεγμένων βίντεο;</string>
+    <string name="gb_manual_video_record_title">Εγγραφές</string>
     <string name="gb_msg_completely_shielded">Απόκρυψη μηνυμάτων</string>
     <string name="gb_msg_completely_shielded_summary">Απόκρυψη</string>
     <string name="gb_msg_not_shielded_summary">Προβολή</string>
@@ -1669,26 +1682,39 @@
     <string name="gb_performance_tips">"Η Λειτουργία απόδοσης βελτιώνει την απόδοση των γραφικών,
 αλλά επίσης αυξάνει την κατανάλωση ενέργειας και επιτρέπει στη συσκευή σας να υπερθερμανθεί"</string>
     <string name="gb_shortcut_pref_title">Συντόμευση Αρχικής οθόνης</string>
-    <string name="gb_shoulder_key">Μπροστινά κουμπιά</string>
+    <string name="gb_shoulder_guide_message1">Μετακινήστε το [L] σε οποιαδήποτε λειτουργική θέση για να το χρησιμοποιήσετε μέσω αναδυόμενου χειριστηρίου</string>
+    <string name="gb_shoulder_guide_message2">Η Δράση [1] ενεργοποιείται πατώντας το κουμπί. Η Δράση [2] ενεργοποιείται αφήνοντας το κουμπί.</string>
+    <string name="gb_shoulder_guide_tips1">Ανοίξτε την εργαλειοθήκη και ρυθμίστε τις παραμέτρους αναδυόμενων χειριστηρίων</string>
+    <string name="gb_shoulder_guide_title1">Δράση</string>
+    <string name="gb_shoulder_guide_title2">Σειρά</string>
+    <string name="gb_shoulder_key">Αναδυόμενα χειριστήρια</string>
     <string name="gb_shoulder_key_add_show_btn">Εμφάνιση εικονικών κουμπιών κατά τη διάρκεια των παιχνιδιών</string>
-    <string name="gb_shoulder_key_add_tips">Μετακινήστε τα κουμπιά [L] και [R] σε οποιαδήποτε λειτουργική θέση και χρησιμοποιήστε τα μέσω των μπροστινών κουμπιών</string>
+    <string name="gb_shoulder_key_add_tips">Μετακινήστε τα [L] και [R] σε οποιαδήποτε λειτουργική θέση και χρησιμοποιήστε τα μέσω αναδυόμενων χειριστηρίων</string>
     <string name="gb_shoulder_key_btn_cancel">Ακύρωση</string>
     <string name="gb_shoulder_key_btn_save_exit">Αποθήκευση</string>
-    <string name="gb_shoulder_key_dialog_message">Μπορείτε να χρησιμοποιήσετε και τα δύο μπροστινά κουμπιά ταυτόχρονα για να ξεκινήσετε το Turbo Παιχνιδιού όταν δεν παίζετε παιχνίδια.</string>
-    <string name="gb_shoulder_key_dialog_txt">Μπορείτε να ενεργοποιήσετε το Turbo Παιχνιδιού χρησιμοποιώντας μπροστινά κουμπιά.</string>
+    <string name="gb_shoulder_key_dialog_message">Μπορείτε να χρησιμοποιήσετε και τα δύο αναδυόμενα χειριστήρια ταυτόχρονα για να ξεκινήσετε το Τούρμπο παιχνιδιού όταν δεν παίζετε παιχνίδια.</string>
+    <string name="gb_shoulder_key_dialog_txt">Μπορείτε να ενεργοποιήσετε το Τούρμπο παιχνιδιού χρησιμοποιώντας αναδυόμενα χειριστήρια.</string>
     <string name="gb_shoulder_key_guide_btn_done">Κατανοητό</string>
     <string name="gb_shoulder_key_guide_btn_next">Επόμενο</string>
-    <string name="gb_shoulder_key_guide_tips">Διαμορφώστε τα μπροστινά κουμπιά για να παίζετε σαν επαγγελματίες!</string>
-    <string name="gb_shoulder_key_guide_tips1">Ανοίξτε την εργαλειοθήκη και διαμορφώστε τα μπροστινά κουμπιά</string>
+    <string name="gb_shoulder_key_guide_tips">Διαμορφώστε τα αναδυόμενα χειριστήρια για να παίζετε σαν επαγγελματίες!</string>
+    <string name="gb_shoulder_key_guide_tips1">Ανοίξτε την εργαλειοθήκη και ρυθμίστε τις παραμέτρους αναδυόμενων χειριστηρίων</string>
     <string name="gb_shoulder_key_light_effect">Έγχρωμες κινούμενες εικόνες</string>
     <string name="gb_shoulder_key_light_effect_color">Χρώμα</string>
-    <string name="gb_shoulder_key_light_effect_subtitle">Οι έγχρωμες κινούμενες εικόνες θα εμφανίζονται όταν είναι ενεργοποιημένα τα μπροστινά κουμπιά και παίζετε παιχνίδια</string>
+    <string name="gb_shoulder_key_light_effect_subtitle">Οι έγχρωμες κινούμενες εικόνες θα εμφανίζονται όταν είναι ενεργοποιημένα τα αναδυόμενα χειριστήρια και παίζετε παιχνίδια</string>
     <string name="gb_shoulder_key_light_effect_title">Κινούμενα σχέδια</string>
     <string name="gb_shoulder_key_settings_guide_tips1">Μετακινήστε τα κουμπιά [L] και [R] σε οποιαδήποτε λειτουργική θέση για να ολοκληρώσετε τη διαμόρφωση</string>
-    <string name="gb_shoulder_key_settings_guide_tips2">Χρησιμοποιήστε τα μπροστινά κουμπιά για τις δυνατότητες που τους αναθέσατε κατά τη διάρκεια των παιχνιδιών</string>
-    <string name="gb_shoulder_key_settings_summary">Χρησιμοποιήστε και τα δύο μπροστινά κουμπιά για να ξεκινήσετε το Turbo Παιχνιδιού όταν δεν παίζετε παιχνίδια</string>
-    <string name="gb_shoulder_key_settings_title">Χρήση μπροστινών κουμπιών για Turbo Παιχνιδιού</string>
+    <string name="gb_shoulder_key_settings_guide_tips2">Χρησιμοποιήστε τα αναδυόμενα χειριστήρια για τις δυνατότητες που τους αναθέσατε κατά τη διάρκεια των παιχνιδιών</string>
+    <string name="gb_shoulder_key_settings_summary">Χρησιμοποιήστε και τα δύο αναδυόμενα χειριστήρια για να ξεκινήσετε το Τούρμπο παιχνιδιού όταν δεν παίζετε παιχνίδια</string>
+    <string name="gb_shoulder_key_settings_title">Χρησιμοποιήστε αναδυόμενα χειριστήρια για το Τούρμπο παιχνιδιού</string>
     <string name="gb_shoulder_key_settings_title_new">Γρήγορη εκκίνηση Turbo Παιχνιδιού</string>
+    <string name="gb_shoulder_set_left_right">Ρύθμιση [%s]</string>
+    <string name="gb_shoulder_set_title">Ενεργοποιήστε τα αναδυόμενα χειριστήρια για να τα διαμορφώσετε</string>
+    <string name="gb_shoulder_set_title2">Μετακινήστε το [%s] σε οποιαδήποτε λειτουργική θέση και χρησιμοποιήστε το μέσω αναδυόμενων χειριστηρίων</string>
+    <string name="gb_shoulder_single_trigger">Δράση</string>
+    <string name="gb_shoulder_subsection_down">Πατήστε</string>
+    <string name="gb_shoulder_subsection_trigger">Σειρά</string>
+    <string name="gb_shoulder_subsection_up">Αφήστε</string>
+    <string name="gb_shoulder_update_left_right">Επεξεργασία %s</string>
     <string name="gb_sign_gift">Συνδεθείτε για να αποκτήσετε βραβεία</string>
     <string name="gb_sign_gift_button_text">Λήψη</string>
     <string name="gb_sign_notification_summary">Παίξτε παιχνίδια χωρίς καθυστέρηση δικτύου</string>
@@ -2184,6 +2210,7 @@ to join our egg hunt!"</string>
     <string name="menu_text_license_manager">Άδειες</string>
     <string name="menu_text_networkassistants">Χρήση δεδομένων</string>
     <string name="menu_text_networkassistants_danger">%s παραπάνω</string>
+    <string name="menu_text_networkassistants_data">%1$s%2$s</string>
     <string name="menu_text_networkassistants_remain">%s απέμειναν</string>
     <string name="menu_text_networkassistants_unit_b">B</string>
     <string name="menu_text_networkassistants_unit_gb">GB</string>
@@ -2192,6 +2219,7 @@ to join our egg hunt!"</string>
     <string name="menu_text_optimize_manage">Ενίσχυση ταχύτητας</string>
     <string name="menu_text_optimize_manage_1">Ενίσχυση ταχύτητας</string>
     <string name="menu_text_power_manager">Μπαταρία</string>
+    <string name="menu_text_power_percent_title">%s</string>
     <string name="menu_wh_remove">Αφαίρεση από εξαιρέσεις</string>
     <string name="menu_white">Προσθήκη στις εξαιρέσεις</string>
     <string name="mi_ime_not_used">Χρησιμοποιήστε ένα πληκτρολόγιο εξουσιοδοτημένο από τη Xiaomi</string>
@@ -2608,7 +2636,7 @@ to join our egg hunt!"</string>
     <string name="pc_fast_charge_notifi_action_text_on">Ενίσχυση</string>
     <string name="pc_fast_charge_notifi_power_threshold_title">Ορισμός επιπέδου της μπαταρίας για υπενθυμίσεις</string>
     <string name="pc_fast_charge_notifi_summary">Φόρτιση έως και %s γρηγορότερα από το συνηθισμένο…</string>
-    <string name="pc_fast_charge_notifi_summary_on">Αυτή η δυνατότητα ενδέχεται να θερμαίνει τη συσκευή σας</string>
+    <string name="pc_fast_charge_notifi_summary_on">Η ταχύτητα φόρτισης ενισχύεται όταν η οθόνη είναι απενεργοποιημένη. Η συσκευή σας θα θερμανθεί.</string>
     <string name="pc_fast_charge_notifi_switch_summary">Ειδοποίηση για την αύξηση της ταχύτητας φόρτισης όταν ο παρεχόμενος φορτιστής %d W είναι συνδεδεμένος και η μπαταρία είναι κάτω από το καθορισμένο επίπεδο</string>
     <string name="pc_fast_charge_notifi_switch_title">Ειδοποίηση για ενίσχυση</string>
     <string name="pc_fast_charge_notifi_title">Φόρτιση %dW</string>
@@ -2822,6 +2850,11 @@ to join our egg hunt!"</string>
     <string name="power_center_dialog_msg_top">Όταν η Εξοικονόμηση μπαταρίας είναι ενεργή, το MIUI θα εκτελέσει τις εξής βελτιστοποιήσεις:</string>
     <string name="power_center_hints_scan_danger_result">Μπορείτε να διορθώσετε τα προβλήματα μπαταρίας τώρα</string>
     <string name="power_center_list_item_auto_brightness">Αυτόματη προσαρμογή φωτεινότητας οθόνης</string>
+    <string name="power_center_list_item_battery_health_model_temperature">%d ℃</string>
+    <string name="power_center_list_item_battery_health_model_voltage">%s V</string>
+    <string name="power_center_list_item_battery_health_model_volume">%s mAh</string>
+    <string name="power_center_list_item_battery_status_capacity">mAh</string>
+    <string name="power_center_list_item_battery_status_temperature">℃</string>
     <string name="power_center_list_item_battery_status_time">h</string>
     <string name="power_center_list_item_close_bluetooth">Απενεργοποίηση Bluetooth</string>
     <string name="power_center_list_item_deep_save_title">Σύνθετες ρυθμίσεις</string>
@@ -3080,6 +3113,7 @@ to join our egg hunt!"</string>
     <string name="pref_normal_traffic_limit">Όταν το πλάνο δεδομένων εξαντληθεί</string>
     <string name="pref_open_adjust_traffic">Ενημέρωση χρήσης δεδομένων κάθε ημέρα με την χρήση στατιστικών από τον πάροχό σας</string>
     <string name="pref_operator_not_set">Ο πάροχος δεν ορίστηκε</string>
+    <string name="pref_operator_setting">%1$s%2$s</string>
     <string name="pref_over_traffic_limit">Όταν υπερβείτε το πλάνο δεδομένων σας</string>
     <string name="pref_package_traffic_settings">Πλάνο δεδομένων</string>
     <string name="pref_pkg_begin_date">Ημερομηνία επαναφοράς χρήσης</string>
@@ -3330,6 +3364,7 @@ to join our egg hunt!"</string>
     <string name="privacy_using_record">Γίνεται εγγραφή ήχου</string>
     <string name="privacyapp_number_masked_text">Το περιεχόμενο ειδοποίησης είναι κρυφό</string>
     <string name="privacyapp_number_unmasked_text">Δεν είναι δυνατή η απόκρυψη περεχομένου</string>
+    <string name="process_kernel_label">Android</string>
     <string name="process_mediaserver_label">Διακομιστής πολυμέσων</string>
     <string name="process_vpnsdkmanager_label">Τούρμπο παιχνιδιού</string>
     <string name="promotion">Διαφήμηση</string>
@@ -3405,6 +3440,7 @@ to join our egg hunt!"</string>
     <string name="result_sms_title_antispam">Απειλή από κακόβουλα URLs SMS</string>
     <string name="result_sms_title_auth">Υπάρχει κίνδυνος διαρροής οικονομικού SMS</string>
     <string name="result_wifi_header">Εντοπίστηκαν κίνδυνοι Wi-Fi</string>
+    <string name="resume">Επαναφορά</string>
     <string name="right_precent">100%</string>
     <string name="risk_app_install_agree_button">Αυτή η εφαρμογή είναι αξιόπιστη</string>
     <string name="risk_app_install_agree_checkbox">Είμαι πρόθυμος/η να αναλάβω όλους τους πιθανούς κινδύνους.</string>
@@ -4427,7 +4463,7 @@ to join our egg hunt!"</string>
     <string name="vb_video_effects_3d">Περιφερειακός ήχος</string>
     <string name="vb_video_effects_3d_summary">Βελτιώστε το βάθος της αναπαραγωγής ήχου για ακουστικά earphones και ηχεία</string>
     <string name="vb_video_effects_3d_summary_headset">Αυξήστε την αίσθηση της βύθισης και περιτύλιξης όταν ακούτε ήχο στα ακουστικά earphones</string>
-    <string name="vb_video_effects_3d_surround">Περιφερειακός ήχος</string>
+    <string name="vb_video_effects_3d_surround">Εικονικός ήχος καθήλωσης</string>
     <string name="vb_video_effects_display_style">Στυλ</string>
     <string name="vb_video_effects_dolby">Dolby Atmos</string>
     <string name="vb_video_effects_dolby_dialog_enhancer">Ενισχυμένος διάλογος</string>
@@ -4455,7 +4491,7 @@ to join our egg hunt!"</string>
     <string name="vb_video_effects_settings_stereo">Ένταση</string>
     <string name="vb_video_effects_some_headphone">Υποστηρίζεται από επιλεγμένα μοντέλα ακουστικών earphones</string>
     <string name="vb_video_effects_spatial">Παρακολούθηση κίνησης κεφαλιού</string>
-    <string name="vb_video_effects_spatial_summary">"Προσαρμόστε τον περιφερειακό ήχο με βάση την κίνηση της κεφαλής
+    <string name="vb_video_effects_spatial_summary">"Προσαρμόστε τον ήχο καθήλωση με βάση την κίνηση της κεφαλής
 *Υποστηρίζεται μόνο σε μοντέλα ακουστικών earphones παιχνιδιών"</string>
     <string name="vb_video_effects_srs_premium_sound">Ήχος</string>
     <string name="vb_video_super_division">Αύξηση ανάλυσης</string>

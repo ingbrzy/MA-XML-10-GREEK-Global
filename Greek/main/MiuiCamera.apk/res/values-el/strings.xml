@@ -193,9 +193,9 @@
     <string name="accessibility_tilt_shift_circle_button">Αλλαγή κλίσης. Κύκλος.</string>
     <string name="accessibility_tilt_shift_parallel_button">Αλλαγή κλίσης. Παράλληλα.</string>
     <string name="accessibility_time">Ώρα</string>
-    <string name="accessibility_timer_burst_image_off">Η προγραμματισμένη λήψη ριπής είναι ανενεργή</string>
-    <string name="accessibility_timer_burst_image_on">Η προγραμματισμένη λήψη ριπής είναι ενεργή</string>
-    <string name="accessibility_timer_burst_text">Πίνακας προσαρμογής προγραμματισμένης λήψης ριπής</string>
+    <string name="accessibility_timer_burst_image_off">Η λήψη ριπής με χρονομέτρηση είναι ανενεργή</string>
+    <string name="accessibility_timer_burst_image_on">Η λήψη ριπής με χρονομέτρηση είναι ενεργή</string>
+    <string name="accessibility_timer_burst_text">Πίνακας προσαρμογής λήψης ριπής με χρονομέτρηση</string>
     <string name="accessibility_touch_focus_fail">Αδυναμία εστίασης</string>
     <string name="accessibility_touch_focus_success">Επιτυχής εστίαση</string>
     <string name="accessibility_ultra_pixel_photography_off">%s Η λειτουργία HD είναι ανενεργή</string>
@@ -346,7 +346,7 @@
     <string name="beauty_body_slim_count_tip">Τα εφέ φιγούρας λειτουργούν μόνο για λήψεις ενός ατόμου</string>
     <string name="beauty_body_whole">Σώμα</string>
     <string name="beauty_clear">Εκκαθάριση</string>
-    <string name="beauty_clear_toast">Επιτυχής εκκαθάριση αποτελεσμάτων Βελτιστοποίησης</string>
+    <string name="beauty_clear_toast">Επιτυχής εκκαθάριση αποτελεσμάτων Ωραιοποίησης</string>
     <string name="beauty_fragment_tab_name_3d_beauty">Ωραιοποίηση</string>
     <string name="beauty_fragment_tab_name_3d_makeup">Μακιγιάζ</string>
     <string name="beauty_fragment_tab_name_3d_remodeling">Μοντελοποίηση</string>
@@ -379,7 +379,7 @@
     <string name="beauty_no_t">Η ωραιοποίηση είναι ανενεργή</string>
     <string name="beauty_origin_skincolor">Αρχικό</string>
     <string name="beauty_reset">Επαναφορά</string>
-    <string name="beauty_reset_toast">Επιτυχής επαναφορά αποτελεσμάτων Βελτιστοποίησης</string>
+    <string name="beauty_reset_toast">Επιτυχής επαναφορά αποτελεσμάτων Ωραιοποίησης</string>
     <string name="beauty_s_cl">Δέρμα</string>
     <string name="beauty_skincolor_caramel">Καραμελένιο</string>
     <string name="beauty_skincolor_lotus">Ήλιος</string>
@@ -635,7 +635,7 @@
     <string name="dual_video_record_remote">Διπλή εγγραφή τηλεφώνου</string>
     <string name="dual_video_record_standalone">Διαχωρισμένο</string>
     <string name="dual_video_user_guide_main_content">Για τη δημιουργία βίντεο από πολλαπλές κάμερες στη συσκευής σας, επιλέξτε δύο κάμερες στη συσκευή σας και βιντεοσκοπήστε ταυτόχρονα. Οι εγγραφές μπορούν να αποθηκευτούν ξεχωριστά ή να συνδυαστούν σε διαιρεμένη προβολή ή ως βίντεο εικόνας σε εικόνα.</string>
-    <string name="dual_video_user_guide_main_content_new">"Τα βίντεο πολλαπλής κάμερας τραβιούνται ταυτόχρονα με πολλές κάμερες.
+    <string name="dual_video_user_guide_main_content_new">"Τα βίντεο από πολλαπλές κάμερες τραβιούνται ταυτόχρονα με πολλές κάμερες.
 Η διπλή εγγραφή τηλεφώνου σας επιτρέπει επίσης να συνδεθείτε με την άλλη κοντινή συσκευή και να δημιουργήσετε ένα βίντεο πολλαπλής κάμερας επιλέγοντας \"Σε συνδυασμό\"."</string>
     <string name="dual_video_user_guide_main_title">Βίντεο από πολλαπλές κάμερες</string>
     <string name="dual_video_user_guide_merge_content">Βιντεοσκοπήστε με δύο κάμερες και συνδυάστε τις εγγραφές σε διαιρεμένη προβολή ή σε βίντεο εικόνας σε εικόνα.</string>
@@ -646,7 +646,7 @@
     <string name="dual_video_user_guide_standalone_content_new">Ταυτοχρόνως εγγεγραμμένα βίντεο μπορούν επίσης να διαχωριστούν και να αποθηκευτούν ως δύο αρχεία.</string>
     <string name="early_morning">Πρωί</string>
     <string name="edit_blusher">Ρουζ</string>
-    <string name="edit_chin">Σαγόνι</string>
+    <string name="edit_chin">Πηγούνι</string>
     <string name="edit_color_skin">Απόχρωση δέρματος</string>
     <string name="edit_eye_large">Μεγάλα μάτια</string>
     <string name="edit_eyebrow_dye">Φρύδια</string>
@@ -666,6 +666,7 @@
     <string name="edit_smile">Χαμόγελο</string>
     <string name="edit_solid">Κοντούρ</string>
     <string name="emoticon">Πακέτο αυτοκόλλητων</string>
+    <string name="empty" />
     <string name="eras_ad">μ.Χ.</string>
     <string name="eras_bc">π.Χ.</string>
     <string name="error_fail_to_start_audio_capture">Αδυναμία εκκίνησης λήψης ήχου</string>
@@ -793,7 +794,7 @@
     <string name="hint_fast_motion">Το βίντεο που καταγράφετε θα παιχτεί γρηγορότερα.</string>
     <string name="hint_groupshot">"Η Κάμερα θα τραβήξει πολλαπλές φωτογραφίες
 και μετά θα δημιουργήσει μια φωτογραφία όπου όλοι θα φαίνονται τέλεια."</string>
-    <string name="hint_groupshot_beauty">Αδυναμία χρήση Ωραιοποίησης σε ομαδικές φωτογραφίες</string>
+    <string name="hint_groupshot_beauty">Αδυναμία χρήσης Ωραιοποίησης σε ομαδικές φωτογραφίες</string>
     <string name="hint_mimovie">Λήψη σε οριζόντιο προσανατολισμό για καλύτερο αποτέλεσμα</string>
     <string name="hint_slow_motion">Το βίντεο που καταγράφετε θα παιχτεί πιο αργά.</string>
     <string name="hint_subtitle">Υπαγορεύστε υπότιτλους όσο γράφετε βίντεο</string>
@@ -874,6 +875,9 @@
     <string name="live_sticker_updating">Γίνεται ενημέρωση…</string>
     <string name="live_workspace_title">Πρόχειρα</string>
     <string name="live_workspace_title_edit">Επιλογή αντικειμένων για διαγραφή</string>
+    <string name="live_workspace_title_pause">Διακοπή</string>
+    <string name="live_workspace_title_play">Αναπαραγωγή</string>
+    <string name="live_workspace_title_pre_edit">Επιλογή αντικειμένων για διαγραφή</string>
     <string name="location_access_allow">Αποδοχή</string>
     <string name="location_fromkeyguard_not_permission">Δεν επιτρέπεται η πρόσβαση της κάμερας στην τοποθεσία σας τώρα. Ξεκλειδώστε πρώτα τη συσκευή σας.</string>
     <string name="location_permission_des">Απομνημόνευση τοποθεσιών για φωτογραφίες και βίντεο</string>
@@ -1069,6 +1073,10 @@
     <string name="module_name_multi_camera">Πολλαπλή σάρωση</string>
     <string name="module_name_new_slow_motion">Αργή Κίνηση</string>
     <string name="module_name_panorama">Πανοράμα</string>
+    <string name="module_name_pixel_108m">108MP</string>
+    <string name="module_name_pixel_48m">48MP</string>
+    <string name="module_name_pixel_50m">50MP</string>
+    <string name="module_name_pixel_64m">64MP</string>
     <string name="module_name_portrait">Πορτρέτο</string>
     <string name="module_name_professional">Pro</string>
     <string name="module_name_scanner">Σαρωτής</string>
@@ -1206,6 +1214,7 @@
     <string name="popup_tips_near_range_mode">Κοντινή εστίαση</string>
     <string name="popup_tips_privacy_watermark_edit">Επεξεργασία υδατογραφήματος</string>
     <string name="portait_effect_entry_blackwhite">Μ&amp;Ά</string>
+    <string name="portait_effect_entry_cold_white">Αστροφεγγιά</string>
     <string name="portait_effect_entry_cool">Μέντα</string>
     <string name="portait_effect_entry_dusk">Σούρουπο</string>
     <string name="portait_effect_entry_fairytale">Παιδική ηλικία</string>
@@ -1223,6 +1232,7 @@
     <string name="portait_effect_entry_riddle">Ζαχαρωτό</string>
     <string name="portait_effect_entry_romance">Ρομαντικό</string>
     <string name="portait_effect_entry_sepia">Sepia</string>
+    <string name="portait_effect_entry_shallots">Ηλιαχτίδα</string>
     <string name="portait_effect_entry_story">Παραμύθι</string>
     <string name="portait_effect_entry_tea">Τσάι</string>
     <string name="portrait_bokeh_first_tips">"Χρήση Λειτουργίας πορτρέτου για θόλωμα
@@ -1285,6 +1295,7 @@
     <string name="pref_camera_auxiliary_close">Απενεργοποιημένο</string>
     <string name="pref_camera_auxiliary_exposure_feedback">Επαλήθευση έκθεσης</string>
     <string name="pref_camera_auxiliary_focus_peak">Κορύφωση εστίασης</string>
+    <string name="pref_camera_beautify_entry_close">@string/face_beauty_close</string>
     <string name="pref_camera_beautify_entry_high">Υψηλή</string>
     <string name="pref_camera_beautify_entry_low">Χαμηλή</string>
     <string name="pref_camera_beautify_entry_normal">Μεσαία</string>
@@ -1415,12 +1426,12 @@
     <string name="pref_camera_portrait_mode_entry_on">Λειτουργία πορτρέτου ενεργή</string>
     <string name="pref_camera_portrait_mode_title">Λειτουργία πορτρέτου</string>
     <string name="pref_camera_predictive_shutter_description">Παρακολουθήστε την κίνηση για να ελαχιστοποιήσετε τη θαμπάδα στις φωτογραφίες παιδιών, κατοικίδιων ζώων και άλλων ενεργών θεμάτων</string>
-    <string name="pref_camera_predictive_shutter_title">Παρακολούθηση κίνησης</string>
+    <string name="pref_camera_predictive_shutter_title">Καταγραφή κίνησης</string>
     <string name="pref_camera_proximity_lock_summary">Κλείδωμα χειρονομιών αφής όταν βρίσκεται στην τσέπη</string>
     <string name="pref_camera_proximity_lock_title">Λειτουργία τσέπης</string>
     <string name="pref_camera_quick_settings">Γρήγορες ρυθμίσεις</string>
     <string name="pref_camera_rec_type_3d_record">Ήχος 3D</string>
-    <string name="pref_camera_rec_type_audio_zoom">Μεγέθυνση ήχου</string>
+    <string name="pref_camera_rec_type_audio_zoom">Εστίαση ήχου</string>
     <string name="pref_camera_rec_type_normal">Κανονική</string>
     <string name="pref_camera_recordlocation_entry_off">Απενεργοποιημένο</string>
     <string name="pref_camera_recordlocation_entry_on">Ενεργοποιημένο</string>
@@ -1477,10 +1488,12 @@
     <string name="pref_camera_tip_id_card">ID σαρωτή</string>
     <string name="pref_camera_touchafaec_entry_off">Απενεργοποιημένο</string>
     <string name="pref_camera_touchafaec_entry_on">Ενεργοποιημένο</string>
-    <string name="pref_camera_track_focus_intro_description">When you take photos or shoot videos with moving subjects, this feature detects people, cats, and dogs, and keeps them in focus automatically. Additionally, you can also double tap any subject to track movement.</string>
-    <string name="pref_camera_track_focus_intro_goto">Turn on</string>
+    <string name="pref_camera_track_eye_preferred_description">Παρακολουθήστε την κίνηση των ματιών για διατήρηση της εστίασης των ματιών όταν ένα άτομο βρίσκεται στο κάδρο</string>
+    <string name="pref_camera_track_eye_preferred_title">Εστίαση παρακολούθησης ματιών</string>
+    <string name="pref_camera_track_focus_intro_description">Όταν τραβάτε φωτογραφίες ή βίντεο με κινούμενα θέματα, αυτή η δυνατότητα εντοπίζει ανθρώπους, γάτες και σκύλους και τους διατηρεί αυτόματα εστιασμένους. Επιπλέον, μπορείτε επίσης να πατήσετε δύο φορές οποιοδήποτε θέμα για να παρακολουθείτε την κίνηση.</string>
+    <string name="pref_camera_track_focus_intro_goto">Ενεργοποίηση</string>
     <string name="pref_camera_track_focus_preferred_description">Συνεχίστε να μετακινείτε ανθρώπους, γάτες και σκύλους σε εστίαση αυτόματα ή πατήστε δύο φορές οποιοδήποτε θέμα για παρακολούθηση</string>
-    <string name="pref_camera_track_focus_preferred_title">Παρακολούθηση εστίασης</string>
+    <string name="pref_camera_track_focus_preferred_title">Εστίαση παρακολούθησης κίνησης</string>
     <string name="pref_camera_ubifocus_title">Επανεστίαση</string>
     <string name="pref_camera_ultra_wide_ldc_description">Αυτόματη διόρθωση παραμορφωμένων αντικειμένων</string>
     <string name="pref_camera_ultra_wide_ldc_title">Επιδιόρθωση παραμορφώσεων σε εξαιρετικά ευρείες λήψεις</string>
@@ -1496,6 +1509,7 @@
     <string name="pref_camera_video_tag_description">Πατήστε \"Σήμανση με ετικέτα\" όσο γράφετε βίντεο για να έχετε δυνατότητα να επιτρέψετε σε επισημασμένα σημεία κατά τη διάρκεια αναπαραγωγής</string>
     <string name="pref_camera_volumekey_function_entry_shutter">Κλείστρο</string>
     <string name="pref_camera_volumekey_function_entry_timer">Αντίστροφη μέτρηση κλείστρου</string>
+    <string name="pref_camera_volumekey_function_entry_timer_new">Timer (%ds)</string>
     <string name="pref_camera_volumekey_function_entry_volume">Ένταση</string>
     <string name="pref_camera_volumekey_function_entry_zoom">Ζουμ</string>
     <string name="pref_camera_volumekey_function_title">Λειτουργία κουμπιών έντασης</string>
@@ -1549,6 +1563,7 @@
     <string name="pref_hdr10_hdr10plus_video_mode_description">Καταγράψτε βίντεο υψηλής ανάλυσης σε HDR10+/HDR10 για βελτιστοποίηση χρωμάτων και δυναμικού εύρους. Τα εγγεγραμμένα βίντεο μπορούν να αναπαραχθούν μόνο σε συσκευές συμβατές με HDR10+/HDR10.</string>
     <string name="pref_hdr10_video_mode_description">Βελτιστοποιήστε αυτόματα τα χρώματα και την αντίθεση για βίντεο 4K και 8K. Τα βελτιστοποιημένα βίντεο μπορούν να αναπαραχθούν μόνο σε συσκευές συμβατές με HDR10.</string>
     <string name="pref_hdr10plus_video_mode_description">Βελτιστοποιήστε τα χρώματα και προσαρμόστε την αντίθεση για βίντεο 4K και 8K. Αυτή η λειτουργία λειτουργεί μόνο σε συσκευές συμβατές με HDR10 +.</string>
+    <string name="pref_hybrid_video_mode_description">Χρησιμοποιήστε την τεχνολογία HLG για να βελτιώσετε τα χρώματα και το δυναμικό εύρος των βίντεο που έχουν καταγραφεί σε υψηλή ανάλυση</string>
     <string name="pref_i_n_r_b">Έξυπνη μείωση θορύβου</string>
     <string name="pref_k_h">Ζωντανής μετάδοσης ενδοωτικά ακουστικά</string>
     <string name="pref_k_s_i">Παρακολουθήστε τον εγγεγραμμένο ήχο χρησιμοποιώντας ενσύρματα ακουστικά earphones όταν είναι συνδεδεμένα</string>
@@ -1667,11 +1682,11 @@
     <string name="prek_b_j_p">Μειώστε την επίδραση του ανέμου στην ηχογράφηση</string>
     <string name="prep_video_ai_audio_new_desc_tip">Οι ήχοι από το αντικείμενο στο επίκεντρο είναι ενισχυμένοι</string>
     <string name="prep_video_ai_audio_new_desc_tip_alone">Οι ήχοι από το θέμα σε εστίαση ενισχύονται στον οριζόντιο προσανατολισμό</string>
-    <string name="prep_video_ai_audio_new_mutex_tip">Δεν είναι δυνατή η χρήση της μεγέθυνσης ήχου τώρα</string>
+    <string name="prep_video_ai_audio_new_mutex_tip">Δεν είναι δυνατή η χρήση της εστίασης ήχου τώρα</string>
     <string name="prep_video_ai_audio_single_desc_tip">Οι ήχοι πίσω από την οθόνη φιλτράρονται</string>
     <string name="prep_video_ai_audio_single_desc_tip_alone">Οι ήχοι πίσω από την οθόνη φιλτράρονται στον οριζόντιο προσανατολισμό</string>
     <string name="prep_video_ai_audio_single_mutex_tip">Δεν είναι δυνατή η εγγραφή του μετωπικού ήχου τώρα</string>
-    <string name="prep_video_ai_audio_unsupported_headset_desc_tips">Η μεγέθυνση ήχου δεν λειτουργεί με τα ζωντανής μετάδοσης ενδοωτικά ακουστικά και το εξωτερικό μικρόφωνο</string>
+    <string name="prep_video_ai_audio_unsupported_headset_desc_tips">Η εστίαση ήχου δεν λειτουργεί με τα ζωντανής μετάδοσης ενδοωτικά ακουστικά και το εξωτερικό μικρόφωνο</string>
     <string name="preparing_sd">Γίνεται έλεγχος κάρτας SD…</string>
     <string name="preview_back_pressed_hint">Πατήστε ξανά για επιστροφή στην προβολή</string>
     <string name="pro_color_mode">Επαγγελματικό χρώμα</string>
@@ -1690,7 +1705,7 @@
     <string name="remote_online_exit_connecting">Αποσύνδεση και έξοδος από τη Διπλή εγγραφή τηλεφώνου τώρα;</string>
     <string name="remote_online_guide">Ενεργοποιήστε τη Διπλή εγγραφή τηλεφώνου στην άλλη συσκευή χρησιμοποιώντας τον διακόπτη Κέντρου ελέγχου.</string>
     <string name="remote_online_interrupted">Έγινε αποσύνδεση. Συνδεθείτε ξανά για να συνεχίσετε.</string>
-    <string name="remote_online_introduction_i">Η Διπλή εγγραφή τηλεφώνου επιτρέπει το συνδυασμό τροφοδοσιών από δύο διαφορετικές συσκευές οι οποίες βρίσκονται κοντά σε ένα βίντεο. Θα μπορείτε να κάνετε προεπισκόπηση τόσο των τροφοδοσιών όσο και του τελικού βίντεο σε αυτήν τη συσκευή. Λάβετε υπόψη ότι ο ήχος θα εγγραφεί μόνο από αυτήν τη συσκευή.</string>
+    <string name="remote_online_introduction_i">Η Διπλή εγγραφή τηλεφώνου επιτρέπει τον συνδυασμό τροφοδοσιών από δύο διαφορετικές συσκευές οι οποίες βρίσκονται κοντά σε ένα βίντεο. Θα μπορείτε να κάνετε προεπισκόπηση τόσο των τροφοδοσιών όσο και του τελικού βίντεο σε αυτήν τη συσκευή. Λάβετε υπόψη ότι ο ήχος θα εγγραφεί μόνο από αυτήν τη συσκευή.</string>
     <string name="remote_online_introduction_ii">Για να λειτουργήσει αυτή η λειτουργία, η άλλη συσκευή Mi ή Redmi πρέπει να υποστηρίζει Διπλή εγγραφή τηλεφώνου. Μπορεί να ενεργοποιηθεί χρησιμοποιώντας τον διακόπτη Κέντρου ελέγχου.</string>
     <string name="remote_online_permission">Αλλάξτε την άδεια τοποθεσίας της Κάμερας σε \"Να επιτρέπεται μόνο κατά τη χρήση της εφαρμογής\" για να μπορείτε να χρησιμοποιήσετε διπλή εγγραφή τηλεφώνου.</string>
     <string name="remote_online_searching">Αναζήτηση για συσκευές…</string>
@@ -1856,7 +1871,7 @@
     <string name="timer_burst_param_total_count">Αριθμός φωτογραφιών</string>
     <string name="timerburst_pressed_hint">Αγγίξτε ξανά για παύση</string>
     <string name="title_snap_double_confirm">Επιβεβαίωση ξανά</string>
-    <string name="toast_burst_snap_forbidden_when_audio_capture_open">Αδυναμία λήψης ριπής ενώ είναι ενεργή η λήψη ήχου</string>
+    <string name="toast_burst_snap_forbidden_when_audio_capture_open">Αδυναμία λήψης ριπής ενώ είναι ενεργή η καταγραφή ήχου</string>
     <string name="toast_saving">Γίνεται αποθήκευση φωτογραφιών…</string>
     <string name="toast_start_audio_capture">Ήχος κατά την λήψη φωτογραφίας</string>
     <string name="today">Σήμερα</string>
@@ -1895,7 +1910,7 @@
     <string name="ultra_wide_recommend_tip_hint_sat">Switch to 0.6X ultra wide angle</string>
     <string name="unknow_error">Άγνωστο σφάλμα</string>
     <string name="unsupported_microphones_3d_record_tips">Ο ήχος 3D δεν υποστηρίζει εξωτερικά μικρόφωνα</string>
-    <string name="unsupported_microphones_audio_zoom_tips">Η Μεγέθυνση ήχου δεν υποστηρίζει εξωτερικά μικρόφωνα</string>
+    <string name="unsupported_microphones_audio_zoom_tips">Η εστίαση ήχου δεν υποστηρίζει εξωτερικά μικρόφωνα</string>
     <string name="update_loading">Έγινε λήψη %1$d%%</string>
     <string name="update_start">Ενημέρωση %1$s</string>
     <string name="user_agree">Αποδοχή</string>

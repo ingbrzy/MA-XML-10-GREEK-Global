@@ -166,6 +166,7 @@
     <string name="clipboard_read_allow_once">%1$s είχε πρόσβαση σε αντικείμενα στο παρασκήνιο</string>
     <string name="clipboard_read_deny_dialog_title">Περιορισμένη πρόσβαση στο πρόχειρο για %1$s</string>
     <string name="close">Κλείσιμο</string>
+    <string name="copy">Αντιγραφή</string>
     <string name="date_picker_label_day" />
     <string name="date_picker_label_month" />
     <string name="date_picker_label_year" />
@@ -177,6 +178,7 @@
     <string name="eras_ad">μ.Χ.</string>
     <string name="eras_bc">π.Χ.</string>
     <string name="evening">Απόγευμα</string>
+    <string name="expand_button_title">Σύνθετες</string>
     <string name="fmt_chinese_date">N月e</string>
     <string name="fmt_date">D</string>
     <string name="fmt_date_day">d</string>
@@ -323,6 +325,7 @@
     <string name="night">Βράδυ</string>
     <string name="no">Όχι</string>
     <string name="noon">Μεσημέρι</string>
+    <string name="not_set">Δεν έχει οριστεί</string>
     <string name="notification_click_tip">Πατήστε για προβολή λεπτομερειών</string>
     <string name="ok">OK</string>
     <string name="perm_action_allow">Αποδοχή</string>
@@ -366,6 +369,7 @@
     <string name="permission_warning_template_ask">Να επιτρέπονται στο %1$s οι παρακάτω άδειες;</string>
     <string name="permisson_reject_notice_toast_text2">δεν διαθέτει άδεια για %1$s.</string>
     <string name="pm">ΜΜ</string>
+    <string name="preference_copied">Το \"%1$s\" αντιγράφηκε στο πρόχειρο.</string>
     <string name="real_location_off">Η τοποθεσία κατά προσέγγιση είναι ενεργοποιημένη</string>
     <string name="real_location_on">Η τοποθεσία κατά προσέγγιση είναι απενεργοποιημένη</string>
     <string name="saturday">Σάββατο</string>
@@ -390,6 +394,7 @@
     <string name="storage_policy_notify_gallery_title">%1$s δεν έχει άδεια για πρόσβαση στη Συλλογή</string>
     <string name="storage_policy_notify_sociality_title">%1$s δεν έχει άδεια για πρόσβαση στα μηνύματα εφαρμογών κοινωνικών μέσων</string>
     <string name="storage_policy_notify_title">%1$s δεν έχει άδεια για πρόσβαση στη Συλλογή</string>
+    <string name="summary_collapsed_preference_list">%1$s, %2$s</string>
     <string name="sunday">Κυριακή</string>
     <string name="sunday_short">Κυρ</string>
     <string name="sunday_shortest">Κυρ</string>
@@ -444,6 +449,8 @@
     <string name="tuesday">Τρίτη</string>
     <string name="tuesday_short">Τρι</string>
     <string name="tuesday_shortest">Τρι</string>
+    <string name="v7_preference_off">ΑΝΕΝΕΡΓΗ</string>
+    <string name="v7_preference_on">ΕΝΕΡΓΗ</string>
     <string name="virtual_reject_notice_content">Στην εφαρμογή εστάλη κενή απάντηση για να προστατευτούν οι προσωπικές σας πληροφορίες</string>
     <string name="virtual_reject_notice_title_calendar">Γίνεται πρόσβαση στο ημερολόγιο από %1$s</string>
     <string name="virtual_reject_notice_title_calllog">Γίνεται πρόσβαση στο ιστορικό κλήσεων από %1$s</string>

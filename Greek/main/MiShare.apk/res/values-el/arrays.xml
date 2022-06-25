@@ -26,8 +26,6 @@
         <item>Ψ</item>
         <item>Ω</item>
         <item>\#</item>
-        <item>.</item>
-        <item>.</item>
     </string-array>
     <string-array name="alphabet_table_with_starred">
         <item>!</item>
@@ -56,15 +54,13 @@
         <item>Ψ</item>
         <item>Ω</item>
         <item>\#</item>
-        <item>.</item>
-        <item>.</item>
     </string-array>
     <string-array name="permissions_desc">
         <item>Για πρόσβαση και αποθήκευση εικόνων, εφαρμογών και άλλων αρχείων, καθώς και για την μεταφορά τους</item>
         <item>Για μεταφορά αρχείων με χρήση Bluetooth και Wi-Fi</item>
     </string-array>
     <string-array name="permissions_desc_china">
-        <item>Για την πρόσβαση και την αποθήκευση εικόνων, εφαρμογών και άλλων αρχείων, καθώς και τη μεταφορά τους</item>
+        <item>For accessing and saving images, apps, and other files, as well as transferring them</item>
         <item>For transferring files using Bluetooth and WLAN</item>
     </string-array>
     <string-array name="permissions_desc_v12">
@@ -74,9 +70,9 @@
         <item>Για εντοπισμό διαθέσιμων κοντινών συσκευών και μεταφορά αρχείων με χρήση Wi-Fi</item>
     </string-array>
     <string-array name="permissions_desc_v12_china">
-        <item>Για αποστολή και λήψη αρχείων</item>
+        <item>For sending and receiving files</item>
         <item>For transferring files using Bluetooth and WLAN</item>
-        <item>Για την εύρεση διαθέσιμων συσκευών σε κοντινή απόσταση χρησιμοποιώντας Bluetooth</item>
+        <item>For finding available devices nearby using Bluetooth</item>
         <item>For finding available devices nearby and transferring files using WLAN</item>
     </string-array>
 </resources>

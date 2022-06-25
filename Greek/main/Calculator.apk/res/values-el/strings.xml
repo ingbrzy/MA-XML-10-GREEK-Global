@@ -93,7 +93,7 @@
     <string name="currency_update_updating">Γίνεται ενημέρωση ισοτιμιών…</string>
     <string name="current_rate_remind_commercial" />
     <string name="current_rate_remind_fund" />
-    <string name="date_format">dd MMM yyyy</string>
+    <string name="date_format">d MMM, yyyy</string>
     <string name="date_picker_label_day" />
     <string name="date_picker_label_month" />
     <string name="date_picker_label_year" />
@@ -463,7 +463,7 @@
     <string name="network_confirm_content">Ο μετατροπέας νομίσματος, και οι αριθμομηχανές υπολογισμού φόρων και υποθηκών απαιτούν σύνδεση στο Ίντερνετ και πρόσβαση στις υπηρεσίες τοποθεσίας για να λειτουργήσουν κανονικά.</string>
     <string name="network_confirm_title">Απαιτούνται άδειες</string>
     <string name="network_purpose">Καλώς ήλθατε στην Αριθμομηχανή! Η Αριθμομηχανή σας δίνει τη δυνατότητα να μετατρέπετε νομίσματα, να υπολογίζετε τις αποπληρωμές υποθηκών και άλλα.</string>
-    <string name="new_privacy_string">&lt;Data>Καλώς ορίσατε στην Αριθμομηχανή!&lt;br/>Η εφαρμογή αυτή περιέχει τις ακόλουθες λειτουργίες:&lt;br/>• Βασική αριθμομηχανή&lt;br/>• Επιστημονική αριθμομηχανή&lt;br/>• Γενικός μετατροπέας (π.χ. νομίσματα, μονάδες μέτρησης κ.λπ.)&lt;br/>• Πρότυπα υπολογισμού για δάνεια, επενδύσεις, μηνιαίες δόσεις και άλλα&lt;br/>Η εφαρμογή Αριθμομηχανή πρέπει να συλλέξει απαραίτητα προσωπικά δεδομένα για να σας παρέχει βασικές υπηρεσίες. Μπορείτε να μάθετε πως διαχειριζόμαστε τα δεδομένα που συλλέγουμε στην &lt;a href= \"%1$s\">Πολιτική Απορρήτου&lt;/a>. Διαβάστε και συμφωνήστε με το &lt;a href=\"%2$s\">Συμφωνητικό Χρήστη&lt;/a> και την &lt;a href=\"%3$s\">Πολιτική Απορρήτου&lt;/a> πριν χρησιμοποιήσετε την Αριθμομηχανή. Μπορείτε να ανακαλέσετε τη συναίνεσή σας στην Πολιτική Απορρήτου στις Ρυθμίσεις της Αριθμομηχανής οποιαδήποτε στιγμή. Εάν δεν συμφωνείτε με την Πολιτική Απορρήτου, δεν θα μπορείτε να χρησιμοποιείτε ορισμένες λειτουργίες αυτής της εφαρμογής. Ωστόσο, οι βασικές της λειτουργίες θα εξακολουθήσουν να είναι διαθέσιμες.&lt;/Data></string>
+    <string name="new_privacy_string">&lt;Data>Καλώς ορίσατε στην Αριθμομηχανή!&lt;br/>Η εφαρμογή αυτή περιέχει τις ακόλουθες λειτουργίες:&lt;br/>• Βασική αριθμομηχανή&lt;br/>• Επιστημονική αριθμομηχανή&lt;br/>• Γενικός μετατροπέας (π.χ. νομίσματα, μονάδες μέτρησης κ.λπ.)&lt;br/>• Πρότυπα υπολογισμού για δάνεια, επενδύσεις, μηνιαίες δόσεις και άλλα&lt;br/>Μπορείτε να μάθετε πως διαχειριζόμαστε τα δεδομένα που συλλέγουμε στην &lt;a href=\"%1$s\">Πολιτική Απορρήτου&lt;/a> μας. Διαβάστε και αποδεχτείτε τη &lt;a href=\"%2$s\">Συμφωνία Χρήστη&lt;/a> και την &lt;a href=\"%3$s\">Πολιτική Απορρήτου&lt;/a> μας πριν χρησιμοποιήσετε την Αριθμομηχανή. Μπορείτε να ανακαλέσετε τη συγκατάθεσή σας στην Πολιτική Απορρήτου στις Ρυθμίσεις της Αριθμομηχανής οποιαδήποτε στιγμή. Εάν δεν αποδεχτείτε την Πολιτική Απορρήτου, δεν θα μπορείτε να χρησιμοποιείτε ορισμένες λειτουργίες αυτής της εφαρμογής. Ωστόσο, οι βασικές της λειτουργίες θα εξακολουθήσουν να είναι διαθέσιμες.&lt;/Data></string>
     <string name="night">Βράδυ</string>
     <string name="none">Τίποτα</string>
     <string name="noon">Μεσημέρι</string>
@@ -602,6 +602,7 @@
     <string name="tax_total_insurance_provident_fund">Ασφάλεια &amp; στεγαστικό κεφάλαιο</string>
     <string name="tax_unemployment">Ανεργία</string>
     <string name="tax_update_time_format">Τα δεδομένα παρέχονται από HeXun (%s)</string>
+    <string name="tenure_year_month">%1$s και %2$s</string>
     <string name="the_anniversary_of_lifting_martial_law">Επέτειος Άρσης του Στρατιωτικού Νόμου</string>
     <string name="the_anti_aggression_day">Ημέρα κατά της Εχθρότητας</string>
     <string name="the_arbor_day">Ημέρα του Δέντρου</string>
@@ -695,6 +696,7 @@
     <string name="unit_data_display_currency_btn">Νγκούλτρουμ του Μπουτάν</string>
     <string name="unit_data_display_currency_bwp">Πούλα της Μποτσουάνα</string>
     <string name="unit_data_display_currency_byn">Ρούβλι Λευκορωσίας</string>
+    <string name="unit_data_display_currency_byr">@string/unit_data_display_currency_byn</string>
     <string name="unit_data_display_currency_cad">Καναδικό Δολάριο</string>
     <string name="unit_data_display_currency_cdf">Φράγκο του Κονγκό</string>
     <string name="unit_data_display_currency_chf">Ελβετικό Φράγκο</string>
@@ -1002,7 +1004,7 @@
     <string name="unit_year_format">Έτος %s</string>
     <string name="unit_yuan">CNY</string>
     <string name="updating">Ενημέρωση υπολογιστικής…</string>
-    <string name="user_agreement">Όροι Χρήσης</string>
+    <string name="user_agreement">Συμφωνία Χρήστη</string>
     <string name="user_experience_program_title">Πρόγραμμα Εμπειρίας Χρήστη</string>
     <string name="v7_preference_off">ΑΝΕΝΕΡΓΗ</string>
     <string name="v7_preference_on">ΕΝΕΡΓΗ</string>
@@ -1037,12 +1039,15 @@
     <string name="word_figure_unit_shi">拾</string>
     <string name="word_figure_yuan">元</string>
     <string name="word_figure_zheng">整</string>
+    <string name="xiaomi_bytes_unit">%1$sB</string>
     <string name="xiaomi_calculator_delete_description">Η Αριθμομηχανή είναι μια εφαρμογή συστήματος. Δεν θα μπορείτε να χρησιμοποιήσετε πολλούς μετατροπείς και πρόσθετες λειτουργίες μετά την απεγκατάσταση της εφαρμογής.</string>
     <string name="xiaomi_calculator_delete_title">Απεγκατάσταση Αριθμομηχανής;</string>
     <string name="xiaomi_calculator_remove_icon_description">Η Αριθμομηχανή είναι μια εφαρμογή συστήματος. Δεν θα μπορείτε να χρησιμοποιήσετε πολλούς μετατροπείς και πρόσθετες λειτουργίες μετά την αφαίρεση της Συντόμευσης αρχικής οθόνης.</string>
     <string name="xiaomi_calculator_remove_icon_title">Αφαίρεση \"Αριθμομηχανής\" από την Αρχική οθόνη;</string>
     <string name="xiaomi_connect_download_manager_fail">Δεν ήταν δυνατή η σύνδεση με τις Λήψεις. Ελέγξτε αν αυτή η εφαρμογή διαθέτει όλα τα απαιτούμενα δικαιώματα στις Ρυθμίσεις > Εγκατεστημένες εφαρμογές.</string>
     <string name="xiaomi_external_storage_unavailable">Μη διαθέσιμος χώρος αποθήκευσης. Ελέγξτε την κάρτα SD σας.</string>
+    <string name="xiaomi_kilobytes_unit">%1$sKB</string>
+    <string name="xiaomi_megabytes_unit">%1$sMB</string>
     <string name="xiaomi_update_dialog_message">"Εισαγωγή έκδοσης %1$s
 Μέγεθος: %2$s"</string>
     <string name="xiaomi_update_dialog_message_diff">"Εισαγωγή έκδοσης %1$s
