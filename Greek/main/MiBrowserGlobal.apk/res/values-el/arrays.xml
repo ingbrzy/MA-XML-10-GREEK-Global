@@ -117,6 +117,19 @@
         <item>iPhone</item>
         <item>iPad</item>
     </string-array>
+    <string-array name="pref_web_permissions">
+        <item>Περιορισμός</item>
+        <item>Ερώτηση</item>
+        <item>Να επιτραπεί</item>
+    </string-array>
+    <string-array name="pref_web_permissions_sub_one">
+        <item>Περιορισμός</item>
+        <item>Ερώτηση</item>
+    </string-array>
+    <string-array name="pref_web_permissions_sub_two">
+        <item>Περιορισμός</item>
+        <item>Να επιτραπεί</item>
+    </string-array>
     <string-array name="setting_swipe_up_target">
         <item>Αναζήτηση</item>
         <item>Νέα</item>

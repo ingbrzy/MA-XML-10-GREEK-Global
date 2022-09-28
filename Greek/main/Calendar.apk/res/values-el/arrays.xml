@@ -142,6 +142,10 @@
         <item>Αυτό και μελλοντικά συμβάντα</item>
         <item>Όλα τα συμβάντα</item>
     </string-array>
+    <string-array name="english_premium_league">
+        <item>4</item>
+        <item>@string/english_premium_league</item>
+    </string-array>
     <string-array name="gemini_info">
         <item>gemini</item>
         <item>Δίδυμοι</item>
@@ -192,6 +196,11 @@
         <item>pisces</item>
         <item>Ιχθύς</item>
         <item>19/2 - 20/3</item>
+    </string-array>
+    <string-array name="prefEntries_alerts_popup_new">
+        <item>Ανενεργό</item>
+        <item>Για όλα τα συμβάντα</item>
+        <item>Για συμβάντα ευαίσθητα στον χρόνο</item>
     </string-array>
     <string-array name="prefEntries_alerts_vibrateWhen">
         <item>Πάντα</item>

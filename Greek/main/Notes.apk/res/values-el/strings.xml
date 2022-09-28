@@ -27,6 +27,7 @@
     <string name="abc_shareactionprovider_share_with">Κοινοποίηση σε</string>
     <string name="abc_shareactionprovider_share_with_application">Κοινοποίηση στην εφαρμογή %s</string>
     <string name="abc_toolbar_collapse_description">Σύμπτυξη</string>
+    <string name="access_denied_info">Πάρα πολλές προσπάθειες. Περιμένετε ένα ή δύο λεπτά και προσπαθήστε ξανά.</string>
     <string name="action_collapse">Απόκρυψη</string>
     <string name="action_expand">Εμφάνιση περισσότερων</string>
     <string name="action_folder_description">Προβολή φακέλων</string>
@@ -137,6 +138,7 @@
     <string name="dlg_hide_message">Γίνεται απόκρυψη…</string>
     <string name="dlg_info_creating_message">Γίνεται δημιουργία εικόνας…</string>
     <string name="dlg_info_save_to_gallery_message">Αποθήκευση εικόνας στη Συλλογή…</string>
+    <string name="dlg_info_save_to_local_message">Γίνεται αποθήκευση…</string>
     <string name="dlg_message_password_reset">Ο κωδικός για τις κρυφές σημειώσεις θα αντικατασταθεί από τον κωδικό Προστασίας προσωπικών δεδομένων ο οποίος λειτουργεί για μηνύματα, φωτογραφίες και κρυφούς φακέλους</string>
     <string name="dlg_message_set_password">Ο κωδικός Προστασίας προσωπικών δεδομένων λειτουργεί για μηνύματα, φωτογραφίες, και κρυφούς φακέλους</string>
     <string name="dlg_message_use_privacy_password">Χρήση κωδικού Προστασίας προσωπικών δεδομένων. Λειτουργεί για μηνύματα, φωτογραφίες και κρυφούς φακέλους.</string>
@@ -288,7 +290,7 @@
     <string name="friday_short">Παρ</string>
     <string name="friday_shortest">Παρ</string>
     <string name="gesture_guide_cancel">Παράλειψη</string>
-    <string name="gesture_guide_message">Μπορείτε να πατήσετε, να πιέσετε και να κρατήσετε, και να σύρετε στοιχεία για δημιουργία και αναδιάταξη σημειώσεων. Θέλετε να μάθετε αυτές τις χειρονομίες τώρα;</string>
+    <string name="gesture_guide_message">Μπορείτε να πατήσετε, να πατήσετε παρατεταμένα, και να σύρετε στοιχεία για δημιουργία και αναδιάταξη σημειώσεων. Θέλετε να μάθετε αυτές τις χειρονομίες τώρα;</string>
     <string name="gesture_guide_ok">Εκμάθηση</string>
     <string name="gesture_guide_title">Χειρονομίες</string>
     <string name="hand_write_only_support_tablet_editing">Οι χειρόγραφες σημειώσεις μπορούν να επεξεργαστούν μόνο σε τάμπλετ</string>
@@ -496,6 +498,7 @@
     <string name="mtrl_picker_a11y_next_month">Αλλαγή στον επόμενο μήνα</string>
     <string name="mtrl_picker_a11y_prev_month">Αλλαγή στον προηγούμενο μήνα</string>
     <string name="mtrl_picker_announce_current_selection">Τρέχουσα επιλογή: %1$s</string>
+    <string name="mtrl_picker_confirm">@android:string/ok</string>
     <string name="mtrl_picker_date_header_selected">%1$s</string>
     <string name="mtrl_picker_date_header_title">Επιλογή ημερομηνίας</string>
     <string name="mtrl_picker_date_header_unselected">Επιλεγμένη ημερομηνία</string>
@@ -522,11 +525,13 @@
     <string name="mtrl_picker_toggle_to_day_selection">Πατήστε για εναλλαγή για την επιλογή ημέρας</string>
     <string name="mtrl_picker_toggle_to_text_input_mode">Εναλλαγή στη λειτουργία εισαγωγής κειμένου</string>
     <string name="mtrl_picker_toggle_to_year_selection">Πατήστε για εναλλαγή για την επιλογή έτους</string>
+    <string name="network_error_info">Παρουσιάστηκε σφάλμα δικτύου. Ελέγξτε τις ρυθμίσεις δικτύου σας και προσπαθήστε ξανά.</string>
+    <string name="network_timeout_info">Αδυναμία σύνδεσης στο δίκτυο. Προσπαθήστε ξανά.</string>
     <string name="new_app_name">Mi Σημειώσεις</string>
     <string name="new_audio_create_cancel_talkback_des">Ακυρώθηκε</string>
     <string name="new_audio_create_done_talkback_des">Δημιουργήθηκε</string>
-    <string name="new_audio_create_guide_tip">Πιέστε και κρατήστε για να δημιουργήσετε φωνητικό σημείωμα</string>
-    <string name="new_audio_create_talkback_des">Πατήστε για να δημιουργήσετε γραπτό σημείωμα. Πιέστε και κρατήστε για να δημιουργήσετε φωνητικό σημείωμα. Απελευθερώστε το κουμπί για να διακόψετε την εγγραφή και να δημιουργήσετε το σημείωμα, ή σύρετε πάνω για ακύρωση.</string>
+    <string name="new_audio_create_guide_tip">Πατήστε παρατεταμένα για να δημιουργήσετε φωνητικό σημείωμα</string>
+    <string name="new_audio_create_talkback_des">Πατήστε για να δημιουργήσετε γραπτό σημείωμα. Πατήστε παρατεταμένα για να δημιουργήσετε φωνητικό σημείωμα. Απελευθερώστε το κουμπί για να διακόψετε την εγγραφή και να δημιουργήσετε το σημείωμα, ή σύρετε πάνω για ακύρωση.</string>
     <string name="new_data_empty_note">Δεν υπάρχουν στοιχεία εδώ ακόμη</string>
     <string name="night">Βράδυ</string>
     <string name="no_network">Αδυναμία σύνδεσης στο δίκτυο</string>
@@ -537,9 +542,9 @@
     <string name="note_description_title">Σχετικά με Σημειώσεις</string>
     <string name="note_dual_screen_dialog_content">Φαίνεται ότι επεξεργάζεστε σημειώσεις στον υπολογιστή σας τώρα. Για να αποφύγετε αντικρουόμενες αλλαγές, κλείστε τις Σημειώσεις στον υπολογιστή σας.</string>
     <string name="note_dual_screen_dialog_title">Χρησιμοποιώντας το Screen Combo…</string>
-    <string name="note_gesture_guide_step1">Πιέστε και κρατήστε το κουμπί με το \"συν\" για δημιουργία φωνητικής σημείωσης</string>
-    <string name="note_gesture_guide_step2">Πιέστε και κρατήστε μία σημείωση και μετά σύρετέ την πάνω από μια άλλη σημείωση για δημιουργία φακέλου</string>
-    <string name="note_gesture_guide_step3">Πιέστε και κρατήστε μία σημείωση και μετά σύρετέ την πάνω από έναν φάκελο για να μετακινήσετε τη σημείωση εκεί</string>
+    <string name="note_gesture_guide_step1">Πατήστε παρατεταμένα το κουμπί με το \"συν\" για δημιουργία φωνητικής σημείωσης</string>
+    <string name="note_gesture_guide_step2">Πατήστε παρατεταμένα μία σημείωση και μετά σύρετέ την πάνω από μια άλλη σημείωση για δημιουργία φακέλου</string>
+    <string name="note_gesture_guide_step3">Πατήστε παρατεταμένα μία σημείωση και μετά σύρετέ την πάνω από έναν φάκελο για να μετακινήσετε τη σημείωση εκεί</string>
     <string name="note_header_first_enter_guide">Τραβήξτε προς τα κάτω για να δείτε περισσότερα</string>
     <string name="note_invalid_mindnote_hint">Οι νοητικοί χάρτες δεν είναι διαθέσιμοι σε αυτήν την έκδοση. Ενημερώστε την εφαρμογή για να χρησιμοποιήσετε αυτήν τη δυνατότητα.</string>
     <string name="note_item_default_title">Κενή σημείωση</string>
@@ -552,11 +557,14 @@
     <string name="note_mindnote_entrance_hint_newversion">"Ξεκινήστε να πληκτρολογείτε "</string>
     <string name="note_mindnote_entrance_icon_text">Δημιουργήστε έναν νοητικό χάρτη</string>
     <string name="note_mindnote_entrance_icon_text_newversion">Δημιουργήστε έναν νοητικό χάρτη</string>
+    <string name="note_mindnote_not_support_in_phone_model">Δεν είναι δυνατή η επεξεργασία των νοητικών χαρτών σε αυτήν τη συσκευή</string>
     <string name="note_module_name">Σημειώσεις</string>
     <string name="note_not_text_stub">Χωρίς κείμενο</string>
     <string name="note_sort_way">Ταξινόμηση</string>
+    <string name="note_write_hint">Ξεκινήστε να γράφετε</string>
     <string name="notealert_enter">Άνοιγμα σημείωσης</string>
     <string name="notealert_ok">Απόρριψη</string>
+    <string name="notelist_string_info">…</string>
     <string name="notes_description_content">Οι Σημειώσεις είναι μια εφαρμογή συστήματος. Δεν θα μπορείτε να χρησιμοποιήσετε αυτήν την εφαρμογή αφού την απεγκαταστήσετε.</string>
     <string name="notes_description_title">Απεγκατάσταση Σημειώσεων;</string>
     <string name="notification_content_add_todo_from_other_app">Προσθέσατε νέα εργασία. Πατήστε για προβολή.</string>
@@ -619,6 +627,8 @@
     <string name="permission_phone_state_desc">Για διακοπή ηχογράφησης φωνής κατά τη διάρκεια κλήσεων</string>
     <string name="permission_read_contact_desc">Συσχετισμός σημειώσεων που δημιουργήθηκαν κατά τη διάρκεια κλήσεων με επαφές</string>
     <string name="permission_storage_desc">Για αποθήκευση σημειώσεων ως εικόνες</string>
+    <string name="permission_storage_desc_new_v12">Για προσθήκη εικόνων σε σημειώσεις και αποθήκευση σημειώσεων ως εικόνων</string>
+    <string name="permission_storage_desc_pad_new_v12">Για προσθήκη εικόνων σε σημειώσεις και αποθήκευση σημειώσεων ως εικόνων</string>
     <string name="permission_storage_desc_pad_v12">Για προσθήκη εικόνων σε σημειώσεις και αποθήκευση σημειώσεων ως εικόνων</string>
     <string name="permission_storage_desc_v12">Για προσθήκη εικόνων σε σημειώσεις και αποθήκευση σημειώσεων ως εικόνων</string>
     <string name="permission_xiaoai_desc">&lt;Data>Η Mi AI θα συλλέξει τις φωνητικές σας σημειώσεις και το ID συσκευής για απομαγνητοφώνηση ήχου και δημιουργία φωνητικών σημειώσεων. Μάθετε περισσότερα στην &lt;a href=\"%1$s\">Πολιτική Απορρήτου&lt;/a> της Mi AI.&lt;/Data></string>
@@ -656,6 +666,7 @@
     <string name="privacy_note_content_empty">Δεν υπάρχουν αντικείμενα εδώ ακόμα.</string>
     <string name="private_entry_available">Αφήστε για άνοιγμα ιδιωτικού φακέλου</string>
     <string name="private_entry_default">Τραβήξτε προς τα κάτω για άνοιγμα ιδιωτικού φακέλου</string>
+    <string name="progressbar_title">Έλεγχος για προβλήματα ασφαλείας…</string>
     <string name="quick_note_link_default_text">URL</string>
     <string name="quick_note_new_user_guide">Οι Γρήγορες σημειώσεις σας επιτρέπουν να δημιουργείτε σημειώσεις και αποσπάσματα</string>
     <string name="recover_notes_hint">Παρουσιάστηκε σφάλμα, μεταβείτε στο i.mi.com για να επαναφέρετε τις σημειώσεις.</string>
@@ -704,6 +715,9 @@
     <string name="save_to_gallery_failure_message">Αδυναμία αποθήκευσης</string>
     <string name="save_to_gallery_icon_name">Αποθήκευση στη Συλλογή</string>
     <string name="save_to_gallery_success_message">Επιτυχής αποθήκευση</string>
+    <string name="save_to_local_failure_message">Αδυναμία αποθήκευσης</string>
+    <string name="save_to_local_icon_name">Αποθήκευση</string>
+    <string name="save_to_local_success_message">Επιτυχής αποθήκευση</string>
     <string name="search">Σημειώσεις</string>
     <string name="search_hint">Αναζήτηση σημειώσεων</string>
     <string name="search_keyword_notes">Σημειώσεις</string>
@@ -765,6 +779,7 @@
     <string name="sync_note_folder">%1$s και %2$s</string>
     <string name="sync_note_todo">%1$s και %2$s</string>
     <string name="sync_tips">Αγγίξτε για συγχρονισμό σημειώσεων με το cloud.</string>
+    <string name="system_error_info">Το σύστημα είναι απασχολημένο. Περιμένετε ένα δύο λεπτά και προσπαθήστε ξανά.</string>
     <string name="the_anniversary_of_lifting_martial_law">Επέτειος Άρσης του Στρατιωτικού Νόμου</string>
     <string name="the_anti_aggression_day">Ημέρα κατά της Εχθρότητας</string>
     <string name="the_arbor_day">Ημέρα του Δέντρου</string>
@@ -940,6 +955,7 @@
     <string name="tuesday_shortest">Τρι</string>
     <string name="unclassfied_folder_name">Αταξινόμητος</string>
     <string name="undo">Αναίρεση</string>
+    <string name="unknown_error_info">Άγνωστο σφάλμα</string>
     <string name="unknown_source">Άγνωστη πηγή</string>
     <string name="v7_preference_off">ΑΝΕΝΕΡΓΗ</string>
     <string name="v7_preference_on">ΕΝΕΡΓΗ</string>

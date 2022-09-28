@@ -82,9 +82,9 @@
         <item>Χαμηλή</item>
     </string-array>
     <string-array name="record_quality_summaries">
-        <item>MP3, ~192kbit/s, ~90MB/h</item>
-        <item>MP3, ~100kbit/s, ~45MB/h</item>
-        <item>MP3, ~75kbit/s, ~32MB/h</item>
+        <item>MP3, ~192kbit/δ, ~90MB/ώ</item>
+        <item>MP3, ~100kbit/δ, ~45MB/ώ</item>
+        <item>MP3, ~75kbit/δ, ~32MB/ώ</item>
     </string-array>
     <string-array name="record_scenes_entries">
         <item>Μουσική</item>

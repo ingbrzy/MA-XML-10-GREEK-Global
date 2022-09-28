@@ -55,6 +55,8 @@
     <string name="agenda_tomorrow">ΑΥΡΙΟ, %1$s</string>
     <string name="agenda_view">Συμβάντα</string>
     <string name="alarm_label">Απόρριψη</string>
+    <string name="alarm_open_reminder">Ενεργοποίηση υπενθύμισης</string>
+    <string name="alarm_reminder_already">Η υπενθύμιση είναι ενεργοποιημένη</string>
     <string name="alert_reminder_divider">|</string>
     <string name="alert_reminder_expired">Έληξε</string>
     <string name="alert_title">Ειδοποιήσεις ημερολόγιου</string>
@@ -90,6 +92,7 @@
     <string name="birthday_term">γενέθλια</string>
     <string name="button_record_menstruation">Καταγραφή</string>
     <string name="calendar_permission_desc">Διαχείριση συμβάντων</string>
+    <string name="calendar_privacy_policy">Πολιτική Απορρήτου</string>
     <string name="can_not_create_long_event">Το όνομα συμβάντος είναι πολύ μακρύ</string>
     <string name="can_not_modify_allday_event">Αδυναμία αλλαγής ολοήμερου συμβάντος</string>
     <string name="can_not_modify_event">Αδυναμία αλλαγής συμβάντος</string>
@@ -145,7 +148,7 @@
     <string name="countdown_notify_title">Αντίστροφη μέτρηση: %1$s</string>
     <string name="countdown_secondary_tag">Αντίστροφη μέτρηση</string>
     <string name="countdown_today">Σήμερα</string>
-    <string name="create_an_account_desc">"Το Ημερολόγιο λειτουργεί καλύτερα με έναν Mi Λογαριασμό.
+    <string name="create_an_account_desc">"Το Ημερολόγιο λειτουργεί καλύτερα με έναν Λογαριασμό Xiaomi.
 
 • Έχετε πρόσβαση σ' αυτό από οποιοδήποτε πρόγραμμα περιήγησης.
 • Δημιουργήστε αντίγραφα ασφαλείας των συμβάντων σας με ασφάλεια."</string>
@@ -177,11 +180,13 @@
     <string name="date_picker_label_month" />
     <string name="date_picker_label_year" />
     <string name="date_picker_lunar">Παραδοσιακό κινεζικό ημερολόγιο</string>
+    <string name="date_time_fmt" formatted="false">%s, %s</string>
     <string name="date_time_picker_dialog_title">Ορισμός ημερομηνίας και ώρας</string>
     <string name="date_today">" (σήμερα)"</string>
     <string name="date_view">Ημερομηνία</string>
     <string name="day">Ημέρα</string>
     <string name="day_view_new_event_hint">Νέο συμβάν</string>
+    <string name="default_reminder_later_time">Προεπιλεγμένο διάστημα για \"Υπενθύμιση αργότερα\"</string>
     <string name="default_reminder_mode">Υπενθυμίσεις</string>
     <string name="delete_menstruation_record_confirm">Διαγραφή αυτής της εγγραφής;</string>
     <string name="delete_recurring_event_title">Διαγραφή %s;</string>
@@ -212,8 +217,10 @@
     <string name="edit_event_label">Λεπτομέρειες</string>
     <string name="edit_event_no_reminder_value">Να μην γίνει υπενθύμιση</string>
     <string name="edit_event_reminder_3_days_before">Και υπενθύμιση %d ημέρες πριν</string>
+    <string name="edit_event_reminder_3_days_before_time">Επίσης υπενθύμιση %d ημέρες πριν</string>
     <string name="edit_event_reminder_summary">Εκείνη την ημέρα στις%1$s</string>
     <string name="edit_event_reminder_summary_3_days_before">%2$d ημέρες νωρίτερα και εκείνη την ημέρα στις %1$s</string>
+    <string name="edit_event_reminder_summary_3_days_before_today">%1$d μέρες πριν και στις %1$s την καθορισμένη μέρα</string>
     <string name="edit_event_reminder_text">Την %1$s στις %2$s</string>
     <string name="edit_event_reminder_time">Ώρα υπενθύμισης</string>
     <string name="edit_event_reminder_with_another_day_text">Την %1$s, %2$s στις %3$s</string>
@@ -222,6 +229,14 @@
     <string name="edit_event_tab_birthday">Γενέθλια</string>
     <string name="edit_event_tab_countdown">Αντίστροφη μέτρηση</string>
     <string name="edit_event_tab_event">Συμβάν</string>
+    <string name="edit_event_title_create_agenda">Δημιουργία συμβάντος</string>
+    <string name="edit_event_title_create_anniversary">Δημιουργία επετείου</string>
+    <string name="edit_event_title_create_birthday">Δημιουργία γενεθλίων</string>
+    <string name="edit_event_title_create_countdown">Δημιουργία αντίστροφης μέτρησης</string>
+    <string name="edit_event_title_edit_agenda">Επεξεργασία συμβάντος</string>
+    <string name="edit_event_title_edit_anniversary">Επεξεργασία επετείου</string>
+    <string name="edit_event_title_edit_birthday">Επεξεργασία γενεθλίων</string>
+    <string name="edit_event_title_edit_countdown">Επεξεργασία αντίστροφης μέτρησης</string>
     <string name="edit_event_to_label">Προς</string>
     <string name="edit_your_long_holidays">Επεξεργασία εορτών</string>
     <string name="ee_dd_short_month">EEEE, dd MMM</string>
@@ -390,7 +405,9 @@
     <string name="item_num_selected">%1$d επιλέχθηκαν</string>
     <string name="language_change_confirmation">Επιτυχής αλλαγή. Μπορείτε να αλλάξετε τη γλώσσα στις ρυθμίσεις του Ημερολογίου.</string>
     <string name="launch_weather_comment">Πατήστε εδώ για να λάβετε πληροφορίες καιρού</string>
-    <string name="load_more_hint">Φόρτωση συμβάντων από %1$d</string>
+    <string name="load_more_events">Προβολή συμβάντων %d</string>
+    <string name="load_more_events_default">Προβολή συμβάντων της επόμενης χρονιάς</string>
+    <string name="load_more_hint">Προβολή συμβάντων %1$d</string>
     <string name="loading">Περιμένετε μία στιγμή…</string>
     <string name="local_calendar_display_name">Τοπικό ημερολόγιο</string>
     <string name="local_owner_account_name">Έγινε αποθήκευση στην συσκευή</string>
@@ -543,6 +560,7 @@
     <string name="no_internet_dialog_message">Η συσκευή πρέπει να συνδεθεί στο δίκτυο για να μπορείτε να ανακαλέσετε τη συγκατάθεσή σας. Ελέγξτε τις ρυθμίσεις του δικτύου σας και προσπαθήστε ξανά.</string>
     <string name="no_internet_dialog_title">Παρουσιάσθηκε σφάλμα</string>
     <string name="no_long_holidays">Δεν υπάρχουν επερχόμενες μεγάλες εορτές</string>
+    <string name="no_more_events">Δεν υπάρχουν άλλα συμβάντα για προβολή</string>
     <string name="no_network">"Αδυναμία σύνδεσης στο δίκτυο.
 Ελέγξτε τις ρυθμίσεις δικτύου και δοκιμάστε ξανά."</string>
     <string name="no_network_btn">Προσπαθήστε ξανά</string>
@@ -596,6 +614,7 @@
     <string name="panchang_yog">Yog</string>
     <string name="partner_compatibility">Συμβατότητα συνεργάτη</string>
     <string name="path_calendar_settings">Εφαρμογές συστήματος/Ημερολόγιο/Ρυθμίσεις</string>
+    <string name="permission_description">Λεπτομέρειες αδειών</string>
     <string name="picker_day">Επιλεγμένη μέρα: %1$d. Σύρετε κάθετα για επιλογή.</string>
     <string name="picker_month">Επιλεγμένος μήνας: %1$d. Σύρετε κάθετα για επιλογή.</string>
     <string name="picker_year">Επιλεγμένο έτος: %1$d. Σύρετε κάθετα για επιλογή.</string>
@@ -609,14 +628,20 @@
     <string name="pref_title_notification_remind">Ειδοποιήσεις υπενθυμίσεων</string>
     <string name="preference_copied">Το \"%1$s\" αντιγράφηκε στο πρόχειρο.</string>
     <string name="preferences_additional_cal_default">0</string>
+    <string name="preferences_alarms_category_title">Υπενθυμίσεις ξυπνητηριού</string>
+    <string name="preferences_alarms_sound">Ήχος</string>
+    <string name="preferences_alarms_vibrateWhen">Δόνηση</string>
     <string name="preferences_alerts_ringtone_title">Ήχος</string>
     <string name="preferences_alerts_vibrateWhen_title">Δόνηση</string>
     <string name="preferences_alerts_vibrate_title">Δόνηση και κουδούνισμα</string>
+    <string name="preferences_allow_remind">Να επιτραπούν οι υπενθυμίσεις</string>
     <string name="preferences_default_allday_reminder_title">Προεπιλεγμένη ώρα ολοήμερης υπενθύμισης</string>
     <string name="preferences_default_reminder_dialog">Προεπιλεγμένη ώρα υπενθύμισης</string>
     <string name="preferences_default_reminder_title">Προεπιλεγμένη ώρα υπενθύμισης</string>
     <string name="preferences_home_tz_title">Ζώνη ώρας οικίας</string>
     <string name="preferences_notification_ringtone_title">Ήχος</string>
+    <string name="preferences_popup_alert_smart_summary_new">Τα ευαίσθητα στον χρόνο συμβάντα είναι γεγονότα με ακριβή χρόνο</string>
+    <string name="preferences_popup_alert_title">Αναδυόμενες υπενθυμίσεις</string>
     <string name="preferences_show_indic_date_title">Εμφάνιση Ινδικού ημερολογίου</string>
     <string name="preferences_title">Ημερολόγιο</string>
     <string name="preferences_use_home_tz_descrip">Εμφανίζει ημερολόγια και ώρες συμβάντων στην ζώνη ώρα οικίας σας όταν ταξιδεύετε</string>
@@ -624,12 +649,18 @@
     <string name="preferences_week_start_day_default">-1</string>
     <string name="preferences_week_start_day_dialog">Αρχή της εβδομάδας</string>
     <string name="preferences_week_start_day_title">Αρχή της εβδομάδας</string>
+    <string name="privacy_and_permissions">Απόρρητο και άδειες</string>
     <string name="privacy_card_description">Συμφωνήστε με την Πολιτική Απορρήτου μας για πρόσβαση σε όλες τις λειτουργίες.</string>
     <string name="privacy_policy_dialog_agree">Αποδοχή</string>
     <string name="privacy_policy_dialog_dont_agree">Απόρριψη</string>
     <string name="privacy_policy_dialog_message">&lt;Data>Καλώς ορίσατε στο Ημερολόγιο!&lt;br/>Μπορείτε να χρησιμοποιήσετε αυτή την εφαρμογή για να διαχειρίζεστε συμβάντα, να ορίζετε υπενθυμίσεις και να λαμβάνετε πρόσθετες πληροφορίες ειδικά για την τοποθεσία σας.&lt;br/>Η εφαρμογή Ημερολόγιο πρέπει να συλλέξει απαραίτητες προσωπικές πληροφορίες για να σας παρέχει βασικές υπηρεσίες. Μπορείτε να μάθετε πως διαχειριζόμαστε τις πληροφορίες που συλλέγουμε στην &lt;a href=\"%1$s\">Πολιτική Απορρήτου&lt;/a>.&lt;br/>Διαβάστε και αποδεχτείτε τη &lt;a href=\"%2$s\">Συμφωνία Χρήστη&lt;/a> και την &lt;a href=\"%3$s\">Πολιτική Απορρήτου&lt;/a> πριν χρησιμοποιήσετε το Ημερολόγιο. Μπορείτε να ανακαλέσετε τη συγκατάθεσή σας στην Πολιτική Απορρήτου στις Ρυθμίσεις της εφαρμογής Ημερολόγιο οποιαδήποτε στιγμή.&lt;br/> Εάν δεν αποδεχτείτε την Πολιτική Απορρήτου, δεν θα μπορείτε να χρησιμοποιείτε ορισμένες λειτουργίες αυτής της εφαρμογής. Ωστόσο, οι βασικές της λειτουργίες θα εξακολουθήσουν να είναι διαθέσιμες.&lt;/Data></string>
     <string name="privacy_policy_dialog_title">Όροι και προϋποθέσεις</string>
     <string name="privacy_revoke_switch_text">Ανάκληση συγκατάθεσης</string>
+    <string name="pull_refresh_events">Προβολή συμβάντων %d</string>
+    <string name="pull_refresh_events_default">Προβολή περσινών συμβάντων</string>
+    <string name="pull_refresh_progress_load_finish">Επιτυχής φόρτωση</string>
+    <string name="pull_refresh_progress_loading">Μια στιγμή…</string>
+    <string name="pull_refresh_progress_release_to_load">Αφήστε για φόρτωση</string>
     <string name="pull_to_refresh_hint">Τραβήξτε για φόρτωση συμβάντων από %1$d</string>
     <string name="recorded_menstruation">Καταγεγραμμένη εμμηνόρροια</string>
     <string name="refresh">Ανανέωση</string>
@@ -686,6 +717,8 @@
     <string name="search_calendar">Ημερομηνία;Ηλιακοί όροι;Σεληνιακό;ημερολόγιο;Μοίρα;Ατζέντα;Συνάντηση;Υπενθύμιση;Διακοπές;Εορτή;Γενέθλια;2016;2017;Κινέζικη Πρωτοχρονιά;Πρωτοχρονιά;Παγκόσμια Ημέρα Εργασίας;Μεσο-Φθινοπωρινό Φεστιβάλ</string>
     <string name="search_calendar_edit_event">Συνάντηση;Υπενθύμιση;Ατζέντα</string>
     <string name="search_calendar_settings">Ημερολόγιο;Ατζέντα;Υπενθύμιση</string>
+    <string name="search_events">Αναζήτηση συμβάντων</string>
+    <string name="search_history">Ιστορικό αναζήτησης</string>
     <string name="search_menu_title">Αναζήτηση</string>
     <string name="second_saturday_holiday">Κάθε δεύτερο Σάββατο είναι ημέρα ξεκούρασης</string>
     <string name="select_date">Μετάβαση στην ημερομηνία</string>
@@ -705,7 +738,9 @@
     <string name="setting_features_title">Ρυθμίσεις λειτουργιών</string>
     <string name="setting_holiday_display_desc">Οι κάρτες εορτών βρίσκονται κάτω από την ατζέντα σας στην αρχική σελίδα</string>
     <string name="setting_holiday_reminder">Υπενθύμιση εορτών</string>
+    <string name="setting_import_events">Εισαγωγή συμβάντων</string>
     <string name="setting_others">Επιπρόσθετα</string>
+    <string name="setting_show_reject_agenda">Εμφάνιση απορριφθέντων συμβάντων</string>
     <string name="setting_title_about">Πληροφορίες</string>
     <string name="setting_title_holiday_display">Εμφάνιση εορτών</string>
     <string name="setting_title_import_todo">Εισαγωγή εργασιών</string>
@@ -768,6 +803,10 @@
     <string name="tab_title_day">Ημέρα</string>
     <string name="tab_title_month">Μήνας</string>
     <string name="tab_title_week">Εβδομάδα</string>
+    <string name="tab_view_day">Ημέρα</string>
+    <string name="tab_view_month">Μήνας</string>
+    <string name="tab_view_week">Εβδομάδα</string>
+    <string name="tab_view_year">Έτος</string>
     <string name="talk_back_read_date">Τρέχουσα ημερομηνία: %1$s (%2$s σύμφωνα με το σεληνιακό ημερολόγιο).</string>
     <string name="talk_back_setting">Ρυθμίσεις</string>
     <string name="talk_back_tab_switch">Εναλλαγή μεταξύ προβολών</string>
@@ -939,7 +978,7 @@
     <string name="work_day_indication">: (</string>
     <string name="xiaomi_calendar_delete_description">Το Ημερολόγιο είναι μια εφαρμογή συστήματος που σας επιτρέπει να δημιουργείτε και να διαχειρίζεστε συμβάντα. Ορισμένες από τις δυνατότητές της θα εξακολουθούν να είναι διαθέσιμες μετά την κατάργηση της συντόμευσης Αρχικής οθόνης.</string>
     <string name="xiaomi_calendar_delete_title">Αφαίρεση \"Ημερολογίου\" από την Αρχική οθόνη;</string>
-    <string name="xiaomi_calendar_display_name">Ημερολόγιο Mi Λογαριασμού</string>
+    <string name="xiaomi_calendar_display_name">Ημερολόγιο Λογαριασμού Xiaomi</string>
     <string name="year">Έτος</string>
     <string name="yearly">Ετησίως (κάθε %s)</string>
     <string name="yearly_plain">Ετησίως</string>

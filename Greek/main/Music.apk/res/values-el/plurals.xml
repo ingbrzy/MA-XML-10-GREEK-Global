@@ -122,6 +122,14 @@
         <item quantity="other">&lt;χρώμα γραμματοσειράς=\"κόκκινο\">%d τραγούδια&lt;/γραμματοσειρά> γίνεται λήψη</item>
         <item quantity="one">&lt;χρώμα γραμματοσεράς==\"κόκκινο\">%d τραγούδι&lt;/γραμματοσειρά> γίνεται λήψη</item>
     </plurals>
+    <plurals name="exo_controls_fastforward_by_amount_description">
+        <item quantity="other">Γρήγορη προώθηση κατά %d δευτερόλεπτα</item>
+        <item quantity="one">Γρήγορη προώθηση κατά %d δευτερόλεπτο</item>
+    </plurals>
+    <plurals name="exo_controls_rewind_by_amount_description">
+        <item quantity="other">Μετάβαση προς τα πίσω κατά %d δευτερόλεπτα</item>
+        <item quantity="one">Μετάβαση προς τα πίσω κατά %d δευτερόλεπτο</item>
+    </plurals>
     <plurals name="free_downloads_num_hint">
         <item quantity="other">Απέμειναν %d δωρεάν λήψεις</item>
         <item quantity="one">Απέμεινε %d δωρεάν λήψη</item>
@@ -205,6 +213,10 @@
     <plurals name="sound_fade_duration_in_seconds">
         <item quantity="other">Σταδιακό σβήσιμο μεταξύ τραγουδιών: %d δευτερόλεπτα</item>
         <item quantity="one">Σταδιακό σβήσιμο μεταξύ τραγουδιών: %d δευτερόλεπτο</item>
+    </plurals>
+    <plurals name="task_guide">
+        <item quantity="other">Αποκτήστε %1$d νομίσματα σήμερα</item>
+        <item quantity="one">Αποκτήστε %1$d νόμισμα σήμερα</item>
     </plurals>
     <plurals name="video_count">
         <item quantity="other">Βίντεο</item>

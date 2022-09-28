@@ -33,7 +33,7 @@
     <string name="app_name">Εγγραφή Οθόνης</string>
     <string name="app_notification_channel_record_complete">Ειδοποιήσεις για ολοκληρωμένες ηχογραφήσεις</string>
     <string name="app_notification_info">Ο Εγγραφέας οθόνης εκτελείται στο παρασκήνιο</string>
-    <string name="app_notification_record_complete">"Αποθηκευμένη εγγραφή οθόνης στη Συλλογή
+    <string name="app_notification_record_saved">"Επιτυχία αποθήκευσης ηχογράφησης
 Πατήστε για προβολή"</string>
     <string name="app_notification_title">Εγγραφή Οθόνης</string>
     <string name="auto_stop_title">Επιτυχής αποθήκευση βίντεου</string>

@@ -61,12 +61,20 @@
         <item quantity="one">%1$d ημέρα πριν</item>
     </plurals>
     <plurals name="download_business_v5_edit_mode_title">
-        <item quantity="other">%1$d επιλέχθηκαν</item>
-        <item quantity="one">%1$d επιλέχθηκε</item>
+        <item quantity="other">Επιλέχθηκαν %1$d αντικείμενα</item>
+        <item quantity="one">Επιλέχθηκε %1$d αντικείμενο</item>
     </plurals>
     <plurals name="download_dialog_confirm_delete_downloads_message">
         <item quantity="other">Διαγραφή %d εργασιών;</item>
         <item quantity="one">Διαγραφή %d εργασίας;</item>
+    </plurals>
+    <plurals name="exo_controls_fastforward_by_amount_description">
+        <item quantity="other">Γρήγορη προώθηση κατά %d δευτερόλεπτα</item>
+        <item quantity="one">Γρήγορη προώθηση κατά %d δευτερόλεπτο</item>
+    </plurals>
+    <plurals name="exo_controls_rewind_by_amount_description">
+        <item quantity="other">Μετάβαση προς τα πίσω κατά %d δευτερόλεπτα</item>
+        <item quantity="one">Μετάβαση προς τα πίσω κατά %d δευτερόλεπτο</item>
     </plurals>
     <plurals name="file_count">
         <item quantity="other">%1$d αντικείμενα</item>
@@ -108,9 +116,17 @@
         <item quantity="other">σε %d λεπτά</item>
         <item quantity="one">σε 1 λεπτό</item>
     </plurals>
+    <plurals name="intercept_panel_img_text">
+        <item quantity="other">%d</item>
+        <item quantity="one">%d</item>
+    </plurals>
+    <plurals name="intercept_panel_protection_total">
+        <item quantity="other">Προστασία %d φορές</item>
+        <item quantity="one">Προστασία %d φορά</item>
+    </plurals>
     <plurals name="le_notification_download_completed">
-        <item quantity="other">Επιτυχής λήψη %d αντικειμένων</item>
-        <item quantity="one">Επιτυχής λήψη %d αντικειμένου</item>
+        <item quantity="other">Επιτυχής λήψη %1$s αντικειμένων</item>
+        <item quantity="one">Επιτυχής λήψη %1$s αντικειμένου</item>
     </plurals>
     <plurals name="less_than_one_minute_ago">
         <item quantity="other">Μόλις τώρα</item>
@@ -148,6 +164,10 @@
         <item quantity="other">%d λεπτά πριν</item>
         <item quantity="one">1 λεπτό πριν</item>
     </plurals>
+    <plurals name="person_menu_protect_count">
+        <item quantity="other">Προστασία %s φορές</item>
+        <item quantity="one">Προστασία %s φορά</item>
+    </plurals>
     <plurals name="players">
         <item quantity="other">%d παίκτες</item>
         <item quantity="one">%d παίκτης</item>
@@ -155,6 +175,10 @@
     <plurals name="pref_adblock_counts">
         <item quantity="other">Αποκλείστηκαν %d διαφημίσεις</item>
         <item quantity="one">Αποκλείστηκε %d διαφήμιση</item>
+    </plurals>
+    <plurals name="reading__search_resultful">
+        <item quantity="other">Βρέθηκαν %1$d αποτελέσματα</item>
+        <item quantity="one">Βρέθηκε %1$d αποτέλεσμα</item>
     </plurals>
     <plurals name="search_trending_views">
         <item quantity="other">%s αιτήματα αναζήτησης</item>
@@ -176,6 +200,10 @@
         <item quantity="other">%d δημοφιλή τραγούδια</item>
         <item quantity="one">%d δημοφιλές τραγούδι</item>
     </plurals>
+    <plurals name="tag_count">
+        <item quantity="other">%d καρτέλες</item>
+        <item quantity="one">%d καρτέλα</item>
+    </plurals>
     <plurals name="v5_edit_mode_title">
         <item quantity="other">Επιλέχθηκαν %1$d αντικείμενα</item>
         <item quantity="one">Επιλέχθηκε %1$d αντικείμενο</item>
@@ -183,6 +211,10 @@
     <plurals name="video_collection_reminder_view">
         <item quantity="other">Δεν έχετε δει %d αγαπημένα βίντεο για μεγάλο διάστημα.</item>
         <item quantity="one">Δεν έχετε δει %d αγαπημένο βίντεο για μεγάλο διάστημα.</item>
+    </plurals>
+    <plurals name="video_views">
+        <item quantity="other">%s προβολές</item>
+        <item quantity="one">%s προβολή</item>
     </plurals>
     <plurals name="videos_updated_amount">
         <item quantity="other">Ρίξτε μια ματιά στα %1$d νέα βίντεο</item>
@@ -199,5 +231,45 @@
     <plurals name="vote_all_people">
         <item quantity="other">%d άτομα ψήφισαν</item>
         <item quantity="one">%d άτομο ψήφισε</item>
+    </plurals>
+    <plurals name="web_intercept_record_behavior_hint_ad">
+        <item quantity="other">Αποκλείστηκαν %d διαφημίσεις</item>
+        <item quantity="one">Αποκλείστηκε %d διαφήμιση</item>
+    </plurals>
+    <plurals name="web_intercept_record_behavior_hint_allow_times">
+        <item quantity="other">Επιτρέπεται %d φορές</item>
+        <item quantity="one">Επιτρέπεται %d φορά</item>
+    </plurals>
+    <plurals name="web_intercept_record_behavior_hint_disallow_times">
+        <item quantity="other">Περιορισμός %d φορές</item>
+        <item quantity="one">Περιορισμός %d φορά</item>
+    </plurals>
+    <plurals name="web_intercept_record_behavior_hint_privacy">
+        <item quantity="other">Διακόπηκε %d φορές</item>
+        <item quantity="one">Διακόπηκε %d φορά</item>
+    </plurals>
+    <plurals name="web_permission_ad_subtitle">
+        <item quantity="other">Αποκλείστηκαν %s διαφημίσεις</item>
+        <item quantity="one">Αποκλείστηκε %s διαφήμιση</item>
+    </plurals>
+    <plurals name="web_permission_allow_default_subtitle">
+        <item quantity="other">Επιτρέπεται %s φορές</item>
+        <item quantity="one">Επιτρέπεται %s φορά</item>
+    </plurals>
+    <plurals name="web_permission_deny_default_subtitle">
+        <item quantity="other">Περιορισμός %s φορές</item>
+        <item quantity="one">Περιορισμός %s φορά</item>
+    </plurals>
+    <plurals name="web_permission_privacy_subtitle">
+        <item quantity="other">Διακόπηκε %s φορές</item>
+        <item quantity="one">Διακόπηκε %s φορά</item>
+    </plurals>
+    <plurals name="web_permission_protect_subtitle_day">
+        <item quantity="other">%s ημέρες</item>
+        <item quantity="one">%s ημέρα</item>
+    </plurals>
+    <plurals name="web_permission_protect_subtitle_time">
+        <item quantity="other">%s φορές</item>
+        <item quantity="one">%s φορά</item>
     </plurals>
 </resources>

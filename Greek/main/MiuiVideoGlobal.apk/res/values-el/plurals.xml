@@ -98,6 +98,14 @@
         <item quantity="other">Παρακολουθήσατε %d λεπτά σήμερα</item>
         <item quantity="one">Παρακολουθήσατε %d λεπτό σήμερα</item>
     </plurals>
+    <plurals name="incentive_popup_window_share_success">
+        <item quantity="other">Κοινοποιήθηκε με επιτυχία. Κερδίσατε %d βαθμούς.</item>
+        <item quantity="one">Κοινοποιήθηκε με επιτυχία. Κερδίσατε %d βαθμό.</item>
+    </plurals>
+    <plurals name="incentive_popup_window_subscribe_success">
+        <item quantity="other">Εγγραφήκατε με επιτυχία. Κερδίσατε %d βαθμούς.</item>
+        <item quantity="one">Εγγραφήκατε με επιτυχία. Κερδίσατε %d βαθμό.</item>
+    </plurals>
     <plurals name="incentive_task_watchvideo_begin">
         <item quantity="other">Κερδίστε %d βαθμούς!</item>
         <item quantity="one">Κερδίστε %d βαθμό!</item>

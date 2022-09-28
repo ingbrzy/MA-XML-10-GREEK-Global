@@ -466,7 +466,9 @@ Bluetooth"</string>
     <string name="hdcp_checking_dialog_title">Ορισμός HDCP ελέγχου</string>
     <string name="hdcp_checking_title">HDCP έλεγχος</string>
     <string name="headset_battery_fw_failed">Φορτίστε τη συσκευή σας πρώτα</string>
+    <string name="headset_battery_low">Χαμηλή μπαταρία. Φορτίστε τα ακουστικά earphones σας τώρα.</string>
     <string name="headset_connect_device">Συνδέστε συσκευή</string>
+    <string name="headset_connect_timeout">Εξαντλήθηκε το χρονικό όριο σύνδεσης. Ξεκινήστε από την αρχή.</string>
     <string name="headset_device_check_failed">Αδυναμία ελέγχου ενημερώσεων</string>
     <string name="headset_device_donot_move">Κρατήστε τη συσκευή κοντά</string>
     <string name="headset_device_enter_upgrade_failed">Αδυναμία έναρξης της ενημέρωσης</string>
@@ -492,6 +494,7 @@ Bluetooth"</string>
     <string name="headset_loss_notify_summary">Φαίνεται ότι τουλάχιστον ένα από τα ακουστικά σας δεν βρίσκεται στη θήκη φόρτισης. Ρίξτε μια ματιά γύρω σας!</string>
     <string name="headset_loss_notify_summary1">Φαίνεται ότι τα ακουστικά earphones σας δεν είναι στη θήκη. Βάλτε τα πίσω για να τα φορτίσετε.</string>
     <string name="headset_loss_notify_title">Ειδοποίηση απουσίας ακουστικών</string>
+    <string name="headset_not_in_case">Τοποθετήστε και τα δύο ακουστικά earphones στη θήκη και ξεκινήστε από την αρχή</string>
     <string name="headset_read_fw_state">Αδυναμία απόκτησης πληροφοριών ενημέρωσης</string>
     <string name="headset_update_failed">Αδυναμία ενημέρωσης</string>
     <string name="headset_update_ok">Τέλος</string>
@@ -683,6 +686,7 @@ Bluetooth"</string>
     <string name="mtrl_picker_a11y_next_month">Αλλαγή στον επόμενο μήνα</string>
     <string name="mtrl_picker_a11y_prev_month">Αλλαγή στον προηγούμενο μήνα</string>
     <string name="mtrl_picker_announce_current_selection">Τρέχουσα επιλογή: %1$s</string>
+    <string name="mtrl_picker_confirm">@android:string/ok</string>
     <string name="mtrl_picker_date_header_selected">%1$s</string>
     <string name="mtrl_picker_date_header_title">Επιλογή ημερομηνίας</string>
     <string name="mtrl_picker_date_header_unselected">Επιλεγμένη ημερομηνία</string>

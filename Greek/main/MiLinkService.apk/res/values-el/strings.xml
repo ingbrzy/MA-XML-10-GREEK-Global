@@ -35,17 +35,17 @@
     <string name="app_pkg_name">com.milink.service</string>
     <string name="app_ver_code">1</string>
     <string name="app_ver_name">1.0</string>
+    <string name="cast_image_des">Επίδειξη Μετάδοσης</string>
     <string name="casting_tips">Γίνεται μετάδοση…</string>
     <string name="clearable_edittext_clear_description">Εκκαθάριση</string>
     <string name="close">Κλείσιμο</string>
     <string name="close_hotspot_hint">Απενεργοποιήστε το φορητό σημείο πρόσβασης πριν τη μετάδοση</string>
     <string name="close_slave_wifi_hint">Αποσυνδεθείτε από βοηθητικά δίκτυα Δίκτυο Wi-Fi πριν από τη μετάδοση</string>
     <string name="close_slave_wifi_hint_china">Disconnect from auxiliary WLAN networks before casting</string>
-    <string name="common_google_play_services_unknown_issue">Η εφαρμογή %1$s αντιμετωπίζει κάποιο πρόβλημα με τις υπηρεσίες Google Play. Προσπαθήστε ξανά.</string>
     <string name="config_wifi_label_china">Xiaomi Conference Tapcast WLAN</string>
     <string name="config_wifi_label_global">Xiaomi Conference Tapcast Wi-Fi</string>
     <string name="connect_device_fail">Αδυναμία σύνδεσης στη συσκευή</string>
-    <string name="console_guide_btn_got_it">Κατάλαβα</string>
+    <string name="console_guide_btn_got_it">Κατανοητό</string>
     <string name="console_guide_subtitle_hang_up">Μπορείτε να συνεχίσετε τη μετάδοση με απενεργοποιημένη οθόνη της συσκευής σας. Η λειτουργία αυτή μειώνει την κατανάλωση ενέργειας.</string>
     <string name="console_guide_subtitle_private">Να μην εμφανίζονται αναδυόμενες ειδοποιήσεις, εισερχόμενες κλήσεις και άλλα προσωπικά αντικείμενα σε εξωτερικές οθόνες</string>
     <string name="console_guide_subtitle_small_window">Ελαχιστοποιήστε το παράθυρο που μεταδίδεται για να μπορείτε να χρησιμοποιείτε άλλες λειτουργίες του τηλεφώνου σας</string>
@@ -89,7 +89,7 @@
     <string name="dialog_scanning_device">Αναζήτηση για κοντινές συσκευές…</string>
     <string name="dialog_scanning_precondition">Ενεργοποιήστε το Wi-Fi και Bluetooth στο τηλέφωνό σας για να χρησιμοποιήσετε την Ασύρματη προβολή.</string>
     <string name="dialog_scanning_precondition_new_china">Turn on WLAN, Bluetooth, and location services to be able to use casting. Turn on now?</string>
-    <string name="dialog_scanning_precondition_new_global">Ενεργοποιήστε το Wi-Fi, Bluetooth και τις υπηρεσίες τοποθεσίας για να χρησιμοποιήσετε τη μετάδοση. Ενεργοποίηση τώρα;</string>
+    <string name="dialog_scanning_precondition_new_global">Ενεργοποιήστε το Wi-Fi και τις υπηρεσίες τοποθεσίας για να χρησιμοποιήσετε τη μετάδοση. Ενεργοποίηση τώρα;</string>
     <string name="dialog_select_tv">Επιλογή συσκευής (%1$d)</string>
     <string name="dialog_show_help">Βοήθεια</string>
     <string name="disconnect">Διακοπή μετάδοσης</string>
@@ -164,6 +164,7 @@
     <string name="global_privacy_main">Προβολή των στοιχείων από την οθόνη του τηλεφώνου σας σε μια μεγαλύτερη εξωτερική οθόνη.</string>
     <string name="global_privacy_negative">Απόρριψη</string>
     <string name="global_privacy_positive">Αποδοχή</string>
+    <string name="global_privacy_screencast">Κατά την εγγραφή ή τη μετάδοση, η υπηρεσία που παρέχει αυτήν τη δυνατότητα μπορεί να καταγράψει τυχόν ευαίσθητες πληροφορίες που εμφανίζονται στην οθόνη σας ή αναπαράγονται από τη συσκευή σας, συμπεριλαμβανομένων ευαίσθητων πληροφοριών όπως ήχος, κωδικοί πρόσβασης, πληροφορίες πληρωμής, φωτογραφίες, και μηνύματα.</string>
     <string name="global_privacy_tip">&lt;Data>Πρέπει να συλλέξουμε τις απαραίτητες προσωπικές πληροφορίες για να σας παρέχουμε τις βασικές υπηρεσίες και να βελτιστοποιήσουμε τη διαδικασία μετάδοσης. Μπορείτε να μάθετε πώς χειριζόμαστε τις πληροφορίες που συλλέγουμε στην &lt;a href=%1$s>Πολιτική Απορρήτου&lt;/a> μας. Μπορείτε να ανακαλέσετε τη συγκατάθεσή σας για την Πολιτική Απορρήτου στις Ρυθμίσεις ανά πάσα στιγμή.&lt;/Data></string>
     <string name="hang_up">Μετάδοση με απενεργοποιημένη οθόνη</string>
     <string name="hang_up_alert_dialog_content">Συνεχίστε τη μετάδοση όταν η οθόνη της συσκευής σας είναι απενεργοποιημένη. Η λειτουργία αυτή αυξάνει την κατανάλωση ενέργειας. Πατήστε το κουμπί ενεργοποίησης για να επανενεργοποιήσετε την οθόνη.</string>
@@ -367,6 +368,8 @@ Connect both your mobile device and the external monitor (e.g. your TV) to the s
     <string name="privacy_permission_nfc_desc">Για ζεύξη συσκευών με χρήση NFC</string>
     <string name="privacy_permission_optional">Προαιρετικές άδειες</string>
     <string name="privacy_permission_optional_desc">Χρησιμοποιούνται για πρόσθετες λειτουργίες όσο τις χρησιμοποιείτε</string>
+    <string name="privacy_permission_screencast">Πρόσβαση σε πληροφορίες στην οθόνη</string>
+    <string name="privacy_permission_screencast_desc">Κατά την εγγραφή ή τη μετάδοση, η υπηρεσία που παρέχει αυτήν τη δυνατότητα μπορεί να καταγράψει τυχόν ευαίσθητες πληροφορίες που εμφανίζονται στην οθόνη σας ή αναπαράγονται από τη συσκευή σας, συμπεριλαμβανομένων ευαίσθητων πληροφοριών όπως ήχος, κωδικοί πρόσβασης, πληροφορίες πληρωμής, φωτογραφίες, και μηνύματα</string>
     <string name="privacy_permission_wlan">Ενεργοποίηση και απενεργοποίηση του Wi-Fi</string>
     <string name="privacy_permission_wlan_china">Turning WLAN on and off</string>
     <string name="privacy_permission_wlan_desc">Για εντοπισμό κοντινών διαθέσιμων συσκευών</string>
