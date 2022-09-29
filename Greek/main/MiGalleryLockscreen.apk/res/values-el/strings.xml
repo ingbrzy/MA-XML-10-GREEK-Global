@@ -415,7 +415,6 @@ mm"</string>
     <string name="sns_access_token_expired_warning">Η συνεδρία έληξε. Συνδεθείτε ξανά για επανασύνδεση αυτού του λογαριασμού.</string>
     <string name="sns_bind_limit">Πάρα πολλές προσπάθειες. Δοκιμάστε άλλους τρόπους σύνδεσης.</string>
     <string name="sns_sign_in">Άλλοι τρόποι να συνδεθείτε</string>
-    <string name="status_bar_notification_info_overflow">999+</string>
     <string name="summary_collapsed_preference_list">%1$s, %2$s</string>
     <string name="sunday">Κυριακή</string>
     <string name="sunday_short">Κυρ</string>

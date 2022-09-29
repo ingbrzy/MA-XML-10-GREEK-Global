@@ -259,7 +259,6 @@ dd MM"</string>
     <string name="mtrl_picker_a11y_next_month">Αλλαγή στον επόμενο μήνα</string>
     <string name="mtrl_picker_a11y_prev_month">Αλλαγή στον προηγούμενο μήνα</string>
     <string name="mtrl_picker_announce_current_selection">Τρέχουσα επιλογή: %1$s</string>
-    <string name="mtrl_picker_confirm">@android:string/ok</string>
     <string name="mtrl_picker_date_header_selected">%1$s</string>
     <string name="mtrl_picker_date_header_title">Επιλογή ημερομηνίας</string>
     <string name="mtrl_picker_date_header_unselected">Επιλεγμένη ημερομηνία</string>
@@ -338,7 +337,6 @@ dd MM"</string>
 συναρπαστικό θα συμβεί"</string>
     <string name="standard_clock_panel">Κανονικό</string>
     <string name="standard_style">Κανονικό</string>
-    <string name="status_bar_notification_info_overflow">999+</string>
     <string name="step_component_info_active_tip">Ο αριθμός βημάτων παρέχεται από την Xiaomi Υγεία. Συμφωνήστε με τους όρους και τις προϋποθέσεις της Xiaomi Υγεία για να συνεχίσετε.</string>
     <string name="step_component_info_desc">Ο αριθμός βημάτων θα μετατραπεί σε τρόπαιο όταν επιτύχετε τον στόχο σας. Ο αριθμός βημάτων παρέχεται από την Xiaomi Υγεία.</string>
     <string name="step_component_info_tip">Ο αριθμός βημάτων παρέχεται από την Xiaomi Υγεία. Εγκαταστήστε ή ενημερώστε την Xiaomi Υγεία και συμφωνήστε με τους όρους και τις προϋποθέσεις της για να συνεχίσετε.</string>
