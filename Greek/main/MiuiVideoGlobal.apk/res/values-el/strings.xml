@@ -63,6 +63,10 @@
     <string name="account_user_phone">Τηλέφωνο ανάκτησης</string>
     <string name="account_user_region">Περιοχή</string>
     <string name="action_add_phone">Προσθήκη αριθμού τηλεφώνου</string>
+    <string name="action_setting_ab_playing">Βρόχος…</string>
+    <string name="action_setting_ab_reset">Επαναφορά</string>
+    <string name="action_setting_ab_set_end">Ορισμός σημείου λήξης</string>
+    <string name="action_setting_ab_set_start">Ορισμός σημείου έναρξης</string>
     <string name="action_update_phone">Αλλαγή αριθμού τηλεφώνου</string>
     <string name="actionbar_button_up_description">Πίσω</string>
     <string name="activate_email_notice">Να ενεργοποιήσετε τον λογαριασμό σας μέσα σε 24 ώρες</string>
@@ -135,6 +139,7 @@
     <string name="cast_forward">Προώθηση</string>
     <string name="cast_forward_10">Προώθηση 10 δευτερόλεπτα μπροστά</string>
     <string name="cast_forward_30">Προώθηση 30 δευτερόλεπτα μπροστά</string>
+    <string name="cast_intro_overlay_button_text">@android:string/ok</string>
     <string name="cast_live_label">ΖΩΝΤΑΝΑ</string>
     <string name="cast_mute">Σίγαση</string>
     <string name="cast_notification_connected_message">Συνδέθηκε με το %1$s</string>
@@ -180,6 +185,7 @@
     <string name="cloud_online_player">Αναπαραγωγέας</string>
     <string name="cloud_online_switch">Εξατομικευμένες προτάσεις</string>
     <string name="cloud_online_switch_open_time">Προβολή εξατομικευμένων προτάσεων περιεχομένου</string>
+    <string name="cmp_tier_privacy_policy">Πολιτικές απορρήτου τρίτων</string>
     <string name="collect_diagnosis_log">Συλλογή αρχείων καταγραφής</string>
     <string name="columbus_ad_flag_text">Διαφήμιση</string>
     <string name="columbus_skip_ad">Παράλειψη</string>
@@ -268,8 +274,11 @@ ID:%s
     <string name="dialog_clearn_title">Εκκαθάριση ιστορικού</string>
     <string name="dialog_confirm">ΟΚ</string>
     <string name="dialog_delete_bookmarks_content">Διαγραφή σελιδοδείκτη τώρα;</string>
+    <string name="dialog_disagree_continue">Συνέχεια</string>
+    <string name="dialog_disagree_info">Εάν δεν αποδέχεστε την Πολιτική Απορρήτου Mi Βίντεο, δεν θα μπορείτε να χρησιμοποιήσετε τις διαδικτυακές μας υπηρεσίες, και θα μπορείτε να παρακολουθείτε μόνο βίντεο που είναι αποθηκευμένα στη συσκευή σας. Συνέχεια ούτως ή άλλως;</string>
     <string name="dialog_disagree_privacychange_info">Δεν θα μπορείτε να χρησιμοποιήσετε τις υπηρεσίες διαδικτυακής ροής Mi Βίντεο εάν δεν συμφωνείτε με την Πολιτική Απορρήτου μας. Πατήστε \"Ακύρωση\" για επιστροφή ή \"Απόρριψη\" για να συνεχίσετε και να χρησιμοποιείτε το Mi Βίντεο μόνο ως τοπικό πρόγραμμα αναπαραγωγής.</string>
     <string name="dialog_disagree_privacychange_title">Απόρριψη;</string>
+    <string name="dialog_disagree_title">Πολιτική Απορρήτου</string>
     <string name="dialog_edit_bookmarks">Επεξεργασία σελιδοδείκτη</string>
     <string name="dialog_edit_hint_bookmarks_name">Όνομα σελιδοδείκτη</string>
     <string name="dialog_edit_hint_bookmarks_url">URL</string>
@@ -329,7 +338,6 @@ ID:%s
     <string name="download_paused">Έγινε παύση</string>
     <string name="download_pending">Σε αναμονή…</string>
     <string name="download_power_off_tips">Αυτή η λειτουργία δεν είναι διαθέσιμη τώρα</string>
-    <string name="download_progress">%d%%</string>
     <string name="download_retry">Προσπαθήστε ξανά</string>
     <string name="download_unable_tip">Αδυναμία λήψης αυτού του στοιχείου</string>
     <string name="download_video">Γίνεται λήψη βίντεο</string>
@@ -346,23 +354,39 @@ ID:%s
     <string name="evening">Απόγευμα</string>
     <string name="exceed_binded_phone_times_notice">Αυτός ο αριθμός τηλεφώνου είναι ήδη συσχετισμένος με άλλο Mi Λογαριασμό.</string>
     <string name="exit">Έξοδος</string>
+    <string name="exo_controls_cc_disabled_description">Ενεργοποίηση υπότιτλων</string>
+    <string name="exo_controls_cc_enabled_description">Απενεργοποίηση υπότιτλων</string>
     <string name="exo_controls_fastforward_description">Γρήγορη προώθηση</string>
-    <string name="exo_controls_fullscreen_description">Λειτουργία πλήρους οθόνης</string>
-    <string name="exo_controls_next_description">Επόμενο κομμάτι</string>
+    <string name="exo_controls_fullscreen_enter_description">Πλήρης οθόνη</string>
+    <string name="exo_controls_fullscreen_exit_description">Έξοδος από πλήρη οθόνη</string>
+    <string name="exo_controls_hide">Απόκρ. στοιχείων ελέγχου προγράμματος αναπαραγωγής</string>
+    <string name="exo_controls_next_description">Επόμενο</string>
+    <string name="exo_controls_overflow_hide_description">Απόκρυψη πρόσθετων ρυθμίσεων</string>
+    <string name="exo_controls_overflow_show_description">Εμφάνιση πρόσθετων ρυθμίσεων</string>
     <string name="exo_controls_pause_description">Παύση</string>
     <string name="exo_controls_play_description">Αναπαραγωγή</string>
-    <string name="exo_controls_previous_description">Προηγούμενο κομμάτι</string>
+    <string name="exo_controls_playback_speed">Ταχύτητα</string>
+    <string name="exo_controls_playback_speed_normal">Κανονική</string>
+    <string name="exo_controls_previous_description">Προηγούμενο</string>
     <string name="exo_controls_repeat_all_description">Επανάληψη όλων</string>
     <string name="exo_controls_repeat_off_description">Καμία επανάληψη</string>
     <string name="exo_controls_repeat_one_description">Επανάληψη ενός κομματιού</string>
     <string name="exo_controls_rewind_description">Επαναφορά</string>
-    <string name="exo_controls_shuffle_description">Τυχαία αναπαραγωγή</string>
+    <string name="exo_controls_seek_bar_description">Πρόοδος αναπαραγωγής</string>
+    <string name="exo_controls_settings_description">Ρυθμίσεις</string>
+    <string name="exo_controls_show">Εμφάν. στοιχείων ελέγχου προγράμματος αναπαραγωγής</string>
+    <string name="exo_controls_shuffle_off_description">Τυχαία αναπαραγωγή: Ανενεργή</string>
+    <string name="exo_controls_shuffle_on_description">Τυχαία αναπαραγωγή: Ενεργή</string>
     <string name="exo_controls_stop_description">Διακοπή</string>
+    <string name="exo_controls_vr_description">Λειτουργία VR mode</string>
     <string name="exo_download_completed">Η λήψη ολοκληρώθηκε</string>
     <string name="exo_download_description">Λήψη</string>
     <string name="exo_download_downloading">Λήψη</string>
     <string name="exo_download_failed">Η λήψη απέτυχε</string>
     <string name="exo_download_notification_channel_name">Λήψεις</string>
+    <string name="exo_download_paused">Οι λήψεις τέθηκαν σε παύση.</string>
+    <string name="exo_download_paused_for_network">Οι λήψεις είναι σε αναμονή για δίκτυο.</string>
+    <string name="exo_download_paused_for_wifi">Οι λήψεις είναι σε αναμονή για Wi-Fi.</string>
     <string name="exo_download_removing">Κατάργηση λήψεων</string>
     <string name="exo_item_list">%1$s, %2$s</string>
     <string name="exo_media_action_repeat_all_description">Επανάληψη όλων</string>
@@ -371,6 +395,10 @@ ID:%s
     <string name="exo_track_bitrate">%1$.2f Mbps</string>
     <string name="exo_track_mono">Μονοφωνικό</string>
     <string name="exo_track_resolution">%1$d × %2$d</string>
+    <string name="exo_track_role_alternate">Εναλλακτικό</string>
+    <string name="exo_track_role_closed_captions">Υπότιτλοι</string>
+    <string name="exo_track_role_commentary">Σχολιασμός</string>
+    <string name="exo_track_role_supplementary">Συμπληρωματικό</string>
     <string name="exo_track_selection_auto">Αυτόματο</string>
     <string name="exo_track_selection_none">Κανένα</string>
     <string name="exo_track_selection_title_audio">Ήχος</string>
@@ -390,6 +418,7 @@ ID:%s
     <string name="fallback_menu_item_copy_link">Αντιγραφή συνδέσμου</string>
     <string name="fallback_menu_item_open_in_browser">Άνοιγμα σε πρόγραμμα περιήγησης</string>
     <string name="fallback_menu_item_share_link">Κοινοποίηση συνδέσμου</string>
+    <string name="fast_channel_popular">Δημοφιλή κανάλια</string>
     <string name="favor_movie">Ταινίες</string>
     <string name="favor_online_video">Βίντεο</string>
     <string name="favor_playlist">Λίστες αναπαραγωγής</string>
@@ -399,6 +428,18 @@ ID:%s
     <string name="favorite_fail">Αδυναμία προσθήκης στα αγαπημένα. Προσπαθήστε ξανά αργότερα.</string>
     <string name="favorite_success">Επιτυχής προσθήκη στα αγαπημένα</string>
     <string name="fcm_push_title">Δημοφιλή βίντεο</string>
+    <string name="fcmpts_dialog_continue">Παρακολούθηση</string>
+    <string name="fcmpts_dialog_not_interested">Όχι ευχαριστώ</string>
+    <string name="fcmpts_dialog_two" formatted="false">Παρακολουθήστε %d ακόμη δευτερόλεπτα %d ακόμη βίντεο για να αποκτήσετε ένα κουπόνι Mi Καταστήματος</string>
+    <string name="fcmpts_popup_final">Επιτυχία διεκδίκησης! Πατήστε για εξαργύρωση βραβείων.</string>
+    <string name="fcmpts_popup_final_redeem">Εξαργύρωση</string>
+    <string name="fcmpts_popup_four" formatted="false">Επιτυχία διεκδίκησης! Παρακολουθήστε %d δευτερόλεπτα από %d ακόμη βίντεο για να αποκτήσετε ένα κουπόνι Mi Καταστήματος</string>
+    <string name="fcmpts_popup_one" formatted="false">Παρακολουθήστε %d βίντεο σήμερα για να αποκτήσετε έναν %d-βαθμό για κουπόνι Mi Καταστήματος</string>
+    <string name="fcmpts_popup_one_cts">Παρακολούθηση</string>
+    <string name="fcmpts_popup_three" formatted="false">Παρακολουθήσατε για %d δευτερόλεπτα. Αποκτήσατε %d βαθμούς!</string>
+    <string name="fcmpts_popup_three_claim">Διεκδίκηση</string>
+    <string name="fcmpts_popup_three_login_claim">Σύνδεση</string>
+    <string name="fcmpts_popup_two" formatted="false">Παρακολουθήστε αυτό το βίντεο για %d δευτερόλεπτα για να αποκτήσετε %d βαθμούς</string>
     <string name="feedback">Ανατροφοδότηση</string>
     <string name="feedback_activity_title">Ανατροφοδότηση</string>
     <string name="feedback_contact_empty">Εισαγάγετε τις πληροφορίες επικοινωνίας</string>
@@ -1029,6 +1070,7 @@ ID:%s
     <string name="mtrl_picker_a11y_next_month">Αλλαγή στον επόμενο μήνα</string>
     <string name="mtrl_picker_a11y_prev_month">Αλλαγή στον προηγούμενο μήνα</string>
     <string name="mtrl_picker_announce_current_selection">Τρέχουσα επιλογή: %1$s</string>
+    <string name="mtrl_picker_confirm">@android:string/ok</string>
     <string name="mtrl_picker_date_header_selected">%1$s</string>
     <string name="mtrl_picker_date_header_title">Επιλογή ημερομηνίας</string>
     <string name="mtrl_picker_date_header_unselected">Επιλεγμένη ημερομηνία</string>
@@ -1112,6 +1154,7 @@ ID:%s
     <string name="online_play_start_ready_loading_tip_kb">Φόρτωση %.2f KB/δ</string>
     <string name="online_play_start_ready_loading_tip_mb">Φόρτωση %.2f MB/δ</string>
     <string name="online_play_title">Εισαγωγή URL</string>
+    <string name="order_alphabet">Α-Ω</string>
     <string name="order_recently_subscribe">Πρόσφατες συνδρομές</string>
     <string name="order_recently_updated">Πρόσφατες ενημερώσεις</string>
     <string name="out_of_memory_background_playback_is_suspended">Παύση αναπαραγωγής στο παρασκήνιο λόγω ανεπαρκούς μνήμης</string>
@@ -1463,6 +1506,7 @@ ID:%s
     <string name="plus_shortcut_existed">Αυτή η συντόμευση υπάρχει ήδη</string>
     <string name="plus_sort_title">Ταξινόμηση</string>
     <string name="plus_sort_type_default">Προεπιλογή</string>
+    <string name="plus_sort_type_duration">Μάκρος</string>
     <string name="plus_sort_type_name">Όνομα</string>
     <string name="plus_sort_type_size">Μέγεθος</string>
     <string name="plus_sort_type_time">Ώρα</string>
@@ -1508,6 +1552,7 @@ ID:%s
     <string name="recommend_online_switch">Online συστάσεις</string>
     <string name="recommend_online_tips">Ενεργοποιήστε για να λάβετε online προτάσεις βίντεο</string>
     <string name="recommend_page_replay">ΑΝΑΠΑΡΑΓΩΓΗ</string>
+    <string name="recommend_slide_to_more">Σύρετε για περισσότερα</string>
     <string name="recommend_switch_alert">Για αφαίρεση αυτής της ενότητας, μεταβείτε στις ρυθμίσεις για Mi Βίντεο</string>
     <string name="recommend_to_you">Συνιστάται για εσάς</string>
     <string name="reload_sub_title">Πατήστε για να προσπαθήσετε ξανά.</string>
@@ -1609,6 +1654,7 @@ ID:%s
     <string name="sns_sign_in">Άλλοι τρόποι να συνδεθείτε</string>
     <string name="source">"Πηγή: "</string>
     <string name="start_download_tip">Προστέθηκε στην ουρά. Ελέγξτε την πρόοδο στο Προφίλ > Λήψεις.</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
     <string name="storage_external_sdcard">Κάρτα SD</string>
     <string name="storage_internal_sdcard">Εσωτερικός χώρος αποθήκευσης</string>
     <string name="submit">Υποβολή</string>
@@ -1741,12 +1787,14 @@ ID:%s
     <string name="tip_subscribe_guide_hint_a">Προβολή δημιουργών από τις συνδρομές σας στο Google</string>
     <string name="tip_subscribe_guide_hint_b">Παρακολουθήστε ενημερώσεις από τα κανάλια YouTube στα οποία έχετε εγγραφεί χωρίς διαφημίσεις</string>
     <string name="tip_tap_download_button">%d. Πατήστε \"Λήψη\"</string>
+    <string name="title_ab_loop">Βρόχος A-B</string>
     <string name="title_bookmarks">Σελιδοδείκτες</string>
     <string name="title_continue_to_borwser">Άνοιγμα στο πρόγραμμα περιήγησης</string>
     <string name="title_download_setting">Λήψη ρυθμίσεων</string>
     <string name="title_history">Ιστορικό</string>
     <string name="title_mangotv_history_sub" formatted="false">%s (Επεισόδιο %d)</string>
     <string name="title_mangotv_subtitle_language">Γλώσσα υποτίτλων</string>
+    <string name="title_more_wonderful_smallvideo">Περισσότερα μικρά βίντεο</string>
     <string name="title_publisher">Δημιουργοί</string>
     <string name="title_select_directory">Επιλογή φακέλου</string>
     <string name="title_selected">Έγινε επιλογή</string>
@@ -1879,6 +1927,11 @@ ID:%s
     <string name="welcome_tip_into_mivideo">Ξεκινήστε</string>
     <string name="welcome_tip_skip">Παράλειψη</string>
     <string name="welcome_tip_title">Καλωσορίσατε στο Mi Βίντεο</string>
+    <string name="widget_add_dialog_button_add">Προσθήκη</string>
+    <string name="widget_add_dialog_button_cancel">Ακύρωση</string>
+    <string name="widget_add_dialog_desc_local">Με αυτό το γραφικό στοιχείο, μπορείτε να αναπαράγετε αρχεία ήχου και βίντεο που είναι αποθηκευμένα στη συσκευή σας με ένα πάτημα από την Αρχική οθόνη σας. Προσθήκη τώρα;</string>
+    <string name="widget_add_dialog_desc_online">Με αυτό το γραφικό στοιχείο, μπορείτε να παρακολουθείτε τα δημοφιλή βίντεο της ημέρας με ένα πάτημα από την Αρχική οθόνη σας. Προσθήκη τώρα;</string>
+    <string name="widget_add_dialog_title">Προσθήκη γραφικού στοιχείου</string>
     <string name="widget_local_video">Τοπικά βίντεο</string>
     <string name="widget_local_video_click">Πατήστε για να παρακολουθήσετε βίντεο που είναι αποθηκευμένα στη συσκευή σας</string>
     <string name="widget_more_channel">Περισσότερα κανάλια</string>

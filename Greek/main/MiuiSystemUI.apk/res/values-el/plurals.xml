@@ -41,16 +41,20 @@
         <item quantity="one">%d ημ. πριν</item>
     </plurals>
     <plurals name="abc_slice_duration_min">
-        <item quantity="other">%d λεπ. πριν</item>
-        <item quantity="one">%d λεπ. πριν</item>
+        <item quantity="other">%d λ. πριν</item>
+        <item quantity="one">%d λ. πριν</item>
     </plurals>
     <plurals name="abc_slice_duration_years">
-        <item quantity="other">%d χρ. πριν</item>
-        <item quantity="one">%d χρ. πριν</item>
+        <item quantity="other">%d έτη πριν</item>
+        <item quantity="one">%d έτος πριν</item>
     </plurals>
     <plurals name="controls_number_of_favorites">
         <item quantity="other">Προστέθηκαν %s στοιχεία ελέγχου.</item>
         <item quantity="one">Προστέθηκε %s στοιχείο ελέγχου.</item>
+    </plurals>
+    <plurals name="fgs_manager_footer_label">
+        <item quantity="other">%s εφαρμογές είναι ενεργές</item>
+        <item quantity="one">%s εφαρμογή είναι ενεργή</item>
     </plurals>
     <plurals name="half_hour_ago">
         <item quantity="other">Μισή ώρα πριν</item>
@@ -97,8 +101,8 @@
         <item quantity="one">Απομένει περίπου %d λεπτό</item>
     </plurals>
     <plurals name="keyguard_charging_info_could_use_time_text">
-        <item quantity="other">Απομένει περίπου %1$d h %2$d λεπ</item>
-        <item quantity="one">Απομένει περίπου %1$d h %2$d λεπ</item>
+        <item quantity="other">Απομένει περίπου %1$d ώ %2$d λ</item>
+        <item quantity="one">Απομένει περίπου %1$d ώ %2$d λ</item>
     </plurals>
     <plurals name="keyguard_charging_info_drained_hour_time_format">
         <item quantity="other">%d ώρες</item>
@@ -109,8 +113,8 @@
         <item quantity="one">%d λεπτό</item>
     </plurals>
     <plurals name="keyguard_charging_info_drained_time_format">
-        <item quantity="other">%1$d ωρ %2$d λεπ</item>
-        <item quantity="one">%1$d ωρ %2$d λεπ</item>
+        <item quantity="other">%1$d ώ %2$d λ</item>
+        <item quantity="one">%1$d ώ %2$d λ</item>
     </plurals>
     <plurals name="keyguard_extreme_power_info_could_use_hour_time_text">
         <item quantity="other">Απομένουν %d ώρες</item>
@@ -121,8 +125,8 @@
         <item quantity="one">Απομένει %d λεπτό</item>
     </plurals>
     <plurals name="keyguard_extreme_power_info_could_use_time_text">
-        <item quantity="other">Απομένουν %1$d h %2$d m</item>
-        <item quantity="one">Απομένουν %1$d h %2$d m</item>
+        <item quantity="other">Απομένουν %1$d ώ %2$d λ</item>
+        <item quantity="one">Απομένουν %1$d ώ %2$d λ</item>
     </plurals>
     <plurals name="kg_password_default_pin_message">
         <item quantity="other">Εισαγάγετε τον αριθμό PIN της κάρτας SIM. Απομένουν άλλες %d προσπάθειες.</item>
@@ -139,22 +143,6 @@
     <plurals name="kg_password_wrong_puk_code">
         <item quantity="other">Λανθασμένος κωδικός PUK κάρτας SIM. Απομένουν άλλες %d προσπάθειες προτού να μην είναι πλέον δυνατή η χρήση της κάρτας SIM.</item>
         <item quantity="one">Λανθασμένος κωδικός PUK κάρτας SIM. Απομένει άλλη %d προσπάθεια προτού να μην είναι πλέον δυνατή η χρήση της κάρτας SIM.</item>
-    </plurals>
-    <plurals name="kg_prompt_reason_time_password">
-        <item quantity="other">Η συσκευή δεν έχει ξεκλειδωθεί εδώ και %d ώρες. Επιβεβαιώστε τον κωδικό πρόσβασης.</item>
-        <item quantity="one">Η συσκευή δεν έχει ξεκλειδωθεί εδώ και %d ώρα. Επιβεβαιώστε τον κωδικό πρόσβασης.</item>
-    </plurals>
-    <plurals name="kg_prompt_reason_time_pattern">
-        <item quantity="other">Η συσκευή δεν έχει ξεκλειδωθεί εδώ και %d ώρες. Επιβεβαιώστε το μοτίβο.</item>
-        <item quantity="one">Η συσκευή δεν έχει ξεκλειδωθεί εδώ και %d ώρα. Επιβεβαιώστε το μοτίβο.</item>
-    </plurals>
-    <plurals name="kg_prompt_reason_time_pin">
-        <item quantity="other">Η συσκευή δεν έχει ξεκλειδωθεί εδώ και %d ώρες. Επιβεβαιώστε τον αριθμό PIN.</item>
-        <item quantity="one">Η συσκευή δεν έχει ξεκλειδωθεί εδώ και %d ώρα. Επιβεβαιώστε τον αριθμό PIN.</item>
-    </plurals>
-    <plurals name="kg_too_many_failed_attempts_countdown">
-        <item quantity="other">Δοκιμάστε ξανά σε %d δευτερόλεπτα.</item>
-        <item quantity="one">Δοκιμάστε ξανά σε 1 δευτερόλεπτο.</item>
     </plurals>
     <plurals name="less_than_one_minute_ago">
         <item quantity="other">Μόλις τώρα</item>
@@ -203,9 +191,5 @@
     <plurals name="user_limit_reached_message">
         <item quantity="other">Μπορείτε να προσθέσετε έως %d χρήστες.</item>
         <item quantity="one">Είναι δυνατή η δημιουργία μόνο ενός χρήστη.</item>
-    </plurals>
-    <plurals name="wifi_tether_connected_summary">
-        <item quantity="other">%1$d συσκευές συνδέθηκαν</item>
-        <item quantity="one">%1$d συσκευή συνδέθηκε</item>
     </plurals>
 </resources>

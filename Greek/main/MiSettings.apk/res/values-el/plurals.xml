@@ -36,6 +36,10 @@
         <item quantity="other">%d λεπτά πριν</item>
         <item quantity="one">1 λεπτό πριν</item>
     </plurals>
+    <plurals name="category_limit_notify_content">
+        <item quantity="other">Απομένουν %2$d λεπτά για \"%1$s\" σήμερα</item>
+        <item quantity="one">Απομένει %2$d λεπτό για \"%1$s\" σήμερα</item>
+    </plurals>
     <plurals name="half_hour_ago">
         <item quantity="other">Μισή ώρα πριν</item>
         <item quantity="one">Μισή ώρα πριν</item>
@@ -76,9 +80,21 @@
         <item quantity="other">Χρησιμοποιείτε τη συσκευή σας %d λεπτά χωρίς σιακοπές</item>
         <item quantity="one">Χρησιμοποιείτε τη συσκευή σας %d λεπτό χωρίς διακοπές</item>
     </plurals>
+    <plurals name="steady_on_screen_rest_time">
+        <item quantity="other">Ξεκουραστείτε για %d λεπτά</item>
+        <item quantity="one">Ξεκουραστείτε για %d λεπτό</item>
+    </plurals>
     <plurals name="steady_on_screen_time_pick">
         <item quantity="other">%d λεπτά</item>
         <item quantity="one">%d λεπτό</item>
+    </plurals>
+    <plurals name="steady_on_screen_tip_title">
+        <item quantity="other">Χρησιμοποιείτε αυτήν τη συσκευή για %d λεπτά ήδη</item>
+        <item quantity="one">Χρησιμοποιείτε αυτήν τη συσκευή για %d λεπτό ήδη</item>
+    </plurals>
+    <plurals name="tip_most_unavailable_period">
+        <item quantity="other">Μπορείτε να προσθέσετε έως και %d διαλείμματα</item>
+        <item quantity="one">Μπορείτε να προσθέσετε έως και %d διάλειμμα</item>
     </plurals>
     <plurals name="trend_from_last_several_day_equal">
         <item quantity="other">Ο χρόνος χρήσης οθόνης σήμερα ισούται με τον ημερήσιο μέσο όρο %d</item>

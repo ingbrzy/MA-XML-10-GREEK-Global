@@ -70,8 +70,8 @@
     <string name="aqi_alert_channel_name">Ειδοποιήσεις ΔΠΑ</string>
     <string name="aqi_data_source">Τροφοδοτείται από Colorful Clouds</string>
     <string name="aqi_desc">Δείκτης Ποιότητας Αέρα</string>
-    <string name="aqi_detail_24_hours">24-ωρη πρόβλεψη</string>
-    <string name="aqi_detail_5_days">5-ήμερη πρόβλεψη</string>
+    <string name="aqi_detail_24_hours">%d-ωρη πρόβλεψη</string>
+    <string name="aqi_detail_5_days">%d-ήμερη πρόγνωση</string>
     <string name="aqi_detail_co_unit">Μονάδα: mg/m³</string>
     <string name="aqi_detail_title">Δείκτης Ποιότητας Αέρα</string>
     <string name="aqi_detail_unit">Μονάδα: µg/m³</string>
@@ -163,6 +163,7 @@
     <string name="dynamic_weather">Καιρός</string>
     <string name="early_morning">Πρωί</string>
     <string name="edit_city">Διαχείριση πόλεων</string>
+    <string name="empty">" "</string>
     <string name="empty_view_net_loading">Γίνεται ενημέρωση…</string>
     <string name="empty_view_net_unavailable">Αδυναμία σύνδεσης στο δίκτυο</string>
     <string name="empty_view_refresh">Προσπαθήστε ξανά</string>
@@ -272,6 +273,7 @@
     <string name="friday_short">Παρ</string>
     <string name="friday_shortest">Παρ</string>
     <string name="hourly_forcast_now">Τώρα</string>
+    <string name="hourly_forecast_bottom_aqi_else">%1$s</string>
     <string name="hourly_forecast_date">d/Μ</string>
     <string name="index_item_experience_now">Εγκατάσταση τώρα</string>
     <string name="indices_title_chance_of_rain">Πιθανότητα βροχής</string>
@@ -283,15 +285,16 @@
     <string name="indices_wind_direction_north">Β</string>
     <string name="indices_wind_direction_south">Ν</string>
     <string name="indices_wind_direction_west">Δ</string>
+    <string name="install_progress">%1$s%%</string>
     <string name="international_details_uv_index_title">Δείκτης UV</string>
+    <string name="item_city_list_region_no_data">-- / --</string>
+    <string name="item_city_list_temperature_no_data">--</string>
     <string name="location_provider_btn_text">Ενεργοποίηση υπηρεσιών τοποθεσίας</string>
     <string name="location_tag">Εντοπισμός</string>
     <string name="manager_city_option_add_home">Προσθήκη στην αρχική σελίδα</string>
     <string name="manager_city_option_view_on_home">Εμφάνιση στην αρχική σελίδα</string>
     <string name="midnight">Νύχτα</string>
     <string name="minute_rain">Πρόβλεψη υδατόπτωσης</string>
-    <string name="minute_rain_after_an_hour">Σε 1 ώρα</string>
-    <string name="minute_rain_after_two_hour">Σε 2 ώρες</string>
     <string name="minute_rain_feedback_subtitle">Πείτε μας τι καιρό κάνει.</string>
     <string name="minute_rain_feedback_title">Οι πληροφορίες καιρού φαίνονται εσφαλμένες.</string>
     <string name="minute_rain_now">Τώρα</string>
@@ -364,7 +367,6 @@
     <string name="morning">Πρωί</string>
     <string name="network_unavailable">Αδυναμία σύνδεσης στο δίκτυο.</string>
     <string name="night">Βράδυ</string>
-    <string name="night_not_disturb_settings_summary">Αποκλεισμός ειδοποιήσεων μεταξύ 23:00 και 7:00</string>
     <string name="night_not_disturb_settings_title">Μην ενοχλείτε την νύχτα</string>
     <string name="no_data">Δεν υπάρχουν δεδομένα</string>
     <string name="no_internet_message">Η συσκευή πρέπει να συνδεθεί στο δίκτυο για να μπορείτε να ανακαλέσετε τη συγκατάθεσή σας. Ελέγξτε τις ρυθμίσεις του δικτύου σας και προσπαθήστε ξανά.</string>
@@ -445,9 +447,10 @@
     <string name="share_menu_title">Κοινοποίηση</string>
     <string name="share_subject">Κοινοποίηση</string>
     <string name="share_weather_desc">\#MIUI Καιρός#Σήμερα %1$s %2$s</string>
+    <string name="share_weather_desc_alert">%1$s%2$s</string>
     <string name="share_weather_desc_split">,</string>
     <string name="share_weather_save_pic_fail">Αδυναμία λήψης στιγμιότυπου οθόνης</string>
-    <string name="shortcut_short_label_24_hour_forecast">24-ωρη πρόγνωση</string>
+    <string name="shortcut_short_label_24_hour_forecast">%d-ωρη πρόβλεψη</string>
     <string name="shortcut_short_label_recent_forecast">Ελέγξτε τον καιρό</string>
     <string name="size_byte">B</string>
     <string name="size_giga_byte">GB</string>
@@ -564,7 +567,7 @@
     <string name="unit">Μονάδα</string>
     <string name="unit_temperature">Μονάδες θερμοκρασίας</string>
     <string name="unit_wind">Μονάδες ταχύτητας ανέμου</string>
-    <string name="update_night_setting_summary_text">Ενημέρωση πληροφοριών καιρού μεταξύ 23:00 και 07:00</string>
+    <string name="update_night_setting_summary_text">Ενημέρωση πληροφοριών καιρού μεταξύ %1$s και %2$s</string>
     <string name="update_night_setting_title_text">Αυτόματη ενημέρωση την νύχτα</string>
     <string name="update_notification_info">Γίνεται ενημέρωση δεδομένων στο παρασκήνιο…</string>
     <string name="updated_a_moment_ago">Μόλις ενημερώθηκε</string>
@@ -575,10 +578,8 @@
     <string name="video_banner_weather_forecast">Δελτίο πρόγνωσης καιρού</string>
     <string name="video_banner_weather_update">Οι τελευταίες ενημερώσεις πληροφοριών καιρού</string>
     <string name="view_forecast_item_yesterday">Χθες</string>
-    <string name="view_indexes_item_day_after_tommorrow">Σε 2 ημέρες</string>
     <string name="view_indexes_item_today">Σήμερα</string>
     <string name="view_indexes_item_tommorrow">Αύριο</string>
-    <string name="warning_weather_day_and_night_settings_summary">Λαμβάνετε ημερήσιες περιλήψεις με πληροφορίες για τον καιρό στις 7:00 και 19:00</string>
     <string name="warning_weather_day_and_night_settings_title">Ημερήσιες περιλήψεις</string>
     <string name="weather_alert_channel_name">Συναγερμοί</string>
     <string name="weather_aqi_full_air_quality_forcast">Πλήρης πρόβλεψη ποιότητας αέρα</string>
@@ -593,6 +594,7 @@
     <string name="wednesday_shortest">Τετ</string>
     <string name="welcome_app_title">Καλωσορίσατε στην εφαρμογή Καιρός!</string>
     <string name="wind_direction_no_data">Άνεμος</string>
+    <string name="wind_power">%d</string>
     <string name="wind_unit">%1$skm/h</string>
     <string name="xiaomi_weather_description_content">Ο Καιρός είναι μια εφαρμογή συστήματος. Δεν θα μπορείτε να δείτε πληροφορίες καιρού ή να χρησιμοποιήσετε σχετικά γραφικά στοιχεία μετά την απεγκατάσταση της εφαρμογής.</string>
     <string name="xiaomi_weather_description_content_remove">Ο Καιρός είναι μια εφαρμογή συστήματος. Δεν θα μπορείτε να δείτε πληροφορίες καιρού ή να χρησιμοποιήσετε σχετικά γραφικά στοιχεία μετά την αφαίρεση της Συντόμευσης αρχικής οθόνης.</string>

@@ -36,9 +36,7 @@
     <string name="admin_has_ability_to_monitor_device">"Ο διαχειριστής IT σας έχει τη δυνατότητα να παρακολουθεί και να διαχειρίζεται τις ρυθμίσεις, την εταιρική πρόσβαση, τις εφαρμογές, τις άδειες και τα δεδομένα που σχετίζονται με τη συγκεκριμένη συσκευή, συμπεριλαμβανομένης της δραστηριότητας δικτύου, καθώς και της τοποθεσίας της συσκευής σας, του ιστορικού κλήσεων και του ιστορικού αναζήτησης επαφών.
 
 Επικοινωνήστε με τον διαχειριστή IT για περισσότερες πληροφορίες, μεταξύ άλλων τις πολιτικές απορρήτου του οργανισμού."</string>
-    <string name="admin_has_ability_to_monitor_profile">"Ο διαχειριστής IT σας έχει τη δυνατότητα να παρακολουθεί και να διαχειρίζεται τις ρυθμίσεις, την εταιρική πρόσβαση, τις εφαρμογές, τις άδειες και τα δεδομένα που σχετίζονται με το συγκεκριμένο προφίλ, συμπεριλαμβανομένης της δραστηριότητας δικτύου, καθώς και της τοποθεσίας της συσκευής σας, του ιστορικού κλήσεων και του ιστορικού αναζήτησης επαφών.
-
-Επικοινωνήστε με τον διαχειριστή IT για περισσότερες πληροφορίες, μεταξύ άλλων τις πολιτικές απορρήτου του οργανισμού."</string>
+    <string name="admin_has_ability_to_monitor_profile">Ο διαχειριστής IT μπορεί να παρακολουθεί και να διαχειρίζεται τις ρυθμίσεις, την εταιρική πρόσβαση, τις εφαρμογές, τις άδειες, τα δεδομένα και τη δραστηριότητα δικτύου που σχετίζονται με αυτό το προφίλ, καθώς και το ιστορικό κλήσεων και το ιστορικό αναζήτησης επαφών. Επικοινωνήστε με τον διαχειριστή IT για περισσότερες πληροφορίες και για να μάθετε περισσότερα για τις πολιτικές απορρήτου του οργανισμού σας.</string>
     <string name="app_label">Ρύθμιση εργασίας</string>
     <string name="back">Πίσω</string>
     <string name="bottomsheet_action_expand_halfway">Ανάπτυξη μέχρι τη μέση</string>
@@ -55,18 +53,6 @@
     <string name="cant_replace_or_remove_work_profile">Δεν είναι δυνατή η αντικατάσταση ή η κατάργηση του προφίλ εργασίας</string>
     <string name="cant_set_up_device">Η ρύθμιση της συσκευής δεν είναι δυνατή</string>
     <string name="cant_set_up_profile">Η ρύθμιση προφίλ δεν είναι δυνατή</string>
-    <string name="car_ui_alert_dialog_default_button">Κλείσιμο</string>
-    <string name="car_ui_preference_switch_off">Ανενεργή</string>
-    <string name="car_ui_preference_switch_on">Ενεργό</string>
-    <string name="car_ui_restricted_while_driving">Η λειτουργία δεν διατίθεται κατά τη διάρκεια της οδήγησης.</string>
-    <string name="car_ui_scrollbar_page_down_button">Κύλιση προς τα κάτω</string>
-    <string name="car_ui_scrollbar_page_up_button">Κύλιση προς τα επάνω</string>
-    <string name="car_ui_scrolling_limited_message">Η κύλιση είναι περιορισμένη κατά τη διάρκεια της οδήγησης.</string>
-    <string name="car_ui_toolbar_default_search_hint">Αναζήτηση…</string>
-    <string name="car_ui_toolbar_menu_item_overflow_title">Υπερχείλιση</string>
-    <string name="car_ui_toolbar_menu_item_search_title">Αναζήτηση</string>
-    <string name="car_ui_toolbar_menu_item_settings_title">Ρυθμίσεις</string>
-    <string name="car_ui_toolbar_nav_icon_content_description">Πίσω</string>
     <string name="change_device_launcher">Αλλάξτε την εφαρμογή εκκίνησης συσκευής</string>
     <string name="character_counter_content_description">Εισήχθησαν %1$d από %2$d χαρακτήρες</string>
     <string name="character_counter_overflowed_content_description">Υπέρβαση ορίου χαρακτήρων %1$d από %2$d</string>
@@ -86,7 +72,6 @@
     <string name="cope_provisioning_step_2_header">Οι προσωπ. εφαρ. είναι ξεχωριστά και μη ορατές σε εφαρ. εργ.</string>
     <string name="cope_provisioning_step_3_header">Ο διαχ/στής ελέγχει τη συσκ. και αποκλείει ορισμένες εφαρ.</string>
     <string name="cope_provisioning_summary">Οι εφαρμογές εργασιών βρίσκονται στο προφίλ εργασίας σας και η διαχείρισή τους γίνεται από τον διαχειριστή IT. Οι προσωπικές εφαρμογές βρίσκονται σε ξεχωριστή τοποθεσία και δεν είναι ορατές από τις εφαρμογές εργασιών. Ο διαχειριστής IT μπορεί να ελέγχει αυτήν τη συσκευή και να αποκλείει ορισμένες εφαρμογές.</string>
-    <string name="copy">Αντιγραφή</string>
     <string name="copying_certs">Ρύθμιση πιστοποιητικών CA</string>
     <string name="couldnt_set_up_device">Η ρύθμιση της συσκευής δεν είναι δυνατή. Για βοήθεια, επικοινωνήστε με τον διαχειριστή IT σας.</string>
     <string name="default_managed_profile_name">Προφίλ εργασίας</string>
@@ -113,9 +98,11 @@
     <string name="error_icon_content_description">Σφάλμα</string>
     <string name="error_installation_failed">Δεν ήταν δυνατή η εγκατάσταση της εφαρμογής διαχειριστή</string>
     <string name="error_package_invalid">Δεν είναι δυνατή η χρήση της εφαρμογής διαχείρισης λόγω καταστροφής ή έλλειψης στοιχείων. Για βοήθεια, επικοινωνήστε με τον διαχειριστή IT σας.</string>
+    <string name="error_role_holder_download_install_failed">Δοκιμάστε ξανά αργότερα ή ζητήστε βοήθεια από τον διαχειριστή IT</string>
+    <string name="error_role_holder_hash_mismatch">Δεν είναι δυνατή η ρύθμιση της συσκευής. Επικοινωνήστε με τον διαχειριστή IT και αναφέρετε το σφάλμα Μη έγκυρο άθροισμα ελέγχου.</string>
+    <string name="error_role_holder_package_invalid">Δεν είναι δυνατή η ρύθμιση της συσκευής. Επικοινωνήστε με τον διαχειριστή IT και αναφέρετε το σφάλμα Λείπουν στοιχεία ή κατεστραμμένα στοιχεία.</string>
     <string name="error_wifi">Δεν ήταν δυνατή η σύνδεση στο Wi-Fi</string>
     <string name="expand">Ανάπτυξη</string>
-    <string name="expand_button_title">Σύνθετες</string>
     <string name="exposed_dropdown_menu_content_description">Εμφάνιση αναπτυσσόμενου μενού</string>
     <string name="financed_device_screen_header">Αυτή η συσκευή παρέχεται από τον οργανισμό %s</string>
     <string name="financed_make_payments_subheader_description">Ο πιστωτής %1$s μπορεί να εγκαταστήσει την εφαρμογή %2$s, έτσι ώστε να μπορείτε να πραγματοποιείτε πληρωμές για αυτήν τη συσκευή.</string>
@@ -177,6 +164,7 @@
     <string name="mtrl_picker_a11y_next_month">Αλλαγή στον επόμενο μήνα</string>
     <string name="mtrl_picker_a11y_prev_month">Αλλαγή στον προηγούμενο μήνα</string>
     <string name="mtrl_picker_announce_current_selection">Τρέχουσα επιλογή: %1$s</string>
+    <string name="mtrl_picker_confirm">@android:string/ok</string>
     <string name="mtrl_picker_date_header_selected">%1$s</string>
     <string name="mtrl_picker_date_header_title">Επιλογή ημερομηνίας</string>
     <string name="mtrl_picker_date_header_unselected">Επιλεγμένη ημερομηνία</string>
@@ -205,14 +193,12 @@
     <string name="mtrl_picker_toggle_to_year_selection">Πατήστε για εναλλαγή για την επιλογή έτους</string>
     <string name="navigation_button_description">Πλοήγηση προς τα επάνω</string>
     <string name="next">Επόμενο</string>
-    <string name="not_set">Δεν έχει οριστεί</string>
     <string name="ok_setup">ΟΚ</string>
     <string name="one_place_for_work_apps">Ένα μέρος για τις εφαρμογές εργασίας</string>
     <string name="opening_paragraph_delete_profile">Έχετε ήδη προφίλ εργασίας. Η διαχείρισή του γίνεται με χρήση της ακόλουθης εφαρμογής:</string>
     <string name="organization_admin">Διαχειριστής IT</string>
     <string name="password_toggle_content_description">Εμφάνιση κωδικού πρόσβασης</string>
     <string name="pick_launcher">OK</string>
-    <string name="preference_copied">Το \"%1$s\" αντιγράφηκε στο πρόχειρο.</string>
     <string name="profile_benefits_description">Χρησιμοποιώντας ένα προφίλ εργασίας, μπορείτε να διαχωρίσετε τα δεδομένα εργασίας από τα προσωπικά δεδομένα σας</string>
     <string name="profile_owner_cancel_cancel">Όχι</string>
     <string name="profile_owner_cancel_message">Διακοπή ρύθμισης;</string>
@@ -232,6 +218,7 @@
     <string name="section_content">Περιεχόμενο ενότητας %1$s: %2$s</string>
     <string name="section_heading">Κεφαλίδα ενότητας %1$s.</string>
     <string name="set_up_your_device">Ρύθμιση της συσκευής</string>
+    <string name="setting_up">Ρύθμιση…</string>
     <string name="setting_up_workspace">Ρύθμιση προφίλ εργασίας…</string>
     <string name="setup_device">Ρύθμιση της συσκευής σας</string>
     <string name="setup_device_encryption">Ρύθμιση της συσκευής σας. Κρυπτογράφηση</string>
@@ -247,7 +234,6 @@
     <string name="something_went_wrong">Προέκυψε σφάλμα</string>
     <string name="status_bar_notification_info_overflow">999+</string>
     <string name="stop_setup_reset_device_question">Διακοπή ρύθμισης και επαναφορά της συσκευής;</string>
-    <string name="summary_collapsed_preference_list">%1$s, %2$s</string>
     <string name="sure_you_want_to_delete_profile">Αν συνεχίσετε, όλες οι εφαρμογές και τα δεδομένα αυτού του προφίλ θα διαγραφούν.</string>
     <string name="take_a_few_minutes">H διαδικασία ίσως διαρκέσει μερικά λεπτά</string>
     <string name="terms">Όροι</string>
@@ -258,8 +244,6 @@
     <string name="url_error">Αδυναμία προβολής αυτού του συνδέσμου.</string>
     <string name="user_consent_msg">Συμφωνώ</string>
     <string name="user_setup_incomplete">Μη ολοκληρωμένη ρύθμιση χρήστη</string>
-    <string name="v7_preference_off">ΑΝΕΝΕΡΓΗ</string>
-    <string name="v7_preference_on">ΕΝΕΡΓΗ</string>
     <string name="view_terms">Προβολή όρων</string>
     <string name="work_profile_cant_be_added_contact_admin">Δεν είναι δυνατή η προσθήκη ενός προφίλ εργασίας σε αυτήν τη συσκευή. Εάν έχετε απορίες, επικοινωνήστε με τον διαχειριστή IT σας.</string>
     <string name="work_profile_description">Οι εφαρμογές εργασίας σας θα διατηρούνται σε αυτό το προφίλ και η διαχείρισή τους θα γίνεται από τον οργανισμό σας</string>

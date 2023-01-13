@@ -4,6 +4,30 @@
         <item>Άνδρας</item>
         <item>Γυναίκα</item>
     </string-array>
+    <string-array name="alphabet_sub_table_with_starred">
+        <item>!</item>
+        <item>Α</item>
+        <item>Β</item>
+        <item>Γ</item>
+        <item>Θ</item>
+        <item>Ι</item>
+        <item>Κ</item>
+        <item>Λ</item>
+        <item>Μ</item>
+        <item>Ν</item>
+        <item>Ξ</item>
+        <item>Ο</item>
+        <item>Π</item>
+        <item>Ρ</item>
+        <item>Σ</item>
+        <item>Τ</item>
+        <item>Υ</item>
+        <item>Φ</item>
+        <item>Χ</item>
+        <item>Ψ</item>
+        <item>Ω</item>
+        <item>\#</item>
+    </string-array>
     <string-array name="alphabet_table">
         <item>Α</item>
         <item>Β</item>
@@ -58,5 +82,70 @@
         <item>Ψ</item>
         <item>Ω</item>
         <item>\#</item>
+    </string-array>
+    <string-array name="customer_service">
+        <item>@string/customer_service_apply</item>
+        <item>@string/customer_service_complain</item>
+        <item>@string/customer_service_station</item>
+    </string-array>
+    <string-array name="net_diag_err_link_quality">
+        <item>Κακή σύνδεση Wi-Fi. Αλλάξτε τις ζώνες ασύρματης σύνδεσης ή επανεκκινήστε τον δρομολογητή.</item>
+        <item>Δεν είναι δυνατή η πρόσβαση στο δίκτυο. Συνδεθείτε ξανά στο Wi-Fi ή επανεκκινήστε τον δρομολογητή.</item>
+    </string-array>
+    <string-array name="net_diag_err_link_quality_china">
+        <item>Poor WLAN connection. Switch wireless bands or reboot the router.</item>
+        <item>"Can't access network. Reconnect to WLAN or reboot the router."</item>
+    </string-array>
+    <string-array name="net_diag_err_network_connectivity">
+        <item>Απαιτείται έλεγχος ταυτότητας για πρόσβαση στο δίκτυο</item>
+        <item>Η πρόσβαση στο δίκτυο είναι περιορισμένη. Προσαρμόστε την ώρα σε αυτήν τη συσκευή και ελέγξτε τις ρυθμίσεις δικτύου του δρομολογητή.</item>
+        <item>Σφάλμα δικτύου. Ελέγξτε τις ρυθμίσεις διακομιστή μεσολάβησης HTTP.</item>
+        <item>Σφάλμα δικτύου. Ελέγξτε εάν ο δρομολογητής μπορεί να έχει πρόσβαση στο διαδίκτυο.</item>
+        <item>Αδυναμία σύνδεσης στο δίκτυο. Συνδεθείτε ξανά στο Wi-Fi ή επανεκκινήστε τον δρομολογητή.</item>
+    </string-array>
+    <string-array name="net_diag_err_network_connectivity_china">
+        <item>Απαιτείται έλεγχος ταυτότητας για πρόσβαση στο δίκτυο</item>
+        <item>Η πρόσβαση στο δίκτυο είναι περιορισμένη. Προσαρμόστε την ώρα σε αυτήν τη συσκευή και ελέγξτε τις ρυθμίσεις δικτύου του δρομολογητή.</item>
+        <item>Σφάλμα δικτύου. Ελέγξτε τις ρυθμίσεις διακομιστή μεσολάβησης HTTP.</item>
+        <item>Σφάλμα δικτύου. Ελέγξτε εάν ο δρομολογητής μπορεί να έχει πρόσβαση στο διαδίκτυο.</item>
+        <item>Αδυναμία σύνδεσης στο δίκτυο. Συνδεθείτε ξανά στο WLAN ή επανεκκινήστε τον δρομολογητή.</item>
+    </string-array>
+    <string-array name="net_diag_err_network_dns">
+        <item>Σφάλμα διακομιστή DNS. Ελέγξτε τη διαμόρφωση DNS του δρομολογητή.</item>
+        <item>Σημαντικές καθυστερήσεις από τον διακομιστή DNS. Ελέγξτε τη διαμόρφωση DNS του δρομολογητή.</item>
+        <item>Δεν είναι δυνατή η πρόσβαση στην πύλη. Συνδεθείτε ξανά στο Wi-Fi ή επανεκκινήστε τον δρομολογητή.</item>
+    </string-array>
+    <string-array name="net_diag_err_network_dns_china">
+        <item>Σφάλμα διακομιστή DNS. Ελέγξτε τη διαμόρφωση DNS του δρομολογητή.</item>
+        <item>Σημαντικές καθυστερήσεις από τον διακομιστή DNS. Ελέγξτε τη διαμόρφωση DNS του δρομολογητή.</item>
+        <item>"Can't access gateway. Reconnect to WLAN or reboot the router."</item>
+    </string-array>
+    <string-array name="net_diag_err_network_latency">
+        <item>Μεγάλες καθυστερήσεις από το τοπικό δίκτυο. Κάντε επανεκκίνηση του δρομολογητή ή συνδεθείτε σε άλλο δίκτυο.</item>
+        <item>Μεγάλες καθυστερήσεις από το διαδίκτυο. Ελέγξτε τις ρυθμίσεις δικτύου του παρόχου σας ή συνδεθείτε σε άλλο δίκτυο.</item>
+    </string-array>
+    <string-array name="net_diag_err_network_parameters">
+        <item>Εναλλαγή από στατική IP σε DHCP</item>
+    </string-array>
+    <string-array name="net_diag_err_network_protocol">
+        <item>Σφάλμα πρωτοκόλλου δικτύου. Συνδεθείτε ξανά στο Wi-Fi ή επανεκκινήστε τη συσκευή.</item>
+    </string-array>
+    <string-array name="net_diag_err_network_protocol_china">
+        <item>Network protocol error. Reconnect to WLAN or reboot the device.</item>
+    </string-array>
+    <string-array name="net_diag_err_network_rssi">
+        <item>Μετακινηθείτε σε μια περιοχή με καλύτερη κάλυψη Wi-Fi</item>
+    </string-array>
+    <string-array name="net_diag_err_network_rssi_china">
+        <item>Move to an area with better WLAN coverage</item>
+    </string-array>
+    <string-array name="net_diag_err_network_topology">
+        <item>Ελέγξτε τις ρυθμίσεις DHCP του δρομολογητή και την ενσύρματη σύνδεση</item>
+    </string-array>
+    <string-array name="reproductivity">
+        <item>@string/feedback_reproductivity_everytime</item>
+        <item>@string/feedback_reproductivity_often</item>
+        <item>@string/feedback_reproductivity_occasionally</item>
+        <item>@string/feedback_reproductivity_once</item>
     </string-array>
 </resources>

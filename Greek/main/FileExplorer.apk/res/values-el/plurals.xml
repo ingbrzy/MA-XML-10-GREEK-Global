@@ -56,6 +56,10 @@
         <item quantity="other">%1$d ημέρες πριν</item>
         <item quantity="one">%1$d ημέρα πριν</item>
     </plurals>
+    <plurals name="delete_cloud_files">
+        <item quantity="other">Διαγραφή %1$d αρχείων από όλες τις συσκευές σας και το σύννεφο; Τα αρχεία Mi Drive μπορούν να ανακτηθούν από τα πρόσφατα διαγραμμένα στοιχεία σας.</item>
+        <item quantity="one">Διαγραφή %1$d αρχείου από όλες τις συσκευές σας και το σύννεφο; Τα αρχεία Mi Drive μπορούν να ανακτηθούν από τα πρόσφατα διαγραμμένα στοιχεία σας.</item>
+    </plurals>
     <plurals name="delete_files">
         <item quantity="other">Διαγραφή %1$d αρχείων;</item>
         <item quantity="one">Διαγραφή %1$d αρχείου;</item>
@@ -135,6 +139,18 @@
     <plurals name="more_gems">
         <item quantity="other">Συλλέξτε &lt;font color=#fc7050>&lt;b>%d&lt;/b>&lt;/font> περισσότερους πολύτιμους λίθους για συμμετοχή στην κλήρωση.</item>
         <item quantity="one">Συλλέξτε &lt;font color=#fc7050>&lt;b>%d&lt;/b>&lt;/font> περισσότερο πολύτιμο λίθο για συμμετοχή στην κλήρωση.</item>
+    </plurals>
+    <plurals name="notification_message_sync_result_fail">
+        <item quantity="other">Αδυναμία συγχρονισμού %1$s αρχείων</item>
+        <item quantity="one">Αδυναμία συγχρονισμού %1$s αρχείου</item>
+    </plurals>
+    <plurals name="notification_message_sync_result_success">
+        <item quantity="other">"Συγχρονίστηκαν %1$s αρχεία | "</item>
+        <item quantity="one">"Συγχρονίστηκε %1$s αρχείο | "</item>
+    </plurals>
+    <plurals name="notification_title_syncing_with_count_no_network">
+        <item quantity="other">Αναμονή για σύνδεση στο δίκτυο. Απομένουν %1$s αρχεία.</item>
+        <item quantity="one">Αναμονή για σύνδεση στο δίκτυο. Απομένει %1$s αρχείο.</item>
     </plurals>
     <plurals name="numSelectedFile">
         <item quantity="other">Επιλέχθηκαν %1$d στοιχεία</item>

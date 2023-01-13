@@ -36,6 +36,10 @@
         <item quantity="other">%d λεπτά πριν</item>
         <item quantity="one">1 λεπτό πριν</item>
     </plurals>
+    <plurals name="authorization_status_hold_time">
+        <item quantity="other">%d δευτερόλεπτα</item>
+        <item quantity="one">%d δευτερόλεπτο</item>
+    </plurals>
     <plurals name="half_hour_ago">
         <item quantity="other">Μισή ώρα πριν</item>
         <item quantity="one">Μισή ώρα πριν</item>

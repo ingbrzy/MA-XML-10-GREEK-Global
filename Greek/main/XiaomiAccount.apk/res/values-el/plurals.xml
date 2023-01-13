@@ -40,6 +40,10 @@
         <item quantity="other">Εντοπίστηκαν %d αποτελέσματα</item>
         <item quantity="one">Εντοπίστηκε %d αποτέλεσμα</item>
     </plurals>
+    <plurals name="family_service_member_count">
+        <item quantity="other">%d άτομα</item>
+        <item quantity="one">%d άτομο</item>
+    </plurals>
     <plurals name="half_hour_ago">
         <item quantity="other">Μισή ώρα πριν</item>
         <item quantity="one">Μισή ώρα πριν</item>

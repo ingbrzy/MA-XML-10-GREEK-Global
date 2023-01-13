@@ -35,8 +35,8 @@
     <string name="accessibility_enter_all_app_settings">Άνοιγμα των ρυθμίσεων του Συρταριού εφαρμογών</string>
     <string name="accessibility_menu_item_smallwindow_disable">Η εφαρμογή αυτή δεν υποστηρίζει αναδυόμενα παράθυρα</string>
     <string name="accessibility_menu_item_smallwindow_enable">Η εφαρμογή αυτή υποστηρίζει αναδυόμενα παράθυρα</string>
-    <string name="accessibility_menu_item_split_disable">Η εφαρμογή δεν υποστηρίζει Διαχωρισμό οθόνης.</string>
-    <string name="accessibility_menu_item_split_enable">Η εφαρμογή υποστηρίζει Διαχωρισμό οθόνης</string>
+    <string name="accessibility_menu_item_split_disable">Η εφαρμογή δεν υποστηρίζει Διαίρεση οθόνης.</string>
+    <string name="accessibility_menu_item_split_enable">Η εφαρμογή υποστηρίζει Διαίρεση οθόνης</string>
     <string name="accessibility_recent_task_enter">Άνοιξε τα Πρόσφατα</string>
     <string name="accessibility_recent_task_exit">Έκλεισε τα Πρόσφατα</string>
     <string name="accessibility_recent_task_locked_state">Κλειδωμένη</string>
@@ -45,8 +45,8 @@
     <string name="accessibility_recent_task_unlocked_state">Ξεκλείδωτη</string>
     <string name="accessibility_recents_item_dismissed">Έγινε εκκαθάριση %1$s</string>
     <string name="accessibility_recents_item_open_app_info">Άνοιγμα πληροφοριών εφαρμογής %s.</string>
-    <string name="accessibility_splite_screen_primary">Προστέθηκε ως πρωτεύουσα εφαρμογή στο Διαχωρισμό οθόνης</string>
-    <string name="accessibility_splite_screen_secondary">Προστέθηκε ως δευτερεύουσα εφαρμογή στο Διαχωρισμό οθόνης</string>
+    <string name="accessibility_splite_screen_primary">Προστέθηκε ως πρωτεύουσα εφαρμογή στη Διαίρεση οθόνης</string>
+    <string name="accessibility_splite_screen_secondary">Προστέθηκε ως δευτερεύουσα εφαρμογή στη Διαίρεση οθόνης</string>
     <string name="action_add_to_workspace">Προσθήκη στον χώρο εργασίας</string>
     <string name="actionbar_button_up_description">Πίσω</string>
     <string name="activity_not_found">Η εφαρμογή δεν έχει εγκατασταθεί στην συσκευή σας</string>
@@ -301,6 +301,7 @@
     <string name="dual_app">Διπλότυπες εφαρμογές</string>
     <string name="early_morning">Πρωί</string>
     <string name="edit">Επεξεργασία</string>
+    <string name="edit_folder">Επεξεργασία φακέλου</string>
     <string name="edit_folder_title">Επεξεργασία ονόματος φακέλου</string>
     <string name="edit_mode_dual_app">Δημιουργία διπλότυπης εφαρμογής</string>
     <string name="edit_mode_group">Ομάδα</string>
@@ -330,7 +331,7 @@
     <string name="exit_overview_because_task_stack_changed">Τα Πρόσφατα έκλεισαν λόγω αλλαγών που έγιναν στο παρασκήνιο</string>
     <string name="expand_button_title">Σύνθετες</string>
     <string name="exposed_dropdown_menu_content_description">Εμφάνιση αναπτυσσόμενου μενού</string>
-    <string name="external_not_support_split_screen_j18">Ο Διαχωρισμός οθόνης δεν υποστηρίζεται στην εξωτερική οθόνη</string>
+    <string name="external_not_support_split_screen_j18">Η Διαίρεση οθόνης δεν υποστηρίζεται στην εξωτερική οθόνη</string>
     <string name="failed_to_delete_temporary">Αδυναμία αφαίρεσης</string>
     <string name="failed_to_drop">Αδυναμία μετακίνησης</string>
     <string name="failed_to_drop_widget_invalid">Το widget δεν είναι έγκυρο</string>
@@ -387,9 +388,16 @@
     <string name="fmt_weekday_time">W T</string>
     <string name="fmt_weekday_time_timezone">W T z</string>
     <string name="fmt_weekday_timezone">W z</string>
+    <string name="fold_pair_install_shortcut_launcher_success">Επιτυχής δημιουργία</string>
     <string name="fold_pair_install_shortcut_long_click">Πατήστε παρατεταμένα για προσθήκη στην Αρχική οθόνη</string>
     <string name="fold_pair_installed_shortcut_launcher">Αυτή η συντόμευση υπάρχει ήδη</string>
     <string name="folder_name">Φάκελος</string>
+    <string name="folder_picker_big_2x2_9_text">XXL</string>
+    <string name="folder_picker_big_text">Μεγεθυσμένο</string>
+    <string name="folder_picker_default_text">Κανονικό</string>
+    <string name="folder_picker_options_tab_text">Μέγεθος</string>
+    <string name="folder_picker_sliding_button_tab_text">Προτάσεις επισημασμένων εφαρμογών</string>
+    <string name="folder_picker_tab_text">Φάκελος</string>
     <string name="frame_load_failed">Αδυναμία φόρτωσης πλαισίου</string>
     <string name="free_style_apps_title">Επιλογή εφαρμογής</string>
     <string name="free_style_drawer_title">Όλες οι εφαρμογές</string>
@@ -469,6 +477,7 @@
     <string name="icon_style">Στυλ</string>
     <string name="image_too_small_message">Η αρχική εικόνα δεν είναι αρκετά μεγάλη.</string>
     <string name="install">Εγκατάσταση</string>
+    <string name="intelligent_exposed_button_summary_text">Χρησιμοποιήστε έξυπνες προτάσεις με βάση τη χρήση της εφαρμογής σας για επισήμανση εφαρμογών σε μεγεθυσμένους φακέλους</string>
     <string name="invalid_contact_shortcut">Μη έγκυρη επαφή</string>
     <string name="is_setting_wallpaper_message">Γίνεται ορισμός ταπετσαρίας…</string>
     <string name="is_system_wallpaper_message">Αδυναμία διαγραφής πόρων συστήματος</string>
@@ -554,6 +563,7 @@
     <string name="minus_one_screen">Αποθήκη εφαρμογών</string>
     <string name="miui_screen_config_title">Ρυθμίσεις αρχικής οθόνης</string>
     <string name="miui_widget_menu_replace_text">Εναλλαγή</string>
+    <string name="miui_widget_toast_for_not_support_by_pa">Η Αποθήκη εφαρμογών δεν υποστηρίζει γραφικά στοιχεία αυτού του μεγέθους</string>
     <string name="miuix_access_state_desc">Έγινε επιλογή</string>
     <string name="miuix_appcompat_action_mode_deselect_all">Αποεπιλογή</string>
     <string name="miuix_appcompat_action_mode_select_all">Επιλογή όλων</string>
@@ -580,6 +590,8 @@
     <string name="monday">Δευτέρα</string>
     <string name="monday_short">Δευ</string>
     <string name="monday_shortest">Δευ</string>
+    <string name="monochrome_summary">Αλλαγή χρώματος παρασκηνίου για συμβατά εικονίδια</string>
+    <string name="monochrome_title">Χρώμα παρασκηνίου</string>
     <string name="month_april">Απριλίου</string>
     <string name="month_april_short">Απρ</string>
     <string name="month_april_shortest">Απρ</string>
@@ -624,6 +636,7 @@
     <string name="mtrl_picker_a11y_next_month">Αλλαγή στον επόμενο μήνα</string>
     <string name="mtrl_picker_a11y_prev_month">Αλλαγή στον προηγούμενο μήνα</string>
     <string name="mtrl_picker_announce_current_selection">Τρέχουσα επιλογή: %1$s</string>
+    <string name="mtrl_picker_confirm">@android:string/ok</string>
     <string name="mtrl_picker_date_header_selected">%1$s</string>
     <string name="mtrl_picker_date_header_title">Επιλογή ημερομηνίας</string>
     <string name="mtrl_picker_date_header_unselected">Επιλεγμένη ημερομηνία</string>
@@ -795,6 +808,8 @@
     <string name="quick_search_guide_quick_search">Γρήγορη αναζήτηση</string>
     <string name="quick_search_guide_title">Επιλογή προεπιλεγμένης λειτουργίας</string>
     <string name="recent_apps">Πρόσφατες</string>
+    <string name="recent_menu_item_add_pair">Δημιουργήστε μια συντόμευση Αρχικής οθόνης για αυτόν τον συνδυασμό Διαίρεσης οθόνης</string>
+    <string name="recent_menu_item_add_pair_first_toast">Δημιουργήστε μια συντόμευση Αρχικής οθόνης για αυτόν τον συνδυασμό Διαίρεσης οθόνης</string>
     <string name="recent_menu_item_info">Πληροφορίες</string>
     <string name="recent_menu_item_lock">Κλείδωμα</string>
     <string name="recent_menu_item_multi_window">Διαχωρισμός</string>
@@ -807,8 +822,8 @@
     <string name="recents_empty_message_dismissed_all">Έχετε καθαρίσει τα πάντα</string>
     <string name="recents_empty_message_multi_window">Άνοιγμα εφαρμογών από την Αρχική οθόνη</string>
     <string name="recents_exit_multi_window_mode">Έξοδος</string>
-    <string name="recents_forbid_dock_when_screening_toast_text">Αδυναμία χρήσης διαχωρισμού οθόνης κατά τη διάρκεια μετάδοσης</string>
-    <string name="recents_incompatible_app_message">Αυτή η εφαρμογή δεν υποστηρίζει Διαχωρισμό οθόνης</string>
+    <string name="recents_forbid_dock_when_screening_toast_text">Αδυναμία χρήσης Διαίρεσης οθόνης κατά τη διάρκεια μετάδοσης</string>
+    <string name="recents_incompatible_app_message">Αυτή η εφαρμογή δεν υποστηρίζει Διαίρεση οθόνης</string>
     <string name="recents_layout_style">Τακτοποίηση αντικειμένων στα Πρόσφατα</string>
     <string name="recents_layout_style_horizontal">Οριζόντια</string>
     <string name="recents_layout_style_vertical">Κατακόρυφα</string>
@@ -901,6 +916,7 @@
     <string name="sort_by_not_defined">Αυτόματη ταξινόμηση</string>
     <string name="start_activity_failed">Αδυναμία έναρξης εκκινητή</string>
     <string name="starting_preset_app">Γίνεται έναρξη…</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
     <string name="status_bar_recent_memory_giga">%1$s GB</string>
     <string name="status_bar_recent_memory_info1">%1$s από %2$s διαθέσιμα</string>
     <string name="status_bar_recent_memory_info2" />
@@ -983,6 +999,8 @@
     <string name="title_select_shortcut">Επιλογή συντόμευσης</string>
     <string name="toast_drag_to_assistant_reject">Αρχικοποίηση Αποθήκης εφαρμογών…</string>
     <string name="toast_screen_icons_misplaced">Έγινε επαναφορά από άλλη πηγή, ορισμένα εικονίδια μπορεί να βρίσκονται σε λάθος θέση.</string>
+    <string name="toast_split_app_unsupported">Αυτή η εφαρμογή δεν υποστηρίζει Διαίρεση οθόνης</string>
+    <string name="toast_split_select_app">Πατήστε μια εφαρμογή για χρήση Διαίρεσης οθόνης</string>
     <string name="today">Σήμερα</string>
     <string name="toggle_select_title">Επιλογή διακόπτη εναλλαγής</string>
     <string name="toggle_title">Διακόπτες εναλλαγής</string>
@@ -1033,8 +1051,12 @@
     <string name="widget_global_search">Αναζήτηση</string>
     <string name="widget_quick_function">Γρήγορες λειτουργίες</string>
     <string name="widgets_preview_title">Προσθήκη γραφικών στοιχείων</string>
+    <string name="work_mode_off_detailed_text">Οι εφαρμογές εργασίας σας δεν έχουν τη δυνατότητα αποστολής ειδοποιήσεων, χρήσης της μπαταρίας ή πρόσβασης στην τοποθεσία σας</string>
     <string name="work_mode_off_label">Οι ειδοποιήσεις είναι απενεργοποιημένες και δεν διατίθενται αυτή τη στιγμή</string>
+    <string name="work_mode_off_text">Οι εφαρμογές εργασίας τέθηκαν σε παύση</string>
     <string name="work_mode_on_label">Διαχειρίζεται από την οργάνωση σας</string>
+    <string name="work_mode_toggle_off">Απενεργοποίηση εφαρμογών εργασίας</string>
+    <string name="work_mode_toggle_on">Ενεργοποίηση εφαρμογών εργασίας</string>
     <string name="work_profile_first_content">Τα προσωπικά δεδομένα είναι διαχωρισμένα &amp; κρυμμένα από τις εφαρμογές εργασίας</string>
     <string name="work_profile_got_button">Κατανοητό</string>
     <string name="work_profile_next_button">Επόμενο</string>

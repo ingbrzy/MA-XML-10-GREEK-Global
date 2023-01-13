@@ -28,6 +28,7 @@
     <string name="abc_shareactionprovider_share_with_application">Κοινοποίηση στην εφαρμογή %s</string>
     <string name="abc_toolbar_collapse_description">Σύμπτυξη</string>
     <string name="access_denied_info">Πάρα πολλές προσπάθειες. Περιμένετε ένα ή δύο λεπτά και προσπαθήστε ξανά.</string>
+    <string name="access_photos_and_videos">Πρόσβαση φωτογραφιών και βίντεο</string>
     <string name="action_collapse">Απόκρυψη</string>
     <string name="action_expand">Εμφάνιση περισσότερων</string>
     <string name="action_folder_description">Προβολή φακέλων</string>
@@ -41,7 +42,7 @@
     <string name="actionbar_button_up_description">Πίσω</string>
     <string name="actionbar_close_description">Κλείσιμο</string>
     <string name="actionbar_home_description">Προηγούμενο</string>
-    <string name="add_account_desc">Συγχρονισμός των σημειώσεών σας με τον Mi Λογαριασμό σας;</string>
+    <string name="add_account_desc">Συγχρονισμός των σημειώσεών σας με τον Λογαριασμό Xiaomi σας;</string>
     <string name="afternoon">Απόγευμα</string>
     <string name="alarm_bar_title">Υπενθύμιση</string>
     <string name="alert_action_edit_anyway">Συνέχεια επεξεργασίας</string>
@@ -61,6 +62,9 @@
     <string name="app_name">Σημειώσεις</string>
     <string name="app_notification_info">Η εφαρμογή Σημειώσεις εκτελείται στο παρασκήνιο</string>
     <string name="app_widget">Σημειώσεις</string>
+    <string name="app_widget_name_create_note">Δημιουργία σημειώσεων</string>
+    <string name="app_widget_name_create_todo">Δημιουργία εργασιών</string>
+    <string name="app_widget_name_fast_entry">Συντομεύσεις</string>
     <string name="app_widget_name_new">Σημειώσεις</string>
     <string name="application_icon">Εικονίδιο εφαρμογής</string>
     <string name="audio_btn_mode_meeting">Σύσκεψη</string>
@@ -193,7 +197,7 @@
     <string name="empty_folder_import_notes">Εισαγωγή σημειώσεων</string>
     <string name="empty_folder_no_notes">Δεν υπάρχουν σημειωσεις εδώ</string>
     <string name="enable_sync">Συγχρονισμός</string>
-    <string name="enable_sync_desc">Συγχρονίστε τις σημειώσεις σας με το Mi Λογαριασμό σας (%1$s);</string>
+    <string name="enable_sync_desc">Συγχρονίστε τις σημειώσεις σας με τον Λογαριασμό Xiaomi σας (%1$s);</string>
     <string name="eras_ad">μ.Χ.</string>
     <string name="eras_bc">π.Χ.</string>
     <string name="error_contact_not_exist">Η επαφή δεν υπάρχει</string>
@@ -498,6 +502,7 @@
     <string name="mtrl_picker_a11y_next_month">Αλλαγή στον επόμενο μήνα</string>
     <string name="mtrl_picker_a11y_prev_month">Αλλαγή στον προηγούμενο μήνα</string>
     <string name="mtrl_picker_announce_current_selection">Τρέχουσα επιλογή: %1$s</string>
+    <string name="mtrl_picker_confirm">@android:string/ok</string>
     <string name="mtrl_picker_date_header_selected">%1$s</string>
     <string name="mtrl_picker_date_header_title">Επιλογή ημερομηνίας</string>
     <string name="mtrl_picker_date_header_unselected">Επιλεγμένη ημερομηνία</string>
@@ -532,6 +537,7 @@
     <string name="new_audio_create_guide_tip">Πατήστε παρατεταμένα για να δημιουργήσετε φωνητικό σημείωμα</string>
     <string name="new_audio_create_talkback_des">Πατήστε για να δημιουργήσετε γραπτό σημείωμα. Πατήστε παρατεταμένα για να δημιουργήσετε φωνητικό σημείωμα. Απελευθερώστε το κουμπί για να διακόψετε την εγγραφή και να δημιουργήσετε το σημείωμα, ή σύρετε πάνω για ακύρωση.</string>
     <string name="new_data_empty_note">Δεν υπάρχουν στοιχεία εδώ ακόμη</string>
+    <string name="new_lite_audio_create_talkback_des">Πατήστε για δημιουργία σημείωσης</string>
     <string name="night">Βράδυ</string>
     <string name="no_network">Αδυναμία σύνδεσης στο δίκτυο</string>
     <string name="noon">Μεσημέρι</string>
@@ -563,6 +569,7 @@
     <string name="note_write_hint">Ξεκινήστε να γράφετε</string>
     <string name="notealert_enter">Άνοιγμα σημείωσης</string>
     <string name="notealert_ok">Απόρριψη</string>
+    <string name="notelist_string_info">…</string>
     <string name="notes_description_content">Οι Σημειώσεις είναι μια εφαρμογή συστήματος. Δεν θα μπορείτε να χρησιμοποιήσετε αυτήν την εφαρμογή αφού την απεγκαταστήσετε.</string>
     <string name="notes_description_title">Απεγκατάσταση Σημειώσεων;</string>
     <string name="notification_content_add_todo_from_other_app">Προσθέσατε νέα εργασία. Πατήστε για προβολή.</string>
@@ -623,6 +630,8 @@
     <string name="permission_microphone_desc">Για ηχογράφηση φωνητικών σημειώσεων</string>
     <string name="permission_network_for_cloud_desc">Για συγχρονισμό σημειώσεων με το cloud, πρέπει να συνδεθείτε στο Ίντερνετ. Για συγχρονισμό των αντικειμένων ενδέχεται να χρησιμοποιηθούν δεδομένα κινητής τηλεφωνίας. Σύνδεση τώρα;</string>
     <string name="permission_phone_state_desc">Για διακοπή ηχογράφησης φωνής κατά τη διάρκεια κλήσεων</string>
+    <string name="permission_photos_desc">Για την προσθήκη εικόνων σε σημειώσεις</string>
+    <string name="permission_photos_desc_pad">Για την προσθήκη εικόνων σε σημειώσεις</string>
     <string name="permission_read_contact_desc">Συσχετισμός σημειώσεων που δημιουργήθηκαν κατά τη διάρκεια κλήσεων με επαφές</string>
     <string name="permission_storage_desc">Για αποθήκευση σημειώσεων ως εικόνες</string>
     <string name="permission_storage_desc_new_v12">Για προσθήκη εικόνων σε σημειώσεις και αποθήκευση σημειώσεων ως εικόνων</string>
@@ -725,6 +734,7 @@
     <string name="search_setting_description">Αναζήτηση κειμένου στις σημειώσεις σας</string>
     <string name="select_account_prompt">Συγχρονισμός σημειώσεων</string>
     <string name="send">Αποστολή</string>
+    <string name="send_notifications_for_reminder">Για αποστολή υπενθυμίσεων</string>
     <string name="set_alarm_description">Ορισμός ξυπνητηριού</string>
     <string name="setting_big_screen_layout_columns">Πλαϊνή γραμμή</string>
     <string name="setting_big_screen_layout_flat">Πλακάκια</string>
@@ -860,14 +870,15 @@
     <string name="toast_reach_text_limit_checkbox">Αδυναμία προσθήκης πλαισίου ελέγχου λόγω τεράστιου μεγέθους σημείωσης</string>
     <string name="toast_reach_text_limit_truncate">Η σημείωση είναι πολύ μεγάλη. Ορισμένο κείμενο έχει κοπεί στο τέλος.</string>
     <string name="toast_refuse_to_record_when_in_call">Δεν μπορεί να χρησιμοποιηθεί αυτή η δυνατότητα κατά τη διάρκεια κλήσεων</string>
-    <string name="toast_refuse_to_record_when_in_multi_window">Δεν μπορεί να χρησιμοποιηθεί αυτή η δυνατότητα με το Split screen</string>
-    <string name="toast_refuse_to_record_when_in_multi_window_new">Αδυναμία χρήσης αυτής της λειτουργίας σε Διαχωρισμό οθόνης ή αναδυόμενα παράθυρα</string>
+    <string name="toast_refuse_to_record_when_in_multi_window">Δεν μπορεί να χρησιμοποιηθεί αυτή η δυνατότητα με Διαίρεση οθόνης</string>
+    <string name="toast_refuse_to_record_when_in_multi_window_new">Αδυναμία χρήσης αυτής της λειτουργίας σε Διαίρεση οθόνης ή αναδυόμενα παράθυρα</string>
     <string name="toast_refuse_to_use_contact">"Οι άδειες επαφών είναι περιορισμένες.
 Επιτρέψτε στις Σημειώσεις να διαβάζουν τις επαφές σας και να εντοπίζουν λογαριασμούς στη συσκευή σας."</string>
     <string name="toast_refuse_to_use_external_storage">"Οι άδειες αποθηκευτικού χώρου είναι περιορισμένες.
 Επιτρέψτε στις Σημειώσεις να διαβάζουν τα περιεχόμενα της κάρτας SD σας."</string>
     <string name="toast_refuse_to_use_phone_state">"Οι άδειες τηλεφώνου είναι περιορισμένες.
 Επιτρέψτε στις Σημειώσεις να διαβάζουν την κατάσταση και ταυτότητα τηλεφώνου."</string>
+    <string name="toast_refuse_to_use_photos_in_excerpt">Επιτρέψτε σε αυτήν την εφαρμογή να έχει πρόσβαση στις φωτογραφίες σας για να μπορεί να προσθέτει εικόνες σε σημειώσεις</string>
     <string name="toast_refuse_to_use_record_audio">"Οι άδειες μικροφώνου είναι περιορισμένες.
 Επιτρέψτε στις Σημειώσεις να κάνουν εγγραφή ήχου."</string>
     <string name="toast_refuse_to_use_storage_in_excerpt">Επιτρέψτε στις Σημειώσεις να έχουν πρόσβαση στο χώρο αποθήκευσης για να μπορούν να προσθέτουν εικόνες στις σημειώσεις σας</string>
@@ -974,6 +985,9 @@
     <string name="wednesday">Τετάρτη</string>
     <string name="wednesday_short">Τετ</string>
     <string name="wednesday_shortest">Τετ</string>
+    <string name="widget_all_notes_name">Όλες οι σημειώσεις</string>
+    <string name="widget_all_todo_name">Όλες οι εργασίες</string>
+    <string name="widget_click_check">Πατήστε για προβολή</string>
     <string name="widget_content_loading">Περιμένετε μια στιγμή…</string>
     <string name="widget_create_select_size">Επιλογή μεγέθους</string>
     <string name="widget_empty_content">Πατήστε για επιλογή σημείωσης</string>
@@ -990,5 +1004,7 @@
     <string name="widget_size_item_super_big">Πολύ μεγάλο</string>
     <string name="widget_size_not_support">Τα πολύ μεγάλα γραφικά στοιχεία δεν υποστηρίζονται σε αυτήν τη συσκευή</string>
     <string name="widget_take_notes_title">Σημειώσεις</string>
+    <string name="widget_total_notes">%1$d</string>
+    <string name="widget_total_todo">%1$d</string>
     <string name="yesterday">Χθες</string>
 </resources>

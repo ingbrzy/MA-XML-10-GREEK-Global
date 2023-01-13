@@ -74,6 +74,14 @@
         <item>2X</item>
         <item>4X</item>
     </string-array>
+    <string-array name="gb_gpu_custom_cut_anti">
+        <item>2X</item>
+        <item>4X</item>
+    </string-array>
+    <string-array name="gb_gpu_custom_cut_texture">
+        <item>Ισορροπημένο</item>
+        <item>Υψηλής ποιότητας</item>
+    </string-array>
     <string-array name="gb_gpu_custom_texture">
         <item>Υψηλή ταχύτητα</item>
         <item>Ισορροπημένο</item>

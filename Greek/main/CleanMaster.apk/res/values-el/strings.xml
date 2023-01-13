@@ -215,6 +215,7 @@
     <string name="conn_of_function_safe">Σύνδεση δικτύου για Ασφάλεια</string>
     <string name="connecting">Γίνεται σύνδεση…</string>
     <string name="copy">Αντιγραφή</string>
+    <string name="copy_toast_msg">Ο σύνδεσμος αντιγράφηκε στο πρόχειρο</string>
     <string name="date_picker_label_day" />
     <string name="date_picker_label_month" />
     <string name="date_picker_label_year" />
@@ -301,6 +302,7 @@
     <string name="download">Λήψη</string>
     <string name="downloading">Γίνεται λήψη</string>
     <string name="early_morning">Πρωί</string>
+    <string name="empty">" "</string>
     <string name="empty_content_no_ignore_image">Κενό</string>
     <string name="empty_content_no_privacy">Κενό</string>
     <string name="empty_content_no_similar_image">Δεν υπάρχουν φωτογραφίες</string>
@@ -318,6 +320,15 @@
     <string name="eras_ad">μ.Χ.</string>
     <string name="eras_bc">π.Χ.</string>
     <string name="evening">Απόγευμα</string>
+    <string name="exo_download_completed">Η λήψη ολοκληρώθηκε</string>
+    <string name="exo_download_description">Λήψη</string>
+    <string name="exo_download_downloading">Λήψη</string>
+    <string name="exo_download_failed">Η λήψη απέτυχε</string>
+    <string name="exo_download_notification_channel_name">Λήψεις</string>
+    <string name="exo_download_paused">Οι λήψεις τέθηκαν σε παύση.</string>
+    <string name="exo_download_paused_for_network">Οι λήψεις είναι σε αναμονή για δίκτυο.</string>
+    <string name="exo_download_paused_for_wifi">Οι λήψεις είναι σε αναμονή για Wi-Fi.</string>
+    <string name="exo_download_removing">Κατάργηση λήψεων</string>
     <string name="expand_button_title">Σύνθετες</string>
     <string name="facebook_clean_exit_confirm_cancel">Συνέχεια σάρωσης</string>
     <string name="facebook_clean_exit_confirm_msg">Δεν έχει ολοκληρωθεί η σάρωση του Facebook. Διακοπή σάρωσης τώρα;</string>
@@ -328,6 +339,9 @@
     <string name="facebook_group_gif">GIFs</string>
     <string name="facebook_group_image">Εικόνες</string>
     <string name="facebook_group_video">Βίντεο</string>
+    <string name="fallback_menu_item_copy_link">Αντιγραφή συνδέσμου</string>
+    <string name="fallback_menu_item_open_in_browser">Άνοιγμα σε πρόγραμμα περιήγησης</string>
+    <string name="fallback_menu_item_share_link">Κοινοποίηση συνδέσμου</string>
     <string name="file">Αρχεία</string>
     <string name="file_not_found">Δεν βρέθηκε αρχείο</string>
     <string name="flow_rank_title">Χρήση δεδομένων</string>
@@ -477,6 +491,7 @@
     <string name="hints_garbage_cleanup_result_safe">Όλα φαίνονται να λειτουργούν σωστά</string>
     <string name="hints_garbage_handle_item_content">%1$d αντικείμενα, %2$s</string>
     <string name="hints_garbage_handle_item_empty_content">Κενό</string>
+    <string name="hints_header_left">%d</string>
     <string name="hints_installed_app_fewer">Σπανίως σε χρήση</string>
     <string name="hints_installed_app_near">Πρόσφατα σε χρήση</string>
     <string name="hints_installed_app_never">Ποτέ σε χρήση</string>

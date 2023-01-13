@@ -237,6 +237,7 @@
     <string name="preference_copied">Το \"%1$s\" αντιγράφηκε στο πρόχειρο.</string>
     <string name="privacy_settings">Απόρρητο</string>
     <string name="quit_recording">Έξοδος από Εγγραφή Οθόνης</string>
+    <string name="record_time_too_short">Το βίντεο που εγγράφηκε είναι υπερβολικά σύντομο</string>
     <string name="recording_failure">Αδυναμία εγγραφής, ξεκινήστε ξανά</string>
     <string name="recording_max_size">Η εγγραφή διακόπηκε και αποθηκεύτηκε επειδή το αρχείο βίντεου έφτασε στο όριο μεγέθους. Ξεκινήστε την εγγραφή από εκεί που σταματήσατε εάν δεν τελειώσατε.</string>
     <string name="recording_without_mic">Το μικρόφωνο είναι απασχολημένο και δεν έχει δυνατότητα εγγραφής ήχου τώρα.</string>

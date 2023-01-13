@@ -44,6 +44,18 @@
         <item quantity="other">Επιλέχθηκε %s αστέρια</item>
         <item quantity="one">Επιλέχθηκε %s αστέρι</item>
     </plurals>
+    <plurals name="exo_controls_fastforward_by_amount_description">
+        <item quantity="other">Γρήγορη προώθηση κατά %d δευτερόλεπτα</item>
+        <item quantity="one">Γρήγορη προώθηση κατά %d δευτερόλεπτο</item>
+    </plurals>
+    <plurals name="exo_controls_rewind_by_amount_description">
+        <item quantity="other">Μετάβαση προς τα πίσω κατά %d δευτερόλεπτα</item>
+        <item quantity="one">Μετάβαση προς τα πίσω κατά %d δευτερόλεπτο</item>
+    </plurals>
+    <plurals name="fcmpts_dialog_one">
+        <item quantity="other">Παρακολουθήστε %s ακόμη δευτερόλεπτα ενός βίντεο για να κερδίσετε βαθμούς και να εξαργυρώσετε βραβεία</item>
+        <item quantity="one">Παρακολουθήστε %s ακόμη δευτερόλεπτο ενός βίντεο για να κερδίσετε βαθμούς και να εξαργυρώσετε βραβεία</item>
+    </plurals>
     <plurals name="feed_back_home">
         <item quantity="other">Επιστροφή στην αρχική σελίδα σε %1$d δευτερόλεπτα…</item>
         <item quantity="one">Επιστροφή στην αρχική σελίδα σε %1$d δευτερόλεπτο…</item>
@@ -51,6 +63,10 @@
     <plurals name="half_hour_ago">
         <item quantity="other">Μισή ώρα πριν</item>
         <item quantity="one">Μισή ώρα πριν</item>
+    </plurals>
+    <plurals name="hint_local_guide_views">
+        <item quantity="other">%s προβολές</item>
+        <item quantity="one">%s προβολή</item>
     </plurals>
     <plurals name="in_a_hour">
         <item quantity="other">Σε 1 ώρα</item>
@@ -194,6 +210,10 @@
         <item quantity="other">%d νέες ειδοποιήσεις</item>
         <item quantity="one">%d νέα ειδοποίηση</item>
     </plurals>
+    <plurals name="music_playlist_title_count">
+        <item quantity="other">%d τραγούδια</item>
+        <item quantity="one">%d τραγούδι</item>
+    </plurals>
     <plurals name="new_incentive_toast_share_success">
         <item quantity="other">Επιτυχής κοινοποίηση. Κερδίσατε %d βαθμούς. Διεκδίκηση στο Κέντρο Βαθμών.</item>
         <item quantity="one">Επιτυχής κοινοποίηση. Κερδίσατε %d βαθμό. Διεκδίκηση στο Κέντρο Βαθμών.</item>
@@ -277,6 +297,10 @@
     <plurals name="toast_bookmark_max_size">
         <item quantity="other">Προσθέστε μέχρι και %d σελιδοδείκτες</item>
         <item quantity="one">Προσθέστε μέχρι και %d σελιδοδείκτη</item>
+    </plurals>
+    <plurals name="v_confirm_hide_videos_new">
+        <item quantity="other">Απόκρυψη %d επιλεγμένων αρχείων;</item>
+        <item quantity="one">Απόκρυψη %d επιλεγμένου αρχείου;</item>
     </plurals>
     <plurals name="video_like_text">
         <item quantity="other">%s likes</item>

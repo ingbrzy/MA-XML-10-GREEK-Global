@@ -157,6 +157,8 @@
     <string name="audio_ad_pass">Παράβλεψη διαφήμισης</string>
     <string name="audio_picker_title">Επιλογή τραγουδιού</string>
     <string name="auth_fail_warning">Η συνεδρία έληξε. Συνδεθείτε ξανά.</string>
+    <string name="auto_play_switch">Αυτόματη αναπαραγωγή βίντεο</string>
+    <string name="auto_play_toast">Η αυτόματη αναπαραγωγή είναι ενεργοποιημένη. Μπορείτε να την απενεργοποιήσετε στις Ρυθμίσεις.</string>
     <string name="auto_recommend">Αυτόματα (προτεινόμενο)</string>
     <string name="auto_sound_quality">Αυτόματο</string>
     <string name="auto_update">Αυτόματη ενημέρωση</string>
@@ -169,6 +171,7 @@
     <string name="back">Πίσω</string>
     <string name="back_confirm">Αγγίξτε ξανά για να μετακινήστε την εφαρμογή στο παρασκήνιο</string>
     <string name="best_experience">Η καλύτερη εμπειρία</string>
+    <string name="billion_char">%s Δισ.</string>
     <string name="bluetooth_device">Bluetooth συσκευή ήχου</string>
     <string name="bottomsheet_action_expand_halfway">Ανάπτυξη μέχρι τη μέση</string>
     <string name="btn_text_edit">Επεξεργασία</string>
@@ -232,6 +235,7 @@
     <string name="connecting_apk">Γίνεται σύνδεση…</string>
     <string name="content_failed_to_load">Αδυναμία φόρτωσης περιεχομένου</string>
     <string name="copy">Αντιγραφή</string>
+    <string name="copy_toast_msg">Ο σύνδεσμος αντιγράφηκε στο πρόχειρο</string>
     <string name="create_playlist">Δημιουργία λίστας αναπαραγωγής</string>
     <string name="create_playlist_failure">Αδυναμία δημιουργίας λίστας αναπαραγωγής</string>
     <string name="create_playlist_input_hint">Εισαγάγετε το όνομα λίστας αναπαραγωγής</string>
@@ -287,11 +291,11 @@ ID:%s
     <string name="dialog_my_playlist_online_changed_merge">Διατήρηση</string>
     <string name="dialog_my_playlist_online_changed_message">Φαίνεται ότι αυτή η λίστα αναπαραγωγής άλλαξε. Μπορείτε να την αντικαταστήσετε με τη νέα έκδοση ή να διατηρήσετε την παλαιά.</string>
     <string name="dialog_my_playlist_online_changed_replace">Αντικατάσταση</string>
-    <string name="dialog_my_playlist_set_to_public">Κοινοποιήστε αυτή τη λίστα αναπαραγωγής με όλους τους χρήστες της Mi Μουσική και Hungama music</string>
+    <string name="dialog_my_playlist_set_to_public">Κοινοποιήστε αυτή τη λίστα αναπαραγωγής με όλους τους χρήστες της Mi Μουσική και hungama Music</string>
     <string name="dialog_queued_body">Το αρχείο είναι σε ουρά για μελλοντική λήψη.</string>
     <string name="dialog_renew_failure">Συγγνώμη, η ενέργεια απέτυχε</string>
-    <string name="dialog_renew_free_end">Η δωρεάν δοκιμή σας έχει τελειώσει. Εγγραφή στο Hungama PRO;</string>
-    <string name="dialog_renew_positive_text">Ω ΝΑΙ, ΘΕΛΩ ΝΑ ΡΟΚΑΡΩ ΣΑΝ ΕΠΑΓΓΕΛΜΑΤΙΑΣ</string>
+    <string name="dialog_renew_free_end">Η δωρεάν δοκιμή σας έχει τελειώσει. Εγγραφή στο hungama Gold;</string>
+    <string name="dialog_renew_positive_text">Ανανέωση συνδρομής Gold!</string>
     <string name="dialog_renew_success">Ευχαριστούμε για την επιβεβαίωσή σας</string>
     <string name="dialog_score_btn_good">Αξιολόγηση</string>
     <string name="dialog_score_msg_score_explorer">Σας αρέσει η Μουσική Mi;</string>
@@ -360,7 +364,9 @@ ID:%s
     <string name="download_method">Λήψη</string>
     <string name="download_no_application_title">Αδυναμία ανοίγματος αρχείου</string>
     <string name="download_paused_in_power_save_mode">Παύση λήψεων όταν η Εξοικονόμηση μπαταρίας είναι ενεργή</string>
+    <string name="download_percent">%d%%</string>
     <string name="download_processing">Γίνεται λήψη…</string>
+    <string name="download_progress">%d%%</string>
     <string name="download_quality">Ποιότητα λήψης</string>
     <string name="download_quality_summary">Πρόσθετες ρυθμίσεις για τραγούδια που κατεβάζετε</string>
     <string name="download_queued">Σε ουρά</string>
@@ -392,7 +398,7 @@ ID:%s
     <string name="download_while_playing_no_vip_summary">Αυτόματη λήψη τραγουδιών που αναπαράγονται online( εκτός από πληρωμένο περιεχόμενο)</string>
     <string name="download_while_playing_summary">Αυτόματη λήψη τραγουδιών που αναπαράγονται online</string>
     <string name="download_while_playing_title">Λήψη κατά την αναπαραγωγή</string>
-    <string name="downloaded">Έγινε λήψη</string>
+    <string name="downloaded">Λήψη</string>
     <string name="downloaded_empty">Κενή</string>
     <string name="downloading_apk">Γίνεται λήψη… Δείτε την πρόοδο στον Πίνακα ειδοποιήσεων.</string>
     <string name="downloading_empty">Κενή</string>
@@ -404,7 +410,7 @@ ID:%s
     <string name="empty_page_no_album">Δεν υπάρχουν άλμπουμ.</string>
     <string name="empty_page_no_artist">Δεν υπάρχουν καλλιτέχνες.</string>
     <string name="enabled">Ενεργοποιήθηκε</string>
-    <string name="enjoy_hungama_pro">Απολαύστε το Hungama PRO</string>
+    <string name="enjoy_hungama_pro">Απολαύστε το hungama Gold</string>
     <string name="enroll_in">Εγγραφή</string>
     <string name="enter_garbage_clean">Εκκαθάριση εσωτερικού χώρου αποθήκευσης.</string>
     <string name="entertainment">Ψυχαγωγία</string>
@@ -469,7 +475,9 @@ ID:%s
     <string name="exo_media_action_repeat_all_description">Επανάληψη όλων</string>
     <string name="exo_media_action_repeat_off_description">Καμία επανάληψη</string>
     <string name="exo_media_action_repeat_one_description">Επανάληψη ενός κομματιού</string>
+    <string name="exo_track_bitrate">%1$.2f Mbps</string>
     <string name="exo_track_mono">Μονοφωνικό</string>
+    <string name="exo_track_resolution">%1$d × %2$d</string>
     <string name="exo_track_role_alternate">Εναλλακτικό</string>
     <string name="exo_track_role_closed_captions">Υπότιτλοι</string>
     <string name="exo_track_role_commentary">Σχολιασμός</string>
@@ -495,6 +503,9 @@ ID:%s
     <string name="failed_obtain_permissions">Αδυναμία απόκτησης αδειών</string>
     <string name="failed_to_connect_hint">Ελέγξτε τις ρυθμίσεις του δικτύου σας και προσπαθήστε ξανά</string>
     <string name="failed_to_connect_text">Αδυναμία σύνδεσης στο δίκτυο</string>
+    <string name="fallback_menu_item_copy_link">Αντιγραφή συνδέσμου</string>
+    <string name="fallback_menu_item_open_in_browser">Άνοιγμα σε πρόγραμμα περιήγησης</string>
+    <string name="fallback_menu_item_share_link">Κοινοποίηση συνδέσμου</string>
     <string name="fans">Ακόλουθοι</string>
     <string name="fav_login_msg">Συνδεθείτε στον Λογαριασμό Xiaomi σας για λήψη τραγουδιών</string>
     <string name="favorite_canceled">Removed from favourites</string>
@@ -504,7 +515,6 @@ ID:%s
     <string name="favorite_to_playlist">Προσθήκη σε λίστα αναπαραγωγής</string>
     <string name="favorite_tracks">Αγαπημένα</string>
     <string name="favorites">Αγαπημένα</string>
-    <string name="fcm_fallback_notification_channel_label">Διάφορα</string>
     <string name="feed_back">Ανατροφοδότηση</string>
     <string name="file_and_media_permissions_for_display">Πρόσβαση σε αρχεία: για σάρωση, προβολή και αναπαραγωγή τοπικών αρχείων</string>
     <string name="file_not_found">Το αρχείο δεν υπάρχει</string>
@@ -620,20 +630,20 @@ ID:%s
     <string name="home_tab_recommend">Σε σύνδεση</string>
     <string name="home_tab_search">Αναζήτηση</string>
     <string name="hot_icon_in_fast_indexer">Δ</string>
-    <string name="hungama_batch_download_alert_summary">Μόνο μέλη PRO μπορούν να κατεβάσουν τραγούδια απεριόριστα. Να γίνετε μέλος τώρα;</string>
+    <string name="hungama_batch_download_alert_summary">Μόνο μέλη Gold μπορούν να κατεβάσουν τραγούδια απεριόριστα. Θέλετε να γίνετε μέλος Gold τώρα;</string>
     <string name="hungama_batch_download_alert_summary_toast">Γίνετε συνδρομητής για λήψη της συνολικής λίστας αναπαραγωγής.</string>
-    <string name="hungama_download_subscription_toast">Εγγραφείτε στο Hungama Music για λήψη αυτού του τραγουδιού</string>
-    <string name="hungama_free_download_out_summary">Δεν μπορείτε να κατεβάσετε περισσότερα δωρεάν τραγούδια. Θέλετε να γίνετε μέλος του PRO για απεριόριστη λήψη τραγουδιών;</string>
+    <string name="hungama_download_subscription_toast">Εγγραφείτε στο hungama Music για λήψη αυτού του τραγουδιού</string>
+    <string name="hungama_free_download_out_summary">Δεν μπορείτε να κατεβάσετε περισσότερα δωρεάν τραγούδια. Θέλετε να γίνετε μέλος του Gold για απεριόριστη λήψη τραγουδιών;</string>
     <string name="hungama_free_download_out_summary_toast">Ήδη πραγματοποιήσατε λήψη %d τραγουδιών. Γίνετε συνδρομητής για λήψη περισσότερων.</string>
-    <string name="hungama_privacy_desc">Πολιτική Απορρήτου Hungama (προαιρετικό)</string>
-    <string name="hungama_privacy_tips_content">Για απόκτηση πρόσβασης σε απευθείας σύνδεση, πρέπει να αποδεχτείτε την <a href="/link/click">Πολιτική Απορρήτου Hungama</a>.</string>
-    <string name="hungama_privacy_tips_title">Πολιτική Απορρήτου Hungama</string>
-    <string name="hungama_subscribe_message">Αγοράστε συνδρομή PRO για την λήψη μουσικής υψηλής ποιότητας.</string>
-    <string name="hungama_subscribe_positive_button">Αγοράστε συνδρομή PRO</string>
-    <string name="hungama_subscribe_title">Συνδρομή PRO</string>
+    <string name="hungama_privacy_desc">Πολιτική Απορρήτου hungama (προαιρετικό)</string>
+    <string name="hungama_privacy_tips_content">Για απόκτηση πρόσβασης σε απευθείας σύνδεση, πρέπει να αποδεχτείτε την <a href="/link/click">Πολιτική Απορρήτου hungama</a>.</string>
+    <string name="hungama_privacy_tips_title">Πολιτική Απορρήτου hungama</string>
+    <string name="hungama_subscribe_message">Αγοράστε συνδρομή Gold για τη λήψη μουσικής υψηλής ποιότητας.</string>
+    <string name="hungama_subscribe_positive_button">Αγοράστε συνδρομή Gold</string>
+    <string name="hungama_subscribe_title">Συνδρομή Gold</string>
     <string name="i_know">OK</string>
     <string name="icon_content_description">Εικονίδιο παραθύρου διαλόγου</string>
-    <string name="imported">Έγινε εισαγωγή</string>
+    <string name="imported">Εισαγωγή</string>
     <string name="impunity_declaration_content">Πρέπει να διαβάσετε και να αποδεχτείτε τους &lt;a href=\"http://www.miui.com/res/doc/eula.html?lang=el_GR\">Όρους Χρήσης&lt;/a> και &lt;a href=\"http://www.miui.com/res/doc/privacy.html?lang=el_GR\">Πολιτική Απορρήτου&lt;/a> μας πριν τη χρήση του προϊόντος.</string>
     <string name="impunity_declaration_ignore">Να μην εμφανιστεί ξανά</string>
     <string name="impunity_declaration_negative_text">Έξοδος</string>
@@ -775,6 +785,7 @@ ID:%s
     <string name="middle_sound_quality">Κανονική</string>
     <string name="midnight">Νύχτα</string>
     <string name="milink_unavaliable_please_update">Η Mi Σύνδεση δεν είναι διαθέσιμη. Ενημερώστε το MIUI.</string>
+    <string name="million_char">%s Εκατομ.</string>
     <string name="millions_songs">Εκατομμύρια τραγούδια</string>
     <string name="missing_title">&lt;Άγνωστο></string>
     <string name="miuishare_account_login_ok">Σύνδεση</string>
@@ -866,6 +877,7 @@ ID:%s
     <string name="mtrl_picker_a11y_next_month">Αλλαγή στον επόμενο μήνα</string>
     <string name="mtrl_picker_a11y_prev_month">Αλλαγή στον προηγούμενο μήνα</string>
     <string name="mtrl_picker_announce_current_selection">Τρέχουσα επιλογή: %1$s</string>
+    <string name="mtrl_picker_confirm">@android:string/ok</string>
     <string name="mtrl_picker_date_header_selected">%1$s</string>
     <string name="mtrl_picker_date_header_title">Επιλογή ημερομηνίας</string>
     <string name="mtrl_picker_date_header_unselected">Επιλεγμένη ημερομηνία</string>
@@ -1003,7 +1015,7 @@ ID:%s
     <string name="online_switch_confirm_title">"Η απενεργοποίηση online υπηρεσιών περιεχομένου θα καταστήσει όλες τις online λειτουργίες μη διαθέσιμες. Απενεργοποίηση παρ' όλα αυτά;"</string>
     <string name="online_switch_message">"Η απενεργοποίηση των online υπηρεσιών θα επηρεάσει τις VIP υπηρεσίες και προτάσεις. Απενεργοποίηση παρ' όλα αυτά;"</string>
     <string name="online_switch_setting">Online ρυθμίσεις περιεχομένου</string>
-    <string name="only_pro_can_choose_hd_sound_quality">Ο ήχος HD διατίθεται μόνο για μέλη PRO</string>
+    <string name="only_pro_can_choose_hd_sound_quality">Ο ήχος HD διατίθεται μόνο για μέλη Gold</string>
     <string name="open_online_service">Πρέπει να ενεργοποιήσετε τις online υπηρεσίες για την χρήση αυτής της λειτουργίας. Ενεργοποίηση τώρα;</string>
     <string name="open_service">Ενεργοποίηση</string>
     <string name="open_settings">Ρυθμίσεις</string>
@@ -1111,7 +1123,7 @@ ID:%s
     <string name="paused_waiting_for_network">Αναμονή για σύνδεση</string>
     <string name="paused_waiting_to_retry">Αναμονή για επανάληψη</string>
     <string name="pay_now">Τρέχουσα υπηρεσία</string>
-    <string name="payment_success_message">Ευχαριστούμε! Έγινε επιτυχής επεξεργασία της πληρωμής σας. Απολαύστε τις υπηρεσίες PRO.</string>
+    <string name="payment_success_message">Ευχαριστούμε! Έγινε επιτυχής επεξεργασία της πληρωμής σας. Απολαύστε τις υπηρεσίες Gold.</string>
     <string name="payment_success_title">Συγχαρητήρια!</string>
     <string name="pending_apk">Προς διεκπεραίωση…</string>
     <string name="permission_declaration_message">Να επιτρέπεται η πρόσβαση στον αποθηκευτικό χώρο στην Ασφάλεια > Άδειες > Άδειες > Αποθηκευτικός χώρος > Μουσική για την δυνατότητα κανονικής λειτουργίας της Μουσικής.</string>
@@ -1150,6 +1162,7 @@ ID:%s
     <string name="please_select_song">Επιλέξτε ένα τραγούδι πρώτα</string>
     <string name="pm">ΜΜ</string>
     <string name="power_save_mode_dialog_msg">Η Εξοικονόμηση μπαταρίας είναι ενεργή. Εκκίνηση λήψης τώρα;</string>
+    <string name="pre_watched">Παρακολουθήσατε</string>
     <string name="preference_copied">Το \"%1$s\" αντιγράφηκε στο πρόχειρο.</string>
     <string name="preset_music_playlist">Λίστα αναπαραγωγής Mi Μουσική</string>
     <string name="priority_storage">Χρήση εξωτερικής κάρτας SD</string>
@@ -1160,6 +1173,7 @@ ID:%s
     <string name="privacy_authorize_revoking">Γίνεται ανάκληση εξουσιοδότησης…</string>
     <string name="privacy_desc">Πολιτική Απορρήτου (υποχρεωτικό)</string>
     <string name="privacy_policy">Πολιτική Απορρήτου</string>
+    <string name="privacy_policy_url">http://www.miui.com/res/doc/privacy.html?lang=el_GR</string>
     <string name="privacy_request_desc">"&lt;Data>Η Mi Μουσική πρέπει να συλλέξει απαραίτητα προσωπικά δεδομένα για να σας παρέχει υπηρεσίες online streaming. Μπορείτε να μάθετε πως διαχειριζόμαστε τα δεδομένα που συλλέγουμε στην &lt;a href=\"%1$s\">Πολιτική Απορρήτου&lt;/a>. Μπορείτε να ανακαλέσετε τη συγκατάθεσή σας για την Πολιτική Απορρήτου του Mi Μουσική στις Ρυθμίσεις οποιαδήποτε στιγμή. 
 Διαβάστε και αποδεχτείτε τη &lt;a href=\"%2$s\">Συμφωνία Χρήστη&lt;/a> και την &lt;a href=\"%1$s\">Πολιτική Απορρήτου&lt;/a> πριν χρησιμοποιήσετε τη Mi Μουσική.
 Εάν δεν συμφωνήσετε με τις πιο πάνω υπηρεσίες, δεν θα μπορείτε να χρησιμοποιείτε ορισμένες λειτουργίες αυτής της εφαρμογής. Ωστόσο, οι βασικές της λειτουργίες θα εξακολουθήσουν να είναι διαθέσιμες.&lt;/Data>"</string>
@@ -1168,7 +1182,7 @@ ID:%s
 - Υπηρεσίες Online streaming"</string>
     <string name="privacy_request_subtitle_offline">Καλώς ήλθατε στη Mi Μουσική! Αυτή η εφαρμογή παρέχει ένα τοπικό πρόγραμμα αναπαραγωγής για αρχεία ήχου.</string>
     <string name="privacy_request_title">Όροι και προϋποθέσεις</string>
-    <string name="pro_member">Μέλος PRO</string>
+    <string name="pro_member">Μέλος Gold</string>
     <string name="progressbar_title">Έλεγχος για προβλήματα ασφαλείας…</string>
     <string name="project_device">Mi Τηλέφωνο</string>
     <string name="prompt_grant_write_settings_permission">Να επιτρέπεται η αλλαγή ρυθμίσεων συστήματος</string>
@@ -1179,7 +1193,7 @@ ID:%s
     <string name="pulluprefreshrecyclerview_loading_running">Φόρτωση…</string>
     <string name="qq_login_btn_content_description">Σύνδεση μέσω QQ</string>
     <string name="queue_is_empty">Η ουρά αναπαραγωγής είναι κενή.</string>
-    <string name="read_and_agree_hungama_protocol">&lt;Data>Έχω διαβάσει και αποδεχτεί την &lt;font color=\"#A374F0\">&lt;/color>&lt;a href=\"%1$s\">Πολιτική Απορρήτου Hungama&lt;/a>&lt;/font>&lt;/Data></string>
+    <string name="read_and_agree_hungama_protocol">&lt;Data>Έχω διαβάσει και αποδεχτεί την &lt;font color=\"#A374F0\">&lt;/color>&lt;a href=\"%1$s\">Πολιτική Απορρήτου hungama&lt;/a>&lt;/font>&lt;/Data></string>
     <string name="read_and_agree_joox_protocol">&lt;Data>Έχω διαβάσει και αποδεχτεί την &lt;font color=\"#A374F0\">&lt;/color>&lt;a href=\"%1$s\">Πολιτική Απορρήτου JOOX&lt;/a>&lt;/font>&lt;/Data></string>
     <string name="read_and_agree_mi_protocol">&lt;Data>IΈχω διαβάσει και αποδεχτεί τη &lt;font color=\"#A374F0\">&lt;/color>&lt;a href=\"%1$s\">Συμφωνία Χρήστη&lt;/a>&lt;/font> και την &lt;font color=\"#A374F0\">&lt;/color>&lt;a href=\"%2$s\">Πολιτική Απορρήτου&lt;/a>&lt;/font> Xiaomi&lt;/Data></string>
     <string name="read_and_agree_protocol">Διαβάστε και αποδεχτείτε τη Συμφωνία Χρήστη και την Πολιτική Απορρήτου μας προτού συνεχίσετε.</string>
@@ -1189,6 +1203,7 @@ ID:%s
     <string name="recommend_songs_when_playing_audio_files">Λαμβάνετε προτεινόμενα τραγούδια όσο ακούτε μουσική</string>
     <string name="recommended_file_size_download_in_mobile">Χρήση %s δεδομένων για την λήψη αυτού του αρχείου;</string>
     <string name="recommended_no_file_size_download_in_mobile">Χρήση δεδομένων κινητής τηλεφωνίας για την λήψη του αρχείου;</string>
+    <string name="refresh">Ανανέωση</string>
     <string name="register_by_local_phone_long_text">Δημιουργία λογαριασμού</string>
     <string name="register_by_local_phone_short_text">Δημιουργία λογαριασμού</string>
     <string name="remove">Αφαίρεση</string>
@@ -1217,7 +1232,7 @@ ID:%s
     <string name="retry">Προσπαθήστε ξανά</string>
     <string name="retry_after_network_available">Αδυναμία σύνδεσης στο δίκτυο. Ελέγξτε την σύνδεσή σας και προσπαθήστε ξανά.</string>
     <string name="retry_download">Προσπαθήστε ξανά</string>
-    <string name="revoke_upload_playlist_to_hungama_toast">Τα διαδικτυακά τραγούδια δεν θα συγχρονιστούν με το Hungama</string>
+    <string name="revoke_upload_playlist_to_hungama_toast">Τα διαδικτυακά τραγούδια δεν θα συγχρονιστούν με το hungama</string>
     <string name="ringtone_editing">Επεξεργαστής κουδουνίσματος</string>
     <string name="ringtone_not_support">Η μορφή του τραγουδιού δεν υποστηρίζεται</string>
     <string name="ringtone_selected">Έγινε επιλογή</string>
@@ -1253,6 +1268,7 @@ ID:%s
     <string name="search_instant_online_music">Online</string>
     <string name="search_menu_title">Αναζήτηση</string>
     <string name="search_more">Περισσότερα</string>
+    <string name="search_recommend">Προτεινόμενα</string>
     <string name="search_result_local_songs">Τοπικά</string>
     <string name="search_result_online_songs">Σε σύνδεση</string>
     <string name="search_songs">Αναζήτηση για τραγούδια</string>
@@ -1315,7 +1331,7 @@ ID:%s
     <string name="sleep_mode_canceled">Η λειτουργία ύπνου είναι ανενεργή</string>
     <string name="sleep_mode_summary">Διακοπή αναπαραγωγής μετά από μια συγκεκριμένη ώρα</string>
     <string name="sleep_mode_title">Μετρητής ύπνου</string>
-    <string name="sliding_pro_center">Κέντρο PRO</string>
+    <string name="sliding_pro_center">hungama Gold</string>
     <string name="sns_access_token_expired_warning">Η συνεδρία έληξε. Συνδεθείτε ξανά για επανασύνδεση αυτού του λογαριασμού.</string>
     <string name="sns_bind_limit">Πάρα πολλές προσπάθειες. Δοκιμάστε άλλους τρόπους σύνδεσης.</string>
     <string name="sns_sign_in">Άλλοι τρόποι να συνδεθείτε</string>
@@ -1338,6 +1354,7 @@ ID:%s
     <string name="start_to_download">Γίνεται λήψη…</string>
     <string name="start_to_play">Γίνεται προετοιμασία αναπαραγωγής…</string>
     <string name="start_update">Γίνεται εγκατάσταση νέας έκδοσης…</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
     <string name="storage_cloned_app">Χώρος αποθήκευσης για διπλότυπες εφαρμογές</string>
     <string name="storage_internal">Εσωτερικός χώρος αποθήκευσης</string>
     <string name="storage_sd_card">Κάρτα SD</string>
@@ -1430,6 +1447,7 @@ ID:%s
     <string name="the_united_nations_day">Ημέρα των Ηνωμένων Εθνών</string>
     <string name="the_valentines_day">Γιορτή των Ερωτευμένων</string>
     <string name="the_water_lantern_festival">Γιορτή Φαναριών Νερού</string>
+    <string name="thousand_char">%s Χιλ.</string>
     <string name="thursday">Πέμπτη</string>
     <string name="thursday_short">Πεμ</string>
     <string name="thursday_shortest">Πεμ</string>
@@ -1439,6 +1457,7 @@ ID:%s
     <string name="time_picker_label_hour">Ω</string>
     <string name="time_picker_label_minute">Λ</string>
     <string name="time_to_upgrade">Υπάρχει διαθέσιμη ενημέρωση</string>
+    <string name="tips_click_here_to_continue">Πατήστε για συνέχεια αναπαραγωγής</string>
     <string name="title_online_fm_recommend">Προτεινόμενα FM</string>
     <string name="title_online_recommend">Προτεινόμενες λίστες αναπαραγωγής</string>
     <string name="title_search_history">Αναζήτηση ιστορικού</string>
@@ -1451,8 +1470,8 @@ ID:%s
     <string name="toast_download_in_process">Λήψη σε εξέλιξη</string>
     <string name="toast_favorite_has_been_added">Επιτυχής προσθήκη στη λίστα αναπαραγωγής</string>
     <string name="toast_follow_success">Επιτυχής ακολούθηση</string>
-    <string name="toast_hungama_vip_song">Αυτό το τραγούδι είναι διαθέσιμο μόνο σε μέλη PRO. Αποκτήστε μια συνδρομή για να κατεβάσετε αυτό το τραγούδι.</string>
-    <string name="toast_is_pro">Είστε ήδη μέλος PRO.</string>
+    <string name="toast_hungama_vip_song">Αυτό το τραγούδι είναι διαθέσιμο μόνο σε μέλη Gold. Αποκτήστε μια συνδρομή για να κατεβάσετε αυτό το τραγούδι.</string>
+    <string name="toast_is_pro">Είστε ήδη μέλος Gold</string>
     <string name="toast_my_playlist_illegal_name">Ο τίτλος αυτής της λίστας αναπαραγωγής δεν είναι έγκυρος. Μετονομάστε τη λίστα αναπαραγωγής.</string>
     <string name="toast_my_playlist_set_to_private">Αυτή η λίστα αναπαραγωγής τώρα είναι ιδιωτική. Δεν μπορούν να τη δούνε άλλα άτομα.</string>
     <string name="toast_my_playlist_set_to_public">Αυτή η λίστα αναπαραγωγής τώρα είναι δημόσια. Μπορούν να τη δούνε άλλα άτομα.</string>
@@ -1461,7 +1480,7 @@ ID:%s
     <string name="toast_new_playlist_name_too_long">Το όνομα της λίστας αναπαραγωγής είναι πολύ μεγάλο</string>
     <string name="toast_normal_songs_for_download">Η ποιότητα λήψης ορίστηκε σε Κανονική</string>
     <string name="toast_normal_songs_for_stream">Η ποιότητα αναπαραγωγής ορίστηκε σε Κανονική</string>
-    <string name="toast_not_pro">Αυτή η δυνατότητα είναι διαθέσιμη μόνο στα μέλη PRO.</string>
+    <string name="toast_not_pro">Αυτή η δυνατότητα είναι διαθέσιμη μόνο στα μέλη Gold</string>
     <string name="toast_playlist_has_been_added">Επιτυχής προσθήκη στην ουρά</string>
     <string name="toast_playlist_has_been_private">Αυτή η λίστα αναπαραγωγής είναι ιδιωτική</string>
     <string name="toast_playlist_has_been_public">Αυτή η λίστα αναπαραγωγής είναι δημόσια</string>
@@ -1497,8 +1516,8 @@ ID:%s
     <string name="upload_favorite_setting_title">Συγχρονισμός τραγουδιών</string>
     <string name="upload_playlist_to_hungama_negative_text">Να μην γίνει συγχρονισμός</string>
     <string name="upload_playlist_to_hungama_positive_text">Συγχρονισμός</string>
-    <string name="upload_playlist_to_hungama_title">Συγχρονίστε διαδικτυακά τραγούδια στο Hungama για να έχετε πρόσβαση σε αυτά σε άλλες συσκευές όπου χρησιμοποιείτε τον Λογαριασμό Xiaomi σας.</string>
-    <string name="upload_playlist_to_hungama_toast">Τα διαδικτυακά τραγούδια θα συγχρονιστούν με το Hungama</string>
+    <string name="upload_playlist_to_hungama_title">Συγχρονίστε διαδικτυακά τραγούδια στο hungama για να έχετε πρόσβαση σε αυτά σε άλλες συσκευές όπου χρησιμοποιείτε τον Λογαριασμό Xiaomi σας.</string>
+    <string name="upload_playlist_to_hungama_toast">Τα διαδικτυακά τραγούδια θα συγχρονιστούν με το hungama</string>
     <string name="user_agreement">Συμφωνία Χρήστη</string>
     <string name="user_agreement_hint_3rd_app">&lt;Data>Έχω διαβάσει και αποδεχτεί τη &lt;a href=%1$s>Συμφωνία Χρήστη&lt;/a> και &lt;a href=%2$s>Πολιτική Απορρήτου&lt;/a> και τη &lt;a href=%3$s>Συμφωνία Χρήστη&lt;/a> και &lt;a href=%4$s>Πολιτική Απορρήτου&lt;/a> του Mi Λογαριασμού.&lt;/Data></string>
     <string name="user_agreement_hint_3rd_app_mobile">&lt;Data>Έχω διαβάσει και αποδεχτεί τη &lt;a href=%1$s>Συμφωνία Χρήστη&lt;/a> και την &lt;a href=%2$s>Πολιτική Απορρήτου&lt;/a>, τη &lt;a href=%3$s>Συμφωνία Χρήστη&lt;/a> και την &lt;a href=%4$s>Πολιτική Απορρήτου&lt;/a> Mi Λογαριασμού, καθώς και τους &lt;a href=%5$s>Όρους και Προϋποθέσεις των υπηρεσιών επαλήθευσης της China Mobile&lt;/a>.&lt;/Data></string>
@@ -1509,6 +1528,7 @@ ID:%s
     <string name="user_agreement_hint_with_mobile">&lt;Data>Έχω διαβάσει και αποδεχτεί τη &lt;a href=%1$s>Συμφωνία Χρήστη&lt;/a> και την &lt;a href=%2$s>Πολιτική Απορρήτου&lt;/a> Mi Λογαριασμού, καθώς και τους &lt;a href=%3$s>Όρους και Προϋποθέσεις των υπηρεσιών επαλήθευσης της China Mobile&lt;/a>.&lt;/Data></string>
     <string name="user_agreement_hint_with_telecom">&lt;Data>Έχω διαβάσει και αποδεχτεί τη &lt;a href=%1$s>Συμφωνία Χρήστη&lt;/a> και την &lt;a href=%2$s>Πολιτική Απορρήτου&lt;/a> Mi Λογαριασμού, καθώς και τους &lt;a href=%3$s>Όρους και Προϋποθέσεις των υπηρεσιών επαλήθευσης της eSurfing account&lt;/a>.&lt;/Data></string>
     <string name="user_agreement_hint_with_unicom">&lt;Data>Έχω διαβάσει και αποδεχτεί τη &lt;a href=%1$s>Συμφωνία Χρήστη&lt;/a> και την &lt;a href=%2$s>Πολιτική Απορρήτου&lt;/a> Mi Λογαριασμού, καθώς και τους &lt;a href=%3$s>Όρους και Προϋποθέσεις των υπηρεσιών επαλήθευσης της China Unicom&lt;/a>.&lt;/Data></string>
+    <string name="user_agreement_url">http://www.miui.com/res/doc/eula.html?lang=el_GR</string>
     <string name="user_avatar_update_title">Αλλαγή φωτογραφίας προφίλ</string>
     <string name="user_avatar_uploading">Μια στιγμή…</string>
     <string name="user_experience_program_open">Λόγω περιορισμών πνευματικών δικαιωμάτων, πρέπει να εγγραφείτε στο Πρόγραμμα Εμπειρίας Χρήστη για να μπορείτε να αναπαράγετε τραγούδια που έχετε κατεβάσει. Μπορείτε να το κάνετε αυτό στις Ρυθμίσεις > Κωδικοί πρόσβασης &amp; ασφάλεια > Απόρρητο > Εγγραφείτε στο Πρόγραμμα Εμπειρίας Χρήστη.</string>
@@ -1530,7 +1550,7 @@ ID:%s
     <string name="video_retry_btn">Προσπαθήστε ξανά</string>
     <string name="view_album">Προβολή άλμπουμ</string>
     <string name="vip_required">Αποκτήστε Premium Πακέτο Τραγουδιών για την αναπαραγωγή του τραγουδιού. Έχει γίνει παράλειψη του τραγουδιού προσωρινά.</string>
-    <string name="vip_required_with_song">%s διαθέσιμο σε μέλη PRO μόνο. Προσωρινή παράλειψη τραγουδιού.</string>
+    <string name="vip_required_with_song">%s διαθέσιμο σε μέλη Gold μόνο. Προσωρινή παράλειψη τραγουδιού.</string>
     <string name="voice_search_first_hint">Δοκιμάστε φωνητική αναζήτηση!</string>
     <string name="watch_video">Παρακολούθηση βίντεο</string>
     <string name="wednesday">Τετάρτη</string>
@@ -1546,5 +1566,16 @@ ID:%s
     <string name="yesterday">Χθες</string>
     <string name="you_can_switch_mode_in_settings">Μπορείτε να κάνετε εναλλαγή λειτουργιών στις Ρυθμίσεις</string>
     <string name="you_may_like">Επίσης, μπορεί να σας αρέσει</string>
+    <string name="youtube_download_canl">Ακύρωση</string>
+    <string name="youtube_download_fail_net">Δεν ήταν δυνατή η σύνδεση στο δίκτυο. Ελέγξτε τις ρυθμίσεις του δικτύου σας και προσπαθήστε ξανά.</string>
+    <string name="youtube_download_fail_source">Παρουσιάστηκε σφάλμα. Περιμένετε ένα με δύο λεπτά και προσπαθήστε ξανά.</string>
+    <string name="youtube_download_fail_space">Αδυναμία λήψης. Ανεπαρκής αποθηκευτικός χώρος.</string>
+    <string name="youtube_download_fail_unknown">Παρουσιάστηκε σφάλμα. Περιμένετε ένα με δύο λεπτά και προσπαθήστε ξανά.</string>
+    <string name="youtube_download_hint">Ο ήχος από αυτό το βίντεο θα αποθηκευτεί στη συσκευή σας σε μορφή MP3 με τον τίτλο του βίντεο ως όνομα αρχείου. Λήψη τώρα;</string>
+    <string name="youtube_download_ing">Μια στιγμή…</string>
+    <string name="youtube_download_start">Λήψη</string>
+    <string name="youtube_download_suc">Επιτυχία λήψης</string>
     <string name="youtube_play_history">Ιστορικό αναπαραγωγής</string>
+    <string name="youtube_share_guide_tip">Τώρα μπορείτε να μοιράζεστε βίντεο με φίλους</string>
+    <string name="youtube_tab_explore">Εξερεύνηση</string>
 </resources>

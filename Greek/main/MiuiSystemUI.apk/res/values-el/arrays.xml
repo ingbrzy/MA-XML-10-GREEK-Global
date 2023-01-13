@@ -72,6 +72,7 @@
         <item>Το πολύ 3 διαδικασίες</item>
         <item>Το πολύ 4 διεργασίες</item>
     </string-array>
+    <array name="avatar_image_descriptions" />
     <string-array name="battery_labels">
         <item>0%</item>
         <item>50%</item>
@@ -137,6 +138,8 @@
         <item>Ήχος Qualcomm® aptX™</item>
         <item>Ήχος Qualcomm® aptX™ HD</item>
         <item>LDAC</item>
+        <item>Ήχος Qualcomm® aptX™ Adaptive</item>
+        <item>Ήχος Qualcomm® aptX™ TWS+</item>
     </string-array>
     <string-array name="bluetooth_a2dp_codec_titles">
         <item>Χρήση επιλογής συστήματος (Προεπιλογή)</item>
@@ -145,6 +148,8 @@
         <item>Ήχος Qualcomm® aptX™</item>
         <item>Ήχος Qualcomm® aptX™ HD</item>
         <item>LDAC</item>
+        <item>Ήχος Qualcomm® aptX™ Adaptive</item>
+        <item>Ήχος Qualcomm® aptX™ TWS+</item>
     </string-array>
     <string-array name="bluetooth_audio_active_device_summaries">
         <item></item>
@@ -319,6 +324,11 @@
         <item>Ανενεργό</item>
         <item>Ενεργό</item>
     </string-array>
+    <string-array name="tile_states_color_correction">
+        <item>Μη διαθέσιμη</item>
+        <item>Ανενεργή</item>
+        <item>Ενεργή</item>
+    </string-array>
     <string-array name="tile_states_controls">
         <item>Μη διαθέσιμο</item>
         <item>Ανενεργό</item>
@@ -368,6 +378,16 @@
         <item>Μη διαθέσιμο</item>
         <item>Ανενεργό</item>
         <item>Ενεργό</item>
+    </string-array>
+    <string-array name="tile_states_onehanded">
+        <item>Μη διαθέσιμη</item>
+        <item>Ανενεργή</item>
+        <item>Ενεργή</item>
+    </string-array>
+    <string-array name="tile_states_qr_code_scanner">
+        <item>Μη διαθέσιμη</item>
+        <item>Ανενεργή</item>
+        <item>Ενεργή</item>
     </string-array>
     <string-array name="tile_states_reduce_brightness">
         <item>Μη διαθέσιμο</item>
@@ -433,6 +453,12 @@
         <item>Ταχεία</item>
         <item>Εξαιρετικά ταχεία</item>
         <item>Ταχύτατη</item>
+    </string-array>
+    <string-array name="udfps_accessibility_touch_hints">
+        <item>Μετακίνηση αριστερά</item>
+        <item>Μετακίνηση κάτω</item>
+        <item>Μετακίνηση δεξιά</item>
+        <item>Μετακίνηση επάνω</item>
     </string-array>
     <string-array name="usb_configuration_titles">
         <item>Φόρτιση σε εξέλιξη</item>

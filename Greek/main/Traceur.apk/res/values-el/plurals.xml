@@ -4,12 +4,4 @@
         <item quantity="other">%d νέες ειδοποιήσεις</item>
         <item quantity="one">%d νέα ειδοποίηση</item>
     </plurals>
-    <plurals name="num_categories_selected">
-        <item quantity="other">%d επιλέχτηκαν</item>
-        <item quantity="one">%d επιλέχτηκε</item>
-    </plurals>
-    <plurals name="wifi_tether_connected_summary">
-        <item quantity="other">%1$d συσκευές συνδέθηκαν</item>
-        <item quantity="one">%1$d συσκευή συνδέθηκε</item>
-    </plurals>
 </resources>

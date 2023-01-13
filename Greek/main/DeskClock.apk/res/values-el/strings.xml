@@ -44,6 +44,8 @@
     <string name="agree">Αποδοχή</string>
     <string name="alarm_alert_alert_silenced">Το ξυπνητήρι σίγασε μετά από %1$s.</string>
     <string name="alarm_alert_disabled">Απενεργοποιημένο</string>
+    <string name="alarm_alert_now">Ξυπνητήρι %s</string>
+    <string name="alarm_alert_snooze_button">Αναβολή</string>
     <string name="alarm_ascending_mode_summary">Σταδιακή αύξηση έντασης ξυπνητηριού</string>
     <string name="alarm_ascending_mode_title">Αυξανόμενη ένταση</string>
     <string name="alarm_clock_more_setting">Πρόσθετες ρυθμίσεις</string>
@@ -117,6 +119,7 @@
     <string name="cities_show_limit_desc">Δεν είναι δυνατή η εμφάνιση περισσότερων ρολογιών</string>
     <string name="city_time_contrast_desc">Πατήστε για σύγκριση ώρας σε διαφορετικές πόλεις</string>
     <string name="clearable_edittext_clear_description">Εκκαθάριση</string>
+    <string name="click_to_cancel_alarm">Πατήστε για απενεργοποίηση</string>
     <string name="clock_bg_button_setting_summary_common">Επιλέξτε χρώμα παρασκηνίου για την εφαρμογή Ρολόι</string>
     <string name="clock_bg_button_setting_summary_follow_sys">Θα χρησιμοποιείται το μαύρο ως χρώμα παρασκηνίου κάθε φορά που κάνετε εναλλαγή σε Σκοτεινή λειτουργία</string>
     <string name="clock_bg_button_setting_title">Χρώμα παρασκηνίου</string>
@@ -236,6 +239,8 @@
     <string name="fmt_weekday_time">W T</string>
     <string name="fmt_weekday_time_timezone">W T z</string>
     <string name="fmt_weekday_timezone">W z</string>
+    <string name="force_start_permission_desc">Επιτρέψτε στους συναγερμούς να λειτουργούν κανονικά ακόμα και όταν έχετε κλείσει την εφαρμογή</string>
+    <string name="force_start_permission_title">Αυτόματη εκκίνηση</string>
     <string name="force_touch_add_alarm">Προσθήκη ξυπνητηριού</string>
     <string name="force_touch_enter_stopwatch">Χρονόμετρο</string>
     <string name="force_touch_enter_timer">Αντίστροφη μέτρηση</string>
@@ -302,6 +307,22 @@
     <string name="menu_item_sort_by_gmt_offset">Ταξινόμηση κατά ώρα</string>
     <string name="menu_item_sort_by_name">Ταξινόμηση κατά όνομα</string>
     <string name="midnight">Νύχτα</string>
+    <string name="miui_clock_city_name_local">Τοπικά</string>
+    <string name="miui_clock_city_name_second">Δεύτερο ρολόι</string>
+    <string name="miui_lock_screen_date">EEE, dd MMM</string>
+    <string name="miui_lock_screen_date_12">EEE, dd MMM</string>
+    <string name="miui_lock_screen_date_two_lines">"dd MMM
+EEE"</string>
+    <string name="miui_lock_screen_date_two_lines_12">"dd MMM
+EEE"</string>
+    <string name="miui_lock_screen_large_date">"EEE
+d/M"</string>
+    <string name="miui_lock_screen_large_date_12">"EEE
+d/M"</string>
+    <string name="miui_vertical_time_format_12">"hh
+mm"</string>
+    <string name="miui_vertical_time_format_24">"HH
+mm"</string>
     <string name="miuix_access_state_desc">Έγινε επιλογή</string>
     <string name="miuix_appcompat_action_mode_deselect_all">Αποεπιλογή</string>
     <string name="miuix_appcompat_action_mode_select_all">Επιλογή όλων</string>
@@ -504,6 +525,7 @@
     <string name="shutdown_alarm_enable_summary">Το ξυπνητήρι θα ηχήσει εάν είναι ρυθμισμένο για τουλάχιστον 10 λεπτά μετά την απενεργοποίηση της συσκευής σας</string>
     <string name="shutdown_alarm_title">Απενεργοποίηση ξυπνητηριού</string>
     <string name="silent_alarm_summary">Αθόρυβο</string>
+    <string name="skip_alarm_date_format">%1$s (%2$s)</string>
     <string name="skip_alarm_once_hint">Απενεργοποίηση μία φορά σε %s</string>
     <string name="sleep_analysis">Στατιστικά</string>
     <string name="sleep_analysis_chart_date_format">dd/MM</string>
@@ -549,6 +571,7 @@
     <string name="status_bar_clock_date_time_format">H:mm:ss</string>
     <string name="status_bar_clock_date_time_format_12">h:mm:ss aa</string>
     <string name="status_bar_clock_date_time_format_seconds_12">h:mm:ss</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
     <string name="stopwatch_lap_empty_text">Δεν υπάρχουν γύροι</string>
     <string name="stopwatch_reset_notification">Έγινε επαναφορά του χρονοδιακόπτη</string>
     <string name="stopwatch_running_notification">Χρονόμετρο</string>
@@ -557,6 +580,7 @@
     <string name="sunday">Κυριακή</string>
     <string name="sunday_short">Κυρ</string>
     <string name="sunday_shortest">Κυρ</string>
+    <string name="symbol_colon">:</string>
     <string name="system_permission_agree_desc">Να επιτρέπεται αυτή η εφαρμογή να συνδεθεί στο ίντερνετ για πρόσβαση σε όλες τις λειτουργίες της.</string>
     <string name="system_permission_main_purpose">Προβολή χρόνου, ρύθμιση ξυπνητηριών και χρονοδιακοπτών, χρήση χρονομέτρου</string>
     <string name="system_permission_purpose">Δημιουργία ξυπνητηριών για εργάσιμες ημέρες και ρύθμιση προσαρμοσμένων κουδουνισμάτων</string>

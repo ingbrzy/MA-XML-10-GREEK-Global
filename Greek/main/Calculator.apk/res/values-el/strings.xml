@@ -46,10 +46,10 @@
     <string name="bmi_label_information">Πληροφορίες</string>
     <string name="bmi_label_normal">Κανονικό</string>
     <string name="bmi_label_overweight">Υπέρβαρος/η</string>
-    <string name="bmi_label_underweight">Λιποβαρής/ή</string>
+    <string name="bmi_label_underweight">Λιποβαρής</string>
     <string name="bmi_normal">Κανονικός/ή</string>
     <string name="bmi_over_weight">Υπέρβαρος/η</string>
-    <string name="bmi_underweight">Λιποβαρής/ή</string>
+    <string name="bmi_underweight">Λιποβαρής</string>
     <string name="btn_float_window_alpha">Ρύθμιση αδιαφάνειας</string>
     <string name="btn_float_window_back_to_app">Μεγιστοποίηση Αριθμομηχανής</string>
     <string name="btn_float_window_close">Κλείσιμο ελαχιστοποιημένης Αριθμομηχανής</string>
@@ -337,7 +337,7 @@
     <string name="loan_type_title">Τυπικό βασικό επιτόκιο</string>
     <string name="loan_unit">(×10K)</string>
     <string name="localised_number">%d</string>
-    <string name="lpr_ok">Κατάλαβα</string>
+    <string name="lpr_ok">Κατανοητό</string>
     <string name="lpr_tips_msg">"Από 8 Οκτωβρίου 2019, το επιτόκιο για προσωπικά εμπορικά στεγαστικά δάνεια θα υπολογίζεται σύμφωνα με το βασικό επιτόκιο δανεισμού (ΒΕΔ), αντί του προηγούμενου εφαρμοστέου επιτοκίου αναφοράς 4,9%. Τώρα, το τελικό επιτόκιο θα επιβεβαιωθεί με προσθήκη βασικού σημείου ΒΕΔ.
 
 Τα βασικά επιτόκια δανεισμού για ένα και για πέντε έτη θα ανακοινώνονται την 20η ημέρα του κάθε μήνα (ενδέχεται να προκύψουν καθυστερήσεις λόγω εθνικών εορτών) στην ιστοσελίδα της Λαϊκής Τράπεζας τηε Κίνας."</string>
@@ -696,6 +696,7 @@
     <string name="unit_data_display_currency_btn">Νγκούλτρουμ του Μπουτάν</string>
     <string name="unit_data_display_currency_bwp">Πούλα της Μποτσουάνα</string>
     <string name="unit_data_display_currency_byn">Ρούβλι Λευκορωσίας</string>
+    <string name="unit_data_display_currency_byr">@string/unit_data_display_currency_byn</string>
     <string name="unit_data_display_currency_cad">Καναδικό Δολάριο</string>
     <string name="unit_data_display_currency_cdf">Φράγκο του Κονγκό</string>
     <string name="unit_data_display_currency_chf">Ελβετικό Φράγκο</string>
@@ -1038,12 +1039,15 @@
     <string name="word_figure_unit_shi">拾</string>
     <string name="word_figure_yuan">元</string>
     <string name="word_figure_zheng">整</string>
+    <string name="xiaomi_bytes_unit">%1$sB</string>
     <string name="xiaomi_calculator_delete_description">Η Αριθμομηχανή είναι μια εφαρμογή συστήματος. Δεν θα μπορείτε να χρησιμοποιήσετε πολλούς μετατροπείς και πρόσθετες λειτουργίες μετά την απεγκατάσταση της εφαρμογής.</string>
     <string name="xiaomi_calculator_delete_title">Απεγκατάσταση Αριθμομηχανής;</string>
     <string name="xiaomi_calculator_remove_icon_description">Η Αριθμομηχανή είναι μια εφαρμογή συστήματος. Δεν θα μπορείτε να χρησιμοποιήσετε πολλούς μετατροπείς και πρόσθετες λειτουργίες μετά την αφαίρεση της Συντόμευσης αρχικής οθόνης.</string>
     <string name="xiaomi_calculator_remove_icon_title">Αφαίρεση \"Αριθμομηχανής\" από την Αρχική οθόνη;</string>
     <string name="xiaomi_connect_download_manager_fail">Δεν ήταν δυνατή η σύνδεση με τις Λήψεις. Ελέγξτε αν αυτή η εφαρμογή διαθέτει όλα τα απαιτούμενα δικαιώματα στις Ρυθμίσεις > Εγκατεστημένες εφαρμογές.</string>
     <string name="xiaomi_external_storage_unavailable">Μη διαθέσιμος χώρος αποθήκευσης. Ελέγξτε την κάρτα SD σας.</string>
+    <string name="xiaomi_kilobytes_unit">%1$sKB</string>
+    <string name="xiaomi_megabytes_unit">%1$sMB</string>
     <string name="xiaomi_update_dialog_message">"Εισαγωγή έκδοσης %1$s
 Μέγεθος: %2$s"</string>
     <string name="xiaomi_update_dialog_message_diff">"Εισαγωγή έκδοσης %1$s

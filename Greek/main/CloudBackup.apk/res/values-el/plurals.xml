@@ -36,6 +36,10 @@
         <item quantity="other">%d λεπτά πριν</item>
         <item quantity="one">1 λεπτό πριν</item>
     </plurals>
+    <plurals name="backup_action_long_time_not_backup_content">
+        <item quantity="other">Φαίνεται ότι δεν έχετε δημιουργήσει αντίγραφα ασφαλείας στοιχείων για %s εβδομάδες. Δημιουργήστε αντίγραφα ασφαλείας για να μην χάσετε οτιδήποτε σημαντικό.</item>
+        <item quantity="one">Φαίνεται ότι δεν έχετε δημιουργήσει αντίγραφα ασφαλείας στοιχείων για %s εβδομάδα. Δημιουργήστε αντίγραφα ασφαλείας για να μην χάσετε οτιδήποτε σημαντικό.</item>
+    </plurals>
     <plurals name="cloud_backup_detail_manage_summary">
         <item quantity="other">%1$s αντίγραφα ασφαλείας (%2$s)</item>
         <item quantity="one">%1$s αντίγραφο ασφαλείας (%2$s)</item>
@@ -72,16 +76,16 @@
         <item quantity="other">%d λεπτά πριν</item>
         <item quantity="one">1 λεπτό πριν</item>
     </plurals>
-    <plurals name="restore_app_order_installed">
-        <item quantity="other">%d εφαρμογές σε αυτή τη συσκευή</item>
-        <item quantity="one">%d εφαρμογή σε αυτή τη συσκευή</item>
+    <plurals name="session_starting_app_count_backup_text">
+        <item quantity="other">Δημιουργία αντιγράφων ασφαλείας %d εφαρμογών</item>
+        <item quantity="one">Δημιουργία αντιγράφων ασφαλείας %d εφαρμογής</item>
     </plurals>
-    <plurals name="restore_app_order_normal">
-        <item quantity="other">Κανονική προτεραιότητα: %d εφαρμογές</item>
-        <item quantity="one">Κανονική προτεραιότητα: %d εφαρμογή</item>
+    <plurals name="session_starting_app_count_restore_text">
+        <item quantity="other">Έγινε επαναφορά %d εφαρμογών</item>
+        <item quantity="one">Έγινε επαναφορά %d εφαρμογής</item>
     </plurals>
-    <plurals name="restore_app_order_prior">
-        <item quantity="other">Υψηλή προτεραιότητα: %d εφαρμογές</item>
-        <item quantity="one">Υψηλή προτεραιότητα: %d εφαρμογή</item>
+    <plurals name="session_time_remain">
+        <item quantity="other">Απομένουν περίπου %s λεπ</item>
+        <item quantity="one">Απομένει περίπου %s λεπ</item>
     </plurals>
 </resources>

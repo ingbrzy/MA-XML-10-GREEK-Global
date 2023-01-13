@@ -41,12 +41,12 @@
         <item quantity="one">%d ημ. πριν</item>
     </plurals>
     <plurals name="abc_slice_duration_min">
-        <item quantity="other">%d λεπ. πριν</item>
-        <item quantity="one">%d λεπ. πριν</item>
+        <item quantity="other">%d λ. πριν</item>
+        <item quantity="one">%d λ. πριν</item>
     </plurals>
     <plurals name="abc_slice_duration_years">
-        <item quantity="other">%d χρ. πριν</item>
-        <item quantity="one">%d χρ. πριν</item>
+        <item quantity="other">%d έτη πριν</item>
+        <item quantity="one">%d έτος πριν</item>
     </plurals>
     <plurals name="accessibility_usage_summary">
         <item quantity="other">%1$d εφαρμογές έχουν πλήρη πρόσβαση στη συσκευή σας</item>
@@ -143,6 +143,10 @@
     <plurals name="bt_usable_device_title">
         <item quantity="other">%d διαθέσιμες συσκευές</item>
         <item quantity="one">%d διαθέσιμη συσκευή</item>
+    </plurals>
+    <plurals name="clean_time">
+        <item quantity="other">%d δευτερόλεπτα</item>
+        <item quantity="one">%d δευτερόλεπτο</item>
     </plurals>
     <plurals name="color_game_led_freq_entries">
         <item quantity="other">Κάθε %d δευτερόλεπτα</item>
@@ -312,6 +316,10 @@
         <item quantity="other">%d ενεργοί παράγοντες εμπιστοσύνης</item>
         <item quantity="one">1 ενεργός παράγοντας εμπιστοσύνης</item>
     </plurals>
+    <plurals name="max_number_of_processes">
+        <item quantity="other">%d διαδικασίες το πολύ</item>
+        <item quantity="one">%d διαδικασία το πολύ</item>
+    </plurals>
     <plurals name="memory_usage_apps_summary">
         <item quantity="other">%1$d εφαρμογές χρησιμοποίησαν την μνήμη τις τελευταίες %2$s</item>
         <item quantity="one">1 εφαρμογή χρησιμοποίησε τη μνήμη τις τελευταίες %2$s</item>
@@ -468,22 +476,6 @@
         <item quantity="other">Κατάργηση ή ορισμός των πιστοποιητικών ως αξιόπιστων</item>
         <item quantity="one">Κατάργηση ή ορισμός του πιστοποιητικού ως αξιόπιστου</item>
     </plurals>
-    <plurals name="ssl_ca_cert_info_message">
-        <item quantity="other">"Ο τομέας %s εγκατέστησε μια αρχή έκδοσης πιστοποιητικού για το προφίλ εργασίας σας, η οποία μπορεί να του επιτρέψει να παρακολουθεί τη δραστηριότητα του δικτύου εργασίας σας, συμπεριλαμβανομένων των μηνυμάτων ηλεκτρονικού ταχυδρομείου, των εφαρμογών και των ασφαλών ιστοτόπων.
-
-Για περισσότερες πληροφορίες σχετικά με αυτό το πιστοποιητικό, επικοινωνήστε με τον διαχειριστή σας."</item>
-        <item quantity="one">"Ο τομέας %s εγκατέστησε μια αρχή έκδοσης πιστοποιητικού για το προφίλ εργασίας σας, η οποία μπορεί να του επιτρέψει να παρακολουθεί τη δραστηριότητα του δικτύου εργασίας σας, συμπεριλαμβανομένων των μηνυμάτων ηλεκτρονικού ταχυδρομείου, των εφαρμογών και των ασφαλών ιστοτόπων.
-
-Για περισσότερες πληροφορίες σχετικά με αυτό το πιστοποιητικό, επικοινωνήστε με τον διαχειριστή σας."</item>
-    </plurals>
-    <plurals name="ssl_ca_cert_info_message_device_owner">
-        <item quantity="other">"Ο τομέας %s εγκατέστησε μια αρχή έκδοσης πιστοποιητικού στη συσκευή σας, η οποία μπορεί να του επιτρέπει να παρακολουθεί τη δραστηριότητα δικτύου της συσκευής σας, συμπεριλαμβανομένων των μηνυμάτων ηλεκτρονικού ταχυδρομείου, των εφαρμογών και των ασφαλών ιστοτόπων.
-
-Για περισσότερες πληροφορίες σχετικά με αυτό το πιστοποιητικό, επικοινωνήστε με τον διαχειριστή σας."</item>
-        <item quantity="one">"Ο τομέας %s εγκατέστησε μια αρχή έκδοσης πιστοποιητικού στη συσκευή σας, η οποία μπορεί να του επιτρέπει να παρακολουθεί τη δραστηριότητα δικτύου της συσκευής σας, συμπεριλαμβανομένων των μηνυμάτων ηλεκτρονικού ταχυδρομείου, των εφαρμογών και των ασφαλών ιστοτόπων.
-
-Για περισσότερες πληροφορίες σχετικά με αυτό το πιστοποιητικό, επικοινωνήστε με τον διαχειριστή σας."</item>
-    </plurals>
     <plurals name="ssl_ca_cert_settings_button">
         <item quantity="other">Έλεγχος πιστοποιητικών</item>
         <item quantity="one">Έλεγχος πιστοποιητικού</item>
@@ -495,6 +487,26 @@
     <plurals name="status_bar_settings_enabled_header_title">
         <item quantity="other">%d εφαρμογές έχουν δυνατότητα προβολής ειδοποιήσεων</item>
         <item quantity="one">%d εφαρμογή έχει δυνατότητα προβολής ειδοποιήσεων</item>
+    </plurals>
+    <plurals name="string_after_int_minute">
+        <item quantity="other">Μετά από %d λεπτά</item>
+        <item quantity="one">Μετά από %d λεπτό</item>
+    </plurals>
+    <plurals name="string_bits_per_sample">
+        <item quantity="other">%d bits/δείγμα</item>
+        <item quantity="one">%d bit/δείγμα</item>
+    </plurals>
+    <plurals name="string_int_hour">
+        <item quantity="other">%d ώρες</item>
+        <item quantity="one">%d ώρα</item>
+    </plurals>
+    <plurals name="string_int_minute">
+        <item quantity="other">%d λεπτά</item>
+        <item quantity="one">%d λεπτό</item>
+    </plurals>
+    <plurals name="string_int_second">
+        <item quantity="other">%d δευτερόλεπτα</item>
+        <item quantity="one">%d δευτερόλεπτο</item>
     </plurals>
     <plurals name="suggestions_collapsed_summary">
         <item quantity="other">+%1$d προτάσεις</item>

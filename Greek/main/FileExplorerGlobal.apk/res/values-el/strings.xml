@@ -4,8 +4,8 @@
     <string name="abc_action_bar_up_description">Πλοήγηση προς τα επάνω</string>
     <string name="abc_action_menu_overflow_description">Περισσότερες επιλογές</string>
     <string name="abc_action_mode_done">Τέλος</string>
-    <string name="abc_activity_chooser_view_see_all">Προβολή όλων</string>
-    <string name="abc_activitychooserview_choose_application">Επιλέξτε κάποια εφαρμογή</string>
+    <string name="abc_activity_chooser_view_see_all">Εμφάνιση όλων</string>
+    <string name="abc_activitychooserview_choose_application">Επιλέξτε μια εφαρμογή</string>
     <string name="abc_capital_off">ΑΠΕΝΕΡΓΟΠΟΙΗΣΗ</string>
     <string name="abc_capital_on">ΕΝΕΡΓΟΠΟΙΗΣΗ</string>
     <string name="abc_menu_alt_shortcut_label">Alt+</string>
@@ -24,8 +24,8 @@
     <string name="abc_searchview_description_search">Αναζήτηση</string>
     <string name="abc_searchview_description_submit">Υποβολή ερωτήματος</string>
     <string name="abc_searchview_description_voice">Φωνητική αναζήτηση</string>
-    <string name="abc_shareactionprovider_share_with">Κοινή χρήση με</string>
-    <string name="abc_shareactionprovider_share_with_application">Κοινή χρήση με %s</string>
+    <string name="abc_shareactionprovider_share_with">Κοινοποίηση σε</string>
+    <string name="abc_shareactionprovider_share_with_application">Κοινοποίηση στην εφαρμογή %s</string>
     <string name="abc_toolbar_collapse_description">Σύμπτυξη</string>
     <string name="accept">Αποδοχή</string>
     <string name="account_type">Προστατεύεται με κωδικό πρόσβασης</string>
@@ -83,7 +83,7 @@
     <string name="category_file">Αρχεία</string>
     <string name="category_folder">Φάκελοι</string>
     <string name="category_installed_app">Εγκατεστημένες εφαρμογές</string>
-    <string name="category_midrive">MiDrive</string>
+    <string name="category_midrive">Mi Drive</string>
     <string name="category_move_limit_notice">Μπορείτε να μετακινήσετε 3 με 7 στοιχεία στο πάνω μέρος της οθόνης</string>
     <string name="category_music">Μουσική</string>
     <string name="category_other">Άλλα</string>
@@ -131,9 +131,11 @@
     <string name="confirm_know">ΟΚ</string>
     <string name="connection_error">Αδυναμία σύνδεσης</string>
     <string name="connection_lost">Αποσυνδέθηκε</string>
+    <string name="copy">Αντιγραφή</string>
     <string name="copy_failed">Αδυναμία αντιγραφής</string>
     <string name="copy_to">Αντιγραφή σε…</string>
     <string name="copy_to_internal_storage_first">Αντιγραφή αντικειμένων στον εσωτερικό χώρο αποθήκευσης πρώτα.</string>
+    <string name="copy_toast_msg">Ο σύνδεσμος αντιγράφηκε στο πρόχειρο</string>
     <string name="dark_mode">Σκοτεινή λειτουργία</string>
     <string name="dark_mode_notice_message">Διαθέσιμο σκούρο θέμα τώρα!</string>
     <string name="decompress_cancel">Ακύρωση</string>
@@ -172,6 +174,7 @@
     <string name="display_name">Εμφάνιση ονόματος</string>
     <string name="domain">Τομέας</string>
     <string name="download_success">Επιτυχής λήψη</string>
+    <string name="drag_not_support_with_dir">Δεν είναι δυνατή η μεταφορά και αποστολή φακέλων</string>
     <string name="empty_by_forbid_access">Τα περιεχόμενα αυτού του φακέλου δεν μπορούν να εμφανιστούν εδώ λόγω περιορισμών του Android.</string>
     <string name="enable_documentsui">Ενεργοποίηση %s στις Ρυθμίσεις > Εγκατεστημένες εφαρμογές πρώτα</string>
     <string name="enable_sd_card">Η κάρτα SD είναι κατεστραμμένη ή αποσυνδεδεμένη</string>
@@ -194,12 +197,16 @@
     <string name="error_invalid_path">Εσφαλμένη διαδρομή</string>
     <string name="error_not_support">Δεν υποστηρίζεται</string>
     <string name="error_open_file_failed_no_app_found">Δεν βρέθηκε εφαρμογή για τη διαχείριση αυτής της ενέργειας.</string>
+    <string name="expand_button_title">Σύνθετες</string>
     <string name="explicit">Άμεση</string>
     <string name="extended_storage_file_can_not_open">Αδυναμία ανοίγματος αρχείου. Αντιγράψτε το αρχείο στον εσωτερικό χώρο αποθήκευσης.</string>
     <string name="extract">Αποσυμπίεση</string>
     <string name="fail_to_create_folder_unknown">Αδυναμία δημιουργίας φακέλου</string>
     <string name="failed_not_access_sd_card">Αποδοχή πρόσβασης στην κάρτα SD πρώτα</string>
     <string name="failed_obtain_permissions">Αδυναμία απόκτησης αδειών</string>
+    <string name="fallback_menu_item_copy_link">Αντιγραφή συνδέσμου</string>
+    <string name="fallback_menu_item_open_in_browser">Άνοιγμα σε πρόγραμμα περιήγησης</string>
+    <string name="fallback_menu_item_share_link">Κοινοποίηση συνδέσμου</string>
     <string name="favorite_notice_message">"Μπορείτε τώρα να προσθέσετε φακέλους στα αγαπημένα.
 Πατήστε παρατεταμένα πάνω σε ένα φάκελο και πατήστε στο \"Περισσότερα\" για προσθήκη."</string>
     <string name="favorite_photo">Φωτογραφίες</string>
@@ -218,7 +225,7 @@
     <string name="file_info_size">Μέγεθος:</string>
     <string name="file_loading">Περιμένετε μια στιγμή…</string>
     <string name="file_name_invalid">Τα ονόματα αρχείων δεν πρέπει να περιέχουν τους εξής χαρακτήρες: /\\:*?&lt;></string>
-    <string name="find_new_version">Μία ενημέρωση είναι διαθέσιμη: %1$s</string>
+    <string name="find_new_version">Υπάρχει διαθέσιμη ενημέρωση: %1$s</string>
     <string name="folder_name_empty">Το όνομα αρχείου δεν πρέπει να είναι κενό</string>
     <string name="folder_name_illegal">Μη έγκυρο όνομα φακέλου</string>
     <string name="found_usb">Έγινε σύνδεση του χώρου αποθήκευσης USB</string>
@@ -309,6 +316,7 @@
     <string name="not_connect">Αδυναμία σύνδεσης</string>
     <string name="not_connect_user">Αδυναμία σύνδεσης: %1$s και %2$s</string>
     <string name="not_installed_documentsui">Το DocumentsUI δεν έχει εγκατασταθεί</string>
+    <string name="not_set">Δεν έχει οριστεί</string>
     <string name="not_support_documentui">Το DocumentUI δεν υποστηρίζεται σε αυτή την συσκευή</string>
     <string name="not_very_dissatisfied">Δυσαρεστημένος/η</string>
     <string name="notif_server_starting">Γίνεται εκκίνηση του διακομιστή FTP…</string>
@@ -391,6 +399,7 @@
     <string name="port">Θύρα</string>
     <string name="port_range">Ο αριθμός θύρας πρέπει να είναι μεταξύ 1024–65535</string>
     <string name="possible_permissions">Προαιρετικές άδειες</string>
+    <string name="preference_copied">Το \"%1$s\" αντιγράφηκε στο πρόχειρο.</string>
     <string name="privacy_accept">Αποδοχή &amp; συνέχεια</string>
     <string name="privacy_cancel"><u>Δεν συμφωνώ</u></string>
     <string name="privacy_desc">Καλώς ορίσατε στη Διαχείριση αρχείων! Εκτός από τις βασικές δυνατότητες, αυτή η εφαρμογή παρέχει επίσης τις ακόλουθες υπηρεσίες:</string>
@@ -401,9 +410,9 @@
     <string name="privacy_title">Καλωσορίσατε στη Διαχείριση Αρχείων</string>
     <string name="private_files">Ιδιωτικό</string>
     <string name="private_folder">Ιδιωτικά αρχεία</string>
-    <string name="private_folder_no_file_hints">Πατήστε και κρατήστε ένα αρχείο ή φάκελο για να το κάνετε ιδιωτικό</string>
+    <string name="private_folder_no_file_hints">Πατήστε παρατεταμένα ένα αρχείο ή φάκελο για να το κάνετε ιδιωτικό</string>
     <string name="private_folder_update">Γίνεται ενημέρωση ιδιωτικών αρχείων…</string>
-    <string name="private_toast_hint2">Πατήστε και κρατήστε ένα αρχείο ή φάκελο για να το κάνετε ιδιωτικό.</string>
+    <string name="private_toast_hint2">Πατήστε παρατεταμένα ένα αρχείο ή φάκελο για να το κάνετε ιδιωτικό.</string>
     <string name="promot_enctypt_password">Εισαγάγετε κωδικό ξεκλειδώματος συσκευής</string>
     <string name="qr_code">QR κωδικός</string>
     <string name="recent_apk_status_install">Έγινε εγκατάσταση</string>
@@ -424,7 +433,7 @@
     <string name="revoke_confirm_dialog_content">Κλείνοντας τον διακόπτη, ανακαλείτε τη συγκατάθεσή σας για την Πολιτική Απορρήτου της Διαχείρισης Αρχείων. Θα σταματήσουμε να συλλέγουμε τις προσωπικές σας πληροφορίες. Οι προσωπικές πληροφορίες που έχουν συλλεχθεί και διατηρηθεί μέχρι στιγμής θα διαγραφούν μέσα στη συγκεκριμένη περίοδο, όπως απαιτείται από τους ισχύοντες νόμους. Η Διαχείριση Αρχείων πρέπει να συλλέξει απαραίτητες προσωπικές πληροφορίες για να βελτιώσει τις υπηρεσίες της. Η ανάκληση της συγκατάθεσής σας για την Πολιτική Απορρήτου της θα θεωρείται άρνηση της αποδοχής των βελτιωμένων υπηρεσιών της βάσει των συλλεγμένων προσωπικών δεδομένων.</string>
     <string name="revoke_desc">Κλείνοντας τον διακόπτη, ανακαλείτε τη συγκατάθεσή σας για την Πολιτική Απορρήτου της Διαχείρισης Αρχείων.</string>
     <string name="revoke_net_dialog_content">Η συσκευή πρέπει να συνδεθεί στο δίκτυο για να μπορείτε να ανακαλέσετε τη συγκατάθεσή σας. Ελέγξτε τις ρυθμίσεις του δικτύου σας και προσπαθήστε ξανά.</string>
-    <string name="revoke_net_dialog_ok">Κατάλαβα</string>
+    <string name="revoke_net_dialog_ok">Κατανοητό</string>
     <string name="revoke_net_dialog_title">Αδυναμία σύνδεσης στο δίκτυο</string>
     <string name="revoke_success">Επιτυχής ανάκληση εξουσιοδότησης</string>
     <string name="revoke_timer">(%1$dδ)</string>
@@ -499,6 +508,7 @@
     <string name="storage_usb">Χώρος αποθήκευσης USB</string>
     <string name="storage_warning">Αδυναμία χρήσης εξωτερικού χώρου αποθήκευσης</string>
     <string name="str_clean">Εκκαθάριση</string>
+    <string name="summary_collapsed_preference_list">%1$s, %2$s</string>
     <string name="switch_to_grid_mode">Εναλλαγή σε προβολή πλέγματος</string>
     <string name="switch_to_list_mode">Εναλλαγή σε προβολή λίστας</string>
     <string name="tab_common_app">Εφαρμογές &amp; φάκελοι</string>
@@ -506,7 +516,7 @@
     <string name="terabyteShort">TB</string>
     <string name="terms_conditions">Όροι και προϋποθέσεις</string>
     <string name="terms_conditions_desc">Διαβάστε προσεκτικά όλα τα παρακάτω στοιχεία και αποφασίστε αν θα τα δεχτείτε.</string>
-    <string name="time_to_upgrade">Μία ενημέρωση είναι διαθέσιμη</string>
+    <string name="time_to_upgrade">Υπάρχει διαθέσιμη ενημέρωση</string>
     <string name="tip">Προσοχή</string>
     <string name="tips_by_forbid_access">Τα περιεχόμενα αυτού του φακέλου δεν θα είναι πλέον προσβάσιμα λόγω περιορισμών συστήματος που έχουν εισαχθεί στο Android R. Καταργήστε τα προσωπικά σας αρχεία από αυτόν το φάκελο το συντομότερο δυνατό.</string>
     <string name="title_app_tags">Εφαρμογές</string>
@@ -534,6 +544,8 @@
     <string name="user_notice_privacy_policy">Πολιτική Απορρήτου</string>
     <string name="user_notice_term_of_service">Συμφωνία Χρήστη</string>
     <string name="utf8_summary">Προεπιλεγμένη κωδικοποίηση FTP συστήματος</string>
+    <string name="v7_preference_off">ΑΝΕΝΕΡΓΗ</string>
+    <string name="v7_preference_on">ΕΝΕΡΓΗ</string>
     <string name="version_name">Έκδοση</string>
     <string name="very_dissatisfied">Πολύ δυσαρεστημένος/η</string>
     <string name="view_by_document">Προβολή στα Αρχεία</string>

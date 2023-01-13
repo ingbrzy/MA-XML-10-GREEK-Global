@@ -58,6 +58,7 @@
     <string name="dual_app_title">Διπλότυπες εφαρμογές</string>
     <string name="dual_app_words">Κάθε λογαριασμός αξίζει τη δική του εφαρμογή</string>
     <string name="early_morning">Πρωί</string>
+    <string name="empty">" "</string>
     <string name="eras_ad">μ.Χ.</string>
     <string name="eras_bc">π.Χ.</string>
     <string name="evening">Απόγευμα</string>
@@ -148,14 +149,16 @@
     <string name="fmt_weekday_time">W T</string>
     <string name="fmt_weekday_time_timezone">W T z</string>
     <string name="fmt_weekday_timezone">W z</string>
-    <string name="free_send_net_booster">Δωρεάν ενίσχυση ταχύτητας Δικτύου</string>
-    <string name="free_send_net_booster_busniess">Αποκτήστε δωρεάν ενίσχυση ταχύτητας Xunlei</string>
-    <string name="free_send_net_booster_busniess_tip">Πατήστε για λήψη</string>
-    <string name="free_send_net_booster_tip">Απολαύστε ομαλή εμπειρία gaming με την δωρεάν ενίσχυση ταχύτητας δικτύου.</string>
+    <string name="free_send_net_booster">Δοκιμάστε το Τούρμπο παιχνιδιού δωρεάν</string>
+    <string name="free_send_net_booster_busniess">Δοκιμάστε το Τούρμπο παιχνιδιού δωρεάν</string>
+    <string name="free_send_net_booster_busniess_tip">Ενισχύστε την εμπειρία σας στο παιχνίδι και κερδίστε έναν χαρακτήρα παιχνιδιού. Αυτή η προσφορά είναι διαθέσιμη μόνο σήμερα!</string>
+    <string name="free_send_net_booster_tip">Ενισχύστε την εμπειρία παιχνιδιού σας και κερδίστε μια συσκευή Xiaomi!</string>
     <string name="friday">Παρασκευή</string>
     <string name="friday_short">Παρ</string>
     <string name="friday_shortest">Παρ</string>
     <string name="game_booster">Ενισχυτής ταχύτητας παιχνιδιού</string>
+    <string name="gamebooster_dialog_recover">Ανανέωση</string>
+    <string name="gamebooster_dialog_start_booster">Έναρξη</string>
     <string name="gamebooster_network_dialog_message">Να επιτρέπεται στην Ασφάλεια σύνδεση στο δίκτυο για να χρησιμοποιήσετε όλες τις λειτουργίες του Τούρμπο παιχνιδιού;</string>
     <string name="gamebooster_network_dialog_message_pad">Να επιτρέπεται στην Ασφάλεια σύνδεση στο δίκτυο για να χρησιμοποιήσετε όλες τις λειτουργίες του Τούρμπο παιχνιδιού;</string>
     <string name="gamebooster_network_dialog_title">Κάποιες λειτουργίες δεν είναι διαθέσιμες</string>
@@ -211,8 +214,8 @@
     <string name="gb_gpu_control_optimization_graph">Βελτιστοποίηση γραφικών</string>
     <string name="gb_gpu_control_resolution">Ανάλυση</string>
     <string name="gb_gpu_control_texture_filtering_quality">Ποιότητα φιλτραρίσματος υφής</string>
-    <string name="gb_gpu_dialog_button">Κατάλαβα</string>
-    <string name="gb_gpu_dialog_button_countdown">Κατάλαβα (%s)</string>
+    <string name="gb_gpu_dialog_button">Κατανοητό</string>
+    <string name="gb_gpu_dialog_button_countdown">Κατανοητό (%s)</string>
     <string name="gb_gpu_dialog_message">Οι τρέχουσες ρυθμίσεις GPU εφαρμόζονται στο \"%s\". Επανεκκινήστε το παιχνίδι για να εφαρμόσετε ρυθμίσεις.</string>
     <string name="gb_gpu_dialog_titile">Ρυθμίσεις GPU</string>
     <string name="gb_gpu_rader_graph">Ποιότητα εικόνας</string>
@@ -319,7 +322,7 @@
     <string name="morning">Πρωί</string>
     <string name="net_booster_expire_notification">Η συνεδρία ενίσχυσης ταχύτητας δικτύου λήγει σύντομα</string>
     <string name="net_booster_overdue_notification">Η συνεδρία ενίσχυσης ταχύτητας δικτύου λήγει σύντομα</string>
-    <string name="net_booster_overdue_notification_tip">Η συνεδρία ενίσχυσης ταχύτητας δικτύου λήγει σύντομα. Ανανέωση συνεδρίας;</string>
+    <string name="net_booster_overdue_notification_tip">Η περίοδος ενίσχυσης ταχύτητας δικτύου ολοκληρώθηκε. Μπορεί να αρχίσετε να αντιμετωπίζετε καθυστερήσεις δικτύου. Ανανέωση της συνεδρίας τώρα;</string>
     <string name="network_not_available">Αδυναμία σύνδεσης στο δίκτυο</string>
     <string name="night">Βράδυ</string>
     <string name="no_network">Αδυναμία σύνδεσης στο δίκτυο</string>
@@ -331,6 +334,8 @@
     <string name="pc_activity_title">Βελτιστοποίηση μπαταρίας</string>
     <string name="pm">ΜΜ</string>
     <string name="pm_lable_name">Σχετικά με πρόσβαση Root</string>
+    <string name="power_center_battery_duration_screen_on">Υπόλοιπο χρόνου χρήσης οθόνης</string>
+    <string name="power_main_battery_last_hour_minute_screen_on">Απομένουν %1$s %2$s χρόνου χρήσης οθόνης</string>
     <string name="preference_copied">Το \"%1$s\" αντιγράφηκε στο πρόχειρο.</string>
     <string name="privacy_declare_dialog_title">Όροι Υπηρεσίας</string>
     <string name="privacy_prompt_traffic_purchase_message">Ο αριθμός τηλεφώνου και οι πληροφορίες παρόχου σας θα κρυπτογραφηθούν και θα μεταφορτωθούν στους διακομιστές Mi για την απόκτηση περισσότερων πληροφοριών σχετικά με τις επιλογές αγοράς δεδομένων.</string>
@@ -348,6 +353,7 @@
     <string name="size_peta_byte">PB</string>
     <string name="size_suffix">%1$s%2$s</string>
     <string name="size_tera_byte">TB</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
     <string name="summary_collapsed_preference_list">%1$s, %2$s</string>
     <string name="sunday">Κυριακή</string>
     <string name="sunday_short">Κυρ</string>

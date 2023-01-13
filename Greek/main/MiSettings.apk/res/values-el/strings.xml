@@ -65,6 +65,7 @@
     <string name="australian_magpie">Australian magpie</string>
     <string name="authorization_btn_text">Έναρξη</string>
     <string name="authorization_tips">Απαιτούνται άδειες</string>
+    <string name="avalible_per_day">Διάρκεια συνεδρίας</string>
     <string name="baboon_info">The olive baboon lives in groups with developed social ranking depending on the dominance of each individual.</string>
     <string name="back">Πίσω</string>
     <string name="bear_info">Bears are the largest land carnivores. They live in cold regions and are known for their keen sense of smell.</string>
@@ -114,6 +115,9 @@
     <string name="canada_goose">Canada goose</string>
     <string name="capybara">Capybara</string>
     <string name="capybara_info">Οι υδρόχοιροι είναι ημιυδρόβια φυτοφάγα τρωκτικά που μπορούν να κρατήσουν την αναπνοή τους υποβρύχια για έως και πέντε λεπτά κάθε φορά.</string>
+    <string name="category_limit_notify_title">Συναγερμός χρόνου χρήσης οθόνης</string>
+    <string name="category_list_expand">Περισσότερα</string>
+    <string name="category_list_packup">Απόκρυψη</string>
     <string name="category_other">Άλλο</string>
     <string name="chacma_baboon">Chacma baboon</string>
     <string name="cheetah">Cheetah</string>
@@ -125,11 +129,14 @@
     <string name="clearable_edittext_clear_description">Εκκαθάριση</string>
     <string name="click_to_save">Tap \"Done\" to set a general ringtone.</string>
     <string name="close">Κλείσιμο</string>
+    <string name="closed_high_refresh_options">Εφαρμογές που δεν χρησιμοποιούν υψηλό ρυθμό ανανέωσης</string>
     <string name="color_gamut">Γκάμα χρωμάτων</string>
     <string name="common_brushtail">Brushtail possum</string>
     <string name="common_ostrich">Ostrich</string>
+    <string name="compulsor_tip">Αρχική οθόνη</string>
     <string name="contact_description">Πατήστε τις συντομεύσεις στην Αρχική οθόνη για να πραγματοποιήσετε κλήσεις</string>
     <string name="contact_title">Συντομεύσεις επαφής</string>
+    <string name="continue_time">Διάρκεια συνεδρίας</string>
     <string name="contrast_ratio">Αντίθεση</string>
     <string name="control_center_title">Χρόνος χρήσης οθόνης σήμερα</string>
     <string name="control_center_title_new">Χρησιμοποιήθηκαν σήμερα</string>
@@ -141,6 +148,8 @@
     <string name="created_successfully">Επιτυχής δημιουργία</string>
     <string name="crowned_hornbill">Crowned hornbill</string>
     <string name="cu_confirm">Ρύθμιση</string>
+    <string name="customize_high_refresh_summary">Αυτή η δυνατότητα υποστηρίζει ρυθμό ανανέωσης έως και %d Hz. Ο κατάλληλος ρυθμός ανανέωσης μπορεί να επιλεγεί αυτόματα με βάση τις προτιμήσεις της συσκευής.</string>
+    <string name="customize_high_refresh_title">Εφαρμογές που χρησιμοποιούν υψηλό ρυθμό ανανέωσης</string>
     <string name="customize_radio_btn_summary">Προτιμήστε τον επιλεγμένο ρυθμό ανανέωσης</string>
     <string name="customize_radio_btn_title">Προσαρμογή</string>
     <string name="dall_sheep">Dall sheep</string>
@@ -164,6 +173,8 @@
     <string name="desktop_widget_not_support">"Τα στατιστικά χρόνου χρήσης οθόνης
 δεν δημιουργούνται στον Δεύτερο χώρο"</string>
     <string name="desktop_widget_screen_use_time">Χρόνος χρήσης οθόνης</string>
+    <string name="device_limit_enable">Ενεργό</string>
+    <string name="device_limit_un_enable">Ανενεργό</string>
     <string name="display_description">Μεγαλύτερα εικονίδια, μεγάλο κείμενο, λιγότερη οπτική αταξία</string>
     <string name="display_title">Μεγαλύτερα στοιχεία</string>
     <string name="dynamic_ringtone_desc">"We've explored different ecosystems and recreated their distinct sounds. Start exploring the sounds of nature with us!"</string>
@@ -294,7 +305,11 @@
     <string name="focus_mode_timer_pick_dialog_summary" formatted="false">%d έως %d λεπτά</string>
     <string name="focus_mode_timer_pick_dialog_title">Εισαγωγή διάρκειας</string>
     <string name="focus_time_exception_tip">Φαίνεται πως η ώρα τους συστήματος άλλαξε. Η Λειτουργία εστίασης απενεργοποιήθηκε.</string>
+    <string name="follow_apps_settings">Με βάση τις ρυθμίσεις της εφαρμογής</string>
     <string name="follow_sim1">Εφαρμογή ρυθμίσεων SIM 1</string>
+    <string name="force_rest">Χρησιμοποιήστε διαλείμματα συνεδρίας</string>
+    <string name="force_rest_summary">Κάντε υποχρεωτικά διαλείμματα όταν οι συνεδρίες φτάνουν το καθορισμένο όριο</string>
+    <string name="force_rest_time">Διάρκεια διαλείμματος</string>
     <string name="fps_high">Υψηλό</string>
     <string name="fps_nature_summary">Ο μέγιστος ρυθμός ανανέωσης διατηρεί τα πάντα σε καλή κατάσταση</string>
     <string name="fps_nature_title">Μέγιστος</string>
@@ -327,6 +342,16 @@
     <string name="green_peafowl">Πράσινο παγώνι</string>
     <string name="green_warbler_finch">Green warbler-finch</string>
     <string name="grey_headed_flying_fox">Grey-headed flying fox</string>
+    <string name="guard_item_app_summary">Απομακρυσμένη απεγκατάσταση εφαρμογών</string>
+    <string name="guard_item_app_title">Διαχείριση εφαρμογών</string>
+    <string name="guard_item_browser_summary">Ελέγξτε την πρόσβαση σε εφαρμογές και περιεχόμενο</string>
+    <string name="guard_item_browser_title">Περιορισμοί</string>
+    <string name="guard_item_call_summary">Επιτρέψτε σε συγκεκριμένες επαφές να πραγματοποιούν κλήσεις</string>
+    <string name="guard_item_call_title">Επικοινωνία</string>
+    <string name="guard_item_eye_protect_summary">Παρακολούθηση στάσης του σώματος</string>
+    <string name="guard_item_eye_protect_title">Άνεση ματιών</string>
+    <string name="guard_range_from">Από</string>
+    <string name="guard_range_to">Έως</string>
     <string name="harp_seal">Harp seal</string>
     <string name="harpy_eagle">Harpy eagle</string>
     <string name="has_applied">Applied</string>
@@ -334,11 +359,14 @@
     <string name="helmeted_guineafowl">Guineafowl</string>
     <string name="high_fps_description">Υψηλός ρυθμός ανανέωσης οθόνης. Μεγαλύτερη κατανάλωση ενέργειας.</string>
     <string name="high_fps_tip_footer">Η χρήση υψηλότερων ρυθμών ανανέωσης κάνει την εμπειρία προβολής πιο ομαλή, αλλά καταναλώνει περισσότερη ενέργεια.</string>
+    <string name="high_refresh_options_title">Υποστηριζόμενες εφαρμογές</string>
     <string name="hippopotamus">Hippo</string>
+    <string name="holiday_limit">Ρεπό</string>
     <string name="hsv_space_color">Χρωματικός χώρος HSV</string>
     <string name="hsv_space_color_hue">Απόχρωση</string>
     <string name="hsv_space_color_saturation">Κορεσμός</string>
     <string name="hsv_space_color_value">Τιμή</string>
+    <string name="in_forbidden_period">Η χρήση είναι περιορισμένη τώρα</string>
     <string name="intelligent_radio_btn_summary">Προσαρμόστε δυναμικά τον ρυθμό ανανέωσης με βάση σενάρια για να εξισορροπήσετε την απόδοση με την κατανάλωση ενέργειας</string>
     <string name="intelligent_radio_btn_title">Προεπιλογή (προτεινόμενο)</string>
     <string name="intelligent_recognition_item_summary">Χρησιμοποιήστε ειδικά σχεδιασμένο κουδούνισμα για κλήσεις από υπηρεσίες παράδοσης και ταξί. Η λειτουργία αυτή θα είναι ενεργή όταν ορίσετε το %s ως προεπιλεγμένο κουδούνισμα.</string>
@@ -379,6 +407,7 @@
     <string name="less_than_one">&lt; %d</string>
     <string name="lion">Lion</string>
     <string name="lion_info">Lions are fierce and powerful predators. They live in groups and have a strong sense of territory.</string>
+    <string name="loading_error">Αδυναμία λήψης αντικειμένων</string>
     <string name="lock_summary">Προστατέψτε τις προσωπικές σας πληροφορίες</string>
     <string name="long_tai1ed_iaeger">Long-tailed jaeger</string>
     <string name="low_flicker_mode">Χαμηλός φωτισμός</string>
@@ -478,6 +507,8 @@
     <string name="nature_mix_summary">Create a custom mix</string>
     <string name="nazca_booby">Nazca booby</string>
     <string name="network_error">Παρουσιάστηκε σφάλμα δικτύου. Προσπαθήστε ξανά.</string>
+    <string name="new_customize_high_refresh_title">Υψηλός ρυθμός ανανέωσης</string>
+    <string name="next_day">"(Επόμενη μέρα) "</string>
     <string name="night">Βράδυ</string>
     <string name="nine_banded_armadillo">Armadillo</string>
     <string name="no_matching">Αδυναμία εύρεσης εφαρμογής που ανοίγει αυτόν τον σύνδεσμο</string>
@@ -493,6 +524,7 @@
     <string name="notification_sound">Ήχοι ειδοποίησης</string>
     <string name="ocelot">Ocelot</string>
     <string name="olive_baboon">Olive baboon</string>
+    <string name="opened_high_refresh_options">Εφαρμογές που χρησιμοποιούν υψηλό ρυθμό ανανέωσης</string>
     <string name="orange_winged_amazon">Orange-winged amazon</string>
     <string name="orca">Killer whale</string>
     <string name="ostrich_info">Οι στρουθοκάμηλοι είναι Αφρικανικά μεγάλα πτηνά που δεν μπορούν να πετάξουν και γεννούν τα μεγαλύτερα αυγά οποιουδήποτε ζώου της στεριάς.</string>
@@ -558,6 +590,7 @@
     <string name="sea_otter">Sea otter</string>
     <string name="seal_info">Seals are marine mammals that can move quickly in deep waters, feeding on fish and shrimps.</string>
     <string name="search_app_name">Αναζήτηση εφαρμογών</string>
+    <string name="search_app_tips">Αναζήτηση εφαρμογών</string>
     <string name="search_empty">Δεν βρέθηκαν εφαρμογές</string>
     <string name="search_menu_title">Αναζήτηση</string>
     <string name="send">Αποστολή</string>
@@ -569,6 +602,13 @@
     <string name="silver_pheasant">Ασημένιος φασιανός</string>
     <string name="sim_slot_1">" (SIM 1)"</string>
     <string name="sim_slot_2">" (SIM 2)"</string>
+    <string name="size_byte">B</string>
+    <string name="size_giga_byte">GB</string>
+    <string name="size_kilo_byte">KB</string>
+    <string name="size_mega_byte">MB</string>
+    <string name="size_peta_byte">PB</string>
+    <string name="size_suffix">%1$s%2$s</string>
+    <string name="size_tera_byte">TB</string>
     <string name="skywalker_hoolock_gibbon">Skywalker hoolock gibbon</string>
     <string name="small_ground_finch">Small ground finch</string>
     <string name="sms_delivered_sound_title">Το μήνυμα παραδόθηκε</string>
@@ -589,6 +629,8 @@
     <string name="steady_on_screen_notification_title">Αφήστε το τηλέφωνό σας και κάντε ένα διάλειμμα</string>
     <string name="steady_on_screen_notification_title_pad">Αφήστε τη συσκευή σας και κάντε ένα διάλειμμα</string>
     <string name="steady_on_screen_notify">Ειδοποίηση για αδιάκοπη χρήση</string>
+    <string name="steady_on_screen_notify_new">Κάνε ένα διάλειμμα</string>
+    <string name="steady_on_screen_ntf_msg">Όλες οι λειτουργίες θα είναι ξανά διαθέσιμες στο %1$s</string>
     <string name="steady_on_screen_setting">Χρονικό όριο για αδιάκοπες συνεδρίες</string>
     <string name="steady_on_screen_summary">Χρονικό όριο για αδιάκοπες συνεδρίες</string>
     <string name="stop_app_timer">Απενεργοποίηση Χρόνου χρήσης οθόνης</string>
@@ -649,6 +691,12 @@
     <string name="thursday">Πέμπτη</string>
     <string name="thursday_short">Πεμ</string>
     <string name="thursday_shortest">Πεμ</string>
+    <string name="time_over_back_home">Αρχική οθόνη</string>
+    <string name="time_over_delayed_use">Παράλειψη</string>
+    <string name="time_over_not_delayed_use">Κατανοητό</string>
+    <string name="time_over_today">"Δεν μένει άλλος χρόνος
+για σήμερα"</string>
+    <string name="time_over_today_use">"Σημερινές συνεδρίες: "</string>
     <string name="time_picker_dialog_title">Ορισμός χρόνου</string>
     <string name="time_picker_label_hour">Ω</string>
     <string name="time_picker_label_minute">Λ</string>
@@ -677,11 +725,12 @@
     <string name="tuesday_shortest">Τρι</string>
     <string name="two_toed_sloths">Two-toed sloth</string>
     <string name="two_toed_sloths_info">Two-toed sloths can easily travel from tree to tree in the canopies of the rainforests.</string>
+    <string name="unavailable_per_day">Διαλείμματα</string>
     <string name="unlock_times_per_day">"Ημερήσιος μέσος όρος: "</string>
     <string name="unlock_times_per_hour">"Ξεκλειδώματα ανά ώρα: "</string>
     <string name="usage_agree">Αποδοχή</string>
     <string name="usage_app_desktop_widget_limit">%s απομένουν</string>
-    <string name="usage_app_get_it">Κατάλαβα</string>
+    <string name="usage_app_get_it">Κατανοητό</string>
     <string name="usage_app_holiday_limit">Ρεπό</string>
     <string name="usage_app_limit_alter_summary">Φαίνεται ότι αυτή τη φορά το χρονικό όριο είναι μικρότερο από την ώρα που χρησιμοποιήσατε αυτή την εφαρμογή σήμερα. Ορισμός ορίου παρόλα αυτά;</string>
     <string name="usage_app_limit_alter_title">Έλεγχος ορίου χρόνου χρήσης οθόνης</string>
@@ -712,8 +761,10 @@
     <string name="usage_device_limit_app_prolong_time3">Προσθήκη 60 λεπτών</string>
     <string name="usage_device_limit_app_prolong_time4">Να μην περιορίζεται σήμερα</string>
     <string name="usage_device_limit_app_prolong_time5">Προσθήκη ώρας μία φορά</string>
+    <string name="usage_device_limit_forbidden_period">Η χρήση είναι περιορισμένη μεταξύ %1$s και %2$s</string>
     <string name="usage_device_limit_notifation_summary_start">Θα συμπληρώσετε το όριό σας σε %1$s</string>
     <string name="usage_device_limit_notifation_title">Χρόνος που απομένει σήμερα</string>
+    <string name="usage_device_limit_start_forbidden_period">Η χρήση θα είναι περιορισμένη μεταξύ %1$s και %2$s (απομένει %3$s)</string>
     <string name="usage_device_limit_time_over">Συμπληρώσατε το σημερινό σας όριο (%1$s)</string>
     <string name="usage_exit">Έξοδος</string>
     <string name="usage_focus_focus_premission_main_summary">Αυτή η εφαρμογή χρειάζεται πρόσβαση στον λογαριασμό σας για να καταγράψει τα στατιστικά της χρήσης σας της Λειτουργίας εστίασης.</string>
@@ -745,6 +796,8 @@
     <string name="usage_home_premission_second_summary_double_link_prefix">Θα προστατεύουμε τις προσωπικές σας πληροφορίες σύμφωνα με τους σχετικούς νόμους, κανονισμούς και πολιτικές απορρήτου. Εάν δεν συμφωνείτε να παραχωρήσετε αυτές τις άδειες ή να κοινοποιήσετε και να μεταφορτώσετε τις προσωπικές σας πληροφορίες, δεν θα έχετε τη δυνατότητα να χρησιμοποιείτε αυτή την εφαρμογή. Μπορείτε να ανακαλέσετε την εξουσιοδότησή σας από Χρόνος χρήσης οθόνης > Ρυθμίσεις > Απενεργοποίηση Χρόνου χρήσης οθόνης.</string>
     <string name="usage_home_premission_second_summary_double_link_suffix" formatted="false">"&lt;Data>Πριν χρησιμοποιήσετε αυτή την εφαρμογή, διαβάστε και να αποδεχτείτε τη &lt;a href='%1s'>Συμφωνία Χρήστη&lt;/a> και την &lt;a href='%2s'>Πολιτική Απορρήτου&lt;/a>.&lt;/Data>"</string>
     <string name="usage_home_premission_second_summary_new">Θα προστατεύουμε τις προσωπικές σας πληροφορίες σύμφωνα με τους σχετικούς νόμους, κανονισμούς και πολιτικές απορρήτου. Εάν δεν συμφωνείτε να παραχωρήσετε αυτές τις άδειες ή να κοινοποιήσετε και να μεταφορτώσετε τις προσωπικές σας πληροφορίες, δεν θα έχετε τη δυνατότητα να χρησιμοποιείτε αυτή την εφαρμογή. Μπορείτε να ανακαλέσετε την εξουσιοδότησή σας από τον Χρόνο χρήσης οθόνης > Ρυθμίσεις > Απενεργοποίηση Χρόνου χρήσης οθόνης. Εάν έχετε άλλες ερωτήσεις σχετικά με το απόρρητο, μπορείτε να επικοινωνήσετε μαζί μας στη διεύθυνση privacy@xiaomi.com.</string>
+    <string name="usage_new_category_limit_summary">Ορίστε ημερήσια όρια χρήσης για όλες τις εφαρμογές αυτής της κατηγορίας</string>
+    <string name="usage_new_category_limit_title">Περιορισμός χρήσης για κατηγορία εφαρμογών</string>
     <string name="usage_new_home_app_limit_summary">Ορίστε ημερήσιο όριο χρόνου χρήσης οθόνης για αυτή την εφαρμογή</string>
     <string name="usage_new_home_app_limit_title">Περιορισμός χρόνου χρήσης οθόνης</string>
     <string name="usage_new_home_average">"Μ.Ο. "</string>
@@ -948,7 +1001,7 @@
     <string name="usagestats_device_notification_title">Συναγερμός χρόνου χρήσης οθόνης</string>
     <string name="usagestats_device_timeout_des">Χρησιμοποιήσατε τη συσκευή σας για %1$dω %2$dλ σήμερα. Κάντε ένα διάλειμμα!</string>
     <string name="usagestats_device_timeout_negative">Υπενθύμιση σε 1 ώρα</string>
-    <string name="usagestats_device_timeout_positive">Κατάλαβα</string>
+    <string name="usagestats_device_timeout_positive">Κατανοητό</string>
     <string name="usagestats_device_timeout_title">Συναγερμός χρόνου χρήσης οθόνης</string>
     <string name="v7_preference_off">ΑΝΕΝΕΡΓΗ</string>
     <string name="v7_preference_on">ΕΝΕΡΓΗ</string>
@@ -969,6 +1022,7 @@
     <string name="willow_grouse_info">The willow ptarmigan is herbivorous for most of its life and primarily occupies subalpine and subarctic habitats.</string>
     <string name="wolf">Λύκος</string>
     <string name="wombat">Wombat</string>
+    <string name="workday_limit">Εργάσιμες ημέρες</string>
     <string name="yellow_necked_spurfowl">Yellow-necked spurfowl</string>
     <string name="yellow_throated_marten">Κιτρινόλαιμο κουνάβι</string>
     <string name="yesterday">Χθες</string>

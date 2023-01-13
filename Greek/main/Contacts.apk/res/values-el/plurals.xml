@@ -168,6 +168,10 @@
         <item quantity="other">%d αντικείμενα επιλέχθηκαν</item>
         <item quantity="one">%d αντικείμενο επιλέχθηκε</item>
     </plurals>
+    <plurals name="notification_missedCallsMsg">
+        <item quantity="other">%d αναπάντητες κλήσεις</item>
+        <item quantity="one">%d αναπάντηση κλήση</item>
+    </plurals>
     <plurals name="numSelectedSimContacts">
         <item quantity="other">%1$d επιλέχθηκαν</item>
         <item quantity="one">%1$d επιλέχθηκε</item>

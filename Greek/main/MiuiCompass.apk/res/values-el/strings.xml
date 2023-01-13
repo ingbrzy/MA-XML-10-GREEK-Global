@@ -47,9 +47,10 @@
     <string name="calibrate_failed">Βαθμονόμηση υψομέτρου απέτυχε</string>
     <string name="calibrate_failed_no_location">Αδυναμία βαθμονόμησης</string>
     <string name="calibrate_failed_timeout">Αδυναμία σύνδεσης με τον εξυπηρετητή</string>
+    <string name="calibrate_new_tip">Γείρετε απότομα τη συσκευή σας για να κυλήσετε την μπάλα γύρω από τον κύκλο</string>
     <string name="calibrate_rotate_again">Προσπαθήστε ξανά</string>
     <string name="calibrate_success">Βαθμονομημένο</string>
-    <string name="calibrate_tip">Γύρετε τη συσκευή σας για να κυλήσετε την μπάλα γύρω από τον κύκλο</string>
+    <string name="calibrate_tip">Γείρετε τη συσκευή σας για να κυλήσετε την μπάλα γύρω από τον κύκλο</string>
     <string name="calibrate_title">Βαθμονόμηση πυξίδας</string>
     <string name="calibrating">Βαθμονόμηση πυξίδας</string>
     <string name="cancel">Ακύρωση</string>
@@ -228,7 +229,7 @@
     <string name="morning">Πρωί</string>
     <string name="new_cta_app_purpose">προβολή κατευθύνσεων και συντεταγμένων</string>
     <string name="new_cta_v2_app_purpose">Δείχνει κατευθύνσεις, συντεταγμένες, ατμοσφαιρική πίεση και τρέχον υψόμετρο</string>
-    <string name="new_permission_camera_desc">Για βαθμονόμηση</string>
+    <string name="new_permission_camera_desc">Για προβολή ζωντανών προεπισκοπήσεων</string>
     <string name="new_permission_location_desc">Για προβολή συντεταγμένων</string>
     <string name="night">Βράδυ</string>
     <string name="noon">Μεσημέρι</string>

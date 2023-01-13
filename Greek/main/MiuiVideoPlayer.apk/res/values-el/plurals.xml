@@ -40,17 +40,33 @@
         <item quantity="other">Προβολή %d απαντήσεων</item>
         <item quantity="one">Προβολή %d απάντησης</item>
     </plurals>
+    <plurals name="dialog_app_rating_choose_star">
+        <item quantity="other">Επιλέχθηκε %s αστέρια</item>
+        <item quantity="one">Επιλέχθηκε %s αστέρι</item>
+    </plurals>
+    <plurals name="exo_controls_fastforward_by_amount_description">
+        <item quantity="other">Γρήγορη προώθηση κατά %d δευτερόλεπτα</item>
+        <item quantity="one">Γρήγορη προώθηση κατά %d δευτερόλεπτο</item>
+    </plurals>
+    <plurals name="exo_controls_rewind_by_amount_description">
+        <item quantity="other">Μετάβαση προς τα πίσω κατά %d δευτερόλεπτα</item>
+        <item quantity="one">Μετάβαση προς τα πίσω κατά %d δευτερόλεπτο</item>
+    </plurals>
+    <plurals name="fcmpts_dialog_one">
+        <item quantity="other">Παρακολουθήστε %s ακόμη δευτερόλεπτα ενός βίντεο για να κερδίσετε βαθμούς και να εξαργυρώσετε βραβεία</item>
+        <item quantity="one">Παρακολουθήστε %s ακόμη δευτερόλεπτο ενός βίντεο για να κερδίσετε βαθμούς και να εξαργυρώσετε βραβεία</item>
+    </plurals>
     <plurals name="feed_back_home">
         <item quantity="other">Επιστροφή στην αρχική σελίδα σε %1$d δευτερόλεπτα…</item>
         <item quantity="one">Επιστροφή στην αρχική σελίδα σε %1$d δευτερόλεπτο…</item>
     </plurals>
-    <plurals name="follower">
-        <item quantity="other">%d ακόλουθοι</item>
-        <item quantity="one">%d ακόλουθος</item>
-    </plurals>
     <plurals name="half_hour_ago">
         <item quantity="other">Μισή ώρα πριν</item>
         <item quantity="one">Μισή ώρα πριν</item>
+    </plurals>
+    <plurals name="hint_local_guide_views">
+        <item quantity="other">%s προβολές</item>
+        <item quantity="one">%s προβολή</item>
     </plurals>
     <plurals name="in_a_hour">
         <item quantity="other">Σε 1 ώρα</item>
@@ -68,9 +84,79 @@
         <item quantity="other">σε %d λεπτά</item>
         <item quantity="one">σε 1 λεπτό</item>
     </plurals>
+    <plurals name="incentive_dialog_congratulation_get_credits_title">
+        <item quantity="other">Έχετε κερδίσει %d βαθμούς!</item>
+        <item quantity="one">Έχετε κερδίσει %d βαθμό!</item>
+    </plurals>
+    <plurals name="incentive_dialog_credits">
+        <item quantity="other">%d βαθμοί</item>
+        <item quantity="one">%d βαθμός</item>
+    </plurals>
+    <plurals name="incentive_dialog_login_and_get_credits_message">
+        <item quantity="other">Συνδεθείτε για να διεκδικήσετε και να κερδίστε %d επιπλέον βαθμούς</item>
+        <item quantity="one">Συνδεθείτε για να διεκδικήσετε και να κερδίστε %d επιπλέον βαθμό</item>
+    </plurals>
+    <plurals name="incentive_dialog_seconds">
+        <item quantity="other">%d δευτερόλεπτα</item>
+        <item quantity="one">%d δευτερόλεπτο</item>
+    </plurals>
+    <plurals name="incentive_guide_all_time_tip">
+        <item quantity="other">Παρακολουθήστε %d λεπτά συνολικά για να κερδίσετε βαθμούς! Ολοκλήρωση εργασίας τώρα;</item>
+        <item quantity="one">Παρακολουθήστε %d λεπτό συνολικά για να κερδίσετε βαθμούς! Ολοκλήρωση εργασίας τώρα;</item>
+    </plurals>
+    <plurals name="incentive_guide_coins_tip">
+        <item quantity="other">"Έχετε %d βαθμούς για διεκδίκηση
+Διαθέσιμοι μόνο σήμερα"</item>
+        <item quantity="one">"Έχετε %d βαθμό για διεκδίκηση
+Διαθέσιμος μόνο σήμερα"</item>
+    </plurals>
+    <plurals name="incentive_guide_current_time_tip">
+        <item quantity="other">Παρακολουθήσατε %d λεπτά σήμερα</item>
+        <item quantity="one">Παρακολουθήσατε %d λεπτό σήμερα</item>
+    </plurals>
+    <plurals name="incentive_popup_window_share_success">
+        <item quantity="other">Κοινοποιήθηκε με επιτυχία. Κερδίσατε %d βαθμούς.</item>
+        <item quantity="one">Κοινοποιήθηκε με επιτυχία. Κερδίσατε %d βαθμό.</item>
+    </plurals>
+    <plurals name="incentive_popup_window_subscribe_success">
+        <item quantity="other">Εγγραφήκατε με επιτυχία. Κερδίσατε %d βαθμούς.</item>
+        <item quantity="one">Εγγραφήκατε με επιτυχία. Κερδίσατε %d βαθμό.</item>
+    </plurals>
+    <plurals name="incentive_task_watchvideo_begin">
+        <item quantity="other">Κερδίστε %d βαθμούς!</item>
+        <item quantity="one">Κερδίστε %d βαθμό!</item>
+    </plurals>
+    <plurals name="incentive_task_watchvideo_finish">
+        <item quantity="other">Οι σημερινές εργασίες ολοκληρώθηκαν! Κερδίσατε %d βαθμούς.</item>
+        <item quantity="one">Οι σημερινές εργασίες ολοκληρώθηκαν! Κερδίσατε %d βαθμό.</item>
+    </plurals>
+    <plurals name="incentive_task_watchvideo_of_one">
+        <item quantity="other">Παρακολουθήσατε %1$1dδ και κερδίσατε %2$2d βαθμούς!</item>
+        <item quantity="one">Παρακολουθήσατε %1$1dδ και κερδίσατε %2$2d βαθμό!</item>
+    </plurals>
+    <plurals name="incentive_task_watchvideo_tip1">
+        <item quantity="other">Παρακολουθήστε ένα τυχαίο βίντεο για να κερδίσετε %d βαθμούς</item>
+        <item quantity="one">Παρακολουθήστε ένα τυχαίο βίντεο για να κερδίσετε %d βαθμό</item>
+    </plurals>
+    <plurals name="incentive_task_watchvideo_tip2">
+        <item quantity="other">Παρακολουθήστε %1$1d δευτερόλεπτα ενός βίντεο για να κερδίσετε %2$2d βαθμούς</item>
+        <item quantity="one">Παρακολουθήστε %1$1d δευτερόλεπτα ενός βίντεο για να κερδίσετε %2$2d βαθμό</item>
+    </plurals>
+    <plurals name="incentive_toast_share_success">
+        <item quantity="other">Κερδίσατε %d βαθμούς. Συνεχίστε την κοινοποίηση για να κερδίσετε περισσότερους.</item>
+        <item quantity="one">Κερδίσατε %d βαθμό. Συνεχίστε την κοινοποίηση για να κερδίσετε περισσότερους.</item>
+    </plurals>
+    <plurals name="incentive_toast_subscribe_success">
+        <item quantity="other">Κερδίσατε %d βαθμούς. Συνεχίστε την εγγραφή για να κερδίσετε περισσότερους.</item>
+        <item quantity="one">Κερδίσατε %d βαθμό. Συνεχίστε την εγγραφή για να κερδίσετε περισσότερους.</item>
+    </plurals>
     <plurals name="less_than_one_minute_ago">
         <item quantity="other">Μόλις τώρα</item>
         <item quantity="one">Μόλις τώρα</item>
+    </plurals>
+    <plurals name="local_diversion_video_number">
+        <item quantity="other">%d βίντεο</item>
+        <item quantity="one">%d βίντεο</item>
     </plurals>
     <plurals name="local_video_floder">
         <item quantity="other">%d φάκελοι</item>
@@ -124,6 +210,18 @@
         <item quantity="other">%d νέες ειδοποιήσεις</item>
         <item quantity="one">%d νέα ειδοποίηση</item>
     </plurals>
+    <plurals name="music_playlist_title_count">
+        <item quantity="other">%d τραγούδια</item>
+        <item quantity="one">%d τραγούδι</item>
+    </plurals>
+    <plurals name="new_incentive_toast_share_success">
+        <item quantity="other">Επιτυχής κοινοποίηση. Κερδίσατε %d βαθμούς. Διεκδίκηση στο Κέντρο Βαθμών.</item>
+        <item quantity="one">Επιτυχής κοινοποίηση. Κερδίσατε %d βαθμό. Διεκδίκηση στο Κέντρο Βαθμών.</item>
+    </plurals>
+    <plurals name="new_incentive_toast_subscribe_success">
+        <item quantity="other">Επιτυχής εγγραφή. Κερδίσατε %d βαθμούς. Διεκδίκηση στο Κέντρο Βαθμών.</item>
+        <item quantity="one">Επιτυχής εγγραφή. Κερδίσατε %d βαθμό. Διεκδίκηση στο Κέντρο Βαθμών.</item>
+    </plurals>
     <plurals name="notice_user_banned">
         <item quantity="other">Στο περιεχόμενό σας υπάρχουν αντικείμενα (%1$s) που παραβιάζουν τους όρους της κοινότητάς μας. Ο λογαριασμός σας τέθηκε σε αναστολή για %2$d ημέρες έως %3$s.</item>
         <item quantity="one">Στο περιεχόμενό σας υπάρχουν αντικείμενα (%1$s) που παραβιάζουν τους όρους της κοινότητάς μας. Ο λογαριασμός σας τέθηκε σε αναστολή για %2$d ημέρα έως %3$s.</item>
@@ -151,6 +249,10 @@
     <plurals name="plus_edit_top_titletext">
         <item quantity="other">Έγινε επιλογή %s αντικειμένων</item>
         <item quantity="one">Έγινε επιλογή %s αντικειμένου</item>
+    </plurals>
+    <plurals name="plus_local_edit_delete_confirm_text">
+        <item quantity="other">Μόνιμη διαγραφή %s αρχείων τώρα;</item>
+        <item quantity="one">Μόνιμη διαγραφή %s αρχείου τώρα;</item>
     </plurals>
     <plurals name="plus_player_subtitle_online_size">
         <item quantity="other">Μέγεθος αρχείων: %.2fKB</item>
@@ -195,6 +297,14 @@
     <plurals name="toast_bookmark_max_size">
         <item quantity="other">Προσθέστε μέχρι και %d σελιδοδείκτες</item>
         <item quantity="one">Προσθέστε μέχρι και %d σελιδοδείκτη</item>
+    </plurals>
+    <plurals name="v_confirm_hide_videos_new">
+        <item quantity="other">Απόκρυψη %d επιλεγμένων αρχείων;</item>
+        <item quantity="one">Απόκρυψη %d επιλεγμένου αρχείου;</item>
+    </plurals>
+    <plurals name="video_like_text">
+        <item quantity="other">%s likes</item>
+        <item quantity="one">%s like</item>
     </plurals>
     <plurals name="video_view_count">
         <item quantity="other">%d προβολές</item>

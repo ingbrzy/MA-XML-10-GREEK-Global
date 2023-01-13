@@ -146,13 +146,21 @@
     <string name="am">ΠΜ</string>
     <string name="app_cache">Μνήμη cache</string>
     <string name="app_library_category_entertainment">Ψυχαγωγία</string>
+    <string name="app_library_category_financial_management">Οικονομικά</string>
     <string name="app_library_category_games">Παιχνίδια</string>
+    <string name="app_library_category_health_and_exercise">Υγεία</string>
+    <string name="app_library_category_individualization">Εξατομίκευση</string>
     <string name="app_library_category_information">Πολυμέσα</string>
     <string name="app_library_category_lifestyle">Τρόπος ζωής</string>
+    <string name="app_library_category_originality">Δημιουργικότητα</string>
     <string name="app_library_category_others">Άλλα</string>
     <string name="app_library_category_productivity">Παραγωγικότητα</string>
+    <string name="app_library_category_reading_and_information">Ειδήσεις</string>
+    <string name="app_library_category_shopping_and_food">Ψώνια</string>
     <string name="app_library_category_social">Κοινωνικά</string>
+    <string name="app_library_category_travel">Ταξίδια</string>
     <string name="app_library_category_utility">Εργαλεία</string>
+    <string name="app_library_category_work_and_efficiency">Παραγωγικότητα</string>
     <string name="app_library_title">Εφαρμογές</string>
     <string name="app_name_bluetooth">Bluetooth</string>
     <string name="app_name_camera">Κάμερα</string>
@@ -171,6 +179,7 @@
     <string name="app_update_install">Είστε έτοιμοι για εγκατάσταση ενημέρωσης.</string>
     <string name="application">Εφαρμογές</string>
     <string name="application_name">Πρόγραμμα περιήγησης</string>
+    <string name="application_upgrade">Ενημερώσεις</string>
     <string name="aqi_quality_index_break">Άκρως επικίνδυνη</string>
     <string name="aqi_quality_index_dangerous">Επικίνδυνη</string>
     <string name="aqi_quality_index_good">Καλή</string>
@@ -202,6 +211,7 @@
     <string name="bookmark_btn_select_all">Επιλογή όλων</string>
     <string name="bookmark_btn_select_none">Αποεπιλογή όλων</string>
     <string name="bookmark_cannot_save_url">Αδυναμία προσθήκης URL στους σελιδοδείκτες.</string>
+    <string name="bookmark_file_privacy_nightmode_moved_here">Μπορείτε να βρείτε τις συντομεύσεις δυνατοτήτων και τις λειτουργίες περιήγησης εδώ</string>
     <string name="bookmark_folder_needs_title">Εισαγωγή ονόματος ομάδας</string>
     <string name="bookmark_group_lable">Ομάδα</string>
     <string name="bookmark_needs_title">Ο σελιδοδείκτης πρέπει να έχει όνομα</string>
@@ -296,9 +306,12 @@
     <string name="choose_to_signin">Ναι</string>
     <string name="choose_to_signup">Όχι, θα δημιουργήσω έναν</string>
     <string name="choosertitle_sharevia">Κοινοποίηση μέσω</string>
+    <string name="clean_cache">Εκκαθάριση μνήμης cache</string>
     <string name="clear">Εκκαθάριση</string>
     <string name="clear_history">Εκκαθάριση ιστορικού</string>
     <string name="clear_most_visited">Πρόσφατο ιστορικό</string>
+    <string name="clear_result_page_more_content">Ανακαλύψτε περισσότερα</string>
+    <string name="clear_result_page_show_more">Εμφάνιση περισσοτέρων</string>
     <string name="clear_search_history">Εκκαθάριση ιστορικού</string>
     <string name="clearable_edittext_clear_description">Εκκαθάριση</string>
     <string name="cleared_garbage">Έγινε εκκαθάριση %d MB από σκουπίδια</string>
@@ -317,6 +330,7 @@
     <string name="close_all_tab_alert_title">Κλείσιμο όλων των καρτελών</string>
     <string name="close_cant_recommand">Δεν θα λαμβάνετε υπηρεσίες εξατομικευμένου περιεχομένου εάν απενεργοποιήσετε αυτή τη λειτουργία.</string>
     <string name="close_cloud_tab_tip">Κλείσιμο καρτελών cloud στο %s;</string>
+    <string name="close_desktop">Απενεργοποιημένη έκδοση επιφάνειας εργασίας</string>
     <string name="cloud_loading_tips">Τραβήξτε προς τα κάτω για συγχρονισμό</string>
     <string name="cloud_no_new_data_toast">Όλα είναι ενημερωμένα</string>
     <string name="cloud_sync_closed_toast">Αδυναμία ενημέρωσης επειδή ο συγχρονισμός είναι ανενεργός</string>
@@ -415,6 +429,7 @@
     <string name="contextmenu_webpage_snapshot">Αποθήκευση σελίδας</string>
     <string name="continue_reading">Συνέχεια ανάγνωσης</string>
     <string name="copy">Αντιγραφή</string>
+    <string name="copy_toast_msg">Ο σύνδεσμος αντιγράφηκε στο πρόχειρο</string>
     <string name="copy_url">Αντιγραφή URL</string>
     <string name="core_functions_of_browser">Βασικά χαρακτηριστικά στη διάθεσή σας</string>
     <string name="could_not_load_data">Αδυναμία φόρτωσης δεδομένων, ανανεώστε και προσπαθήστε ξανά</string>
@@ -473,6 +488,7 @@ ID:%s
     <string name="display__quick_entry_of_search">Εμφάνιση συντομεύσεων λειτουργιών στην Μπάρα ειδοποιήσεων</string>
     <string name="doc_viewer_label">Αναγνώστης (Mi Browser)</string>
     <string name="doc_viewer_open_out_file_prompt">Για να ανοίξετε και να προβάλετε ένα αρχείο που λαμβάνεται από εξωτερικές πηγές, αυτή η εφαρμογή πρέπει πρώτα να δημιουργήσει ένα αντίγραφο του αρχείου. Συνέχεια;</string>
+    <string name="doc_viewer_user_guide_profile">Δείτε το στοιχείο που φυλλομετρούσατε διαδικτυακά εδώ</string>
     <string name="document_download_background_btn">Λήψη στο παρασκήνιο</string>
     <string name="document_download_cancel_btn">Ακύρωση</string>
     <string name="document_download_failed">Αδυναμία λήψης</string>
@@ -646,17 +662,16 @@ ID:%s
     <string name="exo_controls_pause_description">Παύση</string>
     <string name="exo_controls_play_description">Αναπαραγωγή</string>
     <string name="exo_controls_playback_speed">Ταχύτητα</string>
-    <string name="exo_controls_playback_speed_normal">Κανονική</string>
     <string name="exo_controls_previous_description">Προηγούμενο</string>
-    <string name="exo_controls_repeat_all_description">Επανάληψη όλων</string>
-    <string name="exo_controls_repeat_off_description">Καμία επανάληψη</string>
-    <string name="exo_controls_repeat_one_description">Επανάληψη ενός κομματιού</string>
+    <string name="exo_controls_repeat_all_description">Τρέχ. λειτουργία: Επανάλ. όλων Εναλλαγή λειτουργ. επανάλ.</string>
+    <string name="exo_controls_repeat_off_description">Τρέχ. λειτουργία: Καμία επανάλ. Εναλλαγή λειτουργ. επανάλ.</string>
+    <string name="exo_controls_repeat_one_description">Τρέχ. λειτουργία: Επανάλ. ενός. Εναλλαγή λειτουργ. επανάλ.</string>
     <string name="exo_controls_rewind_description">Επαναφορά</string>
     <string name="exo_controls_seek_bar_description">Πρόοδος αναπαραγωγής</string>
     <string name="exo_controls_settings_description">Ρυθμίσεις</string>
     <string name="exo_controls_show">Εμφάν. στοιχείων ελέγχου προγράμματος αναπαραγωγής</string>
-    <string name="exo_controls_shuffle_off_description">Τυχαία αναπαραγωγή: Ανενεργή</string>
-    <string name="exo_controls_shuffle_on_description">Τυχαία αναπαραγωγή: Ενεργή</string>
+    <string name="exo_controls_shuffle_off_description">Ενεργοπ. λειτουργ. τυχαίας αναπαραγωγής</string>
+    <string name="exo_controls_shuffle_on_description">Απενεργ. λειτουργ. τυχαίας αναπαραγωγής</string>
     <string name="exo_controls_stop_description">Διακοπή</string>
     <string name="exo_controls_vr_description">Λειτουργία VR mode</string>
     <string name="exo_download_completed">Η λήψη ολοκληρώθηκε</string>
@@ -664,6 +679,9 @@ ID:%s
     <string name="exo_download_downloading">Λήψη</string>
     <string name="exo_download_failed">Η λήψη απέτυχε</string>
     <string name="exo_download_notification_channel_name">Λήψεις</string>
+    <string name="exo_download_paused">Οι λήψεις τέθηκαν σε παύση.</string>
+    <string name="exo_download_paused_for_network">Οι λήψεις είναι σε αναμονή για δίκτυο.</string>
+    <string name="exo_download_paused_for_wifi">Οι λήψεις είναι σε αναμονή για Wi-Fi.</string>
     <string name="exo_download_removing">Κατάργηση λήψεων</string>
     <string name="exo_item_list">%1$s, %2$s</string>
     <string name="exo_track_bitrate">%1$.2f Mbps</string>
@@ -687,11 +705,13 @@ ID:%s
     <string name="experience_improve">Πρόγραμμα Εμπειρίας Χρήστη</string>
     <string name="external_app_restricted_access_error">Αδυναμία πρόσβασης σε αυτό το αντικείμενο από το Πρόγραμμα περιήγησης Mi.</string>
     <string name="failed_dup_secure_phone_number">Αυτός ο αριθμός τηλεφώνου είναι ήδη συσχετισμένος με άλλο Mi Λογαριασμό</string>
+    <string name="fallback_menu_item_copy_link">Αντιγραφή συνδέσμου</string>
+    <string name="fallback_menu_item_open_in_browser">Άνοιγμα σε πρόγραμμα περιήγησης</string>
+    <string name="fallback_menu_item_share_link">Κοινοποίηση συνδέσμου</string>
     <string name="fast_search_title">Γρήγορη αναζήτηση</string>
     <string name="fast_than">Βρίσκεστε μπροστά από %1$s%% χρήστες</string>
     <string name="fb_login_tips">Συνδεθείτε για λήψη βίντεο από το Facebook</string>
     <string name="fb_register_btn">Δημιουργία λογαριασμού</string>
-    <string name="fcm_fallback_notification_channel_label">Διάφορα</string>
     <string name="featured_this_week">Προτάσεις αυτής της εβδομάδας</string>
     <string name="feedback_bad">Όχι</string>
     <string name="feedback_general">Κάπως</string>
@@ -724,6 +744,7 @@ ID:%s
     <string name="file_picker">Επιλογή διαδρομής</string>
     <string name="filename_empty_alert_message">Εισαγωγή ονόματος αρχείου</string>
     <string name="filename_illegal_alert_message">Ένας μη έγκυρος χαρακτήρας αφαιρέθηκε από το όνομα του αρχείου</string>
+    <string name="files_stored_in_the_phone">Αρχεία που είναι αποθηκευμένα σε αυτήν τη συσκευή</string>
     <string name="find_garbage">Βρέθηκαν %d MB από σκουπίδια</string>
     <string name="find_new_version">ΝΕΑ ΔΙΑΘΕΣΙΜΗ ΕΝΗΜΕΡΩΣΗ</string>
     <string name="find_on_page_cancel">Ακύρωση</string>
@@ -801,6 +822,7 @@ ID:%s
     <string name="friday">Παρασκευή</string>
     <string name="friday_short">Παρ</string>
     <string name="friday_shortest">Παρ</string>
+    <string name="game_center">Παιχνίδια</string>
     <string name="game_center_recommend_play">Παίξτε</string>
     <string name="game_center_recommend_title">Συνιστάται για εσάς</string>
     <string name="game_play">Αναπαραγωγή</string>
@@ -870,6 +892,10 @@ ID:%s
     <string name="homepage_setting">Ρυθμίσεις Αρχικής σελίδας</string>
     <string name="homepage_top_card_menu">Κορυφή</string>
     <string name="hot_games">Δημοφιλή</string>
+    <string name="hot_news_notify_summary">Ειδοποιήσεις push για κορυφαίες ειδήσεις</string>
+    <string name="hot_news_notify_tips_light">Μπορείτε να απενεργοποιήσετε τις ειδοποιήσεις Ειδήσεων στο &lt;font color=\"#0D84FF\">Ρυθμίσεις&lt;/font></string>
+    <string name="hot_news_notify_title">Ειδοποιήσεις Ειδήσεων</string>
+    <string name="hour_minute">%1$s %2$s</string>
     <string name="i_know">Διακοπή</string>
     <string name="identity">Ταυτότητα</string>
     <string name="if_cancel">Ακύρωση αυτής της λειτουργίας;</string>
@@ -952,6 +978,8 @@ ID:%s
     <string name="loading_tips">Τραβήξτε κάτω για ανανέωση</string>
     <string name="local_apps">Τοπικές εφαρμογές</string>
     <string name="local_bookmarks">Mi</string>
+    <string name="local_file">Τοπικά αρχεία</string>
+    <string name="local_video_player_label">Αναπαραγωγή βίντεο (Mi Browser)</string>
     <string name="location_permission_name">Πρόσβαση στην τοποθεσία</string>
     <string name="lockpattern_continue_button_text">Επόμενο</string>
     <string name="lockpattern_need_to_confirm">Επιβεβαιώστε το μοτίβο ξεκλειδώματος</string>
@@ -980,6 +1008,7 @@ ID:%s
     <string name="media_error_video_not_exist">Το βίντεο δεν υπάρχει</string>
     <string name="memory_clear_nothing_result">Τίποτα προς εκκαθάριση στη μνήμη cache</string>
     <string name="memory_clear_result">Έγινε εκκαθάριση %1$s</string>
+    <string name="memory_management">Διαχείριση αποθηκευτικού χώρου</string>
     <string name="memory_usage">Μνήμη</string>
     <string name="menu_addtodesk">Προσθήκη στην Αρχική Οθόνη</string>
     <string name="menu_exit_nightmode">Έξοδος</string>
@@ -1079,6 +1108,7 @@ ID:%s
     <string name="month_september_short">Σεπ</string>
     <string name="month_september_shortest">Σεπ</string>
     <string name="more">Περισσότερα</string>
+    <string name="more_convenient_features_and_content">Δείτε τι νέα εργαλεία και περιεχόμενο έχει να προσφέρει το Browser!</string>
     <string name="more_description">Μενού</string>
     <string name="more_info">Μάθετε περισσότερα</string>
     <string name="more_option">Περισσότερες επιλογές</string>
@@ -1265,6 +1295,7 @@ ID:%s
     <string name="my_account">Ο λογαριασμός μου</string>
     <string name="my_cahnnel">Τα κανάλια μου</string>
     <string name="my_channel">Τα κανάλια μου</string>
+    <string name="my_prize_entry">Τα βραβεία μου</string>
     <string name="name_empty">Πρέπει να εισαγάγετε ένα όνομα.</string>
     <string name="nav_bottom_bar_back">Πίσω</string>
     <string name="nav_bottom_bar_close_all">Κλείσιμο όλων</string>
@@ -1318,6 +1349,7 @@ ID:%s
     <string name="no_network">Ελέγξτε την σύνδεση δικτύου σας και προσπαθήστε ξανά.</string>
     <string name="no_phone">Χωρίς αριθμό τηλεφώνου</string>
     <string name="no_recent_files">Δεν υπάρχουν πρόσφατα αρχεία</string>
+    <string name="no_scalable_applications">Όλες οι εφαρμογές είναι πλήρως ενημερωμένες</string>
     <string name="no_space_alert_cancel">Αργότερα</string>
     <string name="no_space_alert_clean">Ελευθερώστε χώρο</string>
     <string name="no_space_alert_text">Δεν υπάρχει αρκετός χώρος αποθήκευσης</string>
@@ -1349,6 +1381,7 @@ ID:%s
     <string name="novel_continue_read_popup">Ανάγνωση</string>
     <string name="novel_tab_popup">Δείτε τα νεότερα βιβλία σας εδώ</string>
     <string name="novel_tab_popup_ok">ΟΚ</string>
+    <string name="occupy">Χρησιμοποιείται %s</string>
     <string name="offline_notification_text">Πατήστε για να ανοίξετε τη διαφήμιση.</string>
     <string name="offline_notification_title">Δείτε τη διαφήμιση που αποθηκεύσατε ενώ ήσασταν εκτός σύνδεσης</string>
     <string name="offline_opt_in_confirm">ΟΚ</string>
@@ -1359,6 +1392,7 @@ ID:%s
     <string name="ok">OK</string>
     <string name="one_prefect_author">Δημιουργός</string>
     <string name="open_app_confirm_message">Να επιτραπεί σε αυτή την σελίδα να ανοίξει %s;</string>
+    <string name="open_desktop">Επιτυχής εναλλαγή σε έκδοση επιφάνειας εργασίας</string>
     <string name="open_google_gaid">Για να μπορείτε να χρησιμοποιήσετε αυτήν τη δυνατότητα, βεβαιωθείτε ότι δεν έχετε εξαιρεθεί από την εξατομίκευση διαφημίσεων στις Ρυθμίσεις > Google > Διαφημίσεις.</string>
     <string name="open_personalized_services">Ενεργοποίηση των εξατομικευμένων υπηρεσιών για χρήση αυτής της λειτουργίας.</string>
     <string name="open_private_folder">Αφήστε για εμφάνιση κρυφών φακέλων</string>
@@ -1371,6 +1405,7 @@ ID:%s
     <string name="operation_rename">Μετονομασία</string>
     <string name="operation_rename_message">Εισαγωγή νέου ονόματος</string>
     <string name="operation_send">Αποστολή</string>
+    <string name="opr_activity_title">Παρακολουθήστε τη σεζόν και κερδίστε βραβεία</string>
     <string name="other_channel">Πατήστε για να προσθέσετε περισσότερα κανάλια.</string>
     <string name="page_info">Πληροφορίες σελίδας</string>
     <string name="page_info_address">Διεύθυνση:</string>
@@ -1537,6 +1572,7 @@ ID:%s
     <string name="popular_game_video">Popular Game Video</string>
     <string name="popup_window_attempt">Να επιτρέπεται η ανάδυση παραθύρων στην ιστοσελίδα;</string>
     <string name="positive_confirm_message">Απενεργοποίηση οπωσδήποτε</string>
+    <string name="power_saving_settings">Εξοικονόμηση μπαταρίας</string>
     <string name="pref_accessibility">Προσβασιμότητα</string>
     <string name="pref_accessibility_title">Προσβασιμότητα</string>
     <string name="pref_adblock_summary">Οι σελίδες ενδέχεται να φορτώνονται πιο αργά όταν είναι ενεργοποιημένη αυτή η δυνατότητα</string>
@@ -1750,6 +1786,7 @@ ID:%s
     <string name="pwa_hint_added_success">Επιτυχής προσθήκη</string>
     <string name="qr_code_title">QR κωδικός</string>
     <string name="qr_description">Σάρωση QR κωδικού</string>
+    <string name="quick_access_to_common_functions">Γρήγορη πρόσβαση στα αγαπημένα σας χαρακτηριστικά</string>
     <string name="quick_search_and_access_to_functions">Η γρήγορη αναζήτηση σας επιτρέπει να έχετε εύκολη πρόσβαση στις λειτουργίες που χρησιμοποιείτε περισσότερο.</string>
     <string name="quicklink_bookmark_save">Αποθήκευση σε</string>
     <string name="quicklink_cannot_save_url">Αδυναμία προσθήκης URL.</string>
@@ -1767,6 +1804,9 @@ ID:%s
     <string name="quicklinks_most_visited">Προσθήκη στην αρχική σελίδα</string>
     <string name="quicklinks_most_visited_subtitle">Προβολή συχνά επισκεπτόμενων σελίδων σε νέα καρτέλα</string>
     <string name="quicklinks_most_visited_title">Προσθήκη στην αρχική σελίδα</string>
+    <string name="reading__business_recommend_at_end_more">Εμφάνιση περισσοτέρων</string>
+    <string name="reading__business_recommend_at_end_other_docs">Περαιτέρω ανάγνωση</string>
+    <string name="reading__business_recommend_at_end_title">Προτεινόμενο περιεχόμενο</string>
     <string name="reading__cancel">Ακύρωση</string>
     <string name="reading__menu_open_with_another_app">Άνοιγμα με άλλη εφαρμογή</string>
     <string name="reading__menu_play">Παρουσίαση</string>
@@ -1774,6 +1814,7 @@ ID:%s
     <string name="reading__menu_search">Αναζήτηση</string>
     <string name="reading__menu_share">Κοινοποίηση</string>
     <string name="reading__menu_thumbnail">Μικρογραφίες σελίδας</string>
+    <string name="reading__reading_end">Τέλος</string>
     <string name="reading__reading_first_page">Αυτή είναι η πρώτη σελίδα</string>
     <string name="reading__reading_last_page">Αυτή είναι η τελευταία σελίδα</string>
     <string name="reading__search_cancel">Ακύρωση</string>
@@ -1892,6 +1933,9 @@ ID:%s
     <string name="search_bar_hint_content">Αναζήτηση εφαρμογών και περιεχομένου</string>
     <string name="search_bing">Bing</string>
     <string name="search_button_text">Μετάβαση</string>
+    <string name="search_card_online_rec_app">Καταστήματα εφαρμογών</string>
+    <string name="search_card_online_rec_app_install">Εγκατάσταση</string>
+    <string name="search_card_online_rec_app_open">Άνοιγμα</string>
     <string name="search_dianping">Cate</string>
     <string name="search_easou">Easou</string>
     <string name="search_empty_view_hint">Δεν βρέθηκε τίποτα</string>
@@ -1923,7 +1967,7 @@ ID:%s
     <string name="search_yicha">Yicha</string>
     <string name="secure_download_in_xiaomi_market">Λήψη στο Κατάστημα εφαρμογών</string>
     <string name="secureaccess">Εναλλαγή σε Ασφαλή λειτουργία</string>
-    <string name="secureaccess_cancel">Αγνόηση</string>
+    <string name="secureaccess_cancel">Παράλειψη</string>
     <string name="security_url_confirm_message">Η απενεργοποίηση αυτής της λειτουργίας μπορεί να επιφέρει κινδύνους ασφαλείας.</string>
     <string name="security_warning">Προειδοποίηση ασφαλείας</string>
     <string name="security_warnings_confirm_message">Η απενεργοποίηση αυτής της λειτουργίας μπορεί να επιφέρει κινδύνους ασφαλείας.</string>
@@ -1966,6 +2010,8 @@ ID:%s
     <string name="setting_searchable_content">Ανιχνεύσιμα αντικείμενα</string>
     <string name="setting_sms_content">Περιεχόμενο SMS</string>
     <string name="setting_swipe_up">Σύρετε προς τα πάνω στην Αρχική οθόνη</string>
+    <string name="settings_search_online_apps">Καταστήματα εφαρμογών</string>
+    <string name="settings_search_online_apps_desc">Περιεχόμενο από καταστήματα εφαρμογών</string>
     <string name="share_image_text">Δες τι κοινοποίησα! @MIUI</string>
     <string name="share_page_text">Δες τι κοινοποίησα: %1$s @MIUI| %2$s</string>
     <string name="share_slide_video_text">Δες τι κοινοποίησα: %1$s</string>
@@ -2002,6 +2048,11 @@ ID:%s
     <string name="speed_test_no_network">Αδυναμία σύνδεσης στο δίκτυο. Ελέγξτε τις ρυθμίσεις δικτύου και προσπαθήστε ξανά.</string>
     <string name="speed_test_ping">Καθυστέρηση</string>
     <string name="speed_test_upload">Μεταφόρτωση</string>
+    <string name="sport_card_match_week">Εβδομάδα %d</string>
+    <string name="sports_card_match_season">Σεζόν</string>
+    <string name="sports_card_match_status_1">Ανερχόμενα</string>
+    <string name="sports_card_match_status_2">Σε εξέλιξη</string>
+    <string name="sports_card_match_status_3">Ολοκληρώθηκε</string>
     <string name="ssl_bad_clock_date_settings">Ορισμός ημερομηνίας</string>
     <string name="ssl_bad_clock_warning" formatted="false">Αδυναμία πραγματοποίησης μιας ιδιωτικής σύνδεσης σε %s1 διότι η ημερομηνία και ώρα της συσκευής σας (%s2) είναι εσφαλμένα.</string>
     <string name="ssl_bad_expired_warning">Το κανάλι αυτό παρέχεται από τον/την %1$s. Ωστόσο, η ημερομηνία και η ώρα που έχει οριστεί στη συσκευή σας (%2$s) δεν επιτρέπει την πραγματοποίηση ασφαλούς σύνδεσης με %1$s. Μπορείτε να ορίσετε τη σωστή ημερομηνία και ώρα ή να πατήσετε \"Συνέχεια\" εάν εξακολουθείτε να χρησιμοποιείτε αυτό το κανάλι.</string>
@@ -2118,6 +2169,7 @@ ID:%s
     <string name="the_united_nations_day">Ημέρα των Ηνωμένων Εθνών</string>
     <string name="the_valentines_day">Γιορτή των Ερωτευμένων</string>
     <string name="the_water_lantern_festival">Γιορτή Φαναριών Νερού</string>
+    <string name="third_image_viewer_label">Πρόγραμμα προβολής εικόνων (Mi Browser)</string>
     <string name="thursday">Πέμπτη</string>
     <string name="thursday_short">Πεμ</string>
     <string name="thursday_shortest">Πεμ</string>
@@ -2150,6 +2202,11 @@ ID:%s
     <string name="translation_query_error_network">Αδυναμία μετάφρασης. Ελέγξτε τις ρυθμίσεις του δικτύου σας και προσπαθήστε ξανά.</string>
     <string name="translation_result_empty">Αδυναμία μετάφρασης. Προσπαθήστε ξανά.</string>
     <string name="translation_to">Μετάφραση σε</string>
+    <string name="trash_cleaner_unit_b">B</string>
+    <string name="trash_cleaner_unit_gb">GB</string>
+    <string name="trash_cleaner_unit_kb">KB</string>
+    <string name="trash_cleaner_unit_mb">MB</string>
+    <string name="trash_cleaner_unit_tb">TB</string>
     <string name="trending_apps_more">Περισσότερα</string>
     <string name="tuesday">Τρίτη</string>
     <string name="tuesday_short">Τρι</string>
@@ -2168,6 +2225,7 @@ ID:%s
     <string name="update_no_network_toast">Αδυναμία σύνδεσης στο δίκτυο</string>
     <string name="update_now">ΕΝΗΜΕΡΩΣΗ ΤΩΡΑ</string>
     <string name="update_phone_notice">Αλλαγή ρυθμίσεων ασφαλείας</string>
+    <string name="upgrade">Ενημέρωση</string>
     <string name="upload_error_log">Μεταφόρτωση αρχείου καταγραφής</string>
     <string name="upload_usage_statistics">Ενεργοποιήστε για να κοινοποιήσετε τα στατιστικά στοιχεία χρήσης όταν η Ανώνυμη λειτουργία είναι ενεργοποιημένη</string>
     <string name="uploads_disabled">Η μεταφόρτωση αρχείων είναι περιορισμένη</string>
@@ -2356,10 +2414,13 @@ https://www.facebook.com/miui.global.official/videos/1602181069951748"</string>
     <string name="web_tag_desc">Εμφάνιση μικρογραφιών σελίδων που έχετε επισκεφτεί στο παρελθόν</string>
     <string name="web_tag_tips">Πατήστε εδώ για να επισκεφθείτε ξανά μια σελίδα</string>
     <string name="web_tag_title">Μικρογραφίες ιστοσελίδων</string>
+    <string name="web_tools_moved_here">Τα εργαλεία μεταφέρθηκαν εδώ</string>
     <string name="web_video_accelerate">Ταχύτητα</string>
+    <string name="web_video_default_time">%1$s :%2$s</string>
     <string name="web_video_download">Λήψη</string>
     <string name="web_video_download_no_access">Απαιτούνται δικαιώματα για τη λήψη στοιχείων</string>
     <string name="web_video_enable_long_click_toast">Αναπαραγωγή με ταχύτητα %dX</string>
+    <string name="web_video_float_drag_msg">Σύρετε για προσαρμογή μεγέθους</string>
     <string name="web_video_list_more">Περισσότερα</string>
     <string name="web_video_list_playing">Σε αναπαραγωγή</string>
     <string name="web_video_list_replay">Επανάληψη</string>
