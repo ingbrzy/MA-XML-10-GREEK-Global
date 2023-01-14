@@ -139,7 +139,6 @@
     <string name="cast_forward">Προώθηση</string>
     <string name="cast_forward_10">Προώθηση 10 δευτερόλεπτα μπροστά</string>
     <string name="cast_forward_30">Προώθηση 30 δευτερόλεπτα μπροστά</string>
-    <string name="cast_intro_overlay_button_text">@android:string/ok</string>
     <string name="cast_live_label">ΖΩΝΤΑΝΑ</string>
     <string name="cast_mute">Σίγαση</string>
     <string name="cast_notification_connected_message">Συνδέθηκε με το %1$s</string>
@@ -1066,7 +1065,6 @@ ID:%s
     <string name="mtrl_picker_a11y_next_month">Αλλαγή στον επόμενο μήνα</string>
     <string name="mtrl_picker_a11y_prev_month">Αλλαγή στον προηγούμενο μήνα</string>
     <string name="mtrl_picker_announce_current_selection">Τρέχουσα επιλογή: %1$s</string>
-    <string name="mtrl_picker_confirm">@android:string/ok</string>
     <string name="mtrl_picker_date_header_selected">%1$s</string>
     <string name="mtrl_picker_date_header_title">Επιλογή ημερομηνίας</string>
     <string name="mtrl_picker_date_header_unselected">Επιλεγμένη ημερομηνία</string>

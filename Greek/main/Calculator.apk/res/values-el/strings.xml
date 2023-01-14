@@ -696,7 +696,6 @@
     <string name="unit_data_display_currency_btn">Νγκούλτρουμ του Μπουτάν</string>
     <string name="unit_data_display_currency_bwp">Πούλα της Μποτσουάνα</string>
     <string name="unit_data_display_currency_byn">Ρούβλι Λευκορωσίας</string>
-    <string name="unit_data_display_currency_byr">@string/unit_data_display_currency_byn</string>
     <string name="unit_data_display_currency_cad">Καναδικό Δολάριο</string>
     <string name="unit_data_display_currency_cdf">Φράγκο του Κονγκό</string>
     <string name="unit_data_display_currency_chf">Ελβετικό Φράγκο</string>
@@ -1039,15 +1038,12 @@
     <string name="word_figure_unit_shi">拾</string>
     <string name="word_figure_yuan">元</string>
     <string name="word_figure_zheng">整</string>
-    <string name="xiaomi_bytes_unit">%1$sB</string>
     <string name="xiaomi_calculator_delete_description">Η Αριθμομηχανή είναι μια εφαρμογή συστήματος. Δεν θα μπορείτε να χρησιμοποιήσετε πολλούς μετατροπείς και πρόσθετες λειτουργίες μετά την απεγκατάσταση της εφαρμογής.</string>
     <string name="xiaomi_calculator_delete_title">Απεγκατάσταση Αριθμομηχανής;</string>
     <string name="xiaomi_calculator_remove_icon_description">Η Αριθμομηχανή είναι μια εφαρμογή συστήματος. Δεν θα μπορείτε να χρησιμοποιήσετε πολλούς μετατροπείς και πρόσθετες λειτουργίες μετά την αφαίρεση της Συντόμευσης αρχικής οθόνης.</string>
     <string name="xiaomi_calculator_remove_icon_title">Αφαίρεση \"Αριθμομηχανής\" από την Αρχική οθόνη;</string>
     <string name="xiaomi_connect_download_manager_fail">Δεν ήταν δυνατή η σύνδεση με τις Λήψεις. Ελέγξτε αν αυτή η εφαρμογή διαθέτει όλα τα απαιτούμενα δικαιώματα στις Ρυθμίσεις > Εγκατεστημένες εφαρμογές.</string>
     <string name="xiaomi_external_storage_unavailable">Μη διαθέσιμος χώρος αποθήκευσης. Ελέγξτε την κάρτα SD σας.</string>
-    <string name="xiaomi_kilobytes_unit">%1$sKB</string>
-    <string name="xiaomi_megabytes_unit">%1$sMB</string>
     <string name="xiaomi_update_dialog_message">"Εισαγωγή έκδοσης %1$s
 Μέγεθος: %2$s"</string>
     <string name="xiaomi_update_dialog_message_diff">"Εισαγωγή έκδοσης %1$s

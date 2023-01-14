@@ -139,7 +139,6 @@
     <string name="cast_forward">Προώθηση</string>
     <string name="cast_forward_10">Προώθηση 10 δευτερόλεπτα μπροστά</string>
     <string name="cast_forward_30">Προώθηση 30 δευτερόλεπτα μπροστά</string>
-    <string name="cast_intro_overlay_button_text">@android:string/ok</string>
     <string name="cast_live_label">ΖΩΝΤΑΝΑ</string>
     <string name="cast_mute">Σίγαση</string>
     <string name="cast_notification_connected_message">Συνδέθηκε με το %1$s</string>
@@ -1070,7 +1069,6 @@ ID:%s
     <string name="mtrl_picker_a11y_next_month">Αλλαγή στον επόμενο μήνα</string>
     <string name="mtrl_picker_a11y_prev_month">Αλλαγή στον προηγούμενο μήνα</string>
     <string name="mtrl_picker_announce_current_selection">Τρέχουσα επιλογή: %1$s</string>
-    <string name="mtrl_picker_confirm">@android:string/ok</string>
     <string name="mtrl_picker_date_header_selected">%1$s</string>
     <string name="mtrl_picker_date_header_title">Επιλογή ημερομηνίας</string>
     <string name="mtrl_picker_date_header_unselected">Επιλεγμένη ημερομηνία</string>
@@ -1154,7 +1152,6 @@ ID:%s
     <string name="online_play_start_ready_loading_tip_kb">Φόρτωση %.2f KB/δ</string>
     <string name="online_play_start_ready_loading_tip_mb">Φόρτωση %.2f MB/δ</string>
     <string name="online_play_title">Εισαγωγή URL</string>
-    <string name="order_alphabet">Α-Ω</string>
     <string name="order_recently_subscribe">Πρόσφατες συνδρομές</string>
     <string name="order_recently_updated">Πρόσφατες ενημερώσεις</string>
     <string name="out_of_memory_background_playback_is_suspended">Παύση αναπαραγωγής στο παρασκήνιο λόγω ανεπαρκούς μνήμης</string>
@@ -1654,7 +1651,6 @@ ID:%s
     <string name="sns_sign_in">Άλλοι τρόποι να συνδεθείτε</string>
     <string name="source">"Πηγή: "</string>
     <string name="start_download_tip">Προστέθηκε στην ουρά. Ελέγξτε την πρόοδο στο Προφίλ > Λήψεις.</string>
-    <string name="status_bar_notification_info_overflow">999+</string>
     <string name="storage_external_sdcard">Κάρτα SD</string>
     <string name="storage_internal_sdcard">Εσωτερικός χώρος αποθήκευσης</string>
     <string name="submit">Υποβολή</string>

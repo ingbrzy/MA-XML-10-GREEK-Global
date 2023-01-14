@@ -195,7 +195,6 @@
     <string name="b_contacts_remove_tips">Κατάργηση αυτής της διεύθυνσης από τη λίστα αποκλεισμού;</string>
     <string name="back">Πίσω</string>
     <string name="bcc">Ιδιαίτ. Κοιν.</string>
-    <string name="bcc_heading">"Ιδ.Κοιν: "</string>
     <string name="blank_feedback_toast">Θα πρέπει να γράψετε σχόλια</string>
     <string name="body_forward_email_text">[Forward]</string>
     <string name="body_hint">Σύνθεση email</string>
@@ -206,7 +205,6 @@
     <string name="cancel">Ακύρωση</string>
     <string name="cancel_action">Ακύρωση</string>
     <string name="cc">Κοιν.</string>
-    <string name="cc_attribution">"Κοιν: %1$s  &lt; br >"</string>
     <string name="cc_bcc">Κοιν/Ιδιαίτ. Κοιν.</string>
     <string name="cc_heading">"Κοιν: "</string>
     <string name="certificate_add_failed">Αδυναμία προσθήκης πιστοποιητικού \"%s\" certificate</string>
@@ -230,7 +228,6 @@
     <string name="click_to_reload">Αγγίξτε την οθόνη για να ανανεώσετε</string>
     <string name="close">Κλείσιμο</string>
     <string name="collapse_recipient_details">Κλείσιμο λεπτομερειών παραλήπτη</string>
-    <string name="colon">:</string>
     <string name="compose">Σύνθεση</string>
     <string name="compose_event">Πρόσκληση</string>
     <string name="compose_paste_address_oob">Πάρα πολλοί χαρακτήρες</string>
@@ -470,7 +467,6 @@
     <string name="installation_failed">Αποτυχία εγκατάστασης.</string>
     <string name="installing_module">Εγκατάσταση λειτουργικής μονάδας:</string>
     <string name="kilobytes">"%s  KB"</string>
-    <string name="label_notification_ticker">%1$s: %2$s</string>
     <string name="load_from_remote">Αναζήτηση mailbox στον διακομιστή</string>
     <string name="load_more">Φόρτωση περισσότερων</string>
     <string name="loading_conversation">Φόρτωση…</string>
@@ -858,7 +854,6 @@
     <string name="size_tera_byte">TB</string>
     <string name="smtp_password_error">Ο κωδικός για το διακομιστή εξερχόμενης αλληλογραφίας είναι εσφαλμένος</string>
     <string name="sort_attachment">Ταξινόμηση κατά</string>
-    <string name="status_bar_notification_info_overflow">999+</string>
     <string name="str_select_all">Επιλογή όλων</string>
     <string name="str_select_none">Αποεπιλογή όλων</string>
     <string name="subject_and_snippet">%1$s - %2$s</string>

@@ -525,7 +525,6 @@ mm"</string>
     <string name="shutdown_alarm_enable_summary">Το ξυπνητήρι θα ηχήσει εάν είναι ρυθμισμένο για τουλάχιστον 10 λεπτά μετά την απενεργοποίηση της συσκευής σας</string>
     <string name="shutdown_alarm_title">Απενεργοποίηση ξυπνητηριού</string>
     <string name="silent_alarm_summary">Αθόρυβο</string>
-    <string name="skip_alarm_date_format">%1$s (%2$s)</string>
     <string name="skip_alarm_once_hint">Απενεργοποίηση μία φορά σε %s</string>
     <string name="sleep_analysis">Στατιστικά</string>
     <string name="sleep_analysis_chart_date_format">dd/MM</string>
@@ -571,7 +570,6 @@ mm"</string>
     <string name="status_bar_clock_date_time_format">H:mm:ss</string>
     <string name="status_bar_clock_date_time_format_12">h:mm:ss aa</string>
     <string name="status_bar_clock_date_time_format_seconds_12">h:mm:ss</string>
-    <string name="status_bar_notification_info_overflow">999+</string>
     <string name="stopwatch_lap_empty_text">Δεν υπάρχουν γύροι</string>
     <string name="stopwatch_reset_notification">Έγινε επαναφορά του χρονοδιακόπτη</string>
     <string name="stopwatch_running_notification">Χρονόμετρο</string>
@@ -580,7 +578,6 @@ mm"</string>
     <string name="sunday">Κυριακή</string>
     <string name="sunday_short">Κυρ</string>
     <string name="sunday_shortest">Κυρ</string>
-    <string name="symbol_colon">:</string>
     <string name="system_permission_agree_desc">Να επιτρέπεται αυτή η εφαρμογή να συνδεθεί στο ίντερνετ για πρόσβαση σε όλες τις λειτουργίες της.</string>
     <string name="system_permission_main_purpose">Προβολή χρόνου, ρύθμιση ξυπνητηριών και χρονοδιακοπτών, χρήση χρονομέτρου</string>
     <string name="system_permission_purpose">Δημιουργία ξυπνητηριών για εργάσιμες ημέρες και ρύθμιση προσαρμοσμένων κουδουνισμάτων</string>
