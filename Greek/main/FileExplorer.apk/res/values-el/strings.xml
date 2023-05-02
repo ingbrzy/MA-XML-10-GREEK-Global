@@ -129,6 +129,8 @@
     <string name="cloud_drive_settings">Ρυθμίσεις Mi Drive</string>
     <string name="cloud_empty_hint_text">"Δεν υπάρχει τίποτα εδώ ακόμα.
 Δοκιμάστε να μετακινήσετε αρχεία από τη συσκευή σας στο Mi Drive."</string>
+    <string name="cloud_empty_hint_text_pad">"Δεν υπάρχει τίποτα εδώ ακόμα.
+Δοκιμάστε να μετακινήσετε αρχεία από τη συσκευή σας στο Mi Drive."</string>
     <string name="cloud_guide_summary_text">Συγχρονίστε αυτόματα τα στοιχεία σας σε όλες τις συσκευές σας</string>
     <string name="cloud_guide_title_text">Συγχρονισμός με Mi Drive</string>
     <string name="cloud_permission_storage_desc">Για αποθήκευση φωτογραφιών και εγγράφων στη συσκευή σας</string>
@@ -246,6 +248,9 @@
     <string name="exception_net_not_available">Ελέγξτε τις ρυθμίσεις του δικτύου σας και προσπαθήστε ξανά</string>
     <string name="exit">Έξοδος</string>
     <string name="expand_button_title">Σύνθετες</string>
+    <string name="extend_service_setting">Επιπλέον υπηρεσίες</string>
+    <string name="extend_service_summary">Εάν απενεργοποιήσετε αυτήν την υπηρεσία, δεν θα μπορείτε να χρησιμοποιήσετε λειτουργίες που σχετίζονται με το Mi Drive</string>
+    <string name="extend_service_title">Διαχείριση αρχείων Mi Drive</string>
     <string name="extended_storage_file_can_not_open">Αδυναμία ανοίγματος αρχείου. Αντιγράψτε το αρχείο στον εσωτερικό χώρο αποθήκευσης.</string>
     <string name="extract">Αποσυμπίεση</string>
     <string name="fab_menu_ball">Γρήγορες ενέργειες</string>
@@ -256,6 +261,7 @@
     <string name="favorite_photo">Φωτογραφίες</string>
     <string name="favorite_ringtone">Κουδουνίσματα</string>
     <string name="favorite_screen_cap">Στιγμιότυπα οθόνης</string>
+    <string name="fileSizeSuffix">%1$s %2$s</string>
     <string name="file_info_canread">Αναγνώσιμες: </string>
     <string name="file_info_canwrite">Εγγράψιμες: </string>
     <string name="file_info_ishidden">Κρυμμένες: </string>
@@ -629,6 +635,9 @@
     <string name="otg_data_transferring">Μεταφορά αρχείων… Μην αποσυνδέετε τον εξωτερικό χώρο αποθήκευσης.</string>
     <string name="otg_file_security_note">OGTSecurity</string>
     <string name="overwrite_msg">Το \"%s\" υπάρχει ήδη. Πατήστε για την αντικατάσταση του με το νέο αρχείο.</string>
+    <string name="pad">Τάμπλετ</string>
+    <string name="pad_homepage_tab_file_view_phone">Τάμπλετ</string>
+    <string name="pad_start_phone">Αποθηκευτικός χώρος</string>
     <string name="partial_cancel_successful">Αδυναμία αφαίρεσης ορισμένων αρχείων. Τα υπόλοιπα αρχεία μετακινήθηκαν στο %s.</string>
     <string name="partial_delete_failure">Αδυναμία διαγραφής ορισμένων αρχείων. Προσπαθήστε ξανά.</string>
     <string name="partial_encrypt_success">Αδυναμία ορισμένα αρχεία να γίνουν ιδιωτικά. Προσπαθήστε ξανά.</string>
@@ -754,6 +763,7 @@
     <string name="set_pattern">Αναβαθμίστε τον κωδικό σας</string>
     <string name="set_pattern_btn">Ορισμός</string>
     <string name="set_pattern_msg">Ορίστε ξανά τον κωδικό σας. Ο κωδικός Προστασίας απορρήτου λειτουργεί επίσης και για φωτογραφίες, μηνύματα και σημειώσεις.</string>
+    <string name="settings">@string/server_control_settings</string>
     <string name="size_lv1">Μικρότερο από %d KB</string>
     <string name="size_lv2" formatted="false">%1d KB - %2d MB</string>
     <string name="size_lv3" formatted="false">%1d MB - %2d MB</string>
@@ -775,6 +785,9 @@
     <string name="status_bar_notification_info_overflow">999+</string>
     <string name="stay_awake_summary">Ενεργή οθόνη κατά την χρήση FTP</string>
     <string name="stay_awake_title">Διατήρηση ενεργής οθόνης</string>
+    <string name="stop_extend_service_dialog_confirm">Απενεργοποίηση</string>
+    <string name="stop_extend_service_dialog_summary">Εάν απενεργοποιήσετε αυτήν τη λειτουργία, δεν θα μπορείτε να διαχειριστείτε τα αρχεία σας που είναι αποθηκευμένα στο Mi Drive. Απενεργοποίηση ούτως ή άλλως;</string>
+    <string name="stop_extend_service_dialog_tilte">Επιπλέον υπηρεσίες</string>
     <string name="stop_server">Διακοπή</string>
     <string name="storage_cloned_app">Χώρος αποθήκευσης για διπλότυπες εφαρμογές</string>
     <string name="storage_info_detail">Διαθέσιμα: %1$s Συνολικά: %2$s</string>
@@ -844,7 +857,7 @@
     <string name="time_picker_label_hour">Ω</string>
     <string name="time_picker_label_minute">Λ</string>
     <string name="tip">Προσοχή</string>
-    <string name="tips_add_to_widget">Μπορείτε να προσθέσετε έως και &lt;&lt;xliff:g id=app_widget_num refersto=4>%d&lt;/xliff:g> αρχεία σε αυτό το γραφικό στοιχείο. Εάν προσθέσετε περισσότερα αρχεία, θα αντικατασταθούν αυτά που προστέθηκαν προηγουμένως.</string>
+    <string name="tips_add_to_widget">Μπορείτε να προσθέσετε έως και %d αρχεία σε αυτό το γραφικό στοιχείο. Εάν προσθέσετε περισσότερα αρχεία, θα αντικατασταθούν αυτά που προστέθηκαν προηγουμένως.</string>
     <string name="title_app_tags">Εφαρμογές</string>
     <string name="title_expire_video">Θα λήξει σύντομα</string>
     <string name="title_recent">Πρόσφατα</string>

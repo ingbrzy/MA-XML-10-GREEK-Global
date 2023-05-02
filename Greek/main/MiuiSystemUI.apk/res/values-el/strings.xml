@@ -629,6 +629,10 @@
     <string name="daltonizer_mode_protanomaly">Πρωτανοπία (κόκκινο-πράσινο)</string>
     <string name="daltonizer_mode_tritanomaly">Τριτανοπία (μπλε-κίτρινο)</string>
     <string name="daltonizer_type_overridden">Αντικαταστάθηκε από %1$s</string>
+    <string name="dark_mode_power_save_alert_dialog_confirm">Κατανοητό</string>
+    <string name="dark_mode_power_save_alert_dialog_message">"Εάν απενεργοποιήσετε τη βελτιστοποίηση MIUI και ενεργοποιήσετε την Εξοικονόμηση μπαταρίας, η Σκοτεινή λειτουργία θα ενεργοποιηθεί αυτόματα.
+Για να απενεργοποιήσετε τη Σκοτεινή λειτουργία, απενεργοποιήστε την Εξοικονόμηση μπαταρίας ή ενεργοποιήστε τη βελτιστοποίηση MIUI στις Ρυθμίσεις > Επιλογές προγραμματιστών > Ενεργοποίηση βελτιστοποίησης MIUI."</string>
+    <string name="dark_mode_power_save_alert_dialog_title">Σκοτεινή λειτουργία</string>
     <string name="data_connection_3_5g">H</string>
     <string name="data_connection_3_5g_plus">H+</string>
     <string name="data_connection_3g">3G</string>
@@ -1452,6 +1456,7 @@ mm"</string>
     <string name="monitoring_description_personal_profile_named_vpn">Οι προσωπικές εφαρμογές σας συνδέονται στο διαδίκτυο μέσω της εφαρμογής %1$s. Η δραστηριότητα δικτύου, συμπεριλαμβανομένων των μηνυμάτων ηλεκτρονικού ταχυδρομείου και των δεδομένων περιήγησης, είναι ορατή στον πάροχο VPN.</string>
     <string name="monitoring_description_two_named_vpns">Αυτή η συσκευή συνδέεται στο διαδίκτυο μέσω των εφαρμογών %1$s και %2$s. Η δραστηριότητα δικτύου σας, συμπεριλαμβανομένων των μηνυμάτων ηλεκτρονικού ταχυδρομείου και των δεδομένων περιήγησης, είναι ορατή στον διαχειριστή IT σας.</string>
     <string name="monitoring_description_vpn_settings">Άνοιγμα Ρυθμίσεων VPN</string>
+    <string name="monitoring_description_vpn_settings_separator">" "</string>
     <string name="monitoring_financed_description_named_management">"Ο οργανισμός %1$s ενδέχεται να έχει πρόσβαση σε δεδομένα που σχετίζονται με αυτήν τη συσκευή, να διαχειρίζεται εφαρμογές και να αλλάζει τις ρυθμίσεις της.
 
 Εάν έχετε ερωτήσεις, επικονωνήστε με τον οργανισμό %2$s."</string>
@@ -1530,6 +1535,7 @@ mm"</string>
     <string name="mtrl_picker_a11y_next_month">Αλλαγή στον επόμενο μήνα</string>
     <string name="mtrl_picker_a11y_prev_month">Αλλαγή στον προηγούμενο μήνα</string>
     <string name="mtrl_picker_announce_current_selection">Τρέχουσα επιλογή: %1$s</string>
+    <string name="mtrl_picker_confirm">@android:string/ok</string>
     <string name="mtrl_picker_date_header_selected">%1$s</string>
     <string name="mtrl_picker_date_header_title">Επιλογή ημερομηνίας</string>
     <string name="mtrl_picker_date_header_unselected">Επιλεγμένη ημερομηνία</string>
@@ -1559,6 +1565,7 @@ mm"</string>
     <string name="music_controls_no_title">Χωρίς τίτλο</string>
     <string name="nav_bar">Γραμμή πλοήγησης</string>
     <string name="nav_bar_layout">Διάταξη</string>
+    <string name="network_speed_suffix">%1$s%2$s</string>
     <string name="new_notification_image_content_description">Ο χρήστης %1$s έστειλε μια εικόνα</string>
     <string name="new_notification_text_content_description">Ο χρήστης %1$s έστειλε ένα μήνυμα: %2$s</string>
     <string name="new_status_content_description">Ο χρήστης %1$s έχει μια ενημέρωση κατάστασης: %2$s</string>
@@ -1764,6 +1771,7 @@ mm"</string>
     <string name="private_dns_mode_provider">Όνομα κεντρικού υπολογιστή παρόχου DNS</string>
     <string name="private_dns_mode_provider_failure">Δεν ήταν δυνατή η σύνδεση</string>
     <string name="private_dns_mode_provider_hostname_hint">Όνομα κεντρικού υπολογιστή του παρόχου DNS</string>
+    <string name="process_kernel_label">Λειτουργικό σύστημα Android</string>
     <string name="profile_connect_timeout_subtext">Πρόβλημα κατά τη σύνδεση. Απενεργοποιήστε τη συσκευή και ενεργοποιήστε την ξανά</string>
     <string name="profile_info_settings_title">Πληροφορίες προφίλ</string>
     <string name="qr_code_scanner_title">Σάρωση κωδικού QR</string>
@@ -1929,9 +1937,9 @@ mm"</string>
     <string name="reboot_info_auto_boot_global">Επερχόμενο ξυπνητήρι: %s</string>
     <string name="reboot_info_shutdown_alarm_global">Ξυπνητήρι απενεργοποίησης: %s</string>
     <string name="recent_conversations">Πρόσφατες συζητήσεις</string>
-    <string name="recent_used_camera">Αυτή η εφαρμογή χρησιμοποίησε κάμερα</string>
-    <string name="recent_used_camera_and_microphone">Αυτή η εφαρμογή ηχογράφησε και χρησιμοποίησε κάμερα</string>
-    <string name="recent_used_microphone">Αυτή η εφαρμογή ηχογράφησε</string>
+    <string name="recent_used_camera">Αυτή η εφαρμογή απέκτησε πρόσβαση στην κάμερα</string>
+    <string name="recent_used_camera_and_microphone">Αυτή η εφαρμογή απέκτησε πρόσβαση στην κάμερα και το μικρόφωνο</string>
+    <string name="recent_used_microphone">Αυτή η εφαρμογή απέκτησε πρόσβαση στο μικρόφωνο</string>
     <string name="remaining_length_format">Απομένουν %1$s</string>
     <string name="remote_input_image_insertion_text">έστειλε μια εικόνα</string>
     <string name="remove_from_settings">Κατάργηση από τις Ρυθμίσεις</string>
@@ -2103,6 +2111,8 @@ mm"</string>
     <string name="status_bar_clock_date_time_format_12">h:mm a, E, d MMM</string>
     <string name="status_bar_clock_date_weekday_format">EEEE, dd MMMM</string>
     <string name="status_bar_clock_date_weekday_format_12">EEEE, dd MMMM</string>
+    <string name="status_bar_clock_date_weekday_format_12_brief">@string/status_bar_clock_date_format_12</string>
+    <string name="status_bar_clock_date_weekday_format_brief">@string/status_bar_clock_date_format</string>
     <string name="status_bar_date_format">"E
 d MMM"</string>
     <string name="status_bar_date_format_12">"E
@@ -2352,9 +2362,9 @@ d MMM"</string>
     <string name="user_setup_dialog_title">Να γίνει ρύθμιση χρήστη τώρα;</string>
     <string name="user_setup_profile_dialog_message">Να γίνει ρύθμιση προφίλ τώρα;</string>
     <string name="user_switch_to_user">Εναλλαγή σε %s</string>
-    <string name="using_camera">Αυτή η εφαρμογή χρησιμοποιεί κάμερα</string>
-    <string name="using_camera_and_microphone">Αυτή η εφαρμογή καταγράφει ήχο και χρησιμοποιεί κάμερα</string>
-    <string name="using_microphone">Αυτή η εφαρμογή ηχογραφεί</string>
+    <string name="using_camera">Αυτή η εφαρμογή έχει πρόσβαση στην κάμερα</string>
+    <string name="using_camera_and_microphone">Αυτή η εφαρμογή έχει πρόσβαση στην κάμερα και το μικρόφωνο</string>
+    <string name="using_microphone">Αυτή η εφαρμογή έχει πρόσβαση στο μικρόφωνο</string>
     <string name="v7_preference_off">ΑΝΕΝΕΡΓΗ</string>
     <string name="v7_preference_on">ΕΝΕΡΓΗ</string>
     <string name="verify_apps_over_usb_summary">Έλεγχος εφαρμογών που έχουν εγκατασταθεί μέσω ADB/ADT για επιβλαβή συμπεριφορά.</string>

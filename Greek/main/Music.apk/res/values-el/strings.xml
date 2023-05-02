@@ -40,35 +40,8 @@
     <string name="abc_shareactionprovider_share_with">Κοινοποίηση σε</string>
     <string name="abc_shareactionprovider_share_with_application">Κοινοποίηση στην εφαρμογή %s</string>
     <string name="abc_toolbar_collapse_description">Σύμπτυξη</string>
-    <string name="access_denied_info">Πάρα πολλές προσπάθειες. Περιμένετε ένα ή δύο λεπτά και προσπαθήστε ξανά.</string>
     <string name="account_and_cloud">Λογαριασμός</string>
-    <string name="account_crop_user_avatar">Περικοπή φωτογραφίας</string>
-    <string name="account_empty_user_name">Εισαγωγή ονόματος χρήστη του Mi Λογαριασμού σας</string>
-    <string name="account_error_all_space_user_name">Το όνομα χρήστη δεν μπορεί να περιέχει μόνο χαρακτήρες διαστήματος</string>
-    <string name="account_error_invalid_user_name">Το όνομα δεν πρέπει να περιέχει &lt;, >, ή /</string>
-    <string name="account_error_longer_user_name">Το όνομα δεν πρέπει να περιέχει πάνω από 20 χαρακτήρες</string>
-    <string name="account_error_shorter_user_name">Το όνομα πρέπει να περιέχει πάνω από 2 χαρακτήρες</string>
-    <string name="account_error_user_birthday">Τα γενέθλια που εισαγάγατε δεν είναι έγκυρα</string>
-    <string name="account_error_user_name">Αυτό το ψευδώνυμο δεν είναι έγκυρο. Δοκιμάστε ένα άλλο.</string>
-    <string name="account_invalid_user_avatar">Αυτή η φωτογραφία δεν είναι έγκυρη. Δοκιμάστε μια άλλη.</string>
-    <string name="account_limit_update_birthday">Αδυναμία ενημέρωσης γενεθλίων τώρα</string>
     <string name="account_logout">Αποσύνδεση</string>
-    <string name="account_no_set">Καμία επιλογή</string>
-    <string name="account_none_bind_info">Τίποτα</string>
-    <string name="account_none_user_name">Καμία επιλογή</string>
-    <string name="account_secure_info_pref_title">Πληροφορίες λογαριασμού</string>
-    <string name="account_security_info_pref_title">Πληροφορίες ασφάλειας</string>
-    <string name="account_user_avatar">Φωτογραφία προφίλ</string>
-    <string name="account_user_avatar_from_album">Συλλογή</string>
-    <string name="account_user_avatar_from_camera">Κάμερα</string>
-    <string name="account_user_base_info">Βασικές πληροφορίες</string>
-    <string name="account_user_details">Προσωπικές πληροφορίες</string>
-    <string name="account_user_email">Email ανάκτησης</string>
-    <string name="account_user_gender">Φύλο</string>
-    <string name="account_user_id">ID Mi Λογαριασμού</string>
-    <string name="account_user_name">Ψευδώνυμο</string>
-    <string name="account_user_name_dialog_title">Εισαγωγή ονόματος χρήστη</string>
-    <string name="account_user_phone">Τηλέφωνο ανάκτησης</string>
     <string name="action_item_add">Προσθήκη σε</string>
     <string name="action_item_add_song">Προσθήκη σε λίστα αναπαραγωγής</string>
     <string name="action_item_add_to_current_playlist">Σε ουρά</string>
@@ -82,13 +55,13 @@
     <string name="action_item_play_all">Τυχαία αναπαραγωγή όλων</string>
     <string name="action_item_play_next">Αναπαραγωγή αργότερα</string>
     <string name="action_item_play_video">Αναπαραγωγή μουσικού βίντεο</string>
+    <string name="action_item_podcast">Λεπτομέρειες podcast</string>
+    <string name="action_item_podcast_speed">Ταχύτητα αναπαραγωγής</string>
     <string name="action_item_remove">Αφαίρεση</string>
     <string name="action_item_remove_from_favorite">Άρση επισήμανσης ως αγαπημένη</string>
     <string name="action_item_share">Κοινοποίηση</string>
     <string name="action_settings">Ρυθμίσεις</string>
     <string name="actionbar_button_up_description">Πίσω</string>
-    <string name="activate_email_notice">Να ενεργοποιήσετε τον λογαριασμό σας μέσα σε 24 ώρες</string>
-    <string name="activity_not_found_notice">Αδυναμία εύρεσης εφαρμογής</string>
     <string name="ad_close">Κλείσιμο</string>
     <string name="ad_data_exception">Σφάλμα δεδομένων διαφημιστικών</string>
     <string name="ad_recommend">Εμφάνιση διαφημίσεων</string>
@@ -98,7 +71,6 @@
     <string name="add_to_last_of_playlist">Προσθήκη στο τέλος της λίστας αναπαραγωγής</string>
     <string name="add_to_playlist">Προσθήκη στην ουρά</string>
     <string name="add_to_playlist_successful">Επιτυχής προσθήκη</string>
-    <string name="add_to_trust_device">Αυτή η συσκευή είναι αξιόπιστη</string>
     <string name="added_next_play">Προστέθηκε για επόμενη αναπαραγωγή</string>
     <string name="afternoon">Απόγευμα</string>
     <string name="agreement_desc">Συμφωνία Χρήστη (υποχρεωτικό)</string>
@@ -156,7 +128,6 @@
     <string name="audio_ad_countdown">Παράβλεψη διαφήμισης σε %sδ</string>
     <string name="audio_ad_pass">Παράβλεψη διαφήμισης</string>
     <string name="audio_picker_title">Επιλογή τραγουδιού</string>
-    <string name="auth_fail_warning">Η συνεδρία έληξε. Συνδεθείτε ξανά.</string>
     <string name="auto_play_switch">Αυτόματη αναπαραγωγή βίντεο</string>
     <string name="auto_play_toast">Η αυτόματη αναπαραγωγή είναι ενεργοποιημένη. Μπορείτε να την απενεργοποιήσετε στις Ρυθμίσεις.</string>
     <string name="auto_recommend">Αυτόματα (προτεινόμενο)</string>
@@ -166,6 +137,7 @@
     <string name="autoplay_is_off">Η αυτόματη αναπαραγωγή δεν είναι ενεργή</string>
     <string name="autoplay_is_on">Η αυτόματη αναπαραγωγή είναι ενεργή</string>
     <string name="available_playlist_name_format">Νέα λίστα αναπαραγωγής %d</string>
+    <string name="avatar">Φωτογραφία προφίλ</string>
     <string name="avoid_to_use_traffic_summary">Μην χρησιμοποιείτε δίκτυο κινητής τηλεφωνίας για αναπαραγωγή μουσικής</string>
     <string name="avoid_to_use_traffic_title">Ειδοποίηση κατά την χρήση κινητών δεδομένων για αναπαραγωγή τραγουδιών</string>
     <string name="back">Πίσω</string>
@@ -187,9 +159,7 @@
     <string name="cancel">Ακύρωση</string>
     <string name="cancel_running_download">Ακύρωση</string>
     <string name="cannot_download_to_sdcard_hint">Αδυναμία λήψης αντικειμένων στην κάρτα SD λόγω περιορισμών πνευματικών δικαιωμάτων. Αντί αυτού, τα στοιχεία θα ληφθούν σε εσωτερικό χώρο αποθήκευσης.</string>
-    <string name="change_activate_email">Αλλαγή διεύθυνσης email</string>
     <string name="change_download_quality">Αλλαγή ποιότητας λήψης</string>
-    <string name="change_password">Αλλαγή κωδικού</string>
     <string name="character_counter_content_description">Εισήχθησαν %1$d από %2$d χαρακτήρες</string>
     <string name="character_counter_overflowed_content_description">Υπέρβαση ορίου χαρακτήρων %1$d από %2$d</string>
     <string name="checking_new_version">Γίνεται έλεγχος για ενημερώσεις…</string>
@@ -206,7 +176,6 @@
     <string name="click_to_shuffle">Αγγίξτε για τυχαία αναπαραγωγή</string>
     <string name="close">Κλείσιμο</string>
     <string name="close_music_time">"Χρόνος που απομένει: "</string>
-    <string name="collect_diagnosis_log">Συλλογή αρχείων καταγραφής</string>
     <string name="columbus_ad_flag_text">Διαφήμιση</string>
     <string name="columbus_skip_ad">Παράλειψη</string>
     <string name="comment_format" formatted="false">%s: %s</string>
@@ -229,7 +198,6 @@
     <string name="common_signin_button_text">Σύνδεση</string>
     <string name="common_signin_button_text_long">Συνδεθείτε με το Google</string>
     <string name="confirm">ΟΚ</string>
-    <string name="confirm_activate_email">Έγινε επαλήθευση</string>
     <string name="confirm_exit">Αποθήκευση αλλαγών;</string>
     <string name="connect_now">Σύνδεση</string>
     <string name="connecting_apk">Γίνεται σύνδεση…</string>
@@ -272,10 +240,6 @@
     <string name="desktop_lyric_textsize">Κείμενο</string>
     <string name="device_connected">Έγινε σύνδεση</string>
     <string name="device_not_connected">Δεν έγινε σύνδεση</string>
-    <string name="diagnosis_log_send_failed">Αδυναμία αποστολής αρχείων καταγραφής. Προσπαθήστε ξανά.</string>
-    <string name="diagnosis_log_sent_format">"Επιτυχής αποστολή αρχείων καταγραφής.
-ID:%s
-Αποστολή αυτού του κωδικού στον επόπτη."</string>
     <string name="dialog_cannot_resume">Η λήψη διακόπηκε. Αδυναμία συνέχειας.</string>
     <string name="dialog_clear_history">Εκκαθάριση λίστας πρόσφατων τραγούδια;</string>
     <string name="dialog_confirm_delete_checkbox_message">Διαγραφή τοπικών αρχείων επίσης</string>
@@ -327,7 +291,6 @@ ID:%s
     <string name="discover_more_music">Ανακαλύψτε περισσότερα τραγούδια</string>
     <string name="do_not_remind_this_version">Να μην γίνει υπενθύμιση σχετικά με αυτήν την έκδοση</string>
     <string name="do_not_support_google_voice_search">Η Google Voice Search δεν υποστηρίζεται στη συσκευή σας.</string>
-    <string name="doing_query_account">Έλεγχος πληροφοριών λογαριασμού…</string>
     <string name="download">Λήψη</string>
     <string name="download_added_to_list">Προστέθηκε στην λίστα λήψης</string>
     <string name="download_apk_desktop_installing">Γίνεται εγκατάσταση</string>
@@ -364,7 +327,9 @@ ID:%s
     <string name="download_method">Λήψη</string>
     <string name="download_no_application_title">Αδυναμία ανοίγματος αρχείου</string>
     <string name="download_paused_in_power_save_mode">Παύση λήψεων όταν η Εξοικονόμηση μπαταρίας είναι ενεργή</string>
+    <string name="download_percent">%d%%</string>
     <string name="download_processing">Γίνεται λήψη…</string>
+    <string name="download_progress">%d%%</string>
     <string name="download_quality">Ποιότητα λήψης</string>
     <string name="download_quality_summary">Πρόσθετες ρυθμίσεις για τραγούδια που κατεβάζετε</string>
     <string name="download_queued">Σε ουρά</string>
@@ -432,12 +397,9 @@ ID:%s
     <string name="equalizer">Ισοσταθμιστής</string>
     <string name="eras_ad">μ.Χ.</string>
     <string name="eras_bc">π.Χ.</string>
-    <string name="error_dup_binded_email">Αυτή η διεύθυνση email σχετίζεται ήδη με έναν άλλον Mi Λογαριασμό.</string>
     <string name="error_icon_content_description">Σφάλμα</string>
-    <string name="error_invalid_bind_address">Η διεύθυνση email που εισαγάγατε δεν είναι έγκυρη.</string>
     <string name="error_not_support">Δεν υποστηρίζεται</string>
     <string name="evening">Απόγευμα</string>
-    <string name="exceed_binded_phone_times_notice">Αυτός ο αριθμός τηλεφώνου είναι ήδη συσχετισμένος με άλλο Mi Λογαριασμό.</string>
     <string name="exo_controls_cc_disabled_description">Ενεργοποίηση υπότιτλων</string>
     <string name="exo_controls_cc_enabled_description">Απενεργοποίηση υπότιτλων</string>
     <string name="exo_controls_fastforward_description">Γρήγορη προώθηση</string>
@@ -450,17 +412,16 @@ ID:%s
     <string name="exo_controls_pause_description">Παύση</string>
     <string name="exo_controls_play_description">Αναπαραγωγή</string>
     <string name="exo_controls_playback_speed">Ταχύτητα</string>
-    <string name="exo_controls_playback_speed_normal">Κανονική</string>
     <string name="exo_controls_previous_description">Προηγούμενο</string>
-    <string name="exo_controls_repeat_all_description">Επανάληψη όλων</string>
-    <string name="exo_controls_repeat_off_description">Καμία επανάληψη</string>
-    <string name="exo_controls_repeat_one_description">Επανάληψη ενός κομματιού</string>
+    <string name="exo_controls_repeat_all_description">Τρέχ. λειτουργία: Επανάλ. όλων Εναλλαγή λειτουργ. επανάλ.</string>
+    <string name="exo_controls_repeat_off_description">Τρέχ. λειτουργία: Καμία επανάλ. Εναλλαγή λειτουργ. επανάλ.</string>
+    <string name="exo_controls_repeat_one_description">Τρέχ. λειτουργία: Επανάλ. ενός. Εναλλαγή λειτουργ. επανάλ.</string>
     <string name="exo_controls_rewind_description">Επαναφορά</string>
     <string name="exo_controls_seek_bar_description">Πρόοδος αναπαραγωγής</string>
     <string name="exo_controls_settings_description">Ρυθμίσεις</string>
     <string name="exo_controls_show">Εμφάν. στοιχείων ελέγχου προγράμματος αναπαραγωγής</string>
-    <string name="exo_controls_shuffle_off_description">Τυχαία αναπαραγωγή: Ανενεργή</string>
-    <string name="exo_controls_shuffle_on_description">Τυχαία αναπαραγωγή: Ενεργή</string>
+    <string name="exo_controls_shuffle_off_description">Ενεργοπ. λειτουργ. τυχαίας αναπαραγωγής</string>
+    <string name="exo_controls_shuffle_on_description">Απενεργ. λειτουργ. τυχαίας αναπαραγωγής</string>
     <string name="exo_controls_stop_description">Διακοπή</string>
     <string name="exo_controls_vr_description">Λειτουργία VR mode</string>
     <string name="exo_download_completed">Η λήψη ολοκληρώθηκε</string>
@@ -468,12 +429,17 @@ ID:%s
     <string name="exo_download_downloading">Λήψη</string>
     <string name="exo_download_failed">Η λήψη απέτυχε</string>
     <string name="exo_download_notification_channel_name">Λήψεις</string>
+    <string name="exo_download_paused">Οι λήψεις τέθηκαν σε παύση.</string>
+    <string name="exo_download_paused_for_network">Οι λήψεις είναι σε αναμονή για δίκτυο.</string>
+    <string name="exo_download_paused_for_wifi">Οι λήψεις είναι σε αναμονή για Wi-Fi.</string>
     <string name="exo_download_removing">Κατάργηση λήψεων</string>
     <string name="exo_item_list">%1$s, %2$s</string>
     <string name="exo_media_action_repeat_all_description">Επανάληψη όλων</string>
     <string name="exo_media_action_repeat_off_description">Καμία επανάληψη</string>
     <string name="exo_media_action_repeat_one_description">Επανάληψη ενός κομματιού</string>
+    <string name="exo_track_bitrate">%1$.2f Mbps</string>
     <string name="exo_track_mono">Μονοφωνικό</string>
+    <string name="exo_track_resolution">%1$d × %2$d</string>
     <string name="exo_track_role_alternate">Εναλλακτικό</string>
     <string name="exo_track_role_closed_captions">Υπότιτλοι</string>
     <string name="exo_track_role_commentary">Σχολιασμός</string>
@@ -491,7 +457,6 @@ ID:%s
     <string name="expand_button_title">Σύνθετες</string>
     <string name="expired">Έληξε</string>
     <string name="exposed_dropdown_menu_content_description">Εμφάνιση αναπτυσσόμενου μενού</string>
-    <string name="facebook_login_btn_content_description">Σύνδεση μέσω Facebook</string>
     <string name="facebook_not_installed">Εγκαταστήστε πρώτα το Facebook.</string>
     <string name="fail_to_fetch_payment_page_url">Αδυναμία απόκτησης πληροφοριών πληρωμής</string>
     <string name="fail_to_play">Αδυναμία αναπαραγωγής τραγουδιού</string>
@@ -587,7 +552,6 @@ ID:%s
     <string name="fmt_weekday_timezone">W z</string>
     <string name="follow">Ακολουθήστε</string>
     <string name="followed">Ακολουθείτε</string>
-    <string name="for_diagnosis_usage_only">Τα αρχεία καταγραφής χρησιμοποιούνται μόνο για σκοπούς διάγνωσης.</string>
     <string name="format_not_support">Η μορφή δεν υποστηρίζεται.</string>
     <string name="format_unsupported_or_corrupted">Αυτή η μορφή δεν υποστηρίζεται ή το αρχείο είναι κατεστραμμένο</string>
     <string name="fragment_title_artist_album">Άλμπουμ</string>
@@ -599,19 +563,19 @@ ID:%s
     <string name="get_more_favorite_content_after_login">Συνδεθείτε για να ανακαλύψετε περισσότερα τραγούδια και βίντεο.</string>
     <string name="get_one_day_vip">Έχετε VIP %d ημέρας!</string>
     <string name="get_one_hour_vip">Έχετε VIP %d ώρας!</string>
-    <string name="get_phone_verifycode_exceed_limit">Πάρα πολλοί κωδικοί επαλήθευσης έχουν σταλεί σε αυτό τον αριθμό. Περιμένετε 24 ώρες και προσπαθήστε ξανά.</string>
     <string name="get_vip">Λήψη VIP</string>
     <string name="go_agree">ΟΚ</string>
     <string name="google_account_login">Συνδεθείτε μέσω Google</string>
-    <string name="google_login_btn_content_description">Σύνδεση μέσω Google</string>
     <string name="goto_local_search">Αναζήτηση στη συσκευή</string>
     <string name="goto_online_search">Ον-λάιν αναζήτηση</string>
     <string name="handle_later">Όχι τώρα</string>
     <string name="hd_quality_audio">Ήχος υψηλής ποιότητας</string>
-    <string name="header_help">Βοήθεια</string>
     <string name="headset_and_audio_effect_category">Ακουστικά headphones &amp; εφέ ήχου</string>
     <string name="headset_and_audio_effect_summary">Ακουστικά &amp; ισοσταθμιστής</string>
     <string name="headset_and_audio_effect_title">Ακουστικά headphones &amp; εφέ ήχου</string>
+    <string name="hgm_vip_btn_desc">Έναρξη δωρεάν δοκιμής</string>
+    <string name="hgm_vip_high_quality">Λήψεις υψηλής ποιότητας</string>
+    <string name="hgm_vip_no_ads">Όχι διαφημ. ή όρια</string>
     <string name="hide_album">Απόκρυψη εξώφυλλου άλμπουμ</string>
     <string name="hide_lyric">Απόκρυψη στίχων</string>
     <string name="hifi_quality">Ποιότητα Hi-Fi</string>
@@ -623,6 +587,7 @@ ID:%s
     <string name="home_tab_local">Η μουσική μου</string>
     <string name="home_tab_more_music">Περισσότερη μουσική</string>
     <string name="home_tab_online">Online μουσική</string>
+    <string name="home_tab_podcast">Podcast</string>
     <string name="home_tab_recommend">Σε σύνδεση</string>
     <string name="home_tab_search">Αναζήτηση</string>
     <string name="hot_icon_in_fast_indexer">Δ</string>
@@ -656,7 +621,6 @@ ID:%s
     <string name="individuation_recommend_title">Προτάσεις</string>
     <string name="individuation_setting_summary">Λάβετε προτάσεις περιεχομένου με βάση τα ενδιαφέροντά σας</string>
     <string name="individuation_setting_title">Εξατομικευμένες προτάσεις</string>
-    <string name="input_email_address_notice">Θα χρησιμοποιήσουμε αυτό το email για επαλήθευση του λογαριασμού σας</string>
     <string name="input_hint_prefix">Εισαγάγετε %1$s</string>
     <string name="installing_apk">Γίνεται εγκατάσταση…</string>
     <string name="insufficient_space">Δεν υπάρχει αρκετός χώρος στον εσωτερικό χώρο αποθήκευσης της συσκευής</string>
@@ -718,7 +682,6 @@ ID:%s
     <string name="listen_anywhere">Ακούστε οπουδήποτε</string>
     <string name="load_shuffle">Φόρτωση…</string>
     <string name="loadercontainer_loading">Περιμένετε μία στιγμή…</string>
-    <string name="loading">Μια στιγμή…</string>
     <string name="loading_hint">Περιμένετε μια στιγμή…</string>
     <string name="loading_reached_the_bottom">Αυτά προς το παρόν.</string>
     <string name="loading_text">Μια στιγμή…</string>
@@ -729,15 +692,9 @@ ID:%s
     <string name="local_page_artist_more">Περισσότερα τραγούδια από %s</string>
     <string name="local_page_playlist">Λίστες αναπαραγωγής</string>
     <string name="local_page_song_download_history">Λήψεις</string>
-    <string name="login_by_local_phone_long_text">Σύνδεση τώρα</string>
-    <string name="login_by_local_phone_short_text">Σύνδεση</string>
     <string name="login_instantly">Σύνδεση</string>
     <string name="login_mi_account_and_gain_more_rights">Συνδεθείτε στον Λογαριασμό Xiaomi για πρόσβαση σε περισσότερες λειτουργίες.</string>
-    <string name="login_other">Άλλος Mi Λογαριασμός</string>
     <string name="login_out_tip">"Αδυναμία αποσύνδεσης προς το παρόν. Αντ' αυτού, μπορείτε να διαγράψετε όλα τα δεδομένα της εφαρμογής."</string>
-    <string name="login_register_by_local_phone_long_text">Δημιουργία λογαριασμού</string>
-    <string name="login_with_sns">Άλλοι τρόποι να συνδεθείτε</string>
-    <string name="logout_account">Αποσύνδεση</string>
     <string name="long_press_to_select_lyric">Πατήστε παρατεταμένα για να επιλέξτε τοπικό αρχείο στίχων</string>
     <string name="lots_of_songs_for_free">Ακούστε εκατομμύρια τραγούδια δωρεάν</string>
     <string name="low_sound_quality">Χαμηλή</string>
@@ -873,6 +830,7 @@ ID:%s
     <string name="mtrl_picker_a11y_next_month">Αλλαγή στον επόμενο μήνα</string>
     <string name="mtrl_picker_a11y_prev_month">Αλλαγή στον προηγούμενο μήνα</string>
     <string name="mtrl_picker_announce_current_selection">Τρέχουσα επιλογή: %1$s</string>
+    <string name="mtrl_picker_confirm">@android:string/ok</string>
     <string name="mtrl_picker_date_header_selected">%1$s</string>
     <string name="mtrl_picker_date_header_title">Επιλογή ημερομηνίας</string>
     <string name="mtrl_picker_date_header_unselected">Επιλεγμένη ημερομηνία</string>
@@ -917,17 +875,16 @@ ID:%s
     <string name="my_playlist_set_to_public">Κάντε την δημόσια</string>
     <string name="nav_app_bar_navigate_up_description">Πλοήγηση προς τα επάνω</string>
     <string name="nav_app_bar_open_drawer_description">Άνοιγμα συρταριού πλοήγησης</string>
+    <string name="need_to_close">Εμφάνιση λιγότερων</string>
+    <string name="need_to_show">Εμφάνιση περισσοτέρων</string>
     <string name="network_disable">Αδυναμία σύνδεσης στο δίκτυο</string>
     <string name="network_error_and_retry">Αδυναμία σύνδεσης, πατήστε για να προσπαθήστε ξανά</string>
-    <string name="network_error_info">Παρουσιάστηκε σφάλμα δικτύου. Ελέγξτε τις ρυθμίσεις δικτύου σας και προσπαθήστε ξανά.</string>
     <string name="network_request_error">Αδυναμία σύνδεσης στο δίκτυο</string>
     <string name="network_settings_error">Αδυναμία σύνδεσης στο δίκτυο</string>
-    <string name="network_timeout_info">Αδυναμία σύνδεσης στο δίκτυο. Προσπαθήστε ξανά.</string>
     <string name="network_traffic">Χρήση δεδομένων</string>
     <string name="next_time">Όχι τώρα</string>
     <string name="next_to_play">Αμέσως μετά</string>
     <string name="night">Βράδυ</string>
-    <string name="no_account">Δεν έχετε συνδεθεί</string>
     <string name="no_album_info">Δεν υπάρχουν πληροφορίες άλμπουμ</string>
     <string name="no_artist_info">Δεν υπάρχουν πληροφορίες καλλιτέχνη</string>
     <string name="no_downloads">Δεν υπάρχουν λήψεις</string>
@@ -1013,17 +970,47 @@ ID:%s
     <string name="only_pro_can_choose_hd_sound_quality">Ο ήχος HD διατίθεται μόνο για μέλη Gold</string>
     <string name="open_online_service">Πρέπει να ενεργοποιήσετε τις online υπηρεσίες για την χρήση αυτής της λειτουργίας. Ενεργοποίηση τώρα;</string>
     <string name="open_service">Ενεργοποίηση</string>
-    <string name="open_settings">Ρυθμίσεις</string>
     <string name="operation_done_close">Κλείσιμο</string>
     <string name="other_song_in_album">Άλλα τραγούδια από αυτό το άλμπουμ</string>
     <string name="party">Πάρτι</string>
     <string name="passport_access_denied">Απορρίφθηκε η πρόσβαση</string>
+    <string name="passport_account_crop_user_avatar">Περικοπή φωτογραφίας</string>
+    <string name="passport_account_empty_user_name">Εισαγάγετε το όνομά σας</string>
+    <string name="passport_account_error_all_space_user_name">Το όνομα δεν μπορεί να περιέχει μόνο χαρακτήρες διαστήματος</string>
+    <string name="passport_account_error_invalid_user_name">Το όνομα δεν πρέπει να περιέχει &lt;, >, ή /</string>
+    <string name="passport_account_error_longer_user_name">Το όνομα δεν μπορεί να είναι μεγαλύτερο από %d χαρακτήρες</string>
+    <string name="passport_account_error_shorter_user_name">Το όνομα πρέπει να είναι μεγαλύτερο από %d χαρακτήρες</string>
+    <string name="passport_account_error_user_name">Αυτό το ψευδώνυμο δεν είναι έγκυρο. Δοκιμάστε ένα άλλο.</string>
+    <string name="passport_account_invalid_user_avatar">Αυτή η φωτογραφία δεν είναι έγκυρη. Δοκιμάστε μια άλλη.</string>
     <string name="passport_account_name">"Λογαριασμός: %1$s "</string>
+    <string name="passport_account_no_set">Τίποτα</string>
+    <string name="passport_account_none_bind_info">Τίποτα</string>
+    <string name="passport_account_none_user_name">Τίποτα</string>
+    <string name="passport_account_secure_info_pref_title">Πληροφορίες λογαριασμού</string>
+    <string name="passport_account_security_info_pref_title">Πληροφορίες ασφάλειας</string>
+    <string name="passport_account_user_avatar">Φωτογραφία προφίλ</string>
+    <string name="passport_account_user_avatar_from_album">Συλλογή</string>
+    <string name="passport_account_user_avatar_from_camera">Κάμερα</string>
+    <string name="passport_account_user_base_info">Βασικές πληροφορίες</string>
+    <string name="passport_account_user_details">Προσωπικές πληροφορίες</string>
+    <string name="passport_account_user_email">Email ανάκτησης</string>
+    <string name="passport_account_user_gender">Φύλο</string>
+    <string name="passport_account_user_id">ID Λογαριασμού Xiaomi</string>
+    <string name="passport_account_user_name">Ψευδώνυμο</string>
+    <string name="passport_account_user_name_dialog_title">Εισαγωγή ονόματος</string>
+    <string name="passport_account_user_phone">Τηλέφωνο ανάκτησης</string>
+    <string name="passport_activity_not_found_notice">Αδυναμία εύρεσης εφαρμογής</string>
+    <string name="passport_agree">Αποδοχή</string>
     <string name="passport_area_code_title">Κωδικός περιοχής</string>
+    <string name="passport_attention">Προσοχή</string>
+    <string name="passport_auth_fail_warning">Η συνεδρία έληξε. Συνδεθείτε ξανά.</string>
+    <string name="passport_back">Πίσω</string>
     <string name="passport_bad_authentication">Μη έγκυρο όνομα χρήστη ή κωδικός</string>
     <string name="passport_can_not_recevie_verify_code">Δεν λάβατε κωδικό;</string>
+    <string name="passport_change_password">Αλλαγή κωδικού</string>
+    <string name="passport_check_security">Έλεγχος για προβλήματα ασφαλείας…</string>
     <string name="passport_checking_account">Γίνεται έλεγχος κωδικού…</string>
-    <string name="passport_clear_input">Clear entered content</string>
+    <string name="passport_clear_input">Διαγραφή περιεχομένου που έχει εισαχθεί</string>
     <string name="passport_copy_link">Αντιγραφή URL</string>
     <string name="passport_copy_to_clipboard_successful">Επιτυχής αντιγραφή</string>
     <string name="passport_dialog_captcha_title">Κωδικός</string>
@@ -1035,16 +1022,14 @@ ID:%s
     <string name="passport_dialog_nick_name_prefix">Ψευδώνυμο: %s</string>
     <string name="passport_dialog_phone_number_prefix">Αριθμός τηλεφώνου: %s</string>
     <string name="passport_dialog_register_other">Όχι, θα δημιουργήσω έναν</string>
-    <string name="passport_email">Διεύθυνση email</string>
-    <string name="passport_empty_password">Ο κωδικός δεν πρέπει να είναι κενός</string>
+    <string name="passport_doing_query_account">Έλεγχος πληροφοριών λογαριασμού…</string>
     <string name="passport_error_auth_fail">Η συνεδρία έληξε. Συνδεθείτε ξανά.</string>
     <string name="passport_error_device_id">Αδυναμία απόκτησης ID συσκευής</string>
-    <string name="passport_error_dynamic_token_error">Ο κωδικός επαλήθευσης είναι εσφαλμένος</string>
-    <string name="passport_error_email">Η διεύθυνση email που εισαγάγατε δεν είναι έγκυρη</string>
-    <string name="passport_error_empty_email">Εισαγωγή διεύθυνσης email</string>
+    <string name="passport_error_dup_binded_email">Αυτή η διεύθυνση email σχετίζεται ήδη με έναν άλλον Λογαριασμό Xiaomi.</string>
     <string name="passport_error_empty_password">Εισαγάγετε τον κωδικό σας</string>
     <string name="passport_error_empty_pwd">Ο κωδικός δεν πρέπει να είναι κενός</string>
     <string name="passport_error_empty_user_id">Εισαγάγετε το όνομα χρήστη σας</string>
+    <string name="passport_error_invalid_bind_address">Η διεύθυνση email που εισαγάγατε δεν είναι έγκυρη.</string>
     <string name="passport_error_length_limit">Το κείμενο που εισαγάγατε είναι πολύ μακρύ</string>
     <string name="passport_error_network">Αδυναμία σύνδεσης στο δίκτυο</string>
     <string name="passport_error_no_password_user">Δεν έχετε ορίσει κωδικό ακόμη. Συνδεθείτε με SMS.</string>
@@ -1058,40 +1043,73 @@ ID:%s
     <string name="passport_error_unknow_host_network_error">Δεν ήταν δυνατή η σύνδεση στο δίκτυο</string>
     <string name="passport_error_unknow_network_error">Παρουσιάστηκε σφάλμα δικτύου</string>
     <string name="passport_error_unknown">Άγνωστο σφάλμα</string>
-    <string name="passport_error_user_agreement">Αποδεχτείτε πρώτα τη Συμφωνία Χρήστη μας</string>
     <string name="passport_error_user_name">Το όνομα χρήστη που εισαγάγατε δεν είναι έγκυρο</string>
     <string name="passport_error_user_password">Οι κωδικοί δεν ταιριάζουν</string>
+    <string name="passport_exceed_binded_phone_times_notice">Αυτός ο αριθμός σχετίζεται ήδη με έναν άλλον Λογαριασμό Xiaomi.</string>
+    <string name="passport_facebook_login_btn_content_description">Σύνδεση μέσω Facebook</string>
+    <string name="passport_frequency_try_later">Πάρα πολλές προσπάθειες. Περιμένετε ένα με δύο λεπτά και προσπαθήστε ξανά.</string>
     <string name="passport_get_login_type_next">Επόμενο</string>
-    <string name="passport_header_back">Πίσω</string>
+    <string name="passport_get_phone_verifycode_exceed_limit">Πάρα πολλοί κωδικοί επαλήθευσης έχουν σταλεί σε αυτό τον αριθμό. Περιμένετε 24 ώρες και προσπαθήστε ξανά.</string>
+    <string name="passport_google_login_btn_content_description">Σύνδεση μέσω Google</string>
+    <string name="passport_help">Βοήθεια</string>
+    <string name="passport_i_know">Κατανοητό</string>
     <string name="passport_identification_expired">Ο κωδικός επαλήθευσης ελήξε. Ξεκινήστε από την αρχή.</string>
     <string name="passport_input_captcha_hint">Εισαγωγή κωδικού</string>
+    <string name="passport_input_email_address_notice">Θα χρησιμοποιήσουμε αυτό το email για επαλήθευση του λογαριασμού σας</string>
     <string name="passport_input_password_hint">Εισαγωγή κωδικού πρόσβασης</string>
     <string name="passport_input_phone_number_hint">Εισαγωγή αριθμού τηλεφώνου</string>
     <string name="passport_input_verify_code">Εισαγωγή κωδικού επαλήθευσης</string>
     <string name="passport_input_voice_captcha_hint">Εισαγωγή φωνητικού κωδικού επαλήθευσης</string>
     <string name="passport_input_voice_hint">Εισαγάγετε κωδικό φωνής</string>
+    <string name="passport_login_by_local_phone_long_text">Σύνδεση τώρα</string>
+    <string name="passport_login_by_local_phone_short_text">Σύνδεση</string>
+    <string name="passport_login_other">Άλλος Λογαριασμός Xiaomi</string>
+    <string name="passport_login_register_by_local_phone_long_text">Δημιουργία λογαριασμού</string>
+    <string name="passport_login_with_sns">Άλλοι τρόποι σύνδεσης</string>
+    <string name="passport_logout_account">Aποσύνδεση</string>
     <string name="passport_mi_account_first_title">Εάν χρησιμοποιείτε τον αριθμό τηλεφώνου σας για πρώτη φορά, θα δημιουργήσουμε έναν λογαριασμό αυτόματα.</string>
     <string name="passport_mi_account_title">Συνδεθείτε με τον Λογαριασμό Xiaomi σας</string>
-    <string name="passport_network_error">Παρουσιάστηκε σφάλμα δικτύου.</string>
+    <string name="passport_network_error">Παρουσιάστηκε σφάλμα δικτύου. Ελέγξτε τις ρυθμίσεις του δικτύου σας και προσπαθήστε ξανά.</string>
     <string name="passport_network_error_hint">Ελέγξτε τη διεύθυνση URL και δοκιμάστε ξανά ή αντιγράψτε τη διεύθυνση URL και ανοίξτε τη στο πρόγραμμα περιήγησής σας.</string>
+    <string name="passport_network_timeout">Δεν ήταν δυνατή η σύνδεση στο δίκτυο. Προσπαθήστε ξανά.</string>
     <string name="passport_next">Επόμενο</string>
+    <string name="passport_no_account">Δεν έχετε συνδεθεί</string>
+    <string name="passport_open_settings">Ρυθμίσεις</string>
     <string name="passport_page_load_failed">Αδυναμία ανοίγματος σελίδας</string>
     <string name="passport_password_login_btn">Σύνδεση</string>
     <string name="passport_password_not_show">Απόκρυψη κωδικού</string>
-    <string name="passport_password_req_notice">Ο κωδικός πρέπει να έχει 8-16 χαρακτήρες και να συνδυάζει τουλάχιστον 2 από τα ακόλουθα: αριθμούς, γράμματα και ειδικούς χαρακτήρες (π.χ. 123abc@# ή 123abc ή abc@#).</string>
     <string name="passport_password_show">Εμφάνιση κωδικού</string>
+    <string name="passport_phone_auto_login_register_with_local_number">Δημιουργία λογαριασμού</string>
+    <string name="passport_photo_picker_not_found">Δεν υπάρχουν διαθέσιμες φωτογραφίες.</string>
+    <string name="passport_qq_login_btn_content_description">Σύνδεση μέσω QQ</string>
     <string name="passport_querying_phone_info">Γίνεται αίτηση για πληροφορίες λογαριασμού…</string>
     <string name="passport_quick_login_title">Εισαγάγετε τον κωδικό σας</string>
     <string name="passport_reging">Γίνεται δημιουργία λογαριασμού…</string>
+    <string name="passport_register_by_local_phone_long_text">Δημιουργία λογαριασμού</string>
+    <string name="passport_register_by_local_phone_short_text">Δημιουργία λογαριασμού</string>
     <string name="passport_register_restricted">Πάρα πολλοί λογαριασμοί έχουν συσχετιστεί με αυτόν τον αριθμό. Δοκιμάστε έναν διαφορετικό.</string>
     <string name="passport_relogin_notice">Πρέπει να συνδεθείτε ξανά</string>
+    <string name="passport_request_agree">Να επιτραπεί</string>
+    <string name="passport_request_camera_permission_message">Θα προστατεύουμε τα προσωπικά σας δεδομένα σύμφωνα με τους σχετικούς νόμους και κανονισμούς. Η εφαρμογή αυτή χρειάζεται τις ακόλουθες άδειες για να λειτουργεί κανονικά:&lt;br>&lt;br>&lt;b>Χρήση κάμερας (για ρύθμιση τις φωτογραφίας του προφίλ σας)&lt;/b>&lt;br>&lt;br>Εάν δεν συμφωνείτε να παραχωρήσετε τέτοιες άδειες, δεν θα μπορείτε να χρησιμοποιείτε ορισμένες λειτουργίες αυτής της εφαρμογής. Ωστόσο, οι βασικές τις λειτουργίες θα εξακολουθήσουν να σας είναι διαθέσιμες. Μπορείτε πάντα να περιορίσετε τις άδειες ή να ανακαλέσετε τις εξουσιοδοτήσεις σας στις Ρυθμίσεις.</string>
+    <string name="passport_request_cancel">Ακύρωση</string>
+    <string name="passport_request_error_invalid_token">Αδυναμία επαλήθευσης</string>
+    <string name="passport_request_error_network">Παρουσιάστηκε σφάλμα δικτύου. Ελέγξτε τις ρυθμίσεις του δικτύου σας και προσπαθήστε ξανά.</string>
+    <string name="passport_request_error_unknown">Παρουσιάστηκε σφάλμα συστήματος. Επιστρέψτε πίσω και δοκιμάστε ξανά.</string>
+    <string name="passport_request_gallery_permission_message">Να επιτρέπεται η πρόσβαση στη Συλλογή:&lt;br /> Για ρύθμιση φωτογραφιών προφίλ</string>
+    <string name="passport_resend_email_reach_limit_message">Έχετε ζητήσει πάρα πολλά emails επαλήθευσης. Βεβαιωθείτε πως το email επαλήθευσης δεν βρίσκεται στο φάκελο Spam.</string>
+    <string name="passport_resend_email_reach_limit_title">Πάρα πολλές προσπάθειες</string>
     <string name="passport_resend_ticket">Αποστολή κωδικού</string>
     <string name="passport_retry">Προσπαθήστε ξανά</string>
+    <string name="passport_same_new_and_old_pwd">Δεν πρέπει να είναι ίδιος με τον τρέχοντα κωδικό</string>
     <string name="passport_send_sms_to">Ο κωδικός εστάλη σε %1$s</string>
     <string name="passport_send_too_many_code">Πάρα πολλοί κωδικοί επαλήθευσης έχουν σταλεί σε αυτό τον αριθμό. Περιμένετε 24 ώρες και προσπαθήστε ξανά.</string>
     <string name="passport_sending_vcode">Γίνεται αποστολή κωδικού…</string>
-    <string name="passport_set_password">Ρύθμιση κωδικού</string>
+    <string name="passport_service_error">Σφάλμα διακομιστή</string>
     <string name="passport_set_password_no_phone_msg">Προσθέστε τον αριθμό τηλεφώνου σας για να προστατεύσετε τον λογαριασμό σας.</string>
+    <string name="passport_skip_query_account">Παράλειψη</string>
+    <string name="passport_sns_access_token_expired_warning">Η συνεδρία έληξε. Συνδεθείτε ξανά για επανασύνδεση αυτού του λογαριασμού.</string>
+    <string name="passport_sns_bind_limit">Πάρα πολλές προσπάθειες. Δοκιμάστε άλλους τρόπους σύνδεσης.</string>
+    <string name="passport_system_error">Το σύστημα είναι απασχολημένο. Περιμένετε ένα με δύο λεπτά και προσπαθήστε ξανά.</string>
     <string name="passport_talkback_image_captcha">Κωδικός επαλήθευσης με εικόνα</string>
     <string name="passport_talkback_switch_image_captcha">Εναλλαγή σε κωδικό επαλήθευσης με εικόνα</string>
     <string name="passport_talkback_switch_voice_captcha">Εναλλαγή σε φωνητικό κωδικό επαλήθευσης</string>
@@ -1100,11 +1118,26 @@ ID:%s
     <string name="passport_to_forget_password">Ξεχάσατε τον κωδικό;</string>
     <string name="passport_to_password_login">Σύνδεση με κωδικό</string>
     <string name="passport_to_verify_code_login">Σύνδεση μέσω SMS</string>
-    <string name="passport_unknow_host_network_error">Ελέγξτε τις ρυθμίσεις δικτύου σας και προσπαθήστε ξανά</string>
+    <string name="passport_unknown_error">Άγνωστο σφάλμα</string>
+    <string name="passport_unknown_host_network_error">Ελέγξτε τις ρυθμίσεις του δικτύου σας και προσπαθήστε ξανά</string>
+    <string name="passport_user_agreement_hint_3rd_app">&lt;Data>Έχω διαβάσει και αποδεχτεί τη &lt;a href=%1$s>Συμφωνία Χρήστη&lt;/a> και &lt;a href=%2$s>Πολιτική Απορρήτου&lt;/a> και τη &lt;a href=%3$s>Συμφωνία Χρήστη&lt;/a> και &lt;a href=%4$s>Πολιτική Απορρήτου&lt;/a> του Λογαριασμού Xiaomi.&lt;/Data></string>
+    <string name="passport_user_agreement_hint_3rd_app_mobile">&lt;Data>Έχω διαβάσει και αποδεχτεί τη &lt;a href=%1$s>Συμφωνία Χρήστη&lt;/a> και την &lt;a href=%2$s>Πολιτική Απορρήτου&lt;/a>, τη &lt;a href=%3$s>Συμφωνία Χρήστη&lt;/a> και την &lt;a href=%4$s>Πολιτική Απορρήτου&lt;/a> Λογαριασμού Xiaomi, καθώς και τους &lt;a href=%5$s>Όρους και Προϋποθέσεις των υπηρεσιών επαλήθευσης της China Mobile&lt;/a>.&lt;/Data></string>
+    <string name="passport_user_agreement_hint_3rd_app_with_telecom">&lt;Data>Έχω διαβάσει και αποδεχτεί τη &lt;a href=%1$s>Συμφωνία Χρήστη&lt;/a> και την &lt;a href=%2$s>Πολιτική Απορρήτου&lt;/a>, τη &lt;a href=%3$s>Συμφωνία Χρήστη&lt;/a> και την &lt;a href=%4$s>Πολιτική Απορρήτου&lt;/a> Λογαριασμού Xiaomi, καθώς και τους &lt;a href=%5$s>Όρους και Προϋποθέσεις των υπηρεσιών επαλήθευσης της eSurfing account&lt;/a>.&lt;/Data></string>
+    <string name="passport_user_agreement_hint_3rd_app_with_unicom">&lt;Data>Έχω διαβάσει και αποδεχτεί τη &lt;a href=%1$s>Συμφωνία Χρήστη&lt;/a> και την &lt;a href=%2$s>Πολιτική Απορρήτου&lt;/a>, τη &lt;a href=%3$s>Συμφωνία Χρήστη&lt;/a> και την &lt;a href=%4$s>Πολιτική Απορρήτου&lt;/a> Λογαριασμού Xiaomi, καθώς και τους &lt;a href=%5$s>Όρους και Προϋποθέσεις των υπηρεσιών επαλήθευσης της China Unicom&lt;/a>.&lt;/Data></string>
+    <string name="passport_user_agreement_hint_default">&lt;Data>Έχω διαβάσει και αποδεχτεί τη &lt;a href=%1$s>Συμφωνία Χρήστη&lt;/a> και την &lt;a href=%2$s>Πολιτική Απορρήτου&lt;/a> του Λογαριασμού Xiaomi.&lt;/Data></string>
+    <string name="passport_user_agreement_hint_first_login">Εάν χρησιμοποιείτε τον αριθμό τηλεφώνου σας για πρώτη φορά, θα δημιουργήσουμε έναν λογαριασμό αυτόματα.</string>
+    <string name="passport_user_agreement_hint_with_mobile">&lt;Data>Έχω διαβάσει και αποδεχτεί τη &lt;a href=%1$s>Συμφωνία Χρήστη&lt;/a> και την &lt;a href=%2$s>Πολιτική Απορρήτου&lt;/a> Λογαριασμού Xiaomi, καθώς και τους &lt;a href=%3$s>Όρους και Προϋποθέσεις των υπηρεσιών επαλήθευσης της China Mobile&lt;/a>.&lt;/Data></string>
+    <string name="passport_user_agreement_hint_with_telecom">&lt;Data>Έχω διαβάσει και αποδεχτεί τη &lt;a href=%1$s>Συμφωνία Χρήστη&lt;/a> και την &lt;a href=%2$s>Πολιτική Απορρήτου&lt;/a> Λογαριασμού Xiaomi, καθώς και τους &lt;a href=%3$s>Όρους και Προϋποθέσεις των υπηρεσιών επαλήθευσης της eSurfing account&lt;/a>.&lt;/Data></string>
+    <string name="passport_user_agreement_hint_with_unicom">&lt;Data>Έχω διαβάσει και αποδεχτεί τη &lt;a href=%1$s>Συμφωνία Χρήστη&lt;/a> και την &lt;a href=%2$s>Πολιτική Απορρήτου&lt;/a> Λογαριασμού Xiaomi, καθώς και τους &lt;a href=%3$s>Όρους και Προϋποθέσεις των υπηρεσιών επαλήθευσης της China Unicom&lt;/a>.&lt;/Data></string>
+    <string name="passport_user_avatar_update_title">Αλλαγή φωτογραφίας προφίλ</string>
+    <string name="passport_user_avatar_uploading">Μια στιγμή…</string>
     <string name="passport_user_id_hint">Email/αριθμός τηλεφώνου/ID Λογαριασμού Xiaomi</string>
-    <string name="passport_user_id_intro">Εισαγωγή κωδικού πρόσβασης για %1$s</string>
+    <string name="passport_user_name_phone_number">Αριθμός τηλεφώνου</string>
     <string name="passport_user_password_hint">Κωδικός</string>
+    <string name="passport_vcode_what_app_send_prompt">Ο κωδικός επαλήθευσης WhatsApp θα αποσταλεί στο τηλέφωνο ανάκτησης (&lt;font color=#1F93FF>%s&lt;/font>).</string>
     <string name="passport_wechat_not_install">Εγκαταστήστε πρώτα τη WeChat</string>
+    <string name="passport_weibo_login_btn_content_description">Σύνδεση μέσω Weibo</string>
+    <string name="passport_weixin_login_btn_content_description">Σύνδεση μέσω WeChat</string>
     <string name="passport_wrong_captcha">Ο κωδικός που εισαγάγατε είναι εσφαλμένος</string>
     <string name="passport_wrong_phone_number_format">Η μορφή αριθμού τηλεφώνου που εισαγάγατε δεν είναι έγκυρη</string>
     <string name="passport_wrong_vcode">Ο κωδικός που εισαγάγατε είναι εσφαλμένος</string>
@@ -1127,8 +1160,6 @@ ID:%s
     <string name="permission_declaration_title">Αποδοχή πρόσβασης</string>
     <string name="permission_open">Αποδοχή</string>
     <string name="permission_required">Απαιτούνται άδειες</string>
-    <string name="phone_auto_login_register_with_local_number">Δημιουργία λογαριασμού</string>
-    <string name="photoPickerNotFoundText">Δεν υπάρχουν διαθέσιμες φωτογραφίες.</string>
     <string name="pick_favorite_song">Αγαπημένα</string>
     <string name="pick_local_song">Τοπικά τραγούδια</string>
     <string name="pick_recent_song">Πρόσφατες αναπαραγωγές</string>
@@ -1168,6 +1199,7 @@ ID:%s
     <string name="privacy_authorize_revoking">Γίνεται ανάκληση εξουσιοδότησης…</string>
     <string name="privacy_desc">Πολιτική Απορρήτου (υποχρεωτικό)</string>
     <string name="privacy_policy">Πολιτική Απορρήτου</string>
+    <string name="privacy_policy_url">http://www.miui.com/res/doc/privacy.html?lang=el_GR</string>
     <string name="privacy_request_desc">"&lt;Data>Η Mi Μουσική πρέπει να συλλέξει απαραίτητα προσωπικά δεδομένα για να σας παρέχει υπηρεσίες online streaming. Μπορείτε να μάθετε πως διαχειριζόμαστε τα δεδομένα που συλλέγουμε στην &lt;a href=\"%1$s\">Πολιτική Απορρήτου&lt;/a>. Μπορείτε να ανακαλέσετε τη συγκατάθεσή σας για την Πολιτική Απορρήτου του Mi Μουσική στις Ρυθμίσεις οποιαδήποτε στιγμή. 
 Διαβάστε και αποδεχτείτε τη &lt;a href=\"%2$s\">Συμφωνία Χρήστη&lt;/a> και την &lt;a href=\"%1$s\">Πολιτική Απορρήτου&lt;/a> πριν χρησιμοποιήσετε τη Mi Μουσική.
 Εάν δεν συμφωνήσετε με τις πιο πάνω υπηρεσίες, δεν θα μπορείτε να χρησιμοποιείτε ορισμένες λειτουργίες αυτής της εφαρμογής. Ωστόσο, οι βασικές της λειτουργίες θα εξακολουθήσουν να είναι διαθέσιμες.&lt;/Data>"</string>
@@ -1177,15 +1209,11 @@ ID:%s
     <string name="privacy_request_subtitle_offline">Καλώς ήλθατε στη Mi Μουσική! Αυτή η εφαρμογή παρέχει ένα τοπικό πρόγραμμα αναπαραγωγής για αρχεία ήχου.</string>
     <string name="privacy_request_title">Όροι και προϋποθέσεις</string>
     <string name="pro_member">Μέλος Gold</string>
-    <string name="progressbar_title">Έλεγχος για προβλήματα ασφαλείας…</string>
     <string name="project_device">Mi Τηλέφωνο</string>
     <string name="prompt_grant_write_settings_permission">Να επιτρέπεται η αλλαγή ρυθμίσεων συστήματος</string>
-    <string name="protocal_dialog_confirm">Αποδοχή</string>
-    <string name="protocal_dialog_title">Προσοχή</string>
     <string name="pulluprefreshrecyclerview_loading_error">Αδυναμία φόρτωσης</string>
     <string name="pulluprefreshrecyclerview_loading_finished">Επιτυχής φόρτωση</string>
     <string name="pulluprefreshrecyclerview_loading_running">Φόρτωση…</string>
-    <string name="qq_login_btn_content_description">Σύνδεση μέσω QQ</string>
     <string name="queue_is_empty">Η ουρά αναπαραγωγής είναι κενή.</string>
     <string name="read_and_agree_hungama_protocol">&lt;Data>Έχω διαβάσει και αποδεχτεί την &lt;font color=\"#A374F0\">&lt;/color>&lt;a href=\"%1$s\">Πολιτική Απορρήτου hungama&lt;/a>&lt;/font>&lt;/Data></string>
     <string name="read_and_agree_joox_protocol">&lt;Data>Έχω διαβάσει και αποδεχτεί την &lt;font color=\"#A374F0\">&lt;/color>&lt;a href=\"%1$s\">Πολιτική Απορρήτου JOOX&lt;/a>&lt;/font>&lt;/Data></string>
@@ -1198,8 +1226,6 @@ ID:%s
     <string name="recommended_file_size_download_in_mobile">Χρήση %s δεδομένων για την λήψη αυτού του αρχείου;</string>
     <string name="recommended_no_file_size_download_in_mobile">Χρήση δεδομένων κινητής τηλεφωνίας για την λήψη του αρχείου;</string>
     <string name="refresh">Ανανέωση</string>
-    <string name="register_by_local_phone_long_text">Δημιουργία λογαριασμού</string>
-    <string name="register_by_local_phone_short_text">Δημιουργία λογαριασμού</string>
     <string name="remove">Αφαίρεση</string>
     <string name="remove_download">Αφαίρεση</string>
     <string name="remove_user_privacy_dialog_message">Κλείνοντας τον διακόπτη, ανακαλείτε τη συγκατάθεσή σας για την Πολιτική Απορρήτου της Mi Μουσικής. Θα σταματήσουμε να συλλέγουμε τις προσωπικές σας πληροφορίες. Οι προσωπικές πληροφορίες που έχουν συλλεχθεί και διατηρηθεί μέχρι στιγμής θα διαγραφούν μέσα στη συγκεκριμένη περίοδο, όπως απαιτείται από τους ισχύοντες νόμους. Η Mi Μουσική πρέπει να συλλέξει απαραίτητες προσωπικές πληροφορίες για να σας παρέχει τις βασικές υπηρεσίες. Η ανάκληση της συναίνεσής σας για την Πολιτική Απορρήτου της θα θεωρείται άρνηση της αποδοχής των υπηρεσιών της βάσει των συλλεγμένων προσωπικών δεδομένων.</string>
@@ -1207,21 +1233,10 @@ ID:%s
     <string name="remove_user_privacy_dialog_title">Ανάκληση συγκατάθεσης</string>
     <string name="repeat_all_notif">Επανάληψη όλων των τραγουδιών.</string>
     <string name="repeat_current_notif">Επανάληψη τρέχοντος τραγουδιού.</string>
-    <string name="request_agree">Να επιτραπεί</string>
-    <string name="request_camera_permission_message">Θα προστατεύουμε τα προσωπικά σας δεδομένα σύμφωνα με τους σχετικούς νόμους και κανονισμούς. Η εφαρμογή αυτή χρειάζεται τις ακόλουθες άδειες για να λειτουργεί κανονικά:&lt;br>&lt;br>&lt;b>Χρήση κάμερας (για ρύθμιση τις φωτογραφίας του προφίλ σας)&lt;/b>&lt;br>&lt;br>Εάν δεν συμφωνείτε να παραχωρήσετε τέτοιες άδειες, δεν θα μπορείτε να χρησιμοποιείτε ορισμένες λειτουργίες αυτής της εφαρμογής. Ωστόσο, οι βασικές τις λειτουργίες θα εξακολουθήσουν να σας είναι διαθέσιμες. Μπορείτε πάντα να περιορίσετε τις άδειες ή να ανακαλέσετε τις εξουσιοδοτήσεις σας στις Ρυθμίσεις.</string>
-    <string name="request_cancel">Ακύρωση</string>
-    <string name="request_error_invalid_token">Αδυναμία επαλήθευσης</string>
-    <string name="request_error_network">Παρουσιάστηκε σφάλμα δικτύου. Ελέγξτε τις ρυθμίσεις δικτύου σας και προσπαθήστε ξανά.</string>
-    <string name="request_error_unknown">Παρουσιάστηκε σφάλμα συστήματος. Επιστρέψτε πίσω και δοκιμάστε ξανά.</string>
-    <string name="request_gallery_permission_message">Να επιτρέπεται η πρόσβαση στη Συλλογή:&lt;br /> Για ρύθμιση φωτογραφιών προφίλ</string>
     <string name="request_overlay_permission_desc">Επιτρέψτε στο Mi Μουσική να εμφανίζει αναδυόμενα παράθυρα για να μπορεί να χρησιμοποιεί αυτή τη λειτουργία.</string>
     <string name="request_privacy_permission_title">Διαβάστε και συμφωνήστε με τους όρους και τις προϋποθέσεις παρακάτω για να αποκτήσετε πρόσβαση σε όλες τις υπηρεσίες μας.</string>
     <string name="request_share_info">Περιμένετε μία στιγμή…</string>
     <string name="request_subscription_status">Περιμένετε μια στιγμή…</string>
-    <string name="resend_active_email">Αποστολή ξανά</string>
-    <string name="resend_email_reach_limit_message">Έχετε ζητήσει πάρα πολλά emails επαλήθευσης. Βεβαιωθείτε πως το email επαλήθευσης δεν βρίσκεται στο φάκελο Spam.</string>
-    <string name="resend_email_reach_limit_title">Πάρα πολλές προσπάθειες</string>
-    <string name="resend_email_success">Επιτυχής αποστολή</string>
     <string name="restart_immediate">Επανεκκίνηση</string>
     <string name="retry">Προσπαθήστε ξανά</string>
     <string name="retry_after_network_available">Αδυναμία σύνδεσης στο δίκτυο. Ελέγξτε την σύνδεσή σας και προσπαθήστε ξανά.</string>
@@ -1241,7 +1256,6 @@ ID:%s
     <string name="s5">Δημιουργία συμβάντος ημερολογίου</string>
     <string name="s6">Να επιτραπεί στη διαφήμιση να δημιουργήσει ένα συμβάν ημερολογίου;</string>
     <string name="s7">Δοκιμαστική διαφήμιση</string>
-    <string name="same_new_and_old_pwd">Δεν πρέπει να είναι ίδιος με τον τρέχοντα κωδικό</string>
     <string name="saturday">Σάββατο</string>
     <string name="saturday_short">Σαβ</string>
     <string name="saturday_shortest">Σαβ</string>
@@ -1267,6 +1281,7 @@ ID:%s
     <string name="search_result_online_songs">Σε σύνδεση</string>
     <string name="search_songs">Αναζήτηση για τραγούδια</string>
     <string name="search_songs_count">Τραγούδια: %d</string>
+    <string name="see_more_videos">Περισσότερα βίντεο</string>
     <string name="select">Επιλογή</string>
     <string name="select_all">Επιλογή όλων</string>
     <string name="select_clip_desc">Επιλέξτε ένα κομμάτι από το τραγούδι</string>
@@ -1282,11 +1297,8 @@ ID:%s
     <string name="select_three_languages">Μπορείτε να επιλέξετε μέχρι και %d γλώσσες</string>
     <string name="selected_count">Επιλέχθηκαν %1$d από %2$d</string>
     <string name="send">Αποστολή</string>
-    <string name="send_diagnosis_log">Αποστολή αρχείων καταγραφής</string>
-    <string name="send_email_activate_message">Επιτυχής αποστολή email ανάκτησης</string>
     <string name="send_to_title">Αποστολή σε (%1$s)</string>
     <string name="service_and_settings">Υπηρεσίες και ρυθμίσεις</string>
-    <string name="service_error">Σφάλμα διακομιστή</string>
     <string name="set_as_alarm_clock_ringtone">Ξυπνητήρι</string>
     <string name="set_as_ring">Ορισμός ως κουδούνισμα</string>
     <string name="set_online_home_subtitle">Άνοιγμα προτάσεων σε σύνδεση κατά την εκκίνηση της εφαρμογής</string>
@@ -1309,6 +1321,8 @@ ID:%s
     <string name="share_song">Κοινοποίηση</string>
     <string name="share_text_list">"Λίστα αναπαραγωγής από Mi Μουσική: "</string>
     <string name="share_text_song">"Τραγούδι από Mi Μουσική: "</string>
+    <string name="shortcut_get">Προβολή</string>
+    <string name="shortcut_success">Δημιουργήθηκε με επιτυχία. Προβολή στην Αρχική οθόνη σας.</string>
     <string name="show_float_first_hint">Ελαχιστοποίηση του προγράμματος αναπαραγωγής</string>
     <string name="show_more">Εμφάνιση %s ακόμη</string>
     <string name="shuffle_music">Τυχαία αναπαραγωγή</string>
@@ -1317,18 +1331,15 @@ ID:%s
     <string name="shuffle_play_toast_text">Γίνεται τυχαία αναπαραγωγή τραγουδιών…</string>
     <string name="similar_albums">Παρόμοια άλμπουμ</string>
     <string name="similar_playlists">Παρόμοιες λίστες αναπαραγωγής</string>
+    <string name="similar_podcasts">Παρόμοια podcast</string>
     <string name="similar_songs">Παρόμοια τραγούδια</string>
     <string name="similar_videos">Παρόμοια βίντεο</string>
     <string name="skip">Παράλειψη</string>
-    <string name="skip_query_account">Παράλειψη</string>
     <string name="sleep_mode">Μετρητής ύπνου</string>
     <string name="sleep_mode_canceled">Η λειτουργία ύπνου είναι ανενεργή</string>
     <string name="sleep_mode_summary">Διακοπή αναπαραγωγής μετά από μια συγκεκριμένη ώρα</string>
     <string name="sleep_mode_title">Μετρητής ύπνου</string>
     <string name="sliding_pro_center">hungama Gold</string>
-    <string name="sns_access_token_expired_warning">Η συνεδρία έληξε. Συνδεθείτε ξανά για επανασύνδεση αυτού του λογαριασμού.</string>
-    <string name="sns_bind_limit">Πάρα πολλές προσπάθειες. Δοκιμάστε άλλους τρόπους σύνδεσης.</string>
-    <string name="sns_sign_in">Άλλοι τρόποι να συνδεθείτε</string>
     <string name="song_already_in_playlist">Αυτό το τραγούδι είναι ήδη στην λίστα αναπαραγωγής</string>
     <string name="song_exist_in_playlist">Αυτό το τραγούδι είναι ήδη στην ουρά</string>
     <string name="song_info">Λεπτομέρειες τραγουδιού</string>
@@ -1348,6 +1359,7 @@ ID:%s
     <string name="start_to_download">Γίνεται λήψη…</string>
     <string name="start_to_play">Γίνεται προετοιμασία αναπαραγωγής…</string>
     <string name="start_update">Γίνεται εγκατάσταση νέας έκδοσης…</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
     <string name="storage_cloned_app">Χώρος αποθήκευσης για διπλότυπες εφαρμογές</string>
     <string name="storage_internal">Εσωτερικός χώρος αποθήκευσης</string>
     <string name="storage_sd_card">Κάρτα SD</string>
@@ -1359,8 +1371,8 @@ ID:%s
     <string name="sunday_short">Κυρ</string>
     <string name="sunday_shortest">Κυρ</string>
     <string name="supplementary_songs">Πρόσθετα τραγούδια</string>
+    <string name="swipe_for_more">Σύρετε προς τα πάνω για περισσότερα μουσικά βίντεο</string>
     <string name="switch_success">Επιτυχής εναλλαγή</string>
-    <string name="system_error_info">Το σύστημα είναι απασχολημένο. Περιμένετε ένα δύο λεπτά και προσπαθήστε ξανά.</string>
     <string name="tab_album">Άλμπουμ</string>
     <string name="tab_album_list">Άλμπουμ</string>
     <string name="tab_artist">Καλλιτέχνες</string>
@@ -1398,7 +1410,6 @@ ID:%s
     <string name="task_card_message_received_successfully">Ολοκληρώσατε τις σημερινές εργασίες. Εξαργυρώστε τα νομίσματά σας τώρα!</string>
     <string name="task_card_title_received_successfully">Διεκδικήθηκε με επιτυχία</string>
     <string name="telephone_permissions_for_push">Άδειες κλήσεων: για την παροχή υπηρεσιών ειδοποιήσεων push Google</string>
-    <string name="temporary_not_available">Αυτή η λειτουργία δεν είναι διαθέσιμη ακόμη</string>
     <string name="terms_of_service">Όροι Υπηρεσίας</string>
     <string name="the_anniversary_of_lifting_martial_law">Επέτειος Άρσης του Στρατιωτικού Νόμου</string>
     <string name="the_anti_aggression_day">Ημέρα κατά της Εχθρότητας</string>
@@ -1494,12 +1505,9 @@ ID:%s
     <string name="ultra_high_quality">Υψηλότατη</string>
     <string name="unknown_album_name">Άγνωστο άλμπουμ</string>
     <string name="unknown_artist_name">Άγνωστος καλλιτέχνης</string>
-    <string name="unknown_error_info">Άγνωστο σφάλμα</string>
     <string name="unlimited_downloads">Απεριόριστες λήψεις</string>
     <string name="unlimited_offline_songs">Απεριόριστη τραγούδια χωρίς σύνδεση</string>
     <string name="unlimited_skips">Απεριόριστες παραλείψεις</string>
-    <string name="update_email_address_dialog_message">Πρέπει να επαληθεύσετε την ταυτότητά σας πριν ενημερώσετε το email ανάκτησης.</string>
-    <string name="update_email_address_dialog_title">Ενημέρωση email ανάκτησης</string>
     <string name="update_now">ΕΝΗΜΕΡΩΣΗ ΤΩΡΑ</string>
     <string name="upgrade_music">Ενημέρωση Μουσικής</string>
     <string name="upgrade_music_message">Οι ενημερώσεις είναι έτοιμες. Επανεκκινήστε για ενημέρωση.</string>
@@ -1512,19 +1520,8 @@ ID:%s
     <string name="upload_playlist_to_hungama_title">Συγχρονίστε διαδικτυακά τραγούδια στο hungama για να έχετε πρόσβαση σε αυτά σε άλλες συσκευές όπου χρησιμοποιείτε τον Λογαριασμό Xiaomi σας.</string>
     <string name="upload_playlist_to_hungama_toast">Τα διαδικτυακά τραγούδια θα συγχρονιστούν με το hungama</string>
     <string name="user_agreement">Συμφωνία Χρήστη</string>
-    <string name="user_agreement_hint_3rd_app">&lt;Data>Έχω διαβάσει και αποδεχτεί τη &lt;a href=%1$s>Συμφωνία Χρήστη&lt;/a> και &lt;a href=%2$s>Πολιτική Απορρήτου&lt;/a> και τη &lt;a href=%3$s>Συμφωνία Χρήστη&lt;/a> και &lt;a href=%4$s>Πολιτική Απορρήτου&lt;/a> του Mi Λογαριασμού.&lt;/Data></string>
-    <string name="user_agreement_hint_3rd_app_mobile">&lt;Data>Έχω διαβάσει και αποδεχτεί τη &lt;a href=%1$s>Συμφωνία Χρήστη&lt;/a> και την &lt;a href=%2$s>Πολιτική Απορρήτου&lt;/a>, τη &lt;a href=%3$s>Συμφωνία Χρήστη&lt;/a> και την &lt;a href=%4$s>Πολιτική Απορρήτου&lt;/a> Mi Λογαριασμού, καθώς και τους &lt;a href=%5$s>Όρους και Προϋποθέσεις των υπηρεσιών επαλήθευσης της China Mobile&lt;/a>.&lt;/Data></string>
-    <string name="user_agreement_hint_3rd_app_with_telecom">&lt;Data>Έχω διαβάσει και αποδεχτεί τη &lt;a href=%1$s>Συμφωνία Χρήστη&lt;/a> και την &lt;a href=%2$s>Πολιτική Απορρήτου&lt;/a>, τη &lt;a href=%3$s>Συμφωνία Χρήστη&lt;/a> και την &lt;a href=%4$s>Πολιτική Απορρήτου&lt;/a> Mi Λογαριασμού, καθώς και τους &lt;a href=%5$s>Όρους και Προϋποθέσεις των υπηρεσιών επαλήθευσης της eSurfing account&lt;/a>.&lt;/Data></string>
-    <string name="user_agreement_hint_3rd_app_with_unicom">&lt;Data>Έχω διαβάσει και αποδεχτεί τη &lt;a href=%1$s>Συμφωνία Χρήστη&lt;/a> και την &lt;a href=%2$s>Πολιτική Απορρήτου&lt;/a>, τη &lt;a href=%3$s>Συμφωνία Χρήστη&lt;/a> και την &lt;a href=%4$s>Πολιτική Απορρήτου&lt;/a> Mi Λογαριασμού, καθώς και τους &lt;a href=%5$s>Όρους και Προϋποθέσεις των υπηρεσιών επαλήθευσης της China Unicom&lt;/a>.&lt;/Data></string>
-    <string name="user_agreement_hint_default">&lt;Data>Έχω διαβάσει και αποδεχτεί τη &lt;a href=%1$s>Συμφωνία Χρήστη&lt;/a> και την &lt;a href=%2$s>Πολιτική Απορρήτου&lt;/a> του Mi Λογαριασμού.&lt;/Data></string>
-    <string name="user_agreement_hint_first_login">Εάν χρησιμοποιείτε τον αριθμό τηλεφώνου σας για πρώτη φορά, θα δημιουργήσουμε έναν λογαριασμό αυτόματα.</string>
-    <string name="user_agreement_hint_with_mobile">&lt;Data>Έχω διαβάσει και αποδεχτεί τη &lt;a href=%1$s>Συμφωνία Χρήστη&lt;/a> και την &lt;a href=%2$s>Πολιτική Απορρήτου&lt;/a> Mi Λογαριασμού, καθώς και τους &lt;a href=%3$s>Όρους και Προϋποθέσεις των υπηρεσιών επαλήθευσης της China Mobile&lt;/a>.&lt;/Data></string>
-    <string name="user_agreement_hint_with_telecom">&lt;Data>Έχω διαβάσει και αποδεχτεί τη &lt;a href=%1$s>Συμφωνία Χρήστη&lt;/a> και την &lt;a href=%2$s>Πολιτική Απορρήτου&lt;/a> Mi Λογαριασμού, καθώς και τους &lt;a href=%3$s>Όρους και Προϋποθέσεις των υπηρεσιών επαλήθευσης της eSurfing account&lt;/a>.&lt;/Data></string>
-    <string name="user_agreement_hint_with_unicom">&lt;Data>Έχω διαβάσει και αποδεχτεί τη &lt;a href=%1$s>Συμφωνία Χρήστη&lt;/a> και την &lt;a href=%2$s>Πολιτική Απορρήτου&lt;/a> Mi Λογαριασμού, καθώς και τους &lt;a href=%3$s>Όρους και Προϋποθέσεις των υπηρεσιών επαλήθευσης της China Unicom&lt;/a>.&lt;/Data></string>
-    <string name="user_avatar_update_title">Αλλαγή φωτογραφίας προφίλ</string>
-    <string name="user_avatar_uploading">Μια στιγμή…</string>
+    <string name="user_agreement_url">http://www.miui.com/res/doc/eula.html?lang=el_GR</string>
     <string name="user_experience_program_open">Λόγω περιορισμών πνευματικών δικαιωμάτων, πρέπει να εγγραφείτε στο Πρόγραμμα Εμπειρίας Χρήστη για να μπορείτε να αναπαράγετε τραγούδια που έχετε κατεβάσει. Μπορείτε να το κάνετε αυτό στις Ρυθμίσεις > Κωδικοί πρόσβασης &amp; ασφάλεια > Απόρρητο > Εγγραφείτε στο Πρόγραμμα Εμπειρίας Χρήστη.</string>
-    <string name="user_name_phone_number">Αριθμός τηλεφώνου</string>
     <string name="user_playlist_plaza">Λίστες αναπαραγωγής</string>
     <string name="user_privacy_dialog_negative_text">Ακύρωση</string>
     <string name="user_privacy_dialog_positive_count_down_text">Ανάκληση (%sδ)</string>
@@ -1548,8 +1545,6 @@ ID:%s
     <string name="wednesday">Τετάρτη</string>
     <string name="wednesday_short">Τετ</string>
     <string name="wednesday_shortest">Τετ</string>
-    <string name="weibo_login_btn_content_description">Σύνδεση μέσω Weibo</string>
-    <string name="weixin_login_btn_content_description">Σύνδεση μέσω WeChat</string>
     <string name="welcome_to_entertainment">Δείτε τη νέα δυνατότητα Ψυχαγωγίας για μουσικά παιχνίδια και πολλά άλλα</string>
     <string name="wifi_required_body" formatted="false">"Συνδεθείτε σε Wi-Fi για ολοκλήρωση αυτής της %s λήψης. 
 
@@ -1558,6 +1553,7 @@ ID:%s
     <string name="yesterday">Χθες</string>
     <string name="you_can_switch_mode_in_settings">Μπορείτε να κάνετε εναλλαγή λειτουργιών στις Ρυθμίσεις</string>
     <string name="you_may_like">Επίσης, μπορεί να σας αρέσει</string>
+    <string name="you_might_like_it">Μπορεί να σας αρέσει</string>
     <string name="youtube_download_canl">Ακύρωση</string>
     <string name="youtube_download_fail_net">Δεν ήταν δυνατή η σύνδεση στο δίκτυο. Ελέγξτε τις ρυθμίσεις του δικτύου σας και προσπαθήστε ξανά.</string>
     <string name="youtube_download_fail_source">Παρουσιάστηκε σφάλμα. Περιμένετε ένα με δύο λεπτά και προσπαθήστε ξανά.</string>
@@ -1570,4 +1566,5 @@ ID:%s
     <string name="youtube_play_history">Ιστορικό αναπαραγωγής</string>
     <string name="youtube_share_guide_tip">Τώρα μπορείτε να μοιράζεστε βίντεο με φίλους</string>
     <string name="youtube_tab_explore">Εξερεύνηση</string>
+    <string name="youtube_tab_playlist">Λίστες αναπαραγωγής</string>
 </resources>

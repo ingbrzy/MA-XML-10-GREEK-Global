@@ -2,9 +2,9 @@
 <resources>
     <string-array name="additional_cal_dialog_labels">
         <item>Κανένα</item>
-        <item>Hijri Samvat</item>
-        <item>Shaka Samvat</item>
-        <item>Vikram Samvat</item>
+        <item>Ισλαμικό ημερολόγιο</item>
+        <item>Εθνικό Ημερολόγιο της Ινδίας</item>
+        <item>Ημερολόγιο Βικράμ</item>
     </string-array>
     <string-array name="alphabet_table">
         <item>Α</item>
@@ -85,6 +85,10 @@
         <item>Μόνο αυτό το συμβάν</item>
         <item>All events in the series</item>
     </string-array>
+    <string-array name="close_alarm_repeating_labels">
+        <item>Απενεργοποίηση μία φορά</item>
+        <item>Πάντα ανενεργό</item>
+    </string-array>
     <string-array name="date_calculate_spinner">
         <item>Προς τα εμπρός</item>
         <item>Προς τα πίσω</item>
@@ -133,6 +137,10 @@
         <item>libra</item>
         <item>Ζυγός</item>
         <item>23/9 - 23/10</item>
+    </string-array>
+    <string-array name="open_alarm_repeating_labels">
+        <item>Ενεργοποίηση μία φορά</item>
+        <item>Πάντα ενεργό</item>
     </string-array>
     <string-array name="panchang_weeks">
         <item>Κυριακή</item>

@@ -42,7 +42,7 @@
     <string name="app_name">Aριθμομηχανή</string>
     <string name="app_notification_info">Η Αριθμομηχανή εκτελείται στο παρασκήνιο</string>
     <string name="base_rate">Βασικό επιτόκιο</string>
-    <string name="bmi_error_text">Αυτό το ΔΜΣ δεν φαίνεται σωστό. Βεβαιωθείτε ότι το ύψος και το βάρος που εισαγάγατε είναι σωστά.</string>
+    <string name="bmi_error_text">Εισαγάγετε έγκυρες παραμέτρους</string>
     <string name="bmi_label_information">Πληροφορίες</string>
     <string name="bmi_label_normal">Κανονικό</string>
     <string name="bmi_label_overweight">Υπέρβαρος/η</string>
@@ -220,6 +220,7 @@
     <string name="global_search_key_word_figure">Οικονομικοί χαρακτήρες</string>
     <string name="golbal_search_calculator_setting">Αριθμομηχανή, Ρυθμίσεις Αριθμομηχανής, Ρυθμίσεις</string>
     <string name="golbal_search_path_calculator_setting">Εφαρμογές συστήματος/Αριθμομηχανή/Ρυθμίσεις</string>
+    <string name="gst_initial_value">%d</string>
     <string name="gst_percentage">%s</string>
     <string name="height_prompt">Ύψος</string>
     <string name="help_content_desc">Βοήθεια</string>
@@ -235,6 +236,7 @@
     <string name="install_scanner_to_continued_use">Ο Σαρωτής απεγκαταστάθηκε. Εγκατάσταση ξανά;</string>
     <string name="interest_rate_hint">Εισαγάγετε επιτόκιο</string>
     <string name="investment_invalid_duration">Η διάρκεια της επένδυσης πρέπει να είναι μεγαλύτερη από το μηδέν</string>
+    <string name="investment_loan_result">Λεπτομέρειες</string>
     <string name="investment_type_once">Μία φορά</string>
     <string name="investment_type_recurring">Επαναλαμβανόμενη</string>
     <string name="item_page_title_investment">Υπολογιστής επενδύσεων</string>
@@ -593,7 +595,6 @@
     <string name="tax_result_real_get">Μετά τον υπολογισμό φόρου</string>
     <string name="tax_social_insurance">Κοινωνική ασφάλιση</string>
     <string name="tax_thershold_foreign">%s (Ξένοι υπήκοοι)</string>
-    <string name="tax_thershold_native">%s (Κίνα)</string>
     <string name="tax_thershold_native_new">%s (νέο)</string>
     <string name="tax_thershold_native_new_description">Οι φόροι θα υπολογίζονται σύμφωνα με τους νέους φορολογικούς νόμους, από την 1η Οκτωβρίου 2018</string>
     <string name="tax_threshold">Αφορολόγητο</string>
@@ -696,6 +697,7 @@
     <string name="unit_data_display_currency_btn">Νγκούλτρουμ του Μπουτάν</string>
     <string name="unit_data_display_currency_bwp">Πούλα της Μποτσουάνα</string>
     <string name="unit_data_display_currency_byn">Ρούβλι Λευκορωσίας</string>
+    <string name="unit_data_display_currency_byr">@string/unit_data_display_currency_byn</string>
     <string name="unit_data_display_currency_cad">Καναδικό Δολάριο</string>
     <string name="unit_data_display_currency_cdf">Φράγκο του Κονγκό</string>
     <string name="unit_data_display_currency_chf">Ελβετικό Φράγκο</string>
@@ -801,7 +803,7 @@
     <string name="unit_data_display_length_fen">Fen</string>
     <string name="unit_data_display_length_fm">Οργιές</string>
     <string name="unit_data_display_length_ft">Πόδια</string>
-    <string name="unit_data_display_length_fur">Λετροζόλη</string>
+    <string name="unit_data_display_length_fur">Furlong</string>
     <string name="unit_data_display_length_gongli">Gongli</string>
     <string name="unit_data_display_length_hao">Hao</string>
     <string name="unit_data_display_length_in">Ίντσες</string>
@@ -1038,12 +1040,15 @@
     <string name="word_figure_unit_shi">拾</string>
     <string name="word_figure_yuan">元</string>
     <string name="word_figure_zheng">整</string>
+    <string name="xiaomi_bytes_unit">%1$sB</string>
     <string name="xiaomi_calculator_delete_description">Η Αριθμομηχανή είναι μια εφαρμογή συστήματος. Δεν θα μπορείτε να χρησιμοποιήσετε πολλούς μετατροπείς και πρόσθετες λειτουργίες μετά την απεγκατάσταση της εφαρμογής.</string>
     <string name="xiaomi_calculator_delete_title">Απεγκατάσταση Αριθμομηχανής;</string>
     <string name="xiaomi_calculator_remove_icon_description">Η Αριθμομηχανή είναι μια εφαρμογή συστήματος. Δεν θα μπορείτε να χρησιμοποιήσετε πολλούς μετατροπείς και πρόσθετες λειτουργίες μετά την αφαίρεση της Συντόμευσης αρχικής οθόνης.</string>
     <string name="xiaomi_calculator_remove_icon_title">Αφαίρεση \"Αριθμομηχανής\" από την Αρχική οθόνη;</string>
     <string name="xiaomi_connect_download_manager_fail">Δεν ήταν δυνατή η σύνδεση με τις Λήψεις. Ελέγξτε αν αυτή η εφαρμογή διαθέτει όλα τα απαιτούμενα δικαιώματα στις Ρυθμίσεις > Εγκατεστημένες εφαρμογές.</string>
     <string name="xiaomi_external_storage_unavailable">Μη διαθέσιμος χώρος αποθήκευσης. Ελέγξτε την κάρτα SD σας.</string>
+    <string name="xiaomi_kilobytes_unit">%1$sKB</string>
+    <string name="xiaomi_megabytes_unit">%1$sMB</string>
     <string name="xiaomi_update_dialog_message">"Εισαγωγή έκδοσης %1$s
 Μέγεθος: %2$s"</string>
     <string name="xiaomi_update_dialog_message_diff">"Εισαγωγή έκδοσης %1$s

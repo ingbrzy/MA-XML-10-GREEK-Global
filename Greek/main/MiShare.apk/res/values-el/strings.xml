@@ -396,6 +396,7 @@
     <string name="somepc_send_muchfile_files">%1$s σας στέλνει πάνω από %2$d αρχεία…</string>
     <string name="start_receive_much_files_from_pc">Λήψη πάνω από %2$d αρχείων από %1$s…</string>
     <string name="status_bar_notification_info_overflow">999+</string>
+    <string name="sub_title_mishare_switch">Αυτή η λειτουργία θα απενεργοποιηθεί αυτόματα μετά από %d λεπτά</string>
     <string name="success_receive_much_file_from_pc">Λήψη πάνω από %2$d αρχείων από %1$s. Πατήστε για προβολή.</string>
     <string name="summary_collapsed_preference_list">%1$s, %2$s</string>
     <string name="sunday">Κυριακή</string>
@@ -457,6 +458,8 @@
     <string name="tips_p2p_support_use5g_china">For best results, use a 5 GHz WLAN network.</string>
     <string name="tips_prompt_enable_midrop">Mi Κοινοποίηση</string>
     <string name="to_feedback">Αναφορά</string>
+    <string name="toast_auto_close_in_minutes">Η Mi Κοινοποίηση θα απενεργοποιηθεί μετά από %d λεπτά</string>
+    <string name="toast_transfering">Μεταφορά αντικειμένων. Δοκιμάστε ξανά αργότερα.</string>
     <string name="today">Σήμερα</string>
     <string name="tomorrow">Αύριο</string>
     <string name="transfer_intercept_to_remote">Αδυναμία αποστολής: %1$s</string>
@@ -464,8 +467,10 @@
     <string name="transfer_to_pc_summary_new">&lt;Data>Η τελευταία έκδοση του MIUI+ που είναι εγκατεστημένη στα Mi Notebooks είναι συμβατή με τη Mi Κοινοποίηση. Μπορείτε να ελέγξετε τη λίστα των υποστηριζόμενων μοντέλων φορητών υπολογιστών στην ιστοσελίδα του MIUI+ (&lt;a href=%1$s>%2$s&lt;/a>). Εάν ο φορητός σας υπολογιστής βρίσκεται στη λίστα, αλλά το MIUI+ δεν είναι εγκατεστημένο σε αυτόν, ενημερώστε το BIOS και το πρόγραμμα οδήγησης προσαρμογέα δικτύου του φορητού υπολογιστή σας και πραγματοποιήστε λήψη του MIUI+.&lt;/Data></string>
     <string name="transfer_to_pc_title">Αποστολή αρχείων σε υπολογιστές</string>
     <string name="transfer_to_phone_summary">Ενεργοποιήστε τη Mi Κοινοποίηση χρησιμοποιώντας τον διακόπτη στην Μπάρα ειδοποιήσεων. Μετά, θα είστε σε θέση να βλέπετε κοντινές συσκευές όταν αρχίσετε την κοινή χρήση μιας φωτογραφίας ή αρχείου. Πατήστε τη συσκευή του παραλήπτη για αποστολή του αντικειμένου που κοινοποιείτε.</string>
+    <string name="transfer_to_phone_summary_new">Ενεργοποιήστε τη Mi Κοινοποίηση στο Κέντρο ελέγχου για να μπορείτε να στέλνετε και να λαμβάνετε εύκολα αντικείμενα. Αφού την ενεργοποιήσετε, μπορείτε να μοιραστείτε στοιχεία με κοντινές συσκευές για %d λεπτά πριν απενεργοποιηθεί αυτόματα.</string>
     <string name="transfer_to_phone_title">Αποστολή αρχείων σε τηλέφωνα</string>
     <string name="transfer_to_summary">Ενεργοποιήστε τη Mi Κοινοποίηση χρησιμοποιώντας τον διακόπτη στην Μπάρα ειδοποιήσεων. Μετά, θα είστε σε θέση να βλέπετε κοντινές συσκευές όταν αρχίσετε την κοινή χρήση μιας φωτογραφίας ή αρχείου. Πατήστε τη συσκευή του παραλήπτη για αποστολή του αντικειμένου που κοινοποιείτε.</string>
+    <string name="transfer_to_summary_new">Ενεργοποιήστε τη Mi Κοινοποίηση στο Κέντρο ελέγχου για να μπορείτε να στέλνετε και να λαμβάνετε εύκολα αντικείμενα. Αφού την ενεργοποιήσετε, μπορείτε να μοιραστείτε στοιχεία με κοντινές συσκευές για %d λεπτά πριν απενεργοποιηθεί αυτόματα.</string>
     <string name="transfer_to_title">Αποστολή αρχείων σε κινητές συσκευές</string>
     <string name="tuesday">Τρίτη</string>
     <string name="tuesday_short">Τρι</string>

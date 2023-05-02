@@ -152,8 +152,6 @@ Note: Data for apps you've installed won't be backed up to Xiaomi Cloud."</strin
     <string name="cloud_backup_detail_state_summary_china">Η συσκευή πρέπει να είναι συνδεδεμένη σε WLAN, να φορτίζεται και να είναι κλειδωμένη</string>
     <string name="cloud_backup_detail_time">Τελευταία δημιουργία: %1$s</string>
     <string name="cloud_backup_detail_title">Δημιουργία αντιγράφων ασφαλείας</string>
-    <string name="cloud_backup_get_installed_apps_summary">Για δημιουργία αντιγράφων ασφαλείας και επαναφορά εφαρμογών Αρχικής οθόνης</string>
-    <string name="cloud_backup_get_installed_apps_title">Αποκτήστε πρόσβαση στη λίστα εφαρμογών που είναι εγκατεστημένες σε αυτήν τη συσκευή</string>
     <string name="cloud_backup_have_data">Βρέθηκε αντίγραφο ασφαλείας στο Xiaomi Cloud</string>
     <string name="cloud_backup_in_cancel">Ακύρωση</string>
     <string name="cloud_backup_in_process">Γίνεται δημιουργία αντίγραφου ασφαλείας</string>
@@ -172,9 +170,6 @@ Note: Data for apps you've installed won't be backed up to Xiaomi Cloud."</strin
     <string name="confirm_restore_summary">Η Αρχική Οθόνη σας θα επανεκκινηθεί. Εφαρμογές που έχουν αντίγραφα ασφαλείας θα κάνουν λήψη αυτόματα.</string>
     <string name="confirm_restore_title">Επαναφορά</string>
     <string name="copy">Αντιγραφή</string>
-    <string name="cta_dialog_all_purpose">Καλώς ήρθατε στα Αντίγραφα ασφαλείας σύννεφου! Μπορείτε να χρησιμοποιήσετε αυτήν την εφαρμογή για να δημιουργήσετε αντίγραφα ασφαλείας της διάταξης της Αρχικής οθόνης, των εφαρμογών, των ρυθμίσεων συστήματος και των δεδομένων WeChat στο σύννεφο. Βεβαιωθείτε ότι χρησιμοποιείτε την πιο πρόσφατη έκδοση για να μπορείτε να επωφεληθείτε από όλες τις δυνατότητες μας.</string>
-    <string name="cta_dialog_permission_description_get_installed_apps">Για δημιουργία αντιγράφων ασφαλείας και επαναφορά εφαρμογών</string>
-    <string name="cta_dialog_permission_description_storage">Για δημιουργία αντιγράφων ασφαλείας και επαναφορά στοιχείων</string>
     <string name="customization"><u>Προσαρμογή</u></string>
     <string name="date_format">dd-MM-yyyy HH:mm:ss</string>
     <string name="date_picker_label_day" />
@@ -402,6 +397,8 @@ Note: Data for apps you've installed won't be backed up to Xiaomi Cloud."</strin
     <string name="open_backup_switch">Εναλλαγή διακόπτη για αντίγραφα ασφαλείας</string>
     <string name="other_device_main_space">Πρώτος χώρος</string>
     <string name="other_device_second_space">Δεύτερος χώρος</string>
+    <string name="pattern_backup_name_with_home">%1$s (%2$s: %3$s)</string>
+    <string name="pattern_backup_name_without_home">%1$s (%2$s)</string>
     <string name="pc_mode_not_support_restore_warning">Δεν είναι δυνατή η επαναφορά στοιχείων σε Λειτουργία ΗΥ. Απενεργοποιήστε τη Λειτουργία ΗΥ και δοκιμάστε ξανά.</string>
     <string name="permission_to_use">Λεπτομέρειες αδειών</string>
     <string name="pm">ΜΜ</string>
