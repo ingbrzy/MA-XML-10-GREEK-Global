@@ -36,6 +36,18 @@
         <item quantity="other">%d λεπτά πριν</item>
         <item quantity="one">1 λεπτό πριν</item>
     </plurals>
+    <plurals name="download_canceled_title_multi">
+        <item quantity="other">Απορρίφθηκαν %2$d αρχεία, συμπεριλαμβανομένης %1$s</item>
+        <item quantity="one">Απορρίφθηκε %2$d αρχείο, συμπεριλαμβανομένης %1$s</item>
+    </plurals>
+    <plurals name="download_succeeded_title_multi">
+        <item quantity="other">Έγινε λήψη %2$d αρχείων, συμπεριλαμβανομένης %1$s</item>
+        <item quantity="one">Έγινε λήψη %2$d αρχείου, συμπεριλαμβανομένης %1$s</item>
+    </plurals>
+    <plurals name="download_title_multi">
+        <item quantity="other">%2$d αρχεία, συμπεριλαμβανομένης %1$s</item>
+        <item quantity="one">%2$d αρχείο, συμπεριλαμβανομένης %1$s</item>
+    </plurals>
     <plurals name="half_hour_ago">
         <item quantity="other">Μισή ώρα πριν</item>
         <item quantity="one">Μισή ώρα πριν</item>
