@@ -76,6 +76,8 @@
     <string name="dialog_miplay_permission_message">Να επιτρέπεται στην εφαρμογή Μετάδοση να κάνει εγγραφές ήχου, να έχει πρόσβαση στον εσωτερικό χώρο αποθήκευσης και στην τοποθεσία σας για να μπορείτε να χρησιμοποιείτε αυτή τη λειτουργία κανονικά. Πατήστε στις \"Ρυθμίσεις\" και επιλέξτε \"Άδειες εφαρμογής\" για να συνεχίσετε.</string>
     <string name="dialog_miplay_permission_positive">Ρυθμίσεις</string>
     <string name="dialog_miplay_permission_title">Απαιτούνται άδειες</string>
+    <string name="dialog_nearbydevice_permission_message">Επιτρέψτε σε αυτήν τη συσκευή να έχει πρόσβαση σε κοντινές συσκευές για να μπορεί να χρησιμοποιεί λειτουργίες μετάδοσης.</string>
+    <string name="dialog_nearbydevice_permission_title">Απαιτούνται άδειες</string>
     <string name="dialog_nfc_cast_wifi_off">Turn on WLAN to be able to cast using NFC. Turn on now?</string>
     <string name="dialog_no_device_message">&lt;Data>&lt;xliff:g id=count refersto=1>%1$d&lt;/xliff:g>. Συνδέστε την κινητή συσκευή σας και την τηλεόραση στο ίδιο δίκτυο Wi-Fi.&lt;br>&lt;br>&lt;xliff:g id=count refersto=2>%2$d&lt;/xliff:g>. Σε ορισμένα μοντέλα τηλεοράσεων, η λειτουργία αυτή είναι διαθέσιμη μόνο όταν ο αντικατοπτρισμός οθόνης είναι ενεργοποιημένος. Δείτε τη &lt;a href=milink://com.milink.service/specification>\"Βοήθεια\"&lt;/a> για να μάθετε περισσότερα.&lt;/Data></string>
     <string name="dialog_no_device_message_china">&lt;Data>&lt;xliff:g id=count refersto=1>%1$d&lt;/xliff:g>. Connect both your mobile device and TV to the same WLAN network.&lt;br>&lt;br>&lt;xliff:g id=count refersto=2>%2$d&lt;/xliff:g>. On some TV models, this feature is only available when screen mirroring is on. View &lt;a href=milink://com.milink.service/specification>\"Help\"&lt;/a> to learn more.&lt;/Data></string>
@@ -348,6 +350,7 @@ Connect both your mobile device and the external monitor (e.g. your TV) to the s
     <string name="mtrl_picker_a11y_next_month">Αλλαγή στον επόμενο μήνα</string>
     <string name="mtrl_picker_a11y_prev_month">Αλλαγή στον προηγούμενο μήνα</string>
     <string name="mtrl_picker_announce_current_selection">Τρέχουσα επιλογή: %1$s</string>
+    <string name="mtrl_picker_confirm">@android:string/ok</string>
     <string name="mtrl_picker_date_header_selected">%1$s</string>
     <string name="mtrl_picker_date_header_title">Επιλογή ημερομηνίας</string>
     <string name="mtrl_picker_date_header_unselected">Επιλεγμένη ημερομηνία</string>
@@ -562,6 +565,7 @@ Connect both your mobile device and the external monitor (e.g. your TV) to the s
     <string name="toast_msg_for_multi_window">Δεν μπορεί να χρησιμοποιηθεί αυτή η δυνατότητα με Διαίρεση οθόνης</string>
     <string name="toast_msg_for_small_window">Μπορείτε να ελαχιστοποιήσετε το παράθυρο που μεταδίδεται, για να μπορείτε να χρησιμοποιείτε άλλες λειτουργίες στο τηλέφωνό σας χωρίς να διακόπτετε τη διαδικασία μετάδοσης.</string>
     <string name="toast_nfc_dont_move">Μην απομακρύνετε το τηλέφωνό σας</string>
+    <string name="toast_nfc_same_wifi">Συνδέστε τόσο την τηλεόρασή σας όσο και αυτήν τη συσκευή στο ίδιο δίκτυο</string>
     <string name="toast_title_for_small_window">Επιλέξτε \"Ελαχιστοποίηση παραθύρου\" στην εφαρμογή</string>
     <string name="toast_turn_off_hotspot_before_cast">Απενεργοποίηση του φορητού σημείου πρόσβασης πριν τη μετάδοση</string>
     <string name="today">Σήμερα</string>

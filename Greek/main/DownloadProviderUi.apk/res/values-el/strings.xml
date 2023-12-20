@@ -74,6 +74,7 @@
     <string name="continue_download">Συνέχεια</string>
     <string name="copy">Αντιγραφή</string>
     <string name="copy_info">Έγινε αντιγραφή στο πρόχειρο. Μπορείτε να το μοιραστείτε με τους φίλους σας!</string>
+    <string name="copy_toast_msg">Ο σύνδεσμος αντιγράφηκε στο πρόχειρο</string>
     <string name="date_picker_label_day" />
     <string name="date_picker_label_month" />
     <string name="date_picker_label_year" />
@@ -131,8 +132,20 @@
     <string name="eras_ad">μ.Χ.</string>
     <string name="eras_bc">π.Χ.</string>
     <string name="evening">Απόγευμα</string>
+    <string name="exo_download_completed">Η λήψη ολοκληρώθηκε</string>
+    <string name="exo_download_description">Λήψη</string>
+    <string name="exo_download_downloading">Λήψη</string>
+    <string name="exo_download_failed">Η λήψη απέτυχε</string>
+    <string name="exo_download_notification_channel_name">Λήψεις</string>
+    <string name="exo_download_paused">Οι λήψεις τέθηκαν σε παύση.</string>
+    <string name="exo_download_paused_for_network">Οι λήψεις είναι σε αναμονή για δίκτυο.</string>
+    <string name="exo_download_paused_for_wifi">Οι λήψεις είναι σε αναμονή για Wi-Fi.</string>
+    <string name="exo_download_removing">Κατάργηση λήψεων</string>
     <string name="expand_button_title">Σύνθετες</string>
     <string name="extend">Περισσότερα</string>
+    <string name="fallback_menu_item_copy_link">Αντιγραφή συνδέσμου</string>
+    <string name="fallback_menu_item_open_in_browser">Άνοιγμα σε πρόγραμμα περιήγησης</string>
+    <string name="fallback_menu_item_share_link">Κοινοποίηση συνδέσμου</string>
     <string name="file_size">Μέγεθος:</string>
     <string name="fmt_chinese_date">N月e</string>
     <string name="fmt_date">D</string>
@@ -190,6 +203,9 @@
     <string name="friday_short">Παρ</string>
     <string name="friday_shortest">Παρ</string>
     <string name="gigabyteShort_per_seconds">GB/δ</string>
+    <string name="icon_create_failure">Αδυναμία προσθήκης συντόμευσης</string>
+    <string name="icon_create_success">Επιτυχής προσθήκη συντόμευσης</string>
+    <string name="icon_restore">Πατήστε για να προσθέσετε μια συντόμευση Αρχικής οθόνης για Λήψεις</string>
     <string name="info_download_progress">Προβολή προόδου λήψης</string>
     <string name="info_flow_show">Εμφάνιση προτεινόμενου περιεχομένου</string>
     <string name="insufficient_space">Ανεπαρκής χώρος αποθήκευσης</string>
@@ -212,14 +228,14 @@
     <string name="midnight">Νύχτα</string>
     <string name="missing_title">&lt;Άγνωστο></string>
     <string name="miuix_access_state_desc">Έγινε επιλογή</string>
-    <string name="miuix_appcompat_action_mode_deselect_all">Αποεπιλογή</string>
+    <string name="miuix_appcompat_action_mode_deselect_all">Αποεπιλογή όλων</string>
     <string name="miuix_appcompat_action_mode_select_all">Επιλογή όλων</string>
     <string name="miuix_appcompat_action_mode_title_empty">Επιλογή αντικειμένων</string>
     <string name="miuix_appcompat_actionbar_immersion_button_more_description">Περισσότερα</string>
     <string name="miuix_appcompat_cancel_description">Ακύρωση</string>
     <string name="miuix_appcompat_confirm_description">Επιβεβαίωση</string>
     <string name="miuix_appcompat_delete_description">Διαγραφή</string>
-    <string name="miuix_appcompat_deselect_all">Αποεπιλογή</string>
+    <string name="miuix_appcompat_deselect_all">Αποεπιλογή όλων</string>
     <string name="miuix_appcompat_deselect_all_description">Αποεπιλογή όλων</string>
     <string name="miuix_appcompat_search_action_mode_cancel">Ακύρωση</string>
     <string name="miuix_appcompat_search_input_description">Αναζήτηση</string>
@@ -306,6 +322,7 @@
     <string name="preferences_title">Ρυθμίσεις</string>
     <string name="privacy_agree_dialog_msg">&lt;Data>Καλώς ορίσατε στην εφαρμογή Λήψεις! Μπορείτε να χρησιμοποιήσετε αυτή την εφαρμογή για λήψη αρχείων.&lt;BR>Η εφαρμογή Λήψεις πρέπει να συλλέξει απαραίτητα προσωπικά δεδομένα για να σας παρέχει υπηρεσίες που δημιουργούν στατιστικά στοιχεία για τις λήψεις. Μπορείτε να μάθετε πως διαχειριζόμαστε τα δεδομένα που συλλέγουμε στην &lt;a href=\"%1$s\">Πολιτική Απορρήτου&lt;/a>.&lt;BR>Διαβάστε και συμφωνήστε με το &lt;a href=\"%2$s\">Συμφωνητικό Χρήστη&lt;/a> και την &lt;a href=\"%1$s\">Πολιτική Απορρήτου&lt;/a> πριν χρησιμοποιήσετε την εφαρμογή Λήψεις.&lt;BR>Μπορείτε να ανακαλέσετε τη συναίνεσή σας στην Πολιτική Απορρήτου στις Ρυθμίσεις της εφαρμογής Λήψεις οποιαδήποτε στιγμή. Εάν δεν συμφωνήσετε με την Πολιτική Απορρήτου, δεν θα μπορείτε να χρησιμοποιείτε ορισμένες λειτουργίες αυτής της εφαρμογής. Ωστόσο, οι βασικές της λειτουργίες θα εξακολουθήσουν να είναι διαθέσιμες.&lt;/Data></string>
     <string name="privacy_agree_dialog_title">Όροι και προϋποθέσεις</string>
+    <string name="privacy_policy">Πολιτική Απορρήτου</string>
     <string name="privacy_revoke_dialog_later">Ακύρωση</string>
     <string name="privacy_revoke_dialog_msg">Με εναλλαγή του διακόπτη σε ανενεργό, ανακαλείτε τη συγκατάθεσή σας στην Πολιτική Απορρήτου της εφαρμογής Λήψεις. Θα σταματήσουμε να συλλέγουμε τις προσωπικές σας πληροφορίες. Οι προσωπικές πληροφορίες που έχουν συλλεχθεί και διατηρηθεί μέχρι στιγμής θα διαγραφούν μέσα στη συγκεκριμένη περίοδο, όπως απαιτείται από τους ισχύοντες νόμους. Η εφαρμογή Λήψεις πρέπει να συλλέξει απαραίτητες προσωπικές πληροφορίες για να σας παρέχει υπηρεσίες που δημιουργούν στατιστικά στοιχεία για τις λήψεις. Η ανάκληση της συναίνεσής σας στην Πολιτική Απορρήτου του θα θεωρείται άρνηση της αποδοχής των υπηρεσιών του βάσει των συλλεγμένων προσωπικών δεδομένων.</string>
     <string name="privacy_revoke_dialog_ok">Ανάκληση</string>

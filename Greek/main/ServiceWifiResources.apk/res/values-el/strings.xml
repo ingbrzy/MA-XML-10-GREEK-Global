@@ -1,8 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="accept">Αποδοχή</string>
+    <string name="apm_enabled_first_time_message">Η συσκευή θυμάται να διατηρεί ενεργοποιημένο το Wi‑Fi σε λειτουργία πτήσης. Απενεργοποιήστε το Wi‑Fi, αν δεν επιθυμείτε να είναι ενεργοποιημένο.</string>
+    <string name="apm_enabled_first_time_title">Το Wi‑Fi παραμένει ενεργό</string>
     <string name="decline">Απόρριψη</string>
     <string name="dlg_ok">ΟΚ</string>
+    <string name="notification_channel_apm_alerts">Ειδοποιήσεις APM</string>
     <string name="notification_channel_network_alerts">Ειδοποιήσεις δικτύου</string>
     <string name="notification_channel_network_available">Το δίκτυο είναι διαθέσιμο</string>
     <string name="notification_channel_network_status">Κατάσταση δικτύου</string>
@@ -21,6 +24,10 @@
 %1$s
 
 "</string>
+    <string name="wifi_ca_cert_dialog_message_expiration_text">"Λήξη πιστοποιητικού:
+%1$s
+
+"</string>
     <string name="wifi_ca_cert_dialog_message_hint">"Επιτρέψτε τη σύνδεση σε αυτό το δίκτυο μόνο αν οι παρακάτω πληροφορίες είναι σωστές.
 
 "</string>
@@ -36,12 +43,12 @@
 %1$s
 
 "</string>
-    <string name="wifi_ca_cert_dialog_message_signature_name_text">"Υπογραφή:
+    <string name="wifi_ca_cert_dialog_message_signature_name_text">"Αποτύπωμα SHA-256:
 %1$s
 
 "</string>
-    <string name="wifi_ca_cert_dialog_preT_abort_text">Να μην γίνει σύνδεση</string>
-    <string name="wifi_ca_cert_dialog_preT_continue_text">Σύνδεση ούτως ή άλλως</string>
+    <string name="wifi_ca_cert_dialog_preT_abort_text">Αποσύνδεση τώρα</string>
+    <string name="wifi_ca_cert_dialog_preT_continue_text">Παραμείνετε συνδεδεμένοι</string>
     <string name="wifi_ca_cert_dialog_preT_message_hint">Λείπει ένα πιστοποιητικό από το δίκτυο %1$s.</string>
     <string name="wifi_ca_cert_dialog_preT_message_link">Μάθετε πώς να προσθέτετε πιστοποιητικά</string>
     <string name="wifi_ca_cert_dialog_preT_title">Δεν είναι δυνατή η επαλήθευση αυτού του δικτύου.</string>
@@ -82,14 +89,29 @@
     <string name="wifi_enable_request_dialog_negative_button">Να μην επιτρέπεται</string>
     <string name="wifi_enable_request_dialog_positive_button">Να επιτρέπεται</string>
     <string name="wifi_enable_request_dialog_title">Να επιτρέπεται στο %1$s να ενεργοποιεί το Wi‑Fi;</string>
+    <string name="wifi_enabled_apm_first_time_message">Αν διατηρήσετε το Wi‑Fi ενεργοποιημένο, η συσκευή σας θα θυμάται να το διατηρήσει ενεργοποιημένο την επόμενη φορά που θα βρεθεί σε λειτουργία πτήσης</string>
+    <string name="wifi_enabled_apm_first_time_title">Wi‑Fi ενεργό σε λειτουργία πτήσης</string>
     <string name="wifi_interface_priority_approve">Να επιτρέπεται</string>
+    <string name="wifi_interface_priority_interface_name_ap">Σημείο πρόσβασης Wi-Fi</string>
+    <string name="wifi_interface_priority_interface_name_ap_bridge">Σημείο πρόσβασης Wi-Fi</string>
+    <string name="wifi_interface_priority_interface_name_nan">Wi‑Fi Aware</string>
+    <string name="wifi_interface_priority_interface_name_p2p">Wi-Fi Direct</string>
+    <string name="wifi_interface_priority_interface_name_sta">STA</string>
     <string name="wifi_interface_priority_message">Αυτή η ενέργεια μπορεί να προκαλέσει προβλήματα στα εξής: %3$s.</string>
     <string name="wifi_interface_priority_message_plural">Αυτό μπορεί να προκαλέσει προβλήματα σε αυτές τις εφαρμογές: %3$s.</string>
     <string name="wifi_interface_priority_reject">Να μην επιτρέπεται</string>
     <string name="wifi_interface_priority_title">Η εφαρμογή %1$s θέλει να χρησιμοποιήσει έναν πόρο δικτύωσης</string>
+    <string name="wifi_network_disabled_by_admin_button">Κλείσιμο</string>
+    <string name="wifi_network_disabled_by_admin_message">Το %1$s έχει απενεργοποιηθεί από τον διαχειριστή σας.</string>
+    <string name="wifi_network_disabled_by_admin_title">Μη διαθέσιμο δίκτυο</string>
+    <string name="wifi_network_switch_dialog_negative_button">Να μην γίνει εναλλαγή</string>
+    <string name="wifi_network_switch_dialog_positive_button">Εναλλαγή</string>
+    <string name="wifi_network_switch_dialog_title_bad_internet">Το %1$s είναι χαμηλής ποιότητας. Εναλλαγή σε %2$s;</string>
+    <string name="wifi_network_switch_dialog_title_no_internet">Το %1$s φαίνεται ότι δεν είναι συνδεδεμένο στο διαδίκτυο. Εναλλαγή σε %2$s;</string>
     <string name="wifi_p2p_enter_pin_message">Πληκτρολογήστε τον απαιτούμενο κωδικό PIN:</string>
     <string name="wifi_p2p_frequency_conflict_message">Το τηλέφωνο θα αποσυνδεθεί προσωρινά από το δίκτυο Wi-Fi ενώ συνδέεται στη συσκευή %1$s</string>
     <string name="wifi_p2p_from_message">Από:</string>
+    <string name="wifi_p2p_invitation_seconds_remaining">{0,plural, =1{Αποδοχή σε # δευτερόλεπτο.}other{Αποδοχή σε # δευτερόλεπτα.}}</string>
     <string name="wifi_p2p_invitation_sent_title">Η πρόσκληση στάλθηκε</string>
     <string name="wifi_p2p_invitation_to_connect_title">Πρόσκληση για σύνδεση</string>
     <string name="wifi_p2p_show_pin_message">PIN:</string>

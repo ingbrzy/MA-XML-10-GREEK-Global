@@ -48,6 +48,9 @@
     <string name="back">Πίσω</string>
     <string name="barcode_into_rectangle">Τοποθετήστε τον κωδικό μέσα στο πλαίσιο</string>
     <string name="birthday">Γενέθλια:</string>
+    <string name="btn_add_schedule">Προσθήκη συμβάντος</string>
+    <string name="btn_send_email">Αποστολή email</string>
+    <string name="btn_send_message">Αποστολή SMS</string>
     <string name="camera_error_title">Σφάλμα Κάμερας</string>
     <string name="cancel">Ακύρωση</string>
     <string name="choose_open_code_app">Επιλέξτε μία εφαρμογή</string>
@@ -60,15 +63,17 @@
     <string name="common_save">Αποθήκευση</string>
     <string name="company">Εταιρία:</string>
     <string name="confirm">ΟΚ</string>
-    <string name="connect_wifi">Σύνδεση σε αυτό το δίκτυο</string>
+    <string name="connect_wifi">Σύνδεση</string>
     <string name="contact_details">Επαφή QR κωδικού:</string>
     <string name="continue_access_web_url">Μετάβαση στην ιστοσελίδα</string>
     <string name="continue_to_website">Μετάβαση στην ιστοσελίδα</string>
     <string name="copy">Αντιγραφή</string>
     <string name="copy_text">Αντιγραφή κειμένου</string>
     <string name="copy_text_success">Έγινε αντιγραφή κειμένου</string>
+    <string name="copy_web_url">Αντιγραφή URL</string>
     <string name="crop_cancel_description">Ακύρωση</string>
     <string name="crop_done_description">Ολοκληρώθηκε</string>
+    <string name="cta_purpose">Ο Σαρωτής πρέπει να χρησιμοποιεί την κάμερά σας και να επεξεργάζεται τις εικόνες που τραβάτε ενώ χρησιμοποιείτε την εφαρμογή. Μην χρησιμοποιείτε τον Σαρωτή για να τραβήξετε φωτογραφίες των αντικειμένων που περιέχουν τα προσωπικά σας στοιχεία. Πατώντας \"Αποδοχή\", αποδέχεστε την Πολιτική Απορρήτου μας και επιτρέπετε στον Σαρωτή να συνδεθεί στο διαδίκτυο.</string>
     <string name="date_picker_label_day" />
     <string name="date_picker_label_month" />
     <string name="date_picker_label_year" />
@@ -95,6 +100,8 @@
     <string name="drag_barcode_into_frame">Σύρετε το πλαίσιο για να χωρέσει ο κωδικός</string>
     <string name="early_morning">Πρωί</string>
     <string name="email">Email:</string>
+    <string name="email_message">Κύριο μέρος</string>
+    <string name="email_sub">Θέμα</string>
     <string name="empty" />
     <string name="eras_ad">μ.Χ.</string>
     <string name="eras_bc">π.Χ.</string>
@@ -103,10 +110,11 @@
     <string name="error_get_image">Αδυναμία απόκτησης εικόνας</string>
     <string name="error_media_storage_failure">Αδυναμία αποθήκευσης φωτογραφίας</string>
     <string name="error_permissions">Ο Σαρωτής δεν έχει τις απαιτούμενες άδειες για να λειτουργήσει κανονικά. Για να συνεχίσετε, μεταβείτε στις Ρυθμίσεις και ελέγξτε τις άδειες.</string>
+    <string name="error_permissions_location">Επιτρέψτε σε αυτήν την εφαρμογή να έχει πρόσβαση στην ακριβή τοποθεσία για να λειτουργεί κανονικά</string>
     <string name="error_permissions_storage">Επιτρέψτε πρόσβαση στις φωτογραφίες σας για να μπορέσετε να χρησιμοποιήσετε αυτήν τη λειτουργία</string>
     <string name="evening">Απόγευμα</string>
     <string name="expand_button_title">Σύνθετες</string>
-    <string name="feed_search_fail">Κανένα αποτέλεσμα, προσπαθήστε ξανά</string>
+    <string name="feed_search_fail">Αδυναμία εύρεσης αποτελεσμάτων</string>
     <string name="feedback_description_camera_access">Αδυναμία σύνδεσης σαρωτή με την Κάμερα</string>
     <string name="feedback_description_save_photo">Αδυναμία αποθήκευσης εικόνας ή βίντεο</string>
     <string name="feedback_phone">phone</string>
@@ -176,7 +184,7 @@
     <string name="jingdong">JD</string>
     <string name="kuaidi100_data">Παρέχεται από Kuaidi 100</string>
     <string name="label_choose_picture">Επιλογή εικόνας</string>
-    <string name="label_flash_light">Φακός</string>
+    <string name="label_flash_light">Φλας</string>
     <string name="language_entry_chinese_cn">Απλοποιημένα Κινέζικα</string>
     <string name="language_entry_english">Αγγλικά</string>
     <string name="language_entry_french">Γαλλικά</string>
@@ -185,7 +193,7 @@
     <string name="language_entry_korean">Κορεάτικα</string>
     <string name="language_entry_spanish">Ισπανικά</string>
     <string name="logistics">Εξπρές παράδοση</string>
-    <string name="low_version_tip">Ενημερώστε το MIUI στην πιο πρόσφατη έκδοση για να χρησιμοποιήσετε τον Σαρωτή.</string>
+    <string name="low_version_tip">Ενημερώστε στην πιο πρόσφατη έκδοση συστήματος για να μπορείτε να χρησιμοποιήσετε τον Σαρωτή.</string>
     <string name="midnight">Νύχτα</string>
     <string name="mihome_goto_install">Εγκατάσταση</string>
     <string name="mihome_goto_update">Ενημέρωση</string>
@@ -198,7 +206,7 @@
     <string name="mipayin_dialog_more">Περισσότερα</string>
     <string name="mipayin_dialog_title">Άνοιγμα με</string>
     <string name="miracast_connect">Μετάδοση</string>
-    <string name="miracast_connect_fail">Αδυναμία μετάδοσης, προσπαθήστε ξανά</string>
+    <string name="miracast_connect_fail">Αδυναμία μετάδοσης. Προσπαθήστε ξανά.</string>
     <string name="miracast_connecting">Γίνεται μετάδοση…</string>
     <string name="miracast_details">Σαρώστε τον QR κωδικό για μετάδοση</string>
     <string name="miracast_message">Μετάδοση σε %s;</string>
@@ -282,6 +290,7 @@
     <string name="note">Παρατήρηση:</string>
     <string name="now_state">"Τρέχουσα κατάσταση:  "</string>
     <string name="once">Μόνο μία φορά</string>
+    <string name="open_web_url">Άνοιγμα στο Πρόγραμμα περιήγησης</string>
     <string name="pay_save_this_choose">Απομνημόνευση της επιλογής μου</string>
     <string name="payment_text">Άνοιγμα με %s</string>
     <string name="phone">Τηλέφωνο:</string>
@@ -290,7 +299,7 @@
     <string name="preference_copied">Το \"%1$s\" αντιγράφηκε στο πρόχειρο.</string>
     <string name="preparing_sd">Γίνεται προετοιμασία εσωτερικού χώρου αποθήκευσης…</string>
     <string name="privacy_policy">Πολιτική Απορρήτου</string>
-    <string name="qr_code_details">Λεπτομέρειες QR κωδικού:</string>
+    <string name="qr_code_details">Κείμενο</string>
     <string name="queryNum">Ελέγξτε την παραγγελία</string>
     <string name="query_faile">Η κατάσταση παραγγελίας και οι λεπτομέρειες δεν έχουν συγχρονιστεί ακόμη. Ελέγξτε την παραγγελία σας χειροκίνητα.</string>
     <string name="query_more">Περισσότερες πληροφορίες</string>
@@ -301,6 +310,10 @@
     <string name="saturday_short">Σαβ</string>
     <string name="saturday_shortest">Σαβ</string>
     <string name="scan_result">Αποτέλεσμα</string>
+    <string name="schedule_date">Ημερομηνία</string>
+    <string name="schedule_description">Περιγραφή</string>
+    <string name="schedule_location">Τοποθεσία</string>
+    <string name="schedule_title">Τίτλος</string>
     <string name="sdk_not_ready">Γίνεται προετοιμασία του SDK. Προσπαθήστε ξανά αργότερα.</string>
     <string name="search_menu_title">Αναζήτηση</string>
     <string name="secure_access_web_url">Μετάβαση στην ιστοσελίδα</string>
@@ -323,6 +336,7 @@
     <string name="sunday_shortest">Κυρ</string>
     <string name="switch_open">Ενεργοποίηση</string>
     <string name="taobao">Taobao</string>
+    <string name="text_search">Αναζήτηση</string>
     <string name="the_anniversary_of_lifting_martial_law">Επέτειος Άρσης του Στρατιωτικού Νόμου</string>
     <string name="the_anti_aggression_day">Ημέρα κατά της Εχθρότητας</string>
     <string name="the_arbor_day">Ημέρα του Δέντρου</string>
@@ -371,7 +385,9 @@
     <string name="time_picker_label_minute">Λ</string>
     <string name="title">Τίτλος:</string>
     <string name="to_install_title">Αυτός ο κωδικός QR σας ανακατευθύνει σε εφαρμογή που δεν έχει εγκατασταθεί. Λήψη της εφαρμογής τώρα;</string>
+    <string name="to_message">Περιεχόμενο SMS</string>
     <string name="to_pay">Ολοκλήρωση πληρωμής</string>
+    <string name="to_person">Παραλήπτης</string>
     <string name="today">Σήμερα</string>
     <string name="toinstall">Λήψη</string>
     <string name="tomorrow">Αύριο</string>
@@ -392,16 +408,17 @@
     <string name="vender_info_translation_kingsoft">Υποστηρίζεται απο την Kingsoft</string>
     <string name="waybill_num">"Παραγγελία: "</string>
     <string name="web">Ιστοσελίδα:</string>
-    <string name="website_details">Ιστοσελίδα:</string>
+    <string name="website_details">URL</string>
     <string name="wednesday">Τετάρτη</string>
     <string name="wednesday_short">Τετ</string>
     <string name="wednesday_shortest">Τετ</string>
     <string name="wifi_details">Wi-Fi:</string>
     <string name="wifi_exist_fail">Το φορητό σημείο πρόσβασης \"%1$s\" υπάρχει ήδη. Διαγράψτε το, μετά σαρώστε ξανά τον κωδικό για να συνδεθείτε.</string>
     <string name="wifi_open_fail">Αδυναμία ενεργοποίησης Wi-Fi</string>
+    <string name="wifi_password">Κωδικός</string>
     <string name="wifi_psd_toolong">Ο κωδικός είναι υπερβολικά μεγάλος. Εισαγάγετε τον κωδικό χειροκίνητα.</string>
     <string name="wifi_pwd">Κωδικός:</string>
-    <string name="wifi_security">Ασφάλεια:</string>
-    <string name="wifi_ssid">SSID:</string>
+    <string name="wifi_security">Κρυπτογράφηση</string>
+    <string name="wifi_ssid">Όνομα δικτύου</string>
     <string name="yesterday">Χθες</string>
 </resources>

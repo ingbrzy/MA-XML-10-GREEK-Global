@@ -1,0 +1,259 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="a_hour_ago">
+        <item quantity="other">1 ώρα πριν</item>
+        <item quantity="one">1 ώρα πριν</item>
+    </plurals>
+    <plurals name="abbrev_a_hour_ago">
+        <item quantity="other">Πριν %d ώρες</item>
+        <item quantity="one">Πριν %d ώρα</item>
+    </plurals>
+    <plurals name="abbrev_half_hour_ago">
+        <item quantity="other">Μισή ώρα πριν</item>
+        <item quantity="one">Μισή ώρα πριν</item>
+    </plurals>
+    <plurals name="abbrev_in_a_hour">
+        <item quantity="other">Σε %d ώρες</item>
+        <item quantity="one">Σε %d ώρα</item>
+    </plurals>
+    <plurals name="abbrev_in_half_hour">
+        <item quantity="other">Σε μισή ώρα</item>
+        <item quantity="one">Σε μισή ώρα</item>
+    </plurals>
+    <plurals name="abbrev_in_less_than_one_minute">
+        <item quantity="other">Αμέσως</item>
+        <item quantity="one">Αμέσως</item>
+    </plurals>
+    <plurals name="abbrev_in_num_minutes">
+        <item quantity="other">Σε %d λεπ</item>
+        <item quantity="one">Σε %d λεπ</item>
+    </plurals>
+    <plurals name="abbrev_less_than_one_minute_ago">
+        <item quantity="other">Μόλις τώρα</item>
+        <item quantity="one">Μόλις τώρα</item>
+    </plurals>
+    <plurals name="abbrev_num_minutes_ago">
+        <item quantity="other">%d λεπ πριν</item>
+        <item quantity="one">%d λεπ πριν</item>
+    </plurals>
+    <plurals name="age_restriction">
+        <item quantity="other">Αξιολογήθηκε για %1$d+</item>
+        <item quantity="one">Αξιολογήθηκε για %1$d+</item>
+    </plurals>
+    <plurals name="app_detail_download_count">
+        <item quantity="other">%1$s λήψεις</item>
+        <item quantity="one">%1$s λήψη</item>
+    </plurals>
+    <plurals name="app_detail_sub_count">
+        <item quantity="other">%1$s προπαραγγελίες</item>
+        <item quantity="one">%1$s προπαραγγελία</item>
+    </plurals>
+    <plurals name="app_selected_recall_dialog">
+        <item quantity="other">Επιλέχθηκαν %1$d εφαρμογές</item>
+        <item quantity="one">Επιλέχθηκε %1$d εφαρμογή</item>
+    </plurals>
+    <plurals name="click_to_use_debug_mode">
+        <item quantity="other">Μετάβαση σε λειτουργία εντοπισμού σφαλμάτων με %1$d βήματα</item>
+        <item quantity="one">Μετάβαση σε λειτουργία εντοπισμού σφαλμάτων με %1$d βήμα</item>
+    </plurals>
+    <plurals name="cloud_game_little_time_desc">
+        <item quantity="other">Έχετε %d λεπτά χρόνο παιχνιδιού. Αγοράστε ένα πάσο σύννεφου για να παίξετε χωρίς διακοπές.</item>
+        <item quantity="one">Έχετε %d λεπτό χρόνο παιχνιδιού. Αγοράστε ένα πάσο σύννεφου για να παίξετε χωρίς διακοπές.</item>
+    </plurals>
+    <plurals name="cloud_game_prioritize_queue">
+        <item quantity="other">Χρήση του πάσου %d ημερών για πρόσβαση στην ουρά προτεραιότητας</item>
+        <item quantity="one">Χρήση του πάσου %d ημέρας για πρόσβαση στην ουρά προτεραιότητας</item>
+    </plurals>
+    <plurals name="cloud_game_queue_info_first">
+        <item quantity="other">Υπάρχουν %d άτομα μπροστά σας</item>
+        <item quantity="one">Υπάρχει %d άτομο μπροστά σας</item>
+    </plurals>
+    <plurals name="cloud_game_queue_info_second">
+        <item quantity="other">≈Απέμειναν %d λεπτά</item>
+        <item quantity="one">≈Απέμεινε %d λεπτό</item>
+    </plurals>
+    <plurals name="cloud_game_toast_time_left">
+        <item quantity="other">Απομένουν %d λεπτά χρόνου παιχνιδιού</item>
+        <item quantity="one">Απομένει %d λεπτό χρόνου παιχνιδιού</item>
+    </plurals>
+    <plurals name="collapse_update_apps_hint_v1">
+        <item quantity="other">Πατήστε για προβολή όλων των %1$d εφαρμογών</item>
+        <item quantity="one">Πατήστε για προβολή όλων των %1$d εφαρμογής</item>
+    </plurals>
+    <plurals name="comment_push_merged_message_desc_multiple">
+        <item quantity="other">Από %1$d άτομα, συμπεριλαμβανομένου του/της @%2$s και του/της @%3$s</item>
+        <item quantity="one">Από %1$d άτομο, συμπεριλαμβανομένου του/της @%2$s και του/της @%3$s</item>
+    </plurals>
+    <plurals name="comment_push_merged_message_title">
+        <item quantity="other">Έχετε %1$d αδιάβαστα μηνύματα</item>
+        <item quantity="one">Έχετε %1$d αδιάβαστο μήνυμα</item>
+    </plurals>
+    <plurals name="comment_score_count">
+        <item quantity="other">%1$s αξιολογήσεις</item>
+        <item quantity="one">%1$s αξιολόγηση</item>
+    </plurals>
+    <plurals name="day">
+        <item quantity="other">%1$s ημέρες</item>
+        <item quantity="one">%1$s ημέρα</item>
+    </plurals>
+    <plurals name="delete_download_history_confirm">
+        <item quantity="other">Διαγραφή %1$s επιλεγμένων στοιχείων;</item>
+        <item quantity="one">Διαγραφή %1$s επιλεγμένου στοιχείου;</item>
+    </plurals>
+    <plurals name="detail_comment_comment_limit_5">
+        <item quantity="other">Τα σχόλια πρέπει να περιέχουν τουλάχιστον %1$d χαρακτήρες</item>
+        <item quantity="one">Τα σχόλια πρέπει να περιέχουν τουλάχιστον %1$d χαρακτήρα</item>
+    </plurals>
+    <plurals name="detail_comment_tip_max_num">
+        <item quantity="other">Οι κριτικές μπορούν να περιέχουν έως και %1$d χαρακτήρες</item>
+        <item quantity="one">Οι κριτικές μπορούν να περιέχουν έως και %1$d χαρακτήρα</item>
+    </plurals>
+    <plurals name="dialog_title_uninstall_multiple_app_new">
+        <item quantity="other">Απεγκατάσταση %1$d εφαρμογών συμπεριλαμβανομένης %2$s;</item>
+        <item quantity="one">Απεγκατάσταση %1$d εφαρμογής συμπεριλαμβανομένης %2$s;</item>
+    </plurals>
+    <plurals name="download_list_delete_all_confirm_message">
+        <item quantity="other">Διαγραφή %1$d λήψεων συμπεριλαμβανομένης %2$s από την ουρά;</item>
+        <item quantity="one">Διαγραφή %1$d λήψης συμπεριλαμβανομένης %2$s από την ουρά;</item>
+    </plurals>
+    <plurals name="exo_controls_fastforward_by_amount_description">
+        <item quantity="other">Γρήγορη προώθηση κατά %d δευτερόλεπτα</item>
+        <item quantity="one">Γρήγορη προώθηση κατά %d δευτερόλεπτο</item>
+    </plurals>
+    <plurals name="exo_controls_rewind_by_amount_description">
+        <item quantity="other">Μετάβαση προς τα πίσω κατά %d δευτερόλεπτα</item>
+        <item quantity="one">Μετάβαση προς τα πίσω κατά %d δευτερόλεπτο</item>
+    </plurals>
+    <plurals name="game_sub_list_online_sub_count">
+        <item quantity="other">%s προπαραγγελίες</item>
+        <item quantity="one">%s προπαραγγελία</item>
+    </plurals>
+    <plurals name="guide_recommend_serval_apps_selected">
+        <item quantity="other">Επιλέχθηκαν %1$d εφαρμογές</item>
+        <item quantity="one">Επιλέχθηκε %1$d εφαρμογή</item>
+    </plurals>
+    <plurals name="half_hour_ago">
+        <item quantity="other">Μισή ώρα πριν</item>
+        <item quantity="one">Μισή ώρα πριν</item>
+    </plurals>
+    <plurals name="in_a_hour">
+        <item quantity="other">Σε 1 ώρα</item>
+        <item quantity="one">Σε 1 ώρα</item>
+    </plurals>
+    <plurals name="in_half_hour">
+        <item quantity="other">Σε μισή ώρα</item>
+        <item quantity="one">Σε μισή ώρα</item>
+    </plurals>
+    <plurals name="in_less_than_one_minute">
+        <item quantity="other">Αμέσως</item>
+        <item quantity="one">Αμέσως</item>
+    </plurals>
+    <plurals name="in_num_minutes">
+        <item quantity="other">σε %d λεπτά</item>
+        <item quantity="one">σε 1 λεπτό</item>
+    </plurals>
+    <plurals name="install_all_description">
+        <item quantity="other">Εγκατάσταση %1$s εφαρμογών συμπεριλαμβανομένης της %2$s ούτως ή άλλως;</item>
+        <item quantity="one">Εγκατάσταση %1$s εφαρμογής συμπεριλαμβανομένης της %2$s ούτως ή άλλως;</item>
+    </plurals>
+    <plurals name="install_on_data_description">
+        <item quantity="other">Η λήψη εφαρμογών με χρήση δεδομένων κινητής τηλεφωνίας ενδέχεται να δημιουργήσει πρόσθετες χρεώσεις. Λήψη %1$s εφαρμογών συμπεριλαμβανομένης της %2$s ούτως ή άλλως;</item>
+        <item quantity="one">Η λήψη εφαρμογών με χρήση δεδομένων κινητής τηλεφωνίας ενδέχεται να δημιουργήσει πρόσθετες χρεώσεις. Λήψη %1$s εφαρμογής συμπεριλαμβανομένης της %2$s ούτως ή άλλως;</item>
+    </plurals>
+    <plurals name="install_on_metered_wifi_description">
+        <item quantity="other">Είστε συνδεδεμένοι σε ένα σημείο πρόσβασης Wi-Fi. Η λήψη εφαρμογών ενδέχεται να δημιουργήσει πρόσθετες χρεώσεις δεδομένων για τη συσκευή στην οποία είστε συνδεδεμένοι. Λήψη %1$s εφαρμογών συμπεριλαμβανομένης της %2$s ούτως ή άλλως;</item>
+        <item quantity="one">Είστε συνδεδεμένοι σε ένα σημείο πρόσβασης Wi-Fi. Η λήψη εφαρμογών ενδέχεται να δημιουργήσει πρόσθετες χρεώσεις δεδομένων για τη συσκευή στην οποία είστε συνδεδεμένοι. Λήψη %1$s εφαρμογής συμπεριλαμβανομένης της %2$s ούτως ή άλλως;</item>
+    </plurals>
+    <plurals name="items_selected">
+        <item quantity="other">%1$s αντικείμενα επιλέχθηκαν</item>
+        <item quantity="one">%1$s αντικείμενο επιλέχθηκε</item>
+    </plurals>
+    <plurals name="less_than_one_minute_ago">
+        <item quantity="other">Μόλις τώρα</item>
+        <item quantity="one">Μόλις τώρα</item>
+    </plurals>
+    <plurals name="mi_protect_dialog_manual_inspect_desc">
+        <item quantity="other">Πραγματοποιούμε %d χειροκίνητους ελέγχους συμμόρφωσης στις πιο δημοφιλείς εφαρμογές</item>
+        <item quantity="one">Πραγματοποιούμε %d χειροκίνητο έλεγχο συμμόρφωσης στις πιο δημοφιλείς εφαρμογές</item>
+    </plurals>
+    <plurals name="mine_uninstall_desc">
+        <item quantity="other">%1$d εφαρμογές δεν έχουν χρησιμοποιηθεί για %2$d μέρες</item>
+        <item quantity="one">%1$d εφαρμογή δεν έχει χρησιμοποιηθεί για %2$d μέρες</item>
+    </plurals>
+    <plurals name="mini_card_gp_num_reviews">
+        <item quantity="other">%s αξιολογήσεις</item>
+        <item quantity="one">%s αξιολόγηση</item>
+    </plurals>
+    <plurals name="miuix_appcompat_items_selected">
+        <item quantity="other">%d αντικείμενα επιλέχθηκαν</item>
+        <item quantity="one">%d αντικείμενο επιλέχθηκε</item>
+    </plurals>
+    <plurals name="mtrl_badge_content_description">
+        <item quantity="other">%d νέες ειδοποιήσεις</item>
+        <item quantity="one">%d νέα ειδοποίηση</item>
+    </plurals>
+    <plurals name="native_install_count">
+        <item quantity="other">%s λήψεις</item>
+        <item quantity="one">%s λήψη</item>
+    </plurals>
+    <plurals name="notif_apps_has_new_update">
+        <item quantity="other">Μπορείτε να ενημερώσετε &lt;font color=#ff5f32>&lt;xliff:g id=app_count>%d&lt;/xliff:g>&lt;/font> εφαρμογές</item>
+        <item quantity="one">Μπορείτε να ενημερώσετε &lt;font color=#ff5f32>&lt;xliff:g id=app_count>%d&lt;/xliff:g>&lt;/font> εφαρμογή</item>
+    </plurals>
+    <plurals name="notif_auto_update_title">
+        <item quantity="other">Ενημερώθηκε %1$d εφαρμογές με Wi-Fi</item>
+        <item quantity="one">Ενημερώθηκε %1$d εφαρμογή με Wi-Fi</item>
+    </plurals>
+    <plurals name="notif_has_new_update_test1">
+        <item quantity="other">&lt;font color=#ff5f32>&lt;xliff:g id=user_percent>%1$s&lt;/xliff:g>&lt;/font> των χρηστών έχουν ήδη ενημερώσει αυτές τις &lt;font color=#ff5f32>&lt;xliff:g id=app_count>%2$d&lt;/xliff:g>&lt;/font> εφαρμογές</item>
+        <item quantity="one">&lt;font color=#ff5f32>&lt;xliff:g id=user_percent>%1$s&lt;/xliff:g>&lt;/font> των χρηστών έχουν ήδη ενημερώσει αυτήν την &lt;font color=#ff5f32>&lt;xliff:g id=app_count>%2$d&lt;/xliff:g>&lt;/font> εφαρμογή</item>
+    </plurals>
+    <plurals name="notification_installing">
+        <item quantity="other">Εγκατάσταση %1$s εφαρμογών</item>
+        <item quantity="one">Εγκατάσταση %1$s εφαρμογών</item>
+    </plurals>
+    <plurals name="num_minutes_ago">
+        <item quantity="other">%d λεπτά πριν</item>
+        <item quantity="one">1 λεπτό πριν</item>
+    </plurals>
+    <plurals name="text_points">
+        <item quantity="other">%1$3d νομίσματα</item>
+        <item quantity="one">%1$3d νόμισμα</item>
+    </plurals>
+    <plurals name="today_voted_text_bottom">
+        <item quantity="other">Η ψηφοφορία έχει κλείσει. Ψήφισαν %1$d άτομα.</item>
+        <item quantity="one">Η ψηφοφορία έχει κλείσει. Ψήφισε %1$d άτομο.</item>
+    </plurals>
+    <plurals name="today_voting_text_bottom_1">
+        <item quantity="other">"Ψήφισαν %1$d άτομα. "</item>
+        <item quantity="one">"Ψήφισε %1$d άτομο. "</item>
+    </plurals>
+    <plurals name="today_voting_text_bottom_2">
+        <item quantity="other">Τα αποτελέσματα θα ανακοινωθούν σε %1$d ώρες.</item>
+        <item quantity="one">Τα αποτελέσματα θα ανακοινωθούν σε %1$d ώρα.</item>
+    </plurals>
+    <plurals name="uninstall_all_v1">
+        <item quantity="other">Απεγκατάσταση %1$s εφαρμογών</item>
+        <item quantity="one">Απεγκατάσταση %1$s εφαρμογής</item>
+    </plurals>
+    <plurals name="update_notification_bubble_text">
+        <item quantity="other">%1$d ενημερώσεις</item>
+        <item quantity="one">%1$d ενημέρωση</item>
+    </plurals>
+    <plurals name="update_on_data_description">
+        <item quantity="other">Η ενημέρωση εφαρμογών με χρήση δεδομένων κινητής τηλεφωνίας ενδέχεται να δημιουργήσει πρόσθετες χρεώσεις. Ενημέρωση %1$s εφαρμογών συμπεριλαμβανομένης της %2$s ούτως ή άλλως;</item>
+        <item quantity="one">Η ενημέρωση εφαρμογών με χρήση δεδομένων κινητής τηλεφωνίας ενδέχεται να δημιουργήσει πρόσθετες χρεώσεις. Ενημέρωση %1$s εφαρμογής συμπεριλαμβανομένης της %2$s ούτως ή άλλως;</item>
+    </plurals>
+    <plurals name="update_on_metered_wifi_description">
+        <item quantity="other">Είστε συνδεδεμένοι σε ένα σημείο πρόσβασης Wi-Fi. Η ενημέρωση εφαρμογών ενδέχεται να δημιουργήσει πρόσθετες χρεώσεις δεδομένων για τη συσκευή στην οποία είστε συνδεδεμένοι. Ενημέρωση %1$s εφαρμογών συμπεριλαμβανομένης της %2$s ούτως ή άλλως;</item>
+        <item quantity="one">Είστε συνδεδεμένοι σε ένα σημείο πρόσβασης Wi-Fi. Η ενημέρωση εφαρμογών ενδέχεται να δημιουργήσει πρόσθετες χρεώσεις δεδομένων για τη συσκευή στην οποία είστε συνδεδεμένοι. Ενημέρωση %1$s εφαρμογής συμπεριλαμβανομένης της %2$s ούτως ή άλλως;</item>
+    </plurals>
+    <plurals name="update_time_relative_to_today">
+        <item quantity="other">%1$d ημέρες πριν</item>
+        <item quantity="one">%1$d ημέρα πριν</item>
+    </plurals>
+    <plurals name="upgrade_all_description">
+        <item quantity="other">Ενημέρωση %1$s εφαρμογών συμπεριλαμβανομένης %2$s;</item>
+        <item quantity="one">Ενημέρωση %1$s εφαρμογής συμπεριλαμβανομένης %2$s;</item>
+    </plurals>
+</resources>

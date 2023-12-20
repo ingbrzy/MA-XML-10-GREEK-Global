@@ -49,16 +49,16 @@
         <item quantity="one">1 ώρα πριν</item>
     </plurals>
     <plurals name="abbrev_a_hour_ago">
-        <item quantity="other">1 ώρα πριν</item>
-        <item quantity="one">1 ώρα πριν</item>
+        <item quantity="other">Πριν %d ώρες</item>
+        <item quantity="one">Πριν %d ώρα</item>
     </plurals>
     <plurals name="abbrev_half_hour_ago">
         <item quantity="other">Μισή ώρα πριν</item>
         <item quantity="one">Μισή ώρα πριν</item>
     </plurals>
     <plurals name="abbrev_in_a_hour">
-        <item quantity="other">Σε 1 ώρα</item>
-        <item quantity="one">Σε 1 ώρα</item>
+        <item quantity="other">Σε %d ώρες</item>
+        <item quantity="one">Σε %d ώρα</item>
     </plurals>
     <plurals name="abbrev_in_half_hour">
         <item quantity="other">Σε μισή ώρα</item>
@@ -69,16 +69,16 @@
         <item quantity="one">Αμέσως</item>
     </plurals>
     <plurals name="abbrev_in_num_minutes">
-        <item quantity="other">σε %d λεπτά</item>
-        <item quantity="one">σε 1 λεπτό</item>
+        <item quantity="other">Σε %d λεπ</item>
+        <item quantity="one">Σε %d λεπ</item>
     </plurals>
     <plurals name="abbrev_less_than_one_minute_ago">
         <item quantity="other">Μόλις τώρα</item>
         <item quantity="one">Μόλις τώρα</item>
     </plurals>
     <plurals name="abbrev_num_minutes_ago">
-        <item quantity="other">%d λεπτά πριν</item>
-        <item quantity="one">1 λεπτό πριν</item>
+        <item quantity="other">%d λεπ πριν</item>
+        <item quantity="one">%d λεπ πριν</item>
     </plurals>
     <plurals name="comment_count">
         <item quantity="other">%d σχόλια</item>
@@ -142,6 +142,10 @@
         <item quantity="other">Μισή ώρα πριν</item>
         <item quantity="one">Μισή ώρα πριν</item>
     </plurals>
+    <plurals name="hide_reason_duration">
+        <item quantity="other">Μικρότερο από %1$dδ</item>
+        <item quantity="one">Μικρότερο από %1$dδ</item>
+    </plurals>
     <plurals name="in_a_hour">
         <item quantity="other">Σε 1 ώρα</item>
         <item quantity="one">Σε 1 ώρα</item>
@@ -170,6 +174,10 @@
         <item quantity="other">Ακολουθείτε %d άτομα</item>
         <item quantity="one">Ακολουθείτε %d άτομο</item>
     </plurals>
+    <plurals name="media_store_new_songs_add">
+        <item quantity="other">%d νέα τραγούδια</item>
+        <item quantity="one">%d νέο τραγούδι</item>
+    </plurals>
     <plurals name="miuix_appcompat_items_selected">
         <item quantity="other">%d αντικείμενα επιλέχθηκαν</item>
         <item quantity="one">%d αντικείμενο επιλέχθηκε</item>
@@ -197,6 +205,10 @@
     <plurals name="reader_count">
         <item quantity="other">%d ακόλουθοι</item>
         <item quantity="one">%d ακόλουθος</item>
+    </plurals>
+    <plurals name="reward_seconds_remaining">
+        <item quantity="other">Συνδρομή VIP σε %d δευτερόλεπτα</item>
+        <item quantity="one">Συνδρομή VIP σε %d δευτερόλεπτο</item>
     </plurals>
     <plurals name="send_songs_toast">
         <item quantity="other">%d τραγούδια θα σταλούν</item>
@@ -233,5 +245,17 @@
     <plurals name="vip_remain_days_hint">
         <item quantity="other">Απέμειναν %d ημέρες</item>
         <item quantity="one">Απέμεινε %d ημέρα</item>
+    </plurals>
+    <plurals name="web_reward_dialog_title">
+        <item quantity="other">Αν παρακολουθήσετε για %d δευτερόλεπτα, θα λάβετε μια συνδρομή VIP ως ανταμοιβή. Έξοδος ούτως ή άλλως;</item>
+        <item quantity="one">Αν παρακολουθήσετε για %d δευτερόλεπτο, θα λάβετε μια συνδρομή VIP ως ανταμοιβή. Έξοδος ούτως ή άλλως;</item>
+    </plurals>
+    <plurals name="whitelist_multi_added">
+        <item quantity="other">Προστέθηκαν %d αρχεία</item>
+        <item quantity="one">Προστέθηκε %d αρχείο</item>
+    </plurals>
+    <plurals name="whitelist_multi_added_before">
+        <item quantity="other">%d αρχεία είχαν προστεθεί στο παρελθόν</item>
+        <item quantity="one">%d αρχείο είχε προστεθεί στο παρελθόν</item>
     </plurals>
 </resources>

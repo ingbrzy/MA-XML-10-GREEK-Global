@@ -64,10 +64,15 @@
     <string name="actionbar_button_up_description">Πίσω</string>
     <string name="ad_close">Κλείσιμο</string>
     <string name="ad_data_exception">Σφάλμα δεδομένων διαφημιστικών</string>
+    <string name="ad_flag_text">Διαφήμιση</string>
     <string name="ad_recommend">Εμφάνιση διαφημίσεων</string>
     <string name="ad_setting">Πρόσθετες ρυθμίσεις</string>
     <string name="add">Προσθήκη</string>
     <string name="add_music">Προσθήκη τραγουδιών</string>
+    <string name="add_songs_manually_bottom">Προσθήκη</string>
+    <string name="add_songs_manually_home">Προσθέστε τραγούδια χειροκίνητα</string>
+    <string name="add_songs_manually_setting">Προσθέστε τραγούδια χειροκίνητα</string>
+    <string name="add_songs_to_playlist">Προσθήκη σε λίστα αναπαραγωγής</string>
     <string name="add_to_last_of_playlist">Προσθήκη στο τέλος της λίστας αναπαραγωγής</string>
     <string name="add_to_playlist">Προσθήκη στην ουρά</string>
     <string name="add_to_playlist_successful">Επιτυχής προσθήκη</string>
@@ -93,11 +98,18 @@
     <string name="already_favorited">Επισημάνθηκε ήδη ως αγαπημένο</string>
     <string name="always_use_metered">Να γίνεται πάντα χρήση δεδομένων κινητής</string>
     <string name="am">ΠΜ</string>
-    <string name="app_description_content">Η Μουσική είναι μια εφαρμογή συστήματος που περιέχει ένα πρόγραμμα αναπαραγωγής ήχου και σας επιτρέπει να διαχειριστείτε αρχεία ήχου. Θα εξακολουθείτε να μπορείτε να αναπαράγετε αρχεία ήχου μετά την κατάργηση της Συντόμευσης αρχικής οθόνης.</string>
+    <string name="app_description_content">Η Μουσική είναι μια εφαρμογή συστήματος που περιέχει ένα πρόγραμμα αναπαραγωγής ήχου και σας επιτρέπει να διαχειριστείτε αρχεία ήχου. Θα εξακολουθείτε να μπορείτε να αναπαράγετε αρχεία ήχου μετά την κατάργηση της συντόμευσης Αρχικής οθόνης.</string>
     <string name="app_description_title">Αφαίρεση \"Μουσικής\" από την Αρχική οθόνη;</string>
     <string name="app_disable_description_content">Η Mi Μουσική είναι μια εφαρμογή συστήματος. Εάν την απενεργοποιήσετε, μπορεί να επηρεαστεί η χρήση άλλων εφαρμογών. Απενεργοποίηση ούτως ή άλλως;</string>
     <string name="app_disable_description_title">Απενεργοποίηση εφαρμογής συστήματος;</string>
     <string name="app_label">Λήψεις</string>
+    <string name="app_notify_dialog_btn_desc">Ρυθμίσεις</string>
+    <string name="app_notify_dialog_check_desc">Ενεργοποιήστε το γραφικό στοιχείο σκίασης ειδοποιήσεων, αλλά μην επιτρέπετε τις μόνιμες ειδοποιήσεις</string>
+    <string name="app_notify_dialog_path">Ρυθμίσεις > Ειδοποιήσεις &amp; κατάσταση > Ειδοποιήσεις εφαρμογής > Μουσική</string>
+    <string name="app_notify_dialog_path_10">Ρυθμίσεις > Ειδοποιήσεις &amp; κατάσταση > Ειδοποιήσεις εφαρμογής > Μουσική</string>
+    <string name="app_notify_dialog_path_8">Ρυθμίσεις > Ειδοποιήσεις &amp; κατάσταση > Ειδοποιήσεις εφαρμογής > Μουσική</string>
+    <string name="app_notify_dialog_subtitle">Ενεργοποιήστε τις ειδοποιήσεις για τη Mi Μουσική για να μπορείτε να ελέγξετε την αναπαραγωγή μουσικής στην Μπάρα ειδοποιήσεων.</string>
+    <string name="app_notify_dialog_title">Απαιτούνται άδειες</string>
     <string name="app_permission_confirm">Κατανοητό</string>
     <string name="app_permission_optional">Προαιρετικές άδειες</string>
     <string name="app_permission_require">Υποχρεωτικές άδειες</string>
@@ -108,8 +120,10 @@
     <string name="app_permission_use_group_phone_desc">Για υπηρεσίες Google Push</string>
     <string name="app_permission_use_group_storage">Χώρος αποθήκευσης</string>
     <string name="app_permission_use_group_storage_desc">Για την εύρεση και αναπαραγωγή τραγουδιών που αποθηκεύονται στη συσκευή</string>
+    <string name="app_resident_push_switch">Να επιτραπούν οι μόνιμες ειδοποιήσεις</string>
     <string name="apply_for_the_following_permissions">Η εφαρμογή ζητά τις παρακάτω άδειες:</string>
     <string name="apply_permissions_greater_than_pie">Μπορείτε να παραχωρήσετε αυτήν την άδεια στις Ρυθμίσεις > Εφαρμογές > Άδειες > Άδειες > Αρχεία και πολυμέσα > Μουσική.</string>
+    <string name="apply_permissions_greater_than_tiramisu">Μπορείτε να παραχωρήσετε αυτήν την άδεια στις Ρυθμίσεις > Εφαρμογές > Άδειες > Άδειες > Μουσική και ήχος/Φωτογραφίες και βίντεο > Μουσική.</string>
     <string name="apply_permissions_less_than_pie">Μπορείτε να παραχωρήσετε αυτήν την άδεια στις Ρυθμίσεις > Εφαρμογές > Άδειες > Άδειες > Πρόσβαση και αλλαγή αρχείων στον εσωτερικό χώρο > Μουσική.</string>
     <string name="apply_permissions_tips_content">Επιτρέψτε σε αυτήν την εφαρμογή να έχει πρόσβαση σε αρχεία για να ανακαλύψετε μουσική στη συσκευή σας.</string>
     <string name="artist">Καλλιτέχνες</string>
@@ -141,7 +155,7 @@
     <string name="avoid_to_use_traffic_summary">Μην χρησιμοποιείτε δίκτυο κινητής τηλεφωνίας για αναπαραγωγή μουσικής</string>
     <string name="avoid_to_use_traffic_title">Ειδοποίηση κατά την χρήση κινητών δεδομένων για αναπαραγωγή τραγουδιών</string>
     <string name="back">Πίσω</string>
-    <string name="back_confirm">Αγγίξτε ξανά για να μετακινήστε την εφαρμογή στο παρασκήνιο</string>
+    <string name="back_confirm">Ξαναπατήστε για έξοδο</string>
     <string name="best_experience">Η καλύτερη εμπειρία</string>
     <string name="billion_char">%s Δισ.</string>
     <string name="bluetooth_device">Bluetooth συσκευή ήχου</string>
@@ -207,6 +221,7 @@
     <string name="create_playlist">Δημιουργία λίστας αναπαραγωγής</string>
     <string name="create_playlist_failure">Αδυναμία δημιουργίας λίστας αναπαραγωγής</string>
     <string name="create_playlist_input_hint">Εισαγάγετε το όνομα λίστας αναπαραγωγής</string>
+    <string name="create_shortcut_for_playlist">Δημιουργία συντόμευσης Αρχικής οθόνης για λίστα αναπαραγωγής;</string>
     <string name="current_album">Τρέχον εξώφυλλο άλμπουμ</string>
     <string name="current_lyric">Τρέχοντες στίχοι</string>
     <string name="current_version">Τρέχουσα έκδοση</string>
@@ -327,7 +342,9 @@
     <string name="download_method">Λήψη</string>
     <string name="download_no_application_title">Αδυναμία ανοίγματος αρχείου</string>
     <string name="download_paused_in_power_save_mode">Παύση λήψεων όταν η Εξοικονόμηση μπαταρίας είναι ενεργή</string>
+    <string name="download_percent">%d%%</string>
     <string name="download_processing">Γίνεται λήψη…</string>
+    <string name="download_progress">%d%%</string>
     <string name="download_quality">Ποιότητα λήψης</string>
     <string name="download_quality_summary">Πρόσθετες ρυθμίσεις για τραγούδια που κατεβάζετε</string>
     <string name="download_queued">Σε ουρά</string>
@@ -435,7 +452,9 @@
     <string name="exo_media_action_repeat_all_description">Επανάληψη όλων</string>
     <string name="exo_media_action_repeat_off_description">Καμία επανάληψη</string>
     <string name="exo_media_action_repeat_one_description">Επανάληψη ενός κομματιού</string>
+    <string name="exo_track_bitrate">%1$.2f Mbps</string>
     <string name="exo_track_mono">Μονοφωνικό</string>
+    <string name="exo_track_resolution">%1$d × %2$d</string>
     <string name="exo_track_role_alternate">Εναλλακτικό</string>
     <string name="exo_track_role_closed_captions">Υπότιτλοι</string>
     <string name="exo_track_role_commentary">Σχολιασμός</string>
@@ -559,9 +578,11 @@
     <string name="get_more_favorite_content_after_login">Συνδεθείτε για να ανακαλύψετε περισσότερα τραγούδια και βίντεο.</string>
     <string name="get_one_day_vip">Έχετε VIP %d ημέρας!</string>
     <string name="get_one_hour_vip">Έχετε VIP %d ώρας!</string>
+    <string name="get_one_minute_vip">Κερδίσατε VIP %d λεπτού!</string>
     <string name="get_vip">Λήψη VIP</string>
     <string name="go_agree">ΟΚ</string>
     <string name="google_account_login">Συνδεθείτε μέσω Google</string>
+    <string name="google_download_music">Λήψη%1$s μέσω Google</string>
     <string name="goto_local_search">Αναζήτηση στη συσκευή</string>
     <string name="goto_online_search">Ον-λάιν αναζήτηση</string>
     <string name="handle_later">Όχι τώρα</string>
@@ -569,11 +590,19 @@
     <string name="headset_and_audio_effect_category">Ακουστικά headphones &amp; εφέ ήχου</string>
     <string name="headset_and_audio_effect_summary">Ακουστικά &amp; ισοσταθμιστής</string>
     <string name="headset_and_audio_effect_title">Ακουστικά headphones &amp; εφέ ήχου</string>
+    <string name="hgm_failed_to_connect_hint">Ελέγξτε τις ρυθμίσεις του δικτύου σας και προσπαθήστε ξανά. Εάν το πρόβλημα είναι σφάλμα διακομιστή hungama, θα το διορθώσουμε το συντομότερο δυνατό.</string>
+    <string name="hgm_has_offline">Δεν είναι δυνατή η αναπαραγωγή μουσικής που παρέχεται από τη hungama</string>
+    <string name="hgm_network_request_error_toast">Δεν ήταν δυνατή η σύνδεση με τους διακομιστές hungama. Προσπαθήστε ξανά.</string>
     <string name="hgm_vip_btn_desc">Έναρξη δωρεάν δοκιμής</string>
     <string name="hgm_vip_high_quality">Λήψεις υψηλής ποιότητας</string>
     <string name="hgm_vip_no_ads">Όχι διαφημ. ή όρια</string>
     <string name="hide_album">Απόκρυψη εξώφυλλου άλμπουμ</string>
     <string name="hide_lyric">Απόκρυψη στίχων</string>
+    <string name="hide_or_add_songs_manually">Προβολή κρυφών τραγουδιών</string>
+    <string name="hide_reason_folder">Κρυφός φάκελος</string>
+    <string name="hide_reason_other">Άλλος λόγος</string>
+    <string name="hide_reason_size">Μεγαλύτερο από %1$s</string>
+    <string name="hide_songs_title">Κρυφά τραγούδια</string>
     <string name="hifi_quality">Ποιότητα Hi-Fi</string>
     <string name="high_sound_quality">Υψηλή</string>
     <string name="higher_quality_music">Ήχος υψηλής ποιότητας</string>
@@ -587,6 +616,7 @@
     <string name="home_tab_recommend">Σε σύνδεση</string>
     <string name="home_tab_search">Αναζήτηση</string>
     <string name="hot_icon_in_fast_indexer">Δ</string>
+    <string name="hot_recommend">Δημοφιλή αυτή τη στιγμή</string>
     <string name="hungama_batch_download_alert_summary">Μόνο μέλη Gold μπορούν να κατεβάσουν τραγούδια απεριόριστα. Θέλετε να γίνετε μέλος Gold τώρα;</string>
     <string name="hungama_batch_download_alert_summary_toast">Γίνετε συνδρομητής για λήψη της συνολικής λίστας αναπαραγωγής.</string>
     <string name="hungama_download_subscription_toast">Εγγραφείτε στο hungama Music για λήψη αυτού του τραγουδιού</string>
@@ -665,6 +695,10 @@
     <string name="joox_search_result_more">Περισσότερα</string>
     <string name="joox_vip_check_to_pay">Αγορά</string>
     <string name="joox_vip_expired_hint">Η συνδρομή σας VIP έληξε. Τα τραγούδια που κατεβάσατε από το JOOX θα εμφανίζονται μόνο στις λήψεις σας.</string>
+    <string name="jump_to_ytb_dialog_cancel">Ακύρωση</string>
+    <string name="jump_to_ytb_dialog_desc">Πρόκειται να εγκαταλείψετε τη Mi Μουσική και να ανοίξετε το YouTube. Άνοιγμα YouTube τώρα;</string>
+    <string name="jump_to_ytb_dialog_ok">Επιβεβαίωση</string>
+    <string name="jump_to_ytb_dialog_title">Έξοδος από τη Mi Μουσική</string>
     <string name="just_hit_next">Απλά ακούστε το επόμενο</string>
     <string name="keep_queued_download">Διατήρηση</string>
     <string name="ktv_playlist">Λίστα αναπαραγωγής KTV</string>
@@ -681,9 +715,19 @@
     <string name="loading_hint">Περιμένετε μια στιγμή…</string>
     <string name="loading_reached_the_bottom">Αυτά προς το παρόν.</string>
     <string name="loading_text">Μια στιγμή…</string>
+    <string name="local_download_download">Λήψη</string>
+    <string name="local_download_hint">Ενεργοποιήστε το Wi-Fi πριν από τη λήψη</string>
+    <string name="local_download_item">Κατεβάστε δωρεάν</string>
+    <string name="local_download_title">Επιλέξτε τραγούδια για λήψη</string>
+    <string name="local_download_toast">Γίνεται λήψη…</string>
+    <string name="local_download_toast_notify">Γίνεται λήψη. Ελέγξτε την πρόοδο στην Μπάρα ειδοποιήσεων.</string>
     <string name="local_header_title">Τοπική μουσική</string>
     <string name="local_music">Τοπικά τραγούδια</string>
     <string name="local_music_is_not_available">Δεν έχετε τραγούδια στη συσκευή σας.</string>
+    <string name="local_out_dialog_cancel">Ακύρωση</string>
+    <string name="local_out_dialog_desc">Πρόκειται να ανοίξετε μια άλλη εφαρμογή που δεν σχετίζεται με τη Mi Μουσική.</string>
+    <string name="local_out_dialog_ok">ΟΚ</string>
+    <string name="local_out_dialog_title">Έξοδος από τη Mi Μουσική</string>
     <string name="local_page_album_more">Εμφάνιση όλων</string>
     <string name="local_page_artist_more">Περισσότερα τραγούδια από %s</string>
     <string name="local_page_playlist">Λίστες αναπαραγωγής</string>
@@ -701,6 +745,13 @@
     <string name="lyric_label">Στίχοι</string>
     <string name="lyric_open_other_connect">Λήψη στίχων με την χρήση δικτύου κινητής τηλεφωνίας</string>
     <string name="lyric_setting">Ρυθμίσεις στίχων</string>
+    <string name="lyrics_guide_button_text">Δοκιμάστε το</string>
+    <string name="lyrics_guide_four">Επιστρέψτε στη σελίδα των στίχων για προβολή</string>
+    <string name="lyrics_guide_one">Πατήστε ένα αποτέλεσμα αναζήτησης για να το επιλέξετε</string>
+    <string name="lyrics_guide_three">Επεξεργαστείτε και αποθηκεύστε τους στίχους</string>
+    <string name="lyrics_guide_title">Πώς να αναζητήσετε και να αποθηκεύσετε στίχους</string>
+    <string name="lyrics_guide_two">Επιλέξτε τους στίχους που θέλετε και αντιγράψτε τους</string>
+    <string name="lyrics_popup_title">Πατήστε για αναζήτηση στίχων</string>
     <string name="material_clock_toggle_content_description">Επιλέξτε π.μ. ή μ.μ.</string>
     <string name="material_hour_selection">Επιλογή ώρας</string>
     <string name="material_hour_suffix">%1$s ακριβώς</string>
@@ -744,14 +795,14 @@
     <string name="miuishare_title_more">Περισσότερα</string>
     <string name="miuishare_title_share">Κοινοποίηση</string>
     <string name="miuix_access_state_desc">Έγινε επιλογή</string>
-    <string name="miuix_appcompat_action_mode_deselect_all">Αποεπιλογή</string>
+    <string name="miuix_appcompat_action_mode_deselect_all">Αποεπιλογή όλων</string>
     <string name="miuix_appcompat_action_mode_select_all">Επιλογή όλων</string>
     <string name="miuix_appcompat_action_mode_title_empty">Επιλογή αντικειμένων</string>
     <string name="miuix_appcompat_actionbar_immersion_button_more_description">Περισσότερα</string>
     <string name="miuix_appcompat_cancel_description">Ακύρωση</string>
     <string name="miuix_appcompat_confirm_description">Επιβεβαίωση</string>
     <string name="miuix_appcompat_delete_description">Διαγραφή</string>
-    <string name="miuix_appcompat_deselect_all">Αποεπιλογή</string>
+    <string name="miuix_appcompat_deselect_all">Αποεπιλογή όλων</string>
     <string name="miuix_appcompat_deselect_all_description">Αποεπιλογή όλων</string>
     <string name="miuix_appcompat_search_action_mode_cancel">Ακύρωση</string>
     <string name="miuix_appcompat_search_input_description">Αναζήτηση</string>
@@ -776,40 +827,40 @@
     <string name="monday">Δευτέρα</string>
     <string name="monday_short">Δευ</string>
     <string name="monday_shortest">Δευ</string>
-    <string name="month_april">Απρίλιος</string>
+    <string name="month_april">Απριλίου</string>
     <string name="month_april_short">Απρ</string>
     <string name="month_april_shortest">Απρ</string>
-    <string name="month_august">Αύγουστος</string>
+    <string name="month_august">Αυγούστου</string>
     <string name="month_august_short">Αυγ</string>
     <string name="month_august_shortest">Αυγ</string>
-    <string name="month_december">Δεκέμβριος</string>
+    <string name="month_december">Δεκεμβρίου</string>
     <string name="month_december_short">Δεκ</string>
     <string name="month_december_shortest">Δεκ</string>
-    <string name="month_february">Φεβρουάριος</string>
+    <string name="month_february">Φεβρουαρίου</string>
     <string name="month_february_short">Φεβ</string>
     <string name="month_february_shortest">Φεβ</string>
-    <string name="month_january">Ιανουάριος</string>
+    <string name="month_january">Ιανουαρίου</string>
     <string name="month_january_short">Ιαν</string>
     <string name="month_january_shortest">Ιαν</string>
-    <string name="month_july">Ιούλιος</string>
+    <string name="month_july">Ιουλίου</string>
     <string name="month_july_short">Ιουλ</string>
     <string name="month_july_shortest">Ιουλ</string>
-    <string name="month_june">Ιούνιος</string>
+    <string name="month_june">Ιουνίου</string>
     <string name="month_june_short">Ιουν</string>
     <string name="month_june_shortest">Ιουν</string>
-    <string name="month_march">Μάρτιος</string>
+    <string name="month_march">Μαρτίου</string>
     <string name="month_march_short">Μαρ</string>
     <string name="month_march_shortest">Μαρ</string>
-    <string name="month_may">Μαι</string>
+    <string name="month_may">Μαΐου</string>
     <string name="month_may_short">Μαι</string>
     <string name="month_may_shortest">Μαι</string>
-    <string name="month_november">Νοέμβριος</string>
+    <string name="month_november">Νοεμβρίου</string>
     <string name="month_november_short">Νοε</string>
     <string name="month_november_shortest">Νοε</string>
-    <string name="month_october">Οκτώβριος</string>
+    <string name="month_october">Οκτωβρίου</string>
     <string name="month_october_short">Οκτ</string>
     <string name="month_october_shortest">Οκτ</string>
-    <string name="month_september">Σεπτέμβριος</string>
+    <string name="month_september">Σεπτεμβρίου</string>
     <string name="month_september_short">Σεπ</string>
     <string name="month_september_shortest">Σεπ</string>
     <string name="more">Περισσότερα</string>
@@ -826,6 +877,7 @@
     <string name="mtrl_picker_a11y_next_month">Αλλαγή στον επόμενο μήνα</string>
     <string name="mtrl_picker_a11y_prev_month">Αλλαγή στον προηγούμενο μήνα</string>
     <string name="mtrl_picker_announce_current_selection">Τρέχουσα επιλογή: %1$s</string>
+    <string name="mtrl_picker_confirm">@android:string/ok</string>
     <string name="mtrl_picker_date_header_selected">%1$s</string>
     <string name="mtrl_picker_date_header_title">Επιλογή ημερομηνίας</string>
     <string name="mtrl_picker_date_header_unselected">Επιλεγμένη ημερομηνία</string>
@@ -912,7 +964,7 @@
     <string name="notification_download_success_more">Έγινε λήψη %1$d</string>
     <string name="notification_need_wifi_for_size">Η λήψη τέτοιου μεγέθους απαιτεί Wi-Fi.</string>
     <string name="notification_play_summary">Προβολή τρέχοντος και επόμενου τραγουδιού, προβολή στίχων στην Αρχική οθόνη</string>
-    <string name="notification_play_title">Widget πίνακα ειδοποιήσεων</string>
+    <string name="notification_play_title">Γραφικό στοιχείο Μπάρας ειδοποιήσεων</string>
     <string name="notification_recommend_summary">Μάθετε για νέες μόδες μουσικής και προωθούμενες εφαρμογές</string>
     <string name="notification_recommend_title">Σημαντικές ειδοποιήσεις</string>
     <string name="notification_setting">Ρυθμίσεις ειδοποίησης</string>
@@ -931,6 +983,7 @@
     <string name="ok">OK</string>
     <string name="one_day_vip">VIP %d ημέρας</string>
     <string name="one_hour_vip">VIP %d ώρας</string>
+    <string name="one_minute_vip">VIP %d λεπτού</string>
     <string name="online_apk_acquired">Φορτώθηκε %d%%</string>
     <string name="online_apk_acquiring">Φόρτωση… %d%%</string>
     <string name="online_apk_download_error_no_enough_space">Δεν ήταν δυνατή η λήψη λόγω ανεπαρκούς αποθηκευτικού χώρου.</string>
@@ -1194,9 +1247,10 @@
     <string name="privacy_authorize_revoking">Γίνεται ανάκληση εξουσιοδότησης…</string>
     <string name="privacy_desc">Πολιτική Απορρήτου (υποχρεωτικό)</string>
     <string name="privacy_policy">Πολιτική Απορρήτου</string>
-    <string name="privacy_request_desc">"&lt;Data>Η Mi Μουσική πρέπει να συλλέξει απαραίτητα προσωπικά δεδομένα για να σας παρέχει υπηρεσίες online streaming. Μπορείτε να μάθετε πως διαχειριζόμαστε τα δεδομένα που συλλέγουμε στην &lt;a href=\"%1$s\">Πολιτική Απορρήτου&lt;/a>. Μπορείτε να ανακαλέσετε τη συγκατάθεσή σας για την Πολιτική Απορρήτου του Mi Μουσική στις Ρυθμίσεις οποιαδήποτε στιγμή. 
+    <string name="privacy_policy_url">http://www.miui.com/res/doc/privacy.html?lang=el_GR</string>
+    <string name="privacy_request_desc"><Data>"Η Mi Μουσική πρέπει να συλλέξει απαραίτητα προσωπικά δεδομένα για να σας παρέχει υπηρεσίες online streaming. Μπορείτε να μάθετε πως διαχειριζόμαστε τα δεδομένα που συλλέγουμε στην &lt;a href=\"%1$s\">Πολιτική Απορρήτου&lt;/a>. Μπορείτε να ανακαλέσετε τη συγκατάθεσή σας για την Πολιτική Απορρήτου του Mi Μουσική στις Ρυθμίσεις οποιαδήποτε στιγμή. 
 Διαβάστε και αποδεχτείτε τη &lt;a href=\"%2$s\">Συμφωνία Χρήστη&lt;/a> και την &lt;a href=\"%1$s\">Πολιτική Απορρήτου&lt;/a> πριν χρησιμοποιήσετε τη Mi Μουσική.
-Εάν δεν συμφωνήσετε με τις πιο πάνω υπηρεσίες, δεν θα μπορείτε να χρησιμοποιείτε ορισμένες λειτουργίες αυτής της εφαρμογής. Ωστόσο, οι βασικές της λειτουργίες θα εξακολουθήσουν να είναι διαθέσιμες.&lt;/Data>"</string>
+Εάν δεν συμφωνήσετε με τις πιο πάνω υπηρεσίες, δεν θα μπορείτε να χρησιμοποιείτε ορισμένες λειτουργίες αυτής της εφαρμογής. Ωστόσο, οι βασικές της λειτουργίες θα εξακολουθήσουν να είναι διαθέσιμες."</Data></string>
     <string name="privacy_request_subtitle">"Καλωσορίσατε στη Mi Μουσική! Αυτή η εφαρμογή παρέχει τις ακόλουθες υπηρεσίες:
 - Μία τοπική αναπαραγωγή ήχου
 - Υπηρεσίες Online streaming"</string>
@@ -1209,9 +1263,9 @@
     <string name="pulluprefreshrecyclerview_loading_finished">Επιτυχής φόρτωση</string>
     <string name="pulluprefreshrecyclerview_loading_running">Φόρτωση…</string>
     <string name="queue_is_empty">Η ουρά αναπαραγωγής είναι κενή.</string>
-    <string name="read_and_agree_hungama_protocol">&lt;Data>Έχω διαβάσει και αποδεχτεί την &lt;font color=\"#A374F0\">&lt;/color>&lt;a href=\"%1$s\">Πολιτική Απορρήτου hungama&lt;/a>&lt;/font>&lt;/Data></string>
-    <string name="read_and_agree_joox_protocol">&lt;Data>Έχω διαβάσει και αποδεχτεί την &lt;font color=\"#A374F0\">&lt;/color>&lt;a href=\"%1$s\">Πολιτική Απορρήτου JOOX&lt;/a>&lt;/font>&lt;/Data></string>
-    <string name="read_and_agree_mi_protocol">&lt;Data>IΈχω διαβάσει και αποδεχτεί τη &lt;font color=\"#A374F0\">&lt;/color>&lt;a href=\"%1$s\">Συμφωνία Χρήστη&lt;/a>&lt;/font> και την &lt;font color=\"#A374F0\">&lt;/color>&lt;a href=\"%2$s\">Πολιτική Απορρήτου&lt;/a>&lt;/font> Xiaomi&lt;/Data></string>
+    <string name="read_and_agree_hungama_protocol"><Data>Έχω διαβάσει και αποδεχτεί την &lt;font color=\"#A374F0\">&lt;/color>&lt;a href=\"%1$s\">Πολιτική Απορρήτου hungama&lt;/a>&lt;/font></Data></string>
+    <string name="read_and_agree_joox_protocol"><Data>Έχω διαβάσει και αποδεχτεί την &lt;font color=\"#A374F0\">&lt;/color>&lt;a href=\"%1$s\">Πολιτική Απορρήτου JOOX&lt;/a>&lt;/font></Data></string>
+    <string name="read_and_agree_mi_protocol"><Data>IΈχω διαβάσει και αποδεχτεί τη &lt;font color=\"#A374F0\">&lt;/color>&lt;a href=\"%1$s\">Συμφωνία Χρήστη&lt;/a>&lt;/font> και την &lt;font color=\"#A374F0\">&lt;/color>&lt;a href=\"%2$s\">Πολιτική Απορρήτου&lt;/a>&lt;/font> Xiaomi</Data></string>
     <string name="read_and_agree_protocol">Διαβάστε και αποδεχτείτε τη Συμφωνία Χρήστη και την Πολιτική Απορρήτου μας προτού συνεχίσετε.</string>
     <string name="ready_to_play">Αμέσως μετά</string>
     <string name="recently_played">Πρόσφατες αναπαραγωγές</string>
@@ -1219,7 +1273,6 @@
     <string name="recommend_songs_when_playing_audio_files">Λαμβάνετε προτεινόμενα τραγούδια όσο ακούτε μουσική</string>
     <string name="recommended_file_size_download_in_mobile">Χρήση %s δεδομένων για την λήψη αυτού του αρχείου;</string>
     <string name="recommended_no_file_size_download_in_mobile">Χρήση δεδομένων κινητής τηλεφωνίας για την λήψη του αρχείου;</string>
-    <string name="refresh">Ανανέωση</string>
     <string name="remove">Αφαίρεση</string>
     <string name="remove_download">Αφαίρεση</string>
     <string name="remove_user_privacy_dialog_message">Κλείνοντας τον διακόπτη, ανακαλείτε τη συγκατάθεσή σας για την Πολιτική Απορρήτου της Mi Μουσικής. Θα σταματήσουμε να συλλέγουμε τις προσωπικές σας πληροφορίες. Οι προσωπικές πληροφορίες που έχουν συλλεχθεί και διατηρηθεί μέχρι στιγμής θα διαγραφούν μέσα στη συγκεκριμένη περίοδο, όπως απαιτείται από τους ισχύοντες νόμους. Η Mi Μουσική πρέπει να συλλέξει απαραίτητες προσωπικές πληροφορίες για να σας παρέχει τις βασικές υπηρεσίες. Η ανάκληση της συναίνεσής σας για την Πολιτική Απορρήτου της θα θεωρείται άρνηση της αποδοχής των υπηρεσιών της βάσει των συλλεγμένων προσωπικών δεδομένων.</string>
@@ -1236,6 +1289,7 @@
     <string name="retry_after_network_available">Αδυναμία σύνδεσης στο δίκτυο. Ελέγξτε την σύνδεσή σας και προσπαθήστε ξανά.</string>
     <string name="retry_download">Προσπαθήστε ξανά</string>
     <string name="revoke_upload_playlist_to_hungama_toast">Τα διαδικτυακά τραγούδια δεν θα συγχρονιστούν με το hungama</string>
+    <string name="reward_received">Κερδίσατε μια συνδρομή VIP!</string>
     <string name="ringtone_editing">Επεξεργαστής κουδουνίσματος</string>
     <string name="ringtone_not_support">Η μορφή του τραγουδιού δεν υποστηρίζεται</string>
     <string name="ringtone_selected">Έγινε επιλογή</string>
@@ -1286,6 +1340,7 @@
     <string name="select_local_cover">Επιλέξτε τοπικό εξώφυλλο</string>
     <string name="select_local_lyric">Επιλογή αρχείου</string>
     <string name="select_local_lyric_file">Επιλέξτε τοπικό αρχείο στίχων</string>
+    <string name="select_lyrics_copy">Επιλογή και αντιγραφή στίχων</string>
     <string name="select_none">Αποεπιλογή όλων</string>
     <string name="select_one_language">Επιλέξτε τουλάχιστον %d γλώσσα</string>
     <string name="select_three_languages">Μπορείτε να επιλέξετε μέχρι και %d γλώσσες</string>
@@ -1329,6 +1384,7 @@
     <string name="similar_songs">Παρόμοια τραγούδια</string>
     <string name="similar_videos">Παρόμοια βίντεο</string>
     <string name="skip">Παράλειψη</string>
+    <string name="skip_ad">Παράλειψη</string>
     <string name="sleep_mode">Μετρητής ύπνου</string>
     <string name="sleep_mode_canceled">Η λειτουργία ύπνου είναι ανενεργή</string>
     <string name="sleep_mode_summary">Διακοπή αναπαραγωγής μετά από μια συγκεκριμένη ώρα</string>
@@ -1344,6 +1400,7 @@
     <string name="song_offline">Αυτό το τραγούδι δεν είναι διαθέσιμο πλέον.</string>
     <string name="song_picker_complete">Ολοκλήρωση</string>
     <string name="song_quality_category">Μουσική</string>
+    <string name="song_swipe_navigation">Σύρετε προς τα αριστερά ή προς τα δεξιά για εναλλαγή τραγουδιού</string>
     <string name="songgroup_pick_album">Άλμπουμ</string>
     <string name="songgroup_pick_playlist">Λίστες αναπαραγωγής</string>
     <string name="sort_by_name">Όνομα</string>
@@ -1353,6 +1410,7 @@
     <string name="start_to_download">Γίνεται λήψη…</string>
     <string name="start_to_play">Γίνεται προετοιμασία αναπαραγωγής…</string>
     <string name="start_update">Γίνεται εγκατάσταση νέας έκδοσης…</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
     <string name="storage_cloned_app">Χώρος αποθήκευσης για διπλότυπες εφαρμογές</string>
     <string name="storage_internal">Εσωτερικός χώρος αποθήκευσης</string>
     <string name="storage_sd_card">Κάρτα SD</string>
@@ -1513,6 +1571,7 @@
     <string name="upload_playlist_to_hungama_title">Συγχρονίστε διαδικτυακά τραγούδια στο hungama για να έχετε πρόσβαση σε αυτά σε άλλες συσκευές όπου χρησιμοποιείτε τον Λογαριασμό Xiaomi σας.</string>
     <string name="upload_playlist_to_hungama_toast">Τα διαδικτυακά τραγούδια θα συγχρονιστούν με το hungama</string>
     <string name="user_agreement">Συμφωνία Χρήστη</string>
+    <string name="user_agreement_url">http://www.miui.com/res/doc/eula.html?lang=el_GR</string>
     <string name="user_experience_program_open">Λόγω περιορισμών πνευματικών δικαιωμάτων, πρέπει να εγγραφείτε στο Πρόγραμμα Εμπειρίας Χρήστη για να μπορείτε να αναπαράγετε τραγούδια που έχετε κατεβάσει. Μπορείτε να το κάνετε αυτό στις Ρυθμίσεις > Κωδικοί πρόσβασης &amp; ασφάλεια > Απόρρητο > Εγγραφείτε στο Πρόγραμμα Εμπειρίας Χρήστη.</string>
     <string name="user_playlist_plaza">Λίστες αναπαραγωγής</string>
     <string name="user_privacy_dialog_negative_text">Ακύρωση</string>
@@ -1526,6 +1585,7 @@
     <string name="v7_preference_off">ΑΝΕΝΕΡΓΗ</string>
     <string name="v7_preference_on">ΕΝΕΡΓΗ</string>
     <string name="version_info">Έκδοση</string>
+    <string name="video_loading_fail">Αδυναμία φόρτωσης βίντεο</string>
     <string name="video_play_cellular">Η συσκευή σας δεν είναι συνδεδεμένη στο Wi-Fi. Χρήση δεδομένων κινητής τηλεφωνίας;</string>
     <string name="video_replay_btn">Αναπαραγωγή ξανά</string>
     <string name="video_retry_btn">Προσπαθήστε ξανά</string>
@@ -1534,10 +1594,22 @@
     <string name="vip_required_with_song">%s διαθέσιμο σε μέλη Gold μόνο. Προσωρινή παράλειψη τραγουδιού.</string>
     <string name="voice_search_first_hint">Δοκιμάστε φωνητική αναζήτηση!</string>
     <string name="watch_video">Παρακολούθηση βίντεο</string>
+    <string name="web_reward_dialog_cancle">Ακύρωση</string>
+    <string name="web_reward_dialog_ok">Έξοδος</string>
     <string name="wednesday">Τετάρτη</string>
     <string name="wednesday_short">Τετ</string>
     <string name="wednesday_shortest">Τετ</string>
     <string name="welcome_to_entertainment">Δείτε τη νέα δυνατότητα Ψυχαγωγίας για μουσικά παιχνίδια και πολλά άλλα</string>
+    <string name="whitelist_add_exist">Ορισμένα τραγούδια αναφέρονται ήδη στα Τοπικά τραγούδια και δεν εμφανίζονται εδώ</string>
+    <string name="whitelist_add_failed">Αδυναμία προσθήκης αρχείων</string>
+    <string name="whitelist_desc_1">Εάν η Mi Μουσική δεν βρει τα τραγούδια που αναζητάτε στη συσκευή σας, μπορείτε να τα προσθέσετε χειροκίνητα.</string>
+    <string name="whitelist_desc_2">Αυτά τα αρχεία θα εμφανίζονται ακόμα και αν το μέγεθος του αρχείου και η διάρκεια του τραγουδιού δεν ταιριάζουν ή βρίσκονται σε κρυφούς φακέλους.</string>
+    <string name="whitelist_dialog_content">Τα αφαιρεμένα αρχεία δεν θα εμφανίζονται πλέον στις εξαιρέσεις της Mi Μουσικής, αλλά δεν θα διαγράφονται από τη συσκευή σας. Αφαίρεση τώρα;</string>
+    <string name="whitelist_dialog_title">Αφαίρεση αρχείων;</string>
+    <string name="whitelist_entrance_desc">Προσθέστε χειροκίνητα αρχεία που η Mi Μουσική δεν εντοπίζει αυτόματα</string>
+    <string name="whitelist_entrance_text_1">"Αδυναμία εύρεσης τραγουδιού; "</string>
+    <string name="whitelist_multi_add_tips">%1$s. %2$s.</string>
+    <string name="whitelist_title">Εξαιρέσεις αρχείου</string>
     <string name="wifi_required_body" formatted="false">"Συνδεθείτε σε Wi-Fi για ολοκλήρωση αυτής της %s λήψης. 
 
 Πατήστε %s για έναρξη της λήψης την επόμενη φορά που θα είστε συνδεδεμένοι με δίκτυο Wi-Fi."</string>
@@ -1546,6 +1618,10 @@
     <string name="you_can_switch_mode_in_settings">Μπορείτε να κάνετε εναλλαγή λειτουργιών στις Ρυθμίσεις</string>
     <string name="you_may_like">Επίσης, μπορεί να σας αρέσει</string>
     <string name="you_might_like_it">Μπορεί να σας αρέσει</string>
+    <string name="youtube_delete_dialog_cancel">Ακύρωση</string>
+    <string name="youtube_delete_dialog_desc">Να αφαιρεθεί αυτό το τραγούδι από τα αγαπημένα τώρα;</string>
+    <string name="youtube_delete_dialog_ok">Αφαίρεση</string>
+    <string name="youtube_delete_dialog_title">Αφαίρεση από τα αγαπημένα</string>
     <string name="youtube_download_canl">Ακύρωση</string>
     <string name="youtube_download_fail_net">Δεν ήταν δυνατή η σύνδεση στο δίκτυο. Ελέγξτε τις ρυθμίσεις του δικτύου σας και προσπαθήστε ξανά.</string>
     <string name="youtube_download_fail_source">Παρουσιάστηκε σφάλμα. Περιμένετε ένα με δύο λεπτά και προσπαθήστε ξανά.</string>
@@ -1557,6 +1633,12 @@
     <string name="youtube_download_suc">Επιτυχία λήψης</string>
     <string name="youtube_play_history">Ιστορικό αναπαραγωγής</string>
     <string name="youtube_share_guide_tip">Τώρα μπορείτε να μοιράζεστε βίντεο με φίλους</string>
+    <string name="youtube_store_dialog_desc">Μπορείτε να βρείτε διαδικτυακά βίντεο που έχετε προσθέσει στα αγαπημένα εδώ. Εάν ένα βίντεο έχει φορτωθεί στο παρελθόν, δεν θα χρειαστεί να χρησιμοποιήσετε δεδομένα κινητής τηλεφωνίας για να το παρακολουθήσετε ξανά την επόμενη φορά.</string>
+    <string name="youtube_store_dialog_ok">Κατανοητό</string>
     <string name="youtube_tab_explore">Εξερεύνηση</string>
     <string name="youtube_tab_playlist">Λίστες αναπαραγωγής</string>
+    <string name="youtube_tab_popular">Δημοφιλή</string>
+    <string name="youtube_tab_radar">Ραντάρ</string>
+    <string name="youtube_tab_shorts">Shorts</string>
+    <string name="youtube_tab_trend">Δημοφιλή</string>
 </resources>

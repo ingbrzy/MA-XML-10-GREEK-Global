@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string-array name="wifi_eap_error_message_code_16384_carrier_overrides">
-        <item>:::1839:::%1$s : Υπάρχει πρόβλημα με τη σύνδεση στο Verizon Wi-Fi Access λόγω του σφάλματος 16384.</item>
+        <item>:::1839:::%1$s: Υπάρχει πρόβλημα με τη σύνδεση στο Verizon Wi-Fi. (Σφάλμα = 16384)</item>
     </string-array>
     <string-array name="wifi_eap_error_message_code_16385_carrier_overrides">
-        <item>:::1839:::%1$s : Υπάρχει πρόβλημα με τη σύνδεση στο Verizon Wi-Fi Access λόγω του σφάλματος 16385.</item>
+        <item>:::1839:::%1$s: Υπάρχει πρόβλημα με τη σύνδεση στο Verizon Wi-Fi. (Σφάλμα = 16385)</item>
     </string-array>
     <string-array name="wifi_eap_error_message_code_32760_carrier_overrides">
         <item>:::1839:::%1$s : Δεν μπορείτε να συνδεθείτε στο Verizon Wi-Fi Access εκτός της περιοχής κάλυψης της Verizon. (Σφάλμα = 32760)</item>
@@ -28,9 +28,9 @@
         <item>:::1839:::%1$s : Το Verizon Wi-Fi Access δεν είναι διαθέσιμο από την τοποθεσία σας. Δοκιμάστε ξανά αργότερα ή από διαφορετική τοποθεσία. (Σφάλμα = 32766)</item>
     </string-array>
     <string-array name="wifi_eap_error_message_code_32767_carrier_overrides">
-        <item>:::1839:::%1$s : Υπάρχει πρόβλημα με τη σύνδεση στο Verizon Wi-Fi Access. Δοκιμάστε ξανά αργότερα ή από διαφορετική τοποθεσία.</item>
+        <item>:::1839:::%1$s: Υπάρχει πρόβλημα με τη σύνδεση στο Verizon Wi-Fi Access. Δοκιμάστε ξανά αργότερα ή από διαφορετική τοποθεσία. (Σφάλμα = 32767)</item>
     </string-array>
     <string-array name="wifi_eap_error_message_unknown_error_code_carrier_overrides">
-        <item>:::1839:::%1$s : Υπάρχει πρόβλημα με τη σύνδεση στο Verizon Wi-Fi Access.</item>
+        <item>:::1839:::%1$s: Υπάρχει πρόβλημα με τη σύνδεση στο Verizon Wi-Fi. (Σφάλμα = Άγνωστο)</item>
     </string-array>
 </resources>
