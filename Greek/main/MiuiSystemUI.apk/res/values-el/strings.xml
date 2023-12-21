@@ -1221,7 +1221,6 @@ mm"</string>
     <string name="monitoring_description_personal_profile_named_vpn">Οι προσωπικές εφαρμογές σας συνδέονται στο διαδίκτυο μέσω της εφαρμογής %1$s. Η δραστηριότητα δικτύου, συμπεριλαμβανομένων των μηνυμάτων ηλεκτρονικού ταχυδρομείου και των δεδομένων περιήγησης, είναι ορατή στον πάροχο VPN.</string>
     <string name="monitoring_description_two_named_vpns">Αυτή η συσκευή συνδέεται στο διαδίκτυο μέσω των εφαρμογών %1$s και %2$s. Η δραστηριότητα δικτύου σας, συμπεριλαμβανομένων των μηνυμάτων ηλεκτρονικού ταχυδρομείου και των δεδομένων περιήγησης, είναι ορατή στον διαχειριστή IT σας.</string>
     <string name="monitoring_description_vpn_settings">Άνοιγμα Ρυθμίσεων VPN</string>
-    <string name="monitoring_description_vpn_settings_separator">" "</string>
     <string name="monitoring_financed_description_named_management">"Ο οργανισμός %1$s ενδέχεται να έχει πρόσβαση σε δεδομένα που σχετίζονται με αυτήν τη συσκευή, να διαχειρίζεται εφαρμογές και να αλλάζει τις ρυθμίσεις της.
 
 Εάν έχετε ερωτήσεις, επικονωνήστε με τον οργανισμό %2$s."</string>
@@ -1824,8 +1823,6 @@ mm"</string>
     <string name="status_bar_clock_date_format_12">E, d MMM</string>
     <string name="status_bar_clock_date_time_format">H:mm E, d MMM</string>
     <string name="status_bar_clock_date_time_format_12">h:mm a, E, d MMM</string>
-    <string name="status_bar_clock_date_weekday_format_12_brief">@string/status_bar_clock_date_format_12</string>
-    <string name="status_bar_clock_date_weekday_format_brief">@string/status_bar_clock_date_format</string>
     <string name="status_bar_ethernet">Ethernet</string>
     <string name="status_bar_settings_auto_rotation">Αυτόματη περιστροφή οθόνης</string>
     <string name="status_bar_work">Προφίλ εργασίας</string>
