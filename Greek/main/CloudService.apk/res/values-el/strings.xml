@@ -182,8 +182,6 @@
     <string name="feedback_custom_hint">Περιγράψτε τα προβλήματα που αντιμετωπίσατε εδώ. Εάν δίνετε προτάσεις, θα εκτιμούσαμε περισσότερες λεπτομέρειες!</string>
     <string name="find_device">Εύρεση συσκευής</string>
     <string name="find_device_dspt_provision">Εάν χάσετε την συσκευή σας, μεταβείτε στο &lt;font color=#0097FF>%s&lt;/font> για να την εντοπίσετε, κλειδώσετε ή να την επαναφέρετε. Μπορείτε να ενεργοποιήστε ή να απενεργοποιήστε τη λειτουργία αυτή στις Ρυθμίσεις.</string>
-    <string name="find_device_dspt_provision_2">i.mi.com</string>
-    <string name="find_device_dspt_provision_2_int">www.mi.com/micloud</string>
     <string name="find_device_gdpr_prompt">Ενεργοποιώντας την Εύρεση συσκευής, αποδέχεστε την <u><a href="app://com.miui.cloudservice.gdpr.license">Πολιτική Απορρήτου</a></u> μας. Απενεργοποιήστε αυτή τη λειτουργία εάν θέλετε να ανακαλέσετε τη συγκατάθεσή σας.</string>
     <string name="find_device_operation_failure_rpc">Αδυναμία εκτέλεσης ενέργειας λόγω σφάλματος RPC.</string>
     <string name="find_device_permissions_footer">Πατήστε \"Παραχώρηση\" για να παραχωρήσετε τις άδειες που έχετε επιλέξει.</string>

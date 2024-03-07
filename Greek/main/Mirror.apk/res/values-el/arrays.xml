@@ -79,14 +79,6 @@
         <item>Ω</item>
         <item>\#</item>
     </string-array>
-    <string-array name="buffer_size_values">
-        <item>\@null</item>
-        <item>%1$d KB</item>
-        <item>%1$d KB</item>
-        <item>%1$d KB</item>
-        <item>%1$d KB</item>
-        <item>%1$d MB</item>
-    </string-array>
     <string-array name="miui15_settings_search_mirror">
         <item>Υπηρεσίες διασυνδεσιμότητας συσκευής</item>
         <item>Σύνδεση &amp; κοινή χρήση/Υπηρεσίες διασυνδεσιμότητας συσκευής</item>
