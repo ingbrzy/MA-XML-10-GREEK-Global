@@ -519,6 +519,8 @@
     <string name="vigor">Vigor</string>
     <string name="vivo">vivo</string>
     <string name="vivo_phone">vivo</string>
+    <string name="wallpaper_floral_arrangement_title">Λουλουδένια διακόσμηση</string>
+    <string name="wallpaper_gradient_title">Βαθμίδα</string>
     <string name="wallpaper_group_black_white_title">Μαύρο και άσπρο</string>
     <string name="wallpaper_group_dynamic_nebula_subtitle">Teun van der Zalm</string>
     <string name="wallpaper_group_dynamic_nebula_title">Δυναμικό νεφέλωμα</string>
@@ -530,6 +532,8 @@
     <string name="wallpaper_group_natural_texture_title">Μοτίβα φύσης</string>
     <string name="wallpaper_group_red_mars_subtitle">NASA, Εργαστήριο αεριώθησης, το Πανεπιστήμιο της Αριζόνα</string>
     <string name="wallpaper_group_red_mars_title">Άρης</string>
+    <string name="wallpaper_neon_title">Νέον</string>
+    <string name="wallpaper_overlapping_space_title">Σχήμα και σκιά</string>
     <string name="waterdrop_preview">Σταγονίδια</string>
     <string name="wifi_assistant_wifi_no_internet">Αυτό το δίκτυο Wi-Fi δεν έχει πρόσβαση στο Ίντερνετ</string>
     <string name="wifi_assistant_wifi_no_internet_detail">Πατήστε για προβολή λεπτομερειών</string>

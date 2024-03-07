@@ -79,45 +79,4 @@
         <item>Ω</item>
         <item>\#</item>
     </string-array>
-    <string-array name="calendar_remind_string_array">
-        <item>Απόψε</item>
-        <item>Αύριο</item>
-        <item>Σαββατοκύριακο</item>
-        <item>Επόμενη εβδομάδα</item>
-        <item>Επόμενος μήνας</item>
-        <item>Επιλέξτε ημερομηνία</item>
-    </string-array>
-    <string-array name="menu_att_mgr_sort_string_array">
-        <item>Πρόσφατες προβολές</item>
-        <item>Μορφή</item>
-        <item>Όνομα</item>
-        <item>Αποστολέας</item>
-        <item>Ημερομηνία παραλαβής</item>
-    </string-array>
-    <string-array name="prefEntries_contact_add">
-        <item>Όλοι</item>
-        <item>Μόνο οι αποστολείς</item>
-    </string-array>
-    <string-array name="signature_normal_string_array_next">
-        <item>Διεύθυνση:</item>
-        <item>Τηλ:</item>
-        <item>Όνομα:</item>
-        <item>Email:</item>
-        <item>Κινητό:</item>
-        <item>WeChat:</item>
-        <item>Φαξ:</item>
-        <item>Ταχυδρομικός κώδικας:</item>
-    </string-array>
-    <string-array name="signature_special_string_array_next">
-        <item>Ευχαριστώ,</item>
-        <item>Με εκτίμηση</item>
-        <item>Στάλθηκε από</item>
-        <item>Αρχικό email</item>
-        <item>Στάλθηκε από</item>
-        <item>Στάλθηκε από</item>
-        <item>Από</item>
-        <item>Αυτό το email</item>
-        <item>Αποποίηση ευθυνών</item>
-        <item>Αποποίηση ευθυνών Email</item>
-    </string-array>
 </resources>

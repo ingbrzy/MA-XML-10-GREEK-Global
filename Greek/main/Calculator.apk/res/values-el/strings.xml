@@ -76,7 +76,7 @@
     <string name="currency_update_time_format">Οι συναλλαγματικές ισοτιμίες παρέχονται από Webull (%s)</string>
     <string name="currency_update_updating">Γίνεται ενημέρωση ισοτιμιών…</string>
     <string name="data_analysis">Ανάλυση</string>
-    <string name="date_format">dd/ΜΜ/yyyy</string>
+    <string name="date_format">d MMM, yyyy</string>
     <string name="date_picker_label_day" />
     <string name="date_picker_label_month" />
     <string name="date_picker_label_year" />
@@ -126,7 +126,7 @@
     <string name="factorialDesc">παραγοντικό</string>
     <string name="fat">Υπέρβαρος/η</string>
     <string name="female">Φύλο: Θήλυ</string>
-    <string name="finance_interest">Interest rate (%s)</string>
+    <string name="finance_interest">Επιτόκιο (%s)</string>
     <string name="float_window">Ελαχιστοποίηση</string>
     <string name="fmt_chinese_date">N月e</string>
     <string name="fmt_date">D</string>
@@ -185,7 +185,7 @@
     <string name="friday_shortest">Παρ</string>
     <string name="fund_loan">Δάνειο χρηματοδότησης</string>
     <string name="further_education">Περαιτέρω εκπαίδευση</string>
-    <string name="get_loaction_permission_title">Εντοπισμός</string>
+    <string name="get_loaction_permission_title">Πρόσβαση στην τοποθεσία</string>
     <string name="get_location_fail_prompt">Αδυναμία απόκτησης τοποθεσίας</string>
     <string name="gst_initial_value">%d</string>
     <string name="gst_percentage">%s</string>
@@ -232,11 +232,12 @@
     <string name="label_days">Ημέρες</string>
     <string name="label_emi">EMI</string>
     <string name="label_from_date">Από</string>
-    <string name="label_interest">Τόκος (%)</string>
+    <string name="label_interest">Επιτόκιο (ποσοστό)</string>
     <string name="label_investment_duration">Διάρκεια</string>
     <string name="label_months">Μήνες</string>
     <string name="label_powered_by">Υποστηρίζεται από την Mi Αριθμομηχανή</string>
     <string name="label_principal">Βασικό</string>
+    <string name="label_share">Κοινοποίηση</string>
     <string name="label_statistics">Στατιστικά</string>
     <string name="label_to_date">Έως</string>
     <string name="label_total_interest">Συνολικό επιτόκιο</string>
@@ -356,13 +357,13 @@
     <string name="mt_max">Το ποσό που εισάγετε είναι πολύ μεγάλο</string>
     <string name="mulDesc">πολλαπλασιασμός</string>
     <string name="n_a">N/A</string>
-    <string name="name_cgst" formatted="false">CGST/SGST: %s%</string>
+    <string name="name_cgst">CGST/SGST: 2.5</string>
     <string name="name_discount">Έκπτωση (%)</string>
     <string name="name_original">Αρχική τιμή</string>
     <string name="name_price">Τελική τιμή</string>
     <string name="name_save">"Εξοικονομείτε "</string>
     <string name="negDesc">Εναλλαγή μεταξύ θερμοκρασιών κάτω και επάνω του μηδενός</string>
-    <string name="new_privacy_string">&lt;Data>Καλώς ορίσατε στην Αριθμομηχανή!&lt;br/>Η εφαρμογή αυτή περιέχει τις ακόλουθες λειτουργίες:&lt;br/>• Βασική αριθμομηχανή&lt;br/>• Επιστημονική αριθμομηχανή&lt;br/>• Γενικός μετατροπέας (π.χ. νομίσματα, μονάδες μέτρησης κ.λπ.)&lt;br/>• Πρότυπα υπολογισμού για δάνεια, επενδύσεις, μηνιαίες δόσεις και άλλα&lt;br/>Μπορείτε να μάθετε πως διαχειριζόμαστε τα δεδομένα που συλλέγουμε στην &lt;a href=\"%1$s\">Πολιτική Απορρήτου&lt;/a> μας. Διαβάστε και αποδεχτείτε τη &lt;a href=\"%2$s\">Συμφωνία Χρήστη&lt;/a> και την &lt;a href=\"%3$s\">Πολιτική Απορρήτου&lt;/a> μας πριν χρησιμοποιήσετε την Αριθμομηχανή. Μπορείτε να ανακαλέσετε τη συγκατάθεσή σας στην Πολιτική Απορρήτου στις Ρυθμίσεις της Αριθμομηχανής οποιαδήποτε στιγμή. Εάν δεν αποδεχτείτε την Πολιτική Απορρήτου, δεν θα μπορείτε να χρησιμοποιείτε ορισμένες λειτουργίες αυτής της εφαρμογής. Ωστόσο, οι βασικές της λειτουργίες θα εξακολουθήσουν να είναι διαθέσιμες.&lt;/Data></string>
+    <string name="new_privacy_string"><Data>Καλώς ορίσατε στην Αριθμομηχανή!&lt;br/>Η εφαρμογή αυτή περιέχει τις ακόλουθες λειτουργίες:&lt;br/>• Βασική αριθμομηχανή&lt;br/>• Επιστημονική αριθμομηχανή&lt;br/>• Γενικός μετατροπέας (π.χ. νομίσματα, μονάδες μέτρησης κ.λπ.)&lt;br/>• Πρότυπα υπολογισμού για δάνεια, επενδύσεις, μηνιαίες δόσεις και άλλα&lt;br/>Μπορείτε να μάθετε πως διαχειριζόμαστε τα δεδομένα που συλλέγουμε στην &lt;a href=\"%1$s\">Πολιτική Απορρήτου&lt;/a> μας. Διαβάστε και αποδεχτείτε τη &lt;a href=\"%2$s\">Συμφωνία Χρήστη&lt;/a> και την &lt;a href=\"%3$s\">Πολιτική Απορρήτου&lt;/a> μας πριν χρησιμοποιήσετε την Αριθμομηχανή. Μπορείτε να ανακαλέσετε τη συγκατάθεσή σας στην Πολιτική Απορρήτου στις Ρυθμίσεις της Αριθμομηχανής οποιαδήποτε στιγμή. Εάν δεν αποδεχτείτε την Πολιτική Απορρήτου, δεν θα μπορείτε να χρησιμοποιείτε ορισμένες λειτουργίες αυτής της εφαρμογής. Ωστόσο, οι βασικές της λειτουργίες θα εξακολουθήσουν να είναι διαθέσιμες.</Data></string>
     <string name="night">Βράδυ</string>
     <string name="none">Τίποτα</string>
     <string name="noon">Μεσημέρι</string>
@@ -376,7 +377,7 @@
     <string name="permission_location_miui12">Πρόσβαση στην τοποθεσία</string>
     <string name="permission_option_desc_miui12">Οι άδειες αυτές απαιτούνται όταν χρησιμοποιείτε πρόσθετες λειτουργίες.</string>
     <string name="permission_option_miui12">Προαιρετικές άδειες</string>
-    <string name="permission_privacy_link">&lt;Data>Πριν χρησιμοποιήσετε αυτή την εφαρμογή, πρέπει να διαβάσετε και να αποδεχτείτε τη &lt;a href=%1$s>Συμφωνία Χρήστη&lt;/a> και την &lt;a href=%2$s>Πολιτική Απορρήτου&lt;/a> μας.&lt;/Data></string>
+    <string name="permission_privacy_link"><Data>Πριν χρησιμοποιήσετε αυτή την εφαρμογή, πρέπει να διαβάσετε και να αποδεχτείτε τη &lt;a href=%1$s>Συμφωνία Χρήστη&lt;/a> και την &lt;a href=%2$s>Πολιτική Απορρήτου&lt;/a> μας.</Data></string>
     <string name="permission_purpose_miui12_system">Καλώς ορίσατε στην Αριθμομηχανή! Η εφαρμογή αυτή συνδυάζει τις λειτουργίες κανονικής αριθμομηχανής με πολλαπλούς μετατροπείς και καθημερινές λειτουργίες.</string>
     <string name="permission_remove_desc_miui12">Επιτρέψτε αυτή η εφαρμογή να συνδέεται στο ίντερνετ και παραχωρήστε τις προαιρετικές άδειες για να μπορείτε να χρησιμοποιείτε όλες τις λειτουργίες της.</string>
     <string name="permission_title_miui12">Προσοχή</string>
@@ -408,7 +409,7 @@
     <string name="preference_use_voice_title">Έξοδος ομιλίας</string>
     <string name="preference_user_feedback_title">Ανατροφοδότηση</string>
     <string name="preference_view_privacy_title">Προβολή Πολιτικής Απορρήτου</string>
-    <string name="privacy_dialog_title">Προσοχή</string>
+    <string name="privacy_dialog_title">Απόρρητο</string>
     <string name="privacy_revoke_error">Αδυναμία ανάκλησης. Προσπαθήστε ξανά.</string>
     <string name="privacy_revoke_progress">Γίνεται ανάκληση…</string>
     <string name="privacy_switch">Ανάκληση συγκατάθεσης</string>
@@ -428,7 +429,7 @@
     <string name="search_menu_title">Αναζήτηση</string>
     <string name="secondFunctionDesc">Εναλλαγή στην δεύτερη λειτουργία</string>
     <string name="send">Αποστολή</string>
-    <string name="settingsDesc">ρυθμίσεις</string>
+    <string name="settingsDesc">Ρυθμίσεις</string>
     <string name="sinDesc">ημίτονο</string>
     <string name="sqrtDesc">τετραγωνική ρίζα</string>
     <string name="statistic_label_balance">Υπόλοιπο</string>
@@ -573,6 +574,7 @@
     <string name="unit_data_display_currency_btn">Νγκούλτρουμ του Μπουτάν</string>
     <string name="unit_data_display_currency_bwp">Πούλα της Μποτσουάνα</string>
     <string name="unit_data_display_currency_byn">Ρούβλι Λευκορωσίας</string>
+    <string name="unit_data_display_currency_byr">@string/unit_data_display_currency_byn</string>
     <string name="unit_data_display_currency_cad">Καναδικό Δολάριο</string>
     <string name="unit_data_display_currency_cdf">Φράγκο του Κονγκό</string>
     <string name="unit_data_display_currency_chf">Ελβετικό Φράγκο</string>
@@ -755,7 +757,7 @@
     <string name="unit_data_display_weight_us.cwt">Εκατόκιλο ΗΠΑ</string>
     <string name="unit_data_short_area_acre">ac</string>
     <string name="unit_data_short_area_are">a</string>
-    <string name="unit_data_short_area_ha">χα</string>
+    <string name="unit_data_short_area_ha">ha</string>
     <string name="unit_data_short_area_mu">mu</string>
     <string name="unit_data_short_area_qing">qing</string>
     <string name="unit_data_short_area_sq.chi">chi²</string>
@@ -767,7 +769,7 @@
     <string name="unit_data_short_area_sq.in">in²</string>
     <string name="unit_data_short_area_sq.km">km²</string>
     <string name="unit_data_short_area_sq.m">m²</string>
-    <string name="unit_data_short_area_sq.mi">mile²</string>
+    <string name="unit_data_short_area_sq.mi">τετραγωνικό μίλι</string>
     <string name="unit_data_short_area_sq.mm">mm²</string>
     <string name="unit_data_short_area_sq.rd">rd²</string>
     <string name="unit_data_short_area_sq.um">μm²</string>
@@ -803,7 +805,7 @@
     <string name="unit_data_short_length_pc">pc</string>
     <string name="unit_data_short_length_pm">πμ</string>
     <string name="unit_data_short_length_um">μm</string>
-    <string name="unit_data_short_length_yd">γρδ</string>
+    <string name="unit_data_short_length_yd">yd</string>
     <string name="unit_data_short_length_zhang">zhang</string>
     <string name="unit_data_short_temperature_c">°C</string>
     <string name="unit_data_short_temperature_f">°F</string>
@@ -828,7 +830,7 @@
     <string name="unit_data_short_velocity_mileph">mph</string>
     <string name="unit_data_short_velocity_mps">m/s</string>
     <string name="unit_data_short_velocity_nmiph">kn</string>
-    <string name="unit_data_short_volume_cl">εκ.λ</string>
+    <string name="unit_data_short_volume_cl">cl</string>
     <string name="unit_data_short_volume_cu.af">af³</string>
     <string name="unit_data_short_volume_cu.cm">cm³</string>
     <string name="unit_data_short_volume_cu.dm">dm³</string>
@@ -838,30 +840,30 @@
     <string name="unit_data_short_volume_cu.mm">mm³</string>
     <string name="unit_data_short_volume_cu.um">μm³</string>
     <string name="unit_data_short_volume_cu.yd">yd³</string>
-    <string name="unit_data_short_volume_dl">δλ</string>
+    <string name="unit_data_short_volume_dl">dl</string>
     <string name="unit_data_short_volume_hl">hl</string>
-    <string name="unit_data_short_volume_l">λ</string>
-    <string name="unit_data_short_volume_ml">μλ</string>
+    <string name="unit_data_short_volume_l">l</string>
+    <string name="unit_data_short_volume_ml">ml</string>
     <string name="unit_data_short_weight_ct">ct</string>
     <string name="unit_data_short_weight_dan">dan</string>
-    <string name="unit_data_short_weight_dr">δγρ</string>
+    <string name="unit_data_short_weight_dr">dr</string>
     <string name="unit_data_short_weight_g">γρ</string>
-    <string name="unit_data_short_weight_gr">γρ</string>
+    <string name="unit_data_short_weight_gr">gr</string>
     <string name="unit_data_short_weight_jin">jin</string>
     <string name="unit_data_short_weight_kg">κιλ</string>
-    <string name="unit_data_short_weight_lb">λβρ</string>
+    <string name="unit_data_short_weight_lb">lb</string>
     <string name="unit_data_short_weight_liang">liang</string>
     <string name="unit_data_short_weight_lt">l.t</string>
-    <string name="unit_data_short_weight_mg">μιλιγκράμ</string>
-    <string name="unit_data_short_weight_oz">ουγκ</string>
+    <string name="unit_data_short_weight_mg">mg</string>
+    <string name="unit_data_short_weight_oz">oz</string>
     <string name="unit_data_short_weight_q">q</string>
     <string name="unit_data_short_weight_qian">qian</string>
     <string name="unit_data_short_weight_st">sh.t</string>
     <string name="unit_data_short_weight_t">τον</string>
-    <string name="unit_data_short_weight_taijin">jin(tw)</string>
+    <string name="unit_data_short_weight_taijin">jin (Ταϊβάν)</string>
     <string name="unit_data_short_weight_ug">μg</string>
     <string name="unit_data_short_weight_uk.cwt">cwt</string>
-    <string name="unit_data_short_weight_uk.st">στ</string>
+    <string name="unit_data_short_weight_uk.st">st</string>
     <string name="unit_data_short_weight_us.cwt">cwt</string>
     <string name="unit_myriads">×10K</string>
     <string name="unit_year">Y</string>

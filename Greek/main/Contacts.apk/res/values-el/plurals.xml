@@ -5,16 +5,16 @@
         <item quantity="one">1 ώρα πριν</item>
     </plurals>
     <plurals name="abbrev_a_hour_ago">
-        <item quantity="other">1 ώρα πριν</item>
-        <item quantity="one">1 ώρα πριν</item>
+        <item quantity="other">Πριν %d ώρες</item>
+        <item quantity="one">Πριν %d ώρα</item>
     </plurals>
     <plurals name="abbrev_half_hour_ago">
         <item quantity="other">Μισή ώρα πριν</item>
         <item quantity="one">Μισή ώρα πριν</item>
     </plurals>
     <plurals name="abbrev_in_a_hour">
-        <item quantity="other">Σε 1 ώρα</item>
-        <item quantity="one">Σε 1 ώρα</item>
+        <item quantity="other">Σε %d ώρες</item>
+        <item quantity="one">Σε %d ώρα</item>
     </plurals>
     <plurals name="abbrev_in_half_hour">
         <item quantity="other">Σε μισή ώρα</item>
@@ -25,16 +25,16 @@
         <item quantity="one">Αμέσως</item>
     </plurals>
     <plurals name="abbrev_in_num_minutes">
-        <item quantity="other">σε %d λεπτά</item>
-        <item quantity="one">σε 1 λεπτό</item>
+        <item quantity="other">Σε %d λεπ</item>
+        <item quantity="one">Σε %d λεπ</item>
     </plurals>
     <plurals name="abbrev_less_than_one_minute_ago">
         <item quantity="other">Μόλις τώρα</item>
         <item quantity="one">Μόλις τώρα</item>
     </plurals>
     <plurals name="abbrev_num_minutes_ago">
-        <item quantity="other">%d λεπτά πριν</item>
-        <item quantity="one">1 λεπτό πριν</item>
+        <item quantity="other">%d λεπ πριν</item>
+        <item quantity="one">%d λεπ πριν</item>
     </plurals>
     <plurals name="batch_delete_msg">
         <item quantity="other">Διαγραφή %1$d επαφών;</item>
@@ -47,14 +47,6 @@
     <plurals name="callNoAnswerTimeFormat">
         <item quantity="other">Κουδούνισε %1$d φορές</item>
         <item quantity="one">Κουδούνισε %1$d φορά</item>
-    </plurals>
-    <plurals name="call_record_auto_whitelist_summary">
-        <item quantity="other">%d αριθμοί τηλεφώνου</item>
-        <item quantity="one">%d αριθμός τηλεφώνου</item>
-    </plurals>
-    <plurals name="call_remove_exception_numbers_confirm">
-        <item quantity="other">Διαγραφή %d αριθμών τηλεφώνου;</item>
-        <item quantity="one">Διαγραφή %d αριθμού τηλεφώνου;</item>
     </plurals>
     <plurals name="cloud_state_unsynced_count">
         <item quantity="other">%1$d επαφές ή φωτογραφίες δεν έχουν συγχρονιστεί</item>
@@ -112,13 +104,13 @@
         <item quantity="other">%1$d αριθμοί</item>
         <item quantity="one">%1$d αριθμός</item>
     </plurals>
+    <plurals name="group_sms_error_message">
+        <item quantity="other">Το SMS δεν μπορεί να έχει παραπάνω από %d παραλήπτες.</item>
+        <item quantity="one">Το SMS δεν μπορεί να έχει παραπάνω από %d παραλήπτη.</item>
+    </plurals>
     <plurals name="half_hour_ago">
         <item quantity="other">Μισή ώρα πριν</item>
         <item quantity="one">Μισή ώρα πριν</item>
-    </plurals>
-    <plurals name="hint_account_contacts">
-        <item quantity="other">%1$d αντικείμενα</item>
-        <item quantity="one">%1$d αντικείμενο</item>
     </plurals>
     <plurals name="hint_search_contacts">
         <item quantity="other">%1$d επαφές</item>
@@ -207,10 +199,6 @@
     <plurals name="searchFoundContacts">
         <item quantity="other">Βρέθηκαν %d</item>
         <item quantity="one">Βρέθηκε %d</item>
-    </plurals>
-    <plurals name="search_group_contacts_result">
-        <item quantity="other">%s αποτελέσματα</item>
-        <item quantity="one">%s αποτέλεσμα</item>
     </plurals>
     <plurals name="select_all_exceed_plurals">
         <item quantity="other">Επιλέξτε λιγότερο από %1$d, αδυναμία επιλογής όλων</item>

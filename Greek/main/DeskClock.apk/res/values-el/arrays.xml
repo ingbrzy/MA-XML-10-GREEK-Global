@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string-array name="alarm_in_furture">
-        <item>Ξυπνητήρι σε λιγότερο από 1 λεπτό</item>
+    <string-array name="alarm_in_furture_new_array">
+        <item>Ξυπνητήρι σε λιγότερο από %d λεπτό</item>
         <item>Ξυπνητήρι σε %1$s</item>
         <item>Ξυπνητήρι σε %2$s</item>
         <item>Ξυπνητήρι σε %1$s %2$s</item>
@@ -24,15 +24,15 @@
         <item>Δευ με Παρ</item>
         <item>Προσαρμογή</item>
     </string-array>
-    <string-array name="alarm_set">
-        <item>Το ξυπνητήρι θα ηχήσει σε λιγότερο από 1 λεπτό.</item>
+    <string-array name="alarm_set_new_array">
+        <item>Το ξυπνητήρι θα ηχήσει σε λιγότερο από %d λεπτό.</item>
         <item>Το ξυπνητήρι θα ηχήσει σε %1$s.</item>
         <item>Το ξυπνητήρι θα ηχήσει σε %2$s.</item>
         <item>Το ξυπνητήρι θα ηχήσει σε %1$s και %2$s.</item>
         <item>Το ξυπνητήρι θα ηχήσει σε %3$s.</item>
         <item>Το ξυπνητήρι θα ηχήσει σε %1$s και %3$s.</item>
         <item>Το ξυπνητήρι θα ηχήσει σε %2$s και %3$s.</item>
-        <item>Το ξυπνητήρι θα ηχήσει σε %1$s%2$s και %3$s.</item>
+        <item>Το ξυπνητήρι θα ηχήσει σε %1$s, %2$s και %3$s.</item>
     </string-array>
     <string-array name="alphabet_sub_table_with_starred">
         <item>!</item>
@@ -121,20 +121,19 @@
         <item>Πολύ κακός</item>
         <item>Πολύ σοβαρός</item>
     </string-array>
-    <string-array name="auto_silence_entries">
-        <item>Ποτέ</item>
-        <item>1 λεπτό</item>
-        <item>5 λεπτά</item>
-        <item>10 λεπτά</item>
-        <item>15 λεπτά</item>
-        <item>20 λεπτά</item>
-        <item>25 λεπτά</item>
-        <item>30 λεπτά</item>
-    </string-array>
     <string-array name="bedtime_guide_repeat_type">
         <item>Δευτέρα με Παρασκευή</item>
         <item>Κάθε ημέρα</item>
         <item>Εργάσιμες ημέρες</item>
+    </string-array>
+    <string-array name="bedtime_guide_repeat_type_international">
+        <item>Δευ με Παρ</item>
+        <item>Κάθε μέρα</item>
+    </string-array>
+    <string-array name="bedtime_repeat_entires_international">
+        <item>Κάθε μέρα</item>
+        <item>Δευ με Παρ</item>
+        <item>Προσαρμοσμένη</item>
     </string-array>
     <string-array name="bedtime_repeat_entries">
         <item>Κάθε μέρα</item>
@@ -329,7 +328,7 @@
         <item>Σόφια</item>
         <item>Στοκχόλμη</item>
         <item>Ταλίν</item>
-        <item>Βατικανό</item>
+        <item>Πόλη Βατικανού</item>
         <item>Βιέννη</item>
         <item>Βίλνιους</item>
         <item>Βαρσοβία</item>
@@ -429,11 +428,6 @@
         <item>Τεγκουσιγκάλπα</item>
         <item>Παραμαρίμπο</item>
         <item>Κίτο</item>
-    </string-array>
-    <string-array name="clock_bg_setting_entries">
-        <item>Άσπρο</item>
-        <item>Μαύρο</item>
-        <item>Αυτόματο</item>
     </string-array>
     <string-array name="countries_names_miui">
         <item>Ακτή Ελεφαντοστού</item>
@@ -723,40 +717,6 @@
         <item>Σουρινάμ</item>
         <item>Εκουαδόρ</item>
     </string-array>
-    <string-array name="days_of_week">
-        <item>Κυρ</item>
-        <item>Δευ</item>
-        <item>Τρι</item>
-        <item>Τετ</item>
-        <item>Πεμ</item>
-        <item>Παρ</item>
-        <item>Σαβ</item>
-    </string-array>
-    <string-array name="notification_adv_time_entries">
-        <item>Την ορισμένη ώρα</item>
-        <item>15 λεπτά νωρίτερα</item>
-        <item>30 λεπτά νωρίτερα</item>
-        <item>1 ώρα νωρίτερα</item>
-        <item>Καμία</item>
-    </string-array>
-    <string-array name="snooze_duration_entries">
-        <item>1 λεπτό</item>
-        <item>5 λεπτά</item>
-        <item>10 λεπτά</item>
-        <item>15 λεπτά</item>
-        <item>20 λεπτά</item>
-        <item>25 λεπτά</item>
-        <item>30 λεπτά</item>
-    </string-array>
-    <string-array name="snooze_duration_values">
-        <item>1</item>
-        <item>5</item>
-        <item>10</item>
-        <item>15</item>
-        <item>20</item>
-        <item>25</item>
-        <item>30</item>
-    </string-array>
     <string-array name="time">
         <item>%1$s</item>
         <item>%2$s</item>
@@ -779,10 +739,5 @@
         <item>Καμία λειτουργία</item>
         <item>Αναβολή</item>
         <item>Απόρριψη</item>
-    </string-array>
-    <string-array name="volume_button_setting_values">
-        <item>0</item>
-        <item>1</item>
-        <item>2</item>
     </string-array>
 </resources>

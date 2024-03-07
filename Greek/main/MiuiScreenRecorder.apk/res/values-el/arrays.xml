@@ -1,5 +1,29 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <string-array name="alphabet_sub_table_with_starred">
+        <item>!</item>
+        <item>Α</item>
+        <item>Β</item>
+        <item>Γ</item>
+        <item>Θ</item>
+        <item>Ι</item>
+        <item>Κ</item>
+        <item>Λ</item>
+        <item>Μ</item>
+        <item>Ν</item>
+        <item>Ξ</item>
+        <item>Ο</item>
+        <item>Π</item>
+        <item>Ρ</item>
+        <item>Σ</item>
+        <item>Τ</item>
+        <item>Υ</item>
+        <item>Φ</item>
+        <item>Χ</item>
+        <item>Ψ</item>
+        <item>Ω</item>
+        <item>\#</item>
+    </string-array>
     <string-array name="alphabet_table">
         <item>Α</item>
         <item>Β</item>
@@ -66,12 +90,6 @@
         <item>4Mbps</item>
         <item>1Mbps</item>
     </string-array>
-    <string-array name="screenrecorder_settings_frames">
-        <item>24fps</item>
-        <item>30fps</item>
-        <item>48fps</item>
-        <item>60fps</item>
-    </string-array>
     <string-array name="screenrecorder_settings_orientation">
         <item>Αυτόματα</item>
         <item>Κατακόρυφος</item>
@@ -91,6 +109,12 @@
         <item>Σίγαση</item>
         <item>Μικρόφωνο</item>
         <item>Ήχοι συστήματος</item>
+    </string-array>
+    <string-array name="screenrecorder_settings_sound_native">
+        <item>Τίποτα</item>
+        <item>Μικρόφωνο</item>
+        <item>Σύστημα</item>
+        <item>Και τα δύο</item>
     </string-array>
     <string-array name="screenrecorder_settings_storage_location">
         <item>Εσωτερικός χώρος αποθήκευσης</item>

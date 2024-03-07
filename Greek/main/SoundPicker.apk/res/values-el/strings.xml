@@ -32,6 +32,13 @@
     <string name="add_ringtone_text">Προσθήκη ήχου κλήσης</string>
     <string name="alarm_sound_default">Προεπιλεγμένος ήχος ειδοποίησης</string>
     <string name="app_label">Ήχοι</string>
+    <string name="call_notification_answer_action">Απάντηση</string>
+    <string name="call_notification_answer_video_action">Βίντεο</string>
+    <string name="call_notification_decline_action">Απόρριψη</string>
+    <string name="call_notification_hang_up_action">Τερματισμός</string>
+    <string name="call_notification_incoming_text">Εισερχόμενη κλήση</string>
+    <string name="call_notification_ongoing_text">Κλήση σε εξέλιξη</string>
+    <string name="call_notification_screening_text">Διαλογή εισερχόμενης κλήσης</string>
     <string name="delete_ringtone_text">Διαγραφή</string>
     <string name="notification_sound_default">Προεπιλεγμένος ήχος ειδοποίησης</string>
     <string name="ringtone_default">Προεπιλεγμένος ήχος κλήσης</string>

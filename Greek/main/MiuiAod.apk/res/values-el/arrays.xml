@@ -79,4 +79,14 @@
         <item>Ω</item>
         <item>\#</item>
     </string-array>
+    <string-array name="kg_glass_filters">
+        <item>Πρωτότυπο</item>
+        <item>Θολό</item>
+        <item>Καλαμωτό</item>
+        <item>Πλευρωτό</item>
+        <item>Πρίσμα</item>
+        <item>Αυλάκια</item>
+        <item>Κύματα</item>
+        <item>Τετράγωνα</item>
+    </string-array>
 </resources>

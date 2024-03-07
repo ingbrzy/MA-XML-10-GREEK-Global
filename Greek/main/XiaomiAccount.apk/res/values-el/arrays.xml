@@ -83,6 +83,10 @@
         <item>Ω</item>
         <item>\#</item>
     </string-array>
+    <string-array name="passport_account_user_gender_name">
+        <item>Άρρεν</item>
+        <item>Θήλυ</item>
+    </string-array>
     <string-array name="settings_search_account_and_authority_global">
         <item>Λογαριασμοί</item>
         <item>Προσθήκη και διαχείριση λογαριασμών τρίτου</item>
@@ -90,8 +94,8 @@
     </string-array>
     <string-array name="settings_search_account_and_authority_non_global">
         <item>Λογαριασμοί</item>
-        <item>Προσθήκη και διαχείριση λογαριασμών τρίτου</item>
-        <item>Λογαριασμοί;SNS;WeChat;QQ;Λογαριασμός Xiaomi;Λογαριασμός;Λογαριασμός Xiaomi</item>
+        <item>Δείτε τους συνδεδεμένους WeChat και άλλους SNS λογαριασμούς</item>
+        <item>άδειες;SNS;WeChat;Λογαριασμός Xiaomi;λογαριασμός</item>
     </string-array>
     <string-array name="settings_search_change_password">
         <item>Αλλαγή κωδικού</item>
@@ -112,11 +116,6 @@
         <item>Βοήθεια</item>
         <item>Λάβετε βοήθεια και υποστήριξη για τον Λογαριασμό Xiaomi σας</item>
         <item>Λογαριασμός Xiaomi;Λογαριασμός;Λογαριασμός Xiaomi;Βοήθεια λογαριασμού;Κέντρο βοήθειας</item>
-    </string-array>
-    <string-array name="settings_search_login_2_step_verify">
-        <item>Επαλήθευση 2 βημάτων</item>
-        <item>Ορίστε επαλήθευση 2 βημάτων για τον Λογαριασμό Xiaomi σας</item>
-        <item>Σύνδεση;Σύνδεση;Επαλήθευση 2 βημάτων;επαλήθευση;Xiaomi;Λογαριασμός;Λογαριασμός Xiaomi;Λογαριασμός;Λογαριασμός Xiaomi</item>
     </string-array>
     <string-array name="settings_search_login_and_security">
         <item>Ασφάλεια λογαριασμού</item>

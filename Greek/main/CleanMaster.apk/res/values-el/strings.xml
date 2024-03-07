@@ -52,6 +52,7 @@
     <string name="activity_title_uninstall_apps">Εφαρμογές</string>
     <string name="activity_title_video">Διαγραφή βίντεο</string>
     <string name="activity_title_white_list">Εξαιρέσεις</string>
+    <string name="ad_flag_text">Διαφήμιση</string>
     <string name="ad_install_success_dialog_lunch">Άνοιγμα</string>
     <string name="ad_install_success_dialog_title">Επιτυχής εγκατάσταση %1$s. Άνοιγμα τώρα;</string>
     <string name="afternoon">Απόγευμα</string>
@@ -239,6 +240,7 @@
     <string name="dc_item_title_wechat_chat">Εκκαθάριση ιστορικού WeChat</string>
     <string name="dc_storage_cleaned">Απελευθερώθηκαν %s</string>
     <string name="dc_storage_info">Διαθέσιμα %1$s | Συνολικά %2$s</string>
+    <string name="dc_storage_info_new">%1$s διαθέσιμα</string>
     <string name="deep_clean_completed_tips">Επιτυχής εκκαθάριση</string>
     <string name="deep_clean_data_path_clean_title">Εκκαθάριση Cache</string>
     <string name="deep_clean_uninstall_completed_tips">Επιτυχής απεγκατάσταση</string>
@@ -302,6 +304,7 @@
     <string name="download">Λήψη</string>
     <string name="downloading">Γίνεται λήψη</string>
     <string name="early_morning">Πρωί</string>
+    <string name="empty">" "</string>
     <string name="empty_content_no_ignore_image">Κενό</string>
     <string name="empty_content_no_privacy">Κενό</string>
     <string name="empty_content_no_similar_image">Δεν υπάρχουν φωτογραφίες</string>
@@ -462,7 +465,6 @@
     <string name="guide_dc_dialog_negative">Ακύρωση</string>
     <string name="guide_dc_dialog_positive">OK</string>
     <string name="guide_dc_dialog_title">Ο χώρος αποθήκευσης θα γεμίσει σύντομα</string>
-    <string name="guide_secure_dialog_message">Το σκορ βελτιστοποίησης της συσκευής σας είναι χαμηλότερο από 80 βαθμούς. Βελτιστοποίηση τώρα;</string>
     <string name="guide_secure_dialog_message_new">Η βαθμολογία βελτιστοποίησης της συσκευής σας είναι χαμηλότερη από %d βαθμούς. Βελτιστοποίηση τώρα;</string>
     <string name="guide_secure_dialog_negative">Ακύρωση</string>
     <string name="guide_secure_dialog_positive">Βελτιστοποίηση</string>
@@ -490,6 +492,7 @@
     <string name="hints_garbage_cleanup_result_safe">Όλα φαίνονται να λειτουργούν σωστά</string>
     <string name="hints_garbage_handle_item_content">%1$d αντικείμενα, %2$s</string>
     <string name="hints_garbage_handle_item_empty_content">Κενό</string>
+    <string name="hints_header_left">%d</string>
     <string name="hints_installed_app_fewer">Σπανίως σε χρήση</string>
     <string name="hints_installed_app_near">Πρόσφατα σε χρήση</string>
     <string name="hints_installed_app_never">Ποτέ σε χρήση</string>
@@ -539,6 +542,7 @@
     <string name="last_check_canceled">Η προηγούμενη σάρωση ακυρώθηκε</string>
     <string name="load_only_under_wlan">Φόρτωση μόνο μέσω Wi-Fi</string>
     <string name="location_not_found">Αδυναμία εύρεσης αρχείου</string>
+    <string name="lock_device_toast">Αυτή η συσκευή είναι κλειδωμένη. Ξεκλειδώστε για να χρησιμοποιήσετε την Εκκαθάριση.</string>
     <string name="login_immediately">Σύνδεση</string>
     <string name="long_click_dialog_summary">Πατήστε παρατεταμένα για προσθήκη στις εξαιρέσεις.</string>
     <string name="long_click_dialog_title">Σήμειωση</string>
@@ -566,14 +570,14 @@
     <string name="menu_view">Προβολή στον φάκελο</string>
     <string name="midnight">Νύχτα</string>
     <string name="miuix_access_state_desc">Έγινε επιλογή</string>
-    <string name="miuix_appcompat_action_mode_deselect_all">Αποεπιλογή</string>
+    <string name="miuix_appcompat_action_mode_deselect_all">Αποεπιλογή όλων</string>
     <string name="miuix_appcompat_action_mode_select_all">Επιλογή όλων</string>
     <string name="miuix_appcompat_action_mode_title_empty">Επιλογή αντικειμένων</string>
     <string name="miuix_appcompat_actionbar_immersion_button_more_description">Περισσότερα</string>
     <string name="miuix_appcompat_cancel_description">Ακύρωση</string>
     <string name="miuix_appcompat_confirm_description">Επιβεβαίωση</string>
     <string name="miuix_appcompat_delete_description">Διαγραφή</string>
-    <string name="miuix_appcompat_deselect_all">Αποεπιλογή</string>
+    <string name="miuix_appcompat_deselect_all">Αποεπιλογή όλων</string>
     <string name="miuix_appcompat_deselect_all_description">Αποεπιλογή όλων</string>
     <string name="miuix_appcompat_search_action_mode_cancel">Ακύρωση</string>
     <string name="miuix_appcompat_search_input_description">Αναζήτηση</string>
@@ -638,6 +642,9 @@
     <string name="msg_update_error_code_success">Ολοκλήρωση</string>
     <string name="msg_update_error_code_unknown_error">Οι διακομιστές είναι απασχολημένοι. Περιμένετε ένα δύο λεπτά και προσπαθήστε ξανά.</string>
     <string name="name_debuglog_dir">BSP αρχείο καταγραφής απασφαλμάτωσης</string>
+    <string name="native_body">Σώμα</string>
+    <string name="native_headline">Τίτλος</string>
+    <string name="native_media_view">Προβολή μέσων</string>
     <string name="nb_clear_set">Εκκαθάριση cache, προβολή πληροφοριών μπαταρίας και λίστας αποκλεισμών στον πίνακα ειδοποιήσεων</string>
     <string name="network_not_available">Αδυναμία σύνδεσης στο δίκτυο</string>
     <string name="news_change">Αλλαγή</string>
@@ -744,12 +751,7 @@
     <string name="pref_title_open_optimizer_cloud_scan">Μεταφόρτωση ονομάτων αρχείων</string>
     <string name="pref_title_open_optimizer_memory_scan">Σάρωση μνήμης εφαρμογής</string>
     <string name="preference_copied">Το \"%1$s\" αντιγράφηκε στο πρόχειρο.</string>
-    <string name="privacy_app_desc">Λογαριασμός και κωδικός</string>
-    <string name="privacy_app_desc_message">Λογαριασμός, κωδικοί, και μηνύματα</string>
-    <string name="privacy_app_desc_search">Λογαριασμός, κωδικοί, και ιστορικό αναζήτησης</string>
-    <string name="privacy_app_desc_setting">Λογαριασμός, κωδικοί, και ρυθμίσεις</string>
     <string name="privacy_browser_desc">Αντικείμενα αναζήτησης</string>
-    <string name="privacy_cache_desc">Λογαριασμός, κωδικός, ιστορικό, ρυθμίσεις και περισσότερα</string>
     <string name="privacy_cache_empty">Δεν υπάρχουν προσωπικά δεδομένα</string>
     <string name="privacy_cache_scaning">Γίνεται έλεγχος…</string>
     <string name="privacy_cache_title">Προσωπικές πληροφορίες</string>
@@ -807,6 +809,7 @@
     <string name="size_peta_byte">PB</string>
     <string name="size_suffix">%1$s%2$s</string>
     <string name="size_tera_byte">TB</string>
+    <string name="skip_ad">Παράλειψη</string>
     <string name="sponsored">Χορηγείται</string>
     <string name="start_downloading_app">Εκίνηση λήψης: %1$s</string>
     <string name="start_install">Εγκατάσταση τώρα</string>
@@ -868,9 +871,7 @@
     <string name="time_picker_label_hour">Ω</string>
     <string name="time_picker_label_minute">Λ</string>
     <string name="tips_low_storage_dialog_cancel">Ακύρωση</string>
-    <string name="tips_low_storage_dialog_msg_qq">Το μέγεθος των QQ cache έφτασε τα 3GB. Αυτό ενδέχεται να επιβραδύνει την συσκευή σας. Εκκαθάριση QQ cache τώρα;</string>
     <string name="tips_low_storage_dialog_msg_qq_new">Το μέγεθος της μνήμης cache QQ έχει φτάσει στα %d GB. Αυτό μπορεί να επιβραδύνει τη συσκευή σας. Εκκαθάριση μνήμης cache QQ τώρα;</string>
-    <string name="tips_low_storage_dialog_msg_storage">Χρησιμοποιείτε το 90% του αποθηκευτικού σας χώρου. Απεγκαταστήστε εφαρμογές που δεν χρησιμοποιείτε.</string>
     <string name="tips_low_storage_dialog_msg_storage_new">Χρησιμοποιείτε το %s του αποθηκευτικού σας χώρου. Απεγκαταστήστε εφαρμογές που δεν χρησιμοποιείτε.</string>
     <string name="tips_low_storage_dialog_msg_wechat_new">Το μέγεθος της μνήμης cache WeChat έχει φτάσει στα %d GB. Αυτό μπορεί να επιβραδύνει τη συσκευή σας. Εκκαθάριση μνήμης cache WeChat τώρα;</string>
     <string name="tips_low_storage_dialog_ok">Εκκαθάριση</string>
@@ -938,6 +939,7 @@
     <string name="v7_preference_off">ΑΝΕΝΕΡΓΗ</string>
     <string name="v7_preference_on">ΕΝΕΡΓΗ</string>
     <string name="virus_scan">Σάρωση για ιούς</string>
+    <string name="watermark_label_prefix">AdMob -</string>
     <string name="wechat_chat_data_type_cache">Προσωρινή μνήμη WeChat</string>
     <string name="wechat_chat_data_type_cache_desc">Θα έχετε την δυνατότητα επαναφοράς των αρχείων αυτών μετά την σύνδεσή σας στο Ίντερνετ.</string>
     <string name="wechat_chat_data_type_chat">Ιστορικό συνομιλίας</string>

@@ -16,7 +16,6 @@
     <string name="provider_label">Επαφές</string>
     <string name="sharedUserLabel">Κύριες Εφαρμογές Android</string>
     <string name="sim_state_changed">Έγινε αλλαγή κάρτας SIM</string>
-    <string name="third_party_delete_contact_info">\"%s\" προσπαθεί να διαγράψει τις επαφές σας. Αυτή η ενέργεια δεν μπορεί να πραγματοποιηθεί από εφαρμογές τρίτων. Εναλλακτικά, για να διαγράψετε επαφές, χρησιμοποιήστε την ενσωματωμένη εφαρμογή της MIUI.</string>
     <string name="update_accounts_changed">Οι λογαριασμοί άλλαξαν</string>
     <string name="upgrade_out_of_memory_notification_text">Πατήστε για ολοκλήρωση της ενημέρωσης.</string>
     <string name="upgrade_out_of_memory_notification_ticker">Η ενημέρωση απαιτεί περισσότερη μνήμη.</string>

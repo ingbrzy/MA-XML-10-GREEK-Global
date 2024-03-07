@@ -5,16 +5,16 @@
         <item quantity="one">1 ώρα πριν</item>
     </plurals>
     <plurals name="abbrev_a_hour_ago">
-        <item quantity="other">1 ώρα πριν</item>
-        <item quantity="one">1 ώρα πριν</item>
+        <item quantity="other">Πριν %d ώρες</item>
+        <item quantity="one">Πριν %d ώρα</item>
     </plurals>
     <plurals name="abbrev_half_hour_ago">
         <item quantity="other">Μισή ώρα πριν</item>
         <item quantity="one">Μισή ώρα πριν</item>
     </plurals>
     <plurals name="abbrev_in_a_hour">
-        <item quantity="other">Σε 1 ώρα</item>
-        <item quantity="one">Σε 1 ώρα</item>
+        <item quantity="other">Σε %d ώρες</item>
+        <item quantity="one">Σε %d ώρα</item>
     </plurals>
     <plurals name="abbrev_in_half_hour">
         <item quantity="other">Σε μισή ώρα</item>
@@ -25,16 +25,16 @@
         <item quantity="one">Αμέσως</item>
     </plurals>
     <plurals name="abbrev_in_num_minutes">
-        <item quantity="other">σε %d λεπτά</item>
-        <item quantity="one">σε 1 λεπτό</item>
+        <item quantity="other">Σε %d λεπ</item>
+        <item quantity="one">Σε %d λεπ</item>
     </plurals>
     <plurals name="abbrev_less_than_one_minute_ago">
         <item quantity="other">Μόλις τώρα</item>
         <item quantity="one">Μόλις τώρα</item>
     </plurals>
     <plurals name="abbrev_num_minutes_ago">
-        <item quantity="other">%d λεπτά πριν</item>
-        <item quantity="one">1 λεπτό πριν</item>
+        <item quantity="other">%d λεπ πριν</item>
+        <item quantity="one">%d λεπ πριν</item>
     </plurals>
     <plurals name="adblock_notification">
         <item quantity="other">Αποκλείστηκαν %d διαφημίσεις</item>
@@ -48,6 +48,10 @@
         <item quantity="other">Έως τώρα αποκλειστήκαν %d διαφημίσεις</item>
         <item quantity="one">Έως τώρα αποκλείστηκε %d διαφήμιση</item>
     </plurals>
+    <plurals name="antivirus_desc_not_scanned_virus_in_days">
+        <item quantity="other">Δεν έχει γίνει σάρωση για %d ημέρες</item>
+        <item quantity="one">Δεν έχει γίνει σάρωση για %d ημέρα</item>
+    </plurals>
     <plurals name="articles_updated_amount">
         <item quantity="other">Ρίξτε μια ματιά στα %1$d νέα άρθρα</item>
         <item quantity="one">Ρίξτε μια ματιά στο %1$d νέο άρθρο</item>
@@ -55,6 +59,22 @@
     <plurals name="auto_play_next_tips">
         <item quantity="other">Αναπαραγωγή επόμενου βίντεο σε %d δευτερόλεπτα</item>
         <item quantity="one">Αναπαραγωγή επόμενου βίντεο σε %d δευτερόλεπτο</item>
+    </plurals>
+    <plurals name="back_dialog_antivirus_content_des">
+        <item quantity="other">Δεν έχετε σαρώσει τη συσκευή σας εδώ και %d ημέρες. Σάρωση τώρα;</item>
+        <item quantity="one">Δεν έχετε σαρώσει τη συσκευή σας εδώ και %d ημέρα. Σάρωση τώρα;</item>
+    </plurals>
+    <plurals name="back_dialog_day">
+        <item quantity="other">ημέρες</item>
+        <item quantity="one">ημέρα</item>
+    </plurals>
+    <plurals name="back_dialog_health_check_content_des">
+        <item quantity="other">Δεν έχετε βελτιστοποιήσει τη συσκευή σας εδώ και %d ημέρες. Βελτιστοποίηση τώρα;</item>
+        <item quantity="one">Δεν έχετε βελτιστοποιήσει τη συσκευή σας εδώ και %d ημέρα. Βελτιστοποίηση τώρα;</item>
+    </plurals>
+    <plurals name="count_likes">
+        <item quantity="other">%s likes</item>
+        <item quantity="one">%s like</item>
     </plurals>
     <plurals name="days_ago">
         <item quantity="other">%1$d ημέρες πριν</item>
@@ -148,6 +168,10 @@
         <item quantity="other">%d αντικείμενα επιλέχθηκαν</item>
         <item quantity="one">%d αντικείμενο επιλέχθηκε</item>
     </plurals>
+    <plurals name="mtrl_badge_content_description">
+        <item quantity="other">%d νέες ειδοποιήσεις</item>
+        <item quantity="one">%d νέα ειδοποίηση</item>
+    </plurals>
     <plurals name="mw_last_num_days">
         <item quantity="other">Τελευταίες %d ημέρες</item>
         <item quantity="one">Τελευταία %d ημέρα</item>
@@ -192,9 +216,9 @@
         <item quantity="other">Αποκλείστηκαν %d διαφημίσεις</item>
         <item quantity="one">Αποκλείστηκε %d διαφήμιση</item>
     </plurals>
-    <plurals name="reading__search_resultful">
-        <item quantity="other">Βρέθηκαν %1$d αποτελέσματα</item>
-        <item quantity="one">Βρέθηκε %1$d αποτέλεσμα</item>
+    <plurals name="recommend_top_guide">
+        <item quantity="other">%d νέα προτεινόμενα βίντεο</item>
+        <item quantity="one">%d νέο προτεινόμενο βίντεο</item>
     </plurals>
     <plurals name="search_trending_views">
         <item quantity="other">%s αιτήματα αναζήτησης</item>
@@ -291,5 +315,9 @@
     <plurals name="web_permission_protect_subtitle_time">
         <item quantity="other">%s φορές</item>
         <item quantity="one">%s φορά</item>
+    </plurals>
+    <plurals name="web_preload_hint_dialog_title">
+        <item quantity="other">Την περασμένη εβδομάδα, το Mi Browser αύξησε την ταχύτητα φόρτωσης ιστοσελίδας για εσάς %d φορές!</item>
+        <item quantity="one">Την περασμένη εβδομάδα, το Mi Browser αύξησε την ταχύτητα φόρτωσης ιστοσελίδας για εσάς %d φορά!</item>
     </plurals>
 </resources>

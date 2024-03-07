@@ -33,7 +33,7 @@
     <string name="abrupt_weather_settings_summary_type">Λαμβάνετε ειδοποιήσεις για αναμενόμενες βροχοπτώσεις, αλλαγές της ποιότητας του αέρα και άλλες σημαντικές αλλαγές</string>
     <string name="act_find_city_hint">Εισάγετε τοποθεσία</string>
     <string name="act_find_city_hot_city_title">Δημοφιλείς πόλεις</string>
-    <string name="act_location_error_to_find_city">Αδυναμία λήψης πληροφοριών τοποθεσίας. Μπορείτε να προσθέσετε μια πόλη χειροκίνητα.</string>
+    <string name="act_location_error_to_find_city">Αδυναμία λήψης πληροφοριών τοποθεσίας. Μπορείτε να προσθέσετε μια τοποθεσία χειροκίνητα.</string>
     <string name="act_set_city_find_side">Γίνεται εντοπισμός</string>
     <string name="act_set_city_find_side_error">Αδυναμία εντοπισμού συσκευής</string>
     <string name="act_weather_find_city_added">Έγινε προσθήκη</string>
@@ -67,7 +67,7 @@
     <string name="aqi_24_hours_desc">%d-ωρη πρόβλεψη ΔΠΑ</string>
     <string name="aqi_48_hours_desc">%d-ωρη πρόβλεψη ΔΠΑ</string>
     <string name="aqi_5_days_desc">%d-ήμερη πρόβλεψη ΔΠΑ</string>
-    <string name="aqi_alert_channel_name">Ειδοποιήσεις ΔΠΑ</string>
+    <string name="aqi_alert_channel_name">Προειδοποιήσεις ΔΠΑ</string>
     <string name="aqi_data_source">Τροφοδοτείται από Colorful Clouds</string>
     <string name="aqi_desc">Δείκτης Ποιότητας Αέρα</string>
     <string name="aqi_detail_24_hours">%d-ωρη πρόβλεψη</string>
@@ -78,17 +78,11 @@
     <string name="aqi_fifteen_dates_time_format">d/Μ</string>
     <string name="aqi_publish_time">Έγινε ενημέρωση %1$s</string>
     <string name="aqi_quality_co_desc">Μονοξείδιο του άνθρακα</string>
-    <string name="aqi_quality_co_pad">CO: %1$s</string>
     <string name="aqi_quality_no2_desc">Διοξείδιο του αζώτου</string>
-    <string name="aqi_quality_no2_pad">NO₂: %1$s</string>
     <string name="aqi_quality_o3_desc">Όζον</string>
-    <string name="aqi_quality_o3_pad">O₃: %1$s</string>
     <string name="aqi_quality_pm10_desc">Εισπνεύσιμα χονδρόκοκκα σωματίδια</string>
-    <string name="aqi_quality_pm10_pad">PM10: %1$s</string>
     <string name="aqi_quality_pm25_desc">Λεπτά σωματίδια</string>
-    <string name="aqi_quality_pm25_pad">PM2.5: %1$s</string>
     <string name="aqi_quality_so2_desc">Διοξείδιο του θείου</string>
-    <string name="aqi_quality_so2_pad">SO₂: %1$s</string>
     <string name="aqi_station_best_quality_station">Καλύτερος της περιοχής</string>
     <string name="aqi_station_min_distance_station">Κοντινότερος σταθμός</string>
     <string name="aqi_title_pad">AQI: %1$s</string>
@@ -143,7 +137,7 @@
     <string name="daily_forecast_add_city_message">Παρακολουθήστε τον καιρό σε %1$s για μια πιο λεπτομεριακή πρόγνωση.</string>
     <string name="daily_forecast_add_city_title">Παρακολουθήστε τον καιρό σε %1$s</string>
     <string name="daily_forecast_detail_date">d/Μ</string>
-    <string name="data_provided_by">Δεδομένα που παρέχονται εν μέρει από</string>
+    <string name="data_provided_by">Δεδομένα παρεχόμενα εν μέρει από</string>
     <string name="date_picker_label_day" />
     <string name="date_picker_label_month" />
     <string name="date_picker_label_year" />
@@ -163,6 +157,7 @@
     <string name="dynamic_weather">Καιρός</string>
     <string name="early_morning">Πρωί</string>
     <string name="edit_city">Διαχείριση πόλεων</string>
+    <string name="empty">" "</string>
     <string name="empty_view_net_loading">Γίνεται ενημέρωση…</string>
     <string name="empty_view_net_unavailable">Αδυναμία σύνδεσης στο δίκτυο</string>
     <string name="empty_view_refresh">Προσπαθήστε ξανά</string>
@@ -213,8 +208,8 @@
     <string name="feedback_result_fail_no_choice">Επιλέξτε τις τρέχουσες συνθήκες καιρού</string>
     <string name="feedback_result_fail_no_reason">Ευχαριστούμε για την ανατροφοδότησή σας!</string>
     <string name="feedback_result_fail_same_type">Φαίνεται ότι η αναφορά σας δεν διαφέρει από τον τρέχοντα καιρό. Δοκιμάστε ξανά.</string>
-    <string name="feedback_result_success">Επιτυχής υποβολή, ευχαριστούμε για την ανατροφοδότησή σας.</string>
-    <string name="feedback_sandy">Sandy</string>
+    <string name="feedback_result_success">Επιτυχής υποβολή. Ευχαριστούμε για την ανατροφοδότησή σας.</string>
+    <string name="feedback_sandy">Αμμοθύελλα</string>
     <string name="feedback_sunny">Αίθριος</string>
     <string name="fmt_chinese_date">N月e</string>
     <string name="fmt_date">D</string>
@@ -272,18 +267,21 @@
     <string name="friday_short">Παρ</string>
     <string name="friday_shortest">Παρ</string>
     <string name="hourly_forcast_now">Τώρα</string>
+    <string name="hourly_forecast_bottom_aqi_else">%1$s</string>
     <string name="hourly_forecast_date">d/Μ</string>
     <string name="index_item_experience_now">Εγκατάσταση τώρα</string>
     <string name="indices_title_chance_of_rain">Πιθανότητα βροχής</string>
     <string name="indices_title_feel">Πραγματική αίσθηση</string>
     <string name="indices_title_pressure">Πίεση</string>
     <string name="indices_title_uv">UV</string>
-    <string name="indices_title_wind_speed">Ταχύτητα ανέμου</string>
     <string name="indices_wind_direction_east">Α</string>
     <string name="indices_wind_direction_north">Β</string>
     <string name="indices_wind_direction_south">Ν</string>
     <string name="indices_wind_direction_west">Δ</string>
+    <string name="install_progress">%1$s%%</string>
     <string name="international_details_uv_index_title">Δείκτης UV</string>
+    <string name="item_city_list_region_no_data">-- / --</string>
+    <string name="item_city_list_temperature_no_data">--</string>
     <string name="location_provider_btn_text">Ενεργοποίηση υπηρεσιών τοποθεσίας</string>
     <string name="location_tag">Εντοπισμός</string>
     <string name="manager_city_option_add_home">Προσθήκη στην αρχική σελίδα</string>
@@ -294,16 +292,15 @@
     <string name="minute_rain_feedback_title">Οι πληροφορίες καιρού φαίνονται εσφαλμένες.</string>
     <string name="minute_rain_now">Τώρα</string>
     <string name="minute_rain_progress_indicator_original_time">- -</string>
-    <string name="missing_required_permission">Έχετε απενεργοποιήσει μια απαιτούμενη άδεια.</string>
     <string name="miuix_access_state_desc">Έγινε επιλογή</string>
-    <string name="miuix_appcompat_action_mode_deselect_all">Αποεπιλογή</string>
+    <string name="miuix_appcompat_action_mode_deselect_all">Αποεπιλογή όλων</string>
     <string name="miuix_appcompat_action_mode_select_all">Επιλογή όλων</string>
     <string name="miuix_appcompat_action_mode_title_empty">Επιλογή αντικειμένων</string>
     <string name="miuix_appcompat_actionbar_immersion_button_more_description">Περισσότερα</string>
     <string name="miuix_appcompat_cancel_description">Ακύρωση</string>
     <string name="miuix_appcompat_confirm_description">Επιβεβαίωση</string>
     <string name="miuix_appcompat_delete_description">Διαγραφή</string>
-    <string name="miuix_appcompat_deselect_all">Αποεπιλογή</string>
+    <string name="miuix_appcompat_deselect_all">Αποεπιλογή όλων</string>
     <string name="miuix_appcompat_deselect_all_description">Αποεπιλογή όλων</string>
     <string name="miuix_appcompat_search_action_mode_cancel">Ακύρωση</string>
     <string name="miuix_appcompat_search_input_description">Αναζήτηση</string>
@@ -369,7 +366,7 @@
     <string name="non_wifi_environment">Συνδεθείτε σε Wi-Fi για λήψη εφέ ήχου</string>
     <string name="noon">Μεσημέρι</string>
     <string name="not_set">Δεν έχει οριστεί</string>
-    <string name="notif_aqi_title">Σήμερα το ΔΠΑ είναι %1$d σε %2$s</string>
+    <string name="notif_aqi_title">Σήμερα, στην πόλη %2$s, ο ΔΠΑ είναι %1$d.</string>
     <string name="notif_weather_title">%1$s σήμερα στο/στη %2$s</string>
     <string name="other_settings">Άλλες ρυθμίσεις</string>
     <string name="pad_keyboard_add_city">Προσθήκη τοποθεσίας</string>
@@ -392,8 +389,8 @@
     <string name="privacy_grant_or_revoke_settings">Ανάκληση συγκατάθεσης</string>
     <string name="privacy_grant_success">Επιτυχής παραχώρηση εξουσιοδότησης</string>
     <string name="privacy_policy">Πολιτική Απορρήτου</string>
-    <string name="privacy_policy_msg">&lt;Data>Η εφαρμογή αυτή περιέχει τις ακόλουθες λειτουργίες:&lt;br/>• Πληροφορίες καιρού ειδικά για την τοποθεσία σας&lt;br/>• Προγνώσεις καιρού&lt;br/>• Καιρικές προειδοποιήσεις&lt;br/>&lt;br/>Η εφαρμογή Καιρός πρέπει να συλλέξει απαραίτητα προσωπικά δεδομένα για να σας παρέχει βασικές υπηρεσίες. Μπορείτε να μάθετε πως διαχειριζόμαστε τα δεδομένα που συλλέγουμε στην &lt;a href=\"%1$s\">Πολιτική Απορρήτου&lt;/a>. Διαβάστε και αποδεχτείτε τη &lt;a href=\"%2$s\">Συμφωνία Χρήστη&lt;/a> και την &lt;a href=\"%3$s\">Πολιτική Απορρήτου&lt;/a> πριν χρησιμοποιήσετε την εφαρμογή Καιρός. Μπορείτε να ανακαλέσετε τη συγκατάθεσή σας για την Πολιτική Απορρήτου στις Ρυθμίσεις της εφαρμογής Καιρός οποιαδήποτε στιγμή.&lt;/Data></string>
-    <string name="privacy_policy_msg_for_gp">&lt;Data>Η εφαρμογή αυτή περιέχει τις ακόλουθες λειτουργίες:&lt;br/>• Πληροφορίες ειδικά για την τοποθεσία σας&lt;br/>• Προγνώσεις καιρού&lt;br/>• Καιρικές προειδοποιήσεις&lt;br/>&lt;br/>Η εφαρμογή Καιρός πρέπει να συλλέξει απαραίτητα προσωπικά δεδομένα, συμπεριλαμβανομένων των δεδομένων τοποθεσίας, για να καταστήσει αυτές τις δυνατότητες διαθέσιμες, ακόμα και όταν η εφαρμογή είναι κλειστή ή δεν χρησιμοποιείται. Μπορείτε να μάθετε πως διαχειριζόμαστε τα δεδομένα που συλλέγουμε στην &lt;a href=\"%1$s\">Πολιτική Απορρήτου&lt;/a>. Διαβάστε και αποδεχτείτε τη &lt;a href=\"%2$s\">Συμφωνία Χρήστη&lt;/a> και την &lt;a href=\"%3$s\">Πολιτική Απορρήτου&lt;/a> πριν αποδεχτείτε την εφαρμογή Καιρός. Μπορείτε να ανακαλέσετε τη συγκατάθεσή σας για την Πολιτική Απορρήτου στις Ρυθμίσεις της εφαρμογής Καιρός οποιαδήποτε στιγμή.&lt;/Data></string>
+    <string name="privacy_policy_msg"><Data>Η εφαρμογή αυτή περιέχει τις ακόλουθες λειτουργίες:&lt;br/>• Πληροφορίες καιρού ειδικά για την τοποθεσία σας&lt;br/>• Προγνώσεις καιρού&lt;br/>• Καιρικές προειδοποιήσεις&lt;br/>&lt;br/>Η εφαρμογή Καιρός πρέπει να συλλέξει απαραίτητα προσωπικά δεδομένα για να σας παρέχει βασικές υπηρεσίες. Μπορείτε να μάθετε πως διαχειριζόμαστε τα δεδομένα που συλλέγουμε στην &lt;a href=\"%1$s\">Πολιτική Απορρήτου&lt;/a>. Διαβάστε και αποδεχτείτε τη &lt;a href=\"%2$s\">Συμφωνία Χρήστη&lt;/a> και την &lt;a href=\"%3$s\">Πολιτική Απορρήτου&lt;/a> πριν χρησιμοποιήσετε την εφαρμογή Καιρός. Μπορείτε να ανακαλέσετε τη συγκατάθεσή σας για την Πολιτική Απορρήτου στις Ρυθμίσεις της εφαρμογής Καιρός οποιαδήποτε στιγμή.</Data></string>
+    <string name="privacy_policy_msg_for_gp"><Data>Η εφαρμογή αυτή περιέχει τις ακόλουθες λειτουργίες:&lt;br/>• Πληροφορίες ειδικά για την τοποθεσία σας&lt;br/>• Προγνώσεις καιρού&lt;br/>• Καιρικές προειδοποιήσεις&lt;br/>&lt;br/>Η εφαρμογή Καιρός πρέπει να συλλέξει απαραίτητα προσωπικά δεδομένα, συμπεριλαμβανομένων των δεδομένων τοποθεσίας, για να καταστήσει αυτές τις δυνατότητες διαθέσιμες, ακόμα και όταν η εφαρμογή είναι κλειστή ή δεν χρησιμοποιείται. Μπορείτε να μάθετε πως διαχειριζόμαστε τα δεδομένα που συλλέγουμε στην &lt;a href=\"%1$s\">Πολιτική Απορρήτου&lt;/a>. Διαβάστε και αποδεχτείτε τη &lt;a href=\"%2$s\">Συμφωνία Χρήστη&lt;/a> και την &lt;a href=\"%3$s\">Πολιτική Απορρήτου&lt;/a> πριν αποδεχτείτε την εφαρμογή Καιρός. Μπορείτε να ανακαλέσετε τη συγκατάθεσή σας για την Πολιτική Απορρήτου στις Ρυθμίσεις της εφαρμογής Καιρός οποιαδήποτε στιγμή.</Data></string>
     <string name="privacy_revoke_success">Επιτυχής ανάκληση εξουσιοδότησης</string>
     <string name="privacy_settings">Πολιτική Απορρήτου</string>
     <string name="pull_fresh_updated">Επιτυχής ενημέρωση</string>
@@ -404,18 +401,14 @@
     <string name="rain_sound_setting_title_text">Ηχητικά εφέ</string>
     <string name="rating_dialog_later">Αργότερα</string>
     <string name="rating_dialog_rate_now">Αξιολόγηση τώρα</string>
-    <string name="real_time_sunrise">Ανατολή ηλίου %1$s</string>
-    <string name="real_time_sunset">Δύση ηλίου %1$s</string>
+    <string name="real_time_sunrise">Αυγή %1$s</string>
+    <string name="real_time_sunset">Δύση %1$s</string>
     <string name="realtime_aqi_title">Δείκτης Ποιότητας Αέρα</string>
     <string name="realtime_humidity_title">Υγρασία</string>
     <string name="realtime_temperature_no_data">N/A</string>
     <string name="realtime_wind_default_title">Άνεμος</string>
     <string name="refresh_fail">Αδυναμία σύνδεσης σε δίκτυο</string>
     <string name="reminder_from_xiaomi_weather_app">Προειδοποίηση Mi Καιρού</string>
-    <string name="request_cta_connect_net">Να επιτρέπεται αυτή η εφαρμογή να συνδέεται στο ίντερνετ και να παραχωρηθούν οι υποχρεωτικές άδειες που αναφέρονται πιο πάνω.</string>
-    <string name="request_permission_location_dialog_content">Για προβολή πληροφοριών καιρού που σχετίζονται με την τοποθεσία σας</string>
-    <string name="request_permission_main_purpose">Προβολή πληροφοριών καιρού</string>
-    <string name="request_permission_storage_dialog_content">Για κοινοποίηση πληροφοριών καιρού σε μορφή εικόνας</string>
     <string name="revoke_fail">Αδυναμία σύνδεσης στο δίκτυο</string>
     <string name="revoke_privacy_policy_title">Ανάκληση συγκατάθεσης</string>
     <string name="saturday">Σάββατο</string>
@@ -441,7 +434,7 @@
     <string name="share_button">Κοινοποίηση</string>
     <string name="share_menu_title">Κοινοποίηση</string>
     <string name="share_subject">Κοινοποίηση</string>
-    <string name="share_weather_desc">\#MIUI Καιρός#Σήμερα %1$s %2$s</string>
+    <string name="share_weather_desc_alert">%1$s%2$s</string>
     <string name="share_weather_desc_split">,</string>
     <string name="share_weather_save_pic_fail">Αδυναμία λήψης στιγμιότυπου οθόνης</string>
     <string name="shortcut_short_label_24_hour_forecast">%d-ωρη πρόβλεψη</string>
@@ -484,8 +477,8 @@
     <string name="sunday">Κυριακή</string>
     <string name="sunday_short">Κυρ</string>
     <string name="sunday_shortest">Κυρ</string>
-    <string name="sunrise">Ανατολή ηλίου</string>
-    <string name="sunset">Ηλιοβασίλεμα</string>
+    <string name="sunrise">Αυγή</string>
+    <string name="sunset">Δύση</string>
     <string name="temperature_normal_unit">%1$s°</string>
     <string name="temperature_unit_C">%1$s℃</string>
     <string name="temperature_unit_F">%1$s℉</string>
@@ -568,15 +561,12 @@
     <string name="user_agreement">Συμφωνία Χρήστη</string>
     <string name="v7_preference_off">ΑΝΕΝΕΡΓΗ</string>
     <string name="v7_preference_on">ΕΝΕΡΓΗ</string>
-    <string name="video_banner_regional_weather_update">Τοπικές ενημερώσεις καιρού</string>
-    <string name="video_banner_weather_forecast">Δελτίο πρόγνωσης καιρού</string>
-    <string name="video_banner_weather_update">Οι τελευταίες ενημερώσεις πληροφοριών καιρού</string>
     <string name="view_forecast_item_yesterday">Χθες</string>
     <string name="view_indexes_item_today">Σήμερα</string>
     <string name="view_indexes_item_tommorrow">Αύριο</string>
     <string name="warning_weather_day_and_night_settings_title">Ημερήσιες περιλήψεις</string>
     <string name="weather_alert_channel_name">Συναγερμοί</string>
-    <string name="weather_aqi_full_air_quality_forcast">Πλήρης πρόβλεψη ποιότητας αέρα</string>
+    <string name="weather_aqi_full_air_quality_forcast">Πλήρης πρόγνωση ποιότητας αέρα</string>
     <string name="weather_introduce">Πάντα μαζί σας, με βροχές ή ηλιαχτίδες.</string>
     <string name="weather_main_aqi_desc">ΔΠΑ</string>
     <string name="weather_main_minute_hour">%d-ωρη πρόβλεψη υδατόπτωσης</string>
@@ -591,9 +581,7 @@
     <string name="wind_power">%d</string>
     <string name="wind_unit">%1$skm/h</string>
     <string name="xiaomi_weather_description_content">Ο Καιρός είναι μια εφαρμογή συστήματος. Δεν θα μπορείτε να δείτε πληροφορίες καιρού ή να χρησιμοποιήσετε σχετικά γραφικά στοιχεία μετά την απεγκατάσταση της εφαρμογής.</string>
-    <string name="xiaomi_weather_description_content_remove">Ο Καιρός είναι μια εφαρμογή συστήματος. Δεν θα μπορείτε να δείτε πληροφορίες καιρού ή να χρησιμοποιήσετε σχετικά γραφικά στοιχεία μετά την αφαίρεση της Συντόμευσης αρχικής οθόνης.</string>
     <string name="xiaomi_weather_description_title">Απεγκατάσταση \"Καιρού\";</string>
-    <string name="xiaomi_weather_description_title_remove">Αφαίρεση \"Καιρού\" από την Αρχική οθόνη;</string>
     <string name="yes_vote_ratio">Υπέρ %1$s%%</string>
     <string name="yesterday">Χθες</string>
 </resources>

@@ -47,8 +47,10 @@
     <string name="anti_flicker_mode">Σταθεροποίηση εικόνας</string>
     <string name="anti_flicker_mode_categroy">Λειτουργίες</string>
     <string name="anti_flicker_mode_summary">Αποτρέψτε το εκτεταμένο τρεμόπαιγμα των ματιών και μειώστε την καταπόνησή τους σε συνθήκες χαμηλού φωτισμού</string>
+    <string name="anti_flicker_mode_summary_new">Χρησιμοποιήστε DC dimming σε χαμηλό φωτισμό για να μειώσετε την καταπόνηση των ματιών</string>
     <string name="anti_flicker_title">Λειτουργία σταθεροποίησης εικόνας</string>
     <string name="app_name">Ρυθμίσεις</string>
+    <string name="app_use">Χρόνος χρήσης οθόνης σε εφαρμογές</string>
     <string name="application_sound">Ειδοποιήσεις εφαρμογών</string>
     <string name="apply_ringtone">Apply</string>
     <string name="arctic_fox">Arctic fox</string>
@@ -111,7 +113,6 @@
     <string name="branch_whipbird">Turdidae</string>
     <string name="brown_pelican">Καφέ πελεκάνος</string>
     <string name="calendar_sound">Υπενθυμίσεις συμβάντων</string>
-    <string name="calendar_tip">Οι υπενθυμίσεις συμβάντων λειτουργούν για υπενθυμίσεις ημερολογίου, σημειώσεις και εργασίες</string>
     <string name="canada_goose">Canada goose</string>
     <string name="capybara">Capybara</string>
     <string name="capybara_info">Οι υδρόχοιροι είναι ημιυδρόβια φυτοφάγα τρωκτικά που μπορούν να κρατήσουν την αναπνοή τους υποβρύχια για έως και πέντε λεπτά κάθε φορά.</string>
@@ -307,6 +308,10 @@
     <string name="focus_time_exception_tip">Φαίνεται πως η ώρα τους συστήματος άλλαξε. Η Λειτουργία εστίασης απενεργοποιήθηκε.</string>
     <string name="follow_apps_settings">Με βάση τις ρυθμίσεις της εφαρμογής</string>
     <string name="follow_sim1">Εφαρμογή ρυθμίσεων SIM 1</string>
+    <string name="footer_global_fps">"
+%1$d. Όταν ενεργοποιείτε τη Λειτουργία απόδοσης, ο ρυθμός ανανέωσης θα αλλάξει στο μέγιστο του συστήματος %2$d Hz. Οι ρυθμίσεις εφαρμογής υψηλού ρυθμού ανανέωσης δεν θα είναι διαθέσιμες προσωρινά."</string>
+    <string name="footer_max_fps" formatted="false">"
+%d. Ο ρυθμός ανανέωσης μπορεί να ρυθμιστεί σε έως και %s για υποστηριζόμενες εφαρμογές και παιχνίδια."</string>
     <string name="force_rest">Χρησιμοποιήστε διαλείμματα συνεδρίας</string>
     <string name="force_rest_summary">Κάντε υποχρεωτικά διαλείμματα όταν οι συνεδρίες φτάνουν το καθορισμένο όριο</string>
     <string name="force_rest_time">Διάρκεια διαλείμματος</string>
@@ -419,17 +424,20 @@
     <string name="marabou_stork">Marabou stork</string>
     <string name="marabou_stork_info">Το πελαργόμορφο μαραμπού είναι ένα τεράστιο πουλί, ένα συχνό σαπροφάγο.</string>
     <string name="masked_palm_civet">Μασκοφόρα φοινικοσιβέτα</string>
+    <string name="max_fps_string">Έως και %s Hz</string>
     <string name="medium_tree_finch">Medium tree finch</string>
+    <string name="mi_transfer_banner_summary">Υποστηρίζονται πολλές μάρκες συσκευών</string>
+    <string name="mi_transfer_banner_title">Μεταφέρετε αντικείμενα από την παλιά σας συσκευή</string>
     <string name="midnight">Νύχτα</string>
     <string name="miuix_access_state_desc">Έγινε επιλογή</string>
-    <string name="miuix_appcompat_action_mode_deselect_all">Αποεπιλογή</string>
+    <string name="miuix_appcompat_action_mode_deselect_all">Αποεπιλογή όλων</string>
     <string name="miuix_appcompat_action_mode_select_all">Επιλογή όλων</string>
     <string name="miuix_appcompat_action_mode_title_empty">Επιλογή αντικειμένων</string>
     <string name="miuix_appcompat_actionbar_immersion_button_more_description">Περισσότερα</string>
     <string name="miuix_appcompat_cancel_description">Ακύρωση</string>
     <string name="miuix_appcompat_confirm_description">Επιβεβαίωση</string>
     <string name="miuix_appcompat_delete_description">Διαγραφή</string>
-    <string name="miuix_appcompat_deselect_all">Αποεπιλογή</string>
+    <string name="miuix_appcompat_deselect_all">Αποεπιλογή όλων</string>
     <string name="miuix_appcompat_deselect_all_description">Αποεπιλογή όλων</string>
     <string name="miuix_appcompat_search_action_mode_cancel">Ακύρωση</string>
     <string name="miuix_appcompat_search_input_description">Αναζήτηση</string>
@@ -582,6 +590,7 @@
     <string name="screen_fps_unit">%d Hz</string>
     <string name="screen_fps_unit_power_save">%dHz (εξοικονόμηση μπαταρίας)</string>
     <string name="screen_fps_unit_smooth">%dHz (καλύτερη ποιότητα)</string>
+    <string name="screen_fps_unit_string">%s Hz</string>
     <string name="screen_original_gamut">Ενισχυμένη</string>
     <string name="screen_original_gamut_summary">Προβολή όλου του περιεχομένου οθόνης στην ευρύτερη δυνατή γκάμα χρωμάτων</string>
     <string name="screen_paper_mode_apps_loading">Μια στιγμή…</string>
@@ -640,6 +649,7 @@
     <string name="stop_summary">Όλα τα στατιστικά στοιχεία και δεδομένα Χρόνου χρήσης οθόνης θα διαγραφούν όταν απενεργοποιήσετε αυτή τη λειτουργία</string>
     <string name="suggestion">Ανατροφοδότηση</string>
     <string name="summary_collapsed_preference_list">%1$s, %2$s</string>
+    <string name="summary_max_fps_for_intelligent">Προσαρμόστε τον ρυθμό ανανέωσης δυναμικά έως και %s Hz βάσει σεναρίων για να εξισορροπήσετε την απόδοση με την κατανάλωση ενέργειας</string>
     <string name="sunday">Κυριακή</string>
     <string name="sunday_short">Κυρ</string>
     <string name="sunday_shortest">Κυρ</string>
@@ -794,7 +804,7 @@
 Επίσης, η εφαρμογή αυτή πρέπει να συνδεθεί στο ίντερνετ και απαιτεί τις ακόλουθες άδειες για να συλλέξει τις προσωπικές σας πληροφορίες:"</string>
     <string name="usage_home_premission_second_summary">Για να μπορεί να λειτουργεί κανονικά, η εφαρμογή αυτή πρέπει να συλλέξει τις προσωπικές σας πληροφορίες. Θα προστατεύουμε τις προσωπικές σας πληροφορίες σύμφωνα με του σχετικούς νόμου, κανονισμούς και πολιτικές απορρήτου.</string>
     <string name="usage_home_premission_second_summary_double_link_prefix">Θα προστατεύουμε τις προσωπικές σας πληροφορίες σύμφωνα με τους σχετικούς νόμους, κανονισμούς και πολιτικές απορρήτου. Εάν δεν συμφωνείτε να παραχωρήσετε αυτές τις άδειες ή να κοινοποιήσετε και να μεταφορτώσετε τις προσωπικές σας πληροφορίες, δεν θα έχετε τη δυνατότητα να χρησιμοποιείτε αυτή την εφαρμογή. Μπορείτε να ανακαλέσετε την εξουσιοδότησή σας από Χρόνος χρήσης οθόνης > Ρυθμίσεις > Απενεργοποίηση Χρόνου χρήσης οθόνης.</string>
-    <string name="usage_home_premission_second_summary_double_link_suffix" formatted="false">"&lt;Data>Πριν χρησιμοποιήσετε αυτή την εφαρμογή, διαβάστε και να αποδεχτείτε τη &lt;a href='%1s'>Συμφωνία Χρήστη&lt;/a> και την &lt;a href='%2s'>Πολιτική Απορρήτου&lt;/a>.&lt;/Data>"</string>
+    <string name="usage_home_premission_second_summary_double_link_suffix" formatted="false"><Data>"Πριν χρησιμοποιήσετε αυτή την εφαρμογή, διαβάστε και να αποδεχτείτε τη &lt;a href='%1s'>Συμφωνία Χρήστη&lt;/a> και την &lt;a href='%2s'>Πολιτική Απορρήτου&lt;/a>."</Data></string>
     <string name="usage_home_premission_second_summary_new">Θα προστατεύουμε τις προσωπικές σας πληροφορίες σύμφωνα με τους σχετικούς νόμους, κανονισμούς και πολιτικές απορρήτου. Εάν δεν συμφωνείτε να παραχωρήσετε αυτές τις άδειες ή να κοινοποιήσετε και να μεταφορτώσετε τις προσωπικές σας πληροφορίες, δεν θα έχετε τη δυνατότητα να χρησιμοποιείτε αυτή την εφαρμογή. Μπορείτε να ανακαλέσετε την εξουσιοδότησή σας από τον Χρόνο χρήσης οθόνης > Ρυθμίσεις > Απενεργοποίηση Χρόνου χρήσης οθόνης. Εάν έχετε άλλες ερωτήσεις σχετικά με το απόρρητο, μπορείτε να επικοινωνήσετε μαζί μας στη διεύθυνση privacy@xiaomi.com.</string>
     <string name="usage_new_category_limit_summary">Ορίστε ημερήσια όρια χρήσης για όλες τις εφαρμογές αυτής της κατηγορίας</string>
     <string name="usage_new_category_limit_title">Περιορισμός χρήσης για κατηγορία εφαρμογών</string>
@@ -842,7 +852,7 @@
     <string name="usage_optional_title">Προαιρετικές άδειες</string>
     <string name="usage_permisison_agree_desc_o">Για να σας παρέχουμε στατιστικά στοιχεία για την εφαρμογή Χρόνος χρήσης οθόνης, η εφαρμογή αυτή πρέπει να συλλέξει τα ακόλουθα δεδομένα: πόσες φορές ξεκλειδώνετε τη συσκευή σας και λίστα των εφαρμογών σας με την αντίστοιχη διάρκεια χρήσης.</string>
     <string name="usage_permisison_agree_desc_p">Για να σας παρέχουμε στατιστικά στοιχεία Χρόνου χρήσης οθόνης και Λειτουργίας εστίασης, η εφαρμογή αυτή πρέπει να συλλέξει τα ακόλουθα δεδομένα: πόσες φορές ξεκλειδώνετε τη συσκευή σας, λίστα των εφαρμογών σας με την αντίστοιχη διάρκεια χρήσης, πόσες φορές ανάβει η οθόνη σας, και ρυθμίσεις Λειτουργίας εστίασης.</string>
-    <string name="usage_permission_double_link" formatted="false">"&lt;Data>Η εφαρμογή αυτή πρέπει να συνδεθεί στο ίντερνετ και να συλλέξει τα απαιτούμενα προσωπικά δεδομένα για να λειτουργεί κανονικά. Ταυτόχρονα, για να κατανοήσετε πλήρως τα δικαιώματά σας ως χρήστης, καθώς και τους τρόπους με τους οποίους χρησιμοποιούμε τα δεδομένα σας, διαβάστε και αποδεχτείτε τη &lt;a href='%1s'>Συμφωνία Χρήστη&lt;/a> και την &lt;a href='%2s'>Πολιτική Απορρήτου&lt;/a>.&lt;/Data>"</string>
+    <string name="usage_permission_double_link" formatted="false"><Data>"Η εφαρμογή αυτή πρέπει να συνδεθεί στο ίντερνετ και να συλλέξει τα απαιτούμενα προσωπικά δεδομένα για να λειτουργεί κανονικά. Ταυτόχρονα, για να κατανοήσετε πλήρως τα δικαιώματά σας ως χρήστης, καθώς και τους τρόπους με τους οποίους χρησιμοποιούμε τα δεδομένα σας, διαβάστε και αποδεχτείτε τη &lt;a href='%1s'>Συμφωνία Χρήστη&lt;/a> και την &lt;a href='%2s'>Πολιτική Απορρήτου&lt;/a>."</Data></string>
     <string name="usage_permission_main_desc">"Καλώς ορίσατε στον Χρόνο χρήσης οθόνης!
 Η εφαρμογή αυτή πρέπει να συνδεθεί στο ίντερνετ και απαιτεί τις ακόλουθες άδειες για να λειτουργεί κανονικά:"</string>
     <string name="usage_permission_title">Προσοχή</string>

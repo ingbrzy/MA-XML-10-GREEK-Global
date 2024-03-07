@@ -88,7 +88,7 @@
         <item>Δεν είναι δυνατή η πρόσβαση στο δίκτυο. Συνδεθείτε ξανά στο Wi-Fi ή επανεκκινήστε τον δρομολογητή.</item>
     </string-array>
     <string-array name="net_diag_err_link_quality_china">
-        <item>Poor WLAN connection. Switch wireless bands or reboot the router.</item>
+        <item>Κακή σύνδεση Wi-Fi. Αλλάξτε τις ζώνες ασύρματης σύνδεσης ή επανεκκινήστε τον δρομολογητή.</item>
         <item>"Can't access network. Reconnect to WLAN or reboot the router."</item>
     </string-array>
     <string-array name="net_diag_err_network_connectivity">
@@ -96,7 +96,7 @@
         <item>Η πρόσβαση στο δίκτυο είναι περιορισμένη. Προσαρμόστε την ώρα σε αυτήν τη συσκευή και ελέγξτε τις ρυθμίσεις δικτύου του δρομολογητή.</item>
         <item>Σφάλμα δικτύου. Ελέγξτε τις ρυθμίσεις διακομιστή μεσολάβησης HTTP.</item>
         <item>Σφάλμα δικτύου. Ελέγξτε εάν ο δρομολογητής μπορεί να έχει πρόσβαση στο διαδίκτυο.</item>
-        <item>Αδυναμία σύνδεσης στο δίκτυο. Συνδεθείτε ξανά στο Wi-Fi ή επανεκκινήστε τον δρομολογητή.</item>
+        <item>Δεν είναι δυνατή η πρόσβαση στο δίκτυο. Συνδεθείτε ξανά στο Wi-Fi ή επανεκκινήστε τον δρομολογητή.</item>
     </string-array>
     <string-array name="net_diag_err_network_connectivity_china">
         <item>Απαιτείται έλεγχος ταυτότητας για πρόσβαση στο δίκτυο</item>
@@ -108,7 +108,7 @@
     <string-array name="net_diag_err_network_dns">
         <item>Σφάλμα διακομιστή DNS. Ελέγξτε τη διαμόρφωση DNS του δρομολογητή.</item>
         <item>Σημαντικές καθυστερήσεις από τον διακομιστή DNS. Ελέγξτε τη διαμόρφωση DNS του δρομολογητή.</item>
-        <item>Δεν είναι δυνατή η πρόσβαση στην πύλη. Συνδεθείτε ξανά στο Wi-Fi ή επανεκκινήστε τον δρομολογητή.</item>
+        <item>Δεν είναι δυνατή η πρόσβαση στο δίκτυο. Συνδεθείτε ξανά στο Wi-Fi ή επανεκκινήστε τον δρομολογητή.</item>
     </string-array>
     <string-array name="net_diag_err_network_dns_china">
         <item>Σφάλμα διακομιστή DNS. Ελέγξτε τη διαμόρφωση DNS του δρομολογητή.</item>

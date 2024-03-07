@@ -5,16 +5,16 @@
         <item quantity="one">1 ώρα πριν</item>
     </plurals>
     <plurals name="abbrev_a_hour_ago">
-        <item quantity="other">1 ώρα πριν</item>
-        <item quantity="one">1 ώρα πριν</item>
+        <item quantity="other">Πριν %d ώρες</item>
+        <item quantity="one">Πριν %d ώρα</item>
     </plurals>
     <plurals name="abbrev_half_hour_ago">
         <item quantity="other">Μισή ώρα πριν</item>
         <item quantity="one">Μισή ώρα πριν</item>
     </plurals>
     <plurals name="abbrev_in_a_hour">
-        <item quantity="other">Σε 1 ώρα</item>
-        <item quantity="one">Σε 1 ώρα</item>
+        <item quantity="other">Σε %d ώρες</item>
+        <item quantity="one">Σε %d ώρα</item>
     </plurals>
     <plurals name="abbrev_in_half_hour">
         <item quantity="other">Σε μισή ώρα</item>
@@ -25,16 +25,16 @@
         <item quantity="one">Αμέσως</item>
     </plurals>
     <plurals name="abbrev_in_num_minutes">
-        <item quantity="other">σε %d λεπτά</item>
-        <item quantity="one">σε 1 λεπτό</item>
+        <item quantity="other">Σε %d λεπ</item>
+        <item quantity="one">Σε %d λεπ</item>
     </plurals>
     <plurals name="abbrev_less_than_one_minute_ago">
         <item quantity="other">Μόλις τώρα</item>
         <item quantity="one">Μόλις τώρα</item>
     </plurals>
     <plurals name="abbrev_num_minutes_ago">
-        <item quantity="other">%d λεπτά πριν</item>
-        <item quantity="one">1 λεπτό πριν</item>
+        <item quantity="other">%d λεπ πριν</item>
+        <item quantity="one">%d λεπ πριν</item>
     </plurals>
     <plurals name="alarm_alert_snooze_set">
         <item quantity="other">Γίνεται αναβολή για %d λεπτά.</item>
@@ -43,14 +43,6 @@
     <plurals name="day">
         <item quantity="other">%d ημέρες</item>
         <item quantity="one">%d ημέρα</item>
-    </plurals>
-    <plurals name="delete_alarm_confirm">
-        <item quantity="other">Διαγραφή των επιλεγμένων ξυπνητηριών;</item>
-        <item quantity="one">Διαγραφή αυτού του ξυπνητηριού;</item>
-    </plurals>
-    <plurals name="delete_timezone_confirm">
-        <item quantity="other">Διαγραφή των επιλεγμένων ζωνών ώρας;</item>
-        <item quantity="one">Διαγραφή της ζώνης ώρας;</item>
     </plurals>
     <plurals name="half_hour_ago">
         <item quantity="other">Μισή ώρα πριν</item>
@@ -80,21 +72,17 @@
         <item quantity="other">Μόλις τώρα</item>
         <item quantity="one">Μόλις τώρα</item>
     </plurals>
-    <plurals name="life_post_wake_up_item_acumu_day">
-        <item quantity="other">%1$d ημέρες</item>
-        <item quantity="one">%1$d ημέρα</item>
-    </plurals>
     <plurals name="minute">
         <item quantity="other">%d λεπτά</item>
         <item quantity="one">%d λεπτό</item>
     </plurals>
-    <plurals name="minute_text">
-        <item quantity="other">" λεπτά"</item>
-        <item quantity="one">" λεπτό"</item>
-    </plurals>
     <plurals name="miuix_appcompat_items_selected">
         <item quantity="other">%d αντικείμενα επιλέχθηκαν</item>
         <item quantity="one">%d αντικείμενο επιλέχθηκε</item>
+    </plurals>
+    <plurals name="mtrl_badge_content_description">
+        <item quantity="other">%d νέες ειδοποιήσεις</item>
+        <item quantity="one">%d νέα ειδοποίηση</item>
     </plurals>
     <plurals name="num_minutes_ago">
         <item quantity="other">%d λεπτά πριν</item>
@@ -128,17 +116,9 @@
         <item quantity="other">Ήχηση %1$s φορές</item>
         <item quantity="one">Ήχηση %1$s φορά</item>
     </plurals>
-    <plurals name="snooze_duration_desc">
-        <item quantity="other">Κάθε %1$s λεπτό, ήχηση %2$s φορές</item>
-        <item quantity="one">Κάθε %1$s λεπτό, ήχηση %2$s φορά</item>
-    </plurals>
     <plurals name="snooze_duration_min">
         <item quantity="other">Κάθε %1$s λεπτά</item>
         <item quantity="one">Κάθε %1$s λεπτό</item>
-    </plurals>
-    <plurals name="snooze_duration_summary">
-        <item quantity="other">Το ξυπνητήρι θα ηχήσει %2$s φορές (%1$s λεπτό.)</item>
-        <item quantity="one">Το ξυπνητήρι θα ηχήσει %2$s φορά (%1$s λεπτό.)</item>
     </plurals>
     <plurals name="snooze_message">
         <item quantity="other">Αναβολή για %d λεπτά</item>
@@ -165,11 +145,11 @@
         <item quantity="one">%1$d δευτερόλεπτο</item>
     </plurals>
     <plurals name="worldcolock_timezone_gap_fast">
-        <item quantity="other">%s ώρες μπροστά</item>
-        <item quantity="one">%s ώρα μπροστά</item>
+        <item quantity="other">+%s ώ</item>
+        <item quantity="one">+%s ώ</item>
     </plurals>
     <plurals name="worldcolock_timezone_gap_slow">
-        <item quantity="other">%s ώρες πίσω</item>
-        <item quantity="one">%s ώρα πίσω</item>
+        <item quantity="other">-%s ώ</item>
+        <item quantity="one">-%s ώ</item>
     </plurals>
 </resources>

@@ -83,10 +83,9 @@
         <item>Κάμερα</item>
         <item>Συλλογή</item>
     </string-array>
-    <string-array name="common_folder_operations">
-        <item>新建</item>
-        <item>重命名</item>
-        <item>删除</item>
+    <string-array name="big_screen_layouts">
+        <item>@string/setting_big_screen_layout_columns</item>
+        <item>@string/setting_big_screen_layout_flat</item>
     </string-array>
     <string-array name="contact_entries">
         <item>Όνομα</item>
@@ -101,20 +100,6 @@
         <item>Διεύθυνση</item>
         <item>Σημείωση</item>
     </string-array>
-    <string-array name="first_guide_contents">
-        <item>Καλωσορίσατε στις Σημειώσεις!</item>
-        <item>Πάρτε σημειώσεις</item>
-        <item>Μπορείτε να χρησιμοποιήσετε κείμενο, εικόνες και φωνητικές εγγραφές στις σημειώσεις σας. Μια πλούσια συλλογή από στυλ και γραμματοσειρές θα κάνει τα ορνιθοσκαλίσματά σας να εντυπωσιάσουν.</item>
-        <item>Οι λίστες υποχρεώσεων και οι υπενθυμίσεις σας βοηθούν όταν χρειάζεστε βασικά και αποτελεσματικά εργαλεία για την οργάνωση του επόμενού σας ταξιδιού ή για τη δημιουργία μιας λίστας για ψώνια.</item>
-        <item>Κοινοποίηση σημειώσεων</item>
-        <item>Μπορείτε να δημιουργήσετε κυλιόμενα στιγμιότυπα οθόνης στις Σημειώσεις αυτόματα, και μετά μπορείτε να τα κοινοποιήσετε στους φίλους σας.</item>
-        <item>Δημιουργία &amp; εναλλαγή μεταξύ φακέλων</item>
-        <item>Πατήστε το βέλος από κάτω για τη δημιουργία ενός νέου φακέλου ή για εναλλαγή μεταξύ προϋπαρχόντων.</item>
-    </string-array>
-    <string-array name="folder_operations">
-        <item>Μετονομασία</item>
-        <item>Διαγραφή</item>
-    </string-array>
     <string-array name="font_size_names">
         <item>Μικρή</item>
         <item>Μέτρια</item>
@@ -125,15 +110,8 @@
         <item>Κατά ημερομηνία δημιουργίας</item>
         <item>Κατά ημερομηνία τροποποίησης</item>
     </string-array>
-    <string-array name="second_guide_contents">
-        <item>Φωνητικές σημειώσεις</item>
-        <item>Δημιουργήστε σημειώσεις χρησιμοποιώντας την ενσωματωμένη μας μηχανή ομιλία-σε-κείμενο, επισυνάπτοντας τις πρωτότυπες εγγραφές της φωνής σας στις σημειώσεις.</item>
-    </string-array>
-    <string-array name="second_guide_contents_pad_or_inter">
-        <item>Φωνητικές σημειώσεις</item>
-        <item>Τώρα μπορείτε να δημιουργήσετε φωνητικές σημειώσεις. Απλώς πατήστε το εικονίδιο, καταγράψτε τη φωνή σας και αποθηκεύσετε το αρχείο ήχου μέσα στη σημείωση.</item>
-    </string-array>
-    <string-array name="system_folder_operations">
-        <item>新建</item>
+    <string-array name="setting_phone_note_layout_way">
+        <item>@string/action_mode_switcher_list_description</item>
+        <item>@string/action_mode_switcher_grid_description</item>
     </string-array>
 </resources>
