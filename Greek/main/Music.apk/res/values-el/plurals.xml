@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <plurals name="Nalbum_total_songs">
-        <item quantity="other">Total %d songs</item>
-        <item quantity="one">Συνολικά %d τραγούδια</item>
+        <item quantity="other">Συνολικά %d τραγούδια</item>
+        <item quantity="one">Συνολικά %d τραγούδι</item>
     </plurals>
     <plurals name="Nassociate_songs">
         <item quantity="other">Γίνεται αναζήτηση για εξώφυλλα άλμπουμ και στίχων (%1$d/%2$d)</item>
@@ -15,34 +15,34 @@
 Θέλετε να σας βοηθήσουμε να την ανανεώσετε;"</item>
     </plurals>
     <plurals name="Nhungama_free_download_summary">
-        <item quantity="other">You can download %1$d free songs. Download %2$s now?</item>
-        <item quantity="one">Μπορείτε να κατεβάσετε %1$d δωρεάν τραγούδια. Λήψη %2$s τώρα;</item>
+        <item quantity="other">Μπορείτε να κατεβάσετε %1$d δωρεάν τραγούδια. Λήψη %2$s τώρα;</item>
+        <item quantity="one">Μπορείτε να κατεβάσετε %1$d δωρεάν τραγούδι. Λήψη %2$s τώρα;</item>
     </plurals>
     <plurals name="Nquit_warning">
-        <item quantity="other">Player will stop in %d minutes</item>
-        <item quantity="one">Η αναπαραγωγή θα διακοπεί σε %d λεπτά</item>
+        <item quantity="other">Η αναπαραγωγή θα διακοπεί σε %d λεπτά</item>
+        <item quantity="one">Η αναπαραγωγή θα διακοπεί σε %d λεπτό</item>
     </plurals>
     <plurals name="Nsong_group_detail_subtitle">
-        <item quantity="other">"Created on %1$s 
-total %2$d songs"</item>
-        <item quantity="one">"Δημιουργήθηκε στις %1$s 
+        <item quantity="other">"Δημιουργήθηκε στο %1$s 
 συνολικά %2$d τραγούδια"</item>
+        <item quantity="one">"Δημιουργήθηκε στο %1$s 
+συνολικά %2$d τραγούδι"</item>
     </plurals>
     <plurals name="Ntracks_add_to_playlist">
-        <item quantity="other">%d song added to playlist</item>
-        <item quantity="one">%d song added to playlist</item>
+        <item quantity="other">%d τραγούδια προστέθηκαν στη λίστα αναπαραγωγής</item>
+        <item quantity="one">%d τραγούδι προστέθηκε στη λίστα αναπαραγωγής</item>
     </plurals>
     <plurals name="Ntracks_count">
-        <item quantity="other">%d songs</item>
-        <item quantity="one">%d τραγούδια</item>
+        <item quantity="other">%d τραγούδια</item>
+        <item quantity="one">%d τραγούδι</item>
     </plurals>
     <plurals name="Ntracks_remove_from_playlist">
-        <item quantity="other">%d songs removed from playlist</item>
-        <item quantity="one">%dτραγούδια αφαιρέθηκαν από την λίστα αναπαραγωγής</item>
+        <item quantity="other">%d τραγούδια αφαιρέθηκαν από τη λίστα αναπαραγωγής</item>
+        <item quantity="one">%d τραγούδι αφαιρέθηκε από τη λίστα αναπαραγωγής</item>
     </plurals>
     <plurals name="Ntracks_similar_count">
-        <item quantity="other">%d similar songs</item>
-        <item quantity="one">%d παρόμοια τραγούδια</item>
+        <item quantity="other">%d παρόμοια τραγούδια</item>
+        <item quantity="one">%d παρόμοιο τραγούδι</item>
     </plurals>
     <plurals name="a_hour_ago">
         <item quantity="other">1 ώρα πριν</item>
@@ -93,20 +93,20 @@ total %2$d songs"</item>
         <item quantity="one">%1$d τραγούδι</item>
     </plurals>
     <plurals name="comment_count">
-        <item quantity="other">%d comments</item>
-        <item quantity="one">%d σχόλια</item>
+        <item quantity="other">%d σχόλια</item>
+        <item quantity="one">%d σχόλιο</item>
     </plurals>
     <plurals name="days_ago">
-        <item quantity="other">%d days ago</item>
-        <item quantity="one">%d ημέρες πριν</item>
+        <item quantity="other">%d ημέρες πριν</item>
+        <item quantity="one">%d ημέρα πριν</item>
     </plurals>
     <plurals name="dialog_delete_descript">
-        <item quantity="other">Delete %d songs?</item>
-        <item quantity="one">Διαγραφή%d τραγουδιών;</item>
+        <item quantity="other">Διαγραφή %d τραγουδιών;</item>
+        <item quantity="one">Διαγραφή %d τραγουδιού;</item>
     </plurals>
     <plurals name="dialog_remove_descript">
-        <item quantity="other">Remove %d songs?</item>
-        <item quantity="one">Αφαίρεση %d τραγουδιών;</item>
+        <item quantity="other">Αφαίρεση %d τραγουδιών;</item>
+        <item quantity="one">Αφαίρεση %d τραγουδιού;</item>
     </plurals>
     <plurals name="dialog_request_delete_permission_descript">
         <item quantity="other">%d από τα επιλεγμένα τραγούδια αποθηκεύονται σε έναν εξωτερικό φάκελο. Παραχωρήστε τις απαιτούμενες άδειες για τη διαγραφή τους.</item>
@@ -125,16 +125,16 @@ total %2$d songs"</item>
         <item quantity="one">%s προβολή</item>
     </plurals>
     <plurals name="free_downloads_num_hint">
-        <item quantity="other">%d free downloads left</item>
-        <item quantity="one">Απέμειναν %d δωρεάν λήψεις</item>
+        <item quantity="other">Απέμειναν %d δωρεάν λήψεις</item>
+        <item quantity="one">Απέμεινε %d δωρεάν λήψη</item>
     </plurals>
     <plurals name="half_hour_ago">
         <item quantity="other">Μισή ώρα πριν</item>
         <item quantity="one">Μισή ώρα πριν</item>
     </plurals>
     <plurals name="hide_reason_duration">
-        <item quantity="other">Less than %1$ds</item>
-        <item quantity="one">Less than %1$ds</item>
+        <item quantity="other">Λιγότερο από %1$dδ</item>
+        <item quantity="one">Λιγότερο από %1$dδ</item>
     </plurals>
     <plurals name="in_a_hour">
         <item quantity="other">Σε 1 ώρα</item>
@@ -157,12 +157,12 @@ total %2$d songs"</item>
         <item quantity="one">Μόλις τώρα</item>
     </plurals>
     <plurals name="list_header_fans_count">
-        <item quantity="other">%d followers</item>
-        <item quantity="one">%d ακόλουθοι</item>
+        <item quantity="other">%d ακόλουθοι</item>
+        <item quantity="one">%d ακόλουθος</item>
     </plurals>
     <plurals name="list_header_follow_count">
-        <item quantity="other">Following %d people</item>
-        <item quantity="one">Ακολουθείτε %d άτομα</item>
+        <item quantity="other">Ακολουθείτε %d άτομα</item>
+        <item quantity="one">Ακολουθείτε %d άτομο</item>
     </plurals>
     <plurals name="media_store_new_songs_add">
         <item quantity="other">%d νέα τραγούδια</item>
@@ -177,56 +177,56 @@ total %2$d songs"</item>
         <item quantity="one">%d νέα ειδοποίηση</item>
     </plurals>
     <plurals name="multichoice_title">
-        <item quantity="other">%d items selected</item>
-        <item quantity="one">%d αντικείμενα επιλέχθηκαν</item>
+        <item quantity="other">Επιλέχθηκαν %d αντικείμενα</item>
+        <item quantity="one">Επιλέχθηκε %d αντικείμενο</item>
     </plurals>
     <plurals name="num_minutes_ago">
         <item quantity="other">%d λεπτά πριν</item>
         <item quantity="one">1 λεπτό πριν</item>
     </plurals>
     <plurals name="reader_count">
-        <item quantity="other">%d followers</item>
-        <item quantity="one">%d ακόλουθοι</item>
+        <item quantity="other">%d ακόλουθοι</item>
+        <item quantity="one">%d ακόλουθος</item>
     </plurals>
     <plurals name="reward_seconds_remaining">
         <item quantity="other">Συνδρομή VIP σε %d δευτερόλεπτα</item>
         <item quantity="one">Συνδρομή VIP σε %d δευτερόλεπτο</item>
     </plurals>
     <plurals name="send_songs_toast">
-        <item quantity="other">%d songs will be sent</item>
-        <item quantity="one">%d τραγούδια θα σταλούν</item>
+        <item quantity="other">Θα σταλούν %d τραγούδια</item>
+        <item quantity="one">Θα σταλεί %d τραγούδι</item>
     </plurals>
     <plurals name="skipped_online_songs_tips">
-        <item quantity="other">Skipped %d songs. Turn on online services in the settings to listen to them.</item>
-        <item quantity="one">Έγινε παράλειψη %d τραγουδιών. Ενεργοποιήστε τις online υπηρεσίες στις ρυθμίσεις για να τα ακούσετε.</item>
+        <item quantity="other">Έγινε παράλειψη %d τραγουδιών. Ενεργοποιήστε τις διαδικτυακές υπηρεσίες στις ρυθμίσεις για να τα ακούσετε.</item>
+        <item quantity="one">Έγινε παράλειψη %d τραγουδιού. Ενεργοποιήστε τις διαδικτυακές υπηρεσίες στις ρυθμίσεις για να το ακούσετε.</item>
     </plurals>
     <plurals name="song_already_favorite">
-        <item quantity="other">Songs have been favorited.</item>
-        <item quantity="one">Τα τραγούδια έχουν επισημανθεί ως αγαπημένα.</item>
+        <item quantity="other">Τα τραγούδια έχουν επισημανθεί ως αγαπημένα.</item>
+        <item quantity="one">Το τραγούδι έχει επισημανθεί ως αγαπημένο.</item>
     </plurals>
     <plurals name="songs_count">
-        <item quantity="other">%d songs</item>
-        <item quantity="one">%d τραγούδια</item>
+        <item quantity="other">%d τραγούδια</item>
+        <item quantity="one">%d τραγούδι</item>
     </plurals>
     <plurals name="sound_fade_duration_in_seconds">
-        <item quantity="other">Crossfade between songs: %d seconds</item>
-        <item quantity="one">Σταδιακό σβήσιμο μεταξύ τραγουδιών: %d δευτερόλεπτα</item>
+        <item quantity="other">Σταδιακό σβήσιμο μεταξύ τραγουδιών: %d δευτερόλεπτα</item>
+        <item quantity="one">Σταδιακό σβήσιμο μεταξύ τραγουδιών: %d δευτερόλεπτο</item>
     </plurals>
     <plurals name="task_guide">
-        <item quantity="other">Earn %1$d coins today</item>
-        <item quantity="one">Earn %1$d coin today</item>
+        <item quantity="other">Αποκτήστε %1$d νομίσματα σήμερα</item>
+        <item quantity="one">Αποκτήστε %1$d νόμισμα σήμερα</item>
     </plurals>
     <plurals name="video_count">
-        <item quantity="other">Videos</item>
+        <item quantity="other">Βίντεο</item>
         <item quantity="one">Βίντεο</item>
     </plurals>
     <plurals name="video_play_count">
-        <item quantity="other">%1$s views</item>
-        <item quantity="one">%1$s προβολές</item>
+        <item quantity="other">%1$s προβολές</item>
+        <item quantity="one">%1$s προβολή</item>
     </plurals>
     <plurals name="vip_remain_days_hint">
-        <item quantity="other">%d days remaining</item>
-        <item quantity="one">Απέμειναν %d ημέρες</item>
+        <item quantity="other">Απέμειναν %d ημέρες</item>
+        <item quantity="one">Απέμεινε %d ημέρα</item>
     </plurals>
     <plurals name="web_reward_dialog_title">
         <item quantity="other">Αν παρακολουθήσετε για %d δευτερόλεπτα, θα λάβετε μια συνδρομή VIP ως ανταμοιβή. Έξοδος ούτως ή άλλως;</item>

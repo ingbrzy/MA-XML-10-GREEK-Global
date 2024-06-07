@@ -88,6 +88,7 @@
     <string name="fast_connect_device_battery">Μπαταρία</string>
     <string name="fast_connect_device_box">Θήκη</string>
     <string name="fast_connect_device_box_name">%1$s Κουτί</string>
+    <string name="fast_connect_device_button_audio_share_fail">Κατανοητό</string>
     <string name="fast_connect_device_connect_cancel">Ακύρωση</string>
     <string name="fast_connect_device_connect_ok">Σύνδεση</string>
     <string name="fast_connect_device_connect_retry">Προσπαθήστε ξανά</string>
@@ -96,6 +97,12 @@
     <string name="fast_connect_device_headset_l">Αριστερά</string>
     <string name="fast_connect_device_headset_r">Δεξιά</string>
     <string name="fast_connect_device_headset_reset">Πατήστε παρατεταμένα το κουμπί στη θήκη</string>
+    <string name="fast_connect_device_message_audio_share">Μοιραστείτε τον ήχο αυτής της συσκευής με αυτό το ζευγάρι ακουστικών</string>
+    <string name="fast_connect_device_replace_current_device">Εναλλαγή συσκευής</string>
+    <string name="fast_connect_device_start_audio_share">Κοινοποίηση</string>
+    <string name="fast_connect_device_title_audio_share">Ακούστε μαζί με %1$s</string>
+    <string name="fast_connect_device_title_audio_share_fail">Αδυναμία σύνδεσης %1$s. Προσπάθησε ξανά.</string>
+    <string name="fast_connect_device_title_audio_share_success">Ακρόαση μαζί με %1$s</string>
     <string name="fast_connect_device_title_connect_fail">Αδυναμία σύνδεσης%1$s</string>
     <string name="fast_connect_device_title_connecting">Γίνεται σύνδεση…</string>
     <string name="fast_connect_device_title_find_headset">Εύρεση %1$s</string>

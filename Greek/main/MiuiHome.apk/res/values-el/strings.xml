@@ -205,7 +205,7 @@
     <string name="clearable_edittext_clear_description">Εκκαθάριση</string>
     <string name="close">Κλείσιμο</string>
     <string name="cloud_app_restore_title">Προς διεκπεραίωση</string>
-    <string name="color_group">Ομαδοποιήστε εικονίδια κατά χρώμα</string>
+    <string name="color_group">Ομαδοποίηση εικονιδίων ανά χρώμα</string>
     <string name="color_group_anim">Κατηγορίες εφέ κίνησης με χρώματα</string>
     <string name="common_google_play_services_unknown_issue">Η εφαρμογή %1$s αντιμετωπίζει κάποιο πρόβλημα με τις υπηρεσίες Google Play. Προσπαθήστε ξανά.</string>
     <string name="common_home_search_delete">Γίνεται κατάργηση της γραμμής αναζήτησης</string>
@@ -271,7 +271,7 @@
     <string name="exposed_dropdown_menu_content_description">Εμφάνιση αναπτυσσόμενου μενού</string>
     <string name="failed_to_delete_temporary">Αδυναμία αφαίρεσης</string>
     <string name="failed_to_drop_widget_invalid">Το γραφικό στοιχείο δεν είναι έγκυρο</string>
-    <string name="find_app_by_color">Ομαδοποιήστε εικονίδια κατά χρώμα για να βρείτε εφαρμογές γρηγορότερα</string>
+    <string name="find_app_by_color">Ομαδοποίηση εικονιδίων ανά χρώμα για να βρείτε εφαρμογές γρηγορότερα</string>
     <string name="fmt_chinese_date">N月e</string>
     <string name="fmt_date">D</string>
     <string name="fmt_date_day">d</string>
@@ -353,6 +353,7 @@
     <string name="gadget_search_label">Αναζήτηση</string>
     <string name="gadget_weather_title">Καιρός</string>
     <string name="global_search">Αναζήτηση</string>
+    <string name="global_shelf">Εύρεση εφαρμογής</string>
     <string name="got_it_botton">Κατάλαβα</string>
     <string name="guide_install_app_msg">Η εφαρμογή δεν έχει εγκατασταθεί στην συσκευή σας. Αναζήτηση και εγκατάσταση της εφαρμογής τώρα;</string>
     <string name="guide_install_app_title">Αναζήτηση και εγκατάσταση εφαρμογής;</string>
@@ -360,6 +361,7 @@
     <string name="guide_privacy_dialog_title">Όροι Υπηρεσίας</string>
     <string name="home_gesture_content_center">Κέντρο Περιεχομένων</string>
     <string name="home_gesture_global_search">Αναζήτηση</string>
+    <string name="home_gesture_global_shelf">Εύρεση εφαρμογής</string>
     <string name="home_gesture_no_action">Τίποτα</string>
     <string name="home_gesture_notification_and_control_center">Μπάρα ειδοποιήσεων και Κέντρο ελέγχου</string>
     <string name="home_gesture_notification_bar">Ειδοποιήσεις</string>
@@ -378,7 +380,7 @@
     <string name="international_home_pull_down_sub_content">Μπορείτε να αλλάξετε αυτήν την κίνηση για να ανοίξετε το Κέντρο ελέγχου στις Ρυθμίσεις > Αρχική οθόνη > Σύρετε προς τα κάτω στην Αρχική οθόνη.</string>
     <string name="international_home_pull_down_up_btn_get">Κατανοητό</string>
     <string name="international_home_pull_up_content">Σύρετε προς τα επάνω στην Αρχική οθόνη για άνοιγμα Κέντρου Περιεχομένου.</string>
-    <string name="international_home_pull_up_sub_content">Για να ανοίξετε την αναζήτηση, σύρετε προς τα κάτω από το κέντρο της Αρχικής οθόνης σας.</string>
+    <string name="international_home_pull_up_sub_content">Για να βρείτε εφαρμογές και προτάσεις εφαρμογών, σύρετε προς τα κάτω από το κέντρο της Αρχικής οθόνης σας.</string>
     <string name="item_view_role_description">Καρτέλα</string>
     <string name="jeejen_description">"Μεγαλύτερα στοιχεία διεπαφής χρήστη.
 Πιο προσβάσιμες κλήσεις.
@@ -443,7 +445,7 @@
     <string name="mi_wallpaper">MIUI Θέματα</string>
     <string name="midnight">Νύχτα</string>
     <string name="minus_one_screen">Αποθήκη εφαρμογών</string>
-    <string name="miui_screen_config_title">Ρυθμίσεις Αρχικής οθόνης</string>
+    <string name="miui_screen_config_title">Διάταξη Αρχικής οθόνης</string>
     <string name="miui_setting_config_title">Ρυθμίσεις Αρχικής οθόνης</string>
     <string name="miui_widget_menu_replace_text">Αντικατάσταση</string>
     <string name="miui_widget_toast_for_not_support_by_pa">Η Αποθήκη εφαρμογών δεν υποστηρίζει γραφικά στοιχεία αυτού του μεγέθους</string>
@@ -519,6 +521,7 @@
     <string name="mtrl_picker_a11y_next_month">Αλλαγή στον επόμενο μήνα</string>
     <string name="mtrl_picker_a11y_prev_month">Αλλαγή στον προηγούμενο μήνα</string>
     <string name="mtrl_picker_announce_current_selection">Τρέχουσα επιλογή: %1$s</string>
+    <string name="mtrl_picker_confirm">@android:string/ok</string>
     <string name="mtrl_picker_date_header_selected">%1$s</string>
     <string name="mtrl_picker_date_header_title">Επιλογή ημερομηνίας</string>
     <string name="mtrl_picker_date_header_unselected">Επιλεγμένη ημερομηνία</string>
@@ -648,8 +651,9 @@
     <string name="recent_menu_item_info">Πληροφορίες</string>
     <string name="recent_menu_item_lock">Κλείδωμα</string>
     <string name="recent_menu_item_unlock">Ξεκλείδωμα</string>
-    <string name="recent_menu_item_worldcirculate">应用流转</string>
-    <string name="recent_menu_item_worldcirculate_disable">应用无法流转</string>
+    <string name="recent_menu_item_worldcirculate">Μεταφορά εργασιών εφαρμογών</string>
+    <string name="recent_menu_item_worldcirculate_disable">Αδυναμία μεταφοράς εργασιών εφαρμογών σε συνδεδεμένες συσκευές</string>
+    <string name="recent_pin_text">Καρφίτσωμα</string>
     <string name="recents_app_info_button_label">Πληροφορίες εφαρμογής</string>
     <string name="recents_config_title">Πρόσφατα</string>
     <string name="recents_dimiss_task">Εκκαθάριση</string>
@@ -731,6 +735,7 @@
     <string name="small_window">Αναδυόμενο παράθυρο</string>
     <string name="start_activity_failed">Αδυναμία έναρξης εκκινητή</string>
     <string name="start_new_window">Νέο παράθυρο</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
     <string name="status_bar_recent_memory_giga">%1$s GB</string>
     <string name="status_bar_recent_memory_info1">%1$s από %2$s διαθέσιμα</string>
     <string name="status_bar_recent_memory_info2" />
@@ -748,8 +753,10 @@
     <string name="switch_personal_assistant_app_vault">Αποθήκη εφαρμογών</string>
     <string name="switch_personal_assistant_google">Google Discover</string>
     <string name="switch_personal_assistant_none">Καμία</string>
+    <string name="switch_personal_assistant_summary">Σύρετε προς τα δεξιά στην Αρχική οθόνη για να ανοίξετε το Google Discover</string>
     <string name="switch_screen_button_order">Αντικατοπτρισμός κουμπιών</string>
     <string name="switch_screen_button_order_desc">Αντικατοπτρισμός κουμπιών Πίσω και Μενού</string>
+    <string name="system_sdk_disabled_toast">SDK συστήματος ανενεργό. Ενεργοποιήστε το πρώτα.</string>
     <string name="system_shortcuts_edit">Επεξεργασία</string>
     <string name="system_shortcuts_icon_remove">Αφαίρεση</string>
     <string name="system_shortcuts_more_operation">Πληροφορίες εφαρμογής</string>

@@ -101,13 +101,13 @@
     </string-array>
     <string-array name="settings_search_relay_app">
         <item>Μεταβίβαση εφαρμογής</item>
-        <item>Διασυνδεσιμότητα/Μεταβίβαση εφαρμογής</item>
+        <item>Διασυνδεσιμότητα/Εφαρμογές</item>
         <item>Μεταφορά εφαρμογών, μεταβίβαση, μεταφορά</item>
     </string-array>
     <string-array name="settings_search_relay_call">
-        <item>Κλήσεις</item>
-        <item>Διασυνδεσιμότητα/Κλήσεις</item>
-        <item>Κλήσεις</item>
+        <item>Call sync</item>
+        <item>Interconnectivity/Call sync</item>
+        <item>Call sync, cross-device calls, call handoff, calls</item>
     </string-array>
     <string-array name="settings_search_relay_network">
         <item>Βοήθεια δικτύου</item>

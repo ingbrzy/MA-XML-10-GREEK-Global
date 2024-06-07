@@ -343,6 +343,9 @@
     <string name="app_manager_copy_pkg_to_clip">Αντιγράφηκε στο πρόχειρο</string>
     <string name="app_manager_data_size">Δεδομένα χρήστη</string>
     <string name="app_manager_default_cleared">Έγινε εκκαθάριση</string>
+    <string name="app_manager_default_close_summary">Δεν ορίστηκαν προεπιλογές.</string>
+    <string name="app_manager_default_open_summary">Έχετε επιλέξει να εκκινήσετε αυτήν την εφαρμογή από προεπιλογή για ορισμένες ενέργειες.</string>
+    <string name="app_manager_default_open_title">Εκκαθάριση προεπιλογών</string>
     <string name="app_manager_defaults_setting">Προεπιλεγμένες εφαρμογές</string>
     <string name="app_manager_details_electric_title">Μπαταρία</string>
     <string name="app_manager_details_storage_title">Χώρος αποθήκευσης</string>
@@ -968,6 +971,7 @@
     <string name="card_main_private_space_summary">Η χρήση Δεύτερου χώρου είναι σαν να έχετε δύο συσκευές</string>
     <string name="card_main_private_space_title">Δεύτερος χώρος</string>
     <string name="card_main_sectool_title">Εργαλεία</string>
+    <string name="card_main_speeddetail_action">@string/card_main_monthreport_action</string>
     <string name="card_main_video_manage_title">Διαχείριση βίντεο</string>
     <string name="card_main_whatsappclean_title">Εκκαθάριση WhatsApp</string>
     <string name="card_main_xspace_action">Δημιουργία</string>
@@ -1339,6 +1343,7 @@
     <string name="dynamic_performance_optimization_title">Δυναμική απόδοση</string>
     <string name="early_morning">Πρωί</string>
     <string name="edit_phone_num">Εισαγωγή αριθμού τηλεφώνου SIM</string>
+    <string name="ellipsis">…</string>
     <string name="email">Email</string>
     <string name="empty" />
     <string name="empty_app">Δεν υπάρχουν εφαρμογές</string>
@@ -1416,7 +1421,9 @@
     <string name="exo_download_paused_for_wifi">Οι λήψεις είναι σε αναμονή για Wi-Fi.</string>
     <string name="exo_download_removing">Κατάργηση λήψεων</string>
     <string name="exo_item_list">%1$s, %2$s</string>
+    <string name="exo_track_bitrate">%1$.2f Mbps</string>
     <string name="exo_track_mono">Μονοφωνικό</string>
+    <string name="exo_track_resolution">%1$d × %2$d</string>
     <string name="exo_track_role_alternate">Εναλλακτικό</string>
     <string name="exo_track_role_closed_captions">Υπότιτλοι</string>
     <string name="exo_track_role_commentary">Σχολιασμός</string>
@@ -1603,6 +1610,7 @@
     <string name="fod_finger_notice_title">Τοποθετήστε το δάκτυλο σας στην οθόνη</string>
     <string name="fod_finger_windows_tips">Επαληθεύστε το δακτυλικό σας αποτύπωμα</string>
     <string name="fod_tips_split_screen_more_than_half">Εισαγωγή κωδικού πρόσβασης</string>
+    <string name="fold_application_mode_name">Διατάξεις εφαρμογών</string>
     <string name="forbid_autobright_summary">Η αυτόματη φωτεινότητα θα απενεργοποιηθεί ενώ παίζετε και θα επανέλθει αφού τελειώσετε</string>
     <string name="forbid_autobright_title">Ρύθμιση φωτεινότητας οθόνης</string>
     <string name="foreground_traffic">Προσκήνιο %s</string>
@@ -2601,6 +2609,7 @@ to join our egg hunt!"</string>
     <string name="menu_text_license_manager">Άδειες</string>
     <string name="menu_text_networkassistants">Χρήση δεδομένων</string>
     <string name="menu_text_networkassistants_danger">%s παραπάνω</string>
+    <string name="menu_text_networkassistants_data">%1$s%2$s</string>
     <string name="menu_text_networkassistants_remain">%s απέμειναν</string>
     <string name="menu_text_networkassistants_unit_b">B</string>
     <string name="menu_text_networkassistants_unit_gb">GB</string>
@@ -2609,6 +2618,7 @@ to join our egg hunt!"</string>
     <string name="menu_text_optimize_manage">Ενίσχυση ταχύτητας</string>
     <string name="menu_text_optimize_manage_1">Ενίσχυση ταχύτητας</string>
     <string name="menu_text_power_manager">Μπαταρία</string>
+    <string name="menu_text_power_percent_title">%s</string>
     <string name="menu_wh_remove">Αφαίρεση από εξαιρέσεις</string>
     <string name="menu_white">Προσθήκη στις εξαιρέσεις</string>
     <string name="mi_ime_not_used">Χρησιμοποιήστε ένα πληκτρολόγιο εξουσιοδοτημένο από τη Xiaomi</string>
@@ -2717,6 +2727,7 @@ to join our egg hunt!"</string>
     <string name="mtrl_picker_a11y_next_month">Αλλαγή στον επόμενο μήνα</string>
     <string name="mtrl_picker_a11y_prev_month">Αλλαγή στον προηγούμενο μήνα</string>
     <string name="mtrl_picker_announce_current_selection">Τρέχουσα επιλογή: %1$s</string>
+    <string name="mtrl_picker_confirm">@android:string/ok</string>
     <string name="mtrl_picker_date_header_selected">%1$s</string>
     <string name="mtrl_picker_date_header_title">Επιλογή ημερομηνίας</string>
     <string name="mtrl_picker_date_header_unselected">Επιλεγμένη ημερομηνία</string>
@@ -3248,7 +3259,7 @@ to join our egg hunt!"</string>
     <string name="pc_wireless_charging_special_stand_summary2">Εγκαταστήστε τη συσκευή σας στη βάση που του ασύρματου φορτιστή σας για βέλτιστη απόδοση φόρτισης</string>
     <string name="pc_wireless_charging_special_stand_title">Χρησιμοποιήστε την παρεχόμενη βάση φόρτισης</string>
     <string name="pc_wireless_handle_connected">Η συσκευή συνδέθηκε</string>
-    <string name="pc_wireless_handle_title">Ασύρματη λαβή κάμερας</string>
+    <string name="pc_wireless_handle_title">Λαβή κάμερας</string>
     <string name="pc_work_in_save_mode">Εξοικονόμηση μπαταρίας</string>
     <string name="pc_work_in_super_save_mode">Εξαιρετική εξοικονόμηση μπαταρίας</string>
     <string name="pc_xiaoai_create_auto_task">Νέα εργασία από το Mi AI</string>
@@ -3428,7 +3439,7 @@ to join our egg hunt!"</string>
     <string name="pm_remember_choice">Απομνημόνευση της επιλογής μου</string>
     <string name="pm_root_success_notification_infomation">Βεβαιωθείτε πως έχετε καταλάβει τους κινδύνους σχετικά με την πρόσβαση Root</string>
     <string name="pm_root_success_notification_title">Έγινε αποδοχή πρόσβασης Root</string>
-    <string name="popular_action_anti_spam_title_global">Αποκλεισμός κλήσεων και μηνυμάτων</string>
+    <string name="popular_action_anti_spam_title_global">Block spam calls</string>
     <string name="popular_action_app_lock_title_global">Προστατέψτε εφαρμογές με το Κλείδωμα εφαρμογής</string>
     <string name="popular_action_card_title">Δημοφιλή χαρακτηριστικά</string>
     <string name="popular_action_first_aid_title_global">Για νέους χρήστες</string>
@@ -3484,6 +3495,11 @@ to join our egg hunt!"</string>
     <string name="power_center_dialog_msg_top">Όταν η Εξοικονόμηση μπαταρίας είναι ενεργοποιημένη, θα εκτελεστούν οι ακόλουθες βελτιστοποιήσεις:</string>
     <string name="power_center_hints_scan_danger_result">Μπορείτε να διορθώσετε τα προβλήματα μπαταρίας τώρα</string>
     <string name="power_center_list_item_auto_brightness">Αυτόματη προσαρμογή φωτεινότητας οθόνης</string>
+    <string name="power_center_list_item_battery_health_model_temperature">%d ℃</string>
+    <string name="power_center_list_item_battery_health_model_voltage">%s V</string>
+    <string name="power_center_list_item_battery_health_model_volume">%s mAh</string>
+    <string name="power_center_list_item_battery_status_capacity">mAh</string>
+    <string name="power_center_list_item_battery_status_temperature">℃</string>
     <string name="power_center_list_item_battery_status_time">h</string>
     <string name="power_center_list_item_close_bluetooth">Απενεργοποίηση Bluetooth</string>
     <string name="power_center_list_item_deep_save_title">Σύνθετες ρυθμίσεις</string>
@@ -3796,6 +3812,7 @@ to join our egg hunt!"</string>
     <string name="pref_normal_traffic_limit">Όταν το πλάνο δεδομένων εξαντληθεί</string>
     <string name="pref_open_adjust_traffic">Ενημέρωση χρήσης δεδομένων κάθε ημέρα με την χρήση στατιστικών από τον πάροχό σας</string>
     <string name="pref_operator_not_set">Ο πάροχος δεν ορίστηκε</string>
+    <string name="pref_operator_setting">%1$s%2$s</string>
     <string name="pref_over_traffic_limit">Όταν υπερβείτε το πλάνο δεδομένων σας</string>
     <string name="pref_package_traffic_settings">Πλάνο δεδομένων</string>
     <string name="pref_pkg_begin_date">Ημερομηνία επαναφοράς χρήσης</string>
@@ -4095,6 +4112,7 @@ to join our egg hunt!"</string>
     <string name="privacy_using_record">Γίνεται εγγραφή ήχου</string>
     <string name="privacyapp_number_masked_text">Το περιεχόμενο ειδοποίησης είναι κρυφό</string>
     <string name="privacyapp_number_unmasked_text">Δεν είναι δυνατή η απόκρυψη περεχομένου</string>
+    <string name="process_kernel_label">Android</string>
     <string name="process_mediaserver_label">Διακομιστής πολυμέσων</string>
     <string name="process_vpnsdkmanager_label">Τούρμπο παιχνιδιού</string>
     <string name="promotion">Διαφήμηση</string>
@@ -5330,12 +5348,12 @@ to join our egg hunt!"</string>
     <string name="vb_video_effects_spatial_summary_new">Απολαύστε βελτιωμένη αίσθηση χώρου και κατεύθυνσης για υποστηριζόμενο ήχο όταν χρησιμοποιείτε ακουστικά headphones</string>
     <string name="vb_video_effects_srs_premium_sound">Ήχος</string>
     <string name="vb_video_super_division">Αύξηση ανάλυσης</string>
-    <string name="vb_video_super_division_desc">"Αυτόματη αύξηση ανάλυσης όταν είναι ≤720p.
+    <string name="vb_video_super_division_desc">"Αυτόματη αναβάθμιση ποιότητας ανάλυσης όταν είναι ≤720P.
 
 Η χρήση αυτής της δυνατότητας αυξάνει την κατανάλωση ενέργειας.
 
-Αυτή η λειτουργία δεν λειτουργεί με εξομάλυνση κίνησης.
-Αν ενεργοποιήσετε μία από τις λειτουργίες θα απενεργοποιηθεί η άλλη."</string>
+Αυτή η δυνατότητα δεν λειτουργεί με την εξομάλυνση κίνησης.
+Αν ενεργοποιήσετε μία από τις δυνατότητες θα απενεργοποιηθεί η άλλη."</string>
     <string name="vb_video_super_division_tips">"Δεν είναι αρκετά σαφές;
 Δοκιμάστε την αναβάθμιση της ανάλυσης!"</string>
     <string name="vb_vison_dynamic_enhance_close_toast">Ενισχυμένα κινούμενα σχέδια ανενεργά</string>
@@ -5380,6 +5398,7 @@ to join our egg hunt!"</string>
     <string name="virus_update_tips_title">Προειδοποίηση</string>
     <string name="virus_wait_network_dialog_message">Το τηλέφωνο σας δεν είναι συνδεδεδμένο σε Wi-Fi τώρα. Χρήση δεδομένων κινητής;</string>
     <string name="vtb_ai_subtitle">Υπότιτλοι</string>
+    <string name="vtb_ai_subtitle_intl">Υπότιτλοι AI</string>
     <string name="vtb_func_desc">Σχετικά με αυτή τη λειτουργία</string>
     <string name="vtb_func_display_style_desc0">Το AI μπορεί να αναγνωρίσει ανθρώπους, ζώα, φυτά, ουρανό, κτίρια και άλλα αντικείμενα που εμφανίζονται σε βίντεο και να τα ενισχύσει δυναμικά.</string>
     <string name="vtb_func_display_style_desc1">Τα επιλεγμένα εφέ δεν θα εφαρμοστούν σε βίντεο HDR σε επιλεγμένες συσκευές.</string>

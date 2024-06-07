@@ -79,39 +79,57 @@
         <item>Ω</item>
         <item>\#</item>
     </string-array>
-    <string-array name="attachment_chooser">
-        <item>Κάμερα</item>
-        <item>Συλλογή</item>
-    </string-array>
-    <string-array name="big_screen_layouts">
-        <item>@string/setting_big_screen_layout_columns</item>
-        <item>@string/setting_big_screen_layout_flat</item>
-    </string-array>
     <string-array name="contact_entries">
         <item>Όνομα</item>
         <item>Ψευδώνυμο</item>
         <item>Τηλέφωνο</item>
-        <item>E-mail</item>
-        <item>Εταιρία</item>
+        <item>Email</item>
+        <item>Οργάνωση</item>
         <item>IM</item>
         <item>Τηλέφωνο SIP</item>
         <item>Γενέθλια</item>
         <item>Ιστοσελίδα</item>
         <item>Διεύθυνση</item>
         <item>Σημείωση</item>
+        <item>Σχέση</item>
     </string-array>
-    <string-array name="font_size_names">
-        <item>Μικρή</item>
-        <item>Μέτρια</item>
-        <item>Μεγάλη</item>
-        <item>Τεράστια</item>
+    <string-array name="dialog_choice_specific_correct_as_normal">
+        <item>Προωθητικά μηνύματα από %s</item>
+        <item>Μηνύματα υπηρεσίας παρόχου από %s</item>
+        <item>Οικονομικά μηνύματα από %s</item>
     </string-array>
-    <string-array name="note_sort_way">
-        <item>Κατά ημερομηνία δημιουργίας</item>
-        <item>Κατά ημερομηνία τροποποίησης</item>
+    <string-array name="entries_mms_validity_period">
+        <item>Μέγιστη</item>
+        <item>2 ημέρες</item>
     </string-array>
-    <string-array name="setting_phone_note_layout_way">
-        <item>@string/action_mode_switcher_list_description</item>
-        <item>@string/action_mode_switcher_grid_description</item>
+    <string-array name="entries_pref_key_voice_report">
+        <item>@string/voice_report_wiredon</item>
+        <item>@string/voice_report_anytime</item>
+        <item>@string/voice_report_off</item>
+    </string-array>
+    <string-array name="entries_sms_validity_period">
+        <item>Δεν έχει οριστεί</item>
+        <item>1 ώρα</item>
+        <item>6 ώρες</item>
+        <item>12 ώρες</item>
+        <item>1 ημέρα</item>
+        <item>Μέγιστη</item>
+    </string-array>
+    <string-array name="prefEntries_vibrateWhen">
+        <item>Πάντα</item>
+        <item>Μόνο κατά τη Λειτουργία αθόρυβου</item>
+        <item>Ποτέ</item>
+    </string-array>
+    <string-array name="resent_via_entries_mms">
+        <item>SMS</item>
+        <item>Mi Μηνύματα</item>
+    </string-array>
+    <string-array name="resent_via_entries_sms">
+        <item>SMS</item>
+        <item>Mi Μηνύματα</item>
+    </string-array>
+    <string-array name="switch_sdk">
+        <item>Mi Μηνύματα</item>
+        <item>CMCC Έξυπνο SMS</item>
     </string-array>
 </resources>

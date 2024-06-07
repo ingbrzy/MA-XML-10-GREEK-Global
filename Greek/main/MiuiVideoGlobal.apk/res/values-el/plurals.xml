@@ -52,10 +52,6 @@
         <item quantity="other">Μετάβαση προς τα πίσω κατά %d δευτερόλεπτα</item>
         <item quantity="one">Μετάβαση προς τα πίσω κατά %d δευτερόλεπτο</item>
     </plurals>
-    <plurals name="feed_back_home">
-        <item quantity="other">Επιστροφή στην αρχική σελίδα σε %1$d δευτερόλεπτα…</item>
-        <item quantity="one">Επιστροφή στην αρχική σελίδα σε %1$d δευτερόλεπτο…</item>
-    </plurals>
     <plurals name="half_hour_ago">
         <item quantity="other">Μισή ώρα πριν</item>
         <item quantity="one">Μισή ώρα πριν</item>

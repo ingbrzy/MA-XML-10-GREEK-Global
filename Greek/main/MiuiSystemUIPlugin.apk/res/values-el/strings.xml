@@ -188,7 +188,7 @@
     <string name="kddi_miui_toast_zen_standard_to_off">Η Λειτουργία αθόρυβου είναι τώρα απενεργοποιημένη. Οι κλήσεις και οι ειδοποιήσεις δεν θα σιγήσουν.</string>
     <string name="kddi_miui_toast_zen_to_standard">Έγινε εναλλαγή σε Λειτουργία αθόρυβου. Οι κλήσεις και οι ειδοποιήσεις τώρα θα σιγήσουν.</string>
     <string name="loading">Άγνωστη κατάσταση</string>
-    <string name="mi_smart_hub_entry_title">Mi Smart Hub</string>
+    <string name="mi_smart_hub_entry_title">Xiaomi Smart Hub</string>
     <string name="midnight">Νύχτα</string>
     <string name="miplay_accessibility_cast">Επιλογή συσκευής</string>
     <string name="miplay_accessibility_cover">Εξώφυλλο</string>
@@ -201,6 +201,8 @@
     <string name="miplay_bluetooth_share_des_text">"Χρήστες ακουστικών earbuds Xiaomi: ανοίξτε τη θήκη φόρτισης ή πατήστε παρατεταμένα το κουμπί θήκης για %dδ
 Χρήστες μη-ακουστικών earbuds Xiaomi: επαναφέρετε τα ακουστικά σας στις ρυθμίσεις Bluetooth και, στη συνέχεια, συνδεθείτε"</string>
     <string name="miplay_bluetooth_share_headphone_pairing">Προσθέστε ακουστικά για κοινή χρήση ήχου</string>
+    <string name="miplay_bluetooth_share_music_cancel_btn_content_des">Ολοκληρώθηκε η κοινή χρήση ήχου</string>
+    <string name="miplay_bluetooth_share_music_together_btn_content_des">Προσθέστε ακουστικά για κοινή χρήση ήχου</string>
     <string name="miplay_bluetooth_share_subTitle_text">Μοιραστείτε τον ήχο της συσκευής με άλλο άτομο</string>
     <string name="miplay_bluetooth_share_title_text">Κοινοποίηση ήχου</string>
     <string name="miplay_detail_divider_title">Ηχεία</string>

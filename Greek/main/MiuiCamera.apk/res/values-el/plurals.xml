@@ -37,8 +37,8 @@
         <item quantity="one">1 λεπτό πριν</item>
     </plurals>
     <plurals name="accessibility_auto_night_tip">
-        <item quantity="other">%d-second timer for Night mode</item>
-        <item quantity="one">%d-second timer for Night mode</item>
+        <item quantity="other">Χρονοδιακόπτης %d δευτερολέπτων για Λειτουργία νύχτας</item>
+        <item quantity="one">Χρονοδιακόπτης %d δευτερολέπτου για Λειτουργία νύχτας</item>
     </plurals>
     <plurals name="accessibility_focus_face_detect">
         <item quantity="other">Έγινε εστίαση. %d πρόσωπα εντοπίστηκαν</item>
@@ -55,14 +55,6 @@
     <plurals name="accessibility_vv_duartion">
         <item quantity="other">Διάρκεια: %d δευτερόλεπτα</item>
         <item quantity="one">Διάρκεια: %d δευτερόλεπτο</item>
-    </plurals>
-    <plurals name="cinemaster_toast_camera_overflow">
-        <item quantity="other">Μπορείτε να συνδέσετε έως και %d κάμερες στο ίδιο δίκτυο</item>
-        <item quantity="one">Μπορείτε να συνδέσετε έως και %d κάμερα στο ίδιο δίκτυο</item>
-    </plurals>
-    <plurals name="cinemaster_toast_monitor_overflow">
-        <item quantity="other">Μπορείτε να συνδέσετε έως και %d οθόνες στο ίδιο δίκτυο</item>
-        <item quantity="one">Μπορείτε να συνδέσετε έως και %d οθόνη στο ίδιο δίκτυο</item>
     </plurals>
     <plurals name="clone_guide_tip2">
         <item quantity="other">Μπορείτε να δημιουργήστε έως %d κλώνους τη φορά.</item>
@@ -87,10 +79,6 @@
     <plurals name="fastmotion_pro_sec_unit">
         <item quantity="other">%1$d δευ</item>
         <item quantity="one">%1$d δευ</item>
-    </plurals>
-    <plurals name="friend_mode_display_first_dialog">
-        <item quantity="other">Ενεργοποιημένος χρονοδιακόπτης (%1$d δευ). Οι φωτογραφίες θα μεταφερθούν σε αυτήν τη συσκευή.</item>
-        <item quantity="one">Ενεργοποιημένος χρονοδιακόπτης (%1$d δευ). Οι φωτογραφίες θα μεταφερθούν σε αυτήν τη συσκευή.</item>
     </plurals>
     <plurals name="half_hour_ago">
         <item quantity="other">Μισή ώρα πριν</item>
@@ -127,10 +115,6 @@
     <plurals name="num_minutes_ago">
         <item quantity="other">%d λεπτά πριν</item>
         <item quantity="one">1 λεπτό πριν</item>
-    </plurals>
-    <plurals name="number_unit_seconds_split">
-        <item quantity="other">%dδ</item>
-        <item quantity="one">%dδ</item>
     </plurals>
     <plurals name="pad_ccc_temperature_warning_msg">
         <item quantity="other">Η συσκευή σας έχει ζεσταθεί υπερβολικά. Η Κάμερα θα κλείσει σε %d δευτερόλεπτα. Οι φωτογραφίες και τα βίντεο θα αποθηκευτούν αυτόματα.</item>

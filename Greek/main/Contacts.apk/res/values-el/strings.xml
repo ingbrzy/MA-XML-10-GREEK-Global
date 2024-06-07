@@ -184,7 +184,7 @@
 %2$s"</string>
     <string name="comma">Κόμμα</string>
     <string name="composer_failed_to_get_database_infomation">Αδυναμία ανάκτησης πληροφοριών από τη βάση δεδομένων.</string>
-    <string name="composer_has_no_exportable_contact">Δεν υπάρχουν επαφές με δυνατότητα εξαγωγής. Αν έχετε επαφές στην συσκευή σας, ορισμένοι πάροχοι δεδομένων ενδέχεται να μην επιτρέπουν τις επαφές αυτές να εξαχθούν από την συσκευή.</string>
+    <string name="composer_has_no_exportable_contact">Δεν υπάρχουν επαφές με δυνατότητα εξαγωγής. Αν έχετε επαφές στη συσκευή σας, ορισμένοι πάροχοι δεδομένων ενδέχεται να μην επιτρέπουν στις επαφές αυτές να εξαχθούν από τη συσκευή.</string>
     <string name="composer_not_initialized">Δεν έγινε σωστή εκκίνηση του συθέτη vCard.</string>
     <string name="conference_call_disable_tip">Αδυναμία πραγματοποίησης κλήσεων. Βεβαιωθείτε ότι η συσκευή σας είναι συνδεδεμένη σε δίκτυο 4G με υποστήριξη VoLTE.</string>
     <string name="confirm_delete_contact_all_call_logs">Εκκαθάριση όλου του ιστορικού %s;</string>
@@ -474,6 +474,7 @@
     <string name="friday">Παρασκευή</string>
     <string name="friday_short">Παρ</string>
     <string name="friday_shortest">Παρ</string>
+    <string name="from_account_format">%1$s</string>
     <string name="full_name">Όνομα</string>
     <string name="gallery">Συλλογή</string>
     <string name="ghostData_company">Εταιρία</string>
@@ -607,6 +608,7 @@
     <string name="menu_sync_remove">Αφαίρεση ομάδας συγχρονισμού</string>
     <string name="midnight">Νύχτα</string>
     <string name="miprofile_account_type">Kαρτέλες επαφών</string>
+    <string name="miprofile_delete_alertdialog_message">@string/miprofile_switch_off_alertdialog_message</string>
     <string name="miprofile_edit_title">Επεξεργασία προφίλ</string>
     <string name="miprofile_name">Το προφίλ μου</string>
     <string name="miprofile_nick_name_divider">"  |  "</string>
@@ -772,6 +774,7 @@
     <string name="permission_retry_dialog_msg_pad">Για να μπορείτε να χρησιμοποιείτε την κάρτα SIM σας με αυτήν την εφαρμογή και να διαχειρίζεστε τις επαφές σας, επιτρέψτε σε αυτήν την εφαρμογή να έχει πρόσβαση και να επεξεργάζεται τις επαφές σας, καθώς και να έχει πρόσβαση στις πληροφορίες της συσκευής.</string>
     <string name="permission_retry_setting">Ρυθμίσεις</string>
     <string name="phoneLabelsGroup">Τηλέφωνο</string>
+    <string name="phone_info_divider">" ｜ "</string>
     <string name="phone_number_too_long_toast">Ο αριθμός είναι πολύ μακρύς</string>
     <string name="phone_primary">Κύριο</string>
     <string name="photoPickerNotFoundText">Δεν υπάρχουν διαθέσιμες φωτογραφίες στην συσκευή.</string>
@@ -1003,6 +1006,7 @@
     <string name="sina_weibo">Sina Weibo</string>
     <string name="single_group_list_empty">Δεν υπάρχουν μέλη ομάδας</string>
     <string name="six_letter">ΜΝΟ</string>
+    <string name="smart_group_action_bar_title">%1$s: %2$s (%3$s)</string>
     <string name="smart_group_company_label">Εταιρίες</string>
     <string name="smart_group_company_unavailable">Δεν υπάρχουν πληροφορίες εταιρίας</string>
     <string name="smart_group_frequency_1">Εντός του περασμένου μήνα</string>
@@ -1044,6 +1048,7 @@
     <string name="starred_contacts">Αγαπημένα</string>
     <string name="status_available">Διαθέσιμη</string>
     <string name="status_away">Μη διαθέσιμη</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
     <string name="status_busy">Απασχολημένη</string>
     <string name="strequentList">Αγαπημένες</string>
     <string name="success_message_import_from_account">Επαφή εισήχθη</string>

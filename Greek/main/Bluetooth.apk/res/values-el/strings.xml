@@ -56,6 +56,9 @@
     <string name="bluetooth_sap_notif_message">Αίτημα εφαρμογής-πελάτη για αποσύνδεση;</string>
     <string name="bluetooth_sap_notif_ticker">Πρόσβαση SIM Bluetooth</string>
     <string name="bluetooth_sap_notif_title">Πρόσβαση SIM Bluetooth</string>
+    <string name="bt_Auracast_audio_share_notification_content">Πατήστε για προβολή λεπτομερειών</string>
+    <string name="bt_Auracast_audio_share_notification_title">Μετάδοση ήχου από αυτήν τη συσκευή…</string>
+    <string name="bt_audio_share_assistant_notification_title">Λήψη μετάδοσης από μια κοντινή συσκευή…</string>
     <string name="bt_audio_share_notification_content">Αγγίξτε για προβολή επιλογών</string>
     <string name="bt_audio_share_notification_title">Κοινή χρήση ήχου</string>
     <string name="bt_enable_cancel">Ακύρωση</string>
@@ -84,6 +87,7 @@
     <string name="call_notification_screening_text">Διαλογή εισερχόμενης κλήσης</string>
     <string name="clearable_edittext_clear_description">Εκκαθάριση</string>
     <string name="close">Κλείσιμο</string>
+    <string name="close_broadcast_audio">Διακοπή</string>
     <string name="date_picker_label_day" />
     <string name="date_picker_label_month" />
     <string name="date_picker_label_year" />
@@ -259,6 +263,7 @@
     <string name="not_exist_file">Κανένα αρχείο</string>
     <string name="not_exist_file_desc">"Το αρχείο δεν υπάρχει. 
 "</string>
+    <string name="notice_audio_share_classic_disconnected">Διακόπηκε η κοινοποίηση ήχου</string>
     <string name="notice_audio_share_disconnected">Δεν γίνεται πλέον κοινή χρήση ήχου λόγω διακοπής της σύνδεσης</string>
     <string name="notification_received">Μοιραστείτε μέσω Bluetooth: Ελήφθη το %1$s</string>
     <string name="notification_received_fail">Μοιραστείτε μέσω Bluetooth: Το αρχείο %1$s δεν ελήφθη</string>
@@ -272,7 +277,9 @@
     <string name="opp_notification_group">Μοιραστείτε μέσω Bluetooth</string>
     <string name="outbound_history_title">Εξερχόμενες μεταφορές</string>
     <string name="outbound_noti_title">Κοινή χρήση Bluetooth: Απεσταλμένα αρχεία</string>
+    <string name="pairing_ui_package">com.android.settings</string>
     <string name="pbap_acceptance_timeout_message">Υπήρχε χρονικό όριο για την αποδοχή της σύνδεσης με τη συσκευή %1$s</string>
+    <string name="pbap_account_type">com.android.bluetooth.pbapsink</string>
     <string name="pbap_authentication_timeout_message">Το χρονικό όριο του κλειδιού περιόδου σύνδεσης εισόδου με το %1$s έληξε</string>
     <string name="pbap_notification_group">Κοινοποίηση επαφών μέσω Bluetooth</string>
     <string name="pbap_session_key_dialog_header">Απαιτείται κλειδί περιόδου σύνδεσης Bluetooth</string>
