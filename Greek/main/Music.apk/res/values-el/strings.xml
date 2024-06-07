@@ -384,7 +384,6 @@
     <string name="download_method">Λήψη</string>
     <string name="download_paused_in_power_save_mode">Παύση λήψεων όταν η Εξοικονόμηση μπαταρίας είναι ενεργή</string>
     <string name="download_processing">Γίνεται λήψη…</string>
-    <string name="download_progress">%d%%</string>
     <string name="download_quality">Ποιότητα λήψης</string>
     <string name="download_quality_summary">Πρόσθετες ρυθμίσεις για τραγούδια που κατεβάζετε</string>
     <string name="download_song_quality_title">Ποιότητα ληφθέντων τραγουδιών</string>
@@ -480,9 +479,7 @@
     <string name="exo_media_action_repeat_all_description">Επανάληψη όλων</string>
     <string name="exo_media_action_repeat_off_description">Καμία επανάληψη</string>
     <string name="exo_media_action_repeat_one_description">Επανάληψη ενός κομματιού</string>
-    <string name="exo_track_bitrate">%1$.2f Mbps</string>
     <string name="exo_track_mono">Μονοφωνικό</string>
-    <string name="exo_track_resolution">%1$d × %2$d</string>
     <string name="exo_track_role_alternate">Εναλλακτικό</string>
     <string name="exo_track_role_closed_captions">Υπότιτλοι</string>
     <string name="exo_track_role_commentary">Σχολιασμός</string>
@@ -943,7 +940,6 @@
     <string name="mtrl_picker_a11y_next_month">Αλλαγή στον επόμενο μήνα</string>
     <string name="mtrl_picker_a11y_prev_month">Αλλαγή στον προηγούμενο μήνα</string>
     <string name="mtrl_picker_announce_current_selection">Τρέχουσα επιλογή: %1$s</string>
-    <string name="mtrl_picker_confirm">@android:string/ok</string>
     <string name="mtrl_picker_date_header_selected">%1$s</string>
     <string name="mtrl_picker_date_header_title">Επιλογή ημερομηνίας</string>
     <string name="mtrl_picker_date_header_unselected">Επιλεγμένη ημερομηνία</string>
@@ -1310,7 +1306,6 @@
     <string name="privacy_desc">Πολιτική Απορρήτου (υποχρεωτικό)</string>
     <string name="privacy_policy">Πολιτική Απορρήτου</string>
     <string name="privacy_policy_title_asm">Ένας κόσμος μουσικής στα χέρια σας</string>
-    <string name="privacy_policy_url">http://www.miui.com/res/doc/privacy.html?lang=el_GR</string>
     <string name="privacy_request_desc"><Data>"Η Mi Μουσική πρέπει να συλλέξει απαραίτητα προσωπικά δεδομένα για να σας παρέχει υπηρεσίες online streaming. Μπορείτε να μάθετε πως διαχειριζόμαστε τα δεδομένα που συλλέγουμε στην &lt;a href=\"%1$s\">Πολιτική Απορρήτου&lt;/a>. Μπορείτε να ανακαλέσετε τη συγκατάθεσή σας στην Πολιτική Απορρήτου της Mi Μουσικής στις Ρυθμίσεις οποιαδήποτε στιγμή.
 Διαβάστε και αποδεχτείτε τη &lt;a href=\"%2$s\">Συμφωνία Χρήστη&lt;/a> και την &lt;a href=\"%1$s\">Πολιτική Απορρήτου&lt;/a> μας πριν χρησιμοποιήσετε τη Mi Μουσική.
 Εάν δεν συμφωνήσετε με τις πιο πάνω υπηρεσίες, δεν θα μπορείτε να χρησιμοποιείτε ορισμένες λειτουργίες αυτής της εφαρμογής. Ωστόσο, οι βασικές της λειτουργίες θα εξακολουθήσουν να είναι διαθέσιμες."</Data></string>
@@ -1487,7 +1482,6 @@
     <string name="start_to_download">Γίνεται λήψη…</string>
     <string name="start_to_play">Γίνεται προετοιμασία αναπαραγωγής…</string>
     <string name="start_update">Γίνεται εγκατάσταση νέας έκδοσης…</string>
-    <string name="status_bar_notification_info_overflow">999+</string>
     <string name="storage_cloned_app">Χώρος αποθήκευσης για διπλότυπες εφαρμογές</string>
     <string name="storage_space_permissions_for_display">Πρόσβαση στον χώρο αποθήκευσης της συσκευής: για σάρωση, προβολή και αναπαραγωγή τοπικών αρχείων</string>
     <string name="streamloadingtext">Σύνδεση στο %s</string>
@@ -1648,7 +1642,6 @@
     <string name="upload_playlist_to_hungama_title">Συγχρονίστε διαδικτυακά τραγούδια στο hungama για να έχετε πρόσβαση σε αυτά σε άλλες συσκευές όπου χρησιμοποιείτε τον Λογαριασμό Xiaomi σας.</string>
     <string name="upload_playlist_to_hungama_toast">Τα διαδικτυακά τραγούδια θα συγχρονιστούν με το hungama</string>
     <string name="user_agreement">Συμφωνία Χρήστη</string>
-    <string name="user_agreement_url">http://www.miui.com/res/doc/eula.html?lang=el_GR</string>
     <string name="user_experience_program_open">Λόγω περιορισμών πνευματικών δικαιωμάτων, πρέπει να εγγραφείτε στο Πρόγραμμα Εμπειρίας Χρήστη για να μπορείτε να αναπαράγετε τραγούδια που έχετε κατεβάσει. Μπορείτε να το κάνετε αυτό στις Ρυθμίσεις > Κωδικοί πρόσβασης &amp; ασφάλεια > Απόρρητο > Εγγραφείτε στο Πρόγραμμα Εμπειρίας Χρήστη.</string>
     <string name="user_playlist_plaza">Λίστες αναπαραγωγής</string>
     <string name="user_privacy_dialog_negative_text">Ακύρωση</string>

@@ -386,7 +386,6 @@
     <string name="file_size">Μέγεθος:</string>
     <string name="file_title">Όνομα:</string>
     <string name="file_width_height">Μέγεθος:</string>
-    <string name="flatshow_page_no">%1$d</string>
     <string name="flight">Πτήση</string>
     <string name="fmt_chinese_date">N月e</string>
     <string name="fmt_date">D</string>
@@ -1214,7 +1213,6 @@
     <string name="send_signature_confirm_dialog_title">Αποστολή μηνύματος</string>
     <string name="send_sms">Αποστολή μηνύματος</string>
     <string name="send_to">Προς:</string>
-    <string name="send_to_index_contact">%1$s/%2$s</string>
     <string name="sent_at_time">Έγινε αποστολή στις: %1s</string>
     <string name="sent_label">"Στάλθηκε: "</string>
     <string name="service_abandon_alert">Προσοχή</string>

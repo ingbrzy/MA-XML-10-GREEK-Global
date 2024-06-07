@@ -66,7 +66,6 @@
     <string name="copies_increase">Ένα αντίγραφο επιπλέον</string>
     <string name="copy">Αντιγραφή</string>
     <string name="could_not_create_file">Δεν ήταν δυνατή η δημιουργία του αρχείου</string>
-    <string name="current_page_template">%1$d/%2$d</string>
     <string name="date_picker_label_day" />
     <string name="date_picker_label_month" />
     <string name="date_picker_label_year" />
@@ -271,7 +270,6 @@
     <string name="printer_busy">Ο εκτυπωτής είναι απασχολημένος</string>
     <string name="printer_error">Σφάλμα εκτυπωτή</string>
     <string name="printer_error_msg">Σφάλμα εκτυπωτή: %1$s</string>
-    <string name="printer_extended_description_template">%1$s - %2$s</string>
     <string name="printer_info_desc">Περισσότερες πληροφορίες σχετικά με αυτόν τον εκτυπωτή</string>
     <string name="printer_notification_error_title">Αδυναμία εκτύπωσης%1$s</string>
     <string name="printer_unavailable">Ο εκτυπωτής δεν είναι διαθέσιμος</string>

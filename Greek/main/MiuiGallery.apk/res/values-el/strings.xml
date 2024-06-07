@@ -942,7 +942,6 @@
     <string name="face_name_edit">Επεξεργασία</string>
     <string name="face_name_input">Εισαγωγή ονόματος</string>
     <string name="face_recommend">Προτάσεις</string>
-    <string name="face_recommend_group_number">%1$d/%2$d</string>
     <string name="fail_hint">Αδυναμία ολοκλήρωσης λειτουργίας</string>
     <string name="fail_reason_migrate">Επεξεργασία στοιχείων… Περιμένετε ένα με δύο λεπτά και προσπαθήστε ξανά.</string>
     <string name="fail_to_pick_email">Μη έγκυρη διεύθυνση email</string>
@@ -958,7 +957,6 @@
     <string name="feedback_my_reports">Ανατροφοδότηση</string>
     <string name="feedback_problem">Αναφορά προβλήματος</string>
     <string name="feedback_suggest">Υποβολή πρότασης</string>
-    <string name="fileSizeSuffix">%1$s%2$s</string>
     <string name="finish_create_baby_album_toast">Δημιουργήθηκε ένα άλμπουμ για \"%s\" στο Xiaomi Cloud</string>
     <string name="finish_fill_baby">Δημιουργία</string>
     <string name="first_delete_media_for_cloud">Τα επιλεγμένα στοιχεία θα αφαιρεθούν από το σύννεφο και από όλες τις συγχρονισμένες συσκευές στα στοιχεία που έχουν διαγραφεί πρόσφατα, και θα διαγραφούν μόνιμα μετά από %d ημέρες εκτός εάν έχετε ένα πρόγραμμα αποθήκευσης στο σύννεφο. Διαγραφή ούτως ή άλλως;</string>
@@ -1068,7 +1066,6 @@
     <string name="grant_permission_go_and_set">Ρύθμιση</string>
     <string name="grant_permission_go_and_set_2">Ρυθμίσεις</string>
     <string name="grant_permission_go_and_set_3">Ρυθμίσεις</string>
-    <string name="grant_permission_item">\"%s\"</string>
     <string name="grant_permission_manage_storage">Απαιτούνται άδειες</string>
     <string name="grant_permission_manage_storage_unlock">Ξεκλειδώστε τη συσκευή σας και επιτρέψτε σε αυτήν την εφαρμογή να έχει πρόσβαση σε όλα τα αρχεία για να είναι δυνατή η προβολή στοιχείων.</string>
     <string name="grant_permission_shortcut">Επιτρέψτε σε αυτήν την εφαρμογή να δημιουργήσει πρώτα συντομεύσεις Αρχικής οθόνης.</string>
@@ -1750,7 +1747,6 @@
     <string name="people_page_label">Άτομα</string>
     <string name="people_page_photo">Μικρογραφία ενός ατόμου</string>
     <string name="people_page_unname">Χωρίς όνομα</string>
-    <string name="percent_sign">%</string>
     <string name="permission_account_desc">Για σύνδεση και διαχείριση του λογαριασμού συστήματος</string>
     <string name="permission_account_name">Πρόσβαση σε λογαριασμούς</string>
     <string name="permission_clipboard_desc">Για πρόσβαση και αποθήκευση στοιχείων στο πρόχειρο</string>
@@ -2156,7 +2152,6 @@
     <string name="share_album_cancel_share">Διακοπή κοινοποίησης</string>
     <string name="share_album_change_background">Αλλαγή φωτογραφίας φόντου</string>
     <string name="share_album_create_failed">Αδυναμία δημιουργίας άλμπουμ κοινής χρήσης</string>
-    <string name="share_album_create_processing">@string/cloud_bacup_disable_processing</string>
     <string name="share_album_exit_button_text">Διακοπή κοινοποίησης</string>
     <string name="share_album_exit_confirm">Εάν συνεχίσετε, δεν θα μπορείτε πλέον να έχετε πρόσβαση σε όλα τα στοιχεία αυτού του άλμπουμ. Αποθηκεύστε όλα τα σημαντικά στοιχεία πριν φύγετε.</string>
     <string name="share_album_exit_confirm_title">Εγκατάλειψη αυτής της ομάδας;</string>
@@ -2243,7 +2238,6 @@
     <string name="share_with_family">Κοινοποίηση στην οικογένεια</string>
     <string name="sharer_quota_fulfiled">Έχετε ήδη κοινοποιήσει αυτό το άλμπουμ με τον μέγιστο αριθμό ατόμων.</string>
     <string name="show_cloud_albumlist_summary">Νέα στοιχεία από επιλεγμένα άλμπουμ δε θα μεταφορτωθούν στο σύννεφο μετά την απενεργοποίηση του συγχρονισμού.</string>
-    <string name="show_cloud_albumlist_title">@string/album_cloud_list_page_title</string>
     <string name="show_hidden_album_summary">Προβολή και διαχείριση κρυφών άλμπουμ</string>
     <string name="show_hidden_album_title">Προβολή κρυφών άλμπουμ</string>
     <string name="show_in_other_albums_disable_toast_long_press_menu">Αφαιρέθηκε επιτυχώς. Μπορείτε να δείτε αυτό το στοιχείο ανάμεσα στα \"Άλμπουμ\" τώρα.</string>

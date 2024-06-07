@@ -875,7 +875,6 @@
     <string name="set_pattern">Αναβαθμίστε τον κωδικό σας</string>
     <string name="set_pattern_btn">Ορισμός</string>
     <string name="set_pattern_msg">Ορίστε ξανά τον κωδικό σας. Ο κωδικός Προστασίας απορρήτου λειτουργεί επίσης και για φωτογραφίες, μηνύματα και σημειώσεις.</string>
-    <string name="settings">@string/server_control_settings</string>
     <string name="size_lv1">Μικρότερο από %d KB</string>
     <string name="size_lv2" formatted="false">%1d KB - %2d MB</string>
     <string name="size_lv3" formatted="false">%1d MB - %2d MB</string>

@@ -157,7 +157,6 @@
     <string name="dynamic_weather">Καιρός</string>
     <string name="early_morning">Πρωί</string>
     <string name="edit_city">Διαχείριση πόλεων</string>
-    <string name="empty">" "</string>
     <string name="empty_view_net_loading">Γίνεται ενημέρωση…</string>
     <string name="empty_view_net_unavailable">Αδυναμία σύνδεσης στο δίκτυο</string>
     <string name="empty_view_refresh">Προσπαθήστε ξανά</string>
@@ -267,7 +266,6 @@
     <string name="friday_short">Παρ</string>
     <string name="friday_shortest">Παρ</string>
     <string name="hourly_forcast_now">Τώρα</string>
-    <string name="hourly_forecast_bottom_aqi_else">%1$s</string>
     <string name="hourly_forecast_date">d/Μ</string>
     <string name="index_item_experience_now">Εγκατάσταση τώρα</string>
     <string name="indices_title_chance_of_rain">Πιθανότητα βροχής</string>
@@ -278,10 +276,7 @@
     <string name="indices_wind_direction_north">Β</string>
     <string name="indices_wind_direction_south">Ν</string>
     <string name="indices_wind_direction_west">Δ</string>
-    <string name="install_progress">%1$s%%</string>
     <string name="international_details_uv_index_title">Δείκτης UV</string>
-    <string name="item_city_list_region_no_data">-- / --</string>
-    <string name="item_city_list_temperature_no_data">--</string>
     <string name="location_provider_btn_text">Ενεργοποίηση υπηρεσιών τοποθεσίας</string>
     <string name="location_tag">Εντοπισμός</string>
     <string name="manager_city_option_add_home">Προσθήκη στην αρχική σελίδα</string>
@@ -434,7 +429,6 @@
     <string name="share_button">Κοινοποίηση</string>
     <string name="share_menu_title">Κοινοποίηση</string>
     <string name="share_subject">Κοινοποίηση</string>
-    <string name="share_weather_desc_alert">%1$s%2$s</string>
     <string name="share_weather_desc_split">,</string>
     <string name="share_weather_save_pic_fail">Αδυναμία λήψης στιγμιότυπου οθόνης</string>
     <string name="shortcut_short_label_24_hour_forecast">%d-ωρη πρόβλεψη</string>
